@@ -1,0 +1,15 @@
+Data do sistema operacional: 2024/04/18 15:27
+Data do primeiro registro de venda: 19/04/2024
+Data do último registro de venda: 19/04/2024
+Quantidade total de itens diferentes vendidos: 36
+10 primeiras linhas do arquivo de vendas:
+133,caneta esferográfica,20,1.00,19/04/2024
+134,agenda executiva,8,12.00,19/04/2024
+135,corretivo líquido,15,1.00,19/04/2024
+136,transferidor,12,2.00,19/04/2024
+137,lapiseira,25,2.00,19/04/2024
+138,estojo escolar,5,9.00,19/04/2024
+139,apontador duplo,8,2.00,19/04/2024
+140,marcador de texto neon,10,3.00,19/04/2024
+141,cola bastão,18,2.00,19/04/2024
+142,tesoura escolar,30,5.00,19/04/2024

@@ -1,0 +1,2 @@
+
+27 15 * * 1-4 /bin/bash /home/andrey/andrey-amaral-compass-uol-1/Sprint01/Desafio/Etapa-3/ecommerce/processamento_de_vendas.sh

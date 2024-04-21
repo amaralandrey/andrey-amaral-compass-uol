@@ -1,0 +1,64 @@
+Data do sistema operacional: 2024/04/16 15:27
+Data do primeiro registro de venda: 01/01/2023
+Data do último registro de venda: 31/01/2023
+Quantidade total de itens diferentes vendidos: 66
+10 primeiras linhas do arquivo de vendas:
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+10,casaco,2,150.00,10/01/2023
+
+Data do sistema operacional: 2024/04/17 15:27
+Data do primeiro registro de venda: 18/04/24
+Data do último registro de venda: 18/04/24
+Quantidade total de itens diferentes vendidos: 66
+10 primeiras linhas do arquivo de vendas:
+67,caneta,10,1.00,18/04/24
+68,caderno,5,5.00,18/04/24
+69,borracha,20,0.50,18/04/24
+70,régua,8,2.00,18/04/24
+71,lápis,15,0.75,18/04/24
+72,estojo,3,8.00,18/04/24
+73,apontador,12,1.00,18/04/24
+74,marca-texto,6,3.00,18/04/24
+75,cola,10,2.00,18/04/24
+76,tesoura,4,4.00,18/04/24
+
+Data do sistema operacional: 2024/04/18 15:27
+Data do primeiro registro de venda: 19/04/2024
+Data do último registro de venda: 19/04/2024
+Quantidade total de itens diferentes vendidos: 36
+10 primeiras linhas do arquivo de vendas:
+133,caneta esferográfica,20,1.00,19/04/2024
+134,agenda executiva,8,12.00,19/04/2024
+135,corretivo líquido,15,1.00,19/04/2024
+136,transferidor,12,2.00,19/04/2024
+137,lapiseira,25,2.00,19/04/2024
+138,estojo escolar,5,9.00,19/04/2024
+139,apontador duplo,8,2.00,19/04/2024
+140,marcador de texto neon,10,3.00,19/04/2024
+141,cola bastão,18,2.00,19/04/2024
+142,tesoura escolar,30,5.00,19/04/2024
+
+Data do sistema operacional: 2024/04/22 15:27
+Data do primeiro registro de venda: 20/04/24
+Data do último registro de venda: 20/04/24
+Quantidade total de itens diferentes vendidos: 65
+10 primeiras linhas do arquivo de vendas:
+199,caneca personalizada,10,8.00,20/04/24
+200,almofada decorativa,5,15.00,20/04/24
+201,porta-retratos,12,10.00,20/04/24
+202,caneta tinteiro,8,20.00,20/04/24
+203,relógio de parede,6,25.00,20/04/24
+204,porta-chaves,15,5.00,20/04/24
+205,luminária de mesa,7,18.00,20/04/24
+206,vaso decorativo,10,12.00,20/04/24
+207,tapete,4,30.00,20/04/24
+208,caixa organizadora,8,7.00,20/04/24
+

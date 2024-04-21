@@ -1,0 +1,15 @@
+Data do sistema operacional: 2024/04/22 15:27
+Data do primeiro registro de venda: 20/04/24
+Data do último registro de venda: 20/04/24
+Quantidade total de itens diferentes vendidos: 65
+10 primeiras linhas do arquivo de vendas:
+199,caneca personalizada,10,8.00,20/04/24
+200,almofada decorativa,5,15.00,20/04/24
+201,porta-retratos,12,10.00,20/04/24
+202,caneta tinteiro,8,20.00,20/04/24
+203,relógio de parede,6,25.00,20/04/24
+204,porta-chaves,15,5.00,20/04/24
+205,luminária de mesa,7,18.00,20/04/24
+206,vaso decorativo,10,12.00,20/04/24
+207,tapete,4,30.00,20/04/24
+208,caixa organizadora,8,7.00,20/04/24

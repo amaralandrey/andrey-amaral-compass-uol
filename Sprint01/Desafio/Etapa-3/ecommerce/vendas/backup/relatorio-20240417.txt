@@ -1,0 +1,15 @@
+Data do sistema operacional: 2024/04/17 15:27
+Data do primeiro registro de venda: 18/04/24
+Data do último registro de venda: 18/04/24
+Quantidade total de itens diferentes vendidos: 66
+10 primeiras linhas do arquivo de vendas:
+67,caneta,10,1.00,18/04/24
+68,caderno,5,5.00,18/04/24
+69,borracha,20,0.50,18/04/24
+70,régua,8,2.00,18/04/24
+71,lápis,15,0.75,18/04/24
+72,estojo,3,8.00,18/04/24
+73,apontador,12,1.00,18/04/24
+74,marca-texto,6,3.00,18/04/24
+75,cola,10,2.00,18/04/24
+76,tesoura,4,4.00,18/04/24
