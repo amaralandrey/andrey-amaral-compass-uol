@@ -32,32 +32,24 @@
 # Evidências
 ## Nesa seção, apresento as evidências produzidas durante a realização das atividades da sprint.
 
-<br><br>
-
 ### Arquivos csv
 Além dos dados de vendas fornecidos inicialmente, adicionei também ao diretório Evidências as três alterações completas que foram requeridas para a execução agendada do script de processamento de vendas. 
-
-<br><br>
 
 ### Atividades com o Github
 Nos foi requerida a realização de atividades utilizando o Github.
 
 - Etapa 01 - Criar um repositório privado e adicionar colaboradores.
 
-![Repositorio criado](andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa1.1.png)
+![Repositorio criado](Sprint01/Evidencias/etapa1.1.png)
 
-![Colaboradores adicionados](andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa1.2.png)
-
-<br><br>
+![Colaboradores adicionados](Sprint01/Evidencias/etapa1.2.png)
 
 - Etapa 02 - Escolher um editor de código e integrar ao Github.
 O editor que escolhi foi o VSCode.
 
-![Instalando plugging no editor](andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa2.1.png)
+![Instalando plugging no editor](Sprint01/Evidencias/etapa2.1.png)
 
-![Clonando o repositorio para o ambiente de integracao](andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa2.2.png)
-
-<br><br>
+![Clonando o repositorio para o ambiente de integracao](Sprint01/Evidencias/etapa2.2.png)
 
 - Etapa 03 - Criar um README e escrever apresentação e resumos.
 O Markdown foi criado e está como o README do repositório que foi criado.
@@ -68,10 +60,6 @@ Foram realizados durante a sprint.
 # Certificados
 ## Nesta seção, apresento as últimas telas dos dois cursos que deveriam ser assistidos na sprint 01. Não foram realizados cursos externos.
 
-<br><br>
+![Tela do curso de linux](Sprint01/Certificados/conclusao-curso-linux.png)
 
-![Tela do curso de linux](andrey-amaral-compass-uol-1/Sprint01/Certificados/conclusao-curso-linux.png)
-
-<br><br>
-
-![Tela do curso de Git/Github](andrey-amaral-compass-uol-1/Sprint01/Certificados/conclusao-curso-git.png)
+![Tela do curso de Git/Github](Sprint01/Certificados/conclusao-curso-git.png)
