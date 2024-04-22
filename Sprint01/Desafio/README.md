@@ -23,7 +23,7 @@
 **cd vendas/backup && mv dados_de_vendas-${data_execucao}.csv backup-dados-${data_execucao}.csv**  
 
 - São realizadas operações nos dados do arquivo de backup, como a obtenção da primeira e última venda, assim como o cálculo do total de itens vendidos.  
-__primeira_venda=$(awk -F',' 'NR==2 {print $5}' backup-dados-${data_execucao}.csv)  
+__primeira_venda=$(awk -F',' NR==2 {print $5} backup-dados-${data_execucao}.csv)  
 ultima_venda=$(awk -F',' 'NR==67 {print $5}' backup-dados-${data_execucao}.csv)  
 total_itens=$(awk -F',' 'NR>1 {print $2}' backup-dados-${data_execucao}.csv | sort | uniq | wc -l)__
 
