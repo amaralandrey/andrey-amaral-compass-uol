@@ -17,9 +17,9 @@
 
 2. Agendar a execução do processamento.
 - Para agendar a execução da tarefa, foi utilizado o Crontab. 
-- A instrução de agendamento utilizada foi: "27 15 * * 1-4 /bin/bash /home/andrey/andrey-amaral-compass-uol-1/Sprint01/Desafio/Etapa-3/ecommerce/processamento_de_vendas.sh'. 
+- A instrução de agendamento utilizada foi: "27 15 * * 1-4 /bin/bash /home/andrey/andrey-amaral-compass-uol-1/Sprint01/Desafio/Etapa-3/ecommerce/processamento_de_vendas.sh". 
 
-![Print da instrução registrada no Crontab](/home/andrey/andrey-amaral-compass-uol-1/Sprint01/Desafio/Etapa-2/desafio-etapa2.png)
+![Print da instrução registrada no Crontab](andrey-amaral-compass-uol-1/Sprint01/Desafio/Etapa-2/desafio-etapa2.png)
 
 3. Criar novo relatório. 
 - Foram criadas três novas versões do arquivo dados_de_vendas.csv.
@@ -44,18 +44,18 @@ Nos foi requerida a realização de atividades utilizando o Github.
 
 - Etapa 01 - Criar um repositório privado e adicionar colaboradores.
 
-![Repositorio criado](/home/andrey/andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa1.1.png)
+![Repositorio criado](andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa1.1.png)
 
-![Colaboradores adicionados](/home/andrey/andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa1.2.png)
+![Colaboradores adicionados](andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa1.2.png)
 
 <br><br>
 
 - Etapa 02 - Escolher um editor de código e integrar ao Github.
 O editor que escolhi foi o VSCode.
 
-![Instalando plugging no editor](/home/andrey/andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa2.1.png)
+![Instalando plugging no editor](andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa2.1.png)
 
-![Clonando o repositorio para o ambiente de integracao](/home/andrey/andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa2.2.png)
+![Clonando o repositorio para o ambiente de integracao](andrey-amaral-compass-uol-1/Sprint01/Evidencias/etapa2.2.png)
 
 <br><br>
 
@@ -70,8 +70,8 @@ Foram realizados durante a sprint.
 
 <br><br>
 
-![Tela do curso de linux](/home/andrey/andrey-amaral-compass-uol-1/Sprint01/Certificados/conclusao-curso-linux.png)
+![Tela do curso de linux](andrey-amaral-compass-uol-1/Sprint01/Certificados/conclusao-curso-linux.png)
 
 <br><br>
 
-![Tela do curso de Git/Github](/home/andrey/andrey-amaral-compass-uol-1/Sprint01/Certificados/conclusao-curso-git.png)
+![Tela do curso de Git/Github](andrey-amaral-compass-uol-1/Sprint01/Certificados/conclusao-curso-git.png)
