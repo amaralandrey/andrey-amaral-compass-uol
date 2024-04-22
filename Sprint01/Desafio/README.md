@@ -23,11 +23,11 @@
 **cd vendas/backup && mv dados_de_vendas-${data_execucao}.csv backup-dados-${data_execucao}.csv**  
 
 - São realizadas operações nos dados do arquivo de backup, como a obtenção da primeira e última venda, assim como o cálculo do total de itens vendidos.  
-**primeira_venda=$(awk -F',' 'NR==2 {print $5}' backup-dados-${data_execucao}.csv)**  
-**ultima_venda=$(awk -F',' 'NR==67 {print $5}' backup-dados-${data_execucao}.csv)**  
-**total_itens=$(awk -F',' 'NR>1 {print $2}' backup-dados-${data_execucao}.csv | sort | uniq | wc -l)**  
+__primeira_venda=$(awk -F',' 'NR==2 {print $5}' backup-dados-${data_execucao}.csv)  
+ultima_venda=$(awk -F',' 'NR==67 {print $5}' backup-dados-${data_execucao}.csv)  
+total_itens=$(awk -F',' 'NR>1 {print $2}' backup-dados-${data_execucao}.csv | sort | uniq | wc -l)__
 
-- O relatório é criado.
+- O relatório é criado.  
 **echo "Data do sistema operacional: ${data_sistema}" >> relatorio.txt**  
 **echo "Data do primeiro registro de venda: ${primeira_venda}" >> relatorio.txt**  
 **echo "Data do último registro de venda: ${ultima_venda}" >> relatorio.txt**  
