@@ -19,7 +19,7 @@
 - Para agendar a execução da tarefa, foi utilizado o Crontab. 
 - A instrução de agendamento utilizada foi: "27 15 * * 1-4 /bin/bash /home/andrey/andrey-amaral-compass-uol-1/Sprint01/Desafio/Etapa-3/ecommerce/processamento_de_vendas.sh'. 
 
-![Print da instrução registrada no Crontab](/home/andrey/andrey-amaral-compass-uol-1/Sprint01/Desafio/Etapa-2/desafio-etapa2.png)
+![Print da instrução registrada no Crontab](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint01/Desafio/Etapa-2/desafio-etapa2.png)
 
 3. Criar novo relatório. 
 - Foram criadas três novas versões do arquivo dados_de_vendas.csv.
