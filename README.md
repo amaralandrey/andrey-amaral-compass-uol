@@ -13,5 +13,14 @@ Meus hobbies são assistir filmes (meus gêneros favoritos são terror, suspense
 
 - Linux para desenvolvedores
 - Git e Github do básico ao avançado
-- Métodos ágeis de A a Z
+- Métodos ágeis de A a Z  
+
+### Sprint 02
+
+- SQL para análise de dados  
+- Curso Sales Accreditation (Business)  
+- Métodos ágeis de A a Z  
+
+
+
 
