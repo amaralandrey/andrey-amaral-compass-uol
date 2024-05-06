@@ -1,0 +1,49 @@
+
+CREATE TABLE dim_cliente (
+    idCliente INTEGER PRIMARY KEY,
+    nomeCliente VARCHAR(100),
+    cidadeCliente VARCHAR(40),
+    estadoCliente VARCHAR(40),
+    paisCliente VARCHAR(40)
+);
+
+CREATE TABLE dim_carro (
+    idCarro INTEGER PRIMARY KEY,
+    kmCarro INTEGER,
+    classiCarro VARCHAR(50),
+    marcaCarro VARCHAR(80),
+    modeloCarro VARCHAR(80),
+    anoCarro INTEGER,
+    idcombustivel INTEGER,
+    FOREIGN KEY (idcombustivel) REFERENCES dim_combustivel(idcombustivel)
+);
+
+CREATE TABLE dim_combustivel (
+    idcombustivel INTEGER PRIMARY KEY,
+    tipoCombustivel VARCHAR(20)
+);
+
+CREATE TABLE dim_vendedor (
+    idVendedor INTEGER PRIMARY KEY,
+    nomeVendedor VARCHAR(15),
+    sexoVendedor SMALLINT,
+    estadoVendedor VARCHAR(40)
+);
+
+CREATE TABLE fato_locacao (
+    idLocacao INTEGER,
+    idVendedor INTEGER,
+    idCliente INTEGER,
+    idCarro INTEGER,
+    dataLocacao DATETIME,
+    horaLocacao TIME,
+    qtdDiaria INTEGER,
+    vrDiaria DECIMAL(18, 2),
+    dataEntrega DATE,
+    horaEntrega TIME,
+    PRIMARY KEY (idLocacao, idVendedor, idCliente, idCarro),
+    FOREIGN KEY (idVendedor) REFERENCES dim_vendedor(idVendedor),
+    FOREIGN KEY (idCliente) REFERENCES dim_cliente(idCliente),
+    FOREIGN KEY (idCarro) REFERENCES dim_carro(idCarro)
+);
+
