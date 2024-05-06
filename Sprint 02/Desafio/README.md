@@ -19,7 +19,7 @@ Cardinalidade:
 Por fim, a terceira forma normal (3FN) determina que a relação esteja na 2FN e que as dependências transitivas sejam eliminadas. Uma dependência transitiva ocorre quando um atributo em uma relação é determinado por outro atributo que não é uma chave primária. Nas relações criadas, todas as entidades dependem unicamente de suas respectivas chaves primárias, logo o esquema, após a transformação da 2FN, também está na 3FN.  
 
 DER da base de dados concessionária após a normalização  
-![Texto Alternativo](Sprint 02/Desafio/etapa-1/der-concessionaria-normalizada.jpg)
+![Texto Alternativo](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2002/Desafio/etapa-1/der-concessionaria-normalizada.jpg)
 
 As queries para a criação da base normalizada está na pasta etapa-1 em TXT e SQLITE.  
 
@@ -32,7 +32,7 @@ O modelo dimensional criado usa as relações cliente, vendedor, carro e combust
 O modelo utilizado foi o snowflake, pois em razão da dimensão carro receber uma chave estrangeira da dimensão combustível não consegui usar o modelo estrela.  
 
 Desenho do modelo dimensiional   
-![Texto Alternativo](Sprint 02/Desafio/etapa-2/modelo-dimensional-concessionaria.jpg)
+![Texto Alternativo](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2002/Desafio/etapa-2/modelo-dimensional-concessionaria.jpg)
 
 As queries para a criação da base dimensional está na pasta etapa-2 em TXT e SQLITE.  
 
