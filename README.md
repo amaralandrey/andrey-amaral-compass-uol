@@ -19,8 +19,10 @@ Meus hobbies são assistir filmes (meus gêneros favoritos são terror, suspense
 
 - SQL para análise de dados  
 - Curso Sales Accreditation (Business)  
-- Métodos ágeis de A a Z  
+- Métodos ágeis de A a Z 
 
+### Sprint 03
 
-
-
+- Python 03 - curso completo do básico ao avançado
+- Curso Parceiros da AWS: aspectos econômicos da nuvem
+- Métodos ágeis de A a Z   
