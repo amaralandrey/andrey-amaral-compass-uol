@@ -21,7 +21,7 @@ Para construir a imagem, utilizei o comando:
 
 Como não dei nome ao Dockerfile, o nome da minha imagem ficou como "__sha256:17efab932f3c0d97988c4146264893dd26a4f445c4eb4__".  
 
-![construção-imagem](Sprint 04/Evidencias/etapa-01.1.png)
+![construção-imagem](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2004/Evidencias/etapa-01.1.png)
 
 Para executar a imagem, utilizei o comando: 
 
@@ -29,7 +29,7 @@ Para executar a imagem, utilizei o comando:
 
 A execução da imagem foi realizada com êxito.   
 
-![execucao-imagem](Sprint 04/Evidencias/etapa-01.2.png)
+![execucao-imagem](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2004/Evidencias/etapa-01.2.png)
 
 ### Etapa 02
 
@@ -37,6 +37,10 @@ A etapa 02 consistia em responder à pergunta "é possível reutilizar container
 
 Sim, é possível reutilizar um container, ou seja, utilizar um ambiente já instanciado para uma nova finalidade, embora cada execução do Docker gere um container diferente forma automatica. A reutilização pode ser um instrumento para economizar recursos do sistema e garantir a consistência do mesmo ambiente para situações diferentes.  
 Para reiniciar um container utilizamos o comando __start__ ou o __restart__. O comando start é utilizado para iniciar containers que temos certeza que estão parados, do contrário não geram resultado. Já o comando restart pode ser utilizado em qualquer situação do container.  
+
+![containers-ativos](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2004/Evidencias/etapa-02.1.png)
+
+![reutilizando-containers](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2004/Evidencias/etapa-02.2.png)
 
 ### Etapa 03
 
@@ -75,8 +79,7 @@ A construção dela foi feita com o comando:
 
     docker build -t mascarar-imagens .
     
-  
-- Iniciar o container a partir da imagem e inserir algumas palavras no programa.  
+![construindo-imagem](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2004/Evidencias/etapa-03.1.png)
 
 A execução da imagem foi feita com o comando: 
 
@@ -96,6 +99,8 @@ A execução da imagem foi feita com o comando:
     
     Palavra: Compass/UOL  
     Hash: 5c6dfc08124196816cee4c63312d62c39e0286ba  
+
+![executando-imagem](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2004/Evidencias/etapa-03.2.png)
     
 
 
