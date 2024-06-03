@@ -1,0 +1,9 @@
+Comando utilizados
+
+1 - Construir a imagem
+
+docker build .
+
+2 - Executar a imagem 
+
+docker run sha256:17efab932f3c0d97988c4146264893dd26a4f445c4eb4

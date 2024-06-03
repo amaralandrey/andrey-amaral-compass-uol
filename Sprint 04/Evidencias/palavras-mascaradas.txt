@@ -1,0 +1,16 @@
+
+Palavra: Andrey
+Hash: 9dc3bfc2ddc8e4f4ff5afbbf6f8b138671b13e9d 
+
+Palavra: Amaral
+Hash: f9fa0a3cef3b4cb48eb6ddc3af97aebc4d88fcbc 
+
+Palavra: Miranda
+Hash: b5e016461e6854e4e71c5dcbaf0bf906803336cb 
+
+Palavra: Belém do Pará
+Hash: 51968612527711568a8addeba208909969cea872 
+
+Palavra: Compass/UOL
+Hash: 5c6dfc08124196816cee4c63312d62c39e0286ba 
+

@@ -1,0 +1,9 @@
+Comando utilizados
+
+1 - Construir a imagem
+
+docker build -t mascarar-dados .
+
+2 - Executar a imagem 
+
+docker run -it mascarar-dados
