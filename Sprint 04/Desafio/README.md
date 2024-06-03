@@ -21,11 +21,15 @@ Para construir a imagem, utilizei o comando:
 
 Como não dei nome ao Dockerfile, o nome da minha imagem ficou como "__sha256:17efab932f3c0d97988c4146264893dd26a4f445c4eb4__".  
 
+![construção-imagem](Sprint 04/Evidencias/etapa-01.1.png)
+
 Para executar a imagem, utilizei o comando: 
 
     docker run sha256:17efab932f3c0d97988c4146264893dd26a4f445c4eb4
 
 A execução da imagem foi realizada com êxito.   
+
+![execucao-imagem](Sprint 04/Evidencias/etapa-01.2.png)
 
 ### Etapa 02
 
