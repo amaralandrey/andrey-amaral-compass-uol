@@ -64,3 +64,6 @@ A etapa 03 consistia na construção e execução local do container.
 
 ![Texto alternativo](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2006/Evidencias/evidencia-1.png)
 
+Bucket construído.
+
+![Texto alternativo](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2006/Evidencias/evidencia-2.png)
