@@ -42,6 +42,19 @@ Meus hobbies são assistir filmes (meus gêneros favoritos são terror, suspense
 - Curso-padrão de preparação AWS Certified Cloud Practitioner (CLF-C02)
 
 #### Sprint 06
+
+- Noções básicas de Analytics na AWS – Partes 1 e 2
+- Serverless Analytics
+- Introduction to Amazon Athena
+- AWS Glue Getting Started
+- Amazon EMR Getting Started
+- Amazon Redshift Getting Started
+- Best Practices for Data Warehousing with Amazon Redshift
+- Amazon QuickSight - Getting Started
+
+Nesta sprint foi pedido para que fosse definida uma questão que será utilizada para guiar o desafio final do programa de bolsas.  
+A questão que defini foi: "no gênero de filmes crime, existe relação entre o crime retratado e o resultado de bilheteria?".
+
 #### Sprint 07
 #### Sprint 08
 #### Sprint 09
