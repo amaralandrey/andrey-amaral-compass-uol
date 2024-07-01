@@ -1,0 +1,23 @@
+WITH rank_nomes AS (
+	SELECT
+    	nome,
+    	ano,
+    	ROW_NUMBER() OVER(PARTITION BY ano / 10 ORDER BY total DESC) as rank
+	FROM
+    	meubanco.minhatabela
+	WHERE
+    	ano >= 1950
+)
+
+SELECT
+	ano / 10 * 10 AS decada,
+	nome,
+	rank
+FROM
+	rank_nomes
+WHERE
+	rank <= 3
+ORDER BY
+	decada ASC,
+	rank ASC;
+
