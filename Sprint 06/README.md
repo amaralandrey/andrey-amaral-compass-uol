@@ -17,28 +17,28 @@ Nesta sprint, o desafio teve como objetivo a ingestão de dados em um bucket S3 
   
   - Lab 02: consulta SQL em objeto no S3 AWS utilizando Athena.
   
-      WITH rank_nomes AS (
-      	SELECT
-          	nome,
-          	ano,
-          	ROW_NUMBER() OVER(PARTITION BY ano / 10 ORDER BY total DESC) as rank
-      	FROM
-          	meubanco.minhatabela
-      	WHERE
-          	ano >= 1950
-      )
-      
-      SELECT
-      	ano / 10 * 10 AS decada,
-      	nome,
-      	rank
-      FROM
-      	rank_nomes
-      WHERE
-      	rank <= 3
-      ORDER BY
-      	decada ASC,
-      	rank ASC;
+        WITH rank_nomes AS (
+        	SELECT
+            	nome,
+            	ano,
+            	ROW_NUMBER() OVER(PARTITION BY ano / 10 ORDER BY total DESC) as rank
+        	FROM
+            	meubanco.minhatabela
+        	WHERE
+            	ano >= 1950
+        )
+        
+        SELECT
+        	ano / 10 * 10 AS decada,
+        	nome,
+        	rank
+        FROM
+        	rank_nomes
+        WHERE
+        	rank <= 3
+        ORDER BY
+        	decada ASC,
+        	rank ASC;
 
 ![Texto alternativo](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2006/Exercicios/Lab02/etapa-5.png)
 
