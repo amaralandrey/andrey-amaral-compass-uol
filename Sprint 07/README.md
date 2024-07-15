@@ -7,5 +7,5 @@ O desafio completo está detalhado no diretório.
 
 ## Evidências 
 
-- Evidencia 01: inserção da camada com a biblioteca requests utilizada para implementação do código. 
+- Evidência 01: inserção da camada com a biblioteca requests utilizada para implementação do código. 
 
