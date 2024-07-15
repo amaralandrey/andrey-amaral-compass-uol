@@ -59,3 +59,12 @@ Por último, utilizei uma função recursiva para requisitar os dados, salvar em
             else:
                 print(f'Erro na requisição da página {page}: {response.status_code}')
 
+
+Criação do script da função lambda:
+
+![evidencia-2](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2007/Evidencias/evidencia-02.png)
+
+
+Resultado da execução da função lambda:
+
+![evidencia-3](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2007/Evidencias/evidencia-03.png)
