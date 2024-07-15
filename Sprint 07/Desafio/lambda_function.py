@@ -7,16 +7,17 @@ from datetime import datetime
 api_key = 'key'
 base_url = 'https://api.themoviedb.org/3/discover/movie'
 
+# dicionário com parâmetros a serem referenciados na requsição da API
 parametros = {
     'api_key': api_key,
-    'with_genres': '80',  
-    'sort_by': 'popularity.desc',  
-    'page': 1  
+    'with_genres': '80',  # id do genêro de filmes Crime
+    'sort_by': 'popularity.desc', # parâmetro de busca dos filmes de crime mais populares
+    'page': 1  # página de resultados retornados
 }
 
 
 s3_bucket_nome = 'data-lake-andrey-amaral'
-s3_caminho = 'Raw/TMDB/JSON/'
+s3_caminho = 'Raw/TMDB/JSON/' #camada para a ingestão dos dados que serão coletados
 
 
 s3_cliente = boto3.client('s3',
@@ -25,11 +26,13 @@ s3_cliente = boto3.client('s3',
     aws_session_token = 'token'
 )
 
+# parâmetros de data para a formação das camadas conforme o momento da execução
 data_atual = datetime.now()
 ano = data_atual.year
 mes = data_atual.month
 dia = data_atual.day
 
+# função recursiva para requisitar os 100 filmes de crime mais populares, salvar em 5 arquivos json com 20 registros e armazenamento desses dados no data lake S3.
 def ingestao_api_tmdb_to_s3(movies, page):
     
     filename = f'movies_page_{page}.json'
