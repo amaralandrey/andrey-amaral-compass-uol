@@ -16,7 +16,7 @@ Em seguida zipei a pasta com o comando:
 A pasta original e a pasta zipada no subdiretório 'layer-utilizada'.  
 
 Por fim, fiz a adição da camada pelo console da AWS.  
-![evidencia-1](URL_da_imagem)
+![evidencia-1](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2007/Evidencias/evidencia-01.png)
 
 ### Requisitos 02, 03 e 04 - Implementar o código Python para o consumo dos dados da API TMDB, buscar dados e agrupar e persistir os dados no S3.
 
