@@ -8,4 +8,5 @@ O desafio completo está detalhado no diretório.
 ## Evidências 
 
 - Evidência 01: inserção da camada com a biblioteca requests utilizada para implementação do código. 
-
+- Evidência 02: criação do script da função lambda.
+- Evidência 03: resultado da execução da função lambda. 
