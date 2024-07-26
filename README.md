@@ -1,3 +1,4 @@
+
 ## APRESENTAÇÃO
 
 Olá, eu sou o Andrey Amaral Miranda, moro em Belém do Pará. Sou estudante do curso de Sistemas de Informação na Universidade Federal do Pará. Essa é a minha segunda graduação, pois sou formado em Direito.
@@ -62,6 +63,16 @@ A questão que defini foi:
 - Formação Spark com PySpark
 
 #### Sprint 08
+
+- AWS - Tutoriais Técnicos - Analytics
+
+Durante esta sprint, decidi mudar a questão utilizada para o desafio final para:  
+
+    "Considerando que um filme comumente se encaixa em mais de um gênero, 
+    quais os gêneros mais comumente combinados com o gênero crime? 
+    quais são as combinações com o gênero crime que geram a maior e a menor receita de bilheteria?".
+
 #### Sprint 09
+
 #### Sprint 10
 
