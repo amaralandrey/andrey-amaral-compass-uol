@@ -12,5 +12,8 @@ Além disso, redefini as questões norteadoras do meu desafio final, que agora s
 
 ## Evidências 
 
+- Subdiretório "jsons":  
+Contém os jsons resultantes da requisição à API do TMDB dos 10.000 filmes pertencentes ao gênero crime. 
+
 
 
