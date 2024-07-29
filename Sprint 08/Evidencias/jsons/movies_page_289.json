@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/6TR2ENMgujpIohhAFS76Dcf2Mko.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 577668,
+        "original_language": "pl",
+        "original_title": "Bicz Boży",
+        "overview": "A young boy sends anonymous threats to various troublemakers around town, hoping that they will report themeselves to the police and grant his older brother, a militia officer a transfer to Warsaw.",
+        "popularity": 10.775,
+        "poster_path": "/rIzjig9b11xFRfDHTOLlwDhrcxc.jpg",
+        "release_date": "1967-07-07",
+        "title": "Bicz Boży",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mTDW1bZhdVUsb0X4bsWSjOff2X4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 30625,
+        "original_language": "en",
+        "original_title": "Take One False Step",
+        "overview": "Catherine Sykes disappears after a midnight drive with Professor Andrew Gentling . When she's presumed murdered, his friend Martha convinces him that he's a prime suspect and should investigate before he's arrested.",
+        "popularity": 10.775,
+        "poster_path": "/54LjTCgvgZgibT8xZkAYeOqm0CC.jpg",
+        "release_date": "1949-08-14",
+        "title": "Take One False Step",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9dUeM71w5noTdEHSuzgBQeE5oET.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            12
+        ],
+        "id": 66163,
+        "original_language": "cn",
+        "original_title": "天使行動",
+        "overview": "Yeung’s poppy fields are torched by a law enforcement task force, she retaliates by ordering police officials assassinated. The Angels break into Yeung’s corporate offices, eventually tracing her headquarters. After Alex Fong’s character is captured and held by Yeung, the Angels mount an assault to rescue him. A complex sub-plot involving an armored car bullion robbery eventually leads the Angels to a final showdown with Yeung and her men.",
+        "popularity": 10.773,
+        "poster_path": "/llVAwZIyQM2pnzM7hpeKUrYJB5L.jpg",
+        "release_date": "1987-03-10",
+        "title": "Iron Angels",
+        "video": false,
+        "vote_average": 6.521,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xBbxYF0fhf7Q7Un5mBGxhfhTJZ8.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 281161,
+        "original_language": "en",
+        "original_title": "Stiletto",
+        "overview": "A rich, jet-setting playboy has a secret life: he's also a professional Mafia hitman. When he decides it's time to retire from that life, he finds that his former employers don't like the idea that someone who knows so much about them won't be under their control anymore, and decide to send their own hitmen to eliminate him.",
+        "popularity": 10.772,
+        "poster_path": "/tkz1MV5fEfeBOeUv1Zyl8iG4qu8.jpg",
+        "release_date": "1969-07-30",
+        "title": "Stiletto",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7r9dXgCcu9Bi0Kb5RIVxELFthim.jpg",
+        "genre_ids": [
+            80,
+            35,
+            18
+        ],
+        "id": 115780,
+        "original_language": "ja",
+        "original_title": "ションベン・ライダー",
+        "overview": "Three high-school students tangle with indulgent yakuza and lackadaisical police as they set out in search of the class bully, who has been kidnapped.",
+        "popularity": 10.769,
+        "poster_path": "/4HnrmPtB2L3Cmofz7bfFMBouIW9.jpg",
+        "release_date": "1983-02-11",
+        "title": "P. P. Rider",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qG5H67VrfHPjrzmKMIAe64Tio5d.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 67431,
+        "original_language": "fr",
+        "original_title": "Gas-oil",
+        "overview": "A trucker encounters a dead body on the road home. He reports the incident to the police, who suspect that Jean was responsible for the death, and his new truck is impounded. To make matters worse, the man's widow accuses him of having robbed her husband, and a gang of sinister crooks are also harassing him.",
+        "popularity": 10.769,
+        "poster_path": "/kzY10XgEZyGSep65n0hzwJ0blD1.jpg",
+        "release_date": "1955-10-18",
+        "title": "Hi-Jack Highway",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dGT9TFaqDJHuXWzMq5Vym1UcKyX.jpg",
+        "genre_ids": [
+            53,
+            27,
+            9648,
+            80
+        ],
+        "id": 1049622,
+        "original_language": "en",
+        "original_title": "It's Not Over",
+        "overview": "After Sarah’s husband Albert dies in a domestic accident, she is given the freedom to move forward with her other lover Max. Soon Max finds something disturbing in Sarah's behaviour, and he begins to question if Sarah isn't the person she says she is? Max then mysteriously disappears, and Sarah’s orderly life is brought into chaos.",
+        "popularity": 10.767,
+        "poster_path": "/iRaStKb3pFXXXrYGdllci4nn2Le.jpg",
+        "release_date": "2022-11-30",
+        "title": "It's Not Over",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/purLFx9MR327mRclyc4sFYjE1cv.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 8439,
+        "original_language": "pt",
+        "original_title": "Ônibus 174",
+        "overview": "Documentary depicts what happened in Rio de Janeiro on June 12th 2000, when bus 174 was taken by an armed young man, threatening to shoot all the passengers. Transmitted live on all Brazilian TV networks, this shocking and tragic-ending event became one of violence's most shocking portraits, and one of the scariest examples of police incompetence and abuse in recent years.",
+        "popularity": 10.76,
+        "poster_path": "/30v64yPfBbNSmnYHShExuWlXUJh.jpg",
+        "release_date": "2002-10-22",
+        "title": "Bus 174",
+        "video": false,
+        "vote_average": 7.403,
+        "vote_count": 124
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mcdftlU0PcLDaKW8uXjqpJFQQ8X.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 41234,
+        "original_language": "en",
+        "original_title": "Blind Alley",
+        "overview": "A gangster takes a doctor and his family hostage.",
+        "popularity": 10.758,
+        "poster_path": "/iFUl2Qbs0RzALetRGB5e5YNSqb.jpg",
+        "release_date": "1939-05-11",
+        "title": "Blind Alley",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jJFRBpnsXTd5N2rxFKaCO12lNr6.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 536413,
+        "original_language": "ja",
+        "original_title": "純平、考え直せ",
+        "overview": "A low-ranking yakuza is given the mission to kill a high-ranking yakuza from a rival group. Wanting recognition, he accepts the assignment, only to meet an enthusiastic office lady.",
+        "popularity": 10.757,
+        "poster_path": "/qzK1axShFbefCWKOEaM8F9OVDmo.jpg",
+        "release_date": "2018-09-22",
+        "title": "Think Again, Junpei",
+        "video": false,
+        "vote_average": 5.429,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9UiTj1DJmaVJ5MDcd5ZDAghug4q.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 30014,
+        "original_language": "en",
+        "original_title": "House by the River",
+        "overview": "Wealthy writer Stephen Byrne tries to seduce the family maid, but when she resists, he kills her. Long jealous of his brother John, Stephen does his best to pin the blame for the murder on his sibling. Also affected by Stephen's arrogant dementia is his long-suffering wife Marjorie.",
+        "popularity": 10.756,
+        "poster_path": "/FfR9iwl8MBQT7Ym7ap9iOwEvwi.jpg",
+        "release_date": "1950-03-25",
+        "title": "House by the River",
+        "video": false,
+        "vote_average": 6.741,
+        "vote_count": 79
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8BIsBqUC93Er67lG5sc10wDf6ma.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            37
+        ],
+        "id": 60269,
+        "original_language": "en",
+        "original_title": "Mad Dog Morgan",
+        "overview": "The true story of Irish outlaw Daniel Morgan, who is wanted, dead or alive, in Australia during the 1850s.",
+        "popularity": 10.755,
+        "poster_path": "/e9Lh2B0WfGVdAD55MYUlHGdlnDU.jpg",
+        "release_date": "1976-07-09",
+        "title": "Mad Dog Morgan",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zwj0Vk50L8RoweODJPdQ8ULPKdU.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1165111,
+        "original_language": "en",
+        "original_title": "Scout's Honor: The Secret Files of the Boy Scouts of America",
+        "overview": "Survivors, whistleblowers and experts recount the Boy Scouts of America's decades long cover-up of sexual abuse cases and its heartbreaking impact.",
+        "popularity": 10.754,
+        "poster_path": "/uS0KGgkF9krrUqh8tdo80THBliH.jpg",
+        "release_date": "2023-09-06",
+        "title": "Scout's Honor: The Secret Files of the Boy Scouts of America",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jwDAbutSRM6Wb6mp3TNG6A0fXyJ.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 125835,
+        "original_language": "te",
+        "original_title": "జులాయి",
+        "overview": "An intelligent young man and a timid cop team up to catch a criminal who wants revenge after a foiled bank robbery.",
+        "popularity": 10.753,
+        "poster_path": "/tIUBifudyRCKhF1utslaDoDRteW.jpg",
+        "release_date": "2012-08-09",
+        "title": "Julayi",
+        "video": false,
+        "vote_average": 6.288,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rXkqVet0ONu3SCqWw5fcl2hNsV7.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 364395,
+        "original_language": "cn",
+        "original_title": "表姐，妳好嘢！續集",
+        "overview": "Mainland Inspector Cheng Shih-Nan once again leaves the Mainland with her cousin Hsiou Sheng to tackle a Hong Kong-related murder. They get help from their Hong Kong brethren, including the brother of Wu Kei Kuo, and the race is on to find the bad guys! But there are still many mysterious portions of Hong Kong’s capitalist culture for Shih-Nan to explore, including the wonder of karaoke!",
+        "popularity": 10.749,
+        "poster_path": "/6z8ihfbWaJfPwj3RlN3SEIvJduy.jpg",
+        "release_date": "1991-06-13",
+        "title": "Her Fatal Ways 2",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5FVHxFXCyQjAX45VMO0Z67pbVVH.jpg",
+        "genre_ids": [
+            16,
+            28,
+            35,
+            80
+        ],
+        "id": 148301,
+        "original_language": "ja",
+        "original_title": "お嬢様捜査網",
+        "overview": "When the 5 richest and most powerful girls at an exclusive private high school are sent a death threat they decide to take matters into their own hands and bring divine retribution to their would be assailants.  Using their collective resources and skills they show the terrorists that they messed with the wrong girls.",
+        "popularity": 10.749,
+        "poster_path": "/j9ZoEN4eT3IqqwaB0nfyyKG04S4.jpg",
+        "release_date": "1996-03-31",
+        "title": "Debutante Detective Corps",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1QOWonLjyOaqW5YIq0A1p5nJVCX.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35
+        ],
+        "id": 144610,
+        "original_language": "cn",
+        "original_title": "妙探雙龍",
+        "overview": "Cindy is an American FBI agent who is currently in Hong Kong seeking arch-criminal Kent Tong. In order to bring down Tong and his criminal organization, she teams up with local HK cops David and Johnny.",
+        "popularity": 10.748,
+        "poster_path": "/rf7GVX5yc7EXE3nJSc6LTckyGnl.jpg",
+        "release_date": "1989-11-18",
+        "title": "City Cops",
+        "video": false,
+        "vote_average": 5.808,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m8C4xjHNDUaDdrEsQVqFOrPWMhj.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 172766,
+        "original_language": "cn",
+        "original_title": "義本無言",
+        "overview": "In Hong Kong, Ho Chen-tung is the aging Mob boss, living by a code of honor, keeping peace among rival factions. For years, he has been estranged from his son, Hui, who lives in Australia. Tung has become a sort of father to Han, a Vietnamese refugee who also lives by an ethical code. At the same time that Hui reaches out to his father, the Hong Kong CID conclude their years'-long effort to get the goods on Tung and his associates. Tung expects the younger gangsters to live by the code he loves, but at his trial, he has a surprise coming to him. It may be up to Han to restore the balance.",
+        "popularity": 10.745,
+        "poster_path": "/uU49JBlADGE5fEZZO4YJFT4Z94f.jpg",
+        "release_date": "1987-03-26",
+        "title": "Code of Honor",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jPcfz03Gs4hEa7257BiJRKKviSs.jpg",
+        "genre_ids": [
+            18,
+            36,
+            53,
+            80,
+            10749,
+            9648
+        ],
+        "id": 70912,
+        "original_language": "en",
+        "original_title": "The Hour of the Pig",
+        "overview": "In medieval France, young lawyer Richard Courtois leaves Paris for the simpler life in the country. However, he is soon drawn into amorous and political intrigues. At the same time, he is pushed to defend a pig, owned by the mysterious gypsy Samira. The pig has been arrested for the murder of a young boy.",
+        "popularity": 10.743,
+        "poster_path": "/e6JNPDyNlbVMgLPT7Dbd5WRRHij.jpg",
+        "release_date": "1993-09-25",
+        "title": "The Hour of the Pig",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2uE13eTmXRNXreuq9V1YVtPS4Ey.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10402,
+            10749
+        ],
+        "id": 45628,
+        "original_language": "en",
+        "original_title": "Casbah",
+        "overview": "Pepe Le Moko leads a gang of jewel thieves in the Casbah of Algiers, where he has exiled himself to escape imprisonment in his native France.",
+        "popularity": 10.742,
+        "poster_path": "/4wBE8iu1Z424CgvJbtLUGsX35Lp.jpg",
+        "release_date": "1948-04-01",
+        "title": "Casbah",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 14
+    }
+]

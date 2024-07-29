@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/njV9ECbNIwRkMEusCtbuMT6MYwW.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 160825,
+        "original_language": "ja",
+        "original_title": "暗黒街の対決",
+        "overview": "Japanese police detective Saburo Fujioka is suspected of corruption, demoted, and sent to the city of Kojin. Kojin is the scene of fierce fighting between rival gangs. Fujioka is assigned to investigate the death of the wife of gangster Tetsuo Maruyama of the Kozuka gang, probably at the hands of one of the Oka gang. During a gang gunfight, Maruyama is rescued by Detective Fujioka and the two become friends. But Maruyama insists on avenging his wife's murder, even if it means conflict with his new friend.",
+        "popularity": 14.206,
+        "poster_path": "/5FIU5kZ8kJbFOVNoSCE8HDV9mWa.jpg",
+        "release_date": "1960-01-03",
+        "title": "The Last Gunfight",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vP7d6tIdhnjNIRshL6brdRaKKbv.jpg",
+        "genre_ids": [
+            28,
+            80,
+            27
+        ],
+        "id": 63460,
+        "original_language": "en",
+        "original_title": "Vice Squad",
+        "overview": "An unlikely Hollywood hooker helps a detective set a trap for a mutilator pimp.",
+        "popularity": 14.206,
+        "poster_path": "/k5KxUl1mWkFyHRmlfAyUqfTOA8D.jpg",
+        "release_date": "1982-01-22",
+        "title": "Vice Squad",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zmEkTUjYPkAgRNF0ndbMfGJVZkM.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 43396,
+        "original_language": "en",
+        "original_title": "Union Station",
+        "overview": "Police catch a break when suspected kidnappers are spotted on a train heading towards Union Station. Police, train station security and a witness try to piece together the crime and get back the blind daughter of a rich business man.",
+        "popularity": 14.206,
+        "poster_path": "/oF9dN6RO2sgAQj1uANJR8ZOTS4T.jpg",
+        "release_date": "1950-10-04",
+        "title": "Union Station",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x5myjh1PkRaJ8r8EbWqaKkLKnN1.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 288463,
+        "original_language": "en",
+        "original_title": "The Guvnors",
+        "overview": "The Guvnors is a violent thriller set amongst the clans and firms of South East London, bringing two generations together in brutal conflict.",
+        "popularity": 14.2,
+        "poster_path": "/6uVF1ON5p5awQGB8AgwDQrVrk1v.jpg",
+        "release_date": "2014-06-24",
+        "title": "The Guvnors",
+        "video": false,
+        "vote_average": 5.218,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sQhj10PGLtCcz1wCUtEWwk3jKOQ.jpg",
+        "genre_ids": [
+            28,
+            16,
+            35,
+            10770,
+            80
+        ],
+        "id": 39952,
+        "original_language": "ja",
+        "original_title": "ルパン三世 the Last Job",
+        "overview": "Lupin begins his heist by stealing a newly-discovered Japanese cultural treasure being transported to Germany. During his attempt to steal the treasure, however, he witnesses the always-ambitious Zenigata's supposed \"death,\" a plan hatched by a ninja clan who are also after the treasure. Can Lupin and his friends prevent the ninja clan from obtaining what they seek?",
+        "popularity": 14.199,
+        "poster_path": "/fdFY1z9HiTTQd5VyO77pgWOARyk.jpg",
+        "release_date": "2010-02-12",
+        "title": "Lupin the Third: The Last Job",
+        "video": false,
+        "vote_average": 6.386,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6x17FmycXbfcD3nhPU5WFXU8knU.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 417877,
+        "original_language": "en",
+        "original_title": "Baked in Brooklyn",
+        "overview": "A recent college graduate decides to sell marijuana on the streets of Manhattan after losing his job at a consulting firm. He soon meets the girl of his dreams. With an unsupportive girlfriend, an increase of clienteles, and the growing threats of being caught or killed, he soon realizes he is in way over his head.",
+        "popularity": 14.192,
+        "poster_path": "/9P66ST8IackgLaHmfOk0EoQwYg5.jpg",
+        "release_date": "2016-10-14",
+        "title": "Baked in Brooklyn",
+        "video": false,
+        "vote_average": 5.215,
+        "vote_count": 107
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2nnJ03MYdXx2W3juIiYMLwHIK0q.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 365719,
+        "original_language": "zh",
+        "original_title": "我是证人",
+        "overview": "A blind woman and a delivery boy attempt to solve a hit-and-run case the police have been unable to solve.",
+        "popularity": 14.19,
+        "poster_path": "/wer7QVLgpB6VIzaxE2PgIWRQcph.jpg",
+        "release_date": "2015-10-30",
+        "title": "The Witness",
+        "video": false,
+        "vote_average": 7.543,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/myvNbmklXMyINevJqRBc2i9laeh.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 41611,
+        "original_language": "en",
+        "original_title": "Jeopardy",
+        "overview": "A woman is kidnapped when she goes to get help for her husband who is trapped on a beach with the tide coming in to surely drown him.",
+        "popularity": 14.187,
+        "poster_path": "/8eXPMsrLsTK2AcFSwbCoWWIeeRB.jpg",
+        "release_date": "1953-03-30",
+        "title": "Jeopardy",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kK8HoteXdGUUghgHyoP9NCq0Ne6.jpg",
+        "genre_ids": [
+            80,
+            14,
+            53
+        ],
+        "id": 208855,
+        "original_language": "ja",
+        "original_title": "天城越え",
+        "overview": "Japan in the 1940s. A high school boy went into a magic encounter with Ozuka Hana, a geisha (pub-girl) when he traveled through Amagi Pass. A mysterious murder took place afterwards, an Ozuka was held responsible. 40 years later, the boy, who became a printing shop owner, was visited by a retired policeman who came from Amagi Pass. The truth then started to reveal itself.",
+        "popularity": 14.183,
+        "poster_path": "/jCeBsYP7jbB6obdM56jd3vYheuR.jpg",
+        "release_date": "1983-02-19",
+        "title": "Amagi Pass",
+        "video": false,
+        "vote_average": 6.769,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5EiLLM24ZD9QsaLz8DouJIqfvE8.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 45758,
+        "original_language": "en",
+        "original_title": "The Godson",
+        "overview": "After the death of his older brother, Guiseppe \"the guppy\" Calzone becomes head of the Calzone Mob family. His aging father knows his son is not cut out for the job, so he sends him to \"Mafia University\". The head of a rival Mafia Family sees this as an opportunity to strike and bring the Calzone Family to its knees. Surrounded by danger, double-crossing and pasta.",
+        "popularity": 14.178,
+        "poster_path": "/sHbSKVxRRHf18mtp9yinaYlAjK9.jpg",
+        "release_date": "1998-10-06",
+        "title": "The Godson",
+        "video": false,
+        "vote_average": 3.1,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9C99rG7CunGRGFBgFHpjCP7V4Ma.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 950019,
+        "original_language": "zh",
+        "original_title": "怒潮",
+        "overview": "A criminal group is facing a change of leadership, and all forces are trying to intervene.",
+        "popularity": 14.176,
+        "poster_path": "/lIRMoeOGq2tR580LuunEzmuAV4U.jpg",
+        "release_date": "2023-12-16",
+        "title": "Wolf Hiding",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zKrhtSxJEERO6Hn0vyarbmDbFwj.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 193402,
+        "original_language": "ja",
+        "original_title": "踊る大捜査線 THE FINAL 新たなる希望",
+        "overview": "Set 2 years after prior film \"Bayside Shakedown 3: Set the Guys Loose,\" a major case occurs that has the potential to take down the entire police organization. For the next 3 days, Shunsaku Aoshima and his colleagues struggle to unravel the case...",
+        "popularity": 14.172,
+        "poster_path": "/eknDKoJ42BbwBsBxHaXcD9mp7Zr.jpg",
+        "release_date": "2012-09-06",
+        "title": "Bayside Shakedown The Final: The New Hope",
+        "video": false,
+        "vote_average": 5.929,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6TKLf5HdE8bCkzHvhmL5xctim6g.jpg",
+        "genre_ids": [
+            28,
+            53,
+            18,
+            80
+        ],
+        "id": 415193,
+        "original_language": "ta",
+        "original_title": "இமைக்கா நொடிகள்",
+        "overview": "A CBI officer goes in search of a ruthless serial killer. Things get worse when the murderer targets the former and her family",
+        "popularity": 14.171,
+        "poster_path": "/mHkeMrAqW4TnRkeI1Xl8qwuGyPg.jpg",
+        "release_date": "2018-08-30",
+        "title": "Imaikkaa Nodigal",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fJUR5RzjEDdPMqmPSnMcisEkuwD.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 968232,
+        "original_language": "th",
+        "original_title": "4 Kings II",
+        "overview": "After a drug dealer schemes against them in secret, two student gangs ignite a bitter feud that triggers a chain of violent consequences.",
+        "popularity": 14.17,
+        "poster_path": "/fCzcHP9d1OMWVq7PYZw9y2DmOEY.jpg",
+        "release_date": "2023-11-30",
+        "title": "4 Kings II",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jzYi3xmP8LJmQbI6Yp8V7yvKLfv.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            10770
+        ],
+        "id": 50820,
+        "original_language": "en",
+        "original_title": "The Substitute 3: Winner Takes All",
+        "overview": "At a college visit to a war buddy's professor daughter, mercenary Treat Williams finds her brutally beaten. He then poses as a teacher to teach a lesson to the football jocks responsible.",
+        "popularity": 14.17,
+        "poster_path": "/zQ7rVfLbl72ZGoj3MGszLtMmNL7.jpg",
+        "release_date": "1999-08-14",
+        "title": "The Substitute 3: Winner Takes All",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/shNTC5i9Fos9AzeuK7uU245QPey.jpg",
+        "genre_ids": [
+            80,
+            27,
+            878
+        ],
+        "id": 62004,
+        "original_language": "ja",
+        "original_title": "アナザヘヴン",
+        "overview": "A pair of hard-boiled Tokyo cops are investigating a gruesome murder: after killing the victim, the murderer cut his skull open and cooked his brain in a stew. As they try to track down the killer, they discover that, quite literally, everybody is a suspect. Will they bring the terror to an end, or will they become part of it themselves?",
+        "popularity": 14.169,
+        "poster_path": "/eqGu3rspbX9F49IlMtwfgZvTOPn.jpg",
+        "release_date": "2000-04-29",
+        "title": "Another Heaven",
+        "video": false,
+        "vote_average": 5.862,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dRP4OaISmTSybTkYOA4xhKfrEbA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 682401,
+        "original_language": "hi",
+        "original_title": "एक विलेन रिटर्न्स",
+        "overview": "When a singer goes missing amid a serial killing spree, a cabbie and a businessman's son cross paths in a twisted tale where good and evil is blurred.",
+        "popularity": 14.161,
+        "poster_path": "/4BqMeSSPaC7spmj4Zl7htiigCkV.jpg",
+        "release_date": "2022-07-29",
+        "title": "Ek Villain Returns",
+        "video": false,
+        "vote_average": 6.437,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aG2ScF2ISK2JWYJogvfWo7mZJvT.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            27
+        ],
+        "id": 323792,
+        "original_language": "en",
+        "original_title": "L.A. Slasher",
+        "overview": "Incensed by the tabloid culture which celebrates it, the L.A. Slasher publicly abducts a series of reality TV stars, while the media and general public in turn begin to question if society is better off without them. A biting, social satire about reality TV and the glorification of people who are famous for simply being famous, \"L.A. Slasher\" explores why it has become acceptable and even admirable for people to become influential and wealthy based on no merit or talent - purely through notoriety achieved through shameful behavior.",
+        "popularity": 14.154,
+        "poster_path": "/rwXmbnXIQcfmdK0phXcMIZgX0KA.jpg",
+        "release_date": "2015-06-12",
+        "title": "L.A. Slasher",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qd8iT56Gg6gwd6x4aZLKeq1UA1P.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 298197,
+        "original_language": "cn",
+        "original_title": "六魔女",
+        "overview": "Shenzhen, with its booming economy and new found riches, has attracted thousands of young women from the countryside. They all come with the hopes of a better life for themselves and their families. The six women portrayed in this film are classic cases of the thousands of women who, for various different reasons, have chosen the path of no return.",
+        "popularity": 14.154,
+        "poster_path": "/mSdwkkzt5zjWp7vOeZxbnfbFnjY.jpg",
+        "release_date": "1996-05-24",
+        "title": "The Six Devil Women",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ajCwjMPKXRkRERbpUqDqo6XYFwT.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 950053,
+        "original_language": "fr",
+        "original_title": "Le Parfum vert",
+        "overview": "In the middle of a performance at la Comédie-Française, an actor dies on stage, poisoned. Martin, member of the troupe and friend of the victim, becomes the center of everyone’s attention. Suspected by the police, he’s also chased by a mysterious organization, Le Parfum vert, that seems to have ordered the murder.",
+        "popularity": 14.153,
+        "poster_path": "/zxKgr8OSvm4qnXOMURLzG942pLw.jpg",
+        "release_date": "2022-12-21",
+        "title": "The Green Perfume",
+        "video": false,
+        "vote_average": 5.31,
+        "vote_count": 84
+    }
+]

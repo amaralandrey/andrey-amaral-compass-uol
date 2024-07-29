@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/s4yij4yVaim0kgt9UuuYCHIIoOH.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 456756,
+        "original_language": "hi",
+        "original_title": "बैंक चोर",
+        "overview": "A comic-caper, that tells the story of 3 morons trying to rob a bank who pick the worst day possible when everything that can go wrong, goes wrong and how they're inadvertently caught in the crossfire.",
+        "popularity": 7.603,
+        "poster_path": "/tKrtqEs1gffyZNlHW9WduRRjKGA.jpg",
+        "release_date": "2017-06-16",
+        "title": "Bank Chor",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            12
+        ],
+        "id": 900206,
+        "original_language": "ru",
+        "original_title": "Удар Лотоса 2: Сладкая горечь полыни",
+        "overview": "",
+        "popularity": 7.601,
+        "poster_path": null,
+        "release_date": "2002-01-01",
+        "title": "Удар Лотоса 2: Сладкая горечь полыни",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Rx3Aw72dkFzJXnrQuVLSCUDOg7.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 418672,
+        "original_language": "en",
+        "original_title": "Cafe Hostess",
+        "overview": "A dancehall girl meets a sailor and they fall in love, but the club’s owner doesn’t want the girl to leave.",
+        "popularity": 7.601,
+        "poster_path": "/uKSjIBvFdPTycRO3liOYipZw0Nr.jpg",
+        "release_date": "1940-01-11",
+        "title": "Cafe Hostess",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r3RDMpTou68u0dBuhKHcBz2wTel.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10770
+        ],
+        "id": 229081,
+        "original_language": "en",
+        "original_title": "Perry Mason: The Case of the Musical Murder",
+        "overview": "A young theatre director is accused of killing a more famous Broadway director. Perry takes his case.",
+        "popularity": 7.601,
+        "poster_path": "/pvTFRwsSiCSONaYlUb8wwZYQ28w.jpg",
+        "release_date": "1989-04-09",
+        "title": "Perry Mason: The Case of the Musical Murder",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jmqQsYbHIlam0R0sYuf1Bh3sX1p.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 26616,
+        "original_language": "en",
+        "original_title": "Saigon",
+        "overview": "After World War II Larry learns that his flying buddy Mike will only live a short time despite the efforts of the doctors. He takes on a profitable flying job for profiteers Maris to finance a good time for his buddy. As the plane takes off he shoves Maris' secretary Susan on board. When Mike falls for her, Larry tells her to play along for Mike's sake. She, of course, falls for Larry.",
+        "popularity": 7.601,
+        "poster_path": "/4aM07Y31A3MZlPMOT8X6WG9WYj3.jpg",
+        "release_date": "1947-12-05",
+        "title": "Saigon",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t2GXe3kMf2T8GCdhpwICpaVMXfm.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10402
+        ],
+        "id": 297577,
+        "original_language": "en",
+        "original_title": "Josette",
+        "overview": "Two young men try to wrest their father from the clutches of a gold digger but by mistake think the woman is a young nightclub singer with whom they both fall in love.",
+        "popularity": 7.6,
+        "poster_path": "/iss1Y22PRFmvbuS8ByjkNG1bMB1.jpg",
+        "release_date": "1938-06-03",
+        "title": "Josette",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7mQPPeU8pMI2eYhAul26nbOkFb0.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 55977,
+        "original_language": "fr",
+        "original_title": "Marie Chantal contre Dr. Kha",
+        "overview": "Marie-Chantal travels by train to her cousin's place to spend a winter holiday, when a stranger entrusts her with false jewels that contain a virus powerful enough to destroy all humankind.",
+        "popularity": 7.6,
+        "poster_path": "/rq7f9JYNkavuFf8CQtVDFfr8aKf.jpg",
+        "release_date": "1965-08-25",
+        "title": "The Blue Panther",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oZOqpZiZh5VZcHlSL1roZ4T2JZw.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 93796,
+        "original_language": "fr",
+        "original_title": "Quand la femme s'en mêle",
+        "overview": "Quand la Femme S'en Mele (When the Woman Butts In) stars French film favorite Edwige Feuillere as a high-class gangster's moll named Maine. When Maine's first husband and daughter pay a visit, it's an awkward time for our heroine and her current amour, gang boss Godot (Jean Servais). In addition to fielding a lot of embarrassing questions, Godot also has to deal with a pesky turf war with a rival mobster. Not that the ex-husband is a paragon of virtue: he's busy trying to get even with a crooked business associate.",
+        "popularity": 7.599,
+        "poster_path": "/9JLSsJsLNKIJXPXpRLrQThJdTal.jpg",
+        "release_date": "1957-11-15",
+        "title": "When a Woman Meddles",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 545813,
+        "original_language": "cn",
+        "original_title": "色慾城市之赤裸姊妹花",
+        "overview": "A girl gains entrance into college, but her sister can’t afford the tuition. So it’s on to the “glamorous” world of hostessing, where she has sex with various men. She falls in love with one of her clients, which causes his lover to take revenge.",
+        "popularity": 7.598,
+        "poster_path": "/dICLMGiq5QQwPjCoSSE7SBc0xs5.jpg",
+        "release_date": "2003-09-15",
+        "title": "Naked Twins",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xGcLFNNLBQyEFm01cLZveRr7KKS.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 1158901,
+        "original_language": "cn",
+        "original_title": "無間一戰",
+        "overview": "Kin Shing is the leader of a drug syndicate, code-named \"Black Wolf\", while his older brother Kin Chung is a member of the Narcotics Division of the Hong Kong Police Force. At the same time, he is involved in a fight against drug lords and it is this investigation that the elder brother discovers that his younger brother had another identity. The two starte a confrontation between good and evil for their respective goals.",
+        "popularity": 7.596,
+        "poster_path": "/1LE95fVuA14LjnMD0FyjRx6ni7D.jpg",
+        "release_date": "2023-08-04",
+        "title": "Endless Battle",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3Hr7tTQp4pCfzh6l4gf3ajPkaWZ.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 357121,
+        "original_language": "en",
+        "original_title": "Do You Know the Muffin Man?",
+        "overview": "Roger Dollison, a police officer, and his wife, Kendra, are living the American dream. They have two children, Teddy and Sandy, a lovely home, and a dog named Rex. What they know and how they live as a family is irreparably changed one day when it is discovered that a classmate of Teddy's is the apparent victim of sexual abuse and molestation at the respected neighborhood daycare center. Like all other parents, the Dollisons are tormented — \"we should have known, we should have seen\" — but their devastation is complete when Teddy tells his own story, one he promised his abusers he would never tell.",
+        "popularity": 7.595,
+        "poster_path": "/oxpfh5FSF2TdxEOKhOwdvAf2QzO.jpg",
+        "release_date": "1989-10-22",
+        "title": "Do You Know the Muffin Man?",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uLE7BSEKM13FfWXIgWy9NUxKGvs.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 111005,
+        "original_language": "fr",
+        "original_title": "Tenue correcte exigée",
+        "overview": "His estranged wife is worth millions, but poor Paris resident Richard is homeless and jobless. He applied for unemployment benefits and now faces charges of fraud. To save himself from nine months in jail he must find his wife and force her to tell the courts the truth, that though she has married a politically-ambitious American governor and is filing U.S. tax returns, she is technically still married to Richard. But as she lives in America, how can he get to her? Opportunity knocks when Richard learns that she and her husband will be attending an international conference at an exclusive Paris hotel. To get in he will need a disguise.",
+        "popularity": 7.595,
+        "poster_path": "/7CrRCmUAAlUoJMJIJ9OXS8YEqGL.jpg",
+        "release_date": "1997-03-21",
+        "title": "Proper Attire Required",
+        "video": false,
+        "vote_average": 5.85,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vn9SL8vTSdIg3RoqzBdMpuugqWT.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 71432,
+        "original_language": "en",
+        "original_title": "Blackwell's Island",
+        "overview": "A reporter gets himself sent to prison to expose a mobster.",
+        "popularity": 7.595,
+        "poster_path": "/8uQ5TUypsoti7c8CM7al303ANzn.jpg",
+        "release_date": "1939-01-24",
+        "title": "Blackwell's Island",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            10770
+        ],
+        "id": 1011543,
+        "original_language": "en",
+        "original_title": "Jigsaw",
+        "overview": "In this pilot for the 1972-73 series, a detective specializing in missing persons cases finds himself accused of murder after being found unconscious in the apartment of a slain state official.",
+        "popularity": 7.594,
+        "poster_path": "/jRuqiP57isaWEgLEKfacBp5h6ck.jpg",
+        "release_date": "1972-03-26",
+        "title": "Jigsaw",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j7uTpK9QoRHgTphXSnUlSumCQ1v.jpg",
+        "genre_ids": [
+            53,
+            18,
+            28,
+            80
+        ],
+        "id": 128639,
+        "original_language": "en",
+        "original_title": "Kounterfeit",
+        "overview": "Flush with $3 million in counterfeit bills, a pair of small-time criminals hope to make the big time by trading it in for a cool million in authentic cash. However, when the trade goes awry, three men end up murdered- one a cop with a vengeful sister--and the hapless buddies find themselves caught between the police and mob hit men after the money.",
+        "popularity": 7.594,
+        "poster_path": "/8bSGlXAzl8ErQHMKYmEdsLijbLG.jpg",
+        "release_date": "1996-11-15",
+        "title": "Kounterfeit",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            28
+        ],
+        "id": 80930,
+        "original_language": "te",
+        "original_title": "చెన్నకేశవ రెడ్డి",
+        "overview": "Chennakesva Reddy (Telugu: చెన్నకేశవ రెడ్డి) is a 2002 Tollywood Faction Film, directed by V.V. Vinayak, released on 25 September 2002. The movie stars Nandamuri Balakrishna in double role father-son characther, while Shriya Saran and Tabu play the female lead.",
+        "popularity": 7.594,
+        "poster_path": "/xuE5f4YrT1NfEdbfyQRdYAuuUtS.jpg",
+        "release_date": "2002-09-22",
+        "title": "Chennakesava Reddy",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wniroOh9ZfNOrcdbS9pCHOTt5a6.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 49028,
+        "original_language": "hi",
+        "original_title": "रखता चरित्र",
+        "overview": "A killer bandit decides to become a politician in order to avenge deaths in his family.",
+        "popularity": 7.593,
+        "poster_path": "/cPFW3LMUKUNfj5jaPJVPXZP5U06.jpg",
+        "release_date": "2010-10-21",
+        "title": "Rakht Charitra",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            9648,
+            878,
+            53
+        ],
+        "id": 1295193,
+        "original_language": "en",
+        "original_title": "Alcatraz",
+        "overview": "In 1963, all the prisoners and guards mysteriously disappear from Alcatraz. In the present day, they resurface and a secret agency are tasked with re-capturing them.",
+        "popularity": 7.591,
+        "poster_path": "/5S90D10O8hxbOAIXq3tM3zQooX7.jpg",
+        "release_date": "2012-01-16",
+        "title": "Alcatraz",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1242434,
+        "original_language": "en",
+        "original_title": "High and Low",
+        "overview": "English-language reinterpretation of Akira Kurosawa's 1963 film of the same name.",
+        "popularity": 7.591,
+        "poster_path": "/95UCrw3Q8HkdAwNYFeQ9ubD5s6O.jpg",
+        "release_date": "",
+        "title": "High and Low",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xqd8tSCXkvA3JvxpeF0nMdz0vy5.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            10770
+        ],
+        "id": 497917,
+        "original_language": "fr",
+        "original_title": "Parole contre parole",
+        "overview": "A rape victim faces a dilemma: tell the truth about her assault or stay silent and allow her attacker to be falsely convicted for murder.",
+        "popularity": 7.591,
+        "poster_path": "/7pqL4cpR2sBPfjR6CRaRMyQeG0A.jpg",
+        "release_date": "2018-05-02",
+        "title": "Her Word Against His",
+        "video": false,
+        "vote_average": 5.864,
+        "vote_count": 11
+    }
+]

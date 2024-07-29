@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/nXkNbKFx8YLorku25MMLO5OV6aW.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 126400,
+        "original_language": "hi",
+        "original_title": "गैंग्स ऑफ़ वास्सेपुर पार्ट - २",
+        "overview": "After the death of his father and brother Danish, Faizal Khan vows to take revenge by destroying Ramadhir Singh's gang.",
+        "popularity": 26.712,
+        "poster_path": "/4CVPyT10Cvw9BCgWNKXiRcXntuc.jpg",
+        "release_date": "2012-08-08",
+        "title": "Gangs of Wasseypur - Part 2",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 87
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hYVAvYJXE4taTIh2y6F5mGJWfPm.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 245916,
+        "original_language": "en",
+        "original_title": "Kill the Messenger",
+        "overview": "A reporter becomes the target of a vicious smear campaign that drives him to the point of suicide after he exposes the CIA's role in arming Contra rebels in Nicaragua and importing cocaine into California. Based on the true story of journalist Gary Webb.",
+        "popularity": 26.699,
+        "poster_path": "/8gaNZiKZHvKCqMDByY00dUIV0YC.jpg",
+        "release_date": "2014-10-09",
+        "title": "Kill the Messenger",
+        "video": false,
+        "vote_average": 6.625,
+        "vote_count": 825
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/keHN5s88wrPD3C07n6Lzev0vd69.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 11468,
+        "original_language": "en",
+        "original_title": "The Salton Sea",
+        "overview": "After the murder of his beloved wife, a man in search of redemption is set adrift in a world where nothing is as it seems. On his journey, he befriends slacker Jimmy \"The Finn\", becomes involved in rescuing his neighbor Colette from her own demons, and gets entangled in a web of deceit full of unexpected twists and turns.",
+        "popularity": 26.688,
+        "poster_path": "/i3InMSlLUNBEdQTKazMdyVP1ryX.jpg",
+        "release_date": "2002-02-02",
+        "title": "The Salton Sea",
+        "video": false,
+        "vote_average": 6.567,
+        "vote_count": 308
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sil4GzTAvmxFWqsp5FWZcG7adtS.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1074262,
+        "original_language": "tr",
+        "original_title": "Kötü Adamın 10 Günü",
+        "overview": "Battered, broken and bereaved, a private investigator must muscle his way through a tangle of lies to uncover the truth behind a mansion murder.",
+        "popularity": 26.683,
+        "poster_path": "/fZhPy0pIxAiV3ZHGBsuAvR30Mgb.jpg",
+        "release_date": "2023-08-18",
+        "title": "10 Days of a Bad Man",
+        "video": false,
+        "vote_average": 6.661,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yGieCRY6yhfoZpZTo7Hi9aVFRVk.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 18816,
+        "original_language": "cn",
+        "original_title": "猛龍",
+        "overview": "A team of Interpol agents arrive in the city to testify against a local crime lord. However on the way to court the vehicle carrying the Triad boss is attacked and the crime lord snatched, not by his own people but by another foe.",
+        "popularity": 26.676,
+        "poster_path": "/bG5psOQnLBiNR6HpGjSTEglWn6l.jpg",
+        "release_date": "2005-11-10",
+        "title": "Dragon Squad",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y6mCy0k7dnNKcHjLLPdo7guVjCR.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 342521,
+        "original_language": "en",
+        "original_title": "Keanu",
+        "overview": "Friends hatch a plot to retrieve a stolen cat by posing as drug dealers for a street gang.",
+        "popularity": 26.675,
+        "poster_path": "/dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg",
+        "release_date": "2016-04-21",
+        "title": "Keanu",
+        "video": false,
+        "vote_average": 6.072,
+        "vote_count": 1021
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7pZtTbxn8d6Blgcf4EUysdEu3bO.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            28
+        ],
+        "id": 25941,
+        "original_language": "en",
+        "original_title": "Harry Brown",
+        "overview": "An elderly ex-serviceman and widower looks to avenge his best friend's murder by doling out his own form of justice.",
+        "popularity": 26.651,
+        "poster_path": "/lk9qVzvPHuL2vX9ixNut9n0KfYD.jpg",
+        "release_date": "2009-11-11",
+        "title": "Harry Brown",
+        "video": false,
+        "vote_average": 6.803,
+        "vote_count": 1019
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bGMqHn0H2UY6SPZ5Vch4YJM2jDO.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 6,
+        "original_language": "en",
+        "original_title": "Judgment Night",
+        "overview": "Four young friends, while taking a shortcut en route to a local boxing match, witness a brutal murder which leaves them running for their lives.",
+        "popularity": 26.648,
+        "poster_path": "/3rvvpS9YPM5HB2f4HYiNiJVtdam.jpg",
+        "release_date": "1993-10-15",
+        "title": "Judgment Night",
+        "video": false,
+        "vote_average": 6.486,
+        "vote_count": 327
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hLYH6wbi3Mgscdv2KuYcTdWGlUV.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 824003,
+        "original_language": "it",
+        "original_title": "Diabolik chi sei?",
+        "overview": "Captured by a ruthless gang of bank robbers, foes Diabolik and Ginko find themselves facing certain death. While Eva Kant and Altea forge an unlikely alliance to rescue their lovers, Diabolik reveals his mysterious past to the Inspector.",
+        "popularity": 26.628,
+        "poster_path": "/1DAXwi4y941ryPoGbzUlFEEiPAo.jpg",
+        "release_date": "2023-11-30",
+        "title": "Diabolik - Who Are You?",
+        "video": false,
+        "vote_average": 6.142,
+        "vote_count": 75
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eUY3rwsD2bahMyFuUHSqt1gvz0r.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 17314,
+        "original_language": "en",
+        "original_title": "Pistol Whipped",
+        "overview": "Steven Seagal stars in this gritty, no-holds barred action film as an elite ex-cop with a gambling problem and a mountain of debt. When a mysterious man offers to clear his debts in exchange for the assassination of the city's most notorious gangsters, he make s decision that will change his life - forever.",
+        "popularity": 26.621,
+        "poster_path": "/kLnFzCelnRz1jne83MKPVvwhmeb.jpg",
+        "release_date": "2008-03-04",
+        "title": "Pistol Whipped",
+        "video": false,
+        "vote_average": 5.447,
+        "vote_count": 142
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ux4HpKKilst54SDiw4DPQAdGT3R.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 12648,
+        "original_language": "fr",
+        "original_title": "Agents secrets",
+        "overview": "From his offices in Switzerland, Russian Igor Lipovsky is engaged in a vast and profitable gunrunning operation with Africa. The French government wants to hinder the activities of the arms dealer and sends a team to sink one of his ships heading for Angola with a load of illegal weaponry. Lisa, Brisseau, Loïc, Tony and Raymond are professionals: they carefully set up their cover, plan all their moves meticulously, and carry out orders without asking questions. Perhaps they should. The code-name of the mission is \"Janus\"; and just like with the ancient deity, there are two opposite faces for every aspect of the operation: the objective of the French government, the role of each team member, the presumed friend and the assumed foe...",
+        "popularity": 26.621,
+        "poster_path": "/5tzRPF8TUQ1XTz3UnABCLOhMug4.jpg",
+        "release_date": "2004-03-03",
+        "title": "Secret Agents",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 140
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/auA1OaJKbim8E7ACnMYmvHz5wNB.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 434724,
+        "original_language": "ko",
+        "original_title": "더 킹",
+        "overview": "A young Korean man surpasses his difficult childhood by becoming a powerful prosecutor, but soon learns that real power comes at a price.",
+        "popularity": 26.61,
+        "poster_path": "/aOEXIDBOg7M9pehQykQYPbk0jqI.jpg",
+        "release_date": "2017-01-18",
+        "title": "The King",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 76
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wDLUp63wIE6NeWHAcJkCijhI3M8.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28,
+            18
+        ],
+        "id": 8333,
+        "original_language": "en",
+        "original_title": "The Taking of Pelham One Two Three",
+        "overview": "In New York, armed men hijack a subway car and demand a ransom for the passengers. Even if it's paid, how could they get away?",
+        "popularity": 26.61,
+        "poster_path": "/vNhywp9w1DVG6BytxKp4kjtaaGC.jpg",
+        "release_date": "1974-10-02",
+        "title": "The Taking of Pelham One Two Three",
+        "video": false,
+        "vote_average": 7.427,
+        "vote_count": 493
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iNRxLIcVH3LGkEmADHRS2jbtoBx.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 1311581,
+        "original_language": "id",
+        "original_title": "Saksi Bisu",
+        "overview": "",
+        "popularity": 26.601,
+        "poster_path": "/8QwyC4RelLTDRr6ZadBjnETT88Q.jpg",
+        "release_date": "2024-07-27",
+        "title": "Saksi Bisu",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zDtIIaPdcRvZnvpD1qnI8v4nHOR.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 8197,
+        "original_language": "en",
+        "original_title": "Midnight in the Garden of Good and Evil",
+        "overview": "A visiting city reporter's assignment suddenly revolves around the murder trial of a local millionaire, whom he befriends.",
+        "popularity": 26.596,
+        "poster_path": "/wjOZQfffXsNCV18vrXHLm8XUbPn.jpg",
+        "release_date": "1997-11-21",
+        "title": "Midnight in the Garden of Good and Evil",
+        "video": false,
+        "vote_average": 6.33,
+        "vote_count": 552
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sc6Pszzv0nfrtmfEMIb84z2bX6M.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            18
+        ],
+        "id": 32042,
+        "original_language": "en",
+        "original_title": "Night Moves",
+        "overview": "Private detective and former football player Harry Moseby gets hired on to what seems a standard missing person case, as a former Hollywood actress whose only major roles came thanks to being married to a studio mogul wants Moseby to find and return her daughter. Harry travels to Florida to find her, but he begins to see a connection between the runaway girl, the world of Hollywood stuntmen, and a suspicious mechanic when an unsolved murder comes to light.",
+        "popularity": 26.583,
+        "poster_path": "/o6ZYabmfGPiuyTyUEXDsZOq90mR.jpg",
+        "release_date": "1975-02-27",
+        "title": "Night Moves",
+        "video": false,
+        "vote_average": 6.652,
+        "vote_count": 287
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9Gk3h004bow0jflh09iU4nPig48.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 641,
+        "original_language": "en",
+        "original_title": "Requiem for a Dream",
+        "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+        "popularity": 26.57,
+        "poster_path": "/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+        "release_date": "2000-10-06",
+        "title": "Requiem for a Dream",
+        "video": false,
+        "vote_average": 8.02,
+        "vote_count": 9735
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7thKOA6SH1qd0zBHLOskoAtxlIn.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 26173,
+        "original_language": "en",
+        "original_title": "Mr. Majestyk",
+        "overview": "A melon farmer battles organized crime and a hit man who wants to kill him.",
+        "popularity": 26.563,
+        "poster_path": "/hJR239Fep2R75f8gGc9uxei0Buh.jpg",
+        "release_date": "1974-07-17",
+        "title": "Mr. Majestyk",
+        "video": false,
+        "vote_average": 6.768,
+        "vote_count": 168
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uG9lBtZmsyrZ0OPgrbvf9YOVLJr.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 382614,
+        "original_language": "en",
+        "original_title": "The Book of Henry",
+        "overview": "Susan, a single mother of two, works as a waitress in a small town. Her son, Henry, is an 11-year-old genius who not only manages the family finances but acts as emotional support for his mother and younger brother. When Henry discovers that the girl next door has a terrible secret, he implores Susan to take matters into her own hands.",
+        "popularity": 26.562,
+        "poster_path": "/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg",
+        "release_date": "2017-06-16",
+        "title": "The Book of Henry",
+        "video": false,
+        "vote_average": 7.525,
+        "vote_count": 1271
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sbqm63cOAG5eB9WsUR1hY1zpkTH.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53,
+            9648
+        ],
+        "id": 552865,
+        "original_language": "en",
+        "original_title": "10 Minutes Gone",
+        "overview": "Crime boss Rex hires Frank and his crew to steal a priceless jewel stash — but the job goes wrong when someone tips off the cops. After Frank suffers a blow to the head, he wakes up to find the jewels gone and no memory of his attacker. Now, Frank must confront his team members one by one to find the traitor — before Rex covers his tracks by having Frank murdered.",
+        "popularity": 26.549,
+        "poster_path": "/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg",
+        "release_date": "2019-09-30",
+        "title": "10 Minutes Gone",
+        "video": false,
+        "vote_average": 5.336,
+        "vote_count": 220
+    }
+]

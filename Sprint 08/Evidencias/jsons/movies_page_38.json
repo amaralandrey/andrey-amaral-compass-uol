@@ -1,0 +1,414 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/qpTR24aPPk4zmuuww1QUqRZmnLA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            18,
+            9648
+        ],
+        "id": 1209574,
+        "original_language": "ms",
+        "original_title": "Sheriff: Narko Integriti",
+        "overview": "Sheriff, a police officer from the Integrity Department who is dedicated and insightful. He is paired with Nazri, a young and idealistic police officer from the Narcotics Department. Their mission is to bust a drug syndicate headed by the ruthless kingpin Tony. The kingpin is involved in the distribution of methamphetamine and many people have died at the hands of this Meth Killer.",
+        "popularity": 38.12,
+        "poster_path": "/nDU7sxfsIyWqMO1obRdXsCVgeZ8.jpg",
+        "release_date": "2024-04-18",
+        "title": "Sheriff: Narko Integriti",
+        "video": false,
+        "vote_average": 8.571,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hXTWVJMsI9BkxMLliqL1j0FT55t.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 606402,
+        "original_language": "ko",
+        "original_title": "야차",
+        "overview": "Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.",
+        "popularity": 38.119,
+        "poster_path": "/whZ8OkI7W8cBOmtoiFyb72Ekt3U.jpg",
+        "release_date": "2022-04-08",
+        "title": "Yaksha: Ruthless Operations",
+        "video": false,
+        "vote_average": 6.463,
+        "vote_count": 188
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3HJBIGN4ZjX6xwNQsM9GlvZgZCX.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 17436,
+        "original_language": "en",
+        "original_title": "The Informers",
+        "overview": "A collection of intersecting short stories set in early 1980s Los Angeles, depicts a week in the lives of an assortment of socially alienated, mainly well-off characters who numb their sense of emptiness with casual sex, violence, and drugs.",
+        "popularity": 38.072,
+        "poster_path": "/yiXkvghbkYMQ3iMyhiI08GgtonC.jpg",
+        "release_date": "2008-11-05",
+        "title": "The Informers",
+        "video": false,
+        "vote_average": 4.781,
+        "vote_count": 219
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2jApwp78umL4dK9uSBJAngNDiG9.jpg",
+        "genre_ids": [
+            28,
+            16,
+            80,
+            18
+        ],
+        "id": 382322,
+        "original_language": "en",
+        "original_title": "Batman: The Killing Joke",
+        "overview": "As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness.",
+        "popularity": 38.008,
+        "poster_path": "/ibgiQ1a1q4UBEjOcqZzsRPhRK0g.jpg",
+        "release_date": "2016-07-24",
+        "title": "Batman: The Killing Joke",
+        "video": false,
+        "vote_average": 6.581,
+        "vote_count": 1760
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9vJ57nbL4hWJrmsyjKTxiGXqrBU.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 11929,
+        "original_language": "en",
+        "original_title": "Dolores Claiborne",
+        "overview": "Dolores Claiborne was accused of killing her abusive husband twenty years ago, but the court's findings were inconclusive and she was allowed to walk free. Now she has been accused of killing her employer, Vera Donovan, and this time there is a witness who can place her at the scene of the crime. Things look bad for Dolores when her daughter Selena, a successful Manhattan magazine writer, returns to cover the story.",
+        "popularity": 37.943,
+        "poster_path": "/3RlG7uhJEqc5Ws2PIpNok0LuJ1I.jpg",
+        "release_date": "1995-03-24",
+        "title": "Dolores Claiborne",
+        "video": false,
+        "vote_average": 7.247,
+        "vote_count": 736
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/PFJ2wNS3m5A85CFNPszc3bbDsc.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            28,
+            80,
+            18
+        ],
+        "id": 1075519,
+        "original_language": "en",
+        "original_title": "The Locksmith",
+        "overview": "A thief fresh out of prison, tries to work his way back into the life of his daughter and ex-fiancé. Determined, he is forced to use the skills he has as a gifted locksmith. Things take a tumultuous turn after an unexpected disappearance.",
+        "popularity": 37.899,
+        "poster_path": "/em1h7OCiWUoO64lWGUWjIzWEmX7.jpg",
+        "release_date": "2023-02-03",
+        "title": "The Locksmith",
+        "video": false,
+        "vote_average": 5.741,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pKgP8hG1YlkZg0aHT9HAIg2E9BZ.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 480042,
+        "original_language": "en",
+        "original_title": "Escape Plan: The Extractors",
+        "overview": "After security expert Ray Breslin is hired to rescue the kidnapped daughter of a Hong Kong tech mogul from a formidable Latvian prison, Breslin's girlfriend is also captured. Now he and his team must pull off a deadly rescue mission to confront their sadistic foe and save the hostages before time runs out.",
+        "popularity": 37.848,
+        "poster_path": "/r15SUgzjL8bablcdEkHk9T7TSRl.jpg",
+        "release_date": "2019-06-20",
+        "title": "Escape Plan: The Extractors",
+        "video": false,
+        "vote_average": 5.393,
+        "vote_count": 821
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+        "genre_ids": [
+            53,
+            28,
+            12,
+            80
+        ],
+        "id": 564147,
+        "original_language": "kn",
+        "original_title": "ಕೆಜಿಎಫ್ ಅಧ್ಯಾಯ ೧",
+        "overview": "A period drama set in the 1970s, KGF follows the story of a fierce rebel who rises against the brutal oppression in Kolar Gold Fields and becomes the symbol of hope to legions of downtrodden people.",
+        "popularity": 37.81,
+        "poster_path": "/5p41FuorOtmVbfD6TT2lFldOCzs.jpg",
+        "release_date": "2018-12-20",
+        "title": "K.G.F: Chapter 1",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 206
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6Bev1r0VbGp8Riv9QiSgt832OoW.jpg",
+        "genre_ids": [
+            16,
+            80,
+            9648,
+            12
+        ],
+        "id": 21452,
+        "original_language": "ja",
+        "original_title": "名探偵コナン 14番目の標的",
+        "overview": "Ran’s secret past revealed! Ten years ago, something happened between her mom and dad. Now, plagued by nightmares, Ran is starting to remember… Meanwhile, a murderous card dealer breaks out of jail to seek revenge. His target: Ran’s father. Can Conan stop him in time and save his girlfriend’s family?",
+        "popularity": 37.8,
+        "poster_path": "/wyh51mR03XXASZkmEKr1MiOEzoJ.jpg",
+        "release_date": "1998-04-18",
+        "title": "Case Closed: The Fourteenth Target",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 189
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mzfSQH92wBJZq7EvHUVGzlMKM1X.jpg",
+        "genre_ids": [
+            12,
+            16,
+            80,
+            18,
+            9648
+        ],
+        "id": 28808,
+        "original_language": "ja",
+        "original_title": "名探偵コナン 世紀末の魔術師",
+        "overview": "Kaitou Kid dares to challenge the police once more, setting his sights on the Russian Imperial Easter Egg. With the date, time, and place, the Osaka police force scrambles to stop him. But this time, Kid may have bitten off more than he can chew—Conan Edogawa, Heiji Hattori, and numerous others are also trying to get their hands on the jeweled egg.",
+        "popularity": 37.732,
+        "poster_path": "/q2v6JmGMVQR0UhUirXuuzXUcAnN.jpg",
+        "release_date": "1999-04-17",
+        "title": "Detective Conan: The Last Wizard of the Century",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 162
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6g0MFaqYpUX9W7CXEq44ZcoxNz.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 85889,
+        "original_language": "en",
+        "original_title": "Filth",
+        "overview": "A bigoted junkie cop suffering from borderline personality disorder and drug addiction manipulates and hallucinates his way through the festive season in a bid to secure promotion and win back his wife and daughter.",
+        "popularity": 37.724,
+        "poster_path": "/AeIodobH6Z8jvtHhqRSrqYrxGSo.jpg",
+        "release_date": "2013-09-23",
+        "title": "Filth",
+        "video": false,
+        "vote_average": 6.872,
+        "vote_count": 1666
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4SiZ6LJ9t22jtnsCmasXxFJRBzj.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 647250,
+        "original_language": "en",
+        "original_title": "The Machine",
+        "overview": "Bert Kreischer faces a familial crisis and the arrival of his estranged father when the ghost of his booze-soaked past arrives: a murderous mobster hellbent on kidnapping Bert back to the motherland to atone for his crimes. Together, he and his father must retrace the steps of his younger self in the midst of a war between a sociopathic crime family while they attempt to find common ground.",
+        "popularity": 37.699,
+        "poster_path": "/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg",
+        "release_date": "2023-05-25",
+        "title": "The Machine",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 151
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/891kxjT04dJNMhbsyMOlycO5wAN.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            9648
+        ],
+        "id": 10354,
+        "original_language": "en",
+        "original_title": "True Crime",
+        "overview": "Boozer, skirt chaser, careless father. You could create your own list of reporter Steve Everett's faults but there's no time. A San Quentin Death Row prisoner is slated to die at midnight – a man Everett has suddenly realized is innocent.",
+        "popularity": 37.688,
+        "poster_path": "/2VEqqlmSZ0VSr74XOTWUQUUGYWF.jpg",
+        "release_date": "1999-03-19",
+        "title": "True Crime",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 712
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h66wBX53oreHLaR7xQHpSaF5HhL.jpg",
+        "genre_ids": [
+            16,
+            28,
+            80,
+            9648,
+            10749,
+            53
+        ],
+        "id": 662638,
+        "original_language": "ja",
+        "original_title": "名探偵コナン 緋色の弾丸",
+        "overview": "At the opening ceremony of the WSG (World Sports Games) Tokyo Games, a sports festival held once every four years, it is announced that the world's first vacuum superconducting maglev with a maximum speed of 1,000 kilometers per hour will open. While attracting attention from around the world, top executives of large companies are kidnapped from the party venue where WSG tournament sponsors gather. Conan moves toward a solution and eventually finds a connection with the WSG abduction case that occurred 15 years ago in Boston, USA.",
+        "popularity": 37.685,
+        "poster_path": "/wowJzvF1KqEFSZoArkgngRy1r4L.jpg",
+        "release_date": "2021-04-16",
+        "title": "Detective Conan: The Scarlet Bullet",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 73
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2NI8J2dktpprOfXb65hsNQ5TNt6.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 12149,
+        "original_language": "en",
+        "original_title": "Frailty",
+        "overview": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to kill people who were in fact \"demons.\"",
+        "popularity": 37.682,
+        "poster_path": "/yBXrSxXoGkyexS3ysUOxEpE2P94.jpg",
+        "release_date": "2002-04-12",
+        "title": "Frailty",
+        "video": false,
+        "vote_average": 6.969,
+        "vote_count": 1125
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3Ef8PWUiP1ehO1ESEroxb736srR.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 808023,
+        "original_language": "en",
+        "original_title": "The Virtuoso",
+        "overview": "Danger, deception and murder descend upon a sleepy town when a professional assassin accepts a new assignment from his enigmatic boss.",
+        "popularity": 37.659,
+        "poster_path": "/vXHzO26mJaOt4VO7ZFiM6No5ScT.jpg",
+        "release_date": "2021-04-30",
+        "title": "The Virtuoso",
+        "video": false,
+        "vote_average": 5.979,
+        "vote_count": 356
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bylJq7JEA87YqHMObZUnaP292T2.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 958006,
+        "original_language": "en",
+        "original_title": "The Kill Room",
+        "overview": "A hitman, his boss, an art dealer and a money-laundering scheme that accidentally turns the assassin into an overnight avant-garde sensation, one that forces her to play the art world against the underworld.",
+        "popularity": 37.644,
+        "poster_path": "/qKpdy7N6zX05eisopvvviiTwPxb.jpg",
+        "release_date": "2023-09-14",
+        "title": "The Kill Room",
+        "video": false,
+        "vote_average": 6.045,
+        "vote_count": 168
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y6tKHt7iwcYwqckk3iOZV0vWKRM.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 353070,
+        "original_language": "en",
+        "original_title": "Going in Style",
+        "overview": "Desperate to pay the bills and come through for their loved ones, three lifelong pals risk it all by embarking on a daring bid to knock off the very bank that absconded with their money.",
+        "popularity": 37.591,
+        "poster_path": "/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg",
+        "release_date": "2017-04-06",
+        "title": "Going in Style",
+        "video": false,
+        "vote_average": 6.705,
+        "vote_count": 2717
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2tsmTWJsR81cwwZHLE85vPxSCoR.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 320,
+        "original_language": "en",
+        "original_title": "Insomnia",
+        "overview": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.",
+        "popularity": 37.59,
+        "poster_path": "/riVXh3EimGO0y5dgQxEWPRy5Itg.jpg",
+        "release_date": "2002-05-24",
+        "title": "Insomnia",
+        "video": false,
+        "vote_average": 6.945,
+        "vote_count": 4636
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t3LwNN6teRjDlJADo2jcfVLJVDu.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 569016,
+        "original_language": "ko",
+        "original_title": "언니",
+        "overview": "A woman seeks to take revenge when her younger sister disappears and she finds out that her sister suffered violence and sexual abuse from school bullies.",
+        "popularity": 37.563,
+        "poster_path": "/3KJVCVADvtZ6esjPWPHObjPMuK4.jpg",
+        "release_date": "2019-01-01",
+        "title": "No Mercy",
+        "video": false,
+        "vote_average": 7.212,
+        "vote_count": 132
+    }
+]

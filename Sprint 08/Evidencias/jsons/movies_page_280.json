@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/3wYxUh4sUK2oLhtcGMHEDi7FZ8L.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 652048,
+        "original_language": "en",
+        "original_title": "Red Devil",
+        "overview": "An intertwining tale of sex, drugs, rock and woe.  Lives criss-cross and converge thanks to the most addictive drug in human history, Red Devil—which also happens to be the title of Savvas D. Michael’s tale of sex, drugs, and guns. An anonymous voice at the start of the film warns, “Once you’ve tasted the devil’s cum, everything else is dull and numb.” The current problem with the Red Devil drug is the supply has dried up. Addicts are so desperate for it they’re willing to kill for it…and they do.",
+        "popularity": 11.071,
+        "poster_path": "/pbgi9JIRc9dMr8kS9zYVKppsUE4.jpg",
+        "release_date": "2019-11-29",
+        "title": "Red Devil",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vQDodupHFJwEZqVw4lg9JYQcJOX.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 386831,
+        "original_language": "ja",
+        "original_title": "野良犬",
+        "overview": "When his pistol is stolen, police detective Murakami is humiliated, especially when the gun is later implicated in a crime. Working with his superior, Chief Detective Sato, Murakami works feverishly to trace the location of his pistol, ultimately clashing with a gang of youthful Okinawans.",
+        "popularity": 11.07,
+        "poster_path": "/pYgZ7KN6mqWgbjNCYxhrKGtGySf.jpg",
+        "release_date": "1973-09-29",
+        "title": "Stray Dog",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4Mk9GCR4AP7yOsN1WwxEVAYsx1G.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 28321,
+        "original_language": "it",
+        "original_title": "I ragazzi del massacro",
+        "overview": "Some youngsters rape and kill their teacher; but they won't tell their motivation. The police detective on the case feels some sinister influence behind the young murderers.",
+        "popularity": 11.069,
+        "poster_path": "/fjbtDJ8FDLjJckGjoLkdku2UOIs.jpg",
+        "release_date": "1969-11-10",
+        "title": "Naked Violence",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lJH4Ml80gkbbyBGTIYVbU64tU5R.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 25510,
+        "original_language": "hi",
+        "original_title": "जन्नत",
+        "overview": "A gambler turns into a cricket bookie banking on his sixth sense for the game. But his urge to make quick money pushes him into match-fixing and he loses control of his life and love.",
+        "popularity": 11.066,
+        "poster_path": "/8MnR5wykZmi5rrbq8yP5MItixD0.jpg",
+        "release_date": "2008-05-16",
+        "title": "Jannat",
+        "video": false,
+        "vote_average": 6.071,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v3sPv48qk0IQ4UshIAzYnAJHk1Y.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 155973,
+        "original_language": "hi",
+        "original_title": "Aan: Men at Work",
+        "overview": "Crime is at its highest peak in Mumbai with it split in three ways. Walia has one-third, Manik Rao has one-third and Roshni has a third of the Mumbai territory. The crime rate rises with more smuggling, trading and illegal activities soaring.",
+        "popularity": 11.065,
+        "poster_path": "/3iZjhwvpnSrZPWviWWSs2wu10ey.jpg",
+        "release_date": "2004-06-04",
+        "title": "Aan: Men at Work",
+        "video": false,
+        "vote_average": 5.194,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/98BO7B7UQLmDXTDUuutPwrbk2tq.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 100269,
+        "original_language": "en",
+        "original_title": "Enemy Territory",
+        "overview": "An insurance salesman inadvertently gets trapped after dark in an apartment building that is terrorized by a street gang called \"The Vampires.\"",
+        "popularity": 11.061,
+        "poster_path": "/r5jf8QtZHPcAZmk3qJHIHv8Bsfc.jpg",
+        "release_date": "1987-05-22",
+        "title": "Enemy Territory",
+        "video": false,
+        "vote_average": 5.879,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AcwRrdviaBcrYPJHXtzRR0CaVgy.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 326683,
+        "original_language": "ja",
+        "original_title": "男の顔は履歴書",
+        "overview": "Also known as \"History of a Man’s Face\" and \"By a Man's Face Shall You Know Him\" . Immigrant gangs terrorize a Japanese town with their threats, loud jazz, and tasteless fashion sense, and only the tough but suave Dr. Amamiya (Ando) can stop them, as long as he gets rid of his silly peace-loving ideals.",
+        "popularity": 11.057,
+        "poster_path": "/r7htbwaDS73CVUN5rqHNZ8r3YG2.jpg",
+        "release_date": "1966-03-23",
+        "title": "By a Man's Face Shall You Know Him",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 607305,
+        "original_language": "ja",
+        "original_title": "天城越え",
+        "overview": "A fifteen year old boy travels through the Amagi Pass, he encounters some strange people, one of them is the geisha Ozuka Hana. After a murder takes place, the police searchs for the culprit.",
+        "popularity": 11.056,
+        "poster_path": "/aXQ1kv5JcNU1nhZC2owkPYPxP7v.jpg",
+        "release_date": "1998-01-01",
+        "title": "Amagi Pass",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a5JsvCdyk0rj4vNYcIuV3RJFQFy.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 99194,
+        "original_language": "en",
+        "original_title": "The Evictors",
+        "overview": "A nice young couple move into an eerie house located in a small Louisiana town, unaware of its violent history.",
+        "popularity": 11.054,
+        "poster_path": "/5qpMxcPDt9PP7YCQ1z6GkOVzy27.jpg",
+        "release_date": "1979-04-17",
+        "title": "The Evictors",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10751,
+            80
+        ],
+        "id": 665669,
+        "original_language": "ko",
+        "original_title": "비광",
+        "overview": "Baseball player Jung-gu and movie star Nam-mi are a celebrity couple who are blissfully happy in their careers and marriage. One day, a girl named Dong-ju shows up and the couple's lives are instantly destroyed. Seven years later, as Dong-ju gets involved in the death of a middle-school girl, Jung-gu and Nam-mi decide to fight a battle they have no chance of winning.",
+        "popularity": 11.053,
+        "poster_path": "/ln2odYjHOEQrV5aPShCAyFm7ugH.jpg",
+        "release_date": "",
+        "title": "Portrait of a Family",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x5rzFwu8TJfMjmPp1tjs7mX521G.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            878
+        ],
+        "id": 440023,
+        "original_language": "ja",
+        "original_title": "機動刑事ジバン",
+        "overview": "Jiban goes into action to save Yoko and several captured children from Doctor Giba's plot of creating the ultimate lifeform.",
+        "popularity": 11.051,
+        "poster_path": "/d4Y20j0IuO0fJTxCQ2It5Ewe6Cx.jpg",
+        "release_date": "1989-07-05",
+        "title": "Kidou Keiji Jiban: Great Explosion at the Monster Factory of Fear",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n9sk4nyir9Gc3nLiwL5PoFpKsnH.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 118281,
+        "original_language": "sv",
+        "original_title": "Prime Time",
+        "overview": "It is Midsummer's Eve and ten people are on a deserted castle for a TV recording. The next morning the program leader is shot dead. Kvällspressens Annika Bengtzon a mandate to monitor the murder, but she soon learns that her best friend Anne Snapphane is one of the ten suspects. When the police released all one after another - all except Anne - it becomes personal for Bengtzon who will do anything to exonerate her friend.",
+        "popularity": 11.05,
+        "poster_path": "/zohaTLTrQoN1oeMm2jr6VS6YEgJ.jpg",
+        "release_date": "2012-07-04",
+        "title": "Annika Bengtzon: Crime Reporter - Prime Time",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aqMBEpd4kC8GpUg6761qFPkvQuS.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1188104,
+        "original_language": "th",
+        "original_title": "ปล้นทะลุไมล์",
+        "overview": "A fast-paced action drama about siblings desperately needing money for their mother's treatment. Then the brother, who is the stunt performer, inevitably needs to be involved with.",
+        "popularity": 11.046,
+        "poster_path": "/r6vVnsWyESNpiamrfBvnxXYcWlZ.jpg",
+        "release_date": "2023-11-09",
+        "title": "The X-Treme Riders",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/62YoaQoNH0TD7DK2yaBnfhAV9WO.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80,
+            53
+        ],
+        "id": 6319,
+        "original_language": "en",
+        "original_title": "The Karate Killers",
+        "overview": "International spies Napoleon Solo (Robert Vaughn) and Illya Kuryakin (David McCallum) travel around the globe in an effort to track down a secret formula that was divided into four parts and left by a dying scientist with his four of five daughters, all of whom live in different countries. His widow, Amanda, is murdered at the beginning by the counter-spies of the organization THRUSH. Evil THRUSH agent Randolph also wants the formula, and is aided by his karate-chopping henchmen.",
+        "popularity": 11.045,
+        "poster_path": "/a4phL3Z7rJcmsMFX6umKnVbVPgJ.jpg",
+        "release_date": "1967-04-07",
+        "title": "The Karate Killers",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3270pjGog68n5NKQP6vQOVndLyl.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 500849,
+        "original_language": "it",
+        "original_title": "La terra dell'abbastanza",
+        "overview": "Mirko and Manolo are best friends and live in the suburbs of Rome. They both live in poor conditions with their single parents, are still in school and struggle with occasional odd jobs to make ends meet. Together they share dreams of women, of sex and money, of a better life to come. Then, after killing a man in a hit-and-run one night, they get involved with the local mafia and their lives change dramatically.",
+        "popularity": 11.044,
+        "poster_path": "/rZpkx4mEqglDaOEQvJMJ6hBKIUF.jpg",
+        "release_date": "2018-06-07",
+        "title": "Boys Cry",
+        "video": false,
+        "vote_average": 7.019,
+        "vote_count": 269
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8W8xWYVLn5XNljbkrpYUtUt52zt.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            10770
+        ],
+        "id": 94116,
+        "original_language": "en",
+        "original_title": "The Return of the Man from U.N.C.L.E.: The Fifteen Years Later Affair",
+        "overview": "When THRUSH steals a nuclear weapon and demands a ransom delivered by Napoleon Solo, UNCLE recalls him and his partner to duty.",
+        "popularity": 11.042,
+        "poster_path": "/63RlXOunT1lFlyIOZnoxQsOzHzl.jpg",
+        "release_date": "1983-04-05",
+        "title": "The Return of the Man from U.N.C.L.E.: The Fifteen Years Later Affair",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s6jNaEOcaOISRA9Cb1ck5ix80mQ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 15469,
+        "original_language": "en",
+        "original_title": "Le Couteau dans la plaie",
+        "overview": "Immediately after Lisa declares that she is leaving her immature, abusive, but easy-going husband Robert, he is reported dead in a plane crash. Secretly still alive, he convinces her to collect his life insurance, although she knows that it's a bad idea. Lisa must contend with the complications of the scheme, which involve an aggressive suitor, Robert's jealousy, and her own guilt.",
+        "popularity": 11.041,
+        "poster_path": "/1QoBTOxNCfy5PntYGu1slSsAOUs.jpg",
+        "release_date": "1962-12-12",
+        "title": "Five Miles to Midnight",
+        "video": false,
+        "vote_average": 5.825,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b7QUhcvXmY4GjtZoKyORpffBJCx.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18,
+            9648
+        ],
+        "id": 357648,
+        "original_language": "ja",
+        "original_title": "黒い福音",
+        "overview": "In 1959, a body of a flight attendant of an international airline is found, strangled. Detective Rokuro Fujisawa takes charge of the investigation with a young detective Ichimura and his investigations lead him to Father Tolbeck as a suspect. But the police are forced to move very discreetly as the time was right after the Second World War, when a sensitive situation that involves Western people and religion is likely to become an international issue. The investigation leads to an unexpected discloser of a shadowy business behind the church that reflects the uncertainty of the time.",
+        "popularity": 11.039,
+        "poster_path": "/msey5iTIz3i47sWslpuBoCrrtUq.jpg",
+        "release_date": "2014-01-19",
+        "title": "Seicho Matsumoto's Black Gospel",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bPggCFClLVQPJO64NKBveyGZfiC.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 30964,
+        "original_language": "en",
+        "original_title": "The Lost Son",
+        "overview": "Xavier Lombard is a world-weary private eye in London, in exile from his native Paris; his best friend is Nathalie, a high-class call girl. He gets a call from an old friend from the Paris police department, now a businessman whose brother-in-law is missing. The missing man's parents hire Xavier over their daughter's objections, and quickly he finds himself in the realm of children's sexual slavery.",
+        "popularity": 11.039,
+        "poster_path": "/3Et7EXmtQ4Ds2xc5hBPxuUwmSqX.jpg",
+        "release_date": "1999-06-25",
+        "title": "The Lost Son",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xasfaugCfhrnwLnqF90hn7iPhyr.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 180929,
+        "original_language": "en",
+        "original_title": "Whiffs",
+        "overview": "Elliott Gould steals Army nerve gas to help him rob banks when he’s kicked out of the military after 15 years of service as a human guinea pig in its chemical warfare experiments.",
+        "popularity": 11.033,
+        "poster_path": "/b8q4BBhKLIgqtxfnGktQ92vcO3z.jpg",
+        "release_date": "1975-10-15",
+        "title": "Whiffs",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 7
+    }
+]

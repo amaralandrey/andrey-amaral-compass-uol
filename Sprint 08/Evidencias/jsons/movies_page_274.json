@@ -1,0 +1,383 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/eR6Id7Z6rnirDxNQ8q3XxJ50xGT.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 26426,
+        "original_language": "en",
+        "original_title": "A Show of Force",
+        "overview": "In this thriller, television reporter Kate Ryan de Meléndez investigates the death of two radical Puerto Rican activists, whom she begins to believe may have been framed and murdered by undercover American agents.",
+        "popularity": 11.265,
+        "poster_path": "/keqFwiYtHnTIMTMvQjAYyGEkrQp.jpg",
+        "release_date": "1990-05-11",
+        "title": "A Show of Force",
+        "video": false,
+        "vote_average": 4.786,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1263330,
+        "original_language": "es",
+        "original_title": "El Jockey",
+        "overview": "Remo's self-destructive behavior overshadows his talent. Abril, an upcoming jockey is pregnant by Remo and has to decide between child or continuing to race. They both race for Sirena, an businessman who saved Remo's life in the past.",
+        "popularity": 11.264,
+        "poster_path": null,
+        "release_date": "2024-08-28",
+        "title": "Kill The Jockey",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/18g5NDPIjjwPCEW1AdudeFyUXWM.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 245382,
+        "original_language": "ko",
+        "original_title": "장군의 아들",
+        "overview": "In Japanese-occupied South Korea, a young man, newly-released from prison, is accepted into a gang for his fighting skills and quickly rises to the top. Based on the life of South Korean mobster and politician Kim Du-han.",
+        "popularity": 11.264,
+        "poster_path": "/e6uDhfJmL11vmXucio1p2DZqBU9.jpg",
+        "release_date": "1990-06-09",
+        "title": "General's Son",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lkCWvnNYGVImyEmGJLgP765wSa5.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 629500,
+        "original_language": "tr",
+        "original_title": "Cinayet Süsü",
+        "overview": "Istanbul Police Department homicide detectives encounter a murder nothing like they’ve seen before.Commissioners Emin, Salih, Asuman and deputy Alaattin begin investigating.But strange murders keep happening. They don’t have any evidence or any clues. Day by day, tempers flare and the police chiefs grow annoyed.As the murders keep piling up, the public’s interest rises. The pressure on Emin and his colleagues get intense.  At last, the chief of police assigns “crime expert” Dizdar Koşu, who has recently come back from the US, to the team.Overwhelmed with panic, pressure and disdain, Emin and his friends try to solve the strangest series of murders with the most unusual methods.This fast race against time immediately turns into a tragicomedy.",
+        "popularity": 11.259,
+        "poster_path": "/eUwpfbOIYr9dpjG45pNkiqob9mC.jpg",
+        "release_date": "2019-10-25",
+        "title": "You've Got Murder",
+        "video": false,
+        "vote_average": 6.366,
+        "vote_count": 97
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/frJh77mFFc5AKMDIaX6S89tQ6rc.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 226702,
+        "original_language": "pl",
+        "original_title": "Układ zamknięty",
+        "overview": "The film is set in the Tricity in 2003, ten years after the end of communism in Poland. The plot, apparently based on the real-life experiences of Kraków businessmen Lech Jerzorny and Paweł Rey, is about three young, talented businessmen who open a high-tech factory. This comes to the attention of the local state ‘mafia’, the local Prosecutor, played by Janusz Gajos, and tax office boss, played by Kasimierz Kaczor, who are both jealous and would like to make money for themselves. We are in Poland, so success must be punished.",
+        "popularity": 11.259,
+        "poster_path": "/mG7t3X9xANLLIu5TdXb5tbTWyDB.jpg",
+        "release_date": "2013-04-05",
+        "title": "The Closed Circuit",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bqlmFXk8g5lUFAiUCkbu1R3SVGS.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 90590,
+        "original_language": "en",
+        "original_title": "Policewomen",
+        "overview": "A lady cop infiltrates an all-female criminal gang.",
+        "popularity": 11.255,
+        "poster_path": "/8mctMWtbR00jSjdZuxOcRA8cKf5.jpg",
+        "release_date": "1974-02-09",
+        "title": "Policewomen",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5q8ZGSZGbI6pMqdVPrbsiPF6zfA.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 287280,
+        "original_language": "en",
+        "original_title": "Hard Vice",
+        "overview": "A vice cop and her partner investigate a string of murders apparently tied to high-priced Las Vegas call girls.",
+        "popularity": 11.254,
+        "poster_path": "/AmW5TPB51leDgLSKNsQo7NkA2FR.jpg",
+        "release_date": "1994-07-27",
+        "title": "Hard Vice",
+        "video": false,
+        "vote_average": 2.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1167673,
+        "original_language": "ja",
+        "original_title": "静かなるドン 第１章",
+        "overview": "Shizuya (Ito Kentaro), the only son of the Kanto region’s largest gang, the Shinshu Clan, which he hates being associated with, works instead for a design company. He works diligently while developing a liking for his strong-willed colleague Akino (Kakei Miwako), but when his father is shot and killed, the battle for succession intensifies. Peaceful lives are transformed.",
+        "popularity": 11.253,
+        "poster_path": "/eQ5qkZQ1qavJZtZWI5Ln5WEU4jg.jpg",
+        "release_date": "2023-05-12",
+        "title": "The Quiet Don: Chapter 1",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 571370,
+        "original_language": "en",
+        "original_title": "報復",
+        "overview": "Detective Tsukimoto kills his partner following a botched robbery and falls deep into debt and despair. After losing everything at the horse races, he is kidnapped by yakuza and offered a chance to clear his debts by putting his life on the line in a game called Cambodia Roulette.",
+        "popularity": 11.253,
+        "poster_path": "/iTjSJsImIPTyB7dtwOJojWpuiox.jpg",
+        "release_date": "1999-05-14",
+        "title": "Revenge",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cx4tQkjAGmErD8yTMhlUOueZ6Uc.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80
+        ],
+        "id": 84506,
+        "original_language": "en",
+        "original_title": "Eyes in the Night",
+        "overview": "Blind detective Duncan Maclain gets mixed up with enemy agents and murder when he tries to help an old friend with a rebellious stepdaughter.",
+        "popularity": 11.248,
+        "poster_path": "/hgzTLwi02VqiNNbzXv5pgTiI7p2.jpg",
+        "release_date": "1942-10-16",
+        "title": "Eyes in the Night",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/omFggc5aU8zElBIDsSxbo0DG9rM.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 62715,
+        "original_language": "it",
+        "original_title": "Assassinio sul Tevere",
+        "overview": "A black-out occurs during the meeting of a gang of criminals. When the light is back one of them is found killed with a stab on his back and all the clues point to a penniless man who had an argument with the victim a short time before the murder.",
+        "popularity": 11.247,
+        "poster_path": "/mja3IPGvuTZubYlWPGSD2IwMo46.jpg",
+        "release_date": "1979-10-12",
+        "title": "Assassination on the Tiber",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hP2wPFG3ZsI3OgVzNZ4OxcaLPT8.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 127608,
+        "original_language": "ru",
+        "original_title": "Приключения Шерлока Холмса и доктора Ватсона: Сокровища Агры",
+        "overview": "Holmes and Dr. Watson help a young lady who is receiving anonymous letters 10 years after her father passed away under shady circumstances. They find themselves in an enigma involving a treasure, murder and a love interest for Watson.",
+        "popularity": 11.243,
+        "poster_path": "/dmynhqV1y9vpaGc45mmsSbtaSAL.jpg",
+        "release_date": "1983-01-01",
+        "title": "The Adventures of Sherlock Holmes and Dr. Watson: The Treasures of Agra",
+        "video": false,
+        "vote_average": 7.865,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i8W7KFX3GchvadHZ6oF77Rb0Ys0.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 43022,
+        "original_language": "en",
+        "original_title": "King of the Roaring 20's – The Story of Arnold Rothstein",
+        "overview": "Gambler Arnold Rothstein marries an actress, avenges his buddy and meets an underworld fate.",
+        "popularity": 11.243,
+        "poster_path": "/z3GlRZUMRvKMnoxXEU9UxPcqgN9.jpg",
+        "release_date": "1961-06-11",
+        "title": "King of the Roaring 20's – The Story of Arnold Rothstein",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dwzjaCNn4qzAY0Fu0AdqxhovSWE.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 359156,
+        "original_language": "it",
+        "original_title": "Non essere cattivo",
+        "overview": "A story set in the 90s and in the outskirts of Rome to Ostia. A world where money, luxury cars, night clubs, cocaine and synthetic drugs are easy to run. A world in which Vittorio and Cesare, in their early twenties, act in search of their success.",
+        "popularity": 11.238,
+        "poster_path": "/taSfNqBkM6fVexayWLKcqHxMg7a.jpg",
+        "release_date": "2015-09-08",
+        "title": "Don't Be Bad",
+        "video": false,
+        "vote_average": 7.795,
+        "vote_count": 951
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k7sjXZU5NAcmJueziFKrPvaWxYz.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 393091,
+        "original_language": "ja",
+        "original_title": "二代目はクリスチャン",
+        "overview": "The story of beautiful Christian nun, Kyoko who is the object of affection for two very different men - one the happy-go-lucky yakuza gangster, Haruhiko who is the next-in-line to takeover the ragtag \"Tenryu Gumi\" gang and the other bumbling police detective Kumashiro. The Tenryu Gumi is a collection of misfits and other troublemakers but are relatively peaceful due to their Christian beliefs. Their bitter rivals are the more traditional \"Kuroiwa Gumi\", a much more sadistic and violent group led by godfather Kuroiwa.",
+        "popularity": 11.235,
+        "poster_path": "/d94IEygDUVPkA27IA7m38qI2wuu.jpg",
+        "release_date": "1985-09-14",
+        "title": "The Second Is a Christian",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ydNd3ZtWgvu4Fpsx1Vcg0x0igsj.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 6320,
+        "original_language": "fr",
+        "original_title": "Police",
+        "overview": "Mangin, a police inspector in Paris, leans hard on informants to get evidence on three Tunisian brothers who traffic in drugs. He arrests one, Simon, and his girl-friend Noria. Simon's brothers go to their lawyer. He springs Noria, who promptly steals 2 million francs that belong to the Tunisians. They suspect her of the theft; her life as well as the lawyer's is in danger. Meanwhile, Noria is playing with both the lawyer and Mangin's affections. Mangin is mercurial anyway: intimidating and bloodying suspects, falling for a police commission trainee before flipping for Noria, wearing his emotions on his sleeve. Can he save the lawyer and Noria, and can he convince her to love?",
+        "popularity": 11.235,
+        "poster_path": "/rMBanDuFv1M3LrJgVlwJqVFEujx.jpg",
+        "release_date": "1985-09-04",
+        "title": "Police",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 107
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fQV5X2erl9afGJakDz2WHA2spvq.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 30784,
+        "original_language": "en",
+        "original_title": "The Criminal",
+        "overview": "When a robbery at a racetrack goes wrong ex-con Johnny Bannion is caught and sent back to prison. He won't tell the rest of the gang where he has stashed the loot leading to violent consequences.",
+        "popularity": 11.234,
+        "poster_path": "/z0GXcOStFPIIG3XcFqGSr7qAlg.jpg",
+        "release_date": "1960-09-13",
+        "title": "The Criminal",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aYiCymYGLrSElxiK6qCxSqGKtmY.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 37403,
+        "original_language": "hi",
+        "original_title": "अग्निपथ",
+        "overview": "A young boy's father is lynched before his eyes; fifteen years later he returns home for revenge.",
+        "popularity": 11.233,
+        "poster_path": "/d9OfOqRTrW5FX1dhDPwaMNqm6GB.jpg",
+        "release_date": "1990-02-16",
+        "title": "Agneepath",
+        "video": false,
+        "vote_average": 6.274,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yCIITNSi3UK2b01VKs7vyvCOGED.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 284440,
+        "original_language": "en",
+        "original_title": "The Informers",
+        "overview": "When the detective in charge of investigating a series of bank robberies starts to get too close to the culprits, they set up a blackmail scheme to warn him off. But when the crooks begin to fall out with each other, the police learn the truth.",
+        "popularity": 11.232,
+        "poster_path": "/qfCkM9UqJhzJpzQZ4L6tYiYhkiV.jpg",
+        "release_date": "1963-11-29",
+        "title": "The Informers",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4hPrzlh59ZWyPfE5AUwkGW8AsVx.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 26380,
+        "original_language": "en",
+        "original_title": "Out of the Fog",
+        "overview": "A Brooklyn pier racketeer bullies boat-owners into paying protection money but two fed-up fishermen decide to eliminate the gangster themselves rather than complain to the police.",
+        "popularity": 11.23,
+        "poster_path": "/udoM74cW1L24YP661M2fLAbnQxv.jpg",
+        "release_date": "1941-06-14",
+        "title": "Out of the Fog",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 28
+    }
+]

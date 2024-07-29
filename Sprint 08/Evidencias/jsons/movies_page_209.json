@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/cklyTuRmfICmp9jhgszqLmOrVC5.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 21613,
+        "original_language": "ja",
+        "original_title": "現代やくざ 人斬り与太",
+        "overview": "After serving time, a defiant street thug is incensed to find his town overrun by two yakuza factions. He gathers his crew and takes them on.",
+        "popularity": 14.038,
+        "poster_path": "/vEMbFkcg3NRwOAttDLGKLy2ZfOZ.jpg",
+        "release_date": "1972-05-06",
+        "title": "Street Mobster",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lIEykGhwbEJNVrmtkEpwoiYjDYe.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 146886,
+        "original_language": "fr",
+        "original_title": "Le Gang",
+        "overview": "In 1945, as World War Two comes to a close, five small time crooks unite to form a gang. After several bold robberies they become notorious as \"the front-wheel drive gang\". The police attempt to stop their crime spree with little success, but how long will their luck last?",
+        "popularity": 14.036,
+        "poster_path": "/6eGQokhRN1TnopEi0iDwr4Lhfib.jpg",
+        "release_date": "1977-01-19",
+        "title": "The Gang",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wJldYG9uQcrQrdDEtMmpQlzvuHG.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 25047,
+        "original_language": "fr",
+        "original_title": "Le Deuxième Souffle",
+        "overview": "A gangster escapes jail and quickly makes plans to continue his criminal ways elsewhere, but a determined inspector is closing in.",
+        "popularity": 14.035,
+        "poster_path": "/lyKRTUs9oaqyiIRfgGA18s4xYt3.jpg",
+        "release_date": "1966-11-01",
+        "title": "Le Deuxième Souffle",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 169
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1EF6NoEynyNYODN8qePllCmK9z7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 51512,
+        "original_language": "en",
+        "original_title": "Dear Mr. Gacy",
+        "overview": "A chronicle of the interaction between college student Jason Moss and the object of his obsession, serial killer John Wayne Gacy.",
+        "popularity": 14.027,
+        "poster_path": "/zftYdcc60ixcsQu6a5ndWCUJIQ4.jpg",
+        "release_date": "2010-05-10",
+        "title": "Dear Mr. Gacy",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 76
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9lig0jtFMB6kWH8vgWDLlTXKu5h.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 91845,
+        "original_language": "ja",
+        "original_title": "帰って来た女必殺拳",
+        "overview": "When Koryu's childhood friend Shurei is abducted by gangsters, the desperate young woman recruits a female martial artist and a tough-as-nails stranger to join her for a dangerous rescue mission.",
+        "popularity": 14.025,
+        "poster_path": "/psto61LrBvp7enqKrztjo5Ix2K6.jpg",
+        "release_date": "1975-09-30",
+        "title": "The Return of Sister Street Fighter",
+        "video": false,
+        "vote_average": 6.485,
+        "vote_count": 65
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b9YrwAN8NAGGRlkUqYSLEzaLrYl.jpg",
+        "genre_ids": [
+            18,
+            10770,
+            80
+        ],
+        "id": 101315,
+        "original_language": "en",
+        "original_title": "A Killing in a Small Town",
+        "overview": "The gory ax-murder of one mousy, suburban Texas housewife by another is nearly as shocking as the excuse offered by the bespectacled defendant's attorney: self-defense.",
+        "popularity": 14.023,
+        "poster_path": "/ys0sYqbs6TsovN4dFTboa7n1Bzh.jpg",
+        "release_date": "1990-05-22",
+        "title": "A Killing in a Small Town",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fJHlbR9UwhgURxs80zqFRnuXsgH.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 28797,
+        "original_language": "en",
+        "original_title": "Black Mama, White Mama",
+        "overview": "When two troublemaking female prisoners (one a revolutionary, the other a former harem-girl) can't seem to get along, they are chained together and extradited for safekeeping. The women, still chained together, stumble, stab, and cat-fight their way across the wilderness, igniting a bloody shootout between gangsters and a group of revolutionaries.",
+        "popularity": 14.023,
+        "poster_path": "/pwTnHe9WBBWvaivTNeuuy1tUzLh.jpg",
+        "release_date": "1973-01-19",
+        "title": "Black Mama, White Mama",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8nsk04y7BH6cvft5UPjbjEu8MAw.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 477016,
+        "original_language": "en",
+        "original_title": "Out of Blue",
+        "overview": "Mike Hoolihan is an unconventional New Orleans cop investigating the murder of renowned astrophysicist Jennifer Rockwell, a black hole expert found shot to death in her observatory.  As Mike tumbles down the rabbit hole of the disturbing, labyrinthine case, she finds herself grappling with increasingly existential questions of quantum mechanics, parallel universes, and exploding stars. The hunt for a killer draws a detective into an even larger mystery: the nature of the universe itself.",
+        "popularity": 14.02,
+        "poster_path": "/k74DaMtAhnjeOGX6LIXsvwMStfK.jpg",
+        "release_date": "2019-03-22",
+        "title": "Out of Blue",
+        "video": false,
+        "vote_average": 5.199,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7uCCx8r6B5gwDUdmgOXOWGP7oJC.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            53
+        ],
+        "id": 203562,
+        "original_language": "en",
+        "original_title": "Istanbul",
+        "overview": "A suspected diamond smuggler returns to Istanbul and finds the lady love he thought was dead...or does he?",
+        "popularity": 14.019,
+        "poster_path": "/j989ro9LhVXEQI7xK4IipKiFAUE.jpg",
+        "release_date": "1957-01-23",
+        "title": "Istanbul",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dagl8l1HHAIiN8dXeZ21HUuxrMt.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            80
+        ],
+        "id": 97351,
+        "original_language": "hi",
+        "original_title": "फिर भी दिल है हिंदुस्तानी",
+        "overview": "Two rival reporters team up to help prove the innocence of a man set to be hanged for the murder of a politician.",
+        "popularity": 14.015,
+        "poster_path": "/1ubFkUkzu44BWGDqpg7R13isUrq.jpg",
+        "release_date": "2000-01-21",
+        "title": "Phir Bhi Dil Hai Hindustani",
+        "video": false,
+        "vote_average": 6.639,
+        "vote_count": 79
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/37pBgdYyqojDXWgwJQeZFzaZjj4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 4352,
+        "original_language": "sr",
+        "original_title": "Klopka",
+        "overview": "Mladen and Marija are an ordinary and happy married couple of the \"middle class\" of the society in which they live as tenants. Mladen works as a civil engineer in a state company, and Marija is an English teacher in primary school. The couple finds joy in their only son, Nemanja. They discover that Nemanja has a rare heart disease and healing is possible with an operation in a foreign medical center, which costs €26,000.",
+        "popularity": 14.015,
+        "poster_path": "/j1dLkT7MIwgzuGasL4ohFKERfMm.jpg",
+        "release_date": "2007-02-12",
+        "title": "The Trap",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s1pkVLCJGgslNnlTN7IHOqKxilj.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 49172,
+        "original_language": "en",
+        "original_title": "Public Enemies",
+        "overview": "Ma Barker and her sons rob banks, shoot people and wind up at the top of the FBI's Most Wanted list in the 1930s.",
+        "popularity": 14.01,
+        "poster_path": "/cRvXYxnbUvQlphZBYOf1bJ7lQiD.jpg",
+        "release_date": "1996-04-19",
+        "title": "Public Enemies",
+        "video": false,
+        "vote_average": 3.818,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/woLEI1MC1Ya4eHrFveUXd60hVU.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            35
+        ],
+        "id": 904557,
+        "original_language": "ta",
+        "original_title": "துணிவு",
+        "overview": "A gang goes to rob a bank only to find that there's already a criminal mastermind holding it for ransom, but his identities and motives behind the heist remains mysterious. As they plan to collect the bounty and disappear without a trace, their crimes and their past slowly catches up with them.",
+        "popularity": 14.007,
+        "poster_path": "/5Cdi9MFxEGsfphvDxV4TyY4znP6.jpg",
+        "release_date": "2023-01-10",
+        "title": "Thunivu",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dg294SjdTO3wGg3RWKTmfAbMf4r.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 50185,
+        "original_language": "en",
+        "original_title": "Diary of a Hitman",
+        "overview": "A veteran hitman, Dekker is ready to call it quits and leave the profession. His final job, however, proves to be trickier than expected when a sadistic man recruits the assassin to kill his wife, Jain, and their baby, but he can’t bring himself to do the job, complicating all of their lives.",
+        "popularity": 14.005,
+        "poster_path": "/2sJY7WJWd78E3uGKONV9vgeWEpp.jpg",
+        "release_date": "1991-11-20",
+        "title": "Diary of a Hitman",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bm1KQsK3Ofu9ibTP87g4EaKj8zq.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 86616,
+        "original_language": "en",
+        "original_title": "The Young Savages",
+        "overview": "A district attorney investigates the racially charged case of three teenagers accused of the murder of a blind Puerto Rican boy.",
+        "popularity": 14.003,
+        "poster_path": "/wwuzTM314iVSqodZxBtYHvUFeBM.jpg",
+        "release_date": "1961-05-24",
+        "title": "The Young Savages",
+        "video": false,
+        "vote_average": 6.375,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1g94pw0GnrUHvHXEKP5oFN25AVv.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            28,
+            80
+        ],
+        "id": 229638,
+        "original_language": "en",
+        "original_title": "Alcatraz Island",
+        "overview": "A man who has been railroaded into prison is framed for the murder of a fellow inmate and must prove his innocence.",
+        "popularity": 13.998,
+        "poster_path": "/jVpXErbgpsU4l6BefoSckyj3eoJ.jpg",
+        "release_date": "1937-10-13",
+        "title": "Alcatraz Island",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A4WPLal7kiWJAiloV7gH8PGhGWR.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 18930,
+        "original_language": "en",
+        "original_title": "Murder by Contract",
+        "overview": "Claude is a ruthless and efficient contract killer. His next target, a woman, is the most difficult.",
+        "popularity": 13.993,
+        "poster_path": "/rY0liv7kkpJ4kc7ItSSDngZLVcp.jpg",
+        "release_date": "1958-12-18",
+        "title": "Murder by Contract",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 86
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mIYSIgQjTU0Y7e1yZ08E588A8av.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            53
+        ],
+        "id": 14019,
+        "original_language": "nl",
+        "original_title": "Ex Drummer",
+        "overview": "Three handicapped losers who form a band ask famous writer Dries to be their drummer. He joins the band and starts manipulating them.",
+        "popularity": 13.989,
+        "poster_path": "/7VxXp2h9UtJP6XbeuQGqqbQzoE1.jpg",
+        "release_date": "2007-01-31",
+        "title": "Ex Drummer",
+        "video": false,
+        "vote_average": 6.756,
+        "vote_count": 201
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c5tgnZyPCvYDUCPRkDaXbLdQ6Vu.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 32845,
+        "original_language": "en",
+        "original_title": "Wrong Side of Town",
+        "overview": "Ex-Navy Seal Bobby Kalinowski lives a quiet, peaceful life as a landscape architect in an LA suburb with his wife Dawn and 16 year old daughter Brianna. Tonight they are invited out for an evening on the town by new neighbors clay and Elise Freeman to a happening club downtown. Little did they know that this would be the start of a life or death ordeal for the group.",
+        "popularity": 13.986,
+        "poster_path": "/kqkL6OH8lCp5w4ggxMraZGOjswd.jpg",
+        "release_date": "2010-02-23",
+        "title": "Wrong Side of Town",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 73
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bZNRbRcDVMl6vUfgicWAbD1T7a.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18,
+            10770
+        ],
+        "id": 144293,
+        "original_language": "en",
+        "original_title": "Fatal Honeymoon",
+        "overview": "Based on a true story, Fatal Honeymoon tells the shocking story and controversy surrounding a newlywed who tragically dies on her dream honeymoon and the subsequent investigation as to whether or not her husband was guilty of killing her.",
+        "popularity": 13.985,
+        "poster_path": "/64PReJOUaeYqG22K8jkHC76QI3T.jpg",
+        "release_date": "2012-08-25",
+        "title": "Fatal Honeymoon",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 17
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 161106,
+        "original_language": "it",
+        "original_title": "Assassinio made in Italy",
+        "overview": "In this crime-thriller, Rome proves to be an unhappy destination for an American couple when the husband is kidnapped and his wife begins a desperate search for him.",
+        "popularity": 7.151,
+        "poster_path": "/14NaoHCRdvScUzYbNPksNVbOEgb.jpg",
+        "release_date": "1965-06-07",
+        "title": "Assassination in Rome",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oDPdr7biaH9ssfx0f0oJhmh3xXO.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            12
+        ],
+        "id": 126850,
+        "original_language": "ru",
+        "original_title": "Приключения Шерлока Холмса и доктора Ватсона: Смертельная схватка",
+        "overview": "After upsetting the criminal underground in 'the Master Blackmailer' case, Sherlock Holmes has to face his archenemy: Prof. Moriarty.",
+        "popularity": 7.151,
+        "poster_path": "/qnzWCWPglb8Aoj3UlesfMXf6qrG.jpg",
+        "release_date": "1980-09-09",
+        "title": "The Adventures of Sherlock Holmes and Dr. Watson: Mortal Fight",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yfxLPs8oRioy2G1BWLR7qLyVX4V.jpg",
+        "genre_ids": [
+            12,
+            80,
+            53
+        ],
+        "id": 65978,
+        "original_language": "fr",
+        "original_title": "Le Vampire de Düsseldorf",
+        "overview": "A true story of Peter Kurten, a serial killer who committed nine murders and many other offenses in Dusseldorf during the Great Depression era.",
+        "popularity": 7.151,
+        "poster_path": "/gy3jKCvvIpYpAIIerSpR1aWgund.jpg",
+        "release_date": "1965-04-07",
+        "title": "The Vampire of Dusseldorf",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yCpYVgJH7d49vDc44SKrHLEVhcq.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 27777,
+        "original_language": "en",
+        "original_title": "The Racket",
+        "overview": "A renegade police captain sets out to catch a sadistic mob boss.",
+        "popularity": 7.151,
+        "poster_path": "/wHAJfHslSb6OpNQmj1hu9aE9IQR.jpg",
+        "release_date": "1928-11-01",
+        "title": "The Racket",
+        "video": false,
+        "vote_average": 6.594,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            18
+        ],
+        "id": 751816,
+        "original_language": "ja",
+        "original_title": "点と線",
+        "overview": "Jutaro Torikai is a senior detective set to uncover the truth behind an apparent double suicide.",
+        "popularity": 7.15,
+        "poster_path": "/k2Zsy0aqTdf8bPh2VUCbkKpoPoF.jpg",
+        "release_date": "2007-11-24",
+        "title": "Dots and Lines",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3shcBnylKzIoCuo8AbVcDWa7G7w.jpg",
+        "genre_ids": [
+            28,
+            10749,
+            53,
+            80
+        ],
+        "id": 590162,
+        "original_language": "te",
+        "original_title": "ఫలక్‌నుమా దాస్",
+        "overview": "A group of youngsters headed by Das attempt to monopolise the meat business in Falaknuma. However, they encounter some unexpected problems, which lead them to the path of crime.",
+        "popularity": 7.15,
+        "poster_path": "/bVsguOjjGdmjqgjZizqSVhSYG67.jpg",
+        "release_date": "2019-04-12",
+        "title": "Falaknuma Das",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3201fphL6yWkDCMFjB0A45gi4q0.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 551727,
+        "original_language": "ja",
+        "original_title": "ギャング忠臣蔵",
+        "overview": "A modern gang version of Chushingura, chronicling almost scene for scene the Brave 47 Ronin story, transposed from the Genroku Period to the Showa Era.",
+        "popularity": 7.15,
+        "poster_path": "/amXtt8dt3YeDypZhXwqitgi8F2U.jpg",
+        "release_date": "1963-10-20",
+        "title": "Gang Loyalty and Vengeance",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 434464,
+        "original_language": "ja",
+        "original_title": "狙われた男",
+        "overview": "In the backstreets of Ginza, the boss of a hairdressing salon is found dead, killed by strangulation. The detective on the case soon hears rumors about the murder.",
+        "popularity": 7.15,
+        "poster_path": "/qosZOEUTSF5wLriJUYukLYK1AZQ.jpg",
+        "release_date": "1956-09-11",
+        "title": "The Shadow of Fear",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4PwkSZRqQXDwRjyTAtt8Hv39hhL.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 316229,
+        "original_language": "en",
+        "original_title": "Zarra's Law",
+        "overview": "Retired detective Tony Zarra is pushed into the world of crime after the murder of his younger brother.",
+        "popularity": 7.15,
+        "poster_path": "/a4tHKp3JsXQkkKfOp6v8q24LUCS.jpg",
+        "release_date": "2014-06-11",
+        "title": "Zarra's Law",
+        "video": false,
+        "vote_average": 3.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            80,
+            53
+        ],
+        "id": 238305,
+        "original_language": "en",
+        "original_title": "Deadly Relations",
+        "overview": "Leonard Fagot has four daughters and loves them so much, that he usurps his control over them. He lets them know how he feels about the men they date. And if he disapproves of them, he probably will have them killed to get them out of his daughters' life.",
+        "popularity": 7.15,
+        "poster_path": "/mJbem2fnlTIiqj4AQeAxjK7aMS9.jpg",
+        "release_date": "1993-05-22",
+        "title": "Deadly Relations",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/he8uCRWfg0FMJp2a3PWkgH13tIx.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 732498,
+        "original_language": "en",
+        "original_title": "LUZ",
+        "overview": "Ruben and Carlos become cellmates in a minimum-security prison. While Ruben struggles to learn the ropes of daily life and where he falls in the complex hierarchical prison system, Carlos becomes a mentor and then eventually a lover. The two men develop feelings for one another they can't easily express. As time moves on and one of them is released before the other, there are questions looming as to whether what they had was real or simply out of the need for human connection.",
+        "popularity": 7.149,
+        "poster_path": "/qBZbdrAPMmj6S3pl3UoxzjJ5P8s.jpg",
+        "release_date": "2020-10-01",
+        "title": "LUZ",
+        "video": false,
+        "vote_average": 5.692,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 448839,
+        "original_language": "en",
+        "original_title": "Love You to Death",
+        "overview": "A lawyer prosecuting a man accused of killing his wife must battle with her emotions due to the similarities to the death of her own mother.",
+        "popularity": 7.148,
+        "poster_path": "/lcjqtpKY5muUF0twegHhSdWSDv9.jpg",
+        "release_date": "2015-09-01",
+        "title": "Love You to Death",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1Zyq5BM4bvsHWa5H2MJFechkhG2.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 52912,
+        "original_language": "it",
+        "original_title": "La Banda Del Trucido",
+        "overview": "A shoot out after a robbery ends with the death of the Chief of Police. Police detective Ghini goes in search of a suspect, Lanza, to avenge the death of his boss. Ghini's search leads him to Belli, a Sicilian gangster and 'Trashy', the dirty leader of a gang of killers. The action is violent as both police and criminals track down Belli who still finds some time to attempt a couple of robberies...",
+        "popularity": 7.148,
+        "poster_path": "/hLQxmeMTmxgn4HjraPb6kkxgd9N.jpg",
+        "release_date": "1977-10-01",
+        "title": "Destruction Force",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bMuIP7cNfKWfzs2NoWrzNK0WmHc.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            10770
+        ],
+        "id": 606780,
+        "original_language": "fr",
+        "original_title": "Puzzle",
+        "overview": "A blackmailer threatens to expose secrets about an unsolved murder in Doulac.",
+        "popularity": 7.147,
+        "poster_path": "/hb9wnczJ7h6BeTQpQKhaGTtmS7q.jpg",
+        "release_date": "2019-06-08",
+        "title": "Murder in Saint Omer",
+        "video": false,
+        "vote_average": 5.607,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6DuKAN7lNJcOKKASQ0OjmqFefds.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 69319,
+        "original_language": "tr",
+        "original_title": "Mavi Boncuk",
+        "overview": "After being humiliated and kicked out from a music hall because they could not pay the bill, six ne'er-do-wells decide to kidnap the star performer Emel Sayın for revenge.",
+        "popularity": 7.147,
+        "poster_path": "/8ybTIvC1uu3H5PodBjrtrtUJ8U1.jpg",
+        "release_date": "1974-01-01",
+        "title": "The Blue Bead",
+        "video": false,
+        "vote_average": 7.646,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 220098,
+        "original_language": "en",
+        "original_title": "Hot Money",
+        "overview": "Burt, a clever ex-con, has changed his identity and has managed to land a job as a deputy in small town in upstate New York. On the 4th of July, while the drunken Sheriff Paisley is busy with the local parade and festivities, Burt quietly steals a million dollars in cash from the cellar safe in the local rich old widow's house. Unsuspected, Burt makes plans to live the rest of his life in the lap of luxury in a far off place with his attractive girlfriend, local hash house waitress Jeanette. But when a crisis of conscience hits him like a wave of ice cold water, he starts to think twice about his dastardly deed, and how that purloining of the old lady's money is wrongly affecting his friends as well as innocent locals. But will Burt do the right thing?",
+        "popularity": 7.146,
+        "poster_path": "/bhIoQ7QP3o0ZWOQL4DOH84XpZov.jpg",
+        "release_date": "1983-01-01",
+        "title": "Hot Money",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ePvfTjGNOX4NUtfoigDa4RoFFRC.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 213658,
+        "original_language": "en",
+        "original_title": "Low Winter Sun",
+        "overview": "Frank Agnew is a police detective who kills for revenge and naively believes he's engineered the perfect crime.",
+        "popularity": 7.146,
+        "poster_path": "/wQn4s2T4GpblvZ9taum6pkh67lO.jpg",
+        "release_date": "2006-09-13",
+        "title": "Low Winter Sun",
+        "video": false,
+        "vote_average": 6.632,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5NzHxppVLEx5tBeUpBbDizjODNo.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 106876,
+        "original_language": "en",
+        "original_title": "The Black Panther",
+        "overview": "A gung-ho ex-military man pursues a secret life of crime, culminating in the kidnapping of a teenage heiress.",
+        "popularity": 7.146,
+        "poster_path": "/iR0GRhxL1GlpXTGTDvQKX1tfzrl.jpg",
+        "release_date": "1977-12-26",
+        "title": "The Black Panther",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sctNkufIu5yEn1ZTqjfxt6FTisO.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 222353,
+        "original_language": "en",
+        "original_title": "Dance with Death",
+        "overview": "A string of murders at a local strip joint gives a reporter the chance to do an undercover investigation. She gets a job as a stripper at the establishment, where she befriends some of the other women, who know more about what is happening than they have publicly admitted. As she gets closer to the truth, her life is put in jeopardy.",
+        "popularity": 7.145,
+        "poster_path": "/pU23Sb6DdkF5TrXEnIpda5CP2SQ.jpg",
+        "release_date": "1992-04-22",
+        "title": "Dance with Death",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iwSE3m1fctvY8fSFV8jaAGnrYh8.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 75579,
+        "original_language": "en",
+        "original_title": "Dad Savage",
+        "overview": "A wealthy, successful, East-Anglian tulip grower, Dad Savage is also something of a godfather in the local criminal fraternity but doesn't trust banks to take care of his money. On recommendation from his son, Sav, Dad hires two of Sav's unemployed school friends, Bob and Vic, to help with the business and the crime. After some careless talk from Harold, just known as 'H', about Dad's pension fund, Vic and Bob decide to steal the money from Dad if they can find it. The plans to liberate the money go awry and Sav is killed requiring Bob to call upon his sister Chris to rescue them. Dad intercepts their escape and forces a showdown to try to determine exactly the events of the night in order to identify his son's killer.",
+        "popularity": 7.145,
+        "poster_path": "/2Fcu7nQU9rprQsOBG8RSGkEcU9n.jpg",
+        "release_date": "1998-06-05",
+        "title": "Dad Savage",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 10
+    }
+]

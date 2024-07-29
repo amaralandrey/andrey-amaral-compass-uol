@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/urBBFQrrVxy7T8uytrn7dOoHqZn.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 13855,
+        "original_language": "ko",
+        "original_title": "추격자",
+        "overview": "Joong-ho is a dirty detective turned pimp in financial trouble as several of his girls have recently disappeared without clearing their debts. While trying to track them down, he finds a clue that the vanished girls were all called up by the same client whom one of his girls is meeting with right now.",
+        "popularity": 36.12,
+        "poster_path": "/hy49xJiKN1nakkN1ZmKuOf6vQYR.jpg",
+        "release_date": "2008-02-14",
+        "title": "The Chaser",
+        "video": false,
+        "vote_average": 7.755,
+        "vote_count": 1276
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ru4YeA6BpROEJkIwayqfBHkQ7O.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 2721,
+        "original_language": "fr",
+        "original_title": "Z",
+        "overview": "Amidst a heated political climate, the opposition leader is killed in what appears to be a traffic accident. When a magistrate finds evidence of a government cover-up, witnesses start to get targeted. A thinly-fictionalized account of the events surrounding the assassination of Greek politician Grigoris Lambrakis in 1963, Z captures the outrage about the military junta that ruled Greece at the time.",
+        "popularity": 36.119,
+        "poster_path": "/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg",
+        "release_date": "1969-02-26",
+        "title": "Z",
+        "video": false,
+        "vote_average": 7.831,
+        "vote_count": 513
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yJIRptBDdt92JS4decYj5HL3Q60.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 197950,
+        "original_language": "fr",
+        "original_title": "La French",
+        "overview": "Newly transferred to the bustling port city of Marseille to assist with a crackdown on organized crime, energetic young magistrate Pierre Michel is given a rapid-fire tutorial on the ins and outs of an out-of-control drug trade. Pierre's wildly ambitious mission is to take on the French Connection, a highly organized operation that controls the city's underground heroin economy and is overseen by the notorious —and reputedly untouchable— Gaetan Zampa. Fearless, determined and willing to go the distance, Pierre plunges into an underworld world of insane danger and ruthless criminals.",
+        "popularity": 36.031,
+        "poster_path": "/kIkmaZATFP4RkQSiWgyL6KGOTq6.jpg",
+        "release_date": "2014-12-03",
+        "title": "The Connection",
+        "video": false,
+        "vote_average": 7.119,
+        "vote_count": 813
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iJxz0KK8WNbNLaYrtR70ygND4LJ.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648,
+            53
+        ],
+        "id": 22787,
+        "original_language": "en",
+        "original_title": "Whiteout",
+        "overview": "The only U.S. Marshal assigned to Antarctica, Carrie Stetko will soon leave the harsh environment behind for good – in three days, the sun will set and the Amundsen-Scott Research Station will shut down for the long winter. When a body is discovered out on the open ice, Carrie's investigation into the continent's first homicide plunges her deep into a mystery that may cost her her own life.",
+        "popularity": 36.027,
+        "poster_path": "/kkXXA3353MX60B8PRSkTGRabxXu.jpg",
+        "release_date": "2009-09-09",
+        "title": "Whiteout",
+        "video": false,
+        "vote_average": 5.58,
+        "vote_count": 733
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9O39kchDCZV7zg6WbvTcS2tomK9.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 11699,
+        "original_language": "en",
+        "original_title": "Bad Lieutenant: Port of Call - New Orleans",
+        "overview": "Terrence McDonagh is a New Orleans Police sergeant, who recieves a medal and a promotion to lieutenant for heroism during Hurricane Katrina. Due to his heroic act, McDonagh injures his back and becomes addicted to prescription pain medication. He then finds himself involved with a drug dealer who is suspected of murdering a family of African immigrants.",
+        "popularity": 36.016,
+        "poster_path": "/hMgMdFyPzGZzbiTEKScY8HuNqCS.jpg",
+        "release_date": "2009-09-11",
+        "title": "Bad Lieutenant: Port of Call - New Orleans",
+        "video": false,
+        "vote_average": 6.175,
+        "vote_count": 1090
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cFGE7Bx9ur6nAuc5v4x9If99Ugy.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 226,
+        "original_language": "en",
+        "original_title": "Boys Don't Cry",
+        "overview": "A young transgender man explores his gender identity and searches for love in rural Nebraska.",
+        "popularity": 36.014,
+        "poster_path": "/nKXTgbruSrezC1tAeKB6Ri7cGkK.jpg",
+        "release_date": "1999-09-02",
+        "title": "Boys Don't Cry",
+        "video": false,
+        "vote_average": 7.41,
+        "vote_count": 1292
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mPfN4ExlmlHaxFapAD4EO1nXh3m.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 481880,
+        "original_language": "en",
+        "original_title": "Trial by Fire",
+        "overview": "The tragic and controversial story of Cameron Todd Willingham, who was executed in Texas for killing his three children after scientific evidence and expert testimony that bolstered his claims of innocence were suppressed.",
+        "popularity": 35.995,
+        "poster_path": "/Aeon31iP17ys9FesAK3bLycXI6v.jpg",
+        "release_date": "2019-05-17",
+        "title": "Trial by Fire",
+        "video": false,
+        "vote_average": 6.839,
+        "vote_count": 199
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yH36l9jTeeY69clGiPgtORQRZnG.jpg",
+        "genre_ids": [
+            80,
+            16,
+            28
+        ],
+        "id": 17922,
+        "original_language": "ja",
+        "original_title": "ゴルゴ13",
+        "overview": "Indestructible to his enemies and irresistible to women, the professional assassin codenamed Golgo 13 is shrouded in mystery and anonymity. If you're on his hit list, you're already dead. Always hired on his reputation alone, Golgo never breaks a contract. Can he survive the combined forces of the FBI, CIA, the Pentagon and the U.S. Army? Has the nameless agent finally met his match against the superhuman powers of the Snake and the twin evils of the psychopathic mercenaries, Gold and Silver?",
+        "popularity": 35.983,
+        "poster_path": "/nOTFmar2FyhDEDFNIMQL97K5Pcg.jpg",
+        "release_date": "1983-05-28",
+        "title": "Golgo 13: The Professional",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dCGnro9iiwavXqWxSNEUSDnPQK2.jpg",
+        "genre_ids": [
+            28,
+            80,
+            27
+        ],
+        "id": 1803,
+        "original_language": "en",
+        "original_title": "Angel",
+        "overview": "Molly Stewart, a teen at the top of her class who survives by working nights as a prostitute on Hollywood Blvd, finds her world beginning to fall apart when a depraved, necrophiliac serial killer begins targeting LA’s streetwalkers.",
+        "popularity": 35.94,
+        "poster_path": "/yc00EFOHTzvH5ww1ywqVszQI0Cd.jpg",
+        "release_date": "1984-04-19",
+        "title": "Angel",
+        "video": false,
+        "vote_average": 5.916,
+        "vote_count": 95
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2T3k09YnrM03CQd1yK3ZQLEHEZH.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 10632,
+        "original_language": "en",
+        "original_title": "The Hunted",
+        "overview": "In the wilderness of British Columbia, two hunters are tracked and viciously murdered by Aaron Hallam. A former Special Operations instructor is approached and asked to apprehend Hallam—his former student—who has 'gone rogue' after suffering severe battle stress from his time in Kosovo.",
+        "popularity": 35.936,
+        "poster_path": "/iIl3l7BPenoVpdRJAqIXeIgMQvV.jpg",
+        "release_date": "2003-03-11",
+        "title": "The Hunted",
+        "video": false,
+        "vote_average": 6.192,
+        "vote_count": 769
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c1f7HpEEEZaOQ5PxAGLwbauURMu.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 1007427,
+        "original_language": "en",
+        "original_title": "Night Train",
+        "overview": "Mother Holly McCord is driven to extremes to save the life of her young son. Even if it means hauling black market drugs in her souped-up truck, with the Feds in hot pursuit. With two bounties on her head and her son’s life on the line, Holly climbs behind the wheel of “Night Train,” ready to outrun, out gun, and outlast them all.",
+        "popularity": 35.863,
+        "poster_path": "/gRWWO0dqCRG6K8ZtRNVf8xrb1Ng.jpg",
+        "release_date": "2023-01-13",
+        "title": "Night Train",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m9lgsATmrHxCC4BPbi5fjLmKlXe.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80
+        ],
+        "id": 16617,
+        "original_language": "en",
+        "original_title": "Mindhunters",
+        "overview": "Trainees in the FBI's psychological profiling program must put their training into practice when they discover a killer in their midst.  Based very loosely on Agatha Christie's And Then There Were None.",
+        "popularity": 35.843,
+        "poster_path": "/o8wAzJIxMS0cZDlRTw9hm1xQO9j.jpg",
+        "release_date": "2004-05-07",
+        "title": "Mindhunters",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 1144
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2pbQTFIND3WLxdcqwJ3QIzJbjOc.jpg",
+        "genre_ids": [
+            80,
+            14,
+            27,
+            28,
+            53,
+            9648
+        ],
+        "id": 950253,
+        "original_language": "ko",
+        "original_title": "천박사 퇴마 연구소: 설경의 비밀",
+        "overview": "For generations, the eldest son of the village has been the protector, but the current heir, Dr. Cheon, is a fake exorcist who doesn't believe in ghosts. Using his penetrating insight into people's minds, he performs fake exorcisms and resolves cases brought to him. However, Yoo-kyung, a client who can see ghosts, approaches him with an offer too tempting to refuse. With his assistant In-bae, Dr. Cheon heads to Yoo-kyung’s house, and gets involved in a series of strange phenomena. As they delve into the mysteries there, they uncover the secrets of a talisman known as ‘Seolkyung’...",
+        "popularity": 35.84,
+        "poster_path": "/g4W8RsmWdDXFNMzOCd2DrLyvUsH.jpg",
+        "release_date": "2023-09-27",
+        "title": "Dr. Cheon and the Lost Talisman",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/22xVcTBVURFMHsFw8lNYeLFYj7Z.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 214910,
+        "original_language": "ko",
+        "original_title": "화이: 괴물을 삼킨 아이",
+        "overview": "After being kidnapped as a small child and raised by the five men who abducted him, a teenage boy is now forced to join their life in crime.",
+        "popularity": 35.792,
+        "poster_path": "/cDffUvnm2TaLxQYWTy0PnohSGNP.jpg",
+        "release_date": "2013-10-09",
+        "title": "Hwayi: A Monster Boy",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 224
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6Dm3hMRAFJqMS9wGkCY14XbZFrm.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 27958,
+        "original_language": "en",
+        "original_title": "Cruising",
+        "overview": "When New York is caught in the grip of a sadistic serial killer who preys on patrons of the city's underground bars, young rookie Steve Burns infiltrates the S&M subculture to try and lure him out of the shadows.",
+        "popularity": 35.783,
+        "poster_path": "/6tn8G86dUxT16W7icGLgnMmWGgP.jpg",
+        "release_date": "1980-02-15",
+        "title": "Cruising",
+        "video": false,
+        "vote_average": 6.578,
+        "vote_count": 512
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bxJmFRjwWnpoLFkp5OSzA7xfzn6.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10402
+        ],
+        "id": 10060,
+        "original_language": "en",
+        "original_title": "Get Rich or Die Tryin'",
+        "overview": "A tale of an inner city drug dealer who turns away from crime to pursue his passion, rap music.",
+        "popularity": 35.783,
+        "poster_path": "/aaEJu8vFKtrAoSRtw3xjCf1aM5d.jpg",
+        "release_date": "2005-11-09",
+        "title": "Get Rich or Die Tryin'",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 873
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6M2IeELPSKZZ4iAPz2w0i7wdm6X.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 3432,
+        "original_language": "en",
+        "original_title": "Mr. Brooks",
+        "overview": "A psychological thriller about a man who is sometimes controlled by his murder-and-mayhem-loving alter ego.",
+        "popularity": 35.777,
+        "poster_path": "/yO9pNxyAFGb1i8cutXsYlTF5RT7.jpg",
+        "release_date": "2007-06-01",
+        "title": "Mr. Brooks",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 1645
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/60UN7vvcWWggLe0Uz9EFZJx718P.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 879538,
+        "original_language": "en",
+        "original_title": "Crawlspace",
+        "overview": "After witnessing a brutal murder in a cabin, a man hides in a crawlspace while the killers scour the property for a hidden fortune. As they draw nearer, he must decide if the crawlspace will be his tomb or the battleground in his fight for survival.",
+        "popularity": 35.773,
+        "poster_path": "/yZVByCjWvKdSWcYLacoFmnOoSpm.jpg",
+        "release_date": "2022-03-31",
+        "title": "Crawlspace",
+        "video": false,
+        "vote_average": 5.922,
+        "vote_count": 129
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uc3bIjaCOg54OG9ueviajNYHMTZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 14310,
+        "original_language": "cn",
+        "original_title": "無間道III: 終極無間",
+        "overview": "While Yeung Kam Wing is trying to remove all connections between the mob and him, his actions are being carefully observed by Lau Kin Ming, who bears a personal grudge against him.",
+        "popularity": 35.687,
+        "poster_path": "/kXTHj16K8Lr1EgwdzuzAB1j4Cy5.jpg",
+        "release_date": "2003-12-12",
+        "title": "Infernal Affairs III",
+        "video": false,
+        "vote_average": 6.919,
+        "vote_count": 309
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gbjt7NvOtxTEGT3HZ2XZBoUY4TB.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 158990,
+        "original_language": "en",
+        "original_title": "Wrong Cops",
+        "overview": "A group of bad cops look to dispose of a body that one of them accidentally shot.",
+        "popularity": 35.683,
+        "poster_path": "/oTGY0n5MFueHv7GP1P9aPhuR11I.jpg",
+        "release_date": "2013-12-18",
+        "title": "Wrong Cops",
+        "video": false,
+        "vote_average": 6.081,
+        "vote_count": 291
+    }
+]

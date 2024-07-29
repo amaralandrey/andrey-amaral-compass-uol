@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/rE0lIGJob9VZTfKby8OolUcAQ3q.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 183560,
+        "original_language": "it",
+        "original_title": "Il gatto",
+        "overview": "Amedeo and Ofelia, middle aged brother and sister, own jointly an old decadent, but still attractive, condominium. They want to sell it, but before they have to evict all the tenants. Of course, these don't want to leave at all. The cat (Il Gatto), mascot and beloved by all, dies and this gives the two an excuse to enter the tenants' life. Amedeo starts to court the young Wanda and Ofelia seduces the priest Don Pezzolla. In the meantime police is looking for the cat killer...",
+        "popularity": 9.48,
+        "poster_path": "/uyImcOU9HqqDbpOZRejWDiaXff9.jpg",
+        "release_date": "1977-12-16",
+        "title": "The Cat",
+        "video": false,
+        "vote_average": 6.406,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jrLWBj74IeMEqfsfpQ95CrHgBwl.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            10749
+        ],
+        "id": 79121,
+        "original_language": "en",
+        "original_title": "Double Cross",
+        "overview": "A chance encounter with a blonde in a sports car causes Jack to give chase in his souped up mustang and culminates in a car crash and a sexual encounter. The blonde asks that he sign that the accident was really her husband's fault, who was not even present, for insurance issues. Jack agrees and finds himself the alibi for murder and with his own past criminal record, he fears jail for lying under oath.",
+        "popularity": 9.475,
+        "poster_path": "/49U1NpepMj4rra9xifeTffTmGyD.jpg",
+        "release_date": "1994-06-29",
+        "title": "Double Cross",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            10749
+        ],
+        "id": 796955,
+        "original_language": "en",
+        "original_title": "Clowning",
+        "overview": "With his girlfriend pregnant, Dante, a pacifist hippie who makes lip balm called, Mama Earth; is struggling to keep his bills paid. After finding a mysterious flyer for a Birthday Clown Wanted, Dante calls the number and obtains the job. At the Birthday Party he meets a female clown named, Pele. After joining her Pity Party, Dante is pulled into an underworld and quickly finds himself in over his head.",
+        "popularity": 9.474,
+        "poster_path": "/xppIANX9DQoRYg3FlNCifDYuFwP.jpg",
+        "release_date": "2022-03-13",
+        "title": "Clowning",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rdWrMuOLps6HsGWwipUUmAp6xCg.jpg",
+        "genre_ids": [
+            12,
+            80,
+            10751,
+            18
+        ],
+        "id": 47638,
+        "original_language": "en",
+        "original_title": "The River Rat",
+        "overview": "On the lazy banks of the Mississippi, a young girl is reunited with her time-served but innocent father. But the reunion is tainted with the whereabouts of the stolen loot, and those who come looking for it...",
+        "popularity": 9.473,
+        "poster_path": "/eFA3NWg1qEKnruLza6QcQNcdxVM.jpg",
+        "release_date": "1984-09-28",
+        "title": "The River Rat",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nOeRITnbW70npT8TueBrerOB4DT.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 540037,
+        "original_language": "cn",
+        "original_title": "豬標一族",
+        "overview": "",
+        "popularity": 9.472,
+        "poster_path": "/sdDHIjLguEv6cZ6bz4ya0dBtI2m.jpg",
+        "release_date": "1990-03-01",
+        "title": "Best Friend of the Cops",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jEOSmfYg365ievQ1GTXWwRMeasK.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 38977,
+        "original_language": "ja",
+        "original_title": "運命じゃない人",
+        "overview": "In one long Friday evening, Takeshi Miyata, a straight-arrow businessman, will encounter a number of people (some only fleetingly) who have intertwining fates.",
+        "popularity": 9.471,
+        "poster_path": "/9aiQ5n0nPBvPEW922x2RHQR1yM6.jpg",
+        "release_date": "2005-07-16",
+        "title": "A Stranger of Mine",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h7qlJvF7iva8Qa8y4Onlb1VwHTJ.jpg",
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 667039,
+        "original_language": "en",
+        "original_title": "Chris Watts: Confessions of a Killer",
+        "overview": "When Chris Watts stoically yet smirkingly pleaded to television cameras for the safe return of his missing pregnant wife Shanann and their two young daughters, dark secrets loomed just beneath the surface.",
+        "popularity": 9.47,
+        "poster_path": "/r1l8RNzMdIXZHf4ddJw8lzMzIIg.jpg",
+        "release_date": "2020-01-25",
+        "title": "Chris Watts: Confessions of a Killer",
+        "video": false,
+        "vote_average": 6.707,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pm8F3rTk4N3NXSQeM9xQdM9uURm.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 664596,
+        "original_language": "en",
+        "original_title": "Funny Face",
+        "overview": "In a Brooklyn threatened by disfigurement from greedy urban developers, two young people meet in a late-night bodega. Their unexpected bond takes on a romantic tone and brings solace to these two superheroes who are powerless in the face of oppression.",
+        "popularity": 9.47,
+        "poster_path": "/fD2ZAcCt4BEhKGpTxdBFoSRCn1Y.jpg",
+        "release_date": "2021-03-30",
+        "title": "Funny Face",
+        "video": false,
+        "vote_average": 4.615,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pGbZl88hyvZnbkpGpc6Yetgjwi3.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 139328,
+        "original_language": "en",
+        "original_title": "Sol Madrid",
+        "overview": "Government agent Sol Madrid travels to Mexico with hooker Stacey to bring mobster Villanova and drug kingpin Dietrich to justice.",
+        "popularity": 9.47,
+        "poster_path": "/x4QBMc3rqzXBveLj1A0bWzeYmTh.jpg",
+        "release_date": "1968-02-07",
+        "title": "Sol Madrid",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 224079,
+        "original_language": "ro",
+        "original_title": "Revanșa",
+        "overview": "\"Revansa\" (Revenge) appeared not so long after the preview movie of the series, \"Un comisar acuza\" (The Police Inspector Calls). In this sequel we meet up with police inspector Tudor Moldovan, once again, who wasn't actually killed and who has returned to put an end to Paraipan's actions once and for all. When Paraipan kidnaps Moldovan's kid, the police inspector makes up his mind to punish Paraipan and his bosses and to finish off the fascist movement, lead by Zavoianu and his allies. Together with the communist that fight to gain power, Moldovan takes out his enemies one by one.",
+        "popularity": 9.466,
+        "poster_path": "/bIy8S38aheMjRjq9iYYJttOwFKZ.jpg",
+        "release_date": "1978-11-12",
+        "title": "Revenge",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g6vwnZ6EeXhmKj8qe101UjXVzOC.jpg",
+        "genre_ids": [
+            10770,
+            53,
+            80
+        ],
+        "id": 651536,
+        "original_language": "en",
+        "original_title": "Gone",
+        "overview": "When the detectives won’t believe she was abducted, a woman must do her own investigation to identify the person who kidnapped her.",
+        "popularity": 9.464,
+        "poster_path": "/AkZVpekR1eCDplnsy4811HLnSmR.jpg",
+        "release_date": "2019-11-08",
+        "title": "Gone",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zcbyJ7Tj2O7urWRPORlsNbaLJt.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 581585,
+        "original_language": "de",
+        "original_title": "Nur eine Frau",
+        "overview": "Hatun Aynur Sürücü, a German woman of Kurdish origin, was shot dead by her brothers at a bus stop in 2005. The story of a woman who fought for her freedom and independence despite her family's objections, and whose life ended in a horrific murder.",
+        "popularity": 9.464,
+        "poster_path": "/74CE2MTBUetadEvx3ipW758U5oR.jpg",
+        "release_date": "2019-05-09",
+        "title": "A Regular Woman",
+        "video": false,
+        "vote_average": 7.417,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/71RBebcMlyTRzi0H2OEIFB8vbgo.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 330629,
+        "original_language": "ta",
+        "original_title": "காக்க காக்க",
+        "overview": "After a police team kills his brother, a drug-dealing gangster vows to kill the entire team and their respective families.",
+        "popularity": 9.462,
+        "poster_path": "/d1tXC8fqHr9khx9rt6W6lVSOlmn.jpg",
+        "release_date": "2003-08-01",
+        "title": "Kaakha Kaakha",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c1yWdASeUiT1FBbaOFn4CyED8rQ.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 664477,
+        "original_language": "ja",
+        "original_title": "暴行儀式",
+        "overview": "In a rural town, ex-members of a motorcycle gang become sporadic victims of vigilante attacks. A group of high school boys are responsible for the various assaults because they're upset that the motorcycle gang had disbanded. The boys idolized the rebel gang and harbored dreams of joining them after graduation. A female student happens to see one of the assaults and is threatened by the high school thugs. But she turns out to tougher than she looks.",
+        "popularity": 9.46,
+        "poster_path": "/7djsskOvSqNwSmcjfSb6HlBQpPW.jpg",
+        "release_date": "1980-02-16",
+        "title": "Rape Ceremony",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i0kjnisPqirgsUa1i8P2EI7MBcs.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            80
+        ],
+        "id": 117472,
+        "original_language": "ja",
+        "original_title": "非常線の女",
+        "overview": "A gangster tries to find redemption with the inadvertent help of an innocent shop girl and his jealous girlfriend will do anything to keep him.",
+        "popularity": 9.46,
+        "poster_path": "/jr3bMEyJlactab0iB2LAgc6eHcU.jpg",
+        "release_date": "1933-04-27",
+        "title": "Dragnet Girl",
+        "video": false,
+        "vote_average": 6.722,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bue2x2wJSXSQk7Z0IKFINlxXMug.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 261503,
+        "original_language": "cn",
+        "original_title": "去吧！揸Fit人兵團",
+        "overview": "The second spin-off film from the Young and Dangerous series.",
+        "popularity": 9.457,
+        "poster_path": "/gsk1IqSWY5U4llVs3aQFHEhJcOs.jpg",
+        "release_date": "1996-09-06",
+        "title": "Once Upon a Time in Triad Society 2",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oBl3zBiRsM86SBTtbel34XHYYq.jpg",
+        "genre_ids": [
+            18,
+            36,
+            80,
+            9648,
+            53
+        ],
+        "id": 424782,
+        "original_language": "pl",
+        "original_title": "Jestem Mordercą",
+        "overview": "Inspired by true events from the 1970s, the story revolves around a young detective who becomes the head of a police unit focused on catching a rampant serial killer of women, nicknamed 'The Silesian Vampire'.",
+        "popularity": 9.454,
+        "poster_path": "/r4zPukclIS35vmM6WChKQwzhk8g.jpg",
+        "release_date": "2016-11-04",
+        "title": "I'm a Killer",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qmMJE75L6uq4pLfKXZJm2iCw1TL.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 252072,
+        "original_language": "en",
+        "original_title": "Black Ice",
+        "overview": "A young woman on the run from a murderous rogue government agent hooks up with a pony-tailed taxi driver who reluctantly agrees to help her.",
+        "popularity": 9.453,
+        "poster_path": "/lhJ84PyhuhxwZyELOiGX1B0qre4.jpg",
+        "release_date": "1992-12-03",
+        "title": "Black Ice",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lCtYKeVHAXi3mr3DBPFvDg5m85h.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 78538,
+        "original_language": "fr",
+        "original_title": "On ne meurt que deux fois",
+        "overview": "Police Inspector Staniland is investigating the death of a pianist. While conducting his investigation and looking through the victim's apartment, he meets Barbara, the mistress of the murder victim. Barbara confesses to the crime, but Staniland, based on his observations and experience, does not believe her. He then sets out to find the truth.",
+        "popularity": 9.453,
+        "poster_path": "/3zycIhAaKnZzPdyRYjUiDZzp97L.jpg",
+        "release_date": "1985-10-09",
+        "title": "He Died with His Eyes Open",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cMIv99W43RErVDhklLgF8uHRV5K.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10749,
+            53
+        ],
+        "id": 36520,
+        "original_language": "en",
+        "original_title": "Playgirl",
+        "overview": "If you remember Shelley Winters from \"The Poseidon Adventure\" or \"Bloody Mama,\" you might tend to forget what a knockout she was early in her career. This film will give you the chance to see her as a sexy nightclub singer teaching her just-in-from-the-sticks friend Colleen Miller the ropes in New York City. When Winters finds out that her married boyfriend Barry Sullivan has fallen for Miller, the recriminations...and bullets...start to fly!",
+        "popularity": 9.453,
+        "poster_path": "/8Loqqu3NUzpL1H1fA8ARrP6B1Hu.jpg",
+        "release_date": "1954-04-21",
+        "title": "Playgirl",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 10
+    }
+]

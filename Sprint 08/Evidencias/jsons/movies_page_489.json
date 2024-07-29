@@ -1,0 +1,395 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 84266,
+        "original_language": "de",
+        "original_title": "The Red Phone: Checkmate",
+        "overview": "",
+        "popularity": 7.031,
+        "poster_path": null,
+        "release_date": "2004-04-01",
+        "title": "The Red Phone: Checkmate",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            9648,
+            80,
+            18,
+            28
+        ],
+        "id": 67348,
+        "original_language": "cn",
+        "original_title": "粉骷髅",
+        "overview": "Talented, young and handsome, Siu is a hero to the town folks and idol of the girls. Still, he has an avowed enemy, bad man Kam. Lately, several girls are murdered immediately after they met Siu. Sheriff Chiu is unable to find a lead but decides to trail Siu. Siu calls on his long time girlfriend Sien Sien but find her grieved by her sister's disappearance. Something untold does happen to Siu as he walks into an ambush set up by Kam. Chiu rushes to Siu's rescue and incidentally finds blood coming out from a porcelain statue. The statue turns out to be an enameled corpse...",
+        "popularity": 7.031,
+        "poster_path": "/adzEhTMOzQOiFnGVb1wN2bPD0Qx.jpg",
+        "release_date": "1981-04-02",
+        "title": "The Phantom Killer",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/10ZasIEIS66gfucorBsbOWLiyxU.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 267504,
+        "original_language": "hi",
+        "original_title": "आखिरी रास्ता",
+        "overview": "David is an old prisoner, released after twenty-four years in a penitentiary for a crime he hasn't committed. The three men who framed him and sent him away, are now prominent citizens of his town. David walks out of the prison straight into a confessional booth at his church. He tells the priest that he is about to kill three prominent men, for which he seeks God's pardon in advance. He must find his old friend, bootlegger and the custodian of David's only son. David had believed in his friend to bring up his son as the worst criminal and seek revenge from the men who put him away. On meeting him, David finds that his son is a Cop instead. Devastated, David continues on his own. When he is about to kill the three men, his son has vowed to protect the citizens under any circumstances. David and his son are at war..who will prevail?",
+        "popularity": 7.03,
+        "poster_path": "/zeOByJ06LPHctubIWZzOfpdPzYQ.jpg",
+        "release_date": "1986-06-02",
+        "title": "Aakhree Raasta",
+        "video": false,
+        "vote_average": 6.583,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            9648,
+            18
+        ],
+        "id": 188804,
+        "original_language": "en",
+        "original_title": "Perfect Alibi",
+        "overview": "Melanie is married to Keith Bauers, she has two beautiful children and she is rich. She decides to engage a girl au pair, Janine, who arrives from France. Everything seems to run perfectly. Janine looks shy and timid and well disposed towards the family. But casually Paula, Melanies's sister, finds out that Janine and Keith are lovers and afterwards she dies in an accident.",
+        "popularity": 7.029,
+        "poster_path": "/88NekdFUH5g0GSIpIN8GhokZJNh.jpg",
+        "release_date": "1995-09-04",
+        "title": "Perfect Alibi",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7OhrA1Uj6Jy6T0cHCf7hZiLstct.jpg",
+        "genre_ids": [
+            80,
+            35,
+            10402
+        ],
+        "id": 99503,
+        "original_language": "tl",
+        "original_title": "Mondomanila: Kung paano ko inayos ang buhok ko matapos ang mahaba-haba ring paglalakbay",
+        "overview": "Mondomanila tells the story of teenage anti-hero Tony de Guzman and the rough neighborhood he calls home.",
+        "popularity": 7.029,
+        "poster_path": "/dF2xjZxoy12fr1jC1vEJ65S6Czy.jpg",
+        "release_date": "2010-11-30",
+        "title": "Mondomanila, or: How I Fixed My Hair After a Rather Long Journey",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6K0U3qcbk2IFYaK6klcAq2G1xO1.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 37413,
+        "original_language": "en",
+        "original_title": "Down Three Dark Streets",
+        "overview": "An FBI Agent takes on the three unrelated cases of a dead agent to track down his killer.",
+        "popularity": 7.028,
+        "poster_path": "/x2JMsqltTw25UbEcdFk8QGCYrP6.jpg",
+        "release_date": "1954-09-02",
+        "title": "Down Three Dark Streets",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 980178,
+        "original_language": "de",
+        "original_title": "Das Licht in einem dunklen Haus",
+        "overview": "In a hospital in Hamburg, an unidentified woman is disconnected from the life-support system. While the investigators search for the mysterious perpetrator, two more men are murdered.",
+        "popularity": 7.027,
+        "poster_path": "/iIABJN2txG9LLEuVCzLol1pr9jQ.jpg",
+        "release_date": "2022-06-24",
+        "title": "Das Licht in einem dunklen Haus",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 309402,
+        "original_language": "ml",
+        "original_title": "പെരുവഴിയമ്പലം",
+        "overview": "Peruvazhiyambalam is a 1979 Malayalam film directed by P. Padmarajan based on his novel of the same name. It marked Padmarajan's directorial debut and the acting debut for Ashokan who plays the central character Raman.  The film is an incisive examination of how violence or totalitarianism works in our society; it dealt with disturbing questions relating to masculinity and how people adore and dread it at the same time. The Hindu described this film as one of the finest films in Malayalam. It won the National Film Award for Best Feature Film in Malayalam. The film was included in IBN Live's list of 100 greatest Indian films of all time.",
+        "popularity": 7.027,
+        "poster_path": "/rz3cGjEkFh5Lvd1hcE0ehz8NmGM.jpg",
+        "release_date": "1979-08-06",
+        "title": "Peruvazhiyambalam",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 259947,
+        "original_language": "cn",
+        "original_title": "入冊",
+        "overview": "Chow Yun Fat plays a police inspector named Cheng who is killed in the line of duty while trying to nab a crook. One of his close friends, Chang Lei (Cheung Lui), decides to take back his resignation letter and track down the crook at any cost.",
+        "popularity": 7.027,
+        "poster_path": "/sOL3nAAJOWksOagThJYvZyaAGNn.jpg",
+        "release_date": "1977-09-23",
+        "title": "Hot Blood",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wFl9p9C0bzpZJYDYK0d24tvnOwM.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 1000517,
+        "original_language": "fr",
+        "original_title": "Le gang des Bois du Temple",
+        "overview": "A retired military man lives in the Temple Woods housing project. Just as he’s burying his mother, his neighbour Bébé, who belongs to a gang of robbers from the area, is preparing to rob the convoy of a wealthy Arab prince.",
+        "popularity": 7.026,
+        "poster_path": "/n6tnyknWIqeZd5hlXZ0psNwRMFo.jpg",
+        "release_date": "2022-10-16",
+        "title": "The Temple Woods Gang",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/shGGwAoeeCye0vOe8ln2lSwSskx.jpg",
+        "genre_ids": [
+            12,
+            35,
+            80
+        ],
+        "id": 157738,
+        "original_language": "tr",
+        "original_title": "Zehir Hafiye",
+        "overview": "The story of a young man who loves crime fiction books, and the daugher of a mafia leader.",
+        "popularity": 7.025,
+        "poster_path": "/dDV7c8nxzs5mttLv81Jd8mOGEZ6.jpg",
+        "release_date": "1989-01-15",
+        "title": "Zehir Hafiye",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pHYuEy64s9mXVwAx0vOj7UYweg1.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 127417,
+        "original_language": "en",
+        "original_title": "This Day and Age",
+        "overview": "A modern-day tale of gangsterism and revenge. After a notorious mobster murders a Jewish tailor and is let off for the crime, a band of outraged high-school students turns into vigilante crusaders hell-bent on punishing the wrongdoers. Memorable pre-Code moment: the students torturing a gangster by dangling him over a pit filled with rats.",
+        "popularity": 7.025,
+        "poster_path": "/9vQkalMoOUJRAXzRy9wvYMwUFdr.jpg",
+        "release_date": "1933-08-25",
+        "title": "This Day and Age",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            18
+        ],
+        "id": 111233,
+        "original_language": "en",
+        "original_title": "Grievous Bodily Harm",
+        "overview": "A schoolteacher (John Waters) becomes obsessed with the idea that his wife (Joy Bell) did not die in a car accident, as everyone else thinks.",
+        "popularity": 7.025,
+        "poster_path": "/1fljQbziLGXTv4jYcC0pB0Ctbkk.jpg",
+        "release_date": "1988-10-26",
+        "title": "Grievous Bodily Harm",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/so5a77bCktWrx3gblhMWQIwg79w.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 79968,
+        "original_language": "en",
+        "original_title": "Gang Bullets",
+        "overview": "A Capone-like racketeer named Anderson, who after being chased out of one town by the authorities immediately sets up shop in another. Unable to get any tangible evidence against Anderson, DA Wayne orders his assistant Carter to dig up some dirt on the gangster boss. To do this, Carter pretends to turned crooked, joining Anderson's gang in order to accumulate evidence. Alas, Carter's girl friend Patricia knows nothing of her boyfriend's subterfuge, and she suspects the worst.",
+        "popularity": 7.025,
+        "poster_path": "/u6jccUvCelr4xPaCYxakFFFcgvA.jpg",
+        "release_date": "1938-11-10",
+        "title": "Gang Bullets",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 265965,
+        "original_language": "en",
+        "original_title": "Gumshoe",
+        "overview": "A hard-boiled tale following Gumshoe, a private eye hot on the trail of his missing partner. In this world of femme fatales and hired goons, the truth lies beneath.",
+        "popularity": 7.023,
+        "poster_path": "/belIP3ODgXTzhMcZBgXaglLkUYs.jpg",
+        "release_date": "2014-03-27",
+        "title": "Gumshoe",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ouQvArnCUKvGXjKqlKbf1V9rd3T.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 64465,
+        "original_language": "it",
+        "original_title": "L'istruttoria è chiusa: dimentichi",
+        "overview": "Arrested on suspicion of a hit and run, a succesful architect is put in prison awaiting trial or release.  Whilst there he witnesses the grim reality of life behind bars: corrupt staff, corrupt inmates, an inhuman judicial system and the power of the Mafia.",
+        "popularity": 7.023,
+        "poster_path": "/cLnWmIb91drnjtyuAKjOM3Hr2nK.jpg",
+        "release_date": "1971-10-27",
+        "title": "The Case Is Closed, Forget It",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 537343,
+        "original_language": "ja",
+        "original_title": "日本暗黒街",
+        "overview": "A lone wolf tries to eliminate a drug-smuggling operation.",
+        "popularity": 7.022,
+        "poster_path": "/5j3zUKuoRIezVHnB4uWbDUWqIEO.jpg",
+        "release_date": "1966-08-26",
+        "title": "Rub Out the Past",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 312755,
+        "original_language": "ko",
+        "original_title": "스타페리의 不請客",
+        "overview": "In the town of Seroa, a Korean immigrant's store has flourishing business and the natives get jealous. In order to buy out the store, they sell their goods at a lower price. One day, Lee Sang-kuk, who manages the restaurant his parents and sister Na-young left behind, is gunned down by a sniper. Han Sung-min starts to investigate Sang-kuk's murder.",
+        "popularity": 7.022,
+        "poster_path": "/qAM0JCCPwkjUDrIJIzIu6i9vc1f.jpg",
+        "release_date": "1984-03-16",
+        "title": "The Uninvited Guest of the Star Ferry",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/azngdzPQWI3WukfR7j6WosrhT03.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 261930,
+        "original_language": "en",
+        "original_title": "Traveling Husbands",
+        "overview": "A salesman gets in trouble with a party girl and a debutante in Detroit.",
+        "popularity": 7.022,
+        "poster_path": "/51CPcDcqIbDI6QB9jSZRv4DDCWV.jpg",
+        "release_date": "1931-08-15",
+        "title": "Traveling Husbands",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yvMGZzPe4C2iX4OLQ05essTYw0H.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 172532,
+        "original_language": "fr",
+        "original_title": "Aimez-vous les femmes ?",
+        "overview": "A writer discovers a link between a vegetarian restaurant and a series of mysterious deaths.",
+        "popularity": 7.022,
+        "poster_path": "/gy6nq54CXpKXOkXfPb2z64uIPNr.jpg",
+        "release_date": "1964-05-13",
+        "title": "A Taste for Women",
+        "video": false,
+        "vote_average": 3.4,
+        "vote_count": 5
+    }
+]

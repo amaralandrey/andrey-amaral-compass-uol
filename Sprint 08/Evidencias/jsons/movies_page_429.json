@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/lG093ffOU7VikDfeG81b1ZaEhvp.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 664869,
+        "original_language": "es",
+        "original_title": "Motel Acqua",
+        "overview": "Perico has seen an adjustment of accounts between Narcos. The result; five million dollars. He decides to steal them. From that moment, his life will change forever but the price to pay will be very high. A thriller and action movie where money is the true god.",
+        "popularity": 7.804,
+        "poster_path": "/c6f6XxdjzenSJfT2X9SNn5sfowb.jpg",
+        "release_date": "2018-12-15",
+        "title": "Motel Acqua",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            27
+        ],
+        "id": 329564,
+        "original_language": "ja",
+        "original_title": "地下鉄連続レイプ",
+        "overview": "A man with a briefcase is being pursued by a small yakuza gang. After abandoning his vehicle, the man boards a train where he and the other passengers watch a woman being assaulted by three thugs. Intimidated, the commuters do nothing to help. Later, the victim reports the incident to the police and a witness finally comes forward. When the man hears about rape on the news he takes steps to protect his identity and begins to track the victim.",
+        "popularity": 7.804,
+        "poster_path": "/pJhev1aDtsGt7Jyd6lqs3FrL01N.jpg",
+        "release_date": "1985-05-22",
+        "title": "Subway Serial Rape",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 268387,
+        "original_language": "en",
+        "original_title": "Young Fugitives",
+        "overview": "A young man befriends the last surviving Civil War veteran, intending to rob him of $50,000.",
+        "popularity": 7.804,
+        "poster_path": "/yvjK3wHj2nhmA2VyDOEaZU6l9SX.jpg",
+        "release_date": "1938-06-30",
+        "title": "Young Fugitives",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/17JGuSzDinYR42T7vSOvp6yio0v.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 49821,
+        "original_language": "pt",
+        "original_title": "400 Contra 1: Uma História do Crime Organizado",
+        "overview": "The story of William da Silva Lima, the last survivor of the group that founded the Comando Vermelho at the end of the 1970s. It shows him living together with the political prisoners incurred under the same National Security Law and his leadership in the Ilha Grande Prison creating a type of unheard of conduct and solidarity in the Brazilian prisons. The film goes on to tell of the group's actions on the streets of Rio de Janeiro during the beginning of the 80s when they irritated the police with their daring robberies, as well as portraying the surprising love story between William and Tereza. The narrative weaves its way between the intimate conflict and the spectacular assaults and escapes.",
+        "popularity": 7.803,
+        "poster_path": "/vYjpX0uLBCtjJBf42zJk4OxepPx.jpg",
+        "release_date": "2010-07-22",
+        "title": "400 Against 1: A History of Organized Crime",
+        "video": false,
+        "vote_average": 5.485,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28,
+            18,
+            10770
+        ],
+        "id": 266197,
+        "original_language": "en",
+        "original_title": "Drug Wars: The Cocaine Cartel",
+        "overview": "This follow-up to \"Drug Wars: The Camarena Story\" chronicles the fact-based fight by the U.S. Drug Enforcement Agency and the Colombian government to bring down billionaire drug lords Don Pablo Escobar Gaviria and José Rodriguez Gacha, leaders of the infamous Medellin Cartel.",
+        "popularity": 7.801,
+        "poster_path": "/6bYr9fsRsPOtOXn1hv7TuKS20QO.jpg",
+        "release_date": "1992-01-19",
+        "title": "Drug Wars: The Cocaine Cartel",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4fU3doeLPZvjQcVV5Qh54lgBqR5.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1131727,
+        "original_language": "es",
+        "original_title": "Últimas voluntades",
+        "overview": "A father sets out to win back the love of his son, whom he abandoned when he was one year old.",
+        "popularity": 7.8,
+        "poster_path": "/cayIuIedkH459R9v3XX2vOZWmBv.jpg",
+        "release_date": "2023-06-30",
+        "title": "Last Wishes",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2kmtVLugmVGutJgcf3ezk9G7pFn.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 71323,
+        "original_language": "fr",
+        "original_title": "125, rue Montmartre",
+        "overview": "Desperate, Didier throws hymself out in the Seine. Pascal, a newsboy, jumps and saves him. It’s the beginning of the friendship between them.Once, as Pascal helps Didier, he finds himself involved in a murder. Only the superintendent believes in his innocence…",
+        "popularity": 7.8,
+        "poster_path": "/fli8HAL0yneqpjQa6WwFe661f2K.jpg",
+        "release_date": "1959-09-09",
+        "title": "125, rue Montmartre",
+        "video": false,
+        "vote_average": 7.631,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eZo4vlfZUpKj0ItLlIDEt0NR8Wb.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 119886,
+        "original_language": "it",
+        "original_title": "Il rossetto",
+        "overview": "A prostitute is robbed and murdered. A fourteen-year-old girl sees a suave gigolo come out of the hotel where the murder occurred. She has a schoolgirl crush on the handsome man though, so instead of reporting the crime she befriends him.",
+        "popularity": 7.799,
+        "poster_path": "/kOBFKoumXkosyM5lo15sgkiFfX6.jpg",
+        "release_date": "1960-03-26",
+        "title": "Lipstick",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sgtFU2UTcyW5Y9xroZQ8Kd1wazs.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            80
+        ],
+        "id": 86610,
+        "original_language": "ko",
+        "original_title": "표류도",
+        "overview": "This melodrama follows the trials and tribulations of a single mother who dares to love. Hyun Hee (Mun Jeong Suk) makes a living running a coffee house. She has to support her illegitimate daughter and mother, and bear the scorn of those who look down on her. Hyun Hee falls in love with a married writer (Kim Jin Kyu), while another customer (Choi Mu Ryong) holds a torch for her. The romantic triangles that unfold lead to tragic consequences.",
+        "popularity": 7.797,
+        "poster_path": "/rjhVd9KOO3z5ktcprpJL5f2Ur2v.jpg",
+        "release_date": "1960-12-17",
+        "title": "A Drifting Story",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/QTQXavNXtcQKywKSRPf9fhhq4d.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 97481,
+        "original_language": "en",
+        "original_title": "The Confession",
+        "overview": "A unique story of redemption and an exploration of good and evil featuring a hit man and a priest.",
+        "popularity": 7.794,
+        "poster_path": "/fVt2hqL756YeA6TShMqlOdXJNmT.jpg",
+        "release_date": "2011-05-02",
+        "title": "The Confession",
+        "video": false,
+        "vote_average": 6.581,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xbOOFeRfhsFwjSpKVQnyxciIuy0.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 38417,
+        "original_language": "en",
+        "original_title": "The Thief",
+        "overview": "A chance accident causes a nuclear physicist, who's selling top secret material to the Russians, to fall under FBI scrutiny and go on the run.",
+        "popularity": 7.794,
+        "poster_path": "/1jXvDY9pqIQu2Y986PoVFm2sDDj.jpg",
+        "release_date": "1952-10-15",
+        "title": "The Thief",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g8vpgMxys5TsSPiuenEpeDdUTfc.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 524520,
+        "original_language": "ru",
+        "original_title": "Взятка",
+        "overview": "A citizen offers the investigator a bribe to close a case... about bribery. But the events unfold in an unpredictable manner.",
+        "popularity": 7.793,
+        "poster_path": "/qHvRM20avSo90EcYoolHsXLCaf5.jpg",
+        "release_date": "2018-06-07",
+        "title": "The Bribe",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tToUsFXIFVYDp5dZELY4WQCf7Ge.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 1081055,
+        "original_language": "de",
+        "original_title": "Der Schutzengel",
+        "overview": "When a body is found floating inside a pond deep in the forest, Detective Paul Werner is faced with a mystery.",
+        "popularity": 7.792,
+        "poster_path": "/1G2WXSVfD3UnK9CuwBTgn60OevJ.jpg",
+        "release_date": "2022-04-10",
+        "title": "Blood Trail",
+        "video": false,
+        "vote_average": 6.063,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10770
+        ],
+        "id": 258404,
+        "original_language": "en",
+        "original_title": "Diagnosis Murder: Diagnosis of Murder",
+        "overview": "Convinced that his long-time patient Nick Osborn didn't murder his boss, Mark Sloan starts investigating the case himself, supported by a junior doctor and a young female pathologist.",
+        "popularity": 7.792,
+        "poster_path": "/bZs6abapTxIkLKrkXg4rakO5oC7.jpg",
+        "release_date": "1992-01-05",
+        "title": "Diagnosis Murder: Diagnosis of Murder",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dCcjOMNvnxxMzF1aMLae25veOEb.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 900410,
+        "original_language": "en",
+        "original_title": "Volkov Origin",
+        "overview": "In the late evening hours, Dr. Angela Perkins finds that she has a new assignment. To dive into the mind of Horton House Penitentiary's newest and most mysterious tenant, Andre Volkov . No one can anticipate the impact that her visit will have on both of their lives as she begins her quest for the truth within his answers.",
+        "popularity": 7.791,
+        "poster_path": "/rn3ydgeGFQbvnFq5jKofcXJgMBA.jpg",
+        "release_date": "2022-04-01",
+        "title": "Volkov Origin",
+        "video": false,
+        "vote_average": 6.524,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q4gpW2sKqINblDdCrtsK9ui2YsD.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 456413,
+        "original_language": "ko",
+        "original_title": "지렁이",
+        "overview": "Won-Sool is an adult man with cerebral palsy. His daughter Jaya is his pride and joy. Jaya though is bullied at school and even worse things happen to her. Won-Sool later decides to get revenge on his daughter's tormentors.",
+        "popularity": 7.791,
+        "poster_path": "/sdydMpIqhTTwh8iWuEGYv0BuiTZ.jpg",
+        "release_date": "2017-04-20",
+        "title": "My Little Baby, Jaya",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2WHNwBt8t9jFrz1QLlONu2aGg99.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 46629,
+        "original_language": "tr",
+        "original_title": "Gemide",
+        "overview": "Sailors want to remain in their small world, which is warm and cozy and full of lies, but their routine life turns upside down when one of them gets mugged and badly beaten.",
+        "popularity": 7.791,
+        "poster_path": "/e1CRSYMeJ7RH6CMhK4Ewwh3n6V5.jpg",
+        "release_date": "1998-12-04",
+        "title": "On Board",
+        "video": false,
+        "vote_average": 7.286,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q83y4LPfDwcXIF0k7ZmmMRJtPvL.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 784940,
+        "original_language": "hi",
+        "original_title": "गुड लक जैरी",
+        "overview": "In dire need of money, Jerry gets drawn into the dangerous world of drug trafficking. Things go awry when she decides to quit.",
+        "popularity": 7.79,
+        "poster_path": "/abcG0hQJVwCdloTTTwrY0jfJ1Em.jpg",
+        "release_date": "2022-07-29",
+        "title": "Good Luck Jerry",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10770,
+            80
+        ],
+        "id": 776929,
+        "original_language": "en",
+        "original_title": "Junk",
+        "overview": "Bafta-winning drama. Following difficulties with her parents, teenager Gemma Brogan leaves home. She falls under the spell of a young woman who introduce her to the world of alternative youth culture and drugs. Initially her new life seems glamorous and exciting but she soon discovers its dark side as she slides uncontrollably into heroin addiction.",
+        "popularity": 7.79,
+        "poster_path": "/xHidOxwTeMBkQV7X7Xfy2JnDlm2.jpg",
+        "release_date": "1999-01-15",
+        "title": "Junk",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tTzCMdfuDCtjKpgFNPo6IuR3p4o.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80,
+            10749
+        ],
+        "id": 90460,
+        "original_language": "en",
+        "original_title": "Whistling in the Dark",
+        "overview": "The operators of 'Silver Haven', a cultish group bilking gullible rich people out of money, is set to inherit a large sum after the deceased woman's heir also dies. Leader Joesph Jones decides to hurry the process along and kidnaps Wally Benton, his fiancé, and a friend, to further this goal. Wally, 'The Fox', is a radio sleuth who solves murders on the air. Jones wants him to devise a perfect murder, and isn't above killing others sloppily along the way to get his foolproof murder plot.",
+        "popularity": 7.79,
+        "poster_path": "/y4cVWIbcmZWZR1DoNXins1Cb1O2.jpg",
+        "release_date": "1941-08-08",
+        "title": "Whistling in the Dark",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 14
+    }
+]

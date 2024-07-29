@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/996nP2LR4FV8yxwTAZedfXwBZqB.jpg",
+        "genre_ids": [
+            12,
+            80
+        ],
+        "id": 3483,
+        "original_language": "en",
+        "original_title": "The Blood of Fu Manchu",
+        "overview": "Fu Manchu inoculates ten women with poison, to kill ten world leaders.",
+        "popularity": 9.741,
+        "poster_path": "/nOLrMzuLI3023432XVLdF9MGHAN.jpg",
+        "release_date": "1968-08-23",
+        "title": "The Blood of Fu Manchu",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zuhDf59c0XV9OHXWNM1tQnqwgP.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 271544,
+        "original_language": "ru",
+        "original_title": "Вход в лабиринт",
+        "overview": "The actions of this mystery movie takes both in the past (in medieval times, as the scientists' hallucinations) and in the days of Perestroika.",
+        "popularity": 9.74,
+        "poster_path": "/nGIkVuwMejqBgudk3T6ox6A9jWU.jpg",
+        "release_date": "1990-05-01",
+        "title": "Entrance to Labyrinth",
+        "video": false,
+        "vote_average": 3.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g2HDk6byPIciEZNAm24KNpBwymD.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 376440,
+        "original_language": "ta",
+        "original_title": "சி3",
+        "overview": "A reputed cop from Tamil Nadu takes charge in Andhra Pradesh to solve the mysterious murder of a top police officer, and takes on local thugs and criminals during the course of his mission.",
+        "popularity": 9.739,
+        "poster_path": "/qnCN8Wm4kRDgjxyV7RhVqXVEhzB.jpg",
+        "release_date": "2017-01-26",
+        "title": "Si 3",
+        "video": false,
+        "vote_average": 5.568,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fZ7uT5cvxfYwtNFtlGEVISGnB8a.jpg",
+        "genre_ids": [
+            80,
+            12,
+            35
+        ],
+        "id": 133827,
+        "original_language": "fr",
+        "original_title": "Échappement libre",
+        "overview": "A greedy gold smuggler hires a handsome hero to transport a stolen fortune to a new hideout accompanied by the smuggler's sexy girlfriend.",
+        "popularity": 9.738,
+        "poster_path": "/cLojWssdCS3svE4BUv4vsofsnk4.jpg",
+        "release_date": "1964-09-04",
+        "title": "Backfire",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hiN1KvtpFO1gdt19DoI7xGFw2E8.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 54837,
+        "original_language": "es",
+        "original_title": "El patrullero",
+        "overview": "A naïve rookie in the Mexican highway patrol must adapt in order to survive as he contends with widespread corruption, dangerous drug runners and the consequences of his often morally gray actions.",
+        "popularity": 9.738,
+        "poster_path": "/mzDY2spOEXeQsxIGujUUQsah7Tx.jpg",
+        "release_date": "1991-12-28",
+        "title": "Highway Patrolman",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1BbgYWI4Dz1VTgVMcQFwW7OQqRT.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 25499,
+        "original_language": "hi",
+        "original_title": "जाने भी दो यारों",
+        "overview": "Two zanies open a photography studio. They score a partnership with a gossip magazine that suddenly thrusts them into a world of corruption, murder, and hijinks.",
+        "popularity": 9.734,
+        "poster_path": "/237mbmDj7rIRq2vEllCKtprPsPu.jpg",
+        "release_date": "1983-08-12",
+        "title": "Jaane Bhi Do Yaaro",
+        "video": false,
+        "vote_average": 6.991,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cjWXBvA7DnaYjQHCG6yaL1ZTkJ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 191824,
+        "original_language": "en",
+        "original_title": "Rushlights",
+        "overview": "Young lovers Billy and Sarah journey from L.A. to Texas with plans to make a false claim to the valuable assets left behind by a dead friend. But when their voyage brings them to Tremo, Texas, they find a bizarre and sinister world awaiting them.",
+        "popularity": 9.733,
+        "poster_path": "/AcnDFEeeNfP7pZSp11xQLoHsrNY.jpg",
+        "release_date": "2013-06-21",
+        "title": "Rushlights",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mqvQQsvxn8DiwVESAjfJT7u9IrD.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            27
+        ],
+        "id": 92233,
+        "original_language": "it",
+        "original_title": "Le foto proibite di una signora per bene",
+        "overview": "The wife of a financially struggling businessman is blackmailed by a mysterious man into having a sadistic relationship with him, or he will release damning evidence that suggests that her husband is a murderer.",
+        "popularity": 9.732,
+        "poster_path": "/jbr6jAAeW4tbElt47x0kFsAxuIv.jpg",
+        "release_date": "1970-11-27",
+        "title": "The Forbidden Photos of a Lady Above Suspicion",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hiRR61Evb2yMCmaI2XrWBppYVPe.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 89160,
+        "original_language": "en",
+        "original_title": "Father Brown",
+        "overview": "Works of art are disappearing, stolen by a master thief, a master of disguise. Father Brown has two goals: to catch the thief and to save his soul.",
+        "popularity": 9.73,
+        "poster_path": "/xDamZSvZMEbVUj1RNdfjRoETBsr.jpg",
+        "release_date": "1954-06-08",
+        "title": "Father Brown",
+        "video": false,
+        "vote_average": 6.146,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ae5IlnHcrzJYXpLwfGp527rGMEb.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 755408,
+        "original_language": "en",
+        "original_title": "Bang! Bang!",
+        "overview": "Teenagers run into some trouble after they rob a bank.",
+        "popularity": 9.727,
+        "poster_path": "/aK4gFQC46DLxjttqWU22WX5St32.jpg",
+        "release_date": "2020-11-24",
+        "title": "Bang Bang",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 241766,
+        "original_language": "en",
+        "original_title": "Lords of London",
+        "overview": "Tony is a notorious gangster with a big problem. He has woken up in an abandoned farmhouse, with blood on his shirt, and no memory of how he got there. He stumbles into a small town and discovers he’s in an Italian village that seems to be lost in time.",
+        "popularity": 9.726,
+        "poster_path": "/sB6QoN9BlRnXEeN5KXiIuFthjnT.jpg",
+        "release_date": "2014-01-06",
+        "title": "Lords of London",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4KWSgGtWVzjVm8ROgM7y4OkIIp0.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 299840,
+        "original_language": "fr",
+        "original_title": "Assassinée",
+        "overview": "Cathy has been preparing herself since early morning. She is about to celebrate her daughter Eva's 20th birthday. But on this very day, Cathy's life is turned upside-down with the shocking news that her daughter has been murdered. At first devastated and lost when faced with the workings of the police and the justice system, Cathy becomes determined to fight to know the truth...",
+        "popularity": 9.725,
+        "poster_path": "/4UutUHbRBbI6uMJrLQrqFELneJk.jpg",
+        "release_date": "2012-05-15",
+        "title": "Murdered",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ufXuzVf4PHBgMmRNSUo090YD1XB.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            878
+        ],
+        "id": 33554,
+        "original_language": "en",
+        "original_title": "King of the Rocket Men",
+        "overview": "Prof. Millard pretends to be dead and helps Jeff King ferret out Vulcan, the evil traitor at the science academy. Donning his Rocket Man costume King goes from one hair raising rescue to the next in order to keep the newly invented Decimator out of the clutches of Vulcan and his minions.",
+        "popularity": 9.725,
+        "poster_path": "/y5Jm2zIwuKnLzxtKCE0dkCHR9C6.jpg",
+        "release_date": "1949-06-08",
+        "title": "King of the Rocket Men",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bbDETrvFL7I5pRlrSJdYPF6oXph.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 124807,
+        "original_language": "es",
+        "original_title": "Las Vegas: 500 millones",
+        "overview": "After successfully assaulting an armored car between Las Vegas and Los Angeles, the ambitions of the diverse members of the intrepid criminal gang collide, causing undesirable consequences.",
+        "popularity": 9.724,
+        "poster_path": "/ibhPbMWhpwAHpYgE3gKrhhEJc6a.jpg",
+        "release_date": "1968-02-07",
+        "title": "They Came to Rob Las Vegas",
+        "video": false,
+        "vote_average": 5.675,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eZDpYnEkgpGNDqpUsbiyrBpwKTy.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 46194,
+        "original_language": "ja",
+        "original_title": "アマルフィ 女神の報酬",
+        "overview": "A man arrives in the city upon news of a potential terrorist strike in Italy. He is Japanese foreign diplomat, Kosaku Kuroda, and he’s here under orders of his supervisor at the Foreign Ministry, Hiroshi Kataoka (Kiichi Nakai), to aid in the safeguarding of Japanese citizens. Kuroda’s main contacts at the Japanese embassy consist of Ambassador Kikuhara, Counselor Nishino, and fellow diplomatic envoys Haba and Tanimoto. All are busy preparing for the visit of Japanese Foreign Minister Kawagoe due to arrive for the high-profile G8 foreign minister’s meeting. Meanwhile, somewhere on the festively-lit streets of the city, a young Japanese girl has suddenly gone missing. Is it an abduction simply for ransom? Or could it be a prelude to terror?",
+        "popularity": 9.722,
+        "poster_path": "/9IGeJLmyJpEWJYotTMy2rmdo9s9.jpg",
+        "release_date": "2009-07-18",
+        "title": "Amalfi: Rewards of the Goddess",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yw2JsmZnK27Ak31aAxQHqP2KmO3.jpg",
+        "genre_ids": [
+            80,
+            35,
+            18
+        ],
+        "id": 52710,
+        "original_language": "fr",
+        "original_title": "Détective",
+        "overview": "Emile Chenal and his wife, Françoise, leaned on boxing manager Jim Fox Warner to cough up the considerable sum of money that he owes them, with both the police and the mob circling the situation. In the same hotel, Inspector Neveu looks into a murder that took place years before, and his storyline overlaps with the arc of the Chenals.",
+        "popularity": 9.721,
+        "poster_path": "/5olbP0zwKKYMPW2ZZSFNfLYcFHl.jpg",
+        "release_date": "1985-08-23",
+        "title": "Detective",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c98mPT7qsS0JcJM2RMv0LkAzD4G.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 180803,
+        "original_language": "ja",
+        "original_title": "新・悲しきヒットマン",
+        "overview": "After serving 10 years in prison due to a drug-induced assassination of a rival gang boss Tachibana (Ryo Ishibashi) enters a world that's nothing like it was when he went in. Once a respected and feared Yakuza mastermind, he now must try and adapt within the confines of the new generations vision of honor. As he still garners a somewhat decent amount of respect he just tries to get by. Hooking up with a prostitute he's been in passing by with he begins to feel some sense of comfort. Upon stumbling across her being beaten down by her pimp, Tachibana can't just sit by and do nothing. So he commences in putting down an old school Yakuza ass whipping, thus beginning a showdown with the \"now\" boss, Sato.",
+        "popularity": 9.72,
+        "poster_path": "/42ek8DiVfYuHqCKJHPuOiF6RUCn.jpg",
+        "release_date": "1995-06-30",
+        "title": "Another Lonely Hitman",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 159455,
+        "original_language": "ja",
+        "original_title": "昭和残侠伝　血染の唐獅子",
+        "overview": "Fierce war breaks out when Shujiro’s rival clan attempts to sabotage his lucrative construction business.",
+        "popularity": 9.72,
+        "poster_path": "/7gZONxzzOtf7Ug0cW7hjfUpU1Vf.jpg",
+        "release_date": "1967-07-08",
+        "title": "Contemporary Tales of Chivalry 4",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fqSwdW7is8Z8CCAJy4bVnPG26sD.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 40114,
+        "original_language": "ko",
+        "original_title": "뚝방전설",
+        "overview": "After living separate lives, three men try to reset their former turf that is now infested with gangsters to its former glory.",
+        "popularity": 9.72,
+        "poster_path": "/s5oe6tdjY6joI5KoegPPLFWJXZJ.jpg",
+        "release_date": "2006-09-07",
+        "title": "Bar Legend",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c3kE6bnvHAR9vMAnYXF3own5ddg.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 205225,
+        "original_language": "en",
+        "original_title": "24 Exposures",
+        "overview": "Billy is a fetish photographer whose models begin to turn up dead. Michael, a melancholic cop, is tasked with investigating him.",
+        "popularity": 9.719,
+        "poster_path": "/gZTc9L9RNZOO9pydTdko3s7mft7.jpg",
+        "release_date": "2013-08-04",
+        "title": "24 Exposures",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 29
+    }
+]

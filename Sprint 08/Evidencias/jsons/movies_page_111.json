@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/xoBNkBsMt8DnpLrzYEiMQ8jPLoW.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 47354,
+        "original_language": "en",
+        "original_title": "K-9: P.I.",
+        "overview": "Dooley and his K-9 partner Jerry Lee are ready to retire from the police force. But before he can retire with his pension he must work as a P.I. to find a set of high tech computer chips.",
+        "popularity": 22.054,
+        "poster_path": "/lkI06uQJCnujYoN6MJzjnsxryaI.jpg",
+        "release_date": "2002-07-30",
+        "title": "K-9: P.I.",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 171
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v91aGneMO7dT45KEbutrY85JMta.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 12245,
+        "original_language": "en",
+        "original_title": "The Oxford Murders",
+        "overview": "At Oxford University, a professor and a grad student work together to try and stop a potential series of murders seemingly linked by mathematical symbols.",
+        "popularity": 22.046,
+        "poster_path": "/aPGyZg44eCxccfoaNNbJwTJj66J.jpg",
+        "release_date": "2008-01-18",
+        "title": "The Oxford Murders",
+        "video": false,
+        "vote_average": 5.953,
+        "vote_count": 626
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qLnZ9U1jiAIXVWoLLGF8DAiKbq2.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 4790,
+        "original_language": "fr",
+        "original_title": "Nada",
+        "overview": "Nada, named after a gang of Spanish anarchists, is a small, confused band of French terrorists. They kidnap the American ambassador after one of his regular visits to an exclusive brothel. The gang starts to quarrel amongst themselves as to the diplomat's fate, while the police purge suspects in their attempts to destroy the Nada faction. As the violence escalates on both sides, the States and the terrorists are forced to use one another's methods in an increasingly desperate and relentless conflict.",
+        "popularity": 22.04,
+        "poster_path": "/wxxNqUgtpQPCFS8Bkg50olhsBFA.jpg",
+        "release_date": "1974-02-06",
+        "title": "The Nada Gang",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j6nOwVvBRO4FmYWM1xZqoLARtG2.jpg",
+        "genre_ids": [
+            80,
+            28,
+            12,
+            53
+        ],
+        "id": 28465,
+        "original_language": "en",
+        "original_title": "A Dangerous Man",
+        "overview": "After serving 6 years for a crime he didn't commit, Shane Daniels is released from jail with an apology from the State of Arizona. Within hours of his freedom, he unluckily bears witness to a cop killing by Chinese mafia, who have a kidnapped girl and a bag of drug money.",
+        "popularity": 22.024,
+        "poster_path": "/c41ew9b9n8PQwwy6PlV5QAKXBGY.jpg",
+        "release_date": "2009-12-28",
+        "title": "A Dangerous Man",
+        "video": false,
+        "vote_average": 5.076,
+        "vote_count": 99
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ufzJR98BZwHb0lXJGB08PoBSRlh.jpg",
+        "genre_ids": [
+            27,
+            18,
+            53,
+            80
+        ],
+        "id": 13429,
+        "original_language": "en",
+        "original_title": "Donkey Punch",
+        "overview": "Three hot girls, four guys, and one mega-swanky yacht collide for a serious night of drugs and sexual deviancy. One debaucherous act goes too far though, turning this teen joy ride into a weekend of bloody bedlam.",
+        "popularity": 22.024,
+        "poster_path": "/7kk6dvvPVzZxii2Fez81LJZgtLS.jpg",
+        "release_date": "2008-07-18",
+        "title": "Donkey Punch",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 150
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i72JysXqxwdDX7vgZDQwsAbI3QK.jpg",
+        "genre_ids": [
+            18,
+            28,
+            35,
+            53,
+            80
+        ],
+        "id": 17133,
+        "original_language": "en",
+        "original_title": "Homegrown",
+        "overview": "Three laborers on a Northern California marijuana plantation become increasingly paranoid when they learn that their boss has been murdered. They know enough to run, taking with them enough of the crop to pay them for services rendered. Hooking up with go-between Lucy in the next town, they plot their next move.",
+        "popularity": 22.023,
+        "poster_path": "/feQeYHriKLCjzkUEjg4D81ggyYs.jpg",
+        "release_date": "1998-04-17",
+        "title": "Homegrown",
+        "video": false,
+        "vote_average": 5.686,
+        "vote_count": 51
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rT1SXllGStLHzXcR9twrIDBUtn1.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 9065,
+        "original_language": "de",
+        "original_title": "Europa",
+        "overview": "A young, idealist American gets a job as a train conductor for the Zentropa railway network in postwar, US-occupied Frankfurt. As various people try to take advantage of him, he soon finds his position politically sensitive, and gets caught up in a whirlpool of conspiracies and Nazi sympathisers.",
+        "popularity": 22.021,
+        "poster_path": "/pyFtuYQReoSmhNs55kRJedA5wEJ.jpg",
+        "release_date": "1991-06-27",
+        "title": "Europa",
+        "video": false,
+        "vote_average": 7.331,
+        "vote_count": 302
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wTyyWTdwW9hdOlaqM2RVqrPj3tD.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 169298,
+        "original_language": "en",
+        "original_title": "Bullet",
+        "overview": "Danny Trejo plays 'Bullet' a tough cop who takes the law into his own hands when his grandson is kidnapped.",
+        "popularity": 22.02,
+        "poster_path": "/oSYnKLSl11aoZqJQIK9zoV63l3D.jpg",
+        "release_date": "2014-02-25",
+        "title": "Bullet",
+        "video": false,
+        "vote_average": 4.305,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lHK2YLkDRneszqcUbkKCqckuB15.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18,
+            53
+        ],
+        "id": 26114,
+        "original_language": "en",
+        "original_title": "Jesse Stone: Sea Change",
+        "overview": "Police Chief Jesse Stone's relationship with his ex-wife worsens, and he fears he's relapsing into alcoholism. To get his mind off his problems, Jesse begins working on the unsolved murder of a bank teller shot during a robbery. Also, his investigation of an alleged rape draws him into conflict with the town council — which hopes to preserve Paradise's reputation as an ideal seaside resort.",
+        "popularity": 22.019,
+        "poster_path": "/icX4UjU1y06PeG1fjRI4rFkY2P8.jpg",
+        "release_date": "2007-05-22",
+        "title": "Jesse Stone: Sea Change",
+        "video": false,
+        "vote_average": 7.011,
+        "vote_count": 94
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/970o9Snv0Nttpr15DaZVZYYr2LH.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            18
+        ],
+        "id": 24936,
+        "original_language": "en",
+        "original_title": "The Deep End",
+        "overview": "With her husband Jack perpetually away at work, Margaret Hall raises her children virtually alone. Her teenage son is testing the waters of the adult world, and early one morning she wakes to find the dead body of his gay lover on the beach of their rural lakeside home. What would you do? What is rational and what do you do to protect your child? How far do you go and when do you stop?",
+        "popularity": 22.018,
+        "poster_path": "/bV1P4TKi4qn02Jn0bcnS60u0sUM.jpg",
+        "release_date": "2001-01-21",
+        "title": "The Deep End",
+        "video": false,
+        "vote_average": 6.098,
+        "vote_count": 138
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xXLrBrAIwnzu9acQoPjK2jmLEeA.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 14576,
+        "original_language": "en",
+        "original_title": "Shade",
+        "overview": "Tiffany, Charlie and Vernon are con artists looking to up the ante from their typical scams. They figure a good way of doing this is taking down Dean \"The Dean\" Stevens, a well-known cardsharp, in a rigged game. However, they first need enough money to enter a game with Stevens, so they decide to strike a deal with fellow crook Larry Jennings to scam a local gangster -- which turns out to be a bad idea.",
+        "popularity": 22.012,
+        "poster_path": "/2uK217wp1SSFgbIcwDaPrzlLd7X.jpg",
+        "release_date": "2003-05-18",
+        "title": "Shade",
+        "video": false,
+        "vote_average": 6.195,
+        "vote_count": 218
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2MG8bwkkvypszwWa2oLlSmcgqJl.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 11328,
+        "original_language": "da",
+        "original_title": "Pusher II",
+        "overview": "Tonny is released from prison - again. This time he has his mind set on changing his broken down life, but that is easier said than done.",
+        "popularity": 22.011,
+        "poster_path": "/qxvyw5NZBphzWliVdSzn7gSxUel.jpg",
+        "release_date": "2004-12-25",
+        "title": "Pusher II",
+        "video": false,
+        "vote_average": 7.171,
+        "vote_count": 432
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uaduFS1X5uOXYw5DYZJDqPa8oXj.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648,
+            53
+        ],
+        "id": 29159,
+        "original_language": "it",
+        "original_title": "Giallo",
+        "overview": "In Italy, a woman fears her sister has been kidnapped; Inspector Enzo Avolfi fears it's worse. They team up to rescue her from a sadistic killer known only as Yellow.",
+        "popularity": 22.009,
+        "poster_path": "/4T1DfeTROHXDaygI3PdyZqDbMtj.jpg",
+        "release_date": "2010-03-13",
+        "title": "Giallo",
+        "video": false,
+        "vote_average": 4.092,
+        "vote_count": 157
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8LaGwrnGvpSs50GM6ikouoCo59a.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53,
+            80
+        ],
+        "id": 27732,
+        "original_language": "en",
+        "original_title": "Road House 2: Last Call",
+        "overview": "Shane Tanner, the son of a legendary cooler named Dalton, learns that his uncle Nate got beat up by a group of men because he doesn't want to sell his bar, The Black Pelican, to a bunch of drug dealers. To help out his uncle, Shane teams up with local school teacher Beau Hampton, who is a regular at the Black Pelican, and takes down the baddies.",
+        "popularity": 21.999,
+        "poster_path": "/aiLwHT8KfEGMx4YB38UBhAn9pku.jpg",
+        "release_date": "2006-07-18",
+        "title": "Road House 2: Last Call",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/reu2ADJYLSNzfLeZENzqwAaZoA6.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 34326,
+        "original_language": "ja",
+        "original_title": "仁義なき戦い",
+        "overview": "In the teeming black markets of postwar Japan, Shozo Hirono and his buddies find themselves in a new war between factious and ambitious yakuza.",
+        "popularity": 21.993,
+        "poster_path": "/mQRXLwUabZT9hh7jQMc740DkO8Z.jpg",
+        "release_date": "1973-01-13",
+        "title": "Battles Without Honor and Humanity",
+        "video": false,
+        "vote_average": 7.382,
+        "vote_count": 102
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n5OFaiFO0ENrPOT2nonqcyMtlq3.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 277432,
+        "original_language": "hi",
+        "original_title": "Happy New Year",
+        "overview": "Six would-be thieves enter a prestigious dance competition as a cover for their larger goal of pulling off a major heist.",
+        "popularity": 21.987,
+        "poster_path": "/irK5WgHuNKfuyKhUDOGD6HG7LCY.jpg",
+        "release_date": "2014-10-24",
+        "title": "Happy New Year",
+        "video": false,
+        "vote_average": 6.077,
+        "vote_count": 248
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tZEJL00TB6Md5sC5o36aI8pk1LV.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 23957,
+        "original_language": "en",
+        "original_title": "Over the Edge",
+        "overview": "A group of bored teenagers rebel against authority in the community of New Granada.",
+        "popularity": 21.981,
+        "poster_path": "/qSOYYtslBhH1kXIqA3h8FgecQe7.jpg",
+        "release_date": "1979-05-18",
+        "title": "Over the Edge",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 122
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gbUv5uypt07Z620hqhs9LQEQtV4.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 923993,
+        "original_language": "en",
+        "original_title": "Your Lucky Day",
+        "overview": "After a dispute over a winning lottery ticket turns into a deadly hostage situation, the witnesses must decide exactly how far they’ll go—and how much blood they’re willing to spill—for a cut of the $156 million.",
+        "popularity": 21.935,
+        "poster_path": "/oDJ1Jl0vbbrsZd7HAMMmcY3rh7B.jpg",
+        "release_date": "2023-11-10",
+        "title": "Your Lucky Day",
+        "video": false,
+        "vote_average": 5.957,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4YdUxwROiZLbsxsGpeLzHDRsysA.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 133458,
+        "original_language": "sv",
+        "original_title": "Hypnotisören",
+        "overview": "After a young woman and her parents are murdered by a killer determined to wipe out the entire family, Detective Inspector Joona Linna works with a psychiatrist to hypnotize the son who narrowly escaped death in order to find the one surviving daughter before the murderer does.",
+        "popularity": 21.935,
+        "poster_path": "/tLVoHZ46TAdHgKVcb1ns0YkQ6KH.jpg",
+        "release_date": "2012-09-28",
+        "title": "The Hypnotist",
+        "video": false,
+        "vote_average": 5.588,
+        "vote_count": 176
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uZmf6Oq657Ugriec22ftA4FmtNh.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 191052,
+        "original_language": "ko",
+        "original_title": "노리개: 그녀의 눈물",
+        "overview": "A reporter and a prosecutor investigate the death of an actress, and in the process come into conflict with a group of very powerful people. Based on the true story of actress Jang Ja-yeon's suicide.",
+        "popularity": 21.925,
+        "poster_path": "/oKzpa6IBCSWXpu5sxQTXFF4ZYgl.jpg",
+        "release_date": "2013-04-17",
+        "title": "The Secret Scandal",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 18
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 435231,
+        "original_language": "ja",
+        "original_title": "暴力の街",
+        "overview": "An attempt is made to suppress a journalist's investigation of collusion between a rural police chief and the local gangster bosses.",
+        "popularity": 10.207,
+        "poster_path": "/6Asd5YuyjZnO37uyXM7OGahcn6C.jpg",
+        "release_date": "1950-02-26",
+        "title": "Street of Violence",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xGn5pPDBes4auH0E95Jfn6U48I1.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 146783,
+        "original_language": "it",
+        "original_title": "Il bandito",
+        "overview": "Among others, Ernesto returns to Turin after the war from a German POW camp; his household destroyed and family deceased, he tries making an honest living.",
+        "popularity": 10.207,
+        "poster_path": "/zB59CV56pLSxKjNWYYQNccQoyPe.jpg",
+        "release_date": "1946-10-05",
+        "title": "The Bandit",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hyWWdnX7TnoqX9E4tbErSqTkgLy.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 408547,
+        "original_language": "en",
+        "original_title": "Blood in the Water",
+        "overview": "Percy and Veronica have been housesitting at a palatial modern spread in the Hollywood Hills for the summer, but the real world of New York, jobs and young professional struggles are merely days away. Nonetheless they are in a hurry to leave this paradise, because the tranquility was broken by an unwanted visit by former college classmate Freedgood. His time since their liberal arts' years has been marked by imprisonment, shady business associations, and drug dealing. And as we learn quickly, this has lead to the man's demise, an interested LAPD detective, and a longing for the everyday strife that seems so much more desirable than staying in their false Eden.",
+        "popularity": 10.206,
+        "poster_path": "/uwApB4CX7i5sfjQFBcKF7664pGH.jpg",
+        "release_date": "2016-08-26",
+        "title": "Blood in the Water",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3O5v2vG8DHBoHp1vU2SBYqwVpbK.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 90354,
+        "original_language": "ja",
+        "original_title": "やくざ刑事",
+        "overview": "An undercover cop befriends a yakuza underling who through his contacts helps him infiltrate two rival Yakuza gangs. He pits the two rival gangs against each other in hopes that they will cross each other out.",
+        "popularity": 10.204,
+        "poster_path": "/v9GgJ2DK2uBv4E3rZudoKuwqNLn.jpg",
+        "release_date": "1970-05-23",
+        "title": "A Kamikaze Cop",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eNbHlB77Ju0PzuKTJ5wvQ50WRmB.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 660598,
+        "original_language": "it",
+        "original_title": "Calibro 9",
+        "overview": "Milan, Nowadays: Fernando, son of Ugo Piazza, is a brilliant criminal defense lawyer whose mother, Nelly, has done everything in her power to raise him different from his father, a deplorable gangster.",
+        "popularity": 10.203,
+        "poster_path": "/75WLuYJnF7mXQnv6AEBK7i8ceBl.jpg",
+        "release_date": "2020-11-23",
+        "title": "Caliber 9",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A2LzwS1YbI2DQUkDeaT2Taa8Oo3.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 289432,
+        "original_language": "sv",
+        "original_title": "Skytten",
+        "overview": "When a small-time crook is killed by a sniper, Wallander and the Ystad police investigate. Meanwhile, trainee policeman Pontus is forced to reconsider his career.",
+        "popularity": 10.201,
+        "poster_path": "/lwKvfaAyzVpFRS7B2XlK3fwTDg1.jpg",
+        "release_date": "2009-12-16",
+        "title": "Wallander 21 - The Sniper",
+        "video": false,
+        "vote_average": 5.091,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ee82G8bKwSoNcUxpzuENUQaScbn.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 54421,
+        "original_language": "zh",
+        "original_title": "麻將",
+        "overview": "Winston Chen, a prominent businessman, goes missing after racking up $100 million in debts to the Taipei underworld. Two enforcers sent to find him, and they track down his son, Red Fish, the leader of a street gang.",
+        "popularity": 10.201,
+        "poster_path": "/lx3d1M3RBKX94DwDOAJhIFhLa5Z.jpg",
+        "release_date": "1996-12-07",
+        "title": "Mahjong",
+        "video": false,
+        "vote_average": 7.414,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28,
+            35
+        ],
+        "id": 187752,
+        "original_language": "cn",
+        "original_title": "樑上君子",
+        "overview": "Two young pickpockets follow around after their uncle, the King of Pickpockets, just released from jail. Can the King keep on the straight and narrow this time ?",
+        "popularity": 10.2,
+        "poster_path": "/cEhmvlE2c9dd5zyiNdwhE8fnA2i.jpg",
+        "release_date": "1983-11-17",
+        "title": "Fast Fingers",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tlPzh6v4SjbCgc03lUaXNOMhoxI.jpg",
+        "genre_ids": [
+            18,
+            80,
+            36
+        ],
+        "id": 121604,
+        "original_language": "en",
+        "original_title": "The Wee Man",
+        "overview": "The true life story of the rise to power of Glasgow gangster Paul Ferris.",
+        "popularity": 10.199,
+        "poster_path": "/4PS2XA990eZYG6sPocN78xK1xkg.jpg",
+        "release_date": "2013-01-18",
+        "title": "The Wee Man",
+        "video": false,
+        "vote_average": 5.702,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d1UsMBrnd6YSQkrStmkAN0HzCdm.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 112438,
+        "original_language": "cn",
+        "original_title": "大三元",
+        "overview": "A priest hears a prostitute's confession, a tale which has a 200,000 HK$ debt as its centerpiece. The prostitute accidentally leaves behind an envelope with her address in the confessional.",
+        "popularity": 10.198,
+        "poster_path": "/q6aJ38bSdotMMF1RH4EP4oQCVTW.jpg",
+        "release_date": "1996-02-15",
+        "title": "Tri-Star",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gm6DXZAqHijTa9kdgbFjAPMI2y5.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 104274,
+        "original_language": "en",
+        "original_title": "Blastfighter",
+        "overview": "Former cop Jake 'Tiger' Sharp returns to his old hometown after having been in prison for the murder of his wife's killer. Illegal hunting seems to be widespread and inbred rednecks control the city with an iron fist. Jake manages to make himself an enemy to hillbillies and he and his newly found daughter had to flee for their lives. Fortunately, Jake a GAT that can shoot grenades and rockets ...",
+        "popularity": 10.195,
+        "poster_path": "/w4NeTpfr4ZgdaTjLsetOZ8J04h2.jpg",
+        "release_date": "1984-07-14",
+        "title": "Blastfighter",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vy2oPrxGndZ14kXgyShPZaPzDQp.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 855117,
+        "original_language": "ml",
+        "original_title": "King of കൊത്ത",
+        "overview": "Kannan is a gangster who rules the crime-infested town of Kotha. After getting humiliated by Kannan and his men, CI Shahul Haasan tactfully plots the return of former gangster named Kotha Rajendran alias \"Raju\", thus leading to a transformative turn of events.",
+        "popularity": 10.194,
+        "poster_path": "/iJv2ROkp55GxiCx9AFECZ2Cj2RJ.jpg",
+        "release_date": "2023-08-24",
+        "title": "King of Kotha",
+        "video": false,
+        "vote_average": 5.912,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qYlcqsmus6K7rXoDvekwWIAg6f0.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 364397,
+        "original_language": "cn",
+        "original_title": "表姐，你好嘢！ 4 情不自禁",
+        "overview": "In this third sequel, Mainland cop and perennial straight-woman Cheng decides on a civilian life in Hong Kong, but her immigration quickly proves comical.",
+        "popularity": 10.191,
+        "poster_path": "/20KazWxUvweszfJYZb5sCPibVDz.jpg",
+        "release_date": "1994-04-28",
+        "title": "Her Fatal Ways 4",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dSYKTmvhg15j7eCsJA76akKzlEk.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 42054,
+        "original_language": "en",
+        "original_title": "Sparkling Cyanide",
+        "overview": "Based on the novel by Agatha Christie In this TV movie, a classic mystery is updated and relocated to a glamorous world of London socialites and secret agents, introducing two unique and compelling investigators and taking us through to the highest corridors of power.",
+        "popularity": 10.188,
+        "poster_path": "/yGDDXdsPoW9HUdN6vfjsMLeeW3v.jpg",
+        "release_date": "2003-10-05",
+        "title": "Sparkling Cyanide",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qOoVCqUqqF2phqPabCX0XNo37Zv.jpg",
+        "genre_ids": [
+            35,
+            80,
+            12
+        ],
+        "id": 37193,
+        "original_language": "en",
+        "original_title": "Hue and Cry",
+        "overview": "A gang of street boys foil a master crook who sends commands for robberies by cunningly altering a comic strip's wording each week, unknown to writer and printer. The first of the Ealing comedies.",
+        "popularity": 10.188,
+        "poster_path": "/odxsRtigwwQlHcUwn582qdSNdRy.jpg",
+        "release_date": "1947-02-01",
+        "title": "Hue and Cry",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wNFXqgGhbosSjgGEZkl0EXQ99ls.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 93891,
+        "original_language": "ja",
+        "original_title": "黒の試走車",
+        "overview": "Two car manufacturers spy on each other to try to find out details and prices of a new sports car each is about to launch.",
+        "popularity": 10.186,
+        "poster_path": "/hDUoI92amekgrOY0LLvffCNv1yz.jpg",
+        "release_date": "1962-06-30",
+        "title": "Black Test Car",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wmfTTdJCxJfyQYsSn9PiuPhJiCR.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            10749,
+            80
+        ],
+        "id": 22657,
+        "original_language": "en",
+        "original_title": "Algiers",
+        "overview": "Pepe Le Moko is a notorious thief, who escaped from France. Since his escape, Moko has become a resident and leader of the immense Casbah of Algiers. French officials arrive insisting on Pepe's capture are met with unfazed local detectives, led by Inspector Slimane, who are biding their time. Meanwhile, Pepe meets the beautiful Gaby, which arouses the jealousy of Ines.",
+        "popularity": 10.184,
+        "poster_path": "/cvNQjlXJxRQrmB5VCcyssjKIwW8.jpg",
+        "release_date": "1938-01-16",
+        "title": "Algiers",
+        "video": false,
+        "vote_average": 6.394,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xFiAQ5eKWNFFOrsPVbzUDCF4Hl5.jpg",
+        "genre_ids": [
+            12,
+            53,
+            9648,
+            80,
+            18
+        ],
+        "id": 852094,
+        "original_language": "ja",
+        "original_title": "デスカムトゥルー",
+        "overview": "In a hotel room, there is a man lying on the bed.  He wakes up to the piercing sound of the phone ringing.  Picking up the phone, he hears a message from the hotel concierge,  “If you have any trouble, please visit the front desk.”  He doesn’t even know why he is in the hotel.  In fact, he doesn’t remember anything at all.  As he begins to look around, he suddenly finds a woman tied up and unconscious.  The evening news on the TV shows the man himself, allegedly wanted as a serial killer.  Then comes the sound of knocking on the door.  \"A new wave interactive movie game\" where your actions, and the ending of the story, are determined by your choices.",
+        "popularity": 10.182,
+        "poster_path": "/qM9FBdfBHVLnasRsmf1h19aJtOD.jpg",
+        "release_date": "2020-06-25",
+        "title": "Death Come True",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xtHYF3EygH8dbG88Lc3kzfgKsOw.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 338350,
+        "original_language": "ja",
+        "original_title": "冬の華",
+        "overview": "Kanno is a Yakuza. He had to kill Matsuoka who betrayed their boss. Kanno knew Matsuoka had a 3-year-old daughter named Youko. Before he gave himself to the police, he asked his trusted man to take care of her. While in prison, Kanno kept sending letters to Youko, disguising as an uncle in Brazil. 15 years later, Kanno is released. He is determined to live legitimately, however the Yakuza has not forgotten his wicked deed!",
+        "popularity": 10.182,
+        "poster_path": "/fxzpingD01iSh1IJp8X57W3kCln.jpg",
+        "release_date": "1978-06-17",
+        "title": "Winter's Flower",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 217917,
+        "original_language": "en",
+        "original_title": "The Wrong Road",
+        "overview": "A young married couple whose plans for their life together haven't turned out as expected decide to rob the bank where the husband works of $100,000, then hide the money in a safe place and return for it after they serve out their sentences. All goes according to plan until they get out of prison, when they find that they're being trailed by an insurance investigator and the husband's old cellmate, who has decided that he wants a cut of the money.",
+        "popularity": 10.182,
+        "poster_path": "/QsoPpK5Pzu6eASwLRhKBLp6K19.jpg",
+        "release_date": "1937-10-11",
+        "title": "The Wrong Road",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 6
+    }
+]

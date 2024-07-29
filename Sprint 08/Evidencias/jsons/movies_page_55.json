@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/shIOFWkjTn2NRvq5r4Mn2xLdZeJ.jpg",
+        "genre_ids": [
+            18,
+            80,
+            35
+        ],
+        "id": 401847,
+        "original_language": "en",
+        "original_title": "Can You Ever Forgive Me?",
+        "overview": "When a bestselling celebrity biographer is no longer able to get published because she has fallen out of step with current tastes, she turns her art form to deception.",
+        "popularity": 32.268,
+        "poster_path": "/hPuZR2bFoV0kuBrA98exWyvTf40.jpg",
+        "release_date": "2018-10-19",
+        "title": "Can You Ever Forgive Me?",
+        "video": false,
+        "vote_average": 6.808,
+        "vote_count": 1230
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lBmfYtJherlJgoBAVskC7eRgnht.jpg",
+        "genre_ids": [
+            28,
+            80,
+            878
+        ],
+        "id": 17467,
+        "original_language": "cn",
+        "original_title": "力王",
+        "overview": "In 2001, where all correctional facilities have been privatized, martial artist Ricky finds himself victim to the corrupt system, found \"guilty\" of the manslaughter of an infamous crime boss.",
+        "popularity": 32.235,
+        "poster_path": "/uPkIU5EptkWth21qAlthpiyVsoY.jpg",
+        "release_date": "1991-10-05",
+        "title": "Riki-Oh: The Story of Ricky",
+        "video": false,
+        "vote_average": 6.833,
+        "vote_count": 303
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vO8lMKIBbPH7B48XCkmrhqDs9ad.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 5910,
+        "original_language": "ja",
+        "original_title": "HANA-BI",
+        "overview": "Detective Nishi is relieved from a stakeout to visit his sick wife in hospital. He is informed that she is terminally ill, and is advised to take her home. During his visit, a suspect shoots one detective dead and leaves Nishi's partner, Horibe, paralyzed. Nishi leaves the police force to spend time with his wife at home, and must find a way to pay off his debts to the yakuza.",
+        "popularity": 32.219,
+        "poster_path": "/bWIo1nDJnSyGJvVt8bRw8PHBqo4.jpg",
+        "release_date": "1997-10-30",
+        "title": "Fireworks",
+        "video": false,
+        "vote_average": 7.668,
+        "vote_count": 662
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xhYs4yaBnDNM3utncVzLmFVpAmK.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 20649,
+        "original_language": "en",
+        "original_title": "Clockers",
+        "overview": "Strike is a young city drug pusher under the tutelage of drug lord Rodney Little. When a night manager at a fast-food restaurant is found with four bullets in his body, Strike’s older brother turns himself in as the killer. Detective Rocco Klein doesn’t buy the story, however, setting out to find the truth, and it seems that all the fingers point toward Strike & Rodney.",
+        "popularity": 32.185,
+        "poster_path": "/c79uqLJleho2a7OQayfrW5Ypphf.jpg",
+        "release_date": "1995-09-15",
+        "title": "Clockers",
+        "video": false,
+        "vote_average": 6.725,
+        "vote_count": 311
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sYjMTf2TPSDp90NXACZZT7ksFAz.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 577,
+        "original_language": "en",
+        "original_title": "To Die For",
+        "overview": "Suzanne Stone wants to be a world-famous news anchor and she is willing to do anything to get what she wants. What she lacks in intelligence, she makes up for in cold determination and diabolical wiles. As she pursues her goal with relentless focus, she is forced to destroy anything and anyone that may stand in her way, regardless of the ultimate cost or means necessary.",
+        "popularity": 32.175,
+        "poster_path": "/bEY2XKUlCY03KA7XT59W2OPCGZm.jpg",
+        "release_date": "1995-09-22",
+        "title": "To Die For",
+        "video": false,
+        "vote_average": 6.586,
+        "vote_count": 756
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a7RMVypNmxvEG0SzG9kXBJivfxX.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 11060,
+        "original_language": "en",
+        "original_title": "Internal Affairs",
+        "overview": "Keen young Raymold Avila joins the Internal Affairs Department of the Los Angeles police. He and partner Amy Wallace are soon looking closely at the activities of cop Dennis Peck whose financial holdings start to suggest something shady. Indeed Peck is involved in any number of dubious or downright criminal activities. He is also devious, a womaniser, and a clever manipulator, and he starts to turn his attention on Avila.",
+        "popularity": 32.17,
+        "poster_path": "/A4pH8DiNFEf2AgXkM4zk3ZpblV.jpg",
+        "release_date": "1990-01-12",
+        "title": "Internal Affairs",
+        "video": false,
+        "vote_average": 6.275,
+        "vote_count": 373
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rNr3W7GuSpIRjuSr0TM6vSTrIdx.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 1725,
+        "original_language": "en",
+        "original_title": "West Side Story",
+        "overview": "In the slums of the upper West Side of Manhattan, New York, a gang of Polish-American teenagers called the Jets compete with a rival gang of recently immigrated Puerto Ricans, the Sharks, to \"own\" the neighborhood streets. Tensions are high between the gangs but two romantics, one from each gang, fall in love leading to tragedy.",
+        "popularity": 32.169,
+        "poster_path": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+        "release_date": "1961-12-13",
+        "title": "West Side Story",
+        "video": false,
+        "vote_average": 7.256,
+        "vote_count": 1833
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j2equuFqbOmRiz3UKMyu63jc9px.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 12780,
+        "original_language": "cn",
+        "original_title": "少年黃飛鴻之鐵馬騮",
+        "overview": "Iron Monkey is a Hong Kong variation of Robin Hood. Corrupt officials of a Chinese village are robbed by a masked bandit known as \"Iron Monkey\", named after a benevolent deity. When all else fails, the Governor forces a traveling physician into finding the bandit.",
+        "popularity": 32.165,
+        "poster_path": "/gLELnixQLunQOTm9PCpNRxrhU58.jpg",
+        "release_date": "1993-09-03",
+        "title": "Iron Monkey",
+        "video": false,
+        "vote_average": 7.411,
+        "vote_count": 282
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pFfCyTolgfcfYRQod6PEmbguUPV.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            53
+        ],
+        "id": 22160,
+        "original_language": "en",
+        "original_title": "Against All Odds",
+        "overview": "She was a beautiful fugitive. Fleeing from corruption. From power. He was a professional athlete past his prime. Hired to find her, he grew to love her. Love turned to obsession. Obsession turned to murder. And now the price of freedom might be nothing less than their lives.",
+        "popularity": 32.162,
+        "poster_path": "/Ac0m41QYoxYBfRoU4cL491vOfEv.jpg",
+        "release_date": "1984-03-02",
+        "title": "Against All Odds",
+        "video": false,
+        "vote_average": 5.702,
+        "vote_count": 198
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7yR2BMksskCgw87Ts04dL2p0pIn.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 416249,
+        "original_language": "cn",
+        "original_title": "寒戰 II",
+        "overview": "A suspected criminal mastermind escapes from police custody, throwing the city into turmoil. With the police department now divided, rival police chiefs are forced to take their fight to the streets of Hong Kong with deadly consequences.",
+        "popularity": 32.107,
+        "poster_path": "/qG3e432sNeesyPG86Ybg9amyTlL.jpg",
+        "release_date": "2016-07-08",
+        "title": "Cold War II",
+        "video": false,
+        "vote_average": 6.258,
+        "vote_count": 95
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7KxcJLsqyp8I03eVZml1XvonVYz.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 282984,
+        "original_language": "en",
+        "original_title": "Irrational Man",
+        "overview": "On a small town college campus, a philosophy professor in existential crisis gives his life new purpose when he enters into a relationship with his student.",
+        "popularity": 32.104,
+        "poster_path": "/ipAqhEWRzEuD6aXlAWIvEEF1KUe.jpg",
+        "release_date": "2015-07-17",
+        "title": "Irrational Man",
+        "video": false,
+        "vote_average": 6.526,
+        "vote_count": 2330
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xgZMrOPgZcy8FXFOSULoZYM6Ktd.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 351901,
+        "original_language": "en",
+        "original_title": "12 Rounds 3: Lockdown",
+        "overview": "Lockdown Follows a police officer who returns to duty after recovering from a gun shot wound to discover incriminating evidence of illegal activities against those closest to him. He quickly finds himself trapped inside his own precinct, hunted and in search of the truth, as the crooked cops stop at nothing to recover the evidence.",
+        "popularity": 32.092,
+        "poster_path": "/3wAIu7q72mINXVplVnU6pMbZmQQ.jpg",
+        "release_date": "2015-09-11",
+        "title": "12 Rounds 3: Lockdown",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 184
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3KamG1pZ3RDEASLFb8JXv1w7Gnk.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 68812,
+        "original_language": "en",
+        "original_title": "The Iceman",
+        "overview": "The true story of Richard Kuklinski, the notorious contract killer and family man.",
+        "popularity": 32.083,
+        "poster_path": "/56KPE9tPYh2WBdnUMq9EIOwEXGQ.jpg",
+        "release_date": "2012-09-01",
+        "title": "The Iceman",
+        "video": false,
+        "vote_average": 6.527,
+        "vote_count": 990
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7w06baRS9VPm5RYz8lawTCLiR4j.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 592508,
+        "original_language": "hi",
+        "original_title": "सूर्यवंशी",
+        "overview": "A fearless, faithful albeit slightly forgetful Mumbai cop, Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India pulls out all the stops and stunts to thwart a major conspiracy to attack his city.",
+        "popularity": 32.058,
+        "poster_path": "/oCymRm6FG62zrKnXiHHJvDgkYoA.jpg",
+        "release_date": "2021-11-05",
+        "title": "Sooryavanshi",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 154
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a0jFMDNLmkIooaOvlWHnkrUJMeF.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 2463,
+        "original_language": "cn",
+        "original_title": "暗戰",
+        "overview": "Police inspector and excellent hostage negotiator Ho Sheung-Sang finds himself in over his head when he is pulled into a 72 hour game by a cancer suffering criminal out for vengeance on Hong Kong's organized crime syndicates.",
+        "popularity": 31.997,
+        "poster_path": "/9ccrrOMnpeQm9SI0PL2E1d4stn6.jpg",
+        "release_date": "1999-09-23",
+        "title": "Running Out of Time",
+        "video": false,
+        "vote_average": 7.306,
+        "vote_count": 142
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eW81T3E28s40VFW8AgAJPCZqE2X.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 16056,
+        "original_language": "en",
+        "original_title": "Winged Creatures",
+        "overview": "A psychotic man opens fire in a diner, murdering numerous people before killing himself. The survivors struggle in different ways following this horrendous event: a doctor doubts his own instincts and elects to use an experimental medical procedure on his wife, while a gambler believes he's on a lucky streak. A waitress begins engaging in promiscuous sex, and a young girl whose father is among the dead gains unexpected fame.",
+        "popularity": 31.971,
+        "poster_path": "/mkKSPO5CuYogooyUzRlNckoJTkd.jpg",
+        "release_date": "2009-07-08",
+        "title": "Winged Creatures",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 138
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3ERk0cT9GIfxv6ULs2XZV3wgvEU.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 12634,
+        "original_language": "en",
+        "original_title": "The Big Bounce",
+        "overview": "A small-time con artist and a Hawaiian real estate developer's mischievous, enterprising mistress team up for a potential $200,000 score.",
+        "popularity": 31.934,
+        "poster_path": "/x03suj1pUhtafDDqeXc8cFkDQ7n.jpg",
+        "release_date": "2004-01-30",
+        "title": "The Big Bounce",
+        "video": false,
+        "vote_average": 4.918,
+        "vote_count": 237
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bexhsojXy8OalK3ITVxAbGQLxe0.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 734519,
+        "original_language": "ja",
+        "original_title": "ザ・ファブル 殺さない殺し屋",
+        "overview": "Akira is the legendary killer known as the Fable. Following the order of his boss and due to being overworked, he lives peacefully with his partner, Yoko, as ordinary siblings. Akira still works part-time at design company Octopus with CEO Takoda and employee Misaki. CEO Takoda and Misaki are unaware of Akira's background as an assassin.  Meanwhile, Utsubo is a representative for an NPO. But, Utsubo works with contract killer Suzuki to set people up for extortion purposes. They target someone at design company Octopus.",
+        "popularity": 31.928,
+        "poster_path": "/6pufaTxAuTXFQBrh2weU5PniKqa.jpg",
+        "release_date": "2021-02-05",
+        "title": "THE FABLE: The Killer Who Doesn't Kill",
+        "video": false,
+        "vote_average": 6.848,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mruT954ve6P1zquaRs6XG0hA5k9.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 800510,
+        "original_language": "en",
+        "original_title": "Kimi",
+        "overview": "A tech worker with agoraphobia discovers recorded evidence of a violent crime but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: leave her apartment.",
+        "popularity": 31.874,
+        "poster_path": "/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg",
+        "release_date": "2022-02-10",
+        "title": "Kimi",
+        "video": false,
+        "vote_average": 6.218,
+        "vote_count": 839
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gOgBpD5NivnWIqZYTBFSmAtziuJ.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            35
+        ],
+        "id": 455714,
+        "original_language": "th",
+        "original_title": "ฉลาดเกมส์โกง",
+        "overview": "Lynn, a brilliant student, after helping her friends to get the grades they need, develops the idea of starting a much bigger exam-cheating business.",
+        "popularity": 31.837,
+        "poster_path": "/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg",
+        "release_date": "2017-05-03",
+        "title": "Bad Genius",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 759
+    }
+]

@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 115213,
+        "original_language": "ja",
+        "original_title": "Family",
+        "overview": "When the mobster Iwaida Nishikawi is executed by the hit man Takeshi, his family chases the killer. Takeshi's brothers Takashi and Hideshi Miwa try to find Takeshi, who is hidden with the nurse Rie Ishibashi, to protect him and Hideshi discovers that Takeshi was secretly sent by their Yakuza boss to eliminate Iwaida. Meanwhile, the mobster Kenmoshi abducts Takashi's wife Mariko and rapes her, trying to force Takashi to deliver his brother to him.",
+        "popularity": 8.204,
+        "poster_path": "/w24DKGbJZE6A2uTbHS7zUE81ac5.jpg",
+        "release_date": "2001-03-10",
+        "title": "Family",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pSUTNQeQkpJa8UJvZPXakpgbvid.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 403859,
+        "original_language": "hi",
+        "original_title": "Fever",
+        "overview": "An assassin takes on the identity of a writer to escape the law. He has two mysterious and sensuous women masquerading around him - Rhea and Kaavya. Suspense builds as they both uncover the lie.",
+        "popularity": 8.203,
+        "poster_path": "/qQAlVN4rgMpkFKJLdkRndG6Mi6N.jpg",
+        "release_date": "2016-08-05",
+        "title": "Fever",
+        "video": false,
+        "vote_average": 2.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r3RDMpTou68u0dBuhKHcBz2wTel.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80,
+            53,
+            10770
+        ],
+        "id": 229088,
+        "original_language": "en",
+        "original_title": "Perry Mason: The Case of the Poisoned Pen",
+        "overview": "The chief suspects in the murder of an author are the numerous colleagues whom he continuously plagiarized.",
+        "popularity": 8.202,
+        "poster_path": "/8wbUyxL1Ccw0Nh7J4Qv50YzAbW4.jpg",
+        "release_date": "1990-01-21",
+        "title": "Perry Mason: The Case of the Poisoned Pen",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 391729,
+        "original_language": "hi",
+        "original_title": "Jung",
+        "overview": "Jung has Mithun and Ajay Devgan playing brothers, but due to circumstances, police officer Mithun had to cross swords with his brother to protect justice. The third angle of the film is the double role portrayed by Aditya Pancholi, one negative and the other positive.",
+        "popularity": 8.2,
+        "poster_path": "/c7zr5n3neNFjBLDen97gb3M4UCk.jpg",
+        "release_date": "1996-04-19",
+        "title": "Jung",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/trTeJrba3EHQHa1h1h4jo35UdrM.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1177738,
+        "original_language": "ja",
+        "original_title": "漆黒の男たち 第二章",
+        "overview": "",
+        "popularity": 8.198,
+        "poster_path": "/24pce2UZWgbSI6V1JHuPjweDeXq.jpg",
+        "release_date": "2018-12-25",
+        "title": "漆黒の男たち 第二章",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dSTkHpSIHz2OUR5OUP5x6axpTDB.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 898976,
+        "original_language": "ta",
+        "original_title": "கொலை",
+        "overview": "When a famous model gets killed, a smart detective comes to investigate when he realizes this incident calls him to a mystery.",
+        "popularity": 8.198,
+        "poster_path": "/lblx8zvMF0NxX62aOGocyOhvDld.jpg",
+        "release_date": "2023-07-21",
+        "title": "Kolai",
+        "video": false,
+        "vote_average": 5.667,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zyMhDda4giRljB3LiSG9lAyF2nx.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 537213,
+        "original_language": "ja",
+        "original_title": "山口組三代目",
+        "overview": "A boy born in a poor village in Tokushima spends his days idly until a chance meeting sets him on the road to becoming boss of Japan's largest gang.",
+        "popularity": 8.198,
+        "poster_path": "/8ISgiQgz0hjlv8AK6UeLORerLk7.jpg",
+        "release_date": "1973-08-11",
+        "title": "Japan's Top Gangster",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bXnfCm3qpYJwURwgClgEZwzKBiC.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648,
+            878
+        ],
+        "id": 38468,
+        "original_language": "en",
+        "original_title": "Charlie Chan in The Jade Mask",
+        "overview": "The latest assignment for respected detective Charlie Chan has come directly from the government and involves the disappearance of a scientist named Harper, who was working on an extremely important serum. When the scientist is killed, Chan must sort through all very likely suspects, including the man's sister and his butler.",
+        "popularity": 8.197,
+        "poster_path": "/yC9a3Vcxp215OAiJHeMQ6LCCQb8.jpg",
+        "release_date": "1945-01-26",
+        "title": "Charlie Chan in The Jade Mask",
+        "video": false,
+        "vote_average": 6.063,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c1jDFwh9WjGpGJ3r5VNVGdv1mIW.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 34644,
+        "original_language": "sv",
+        "original_title": "Polismördaren",
+        "overview": "A woman is found murdered in a closed amusement park. A young couple who happen to be there at the same time become, without their knowledge, suspects for the murder. They are chased by a large number of police but only Martin Beck believes them to be innocent.",
+        "popularity": 8.197,
+        "poster_path": "/7JlWisT0yRvrMKT0RTnIFGb54wI.jpg",
+        "release_date": "1994-01-01",
+        "title": "Polismördaren",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rvmdivMarxTKtiSrnL4ewq5ogaq.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 280517,
+        "original_language": "fr",
+        "original_title": "Les Truands",
+        "overview": "\"Thieves We Are\" - In flashback, the audience learns why 104-year-old Amedee steals the watch belonging to the town mayor. The story develops into a history of the watch-thievery business, told in anecdotal fashion.",
+        "popularity": 8.194,
+        "poster_path": "/yPAxD5MmkEsnFVda8igbolHQmMd.jpg",
+        "release_date": "1956-04-27",
+        "title": "Les Truands",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wo5gf9s7H55Zx8PVd2xe2gfMcfy.jpg",
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 1012567,
+        "original_language": "de",
+        "original_title": "Dunkle Wasser",
+        "overview": "After the body of a young woman is recovered from Lake Mattsee, the two cops not only face a major professional challenge that takes them into the dark past, but also come into contact with Mattsee's dark history and reach their limits privately.",
+        "popularity": 8.193,
+        "poster_path": "/7XhGO04fRpsciAVDu5fLt45iRAA.jpg",
+        "release_date": "2023-03-23",
+        "title": "Dunkle Wasser",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            878,
+            10770
+        ],
+        "id": 794078,
+        "original_language": "en",
+        "original_title": "Alien Nation",
+        "overview": "A bigoted human policeman in the L.A. of the future and his alien partner learn to live with each other's differences while attempting to solve a drug conspiracy hidden in the subculture of Los Angeles' newest immigrant population: extraterrestrials.",
+        "popularity": 8.193,
+        "poster_path": "/mqul9HETtPstQyG812RzZbI8icZ.jpg",
+        "release_date": "1989-09-18",
+        "title": "Alien Nation",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4yW0lGQYIBWVbPwsBzMteDFwI6H.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 191943,
+        "original_language": "ml",
+        "original_title": "ദി ത്രില്ലര്‍",
+        "overview": "Simon is the son of Joseph Palathinkal, a business multi millionaire. One night during the night patrol, Niranjan finds Simon stabbed and murdered on a highway. Who killed him? and why?",
+        "popularity": 8.193,
+        "poster_path": "/y3nUqiBLjRluM0GkTrdrtXuSUgv.jpg",
+        "release_date": "2010-11-16",
+        "title": "The Thriller",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aa3ptpaJNz4wnn4oyixXUzCjO3k.jpg",
+        "genre_ids": [
+            80,
+            99
+        ],
+        "id": 288694,
+        "original_language": "it",
+        "original_title": "La trattativa",
+        "overview": "",
+        "popularity": 8.192,
+        "poster_path": "/ta8xdOBNhytQM409QWr8etJ9KIz.jpg",
+        "release_date": "2014-10-02",
+        "title": "La trattativa",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f8fVkruhsSk2lIia8aLURh6z7UK.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 585752,
+        "original_language": "ja",
+        "original_title": "エリカ38",
+        "overview": "Satoko Watabe, who calls herself Erica was organizing business support meetings, and collecting a fortune with a fictional investment story, under the order of her lover Ikuo Hirasawa. But she finds out that Hirasawa was actually dating multiple women and was betraying her. Once she cuts contact with Hirasawa, she seduces a rich old man, and obtains a luxurious house. She invites her mother who is in a care home to come live with her, and starts her own fictional “business support” sessions to defraud people. During her visit to Thailand, she meets a young man Porche. Erica falls in love, and enjoys her honeymoon. But the police were looming right around the corner...",
+        "popularity": 8.191,
+        "poster_path": "/t48Tmg8SIOKbRmGs82ajvRjNgJQ.jpg",
+        "release_date": "2019-06-07",
+        "title": "Erica 38",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b2DAm0ShwudgCTtHs5E6xyfS4Pm.jpg",
+        "genre_ids": [
+            53,
+            27,
+            9648,
+            14,
+            80
+        ],
+        "id": 69163,
+        "original_language": "en",
+        "original_title": "The Clairvoyant",
+        "overview": "Two uneasy friends, a police officer and a TV talk show host, each pursue the mysterious \"handcuff killer\" with the aid of an artist who sees - and draws - the killer's crimes before they're committed.",
+        "popularity": 8.191,
+        "poster_path": "/57HviCIlkx2uf2uPUXfCE9Npnge.jpg",
+        "release_date": "1982-10-24",
+        "title": "The Clairvoyant",
+        "video": false,
+        "vote_average": 5.208,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            35,
+            80
+        ],
+        "id": 417807,
+        "original_language": "en",
+        "original_title": "Imperfections",
+        "overview": "Cassidy is a struggling actress, grinding out auditions, worrying that any chance at stardom may have already passed her by. Desperate to save money to move to Hollywood, she takes a job working as a runner for her mother's boyfriend.",
+        "popularity": 8.19,
+        "poster_path": "/f9C9LIVkXEaMrpiadG9i8tPmZ9J.jpg",
+        "release_date": "2016-10-14",
+        "title": "Imperfections",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5yw8tJFN34Rj7RETOqMZUjZa8RO.jpg",
+        "genre_ids": [
+            878,
+            80,
+            53
+        ],
+        "id": 1020094,
+        "original_language": "en",
+        "original_title": "Time Addicts",
+        "overview": "In debt to their volatile drug dealer, best friends, Denise and Johnny, agree to a sketchy job to pay off their last hit. After breaking into a decrepit stash house to steal a bag of mysterious drugs, escape proves more troublesome, as the pair find themselves trapped inside with a madman. With no way out and not one to miss an opportunity, Johnny smokes the new drug and promptly travels into the past, triggering alarming new events in the future. Separated through time, Denise is left alone to confront her past, their dealer’s real identity, and her very own existence.",
+        "popularity": 8.189,
+        "poster_path": "/pTRfeB6TOupCpQ7lfTCYVE3Dzi.jpg",
+        "release_date": "2023-10-27",
+        "title": "Time Addicts",
+        "video": false,
+        "vote_average": 5.533,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/htUq5uvY0YThGgutCKJflBQtezF.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 732422,
+        "original_language": "ja",
+        "original_title": "すじぼり",
+        "overview": "The yakuza have their best days behind them and are only a shadow of themselves. The old rituals seem out of date and their tattoos make them outcasts of society. The inexperienced student Ryō stumbles into their ranks by chance, and before he knows it, he becomes entangled in dark machinations. He quickly succumbs to the fascination of omnipotence fantasies and hedonistic decadence and sinks deeper and deeper into a parallel world of prostitution, blackmail and violence. However, there is one thing that Ryō has not considered in his naivety: once yakuza, always yakuza!",
+        "popularity": 8.189,
+        "poster_path": "/r2CxvZpAShMlw5w0XsxR5vx3Liy.jpg",
+        "release_date": "2019-06-21",
+        "title": "Unfinished",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vF19Bc6umog2BGxvn4BofxzsY3Q.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            9648,
+            10749
+        ],
+        "id": 354864,
+        "original_language": "en",
+        "original_title": "Everlasting",
+        "overview": "\"Everlasting\" is an award-winning thriller about a High School student who travels from Colorado to L.A. to find the truth behind the murder of his girlfriend.",
+        "popularity": 8.189,
+        "poster_path": "/aWCugQP7865KVLf8RwTcbZsTd1U.jpg",
+        "release_date": "2016-02-13",
+        "title": "Everlasting",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 19
+    }
+]

@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/rG8fX1QNpu0HDRuJW89verRALKE.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 218460,
+        "original_language": "en",
+        "original_title": "The Contractor",
+        "overview": "Elizabeth Chase is busy remodeling her new home with her lawyer husband, Paul and daughter, McKenzie. To make sure it's finished before a charity event they're hosting, the couple hire a contractor, Javier, to help. However Elizabeth starts to grow suspicious of Javier and learns that he'd targeted the family all along. Now, to save her family, Elizabeth will have to take matters into her own hands.",
+        "popularity": 13.036,
+        "poster_path": "/1jEaCc8aAC76rv6m4D2Fwa6yNRc.jpg",
+        "release_date": "2013-09-02",
+        "title": "The Contractor",
+        "video": false,
+        "vote_average": 3.692,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fHh0brztY2johFvasi8xiHTuuOC.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 104259,
+        "original_language": "cn",
+        "original_title": "城巿特警",
+        "overview": "A cop is losing the control of his right hand and cannot pull the trigger on time anymore. Before any accident happens, he decides to resign. Meanwhile his friend and informer is brutally murdered in Malaysia. Before leaving the force, he decides to find the killers with the help of his buddy, a young cop and an inspector from Kuala Lumpur.",
+        "popularity": 13.035,
+        "poster_path": "/eAdkJNv0Sfznaadg5HbnwZDnFC6.jpg",
+        "release_date": "1988-09-22",
+        "title": "The Big Heat",
+        "video": false,
+        "vote_average": 6.26,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aVpZFMfEOFlJBkdWz7ZMknZujTI.jpg",
+        "genre_ids": [
+            80,
+            18,
+            12
+        ],
+        "id": 915980,
+        "original_language": "de",
+        "original_title": "Sonne und Beton",
+        "overview": "The four friends Lukas, Julius, Gino and Sanchez are trying to survive the everyday life in Neukölln, Berlin between drugs, gangs, rap, violence and boredom. Until they are one day making a serious decision with serious consequences because of a dead certain plan.",
+        "popularity": 13.033,
+        "poster_path": "/w2S0hvmEMv0lsyp8q4eDiTdXmQX.jpg",
+        "release_date": "2023-03-02",
+        "title": "Sun and Concrete",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3yEnB3rNx0zSIAGcfVQuS38tUAe.jpg",
+        "genre_ids": [
+            99,
+            10752,
+            80
+        ],
+        "id": 84288,
+        "original_language": "en",
+        "original_title": "The Invisible War",
+        "overview": "An investigative and powerfully emotional documentary about the epidemic of rape of soldiers within the US military, the institutions that perpetuate and cover up its existence, and its profound personal and social consequences.",
+        "popularity": 13.028,
+        "poster_path": "/ph9Lo3pMNmTXFQa9wZVdCKL2tRe.jpg",
+        "release_date": "2012-01-20",
+        "title": "The Invisible War",
+        "video": false,
+        "vote_average": 7.165,
+        "vote_count": 106
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yNk13DQNfgZjb8oPVX5fVIMpflf.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 559700,
+        "original_language": "en",
+        "original_title": "Alcatraz",
+        "overview": "A group of prisoners, led by an armed robber and a gangster, attempt to escape from the infamous Alcatraz Island.",
+        "popularity": 13.025,
+        "poster_path": "/2cMu9wCWA3pqQxF4H7s11Pqlf3w.jpg",
+        "release_date": "2018-11-06",
+        "title": "Alcatraz",
+        "video": false,
+        "vote_average": 4.379,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5dDaku6eNkgPaOk7yqPHaBEvBQF.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "id": 50799,
+        "original_language": "en",
+        "original_title": "The Long Arm",
+        "overview": "Scotland Yard detectives attempt to solve a spate of safe robberies across England beginning with clues found at the latest burglary in London. The film is notable for using a police procedural style made popular by Ealing in their 1950 film The Blue Lamp. It is known in the US as The Third Key.",
+        "popularity": 13.019,
+        "poster_path": "/wMWQCfhYNucYrF8JlTYvzXq6L3w.jpg",
+        "release_date": "1956-06-01",
+        "title": "The Long Arm",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eDPMMIl4A8ULiQV951l5gZbesWT.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 38201,
+        "original_language": "en",
+        "original_title": "Framed",
+        "overview": "Joe Don Baker plays a gambler who is framed for a crime he did not commit. A corrupt legal system leads him into a plea bargain and four years behind bars. By the time he gets out of prison, he's determined to put together the pieces of his frame-up and dole out the justice he was denied to those responsible.",
+        "popularity": 13.012,
+        "poster_path": "/b78HelKTjM7sQ6TvtK83ihEVwmB.jpg",
+        "release_date": "1975-08-01",
+        "title": "Framed",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bhRFWxpkpRk77kW5RxsHDAop0DT.jpg",
+        "genre_ids": [
+            18,
+            80,
+            28,
+            35
+        ],
+        "id": 91892,
+        "original_language": "ja",
+        "original_title": "北陸代理戦争",
+        "overview": "In the setting of the Hokuriku region, where the snow and cold winds rage, for the first time in true-life yakuza film history, director Kinji Fukasaku shows battles among yakuza who value land over tradition. Hiroki Matsukata stars as Noboru Kawada, a Hokuriku yakuza who will use any measure for survival, disregarding parents, brothers, and tradition.",
+        "popularity": 13.009,
+        "poster_path": "/8mclrqibImISlc7wEOUWSqRaK3K.jpg",
+        "release_date": "1977-02-26",
+        "title": "Hokuriku Proxy War",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/diMHBtg8AXUuoLi8JgxScy2M5hJ.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            53,
+            9648,
+            18
+        ],
+        "id": 6030,
+        "original_language": "en",
+        "original_title": "A Caribbean Mystery",
+        "overview": "Aging Major Palgrave, an idiosyncratic but charming mystery writer, reveals to Miss Jane Marple that one of the guests at a luxurious Caribbean resort they're staying at is a Bluebeard-type wife murderer. Unfortunately, the Major succumbs to an apparently accidental overdose of alcohol and blood pressure medication before revealing the killer's identity. When it's discovered that the medicine belonged to another guest and the revealing photograph the Major was carrying is missing, Miss Marple realizes that the serial killer has struck again and more murders will follow.",
+        "popularity": 13.009,
+        "poster_path": "/4xiBGGYn4c9LVYO5NrN69pHHnn4.jpg",
+        "release_date": "1983-10-22",
+        "title": "A Caribbean Mystery",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1987,
+        "original_language": "de",
+        "original_title": "Benny's Video",
+        "overview": "A 14-year-old video enthusiast obsessed with violent films decides to make one of his own and show it to his parents, with tragic results.",
+        "popularity": 13.006,
+        "poster_path": "/4mWNkjnsd1tjb26x3Q1IdOwD8Cj.jpg",
+        "release_date": "1992-10-20",
+        "title": "Benny's Video",
+        "video": false,
+        "vote_average": 6.949,
+        "vote_count": 331
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1QPMYEXg6jYmsSUPSqa2KXeBh0S.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 824202,
+        "original_language": "ja",
+        "original_title": "マスカレード・ナイト",
+        "overview": "An anonymous letter is delivered to the Tokyo Metropolitan Police Department. The letter states that a criminal of a murder case will appear at the countdown party Masquerade Night that will be held at Hotel Cortesia Tokyo. Detective Kosuke Nitta must go undercover and work again at the Hotel Cortesia Tokyo. There, he meets Naomi Yamagishi, who works as a concierge. Without any information about the criminal, except that the person will be in attendance, Detective Kosuke Nitta works feverishly to find the criminal among the 500 attendees.",
+        "popularity": 13.002,
+        "poster_path": "/gapW9YgtiNQMPCWYAi8wKiEg4ty.jpg",
+        "release_date": "2021-09-17",
+        "title": "Masquerade Night",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1jzCI0xxuxDXNjykUQDrJK7L8MT.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 212996,
+        "original_language": "cn",
+        "original_title": "五億探長雷洛傳：雷老虎",
+        "overview": "The film chronicles the rise and fall of a corrupt police force that Lee Rock becomes a part of.",
+        "popularity": 12.999,
+        "poster_path": "/61GbeIrzwzzOMvTFBTOUV3mAulS.jpg",
+        "release_date": "1991-09-18",
+        "title": "Lee Rock",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wn04ntn6kKpvtmBai5cQwlGfzec.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 265314,
+        "original_language": "es",
+        "original_title": "El Más Buscado",
+        "overview": "Tells the story of the most prominent bank robber in the history of Mexico, his crimes, his different personalities, his career as a charro with a mariachi band, his getaways and the strange relationship he had with the one who finally came to stop him. Based on the true story of Alfredo Ríos Galeana.",
+        "popularity": 12.997,
+        "poster_path": "/6lDqG116zL1hhB4jgTNDv24e5cv.jpg",
+        "release_date": "2014-11-15",
+        "title": "Mexican Gangster",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uV3Uvp9zs2awQNWx32Stk3Zpn1z.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 27509,
+        "original_language": "en",
+        "original_title": "The Penalty",
+        "overview": "Blizzard, deranged from a childhood operation in which both his legs were needlessly amputated after an accident, becomes a vicious criminal, and eventually mob leader of the San Francisco underworld.",
+        "popularity": 12.993,
+        "poster_path": "/ct5XMbwZWv3SzZ01lYM4rQihRmA.jpg",
+        "release_date": "1920-08-15",
+        "title": "The Penalty",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m5Rv5sEov2eUsa9wQ58Yeb9dFsE.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 172743,
+        "original_language": "cn",
+        "original_title": "子彈出租",
+        "overview": "Two hitmen, both good friends who work for the Triad, get a new partner, a nervous young rookie who starts off badly by blowing an assignment, but soon becomes proficient at his bloody work. When one of them is blackmailed into helping the police, a Triad boss grows suspicious.",
+        "popularity": 12.992,
+        "poster_path": "/6cKeLZNHopc90zkALCl4hQcIrn1.jpg",
+        "release_date": "1991-09-05",
+        "title": "Bullet for Hire",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o5X8aola4JuIv3OaUleguCC1fXF.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            36
+        ],
+        "id": 98120,
+        "original_language": "it",
+        "original_title": "Romanzo di una strage",
+        "overview": "On December 12, 1969, a bomb kills 17 people at the Piazza Fontana national bank in Milan, Italy, marking the beginning of the Years of Lead. Local anarchists are scapegoated for the massacre by police and the media, but a lone prosecutor uncovers a conspiracy of far-right groups, corrupt secret services, and other interests that seek to undermine democracy.",
+        "popularity": 12.984,
+        "poster_path": "/inb8F0LJtAGoWmfLppwmPmPmSf5.jpg",
+        "release_date": "2012-03-30",
+        "title": "Piazza Fontana: The Italian Conspiracy",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 223
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cMpnczREJPgDAE8HDvnfLqtBre5.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            9648,
+            53
+        ],
+        "id": 42689,
+        "original_language": "en",
+        "original_title": "Berserk!",
+        "overview": "A lady ringmaster milks the publicity from a string of murders.",
+        "popularity": 12.981,
+        "poster_path": "/eZMTK7dk6rfLV25OZqT4eL2LwMI.jpg",
+        "release_date": "1967-11-01",
+        "title": "Berserk!",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yzAgreMf3p3uZ4SymAxCv2u0piW.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80,
+            53
+        ],
+        "id": 33104,
+        "original_language": "hi",
+        "original_title": "डॉन",
+        "overview": "A ruthless gangster named Don is killed during a scuffle with the police. Since only DSP D'Silva knows of this incident, he recruits Vijay, who is a spitting image of Don, to replace the original Don and infiltrate his gang. D'Silva plans to nab the entire gang, but when he dies during a raid, the secret that Vijay is not Don is also buried with him.",
+        "popularity": 12.976,
+        "poster_path": "/cLxX1pmZitRXGdxtmbLuPBq53Y9.jpg",
+        "release_date": "1978-05-12",
+        "title": "Don",
+        "video": false,
+        "vote_average": 6.421,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6PeLpBvYAPGj9wyLcZYvnPjCyw6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 25121,
+        "original_language": "ta",
+        "original_title": "உன்னைப்போல் ஒருவன்",
+        "overview": "A common man tries to fight terrorism by making anonymous calls to cops. Will he succeed ?",
+        "popularity": 12.974,
+        "poster_path": "/35GMJaA9VeW6gQY5jlruEu6WEF4.jpg",
+        "release_date": "2009-09-18",
+        "title": "Unnaipol Oruvan",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ySqZmxCcbwkrtH5j6KVH6BVv4mM.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1061117,
+        "original_language": "en",
+        "original_title": "The Hatchet Wielding Hitchhiker",
+        "overview": "This shocking documentary chronicles a happy-go-lucky nomad's ascent to viral stardom and the steep downward spiral that resulted in his imprisonment.",
+        "popularity": 12.969,
+        "poster_path": "/kqLloC5n66fLvhlWtZBr8h4SVF6.jpg",
+        "release_date": "2023-01-10",
+        "title": "The Hatchet Wielding Hitchhiker",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 117
+    }
+]

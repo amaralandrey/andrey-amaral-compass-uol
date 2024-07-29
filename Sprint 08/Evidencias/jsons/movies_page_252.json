@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/qDZrpmU8ow8Q8LEBFYvACxsLYgp.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 48155,
+        "original_language": "en",
+        "original_title": "The Big Knife",
+        "overview": "Movie star Charlie Castle draws the ire of Hollywood producer Stanley Hoff when he refuses to sign a new seven-year contract. Castle is sick of the low quality of the studio's films and wants to start a new life. While his estranged wife supports him in the decision, Castle's talent agent urges him to reconsider. When Castle continues to be uncooperative, Hoff resorts to blackmail in order to get his way.",
+        "popularity": 12.104,
+        "poster_path": "/1cnE5SXHNSKUwjSBPXR6Uf7pzCV.jpg",
+        "release_date": "1955-10-25",
+        "title": "The Big Knife",
+        "video": false,
+        "vote_average": 5.92,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9iBrjT9jZhQ4IlaltKHAt0lBBa2.jpg",
+        "genre_ids": [
+            36,
+            80,
+            18,
+            10770
+        ],
+        "id": 63903,
+        "original_language": "en",
+        "original_title": "Stealing Sinatra",
+        "overview": "In need of a grubstake, a young man convinces a couple of friends to help him kidnap Frank Sinatra Jr. It's a true story",
+        "popularity": 12.099,
+        "poster_path": "/xBbPpcgmVkEoh22KMWiJUE98Vxs.jpg",
+        "release_date": "2003-01-24",
+        "title": "Stealing Sinatra",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8RiUJp8Xl4yHTwMC5eA8iM8YVS5.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 14761,
+        "original_language": "en",
+        "original_title": "Cocaine Cowboys",
+        "overview": "In the 1980s, ruthless Colombian cocaine barons invaded Miami with a brand of violence unseen in this country since Prohibition-era Chicago - and it put the city on the map. \"Cocaine Cowboys\" is the true story of how Miami became the drug, murder and cash capital of the United States, told by the people who made it all happen.",
+        "popularity": 12.099,
+        "poster_path": "/gxGis0HgcLJv2MS3l01a0wuhCAI.jpg",
+        "release_date": "2006-11-03",
+        "title": "Cocaine Cowboys",
+        "video": false,
+        "vote_average": 7.252,
+        "vote_count": 165
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7AXTnSV0ykHFNQuz1MP1KyBrlov.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 85837,
+        "original_language": "en",
+        "original_title": "Detroit 9000",
+        "overview": "After a fundraiser for a black politician is robbed, Detroit police put two detectives, one white and one black, on the case, who try to work together under boiling political pressure.",
+        "popularity": 12.096,
+        "poster_path": "/7eKuM4C7A8IX1bCiRMBI43HBgMs.jpg",
+        "release_date": "1973-08-01",
+        "title": "Detroit 9000",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53,
+            28
+        ],
+        "id": 17330,
+        "original_language": "ja",
+        "original_title": "映画 クロサギ",
+        "overview": "",
+        "popularity": 12.094,
+        "poster_path": "/7i7Dq4myHhi8Hr5brYNFGDgNivO.jpg",
+        "release_date": "2008-03-08",
+        "title": "The Black Swindler: Movie",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fsk85AMr3j5scWAp2Iv78Cwtl8M.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            10770
+        ],
+        "id": 582623,
+        "original_language": "en",
+        "original_title": "Chronicle Mysteries: Recovered",
+        "overview": "Alex McPherson returns to the small town in Pennsylvania where she spent her summers as a girl to record the next episode of her true crime podcast, about the disappearance of a childhood friend 20 years prior. However, after teaming up with the local newspaper editor, who reluctantly agrees to help her retrace the girl’s last steps, Alex not only uncovers the shocking truth behind the girl’s disappearance, but also a decades-old murder and its cover-up.",
+        "popularity": 12.093,
+        "poster_path": "/hUeovGYuCTTlZLnu2TgEDqkvduS.jpg",
+        "release_date": "2019-02-17",
+        "title": "Chronicle Mysteries: Recovered",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cTCwEmIoNyg1T1uGozCKM8jlf9e.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 371000,
+        "original_language": "ko",
+        "original_title": "섬. 사라진 사람들",
+        "overview": "Based on a true story involving a reporter who starts investigating to uncover an unfortunate case that occurred on a remote island.",
+        "popularity": 12.093,
+        "poster_path": "/x8W2OZKiGZAeQ4TcgvstwkGx0Vu.jpg",
+        "release_date": "2016-03-03",
+        "title": "No Tomorrow",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yh7dXZ1FqXZ7IQ1X0tFYp4c3DOC.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 168361,
+        "original_language": "en",
+        "original_title": "Murder in New Hampshire: The Pamela Wojas Smart Story",
+        "overview": "Pamela Smart knows exactly what she wants and is willing to do anything to get it. She is fed up with teaching, and her marriage offers little excitement. Looking for a way out she applies for a job at a local TV station. When her dreams of fame are dashed by rejection, she seduces 15-year-old Billy, one of her students. Pam challenges Billy to prove his love for her by getting rid of her husband. The stakes heat up with a huge insurance policy on her husband's life.",
+        "popularity": 12.093,
+        "poster_path": "/cMnAVP1Ulgd8Ma7RnnyhUMH4Qu0.jpg",
+        "release_date": "1991-09-23",
+        "title": "Murder in New Hampshire: The Pamela Wojas Smart Story",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a7tt8WYKJBdDFXldbwKY7U9c4lr.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 47830,
+        "original_language": "ko",
+        "original_title": "트럭",
+        "overview": "Cheol-min makes a living by working in the shipping business. He has a daughter suffering from a heart condition, and in need of surgery. To save his daughter, he urgently needs the tremendous amount of 60,000,000 won. To make this money, he gets involved in dangerous illegal gambling and barely saves his life by promising he will take care of body disposal for the gang. On his way to Gangwon-do where he intends to dump the bodies, he encounters a police van that had been in an accident, and ends up giving the police officer a ride. Although this situation is tense, events take a turn for the worse.",
+        "popularity": 12.093,
+        "poster_path": "/32WDfWzsgSCjjwPqrNshQUwom2f.jpg",
+        "release_date": "2008-09-25",
+        "title": "The Truck",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 54052,
+        "original_language": "en",
+        "original_title": "Who Do I Gotta Kill?",
+        "overview": "A struggling writer takes a job for his mobster uncle in order to obtain first-hand material for a book on conspiracy plots and the JFK assassination.  They often say that a good writer lives what he writes, but what happens when the life that the writer is living could likely get him killed?",
+        "popularity": 12.092,
+        "poster_path": "/eQw4tC4onERymDQ6kESTqI9DC7t.jpg",
+        "release_date": "1994-09-23",
+        "title": "Who Do I Gotta Kill?",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/khRYVpMSXwDTaVyBJ0Yck99lcGy.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 360552,
+        "original_language": "ja",
+        "original_title": "劇場版 MOZU",
+        "overview": "Lone wolf detective with an enormous personal grievance seeks to connect the mysterious death of his daughter to an urban legend of a villain who terrorizes Japan by insinuating himself into people's dreams and the collective psyche of the Japanese people.",
+        "popularity": 12.09,
+        "poster_path": "/gXpWkSUDU4gRCtrVK9bh3IAyCS8.jpg",
+        "release_date": "2015-11-07",
+        "title": "Mozu The Movie",
+        "video": false,
+        "vote_average": 6.846,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qeKBnNZhDnq2eNQTXD2CDzpsfw5.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 529207,
+        "original_language": "es",
+        "original_title": "Ola de crímenes",
+        "overview": "Leyre lives a quiet and comfortable life which ends abruptly when an act of rage of her teenage son leads her to protect him by any means necessary.",
+        "popularity": 12.089,
+        "poster_path": "/bfp0mNktF2FXkzMSpjqdTkeH5cf.jpg",
+        "release_date": "2018-10-04",
+        "title": "Crime Wave",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 96
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zAGq8wnX53tflxiZD53lp9i2L2N.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 80188,
+        "original_language": "en",
+        "original_title": "Boy Wonder",
+        "overview": "A young Brooklyn boy witnesses the brutal murder of his mother and grows up obsessed with finding her killer. Thus begins his life as a quiet, straight-A student by day and a self-appointed hero at night. But what is a real hero? And who decides what is right or wrong? As the boundaries blur, Sean's dual life wears on his psyche and his two worlds careen dangerously close to colliding. Like a graphic novel you can't put down, Boy Wonder challenges morality, distorting perceptions of what is right and what is justified, as it races to its shocking conclusion.",
+        "popularity": 12.085,
+        "poster_path": "/kCbNgQDx4Y11N3M9b5aiEILbSZl.jpg",
+        "release_date": "2010-08-11",
+        "title": "Boy Wonder",
+        "video": false,
+        "vote_average": 6.383,
+        "vote_count": 132
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z1djPrkNyDKZLkldnytKFlWfE6Z.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            53,
+            80
+        ],
+        "id": 91023,
+        "original_language": "en",
+        "original_title": "Woman of Desire",
+        "overview": "A yacht captain, Jack Lynch, is accused of murdering his boss and raping the victim's wife, Christina Ford. Nothing is how it first appears. Jack seeks the help of veteran attorney Walter J. Hill to help prove his innocence.",
+        "popularity": 12.084,
+        "poster_path": "/13ogcfzZ0vUfB7zgnYUCV83ByvC.jpg",
+        "release_date": "1994-01-26",
+        "title": "Woman of Desire",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fM736e6Za4tofRqPFguhdE3MjpO.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 9740,
+        "original_language": "en",
+        "original_title": "Hannibal",
+        "overview": "After having successfully eluded the authorities for years, Hannibal peacefully lives in Italy in disguise as an art scholar. Trouble strikes again when he's discovered leaving a deserving few dead in the process. He returns to America to make contact with now disgraced Agent Clarice Starling, who is suffering the wrath of a malicious FBI rival as well as the media.",
+        "popularity": 12.084,
+        "poster_path": "/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+        "release_date": "2001-02-08",
+        "title": "Hannibal",
+        "video": false,
+        "vote_average": 6.772,
+        "vote_count": 4589
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/39gY1xAEl26Ld6Vt7HoX7H7F5jz.jpg",
+        "genre_ids": [
+            12,
+            80,
+            878
+        ],
+        "id": 250332,
+        "original_language": "en",
+        "original_title": "The Green Hornet",
+        "overview": "A newspaper publisher and his Korean servant fight crime as vigilantes who pose as a notorious masked gangster and his aide.",
+        "popularity": 12.083,
+        "poster_path": "/xFbSaS9HOoMpHSWaQUPPgisCJ5B.jpg",
+        "release_date": "1940-01-08",
+        "title": "The Green Hornet",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1f8RYH42ZFv6R37b2evGzELh0km.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            10770
+        ],
+        "id": 57689,
+        "original_language": "en",
+        "original_title": "Sugartime",
+        "overview": "Sam Giancana is a ruthless mob boss from Chicago. During a trip to Las Vegas, he sees a performance by the McGuire Sisters, a popular singing group with a pure image. Sam is attracted to Phyllis and begins aggressively courting her. The two enter into an epic romance, but it brings unwanted attention and tarnishes Phyllis's reputation. For Sam, however, the consequences are far more drastic, landing him in trouble with the law and his fellow mobsters.",
+        "popularity": 12.081,
+        "poster_path": "/bR1NihaLYcLadZs1ezX5O6tlPM8.jpg",
+        "release_date": "1995-11-25",
+        "title": "Sugartime",
+        "video": false,
+        "vote_average": 5.625,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bJl0ElmnX1CaqJQHr9rPEX95m9d.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            80
+        ],
+        "id": 50078,
+        "original_language": "en",
+        "original_title": "Jewel Robbery",
+        "overview": "A gentleman thief charms a Viennese baron's wife and also conducts a daring daylight robbery of a jeweller's shop.",
+        "popularity": 12.079,
+        "poster_path": "/wVMMFJ6Z2TXmWvQGxjNXRMl3p3H.jpg",
+        "release_date": "1932-07-08",
+        "title": "Jewel Robbery",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cQLcIq9gKD8CvvxIZL93n0CKEWX.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 86651,
+        "original_language": "en",
+        "original_title": "Final Chapter: Walking Tall",
+        "overview": "It's the final chapter in this chilling, real-life story of Sheriff Buford Pusser, a good-hearted lawman set on keeping his town safe. Still distraught over his wife's death, he blows up every moonshine still in McNairy county and burns the brothels and whiskey joints to the ground. Having gone too far, he's voted out of office, but that doesn't stop the mob from seeking their revenge. Buford soon discovers how small his town is when he runs out of highway with the mob on his trail.",
+        "popularity": 12.077,
+        "poster_path": "/vIIABXCtaMXCRcSLYUBqmnlILo4.jpg",
+        "release_date": "1977-08-31",
+        "title": "Final Chapter: Walking Tall",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6QEWIDe6NfMBatyKwWsVF52BJsy.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 857732,
+        "original_language": "en",
+        "original_title": "Untold: Crime & Penalties",
+        "overview": "They were the bad boys of hockey — a team bought by a man with mob ties, run by his 17-year-old son, and with a rep for being as violent as they were good.",
+        "popularity": 12.075,
+        "poster_path": "/zKXmY2UYtCrhBZfzgmDgpteWyV4.jpg",
+        "release_date": "2021-08-31",
+        "title": "Untold: Crime & Penalties",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 37
+    }
+]

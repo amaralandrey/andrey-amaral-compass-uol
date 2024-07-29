@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/bL1etbhvRGhHhpjbwzHZbXNwM5R.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 80560,
+        "original_language": "en",
+        "original_title": "Wanda",
+        "overview": "After a string of abusive relationships, Wanda abandons her family and seeks solace in the company of a petty criminal.",
+        "popularity": 11.425,
+        "poster_path": "/izuJ7cUhcihFnTpfsdSnkMCHsRQ.jpg",
+        "release_date": "1970-09-01",
+        "title": "Wanda",
+        "video": false,
+        "vote_average": 6.827,
+        "vote_count": 130
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8iD2S2Y5HBRscKVffIR7sdTYf6k.jpg",
+        "genre_ids": [
+            36,
+            18,
+            80
+        ],
+        "id": 72356,
+        "original_language": "fr",
+        "original_title": "Sade",
+        "overview": "A man prepares himself to be transferred to a detention center and rest home where he will relive one more time the highlights of his youth.",
+        "popularity": 11.425,
+        "poster_path": "/mcr6I5KtSUrR1peEZ2EFotW6Hhx.jpg",
+        "release_date": "2000-08-23",
+        "title": "Sade",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n24LOJ7jd94z8F8t98xGcYBtIZp.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 75075,
+        "original_language": "en",
+        "original_title": "Arthur Hailey's Detective",
+        "overview": "Detective Sergeant Malcolm Ainslie, a Catholic priest turned distinguished investigator for the police, has agreed to hear the confession of a convicted serial killer sentenced to death in a just a matter of hours. What he promises to reveal to Ainslie is the truth behind the crimes and the reason he confessed to the one crime Ainslie doesn't even believe he committed. What unfolds between the two men is a serpentine trail into both men's pasts based on the bestseller from master storyteller Arthur Hailey.",
+        "popularity": 11.423,
+        "poster_path": "/aFpLV0nXLOJKkigukurFkKN1mSg.jpg",
+        "release_date": "2005-01-01",
+        "title": "Arthur Hailey's Detective",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AebCnhxpSPLqakzvWBvwwQkBDLD.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 47489,
+        "original_language": "fr",
+        "original_title": "La Lune dans le caniveau",
+        "overview": "A dockworker seeking revenge on the killer of his sister finds himself the object of desire for two women.",
+        "popularity": 11.421,
+        "poster_path": "/lfRYqIKGf5hr8wo3IOrCk1nkgBT.jpg",
+        "release_date": "1983-05-18",
+        "title": "The Moon in the Gutter",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/icEDMPdd33px6eOBjrbaVKRAiMN.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 262492,
+        "original_language": "es",
+        "original_title": "Betibú",
+        "overview": "Once Pedro Chazarreta found murdered in the wonderful gated, El Tribuno newspaper hires retired detective novelist Nurit Iscar/Betibù that is installed in the area and a series of newspaper columns about the case. Along with the Chief of police of the newspaper, Mariano Saravia, and a veteran journalist, Jaime Breña, Betibù starts to investigate the murder. Using an old photo of the adolescence of Chazarreta, which shows him with fellow high school, the Group discovers an apparent connection between this murder and a succession of apparently trivial deaths of members of the photo. At the same time, Betibù must face its past emotional with the editor of the newspaper, Lorenzo Rinaldi, who seeks to restore the relationship.",
+        "popularity": 11.418,
+        "poster_path": "/zN6y7JKRHUBTtva3hyeesMiYH4P.jpg",
+        "release_date": "2014-04-10",
+        "title": "Betibú",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r8ArZlHBDtdXsMuQQ6kpqOYb3c4.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648,
+            10749
+        ],
+        "id": 44315,
+        "original_language": "en",
+        "original_title": "Tick Tock",
+        "overview": "Stunning trophy wife Rachel Avery is stuck in a cold, loveless marriage with her millionaire husband, Holden. So when Holden goes away on a trip, Rachel hooks up with her close friend Carla, and the two hatch a plan to murder Holden and collect on his vast assets. But the girls don't want to commit the crime themselves, so at a bar they seduce a stranger, Travis Brewer, and convince him to do their bidding.",
+        "popularity": 11.417,
+        "poster_path": "/tRnecTme22sve8v6uhYowcU8ULE.jpg",
+        "release_date": "2000-09-18",
+        "title": "Tick Tock",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jdVIf5zInzinVXzkmpxOjcBqGcF.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 67736,
+        "original_language": "fr",
+        "original_title": "Thérèse Raquin",
+        "overview": "Star-crossed lovers Thérèse and Laurent think they've gotten away with murder after Thérèse's weakling husband \"falls\" from a speeding train. But when forced to contend with a blackmailer's demands and the mute accusations of Thérèse's mother-in-law, it's only a matter of time before the law, their passion or blind chance trips them up.",
+        "popularity": 11.416,
+        "poster_path": "/efJr4u8UwDefCqAj4rZrJRyvlIN.jpg",
+        "release_date": "1953-11-06",
+        "title": "Thérèse Raquin",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rovH7UG8HOytV1lebx8R7DmL2xX.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 35404,
+        "original_language": "en",
+        "original_title": "The File on Thelma Jordon",
+        "overview": "Cleve Marshall, an assistant district attorney, falls for Thelma Jordon, a mysterious woman with a troubled past. When Thelma becomes a suspect in her aunt's murder, Cleve tries to clear her name.",
+        "popularity": 11.413,
+        "poster_path": "/sPGWc8F0IolxlpfSuOJ8AcvKQLg.jpg",
+        "release_date": "1949-11-04",
+        "title": "The File on Thelma Jordon",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yDNP14m81xw6kudFQpane8FcP3u.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 548669,
+        "original_language": "zh",
+        "original_title": "狂徒",
+        "overview": "A former basketball player bonds with a robber and becomes attracted to a dark lifestyle.",
+        "popularity": 11.411,
+        "poster_path": "/sCtkH2wWspjRB9tjwgATXRdqzUL.jpg",
+        "release_date": "2018-10-26",
+        "title": "The Scoundrels",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bLqa3lR67t4IPMe5WEjkCwyH9CW.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 67883,
+        "original_language": "it",
+        "original_title": "Gli esecutori",
+        "overview": "A Mafia boss is enraged when he is suspected of smuggling a heroin shipment into San Francisco. He dispatches his nephew, a hotshot Anglo-Sicilian lawyer, to identify the real culprit. The lawyer also enlists the aid of his best friend, a grand prix driver with an adventurous streak.",
+        "popularity": 11.411,
+        "poster_path": "/pOwjvNaQJ5YUrWQGZPyt3cELGjU.jpg",
+        "release_date": "1976-03-30",
+        "title": "Street People",
+        "video": false,
+        "vote_average": 4.889,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qJungF5SDwgS9xfV4Yp8CgvZOmT.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 298457,
+        "original_language": "it",
+        "original_title": "Milionari",
+        "overview": "Based on a real Italian crime boss and family, their 40-year saga, as seen through their eyes, reflects the history, beauty, and strife of Naples.",
+        "popularity": 11.41,
+        "poster_path": "/3FhzqtJOT22i0igmkxwhERQSuz8.jpg",
+        "release_date": "2014-10-19",
+        "title": "Mafia Millionaires",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/10XZ0hzosT0pSHYLjw8J9vdosce.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 809215,
+        "original_language": "en",
+        "original_title": "Hustle Down",
+        "overview": "Cully, a two-bit hustler and the driver for a Baja drug cartel, finds himself relying on skilled-but-reluctant bounty hunter Turk, to stay out of the grasps of a merciless assassin, and vicious thugs led by a rival gang leader after Cully has stolen a money car stuffed with cash meant for his boss. The duo crosses paths with Crystal, a sultry dancer with too many secrets and a greater stake in all of this than they first realize. If Cully can convince Turk to go along with his crazy schemes, he might make it back to his estranged wife and daughter alive.",
+        "popularity": 11.409,
+        "poster_path": "/5nL8d6tQj5OTTFWDETOQBmdXIHD.jpg",
+        "release_date": "2021-09-30",
+        "title": "Hustle Down",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tKBDhCFlnA3wAH39pnhIBlb8O46.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 640484,
+        "original_language": "ta",
+        "original_title": "வலிமை",
+        "overview": "A honest cop tries to track down the brain behind a series of robberies and murders, but things turn personal when his family become pawns in the criminal's game.",
+        "popularity": 11.408,
+        "poster_path": "/90BQz6fzwEhnxffC1NilDcP5vuI.jpg",
+        "release_date": "2022-02-24",
+        "title": "Valimai",
+        "video": false,
+        "vote_average": 5.543,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8amGEzIXCsbbaqMRC5FWG9pXvpW.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 118887,
+        "original_language": "en",
+        "original_title": "Sunburn",
+        "overview": "A model and a private eye help a New York insurance investigator on a deadly case in Acapulco.",
+        "popularity": 11.407,
+        "poster_path": "/7qFf0zKBJTIH02QPEiV5zaNgz3x.jpg",
+        "release_date": "1979-08-10",
+        "title": "Sunburn",
+        "video": false,
+        "vote_average": 4.95,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/igd9uSgVbKoot2mbRKu6eXQvxbM.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            12,
+            28
+        ],
+        "id": 45079,
+        "original_language": "ko",
+        "original_title": "4교시 추리영역",
+        "overview": "During fourth period, high schooler Da-jeong finds her classmate Tae-gyu dead in a classroom and Jeong-hun standing in front of him with blood on his clothes. In order to stop Jeong-hun from becoming the prime suspect, Da-jeong must help him find the real murderer, who is still inside the school building, under 40 minutes before period four ends.",
+        "popularity": 11.405,
+        "poster_path": "/pzTRXixblnloMJKhmt08sNhWDCn.jpg",
+        "release_date": "2009-08-12",
+        "title": "4th Period Mystery",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bxTL17HMRmuSXtm5rfMmfk2WLj2.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 122233,
+        "original_language": "ja",
+        "original_title": "遙かな時代の階段を",
+        "overview": "Broke, with his vintage Nash convertible repossessed, private eye Mike Hama is reduced to combing the mean streets of the Yokohama waterfront on a borrowed bicycle. But when Lily, a beautiful stripper from out of Hama's past, returns to town, the fuse is lit on a criminal powder keg set to blow the lid off the Yokohama underworld.",
+        "popularity": 11.404,
+        "poster_path": "/A5y4dDcygjOOiapmHjGuQZbqVKb.jpg",
+        "release_date": "1995-03-18",
+        "title": "The Stairway to the Distant Past",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dL3FSn64C0GHGYIjZNHfwQ0X0R0.jpg",
+        "genre_ids": [
+            878,
+            80,
+            9648,
+            53,
+            10770
+        ],
+        "id": 57012,
+        "original_language": "en",
+        "original_title": "Living with the Dead",
+        "overview": "A man begins to have disturbing visions of dead people, among whom are his mother and victims of a local serial killer. All telling their story of how they died, and how their murderer is still out there. The detective investigating the murders looks to him for help in solving the case.",
+        "popularity": 11.404,
+        "poster_path": "/32ubEy7XDB8OO3M39QtVc9c6mrM.jpg",
+        "release_date": "2002-04-28",
+        "title": "Living with the Dead",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5mS7SQekZ1I55DBnzj1XMxMUt6Y.jpg",
+        "genre_ids": [
+            35,
+            10402,
+            80
+        ],
+        "id": 1283081,
+        "original_language": "en",
+        "original_title": "Spies Are Forever: Live Concert Experience",
+        "overview": "It’s time to spy… again! Get ready for an electrifying night at the theater as Agent Mega and Co. triumphantly return to LA after 8 years with the Spies Are Forever Live to Film Concert Experience. Join an elite ensemble of stage and screen sensations as they bring the show’s infectious music to life alongside the viral proshot of the original production.",
+        "popularity": 11.403,
+        "poster_path": "/mReYzZTftFycZyq3BWMuMFnuWO8.jpg",
+        "release_date": "2024-04-30",
+        "title": "Spies Are Forever: Live Concert Experience",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 291164,
+        "original_language": "hu",
+        "original_title": "Hand Gun",
+        "overview": "Jack is in the midst of a major robbery, which leaves him injured and his accomplices dead. Jack manages to hide the $500,000 from the robbery before he makes his way to his death bed.",
+        "popularity": 11.402,
+        "poster_path": "/wtxkXCVxCW8l2BI4RqpkFov8GD5.jpg",
+        "release_date": "1994-10-01",
+        "title": "Hand Gun",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ydXxKE3km4qsoqunO6g5SpbKhD4.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 270766,
+        "original_language": "ta",
+        "original_title": "ஜிகர்தண்டா",
+        "overview": "A budding director endeavors to research a merciless gangster for making a film on gangsterism. But his secret attempts to conduct the research fail when he gets caught for snooping.",
+        "popularity": 11.401,
+        "poster_path": "/mh6uLFD5aWbQeKvrBK2hDLN5DIu.jpg",
+        "release_date": "2014-08-01",
+        "title": "Jigarthanda",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 57
+    }
+]

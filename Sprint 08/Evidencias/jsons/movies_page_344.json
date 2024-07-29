@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/l6RMphFBKqqZv5buorOHmpfK4R3.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 57765,
+        "original_language": "en",
+        "original_title": "Human Desires",
+        "overview": "Alicia Royale is a fashion mogul who decides to have a large pajama themed party as a promotion for her new line of clothing...",
+        "popularity": 9.373,
+        "poster_path": "/2BgX4IUMTNgfB7VDQTAS4SIx2Uh.jpg",
+        "release_date": "1997-09-16",
+        "title": "Human Desires",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nVMR1dKbIMz4aNiyfTKnYrGjgSK.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 581104,
+        "original_language": "ta",
+        "original_title": "அயோக்யா",
+        "overview": "When a corrupt cop gets embroiled in a heroic brawl, he has no idea how it would eventually lead him to a shocking rape case and change his life forever.",
+        "popularity": 9.37,
+        "poster_path": "/gXBPfX7or3KCapbyuYemjTR7ZPS.jpg",
+        "release_date": "2019-05-11",
+        "title": "Ayogya",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mRfI3y2oAd7ejur2di09xC9niqp.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 82992,
+        "original_language": "en",
+        "original_title": "Fast & Furious 6",
+        "overview": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries; Dominic unexpectedly gets sidetracked with facing his presumed deceased girlfriend, Letty.",
+        "popularity": 9.369,
+        "poster_path": "/3EXOOkhSmJQ9DisNmIjZ8Xi633I.jpg",
+        "release_date": "2013-05-21",
+        "title": "Fast & Furious 6",
+        "video": false,
+        "vote_average": 6.818,
+        "vote_count": 10417
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 949709,
+        "original_language": "zh",
+        "original_title": "危机航线",
+        "overview": "\"Anyone? There is ......\" A mysterious message from Gao Haojun comes from ten thousand meters in the air. A five-star A380 ultra-luxury airliner was hijacked on its international maiden voyage, and international security expert Gao Haojun stood up to a group of thugs, his daughter Xiaojun was trapped in the cabin, and Mike, the leader of the hijackers, threatened the lives of more than 800 people in the plane as a bargaining chip, and Xiaojun's mother, Fu Yuan, was also in danger. ...... Will the passengers on board be able to land safely and how should this crisis be resolved?",
+        "popularity": 9.368,
+        "poster_path": "/96vDuVV1kJ24c9nM3fIwTcceWBT.jpg",
+        "release_date": "2024-09-30",
+        "title": "High Forces",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7yfTS3JQHwbyAFA1jDtjs2lqC5p.jpg",
+        "genre_ids": [
+            35,
+            80,
+            14,
+            36,
+            9648
+        ],
+        "id": 897086,
+        "original_language": "ja",
+        "original_title": "パ・ラパパンパン",
+        "overview": "A mystery which blurs the line between fantasy and reality.  When unsuccessful teen novelist (Matsu Takako), is troubled with her latest novel, her editor is chief (Kamiki Ryunosuke) helps her write a mystery set in \"A Christmas Carol\" in which the Scrooge (Fumiyo Kohinata) is murdered.Just as she's about to go to sleep, relieved that she's finally finished writing, she realizes, \"He's not the killer! He's not the murderer!. Just as she is about to contact her editor to rewrite the story, an incident occurs in real life.",
+        "popularity": 9.366,
+        "poster_path": "/yITjPSrEtzexWBFRvdolFUI6Ymq.jpg",
+        "release_date": "2021-11-02",
+        "title": "Pa Rum Pum Pum Pum",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g3yMkJUhLHAqpu9ZBfikY7EFk5i.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 217434,
+        "original_language": "tl",
+        "original_title": "Kisapmata",
+        "overview": "A retired police sergeant has an unnatural stranglehold over his wife and daughter. His claustrophobically enclosed world is threatened when his daughter Mila finds herself pregnant and was forced to marry Noel. He attempts to extend his influence over his son-in-law, who resists; there is a confrontation.",
+        "popularity": 9.366,
+        "poster_path": "/p76F73cUl0XwyRnVe8kzfgHNUft.jpg",
+        "release_date": "1981-12-25",
+        "title": "Kisapmata",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zbVd58UJ5t6j4xKKU1LgLWjrDTs.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 96990,
+        "original_language": "cn",
+        "original_title": "龍之爭霸",
+        "overview": "This is director/martial arts star Frankie Chan's unofficial remake of the Kinji Fukasaku film SHOGUN'S SAMURAI (1978). Instead of Japanese samurai in a period setting, we get modern day Chinese gangsters battling each other for the position left vacant after the mysterious death of their head honcho.",
+        "popularity": 9.365,
+        "poster_path": "/yFtKpI0J3ughwZaxoUWdSbC9HD6.jpg",
+        "release_date": "1989-04-13",
+        "title": "Burning Ambition",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1vy6QObLvcjnr6aTBHzWgIC3PbV.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 1302865,
+        "original_language": "en",
+        "original_title": "The Girl Locked Upstairs: The Tanya Kach Story",
+        "overview": "Feeling isolated and lonely, 14-year-old Tanya Kach befriends Tom Hose, a school security guard who lures her to his home. Held captive and abused for 10 years, Tanya eventually finds the courage to take a dangerous step toward freedom.",
+        "popularity": 9.363,
+        "poster_path": "/nREitEY40YwZWJnVjU06R4R061Q.jpg",
+        "release_date": "2024-06-08",
+        "title": "The Girl Locked Upstairs: The Tanya Kach Story",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tXcAw0ce4WBX57hloHeL5hk0k2C.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 71722,
+        "original_language": "ja",
+        "original_title": "拳銃残酷物語",
+        "overview": "Businessmen arrange the early release from prison of Togawa, serving time for taking revenge on the truck driver whose carelessness confined Togawa's sister, Rie, to a wheelchair. They want Togawa to hijack an armored truck loaded with 120 million yen; their leverage is to promise him money for surgery for Rie. Togawa consents and plans the heist with three others. The plan is solid, but it doesn't go smoothly. Togawa must improvise, there are traitors somewhere, and double-crosses mount. Can Togawa escape with enough money to help his sister and ensure a passage out of Japan?",
+        "popularity": 9.363,
+        "poster_path": "/wobDzcGe4i2WzF4HBAPif3kACrg.jpg",
+        "release_date": "1964-02-01",
+        "title": "Cruel Gun Story",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4LJ9R6qTOlYxtx8bJg2iOCcAS19.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 36273,
+        "original_language": "ja",
+        "original_title": "漂流街 THE HAZARD CITY",
+        "overview": "Brazilian-Japanese gangster Mario rescues his Chinese girlfriend Kei as she's about to be deported from Japan. Desperate to escape, he hides in Tokyo's booming Japanese-Portuguese community and seeks passage from the country from a Russian mobster. To meet his price, they hold up a bigtime drug deal between the Chinese Mafia and the local Yakuza.",
+        "popularity": 9.361,
+        "poster_path": "/2TajLnUCAWlAgl47qcmg28rAaZf.jpg",
+        "release_date": "2000-09-15",
+        "title": "The City of Lost Souls",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ts9g9S92TxOuqegZePD9I3jCzCw.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 45492,
+        "original_language": "ja",
+        "original_title": "スケバン刑事　風間三姉妹の逆襲",
+        "overview": "After the events of the previous film, the 17 years-old Sukeban Deka III, Yui Kazama, works for the Juvenile Security Bureau along with her older sisters Yuka and Yuma. This organization is led by politician Kuraudo Sekin, who fights juvenile crime in heavy-handed manners, to the extent to equip his student agents with triple-bladed yo-yo weapons. However, when Sekin's methods become too zealous, Yui quits the bureau and refuses to undertake undercover missions for them. It is soon discovered that Sekin's actual goal is to overthrow the Japanese government, and the Kazama sisters, along with a gang of young outcasts, have to stop him.",
+        "popularity": 9.36,
+        "poster_path": "/8CFjy2YRKuAuVEm8o7vO0eOHmfL.jpg",
+        "release_date": "1988-02-11",
+        "title": "Sukeban Deka the Movie 2: Counter-Attack of the Kazama Sisters",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6h4D84NCcVs2I2Lf3pOnyJQUASe.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 254933,
+        "original_language": "en",
+        "original_title": "Dick Tracy vs. Crime Inc.",
+        "overview": "Dick Tracy goes up against a villain known as The Ghost, who can turn himself invisible.",
+        "popularity": 9.358,
+        "poster_path": "/HsV3VgnXITV5xkiiw4Cc312PaM.jpg",
+        "release_date": "1941-12-27",
+        "title": "Dick Tracy vs. Crime Inc.",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1ikdmpA3PWzqpAFvpN1jrZu5z2D.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10402
+        ],
+        "id": 163332,
+        "original_language": "en",
+        "original_title": "Meet Danny Wilson",
+        "overview": "A lounge singer sees his career skyrocket after he signs a contract for a mobster nightclub owner.",
+        "popularity": 9.358,
+        "poster_path": "/upwUDO2Wy6qJaPCageZaHqqznAp.jpg",
+        "release_date": "1952-02-08",
+        "title": "Meet Danny Wilson",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/do2FxGgBYKO1hsF8sA1NmIBvs3m.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 576560,
+        "original_language": "en",
+        "original_title": "Tread",
+        "overview": "Pushed to his breaking point, a master welder in a small town at the foot of the Rocky Mountains quietly fortifies a bulldozer with 30 tons of concrete and steel and seeks to destroy those he believes have wronged him.",
+        "popularity": 9.356,
+        "poster_path": "/sXh2U3Pj2iMjzzW993kUvHE10RK.jpg",
+        "release_date": "2020-02-21",
+        "title": "Tread",
+        "video": false,
+        "vote_average": 6.509,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 541980,
+        "original_language": "es",
+        "original_title": "Cacería de Traficantes",
+        "overview": "After his son is murdered by drug dealers, a man decides to take revenge.",
+        "popularity": 9.356,
+        "poster_path": "/9DGTHMsqpFDbC5pxUg1TKS8Nugp.jpg",
+        "release_date": "1983-01-01",
+        "title": "Cacería de Traficantes",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lamNIEK8D6xYiHRLk11uRD6fyf.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 186584,
+        "original_language": "en",
+        "original_title": "Code Name: Diamond Head",
+        "overview": "A failed Quinn Martin pilot for a series starring a Hawaii-based government counter intelligence agency run by the indomitable Aunt Mary. In this, his only adventure, Diamond Head has to prevent the evil Tree from stealing a deadly nerve toxin gas and selling it to foreign powers. To help Diamond Head is the Dragon Lady and Zulu.",
+        "popularity": 9.356,
+        "poster_path": "/nqC46YCqsUfJIn07TXJ6c6dicSZ.jpg",
+        "release_date": "1977-05-03",
+        "title": "Code Name: Diamond Head",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 231977,
+        "original_language": "en",
+        "original_title": "The Killers Edge",
+        "overview": "A Los Angeles police officer and a female FBI agent team-up to foil a counterfeiting gang in operation. The counterfeiter in question turns out to be an army veteran friend who saved the male cop during their time together in Vietnam.",
+        "popularity": 9.355,
+        "poster_path": "/cPo7aFsGdKoMKs5ZkzuJCEg6h1u.jpg",
+        "release_date": "1991-04-12",
+        "title": "The Killers Edge",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 90702,
+        "original_language": "ja",
+        "original_title": "女番長 スケバン",
+        "overview": "The Kanto Gypsies, a tough girl gang, hide out from the law in the middle of a disputed gang territory, where they end up getting kidnapped by sinister underworld thugs. After breaking free, the girls set their sights on one thing: revenge. Miki Sugimoto stars as girl boss Komasa, the ruthless and sadistic leader of the Kanto Gypsies who possesses more than enough brains to match her killer looks.",
+        "popularity": 9.355,
+        "poster_path": "/siwiN0zpQeahOVbO1ciurHqJyEZ.jpg",
+        "release_date": "1973-01-13",
+        "title": "Girl Boss Revenge: Sukeban",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6dhM6d02Ti3bU6iQlZ9HVOSjD31.jpg",
+        "genre_ids": [
+            12,
+            35,
+            80
+        ],
+        "id": 77729,
+        "original_language": "fr",
+        "original_title": "Lévy et Goliath",
+        "overview": "A very faithful Jewish man works making diamond dust in his family's workshop, to sell to industries. One day he goes on businnes trip. In the same train goes a very sexy girl, with some heroin bags (you guess it) very similar to the diamond bags. The police begins to chase the girl, and she hides the drug into the Levy's bag. The girl calls his boss ('Goliath') the situation and he and his band begins to hound Levy, who, by this time, selled the bags to a factory, not knowing the content. He has to get out of the problem with the help of his brother and his God.",
+        "popularity": 9.355,
+        "poster_path": "/hnRfuenbkxwUO4CXHae1IZpDwWN.jpg",
+        "release_date": "1987-01-27",
+        "title": "Levy & Goliath",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uxFeKa8A7mSwbTVy0c6jbhkVEVn.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 62804,
+        "original_language": "en",
+        "original_title": "Death of a Scoundrel",
+        "overview": "A Czech refugee uses women to advance his business interest.",
+        "popularity": 9.355,
+        "poster_path": "/qbEHXmu4ZCXtBr4GCMyYUE1ktCv.jpg",
+        "release_date": "1956-10-31",
+        "title": "Death of a Scoundrel",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 21
+    }
+]

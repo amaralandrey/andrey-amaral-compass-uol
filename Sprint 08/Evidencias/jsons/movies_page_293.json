@@ -1,0 +1,406 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/f3IuIHFQX5nlXF6tAkK1deIQmZ3.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 1253769,
+        "original_language": "en",
+        "original_title": "Texas Twister",
+        "overview": "A small town worker believes he's seeing visions from God in the form of a violent tornado.",
+        "popularity": 10.682,
+        "poster_path": "/pB5WKqPFiWL9imateENXRzd9GoD.jpg",
+        "release_date": "2024-02-12",
+        "title": "Texas Twister",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hlop9mKPhXB4d04ACGUMpbGQ7uc.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 207399,
+        "original_language": "en",
+        "original_title": "Twisted Justice",
+        "overview": "In the Los Angeles of the future, police are forbidden to carry weapons and must use stun guns instead. A maverick detective ignores those restrictions in his pursuit of \"The Bullseye Murderer,\" a psychotic rapist who takes a new drug called \"Umbra\" that gives him superhuman strength and intelligence.",
+        "popularity": 10.677,
+        "poster_path": "/k1H0HOTpJwosMJL479F9vCIR9ls.jpg",
+        "release_date": "1990-03-20",
+        "title": "Twisted Justice",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4DBSj2SezUKsNWDA6RqLMJ03OoA.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10770
+        ],
+        "id": 68678,
+        "original_language": "en",
+        "original_title": "Jane Doe: The Wrong Face",
+        "overview": "When it comes to crime solving, nobody does it better than Jane Doe.",
+        "popularity": 10.677,
+        "poster_path": "/koIgrMtp3sbsS6uNgGnAyMQtT2H.jpg",
+        "release_date": "2005-06-19",
+        "title": "Jane Doe: The Wrong Face",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9kuGs7cs5L45xe26srevqQN7mNe.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 459991,
+        "original_language": "es",
+        "original_title": "Caracas Vice Vol. 1",
+        "overview": "Caracas, Venezuela. 1982. Ryan of the DEA and Carlos the PTJ join forces to stop the most dangerous drug lord of the country, Disco Herrera.",
+        "popularity": 10.674,
+        "poster_path": "/y4LP7qyLkR7xrPNSx9ueUzOxPbe.jpg",
+        "release_date": "2017-04-26",
+        "title": "Caracas Vice Vol. 1",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o7KKe7Nk2G0QaS3RvvMo2RJjEbG.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 239000,
+        "original_language": "en",
+        "original_title": "The Big Operator",
+        "overview": "A power-mad union boss resorts to murder to eliminate witnesses scheduled to testify against him. The eclectic cast includes Mickey Rooney, Mamie Van Doren, Mel Torme, Jay North, Vampira, Charles Chaplin Jr., Jackie Coogan and Norman Grabowski.",
+        "popularity": 10.661,
+        "poster_path": "/9xX8Yv1ziNxwBBUvi7u0XtS3Ysj.jpg",
+        "release_date": "1959-08-01",
+        "title": "The Big Operator",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AqtRUKTfvUD40uaUH99iFjrRU67.jpg",
+        "genre_ids": [
+            99,
+            53,
+            80
+        ],
+        "id": 473325,
+        "original_language": "fr",
+        "original_title": "Ni juge, ni soumise",
+        "overview": "Some 20 years ago, two sex workers were murdered in an upper-class Brussels neighborhood. Celebrated Belgian magistrate Anne Gurwez decides to revisit this cold case, pouring over the evidence with the use of new technologies and tracking down then-suspects.",
+        "popularity": 10.66,
+        "poster_path": "/gYQQYf3gHtxvBmDA20RpPynWNxF.jpg",
+        "release_date": "2018-02-07",
+        "title": "So Help Me God",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3tWYZW0jy2IYfRKhjgKJDHmES5Q.jpg",
+        "genre_ids": [
+            9648,
+            12,
+            80,
+            10770
+        ],
+        "id": 269698,
+        "original_language": "en",
+        "original_title": "Hart to Hart: Secrets of the Hart",
+        "overview": "Set in San Francisco, Jonathan and Jennifer Hart are faced with the prospect of being reunited with Jonathan's long lost sister, and her nephew. Is it possible that Jonathan will finally discover a key to his past or will the \"family\" turn out to be after something, putting Jonathan and Jennifer in danger's past one more time?",
+        "popularity": 10.658,
+        "poster_path": "/ttgiFn5wnXLyeNYW3knNMpy0FSp.jpg",
+        "release_date": "1995-03-06",
+        "title": "Hart to Hart: Secrets of the Hart",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w7p76KKKRddiinBYBrVOA5DFzvH.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 83078,
+        "original_language": "en",
+        "original_title": "Blue City",
+        "overview": "Returning to the small Florida town where he grew up, Billy Turner learns that his father has been killed. With little help from the police, Billy will take matters into his own hands and go up against a ruthless local mob boss in a desperate search to find the killer.",
+        "popularity": 10.657,
+        "poster_path": "/pyUaAmByFrOuB0d1o9fpfPUrjKU.jpg",
+        "release_date": "1986-05-02",
+        "title": "Blue City",
+        "video": false,
+        "vote_average": 4.885,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yLoMgVd56wwQkRyowzGt2O4dRjg.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 44867,
+        "original_language": "en",
+        "original_title": "A Bullet Is Waiting",
+        "overview": "A plane carrying a sheriff and a man indicted for manslaughter is wrecked on a lonely California beach and the prisoner manages to escape, after a struggle, only to be taken in hand by the female manager of a remote sheep ranch.",
+        "popularity": 10.657,
+        "poster_path": "/9lVtsmgNivlQuTPUKBG5gUmmEYN.jpg",
+        "release_date": "1954-09-04",
+        "title": "A Bullet Is Waiting",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            99,
+            18
+        ],
+        "id": 354870,
+        "original_language": "en",
+        "original_title": "Monster: The Josef Fritzl Story",
+        "overview": "Interviews with family members, doctors and victims of 73-year-old Josef Fritzl, who held his daughter captive in a basement for 24 years and fathered seven children with her.",
+        "popularity": 10.654,
+        "poster_path": "/nHduqxMjZrfZ2wJofh9u4SZXANC.jpg",
+        "release_date": "2010-08-16",
+        "title": "Monster: The Josef Fritzl Story",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eKqTEgJPTC0CAW8sjA0nwiUE7qN.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 219645,
+        "original_language": "en",
+        "original_title": "Criminal Passion",
+        "overview": "Homicide detective Melanie Hudson begins a torrid affair with a senator's son who is a suspect in a series of grisly murders.",
+        "popularity": 10.652,
+        "poster_path": "/yKAWlD6IxcvEqRTyVuhBqhzH4eY.jpg",
+        "release_date": "1994-09-21",
+        "title": "Criminal Passion",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nF2ziq1auKwi1OKF6QIfyGoduTj.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 127091,
+        "original_language": "it",
+        "original_title": "Il poliziotto è marcio",
+        "overview": "When mobsters try to put an honest policeman on the payroll, he seeks revenge on the mob. But, he soon learns that his actions, however honest, have dire consequences.",
+        "popularity": 10.651,
+        "poster_path": "/zGZB9wAQ1RzPEI8yT3YDVK4s5nU.jpg",
+        "release_date": "1974-07-12",
+        "title": "Shoot First, Die Later",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fVxbEDd7ci0TE4ljsK13oyNUeW7.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18,
+            37
+        ],
+        "id": 535144,
+        "original_language": "hi",
+        "original_title": "सोनचिरिया",
+        "overview": "When a group of dacoits gets split after their leader is killed, they decide to run away. On the way, they meet Indumati and Khushi, who are chased by the former's family to be killed.",
+        "popularity": 10.65,
+        "poster_path": "/7ygikeDbneOlUFIQyvAmMrvi3vJ.jpg",
+        "release_date": "2019-03-01",
+        "title": "Sonchiriya",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/PQoGyZT2wpETWR1bVGqhRNfBIW.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 125185,
+        "original_language": "ja",
+        "original_title": "日本女侠伝 真赤な度胸花",
+        "overview": "An exciting tale of action on the distant northern island of Hokkaido around the beginning of the 20th Century starring two of the biggest names in Yakuza film history, Fuji Junko and Takakura Ken. Since the death of death of her father, Yuki who has traveled from her home in the southernmost part of Japan must fight corrupt local officials seeking to fill her late father's post. As her life is in danger a mysterious rifleman, played by Takakura Ken watches from the shadows. Can she finish the work her dear departed father started in an untamed land?",
+        "popularity": 10.648,
+        "poster_path": "/n7cFKztGlj1NKotr3Cp52Bnr6Gl.jpg",
+        "release_date": "1970-01-09",
+        "title": "Brave Red Flower of the North",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lUoeLsRabarFFpWRSuupenL6LIO.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 62033,
+        "original_language": "en",
+        "original_title": "The Girl in Black Stockings",
+        "overview": "Residents at a posh Utah hotel become suspects when a girl is found murdered during a pool party. Local sheriff Jess Holmes takes charge of the investigation and must discover who among the terrified guests and staff -- including bodacious vixen Harriet Ames, the hotel's bitter, crippled proprietor, visiting lawyer David Hewson and his secretary, Beth -- is the culprit, even as murders continue to take place.",
+        "popularity": 10.645,
+        "poster_path": "/ivNHUetLxgrmxhBDROFNCyJs4PO.jpg",
+        "release_date": "1957-09-24",
+        "title": "The Girl in Black Stockings",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d6UCTzWPV3BJap5OB9kE45gdAVQ.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 1019232,
+        "original_language": "ta",
+        "original_title": "சைரன்",
+        "overview": "A prisoner wrongly convicted of murder seeks revenge after his fourteen year sentence ends.",
+        "popularity": 10.644,
+        "poster_path": "/rusvbsLBCwoYwen7mFAA78pCGPA.jpg",
+        "release_date": "2024-02-16",
+        "title": "Siren",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jxPuYAoTMR0iGF98l7LdseNPK5r.jpg",
+        "genre_ids": [
+            12,
+            35,
+            80,
+            18
+        ],
+        "id": 57240,
+        "original_language": "en",
+        "original_title": "Big Shots",
+        "overview": "Following the death of his father, a suburbanite runs away from home and winds up on Chicago's South Side. After being mugged, the boy befriends a young hustler and, after stealing a gangster's car, the two embark on an adventure down south in search of the hustler's estranged father.",
+        "popularity": 10.644,
+        "poster_path": "/qRLufBnP8nuQgKLwo0G7quunbO3.jpg",
+        "release_date": "1987-10-02",
+        "title": "Big Shots",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tOls2x7EujSJZ4A0ArTKAvhZKKK.jpg",
+        "genre_ids": [
+            99,
+            53,
+            80,
+            27
+        ],
+        "id": 41704,
+        "original_language": "en",
+        "original_title": "Serial Killers: The Real Life Hannibal Lecters",
+        "overview": "This documentary examines a selection of real life serial killers and compares them to the fictional Hannibal Lecter.",
+        "popularity": 10.644,
+        "poster_path": "/n75iTwhKA5EIrNSQn56UtnPvY9D.jpg",
+        "release_date": "2001-01-01",
+        "title": "Serial Killers: The Real Life Hannibal Lecters",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z5eJrvkwNZDyPfasCzbwCbUnp3V.jpg",
+        "genre_ids": [
+            10770,
+            53,
+            80,
+            18
+        ],
+        "id": 971530,
+        "original_language": "en",
+        "original_title": "A Deadly Mistake",
+        "overview": "After a car accident leaves her boyfriend in a coma, April’s panic attacks return and make her life a living hell. However, once she accepts the kindness of a stranger trying to help her, she realizes that he might not be the stranger she thought he is.",
+        "popularity": 10.643,
+        "poster_path": "/1glJ78r2p9qm5lrexFvSnd5D0VW.jpg",
+        "release_date": "2023-01-23",
+        "title": "You'll Never Leave Me",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            9648,
+            80
+        ],
+        "id": 1202033,
+        "original_language": "en",
+        "original_title": "Enola Holmes 3",
+        "overview": "",
+        "popularity": 10.641,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Enola Holmes 3",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

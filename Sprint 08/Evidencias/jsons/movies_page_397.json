@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/sAsOQb3c6CNCFdfQ17FgwbvnHVr.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1222140,
+        "original_language": "ml",
+        "original_title": "ഗോളം",
+        "overview": "A mysterious death during work hours in an office puzzles all but only Investigator ASP Sandeep Krishna observes it as a murder.",
+        "popularity": 8.34,
+        "poster_path": "/Aa30QzjokChiDOtuV27cfOSSVOA.jpg",
+        "release_date": "2024-06-07",
+        "title": "Golam",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3czspk9cMUWOsjItiUtQ2asUnN0.jpg",
+        "genre_ids": [
+            10770,
+            80
+        ],
+        "id": 1084625,
+        "original_language": "en",
+        "original_title": "Dick Tracy Special: Tracy Zooms In",
+        "overview": "Film experts Leonard Maltin and Ben Mankiewicz interview famous detective Dick Tracy about his life and career, with a surprise appearance by legendary actor and director Warren Beatty.",
+        "popularity": 8.34,
+        "poster_path": "/grggrMDMN0rVg1I553kb6LBL1h4.jpg",
+        "release_date": "2023-02-10",
+        "title": "Dick Tracy Special: Tracy Zooms In",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7LiicslNQWihEomb4imBJgpV7YJ.jpg",
+        "genre_ids": [
+            37,
+            28,
+            80
+        ],
+        "id": 379092,
+        "original_language": "en",
+        "original_title": "A Killer of Men",
+        "overview": "Shot and left for dead by the commune of murderers and thieves who raised him, an 18 year-old pure-bred killer must trek across the lawless desert waste to exact his revenge and rid the world of their evil.",
+        "popularity": 8.34,
+        "poster_path": "/qmOKyijm4cEK5uCMQFOIzlSsFkS.jpg",
+        "release_date": "2015-06-11",
+        "title": "A Killer of Men",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 92563,
+        "original_language": "cn",
+        "original_title": "僱傭兵",
+        "overview": "Four killers are hired to take out a triad boss. They discover that they've been set up after completing their mission. They are now the new targets.",
+        "popularity": 8.34,
+        "poster_path": "/amhzZINt4Ft6rYT62bEtQVeZTkl.jpg",
+        "release_date": "2000-10-12",
+        "title": "Killers from Beijing",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            10770
+        ],
+        "id": 308397,
+        "original_language": "en",
+        "original_title": "Client Seduction",
+        "overview": "A high-profile defense attorney determined to change her image takes on a pro bono case, which soon threatens both her and her family.",
+        "popularity": 8.339,
+        "poster_path": "/57YFipFzEBt09VnQLaY5WKDBfBL.jpg",
+        "release_date": "2014-09-16",
+        "title": "Client Seduction",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/22dYvk8sWNIqHhjti4KhcazOrCX.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 186193,
+        "original_language": "en",
+        "original_title": "White Tiger",
+        "overview": "Three crooks pull off a magnificent crime. As they're forced to hide out together they slowly begin to distrust each other.",
+        "popularity": 8.337,
+        "poster_path": "/qAZRpUI7L0usYdy0OTqloJ4EAU1.jpg",
+        "release_date": "1923-12-17",
+        "title": "White Tiger",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w0w3wqNo9HqPKtH1OEhHoQt6six.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 38751,
+        "original_language": "en",
+        "original_title": "The Man Who Cheated Himself",
+        "overview": "A veteran homicide detective who has witnessed his socialite girlfriend kill her husband sees his inexperienced brother assigned to the case.",
+        "popularity": 8.337,
+        "poster_path": "/jJKWfhHjDaFGSNvRnXx0Xxehhls.jpg",
+        "release_date": "1950-12-26",
+        "title": "The Man Who Cheated Himself",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6qaiUSBEZTbBzJb8HUuo2BuBAAh.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 463983,
+        "original_language": "sk",
+        "original_title": "Čiara",
+        "overview": "Criminal thriller about traffickers and smugglers from Ukrainian border. The feature film about the borders and the life on their edge.",
+        "popularity": 8.336,
+        "poster_path": "/27yclB24B8ZlvJBa50fph2Qtqqb.jpg",
+        "release_date": "2017-08-03",
+        "title": "The Line",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            35,
+            80,
+            18,
+            10770
+        ],
+        "id": 131729,
+        "original_language": "en",
+        "original_title": "The Con",
+        "overview": "A lonely gas station attendent in Mississippi falls in love with a con woman who wants to get her hands on an inheritance he doesn't know about.",
+        "popularity": 8.335,
+        "poster_path": "/e6mkrEYBBOMsoBNl0Jcs0hIBw0p.jpg",
+        "release_date": "1998-03-04",
+        "title": "The Con",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kst0WuImQwm4tO7OowydRziRtex.jpg",
+        "genre_ids": [
+            27,
+            80
+        ],
+        "id": 74215,
+        "original_language": "it",
+        "original_title": "La vergine di Norimberga",
+        "overview": "Women are being tortured to death with various torture devices in the dungeon of an old castle by a deformed, hooded, holocaust survivor.",
+        "popularity": 8.334,
+        "poster_path": "/53mIigTNgfEsVbVirNjarRUyMmL.jpg",
+        "release_date": "1963-08-15",
+        "title": "Horror Castle",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gemRdLqN6pmCHkFCdbG9GftfVTE.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 107831,
+        "original_language": "cn",
+        "original_title": "香港奇案",
+        "overview": "An anthology film featuring three true-crime stories that took place in Hong Kong in the early 1970's. Part 1: Hidden Torsos' A woman and her daughter are murdered by her abusive boyfriend. Part 2: 'Valley of the Hanged'-A man murders his wife and her lover. Part 3: 'The Stuntmen' - A gang boss is murdered by his wife's lover",
+        "popularity": 8.332,
+        "poster_path": "/runTX7Cl2eCQ7nnAeJFP85cGVot.jpg",
+        "release_date": "1976-01-16",
+        "title": "The Criminals",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aKfNpPlxYwsqCOAX9jsEzortQF6.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 325619,
+        "original_language": "sv",
+        "original_title": "Johan Falk: Tyst diplomati",
+        "overview": "When Johan and his colleagues are watching Seth and his gang member Jack, they stumble on a larger case than they expected. Seth is selling arms to terrorists, but without Jack's knowledge, in a car where Johan's old colleague Pernilla mysterious appears. While Johan begin researching what Pernilla and SÄPO is doing, Jack suspects that everything is not right with Seth and that he's working with the police.",
+        "popularity": 8.331,
+        "poster_path": "/kBGilxHDQWVjRQ0HTNlVVkYAA0s.jpg",
+        "release_date": "2015-07-13",
+        "title": "Johan Falk: Silent Diplomacy",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            10749
+        ],
+        "id": 230543,
+        "original_language": "zh",
+        "original_title": "一场风花雪月的事",
+        "overview": "A policewoman named Lu Yueyue investigates a stolen national treasure and eventually ends up in a fight with gangsters. At the same time, she is trying to deal with a complicated romantic relationship and family conflict. The film is based on a 1995 television series that made mainland actress-director Xu Jinglei well-known throughout China.",
+        "popularity": 8.33,
+        "poster_path": "/nNjJiDHSMjw6c0JVc2yvxGBKJDl.jpg",
+        "release_date": "2013-08-13",
+        "title": "Crime of Passion",
+        "video": false,
+        "vote_average": 1.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            28,
+            80
+        ],
+        "id": 491082,
+        "original_language": "tl",
+        "original_title": "Sabik Sa Halik",
+        "overview": "A romantic-action directed by Abbo DeLa Cruz featuring Gardo Versoza and Priscilla Almeda.",
+        "popularity": 8.329,
+        "poster_path": "/pt8YgiHLpfuU2JjUBFmBtA34Kf1.jpg",
+        "release_date": "1995-09-20",
+        "title": "Sabik Sa Halik",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nwwrXDWoeWLiFlp6KiTDexbKAMh.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 168578,
+        "original_language": "es",
+        "original_title": "El Garabato",
+        "overview": "The story of a naive young man, provincial and not very experienced, to whom the circumstances of destiny, when crossing with the beautiful Frida, lead him to mature with a single blow. Rodolfo helps Frida in a car accident while she orders him to deliver an envelope. There begins the desperate flight of this innocent man fighting for his life, persecuted by thugs -who want to recover the contents of the envelope- and by the police -who seeks him for being a suspect in the death of an important diplomat.",
+        "popularity": 8.326,
+        "poster_path": "/jf5Ut2X3ABmDaeMMX0hVuwmA2wL.jpg",
+        "release_date": "2008-01-11",
+        "title": "El Garabato",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 991262,
+        "original_language": "cn",
+        "original_title": "內幕",
+        "overview": "The annual charity gala held by the famous charity foundation \"Jibatang\" can be described as a gathering of distinguished guests and colorful flowers. Just before main speech is delivered, the financial director of the foundation suddenly hangs himself on the stage.",
+        "popularity": 8.322,
+        "poster_path": "/kB7o9D6X0itwwL0l9fDWRZdmCcB.jpg",
+        "release_date": "",
+        "title": "Under Current",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 169786,
+        "original_language": "en",
+        "original_title": "The Arrogant",
+        "overview": "The Arrogant is a 1987 action-thriller directed, written, and produced by Philippe Blot. This film stars Gary Graham and Sylvia Kristel, Giovanni and Julie, as two strangers who meet on a desert highway. As they travel together, they encounter many strange situations that are often religious and/or sexual in nature. The uninhibited and arrogant Giovanni is usually the cause of most of these dilemmas they come across.",
+        "popularity": 8.322,
+        "poster_path": "/AnfaY6d6yPaq3tGvyHjupYmnLqP.jpg",
+        "release_date": "1988-01-01",
+        "title": "The Arrogant",
+        "video": false,
+        "vote_average": 2.25,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xNQKwj0DtwkKjreGBkX9zoi2sFJ.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 768088,
+        "original_language": "cs",
+        "original_title": "Stínohra",
+        "overview": "Accepting responsibility for his wife's murder after he has left her, Jan starts pursuing the criminal himself to make sure the culprit doesn't avoid punishment.",
+        "popularity": 8.319,
+        "poster_path": "/oy9dua8hcX9aRl6Y33GSevqtjo7.jpg",
+        "release_date": "2022-04-07",
+        "title": "Shadowplay",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8ZYEPLE84yuQqCwzOBa4Tn67xIl.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            35,
+            14
+        ],
+        "id": 281678,
+        "original_language": "en",
+        "original_title": "Justin Case",
+        "overview": "A crime comedy directed by Blake Edwards.",
+        "popularity": 8.319,
+        "poster_path": "/1eGL0a6lmBplLHAkgd51VUGSIfM.jpg",
+        "release_date": "1988-05-15",
+        "title": "Justin Case",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ghNc5ykNCrJLcc3M7a8yj6Lr5zL.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            9648,
+            53
+        ],
+        "id": 37682,
+        "original_language": "en",
+        "original_title": "Web of Lies",
+        "overview": "Abby Turner has it all: brains, looks and a terrific job as the lead Internet security designer at Custodis Systems. But when her seemingly perfect boyfriend - Josh Lawson - is murdered, Abby's world is turned upside down. Caught in a web of devious schemes and deadly betrayals, Abby must rely on her quick wits and analytical skills - and practise a little deception of her own - if she's to survive the deadly \"Web of Lies\"",
+        "popularity": 8.317,
+        "poster_path": "/pIuzyNyE6uZPvIUDrjdDJRfb6Mf.jpg",
+        "release_date": "2010-03-10",
+        "title": "Web of Lies",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 12
+    }
+]

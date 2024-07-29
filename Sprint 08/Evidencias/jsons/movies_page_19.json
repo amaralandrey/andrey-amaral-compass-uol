@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/f0wTYitK1lELuGygXslG7SQpY0E.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 1710,
+        "original_language": "en",
+        "original_title": "Copycat",
+        "overview": "An agoraphobic psychologist and a female detective must work together to take down a serial killer who copies serial killers from the past.",
+        "popularity": 46.098,
+        "poster_path": "/oMgwJb016znNZcpDR20eXxZoW8A.jpg",
+        "release_date": "1995-10-27",
+        "title": "Copycat",
+        "video": false,
+        "vote_average": 6.498,
+        "vote_count": 921
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3pMU7OGlcksMb7YkMthj5A1Y08B.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 535292,
+        "original_language": "en",
+        "original_title": "21 Bridges",
+        "overview": "An embattled NYPD detective, is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy. As the night unfolds, lines become blurred on who he is pursuing, and who is in pursuit of him.",
+        "popularity": 53.599,
+        "poster_path": "/kDlmrGZROewneCoSwPjKx6Qfown.jpg",
+        "release_date": "2019-10-24",
+        "title": "21 Bridges",
+        "video": false,
+        "vote_average": 6.779,
+        "vote_count": 1901
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v0l5LaFObhhuVHzhTc9pXmNe9Nj.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 86838,
+        "original_language": "en",
+        "original_title": "Seven Psychopaths",
+        "overview": "A struggling screenwriter inadvertently becomes entangled in the Los Angeles criminal underworld after his oddball friends kidnap a gangster's beloved Shih Tzu.",
+        "popularity": 39.827,
+        "poster_path": "/4ukEYAxlSivFcDG6vLxJB6PjTjg.jpg",
+        "release_date": "2012-10-12",
+        "title": "Seven Psychopaths",
+        "video": false,
+        "vote_average": 6.813,
+        "vote_count": 3813
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7fTPwUHCPCmclMqQUQHlrdTiC9W.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 539565,
+        "original_language": "en",
+        "original_title": "Zola",
+        "overview": "A waitress agrees to accompany an exotic dancer, her put-upon boyfriend, and her mysterious and domineering roommate on a road trip to Florida to seek their fortune at a high-end strip club.",
+        "popularity": 48.832,
+        "poster_path": "/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+        "release_date": "2020-01-24",
+        "title": "Zola",
+        "video": false,
+        "vote_average": 6.171,
+        "vote_count": 219
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dbbISJjEtQ3adhcsAlnRhqTLxdb.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 136400,
+        "original_language": "en",
+        "original_title": "2 Guns",
+        "overview": "A DEA agent and an undercover Naval Intelligence officer who have been tasked with investigating one another find they have been set up by the mob -- the very organization the two men believe they have been stealing money from.",
+        "popularity": 47.823,
+        "poster_path": "/ptURGAFktibhk7DEAbMazlmNqWa.jpg",
+        "release_date": "2013-08-02",
+        "title": "2 Guns",
+        "video": false,
+        "vote_average": 6.54,
+        "vote_count": 4041
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sKJOOzIR5oMiCeXC7gBxXgIDz9p.jpg",
+        "genre_ids": [
+            28,
+            80,
+            878
+        ],
+        "id": 302156,
+        "original_language": "en",
+        "original_title": "Criminal",
+        "overview": "CIA Agent Bill Pope is on a mission to track down a shadowy hacker named 'The Dutchman'. When he gets mysteriously killed, an experimental procedure transfers his memories into a dangerous ex-convict. When he wakes up Pope's memories, his mission is to eliminate The Dutchman before the hacker launches ICBMs and starts World War III.",
+        "popularity": 54.31,
+        "poster_path": "/lm0NlIsgGDqdx7CGFCDDJo1ptgh.jpg",
+        "release_date": "2016-04-07",
+        "title": "Criminal",
+        "video": false,
+        "vote_average": 6.196,
+        "vote_count": 1680
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gz6Y41FwBhWLSyCJC6fyVkj9ZBS.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 554972,
+        "original_language": "ko",
+        "original_title": "성난황소",
+        "overview": "Dong-chul and Ji-soo are a happily married couple. One day, Dong-chul comes home to find his house in disarray and his wife missing.",
+        "popularity": 57.562,
+        "poster_path": "/csle64zkLObsdRoabreC6bBRxLI.jpg",
+        "release_date": "2018-11-22",
+        "title": "Unstoppable",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 133
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dPE25PbaeE6fCR2SQb4H4MeBmml.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 15472,
+        "original_language": "sv",
+        "original_title": "Män som hatar kvinnor",
+        "overview": "Swedish thriller based on Stieg Larsson's novel about a male journalist and a young female hacker. In the opening of the movie, Mikael Blomkvist, a middle-aged publisher for the magazine Millennium, loses a libel case brought by corrupt Swedish industrialist Hans-Erik Wennerström. Nevertheless, he is hired by Henrik Vanger in order to solve a cold case, the disappearance of Vanger's niece",
+        "popularity": 48.305,
+        "poster_path": "/r2pFUXKK20KD9RE3yybpQsNynRE.jpg",
+        "release_date": "2009-02-27",
+        "title": "The Girl with the Dragon Tattoo",
+        "video": false,
+        "vote_average": 7.526,
+        "vote_count": 2888
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4GsvnaGqBGA78ccZusXvCH7zzun.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 9679,
+        "original_language": "en",
+        "original_title": "Gone in Sixty Seconds",
+        "overview": "Upon learning that he has to come out of retirement to steal 50 cars in one night to save his brother Kip's life, former car thief Randall \"Memphis\" Raines enlists help from a few \"boost happy\" pals to accomplish a seemingly impossible feat. From countless car chases to relentless cops, the high-octane excitement builds as Randall swerves around more than a few roadblocks to keep Kip alive.",
+        "popularity": 44.78,
+        "poster_path": "/lFsJJjnGcNhewSIM9XBTaHsI2et.jpg",
+        "release_date": "2000-06-09",
+        "title": "Gone in Sixty Seconds",
+        "video": false,
+        "vote_average": 6.431,
+        "vote_count": 4311
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vB5hoogPuLO5Hpbb63c8yFB7WPf.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80
+        ],
+        "id": 793,
+        "original_language": "en",
+        "original_title": "Blue Velvet",
+        "overview": "Clean-cut Jeffrey Beaumont realizes his hometown is not so normal when he discovers a human ear in a field, the investigation soon catapulting him toward a disturbed nightclub singer and a drug-addicted sadist.",
+        "popularity": 50.025,
+        "poster_path": "/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg",
+        "release_date": "1986-09-19",
+        "title": "Blue Velvet",
+        "video": false,
+        "vote_average": 7.624,
+        "vote_count": 3197
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hYQESwiI004tSkKGSWgW2P1uc0A.jpg",
+        "genre_ids": [
+            80,
+            28,
+            35
+        ],
+        "id": 58233,
+        "original_language": "en",
+        "original_title": "Johnny English Reborn",
+        "overview": "The most prominent heads of state in the world begin gathering for a conference that could have a major impact on global politics. When MI-7 receives word that the Chinese premier has become the target of some high-powered killers, it falls on Johnny English to save the day. Armed with the latest high-tech weaponry and gadgets that would make even James Bond jealous, the once-disgraced agent uncovers evidence of a massive conspiracy involving some of the world's most powerful organisations, and vows to redeem his tarnished reputation by stopping the killers before they can strike.",
+        "popularity": 59.276,
+        "poster_path": "/1T6qnlTVkrGr0mpgZbpSwVU5FWW.jpg",
+        "release_date": "2011-09-15",
+        "title": "Johnny English Reborn",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 3207
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fJKJXKiRSzDihp50c7j39zb3ILi.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 500475,
+        "original_language": "en",
+        "original_title": "SuperFly",
+        "overview": "Career criminal Youngblood Priest wants out of the Atlanta drug scene, but as he ramps up sales, one little slip up threatens to bring the whole operation down before he can make his exit.",
+        "popularity": 49.262,
+        "poster_path": "/gGk9H5PVpWzbsYkmnBeKevQkwwf.jpg",
+        "release_date": "2018-06-13",
+        "title": "SuperFly",
+        "video": false,
+        "vote_average": 6.78,
+        "vote_count": 372
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3jiNJ4lyAmdSidvbFTFIL2GQGBu.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80,
+            12,
+            10751
+        ],
+        "id": 12096,
+        "original_language": "en",
+        "original_title": "The Pink Panther",
+        "overview": "When the coach of the France soccer team is killed by a poisoned dart in the stadium in the end of a game, and his expensive and huge ring with the diamond Pink Panther disappears, the ambitious Chief Inspector Dreyfus assigns the worst police inspector Jacques Clouseau to the case.",
+        "popularity": 50.25,
+        "poster_path": "/57ViRkdsddHLK32W8Nf3ZPLSAu4.jpg",
+        "release_date": "2006-02-10",
+        "title": "The Pink Panther",
+        "video": false,
+        "vote_average": 5.832,
+        "vote_count": 1876
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q0K6uqrVMs5UpRY7sb7rsPHiFYc.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 16411,
+        "original_language": "cn",
+        "original_title": "頭文字D",
+        "overview": "After winning his first competition, Takumi focuses his attention on drift racing, a sport he has unknowingly perfected while delivering tofu in his father's Toyota AE86.",
+        "popularity": 44.478,
+        "poster_path": "/6UfOCbfmhyqdjP1zzRFmbiPCViE.jpg",
+        "release_date": "2005-05-12",
+        "title": "Initial D",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 258
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gyReyZ09en6XIm4Xzo5ESMxeyuu.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1234783,
+        "original_language": "es",
+        "original_title": "Nahir",
+        "overview": "One of the most controversial cases in recent years in Argentina, this movie is based on the true story of Nahir Galarza and the murder of her boyfriend that rocked the country. The youngest woman to be convicted and sentenced to life in prison in Argentina, but questions still remain- was this a crime of passion, or is the truth still yet to be fully discovered?",
+        "popularity": 46.747,
+        "poster_path": "/w4TcFexTfo5X7NkvNSeTrRSu9Sj.jpg",
+        "release_date": "2024-05-22",
+        "title": "Nahir",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mXELcGjyU0osFfUCiz1YdAn470M.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 184,
+        "original_language": "en",
+        "original_title": "Jackie Brown",
+        "overview": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan — with help from a bail bondsman — to keep the money for herself.",
+        "popularity": 44.722,
+        "poster_path": "/ewbLUXvm4riZL0aepy90o0vMesn.jpg",
+        "release_date": "1997-12-25",
+        "title": "Jackie Brown",
+        "video": false,
+        "vote_average": 7.36,
+        "vote_count": 6155
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mFK2bOh8uGGEtoAL24abyTq3Woc.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 287948,
+        "original_language": "en",
+        "original_title": "The Transporter Refueled",
+        "overview": "The fast-paced action movie is again set in the criminal underworld in France, where Frank Martin is known as The Transporter, because he is the best driver and mercenary money can buy. In this installment, he meets Anna and they attempt to take down a group of ruthless Russian human traffickers who also have kidnapped Frank’s father.",
+        "popularity": 50.465,
+        "poster_path": "/7FlegRMzzGUKHpEuXGGF5jOiA6G.jpg",
+        "release_date": "2015-09-02",
+        "title": "The Transporter Refueled",
+        "video": false,
+        "vote_average": 5.513,
+        "vote_count": 1437
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mXtdIa9P23DNWs4jV06yaVZ03M9.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 9869,
+        "original_language": "en",
+        "original_title": "Patriot Games",
+        "overview": "When CIA Analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets Jack and his family as revenge.",
+        "popularity": 45.942,
+        "poster_path": "/yToAJg67r3hk3Ux3sfXOdpiqxU.jpg",
+        "release_date": "1992-06-04",
+        "title": "Patriot Games",
+        "video": false,
+        "vote_average": 6.677,
+        "vote_count": 1561
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nv5TZpzq3I1EzfbSpJPxJGHkJuB.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            35
+        ],
+        "id": 796499,
+        "original_language": "en",
+        "original_title": "Army of Thieves",
+        "overview": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.",
+        "popularity": 59.709,
+        "poster_path": "/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg",
+        "release_date": "2021-10-29",
+        "title": "Army of Thieves",
+        "video": false,
+        "vote_average": 6.849,
+        "vote_count": 1955
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nHWr40LGgyxymEhZCOA2WHATPpn.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 800345,
+        "original_language": "ko",
+        "original_title": "카터",
+        "overview": "Carter, who awakens two months into a deadly pandemic originating from the DMZ that has already devastated US and North Korea. He who has no recollections of his past finds a mysterious device in his head, and a lethal bomb in his mouth. A voice in his ears gives him orders to avoid getting killed and he's thrown into a mysterious operation while the CIA and North Korean coup chase him close.",
+        "popularity": 49.466,
+        "poster_path": "/uzAh3Ub2YttCz13cnyB9PvhpmIL.jpg",
+        "release_date": "2022-08-05",
+        "title": "Carter",
+        "video": false,
+        "vote_average": 6.034,
+        "vote_count": 358
+    }
+]

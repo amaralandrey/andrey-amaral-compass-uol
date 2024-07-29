@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/7f38eBUlqILSMjxRd4Py0IFbIim.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 185497,
+        "original_language": "en",
+        "original_title": "Assassins Run",
+        "overview": "Maya becomes the target of the Russian mafia after her husband, a successful American businessman, is killed.",
+        "popularity": 12.875,
+        "poster_path": "/6FceOv1z6BYtxWVRuwa2xKygWIF.jpg",
+        "release_date": "2013-04-22",
+        "title": "Assassins Run",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xZmSrSBsBq9NxXRasAcP9j8Kt3g.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 164952,
+        "original_language": "pt",
+        "original_title": "Zona J",
+        "overview": "Tó, a black boy from Zona J, a tough neighborhood in Lisbon, falls in love with a white girl, Carla. Tó dreams of living in Angola and taking Carla with him. However, the reality the two teens are in complicates their plans...",
+        "popularity": 12.873,
+        "poster_path": "/dsw9i0MIHEXZXFVZ5gIN9ljP4Ta.jpg",
+        "release_date": "1998-12-08",
+        "title": "Zona J",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zvp0sDYD0mz9XNPmTsGrR4jKsph.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 950063,
+        "original_language": "en",
+        "original_title": "The Devil You Know",
+        "overview": "Once-incarcerated Marcus Cowans is trying to turn over a new leaf with the support of his loving family. Upon discovering that one of his brothers may have been involved in a horrific crime, Marcus grapples with the limits of brotherhood and loyalty. He and his family, increasingly weary of the justice system’s failings, end up in the crosshairs of a seasoned but jaded detective.",
+        "popularity": 12.866,
+        "poster_path": "/veEFWCpgtTmUs5dT5jU3aZn59Hm.jpg",
+        "release_date": "2022-04-01",
+        "title": "The Devil You Know",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lTjsVMfO1QspptIuMqkbyuoTGkl.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 89433,
+        "original_language": "cn",
+        "original_title": "衝鋒隊：怒火街頭",
+        "overview": "Hotheaded cop Bill Chu (Lau Ching-wan) gets relegated to the Emergency Unit after a dustup with his inept boss. When the mob kills Chu's pal and ex-colleague (Francis Ng) during a turf-war hit, he rounds up his motley department cohorts and embarks on a mission of revenge against the gangsters. The pursuit of the baddies culminates in a hair-raising showdown atop a hijacked transport plane in this action thriller.",
+        "popularity": 12.863,
+        "poster_path": "/eRRyKwaL9rjvmTIuT89k9us35tB.jpg",
+        "release_date": "1996-06-25",
+        "title": "Big Bullet",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yRM3o2TKEgnQwVc1G8tvemCDHoX.jpg",
+        "genre_ids": [
+            27,
+            80
+        ],
+        "id": 44265,
+        "original_language": "en",
+        "original_title": "Lurking Fear",
+        "overview": "The storm-swept and depopulated town of Leffert’s Corners has been terrorized for decades by grotesque creatures that breed in the depths beneath the local cemetery. A group of townspeople have hatched a last-ditch plan to destroy the ghoul-infested graveyard, but their mission is interrupted by the arrival of a band of violent thieves intent on retrieving money hidden in one of the graves.",
+        "popularity": 12.86,
+        "poster_path": "/5IAPU1agzPhJYOs2zJXivuv1pDr.jpg",
+        "release_date": "1994-07-27",
+        "title": "Lurking Fear",
+        "video": false,
+        "vote_average": 4.83,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oKU12eVDZS8wE3Rv5Z89dw2BdLF.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 446695,
+        "original_language": "en",
+        "original_title": "An Evening with Beverly Luff Linn",
+        "overview": "Lulu Danger's unsatisfying marriage takes a turn for the worse when a mysterious man from her past comes to town to perform an event called \"An Evening with Beverly Luff Linn: For One Magical Night Only.\"",
+        "popularity": 12.859,
+        "poster_path": "/aTrgVu1QIPXMMfFbO0zxNqzk63p.jpg",
+        "release_date": "2018-05-25",
+        "title": "An Evening with Beverly Luff Linn",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 101
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9e8YUGZOKHoLo66n5DQy8ImqEzt.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 281418,
+        "original_language": "en",
+        "original_title": "The Lookalike",
+        "overview": "Two crooks looking out for a drug lord's love interest scramble to find a look-alike after she dies unexpectedly.",
+        "popularity": 12.857,
+        "poster_path": "/nbh8jiX08b6QMAz2OUh7MGv6ErA.jpg",
+        "release_date": "2014-07-11",
+        "title": "The Lookalike",
+        "video": false,
+        "vote_average": 5.109,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mExTixDLxMcXgCk1lOh9MFyKU3Y.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 375343,
+        "original_language": "en",
+        "original_title": "Instant Death",
+        "overview": "A vicious gang war for drug dominance draws in a disturbed Special Forces veteran John Bradley. Trying to adjust to normal life and haunted by inner demons of a violent past, the underworld's retribution on his last connection to humanity, a daughter and grandchild leads to a descent of fury and violence that not even the brutality of gangland is prepared for.",
+        "popularity": 12.856,
+        "poster_path": "/sVm3AUJhZb6lPjkhTVLtSTZQIV4.jpg",
+        "release_date": "2017-05-02",
+        "title": "Instant Death",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/74YUE0OgtBDowQsSa7t5OOOpTyL.jpg",
+        "genre_ids": [
+            10749,
+            53,
+            27,
+            80,
+            9648,
+            18
+        ],
+        "id": 95152,
+        "original_language": "en",
+        "original_title": "Last Rites",
+        "overview": "After witnessing her lover being murdered by his jealous wife, Angela seeks refuge in a church where she encounters a young priest named Michael, who gives her sanctuary. But the killing was not a simple act of passion, as the victim had ties to organized crime, and, surprisingly, so does Michael, whose father is a powerful don. When the priest finds himself falling in love with Angela, his religious vows and family ties are both severely tested.",
+        "popularity": 12.855,
+        "poster_path": "/7bnmtc9TIdibB6hUsDSKpRHve2M.jpg",
+        "release_date": "1988-11-18",
+        "title": "Last Rites",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vbnxjCmPPpOz0QA84LMAX7Hvxbk.jpg",
+        "genre_ids": [
+            16,
+            80,
+            9648,
+            14
+        ],
+        "id": 38180,
+        "original_language": "en",
+        "original_title": "DC Showcase: The Spectre",
+        "overview": "As Detective Jim Corrigan investigates a murder, The Spectre delivers horrific justice to the perpetrators.",
+        "popularity": 12.854,
+        "poster_path": "/AdasxxaHKbiMhFIuPtQhMigFqBr.jpg",
+        "release_date": "2010-02-23",
+        "title": "DC Showcase: The Spectre",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 123
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/drVlJhT4bRFX30Ttm52ONnr4lFL.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 102144,
+        "original_language": "en",
+        "original_title": "Mister 880",
+        "overview": "The Skipper is a charming old man loved by all his neighbors. What they don't know is that he is also Mr. 880, an amateurish counterfeiter who has amazingly managed to elude the Secret Service for 20 years.",
+        "popularity": 12.852,
+        "poster_path": "/aEYs8GpSqpssqPWaIS9XXOBeY8o.jpg",
+        "release_date": "1950-09-29",
+        "title": "Mister 880",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2f9BqgTBcXf7XFYfYDWr0PJGJ6.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 28555,
+        "original_language": "en",
+        "original_title": "Thy Neighbor's Wife",
+        "overview": "Seeking revenge for her husband's death, Ann ingratiates herself with the Garretts under the guise of a caring housekeeper. Once she gains their trust, Ann begins to wreak havoc upon the dysfunctional family. Seduction and malice are her weapons as she attempts to emotionally and sexually destroy them.",
+        "popularity": 12.851,
+        "poster_path": "/4cYHtflqJOftAfCWRmeqhjsCcBh.jpg",
+        "release_date": "2001-09-18",
+        "title": "Thy Neighbor's Wife",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9QIlIbcTcxaCfbMXYq6eN1DcteI.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 117890,
+        "original_language": "it",
+        "original_title": "Confessione di un commissario di polizia al procuratore della Repubblica",
+        "overview": "A police captain arranges the release of a criminally insane prisoner, who soon winds up dead. When the District Attorney takes on the case, he uncovers corruption in the department and vows to take down the man who's responsible.",
+        "popularity": 12.848,
+        "poster_path": "/s7761FscQjnbEQTWYzvficLGunD.jpg",
+        "release_date": "1971-03-26",
+        "title": "Confessions of a Police Captain",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uW7Km2jzTu6kcdpTuKZjo7SXLwT.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 85739,
+        "original_language": "it",
+        "original_title": "ACAB : All Cops Are Bastards",
+        "overview": "A look at the controversial riot cops unit, told through the stories of three veteran cops and a young recruit.",
+        "popularity": 12.848,
+        "poster_path": "/lmpkw9hRmuI0pk7CWDJRWSksl3i.jpg",
+        "release_date": "2012-01-27",
+        "title": "ACAB : All Cops Are Bastards",
+        "video": false,
+        "vote_average": 6.979,
+        "vote_count": 801
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zTXMEdV26OiM6rTfZfKjjoHS3yH.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 4292,
+        "original_language": "en",
+        "original_title": "Eat the Rich",
+        "overview": "Alex is a disgruntled waiter at a snobby exclusive restaurant who falls on hard times. Forced to deal with the contempt and disgust of the upper class, Alex & cohorts attempt to go on a rampage. Meanwhile, General Karprov and Spider plot to involve the inept anarchists into their plans to derail the prime-minister-to-be's campaign.",
+        "popularity": 12.846,
+        "poster_path": "/yFGWfpzH1sR4sL1T7J0Kae59UE9.jpg",
+        "release_date": "1987-10-23",
+        "title": "Eat the Rich",
+        "video": false,
+        "vote_average": 6.034,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oi4WstFs3yIn4IqpnJzCK51UB6n.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 20047,
+        "original_language": "en",
+        "original_title": "The Steam Experiment",
+        "overview": "A deranged scientist locks 6 people in a steam room and threatens to turn up the heat if the local paper doesn't publish his story about global warming.",
+        "popularity": 12.844,
+        "poster_path": "/etCklk5pNBm0ddqx97tiv8usYjl.jpg",
+        "release_date": "2009-05-01",
+        "title": "The Steam Experiment",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 51
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8ZWLPmb3SHaKxJQedWVes526jOm.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            9648,
+            53
+        ],
+        "id": 354125,
+        "original_language": "en",
+        "original_title": "Cold Moon",
+        "overview": "Cold Moon takes place in tiny Babylon, Fla., where the granddaughter of Clark’s character is murdered by a mysterious assailant, her body sunk into the black waters of the Styx River — the river where her parents disappeared from their boat a decade earlier. Suspicion falls on a duplicitous banker and his wealthy father, played by Stewart and Lloyd.",
+        "popularity": 12.837,
+        "poster_path": "/2qbgaZothXrCMohpY7CzsMcZeMo.jpg",
+        "release_date": "2016-10-27",
+        "title": "Cold Moon",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wun6RZEmfhBHOaaz2h1JfLFdEpq.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648
+        ],
+        "id": 783121,
+        "original_language": "zh",
+        "original_title": "93国际列车大劫案：莫斯科行动",
+        "overview": "Tough Chinese detectives go on a mission to Moscow to hunt down ruthless robbers who have been plaguing the trans-Siberian railway with violence and chaos.",
+        "popularity": 12.835,
+        "poster_path": "/vuSZUy3rcextoMvG3f6lhbucil8.jpg",
+        "release_date": "2023-09-29",
+        "title": "Moscow Mission",
+        "video": false,
+        "vote_average": 6.205,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jPyNwWXoB6zSXFpkzJVnv1gE7Xu.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 65282,
+        "original_language": "en",
+        "original_title": "Gambling House",
+        "overview": "A gambler faces deportation when he gets mixed up with murder.",
+        "popularity": 12.834,
+        "poster_path": "/vc3HDYEZxMUgni3Nfbr7eEwkZjQ.jpg",
+        "release_date": "1950-12-27",
+        "title": "Gambling House",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lCZ6Z9v4O6ybmYqUMZ5dp6wvOeH.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 890526,
+        "original_language": "ja",
+        "original_title": "死刑にいたる病",
+        "overview": "Masaya is a university student, but he attends a school that's not his ideal school. His days are generally gloomy. One day, he receives a letter from serial killer Haimura. He was convicted for nine murders and received the death penalty. Back when Haimura was committing his murders, he ran a bakery store. At that time, Masaya was a middle-school student and a customer at his bakery store. According to the letter, Haimura confesses to having committed eight murders, but he insists that he did not commit the last murder. Masaya begins to investigate the last murder case involving Haimura.",
+        "popularity": 12.832,
+        "poster_path": "/A0GJQazi608g1vYE9x8e34lVR1H.jpg",
+        "release_date": "2022-05-06",
+        "title": "Lesson in Murder",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11
+    }
+]

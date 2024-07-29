@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/eDC81zgFf5akn2sB2MoWwSlZ07I.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 369443,
+        "original_language": "ko",
+        "original_title": "그놈이다",
+        "overview": "Desperate for revenge, a young man enlists the aid of a medium to help him track down his sister's killer.",
+        "popularity": 13.303,
+        "poster_path": "/rHbamrUbEkTv3cB7zNvSnmWzO6V.jpg",
+        "release_date": "2015-10-28",
+        "title": "Fatal Intuition",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bKxsB4Enbim9r6vyfr0HYNWkw65.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 165401,
+        "original_language": "en",
+        "original_title": "Honeymoon Academy",
+        "overview": "A honeymooning couple become entangled in a plot to recover plates for counterfeiting US dollars. SHE thinks she's just retired from a government 'dirty jobs' department, but her superiors have other ideas. HE thinks she's a retired travel agent.",
+        "popularity": 13.299,
+        "poster_path": "/fxzvfR9gZWnZDid1YPT1JcVsdtA.jpg",
+        "release_date": "1989-12-01",
+        "title": "Honeymoon Academy",
+        "video": false,
+        "vote_average": 5.154,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cormKw93ziHgyDOuigZusyKC7GO.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53,
+            80
+        ],
+        "id": 496283,
+        "original_language": "tl",
+        "original_title": "BuyBust",
+        "overview": "A special forces team is sent to snuff out a drug den, but find themselves trapped inside it after being set-up and betrayed.",
+        "popularity": 13.297,
+        "poster_path": "/vvArzms4uGDAlqo6JfeAe0b4ro4.jpg",
+        "release_date": "2018-08-01",
+        "title": "BuyBust",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lROocFe9RbTlOEHUU29AGH7KgWF.jpg",
+        "genre_ids": [
+            80,
+            27,
+            878
+        ],
+        "id": 31579,
+        "original_language": "en",
+        "original_title": "God Told Me To",
+        "overview": "A repressed Catholic NYPD detective uncovers a netherworld of deranged faith, alien insemination and his own unholy connection to a homicidal messiah with a perverse plan for the soul of mankind.",
+        "popularity": 13.297,
+        "poster_path": "/nbUjhJGCuSiDiMaNJs2kCtTL7ag.jpg",
+        "release_date": "1976-10-22",
+        "title": "God Told Me To",
+        "video": false,
+        "vote_average": 5.79,
+        "vote_count": 136
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/77bqtctwEUF1WQ3zyvMUHHipMUu.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 25726,
+        "original_language": "en",
+        "original_title": "Cry Danger",
+        "overview": "After serving five years of a life sentence, Rocky Mulloy hopes to clear his friend who's still in prison for the same crime.",
+        "popularity": 13.297,
+        "poster_path": "/dZuzzGR6Ibha4Kgb4U8ExmizoUU.jpg",
+        "release_date": "1951-02-23",
+        "title": "Cry Danger",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n6IHtlXxwxqI9CWpASDXil6HdDg.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 16155,
+        "original_language": "en",
+        "original_title": "Safe Men",
+        "overview": "Two untalented singers are mistaken for a pair of major league safe crackers in Providence, Rhode Island. The two are pressed into service by the local hoodlums and quickly find themselves in conflict with their professional colleagues. Romantic interest is added by the daughter of the underworld leader who won't date the men she knows are gangsters.",
+        "popularity": 13.297,
+        "poster_path": "/857L7x6uFNr4c2oHD5KJw5pkbxn.jpg",
+        "release_date": "1998-08-07",
+        "title": "Safe Men",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iHE8nKO4ugHMUdyxSFrZOvh61wi.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 88087,
+        "original_language": "en",
+        "original_title": "The Elite",
+        "overview": "After the murder of their families by a terrorist bomb, five young adults are trained as a hi-tech, anti-terrorist team with a mission to search and destroy high-profile terrorist groups.",
+        "popularity": 13.295,
+        "poster_path": "/oE9d05QeomiTOyDlBvTjibu7Rfe.jpg",
+        "release_date": "2001-02-28",
+        "title": "The Elite",
+        "video": false,
+        "vote_average": 3.3,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iKKqWrk7ql0HaeJvX7hhNKzLfBi.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 18394,
+        "original_language": "en",
+        "original_title": "Essex Boys",
+        "overview": "Billy has just scored an entry-level position with the local crime cartel. His first job is to mind Jason, a newly released thug with a vicious temper. Jason thinks it's his job to teach Billy about crime, drugs and women. Little does he know that Billy has his eyes on Jason's own wife, Lisa. When an ecstasy deal goes bad, Jason vows revenge on the boss, while Billy looks to take out Jason. Before long, bodies start turning up",
+        "popularity": 13.295,
+        "poster_path": "/lW8lzJF4P0U8NjHvMftkNkDnaHR.jpg",
+        "release_date": "2000-07-14",
+        "title": "Essex Boys",
+        "video": false,
+        "vote_average": 5.578,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4DVTfQpltdQVvDMUZjZ360ovv9n.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 168529,
+        "original_language": "it",
+        "original_title": "7 uomini d'oro",
+        "overview": "After bungling a job in London, Albert, an international thief, masterminds a plan to rob a Geneva bank of 7 tons of gold. Assisted by the seductive Giorgia, who works from within the bank, and six other accomplices, Albert sets himself up in an expensive hotel with a battery of electronic devices to supervise the operation.",
+        "popularity": 13.286,
+        "poster_path": "/sY1M7IizUu13muFXOEOoGbkfwCk.jpg",
+        "release_date": "1965-10-21",
+        "title": "Seven Golden Men",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l2erRhchjH7qDktvTInRbaf13K4.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 127849,
+        "original_language": "cn",
+        "original_title": "鎗王",
+        "overview": "Rick Pang, an IPSC champion who is also a gun expert who tinkers with his pistols to perfect his technique known as 'double tap' which is the terminology where a shooter can place two exact shots in the same spot to maximize marksmanship.",
+        "popularity": 13.282,
+        "poster_path": "/3cM5TDMV98EsHRF5SKo1f2onAYc.jpg",
+        "release_date": "2000-05-27",
+        "title": "Double Tap",
+        "video": false,
+        "vote_average": 6.261,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bLARjNyrL3UQDYZe2GxD0aNejZn.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 567590,
+        "original_language": "ja",
+        "original_title": "Diner ダイナー",
+        "overview": "A former murderer and genius chef along with a waitress come together with a group of fantastical assassins in a diner. A girl with a hollowness in her heart, who believes that she belongs nowhere, is thrust into a series of attacks where she must struggle to find her will to live.",
+        "popularity": 13.279,
+        "poster_path": "/l6q01LCdUQApKZjfdJANBAEjfLl.jpg",
+        "release_date": "2019-07-05",
+        "title": "Diner",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/whRCciwcZlblfh2dlm9vA1wvCW1.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 29084,
+        "original_language": "fr",
+        "original_title": "Le Corbeau",
+        "overview": "Remy Germain is a doctor in a French town who becomes the focus of a vicious smear campaign, as letters accusing him of having an affair and performing unlawful abortions are mailed to village leaders. The mysterious writer, who signs each letter as \"Le Corbeau\" (The Raven) soon targets the whole town, exposing everyone's dark secrets.",
+        "popularity": 13.277,
+        "poster_path": "/fIPJYqmEpJY9DSGpF71NXtTzH0K.jpg",
+        "release_date": "1943-09-28",
+        "title": "Le Corbeau",
+        "video": false,
+        "vote_average": 7.493,
+        "vote_count": 268
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xCHYJfmsk5SyIMJea2ske2bC7vA.jpg",
+        "genre_ids": [
+            80,
+            53,
+            27
+        ],
+        "id": 27648,
+        "original_language": "en",
+        "original_title": "The Banker",
+        "overview": "High-priced prostitutes are being systematically murdered, their corpses mutilated, and a bizarre South American symbol painted in blood is found at the scene. The cop investigating is out to solve the crime before his ex wife, a reporter, becomes the next victim.",
+        "popularity": 13.274,
+        "poster_path": "/1ENB0MheEYZLgFekmX558g5nWY4.jpg",
+        "release_date": "1989-12-20",
+        "title": "The Banker",
+        "video": false,
+        "vote_average": 4.417,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e78BHfOWpAnvMSyhU8qrNqf5rwx.jpg",
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 491952,
+        "original_language": "en",
+        "original_title": "Final Vision",
+        "overview": "Capt. Jeffery McDonald is convicted and sentenced to life in prison in 1979 for the murders of his wife and two children at their Fort Bragg home.",
+        "popularity": 13.273,
+        "poster_path": "/1aUZEQfWWxQh0YGmRGdxttVoFY4.jpg",
+        "release_date": "2017-12-10",
+        "title": "Final Vision",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lQbPBHrbKh2m6cIReF8zJaIN3Ha.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 90187,
+        "original_language": "it",
+        "original_title": "La orca",
+        "overview": "A teenage girl is kidnapped by 3 guys and taken to an abandoned house in the country, where she is made to write her own ransom letter. She soon discovers that one of her captors is infatuated with her and she will use those feelings to stay alive.",
+        "popularity": 13.27,
+        "poster_path": "/7Dlor3aJBaigcYdKjhRQpPcCnjI.jpg",
+        "release_date": "1976-06-01",
+        "title": "La Orca",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7yK5CtjoQpNWT0oyqkcJBnkTvRQ.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 51429,
+        "original_language": "ja",
+        "original_title": "やさぐれ姐御伝　総括リンチ",
+        "overview": "Ocho is accidentally captured by a drug trafficking cartel who use Chinese women to smuggle drugs into Japan by hiding it in their vaginas. She is tortured, and manages to escape, fighting both the male yakuzas and a gang of female thieves.",
+        "popularity": 13.267,
+        "poster_path": "/n3NZzdVf6WsdieYyyCpsiYP2iZS.jpg",
+        "release_date": "1973-06-06",
+        "title": "Female Yakuza Tale",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3fN08vD5GqdG13fDC6b7gRLewVM.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 278996,
+        "original_language": "en",
+        "original_title": "And the Sea Will Tell",
+        "overview": "A wealthy couple (James Brolin and Deidre Hall) are killed on their yacht off the coast of a secluded South American island called Palmyra. The suspects are a hippyish pair (Hart Bochner and Rachel Ward) whom the rich folks had befriended. It’s fairly clear that the hippies were involved in the crime: The question is, did the man do it while the girl looked on helplessly, or was she a willing accomplice?",
+        "popularity": 13.262,
+        "poster_path": "/lKkaeWtddgX1hmHAGwrbXDAHg9O.jpg",
+        "release_date": "1991-02-24",
+        "title": "And the Sea Will Tell",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jY6Wb8t3ZVTLR8POGhAokwF8eb5.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53,
+            9648,
+            10749
+        ],
+        "id": 63512,
+        "original_language": "en",
+        "original_title": "Murders in the Rue Morgue",
+        "overview": "In Paris, in the beginning of the Twentieth Century, Cesar Charron owns a theater at the Rue Morgue where he performs the play \"Murders in the Rue Morgue\" with his wife Madeleine Charron, who has dreadful nightmares. When there are several murders by acid of people connected to Cesar, the prime suspect of Inspector Vidocq would be Cesar's former partner Rene Marot. But Marot murdered Madeleine's mother many years ago and committed suicide immediately after.",
+        "popularity": 13.259,
+        "poster_path": "/jsOsvrO0Xd1Ir79C2cHDl6X17xU.jpg",
+        "release_date": "1971-07-21",
+        "title": "Murders in the Rue Morgue",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4hKQjtGycFDMLsF0ZqECxWmjzOL.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 46687,
+        "original_language": "en",
+        "original_title": "The Ruby in the Smoke",
+        "overview": "Sally Lockhart has struck a man dead with just three words, sent to her in a message from her father just before he drowned in the South China Seas. But unfortunately, Sally has no idea what the words The Seven Blessings mean. Before long, she is drawn into a mystery filled with opium, secrets from her own past and, at the heart of it all, the Ruby of Agrapur.",
+        "popularity": 13.259,
+        "poster_path": "/cJUKtHTxqAp7NZE82boED2U6Wud.jpg",
+        "release_date": "2006-12-27",
+        "title": "The Ruby in the Smoke",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nznrYR7UEfyRkhV8zIAygk2i2zQ.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 29811,
+        "original_language": "ta",
+        "original_title": "தளபதி",
+        "overview": "Surya, a courageous man who was raised in the slums, fights for the rights of the poor and befriends Deva, who hires him as his commander and changes his life completely.",
+        "popularity": 13.259,
+        "poster_path": "/bg6Q2FDWiRe4U5VrYelkIFM1URD.jpg",
+        "release_date": "1991-11-05",
+        "title": "Thalapathi",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 48
+    }
+]

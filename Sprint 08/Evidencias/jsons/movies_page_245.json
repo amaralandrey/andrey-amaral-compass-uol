@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/oJgkQVUVhJOJXonF0UzafZXQrHs.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            80,
+            18
+        ],
+        "id": 78998,
+        "original_language": "en",
+        "original_title": "Desire",
+        "overview": "Madeleine steals a string of pearls in Paris and uses American engineer Tom, who is driving on his vacation to Spain, to get the pearls out of France. But getting the pearls back from him proves to be difficult without falling in love.",
+        "popularity": 12.349,
+        "poster_path": "/eoYV0IyYQmmbYxhZEVUlGIwb6DT.jpg",
+        "release_date": "1936-04-11",
+        "title": "Desire",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vbD8UxVZPQdYS5oQ9kiD9VqCysf.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 46786,
+        "original_language": "en",
+        "original_title": "Homer and Eddie",
+        "overview": "A mentally disabled man gets help from a sociopath when he tries to reunite with his dying father, who years earlier disowned him.",
+        "popularity": 12.349,
+        "poster_path": "/yPJFYUXtRy8JkEvIFqjFTOIyWpS.jpg",
+        "release_date": "1989-08-17",
+        "title": "Homer and Eddie",
+        "video": false,
+        "vote_average": 5.674,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            80,
+            14,
+            9648,
+            878
+        ],
+        "id": 163551,
+        "original_language": "ja",
+        "original_title": "Twilight Q",
+        "overview": "Part 1: \"Time Knot: Reflection\" Written by Kazunori Itô, directed by Tomomi Mochizuki. Mayu finds a camera floating in the ocean while on vacation. A very unusual camera. The film, mostly intact, reveals a picture of herself with a man she has never seen before. But that isn't the unusual part. This camera hasn't been made yet, and won't be made for another two years. Soon, Mayu finds herself swinging uncontrollably back and forth through time like a pendulum.  Part 2: \"Mystery Article File 538\" Written and directed by Mamoru Oshii. This episode follows a down-on-his-luck detective who accepts the first case to come his way: Surveillance of a man and a little girl. But who are they? And why do airplanes that fly over them turn into giant imperial carp? An investigator's normal methods don't apply when reality itself no longer applies.",
+        "popularity": 12.346,
+        "poster_path": "/7Ua2ATnvYiAnObWEoa9X87FAQoc.jpg",
+        "release_date": "1987-02-28",
+        "title": "Twilight Q",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/U2FZTJRAVLuXFxoXuHrRTwivXF.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 1145026,
+        "original_language": "ja",
+        "original_title": "月",
+        "overview": "Yoko, who gets a job at a nursing home, witnesses the elderly and disabled people there having their human dignity threatened.",
+        "popularity": 12.345,
+        "poster_path": "/etBRWqi5Vy7vfDXfxJxadeNbnTu.jpg",
+        "release_date": "2023-10-13",
+        "title": "The Moon",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r6AAEZCzFFmVCWFvmw8r3QM7x7y.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 78321,
+        "original_language": "fr",
+        "original_title": "Canicule",
+        "overview": "A criminal shows up at a farmhouse with the law on his heels and several million dollars in his possession.",
+        "popularity": 12.345,
+        "poster_path": "/4Ksmiykh2a92jPMK0dJDnhqQqYf.jpg",
+        "release_date": "1984-01-10",
+        "title": "Dog Day",
+        "video": false,
+        "vote_average": 5.224,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Avz1OY1F2GqHZGdocbGkgn8zWoY.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 1036413,
+        "original_language": "en",
+        "original_title": "Bitcon",
+        "overview": "A missing hard drive with hundreds of thousands of dollars in cryptocurrency and the issue of trust in the modern era.",
+        "popularity": 12.343,
+        "poster_path": "/k8xdrkV1qqA7RScgjCgybWUynH8.jpg",
+        "release_date": "2022-10-18",
+        "title": "Bitcon",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mzerhMgKiQrOXDNqQcsfjuU18tE.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11670,
+        "original_language": "fr",
+        "original_title": "L'Emmerdeur",
+        "overview": "Ralf Milan, a hitman, arrives in Montpellier to kill an important witness. He checks in a hotel without knowing that his neighbour has become neurotic after his wife left him.",
+        "popularity": 12.343,
+        "poster_path": "/gpiJSwmvFNrVvylqPCqVdxcI0G8.jpg",
+        "release_date": "1973-09-20",
+        "title": "A Pain in the Ass",
+        "video": false,
+        "vote_average": 7.167,
+        "vote_count": 209
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lntCWM6sFQSFG5vSDvVxu4taekl.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 88253,
+        "original_language": "es",
+        "original_title": "Down Twisted",
+        "overview": "A naive, good-hearted Los Angeles waitress does not think twice about helping her troubled roommate. Unfortunately, her help lands her in Central America fleeing for her life with a grungy mercenary.",
+        "popularity": 12.342,
+        "poster_path": "/7Dwpo0WuOceN1faGSbzC3EMIsxq.jpg",
+        "release_date": "1987-03-01",
+        "title": "Down Twisted",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gZAxXsFMiuWVJyiQJDD5GwA3Lr5.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 9990,
+        "original_language": "en",
+        "original_title": "Walking Tall: Lone Justice",
+        "overview": "In Dallas, witnesses against a drug-lord are murdered in a safe-house.The testimony of FBI agents becomes the only chance to keep him in prison. They are lodged in another safe-house, but the place is invaded and the agents are executed. However, Kate is only wounded, and her boyfriend Nick believes there is a traitor in the agency and takes her to his ranch to protect her life.",
+        "popularity": 12.342,
+        "poster_path": "/zd7AMGb31M8DoL9Y4yJ7QvcbqA5.jpg",
+        "release_date": "2007-09-25",
+        "title": "Walking Tall: Lone Justice",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ePAu25zOEMj8B1b7MTCC5FqFSC6.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 77980,
+        "original_language": "fr",
+        "original_title": "Un témoin dans la ville",
+        "overview": "Industrialist Pierre Verdier kills his mistress Jeanne Ancelin by throwing her off a train. Her husband, Ancelin, decides to take revenge on his wife's murderer, who has been acquitted by justice.",
+        "popularity": 12.341,
+        "poster_path": "/6KDCNs8whTsu1wf9p6lAxmKUo7Q.jpg",
+        "release_date": "1959-05-06",
+        "title": "Witness in the City",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qkhpkUBTar1aPZG8s3XpIlFWebS.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 231625,
+        "original_language": "en",
+        "original_title": "The Cheating Pact",
+        "overview": "Three high school students that are under pressure from their parents to get into good colleges convince a shy but very smart girl to take the College Entrance Test for them.",
+        "popularity": 12.339,
+        "poster_path": "/6syNISofVT2Oq9opVcOe9AaaM2.jpg",
+        "release_date": "2013-09-28",
+        "title": "The Cheating Pact",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7j8KXC98lT8vDz1Z1PsbgtgM74Y.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            9648
+        ],
+        "id": 41922,
+        "original_language": "en",
+        "original_title": "On the Other Hand, Death",
+        "overview": "Donald Strachey is a gay private investigator who learns of a local school's decision to chastise a lesbian teacher for speaking openly about her sexuality. Discovering that her home has been vandalized, Donald starts to look into things and discovers there is more going on than appears on the surface.",
+        "popularity": 12.339,
+        "poster_path": "/vMIpEFZWT49CpGMNQgSPntNCL7M.jpg",
+        "release_date": "2008-01-01",
+        "title": "On the Other Hand, Death",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t8B0o375RJ2VpeAZvrJXCTHxpxO.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 432152,
+        "original_language": "en",
+        "original_title": "Madness in the Method",
+        "overview": "Jason wants to be taken more seriously as an actor, so he asks his friend Kevin Smith for advice, and decides to become a method actor. Trouble is, being a method actor drives him mad and he slowly becomes a serial killer.",
+        "popularity": 12.336,
+        "poster_path": "/g17vNW5wj341VpsQirNCppIhVNn.jpg",
+        "release_date": "2019-09-24",
+        "title": "Madness in the Method",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xpuTR89wwwpn3J097mS45gK2Qgi.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 1225683,
+        "original_language": "pt",
+        "original_title": "Estômago 2: O Poderoso Chef",
+        "overview": "Sequel to the award-winning 2007 film, Stomach 2 tells the tasty and bloody dispute between a faction leader and an Italian boss for control of the prison where they are held and the privilege of being served by the talented cook Raimundo Nonato",
+        "popularity": 12.335,
+        "poster_path": "/3MAgZtaOKK556V73QipXRVyc70k.jpg",
+        "release_date": "2024-08-15",
+        "title": "Estômago 2: O Poderoso Chef",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3Md8fxiluWGBVABiTv7lJAaTAn3.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 297605,
+        "original_language": "en",
+        "original_title": "Texas Justice",
+        "overview": "When a Texas millionaire marries his mistress, a bitter divorce battle, two deaths, an FBI sting operation, and criminal trials ensue.",
+        "popularity": 12.329,
+        "poster_path": "/Aum7vvUZFCuQZUDfjwzJ2YDLDZv.jpg",
+        "release_date": "1995-02-12",
+        "title": "Texas Justice",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/seHrbAJNkpzn8gThMH92RakIBRq.jpg",
+        "genre_ids": [
+            9648,
+            14,
+            80
+        ],
+        "id": 54146,
+        "original_language": "ja",
+        "original_title": "おとし穴",
+        "overview": "A man wanders into a seemingly deserted town with his young son in search of work. But after a bit of bad luck, he joins the town's population of lost souls.",
+        "popularity": 12.328,
+        "poster_path": "/7VJ9RvCehgLlGI0NXmS9RUZMTND.jpg",
+        "release_date": "1962-07-01",
+        "title": "Pitfall",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 97
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yBbpgQqkyUjaTtUWVpnV4p4HtIN.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 107475,
+        "original_language": "zh",
+        "original_title": "俏探女嬌娃",
+        "overview": "Three female detectives - from Hong Kong, Korea and Singapore - go undercover in a cabaret to expose a murderer.",
+        "popularity": 12.324,
+        "poster_path": "/xz0L9kaBHW3UPS35awBJhYu5jAH.jpg",
+        "release_date": "1977-03-30",
+        "title": "Deadly Angels",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lSJGAWY61bFIeuojSesX0gRId2F.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18,
+            53
+        ],
+        "id": 42422,
+        "original_language": "it",
+        "original_title": "Palermo Milano - Solo andata",
+        "overview": "A mob accountant accepts to be witness for the prosecution at a trial involving Mafia higher-ups. Seven cops are tasked with escorting him and his family alive from Palermo, Sicily to Milan, in the North – but it won't be easy.",
+        "popularity": 12.323,
+        "poster_path": "/yNO633xy2uVrrDWtZVNv7bjz58t.jpg",
+        "release_date": "1996-02-02",
+        "title": "Palermo – Milan One Way",
+        "video": false,
+        "vote_average": 6.272,
+        "vote_count": 123
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8Oh4kpTRORkcvfkPwaWNoHusI9K.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 899665,
+        "original_language": "zh",
+        "original_title": "误杀2",
+        "overview": "A story of Lin Rilang, a father and husband whose son is diagnosed with an enlarged heart, gives all his efforts to collect money for his son's operation.",
+        "popularity": 12.321,
+        "poster_path": "/qd45h7ks3WhGAa8S3MKbMJzK6E7.jpg",
+        "release_date": "2021-12-17",
+        "title": "Fireflies in the Sun",
+        "video": false,
+        "vote_average": 6.682,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9S12LaA5mbUIvrn7YKnE6OZgXO5.jpg",
+        "genre_ids": [
+            53,
+            80,
+            27
+        ],
+        "id": 85611,
+        "original_language": "en",
+        "original_title": "The Stranglers of Bombay",
+        "overview": "In 1826 British-ruled India, the secret Cult of Thugee demonstrates their worship of their goddess, Kali,  by the mutilation and mass murder of thousands of Indians  while pirating the shipments of the British East-Indian Tea Company.  As the British military leaders play down the implications of the piracy and disappearances, a lone captain realizes that they are not just coincidence and sets out to uncover the source of the deviltry, at the risk of his career.  Based on history.",
+        "popularity": 12.319,
+        "poster_path": "/pQPz9R7Fr5FwEqe4FU4WrE2G3ba.jpg",
+        "release_date": "1959-12-04",
+        "title": "The Stranglers of Bombay",
+        "video": false,
+        "vote_average": 6.333,
+        "vote_count": 27
+    }
+]

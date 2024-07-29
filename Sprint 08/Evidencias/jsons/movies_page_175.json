@@ -1,0 +1,396 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/g1LGrb6YDurhdMaXgUUmF1HAYIy.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1059126,
+        "original_language": "en",
+        "original_title": "Bring Him to Me",
+        "overview": "Under orders from a ruthless crime boss, a getaway driver must battle his conscience and drive an unsuspecting crew member to an ambush execution. There is a long drive ahead.",
+        "popularity": 16.196,
+        "poster_path": "/9QGAUtP5YvEFRMdYl2iEhgHybDw.jpg",
+        "release_date": "2023-11-02",
+        "title": "Bring Him to Me",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8mZkfNVz0rWXL4s9hdfRGYTUN3d.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 572400,
+        "original_language": "en",
+        "original_title": "Don't Tell a Soul",
+        "overview": "Two thieving teenage brothers, stealing money to help their sick mom, match wits with a troubled security guard stuck at the bottom of a forgotten well.",
+        "popularity": 16.192,
+        "poster_path": "/2lla8pP0wNlDAFgV83nZpYMWkeT.jpg",
+        "release_date": "2020-09-08",
+        "title": "Don't Tell a Soul",
+        "video": false,
+        "vote_average": 6.652,
+        "vote_count": 171
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pOtCuWEVxWrO7bkZiPvirOv27ZT.jpg",
+        "genre_ids": [
+            80,
+            35,
+            53
+        ],
+        "id": 33673,
+        "original_language": "en",
+        "original_title": "His Kind of Woman",
+        "overview": "Career gambler Dan Milner agrees to a $50,000 deal to leave the USA for Mexico, only to find himself entangled with fellow guests at a luxurious resort and suspecting that the man who hired him may be the deported crime boss Nick Ferraro aiming to re-enter to the USA.",
+        "popularity": 16.19,
+        "poster_path": "/mB5vCfHE7ootyK96F3IVhLSaJzP.jpg",
+        "release_date": "1951-08-15",
+        "title": "His Kind of Woman",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jBD9VRoJ9COVKr4zVD6cbdcJy9v.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 52229,
+        "original_language": "en",
+        "original_title": "Kid Galahad",
+        "overview": "Fight promoter Nick Donati grooms a bellhop as a future champ, but has second thoughts when the 'kid' falls for his sister.",
+        "popularity": 16.186,
+        "poster_path": "/eAYC15fSuqUNtBXcFKltIUTL8lO.jpg",
+        "release_date": "1937-05-29",
+        "title": "Kid Galahad",
+        "video": false,
+        "vote_average": 6.841,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gWjCQ7Sb3zYLaK0GHQ9ofPW1Jnh.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 46495,
+        "original_language": "en",
+        "original_title": "The Night of the Following Day",
+        "overview": "A gang of four professional criminals kidnaps a wealthy teenage girl from an airport in Paris in a meticulous plan to extort money from the girl's wealthy father. Holding her prisoner in an isolated beach house, the gang's scheme runs perfectly until their personal demons surface and lead to a series of betrayals.",
+        "popularity": 16.175,
+        "poster_path": "/ytqZNa8eZW1hrMAwDJzXbsz8zpL.jpg",
+        "release_date": "1969-01-10",
+        "title": "The Night of the Following Day",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qlm5nXiFngViv1NhfUYP46INfJa.jpg",
+        "genre_ids": [
+            80,
+            10770,
+            53
+        ],
+        "id": 90756,
+        "original_language": "en",
+        "original_title": "Wandering Eye",
+        "overview": "Neglected by her workaholic husband, a young wife, Maren Abbott, meets a man through Wandering Eye - a networking website designed to facilitate extramarital liaisons. Charming as he is, she realizes she can't go through with the affair. When he is found brutally murdered in their hotel room, infidelity is the least of Maren's worries as she finds herself in the cross-hairs of a serial killer who uses the website to trawl for his next victims.",
+        "popularity": 16.173,
+        "poster_path": "/9SSlbZXYdTKJ6DIMtkVZgqijRgL.jpg",
+        "release_date": "2011-06-05",
+        "title": "Wandering Eye",
+        "video": false,
+        "vote_average": 5.548,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s6S2kMKh4i1YIzucvNM51RnoSNx.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 242102,
+        "original_language": "en",
+        "original_title": "Russian Roulette",
+        "overview": "An RCMP officer is ordered to discreetly take a Russian immigrant into custody in advance of a state visit by the Soviet premier. When the prisoner is kidnapped, the officer is drawn into a complicated assassination scheme.",
+        "popularity": 16.171,
+        "poster_path": "/aFtRqUZiQU7RVvuilkdah0hfx3f.jpg",
+        "release_date": "1975-08-20",
+        "title": "Russian Roulette",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e8nl7cWfR2HAN21fU5mhgBtnwSv.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 115134,
+        "original_language": "ko",
+        "original_title": "간기남",
+        "overview": "A detective Seon-woo, who moonlights as a private investigator, has a beautiful new client Soo-Jin. The woman asks the detective to take photos of her husband in the midst of having an affair with another woman. When the detective goes to take pictures he discovers that the woman's husband is already dead. Now the detective becomes a suspect. The detective is chased by another detective Gil-ro. He must now set out for the real killer.",
+        "popularity": 16.165,
+        "poster_path": "/mq5XTPbangf2dBqS2paqRa1OXSs.jpg",
+        "release_date": "2012-04-11",
+        "title": "The Scent",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lNfCPWJnFppNThDVZBcPgrsJBoS.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 83660,
+        "original_language": "en",
+        "original_title": "Paradise Lost 3: Purgatory",
+        "overview": "A further investigation into the arrest of three teenagers convicted of killing three young boys in Arkansas who spent nearly 20 years in prison before being released after new DNA evidence indicated they may be innocent.",
+        "popularity": 16.155,
+        "poster_path": "/QNpVc4FEFcgQs3cwe7XRsxt8gS.jpg",
+        "release_date": "2012-10-13",
+        "title": "Paradise Lost 3: Purgatory",
+        "video": false,
+        "vote_average": 7.323,
+        "vote_count": 133
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9Q3YJH0SmTmx2v3fZog9AknGquR.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            18
+        ],
+        "id": 393737,
+        "original_language": "en",
+        "original_title": "Three Bedrooms, One Corpse: An Aurora Teagarden Mystery",
+        "overview": "While Aurora \"Roe\" Teagarden searches for her piece of the American dream, she decides to test the waters of the family business - real estate sales. Only thing is there's a dead body in the first house she shows. When a second body shows up in another home, Roe realizes there's more to real estate than she thought.",
+        "popularity": 16.145,
+        "poster_path": "/wRkZigA3uI3iqlTo1E024doHOps.jpg",
+        "release_date": "2016-06-12",
+        "title": "Three Bedrooms, One Corpse: An Aurora Teagarden Mystery",
+        "video": false,
+        "vote_average": 6.711,
+        "vote_count": 90
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/my8CxYByDFwoFWOGi6fXvNuYypb.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 97989,
+        "original_language": "pt",
+        "original_title": "O Som ao Redor",
+        "overview": "An independent private security firm arrives at a middle-class neighborhood in Recife, Brazil.",
+        "popularity": 16.139,
+        "poster_path": "/gX5bvUtJZaBjWwq8lSwGOIJN5jM.jpg",
+        "release_date": "2012-11-19",
+        "title": "Neighboring Sounds",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 210
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vdS9DrbC5dqUYIq2PPwQ9H7mG4u.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 660549,
+        "original_language": "en",
+        "original_title": "Villain",
+        "overview": "After 10 years, Eddie Franks is out of prison and trying to stay on the straight and narrow, but his drug-mule brother, Sean has other ideas. Rival gangster brothers demand Sean repay his debt to them, causing Eddie to get tangled in the crossfire, and he ends up using his life savings to calling in favours with mobster friends to try and help.",
+        "popularity": 16.134,
+        "poster_path": "/kc5AdZ0DJqrnAye8xGbXgtABh4E.jpg",
+        "release_date": "2020-02-28",
+        "title": "Villain",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6vXnGv5ly9leE6QGBRCzrUuG2tG.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 17136,
+        "original_language": "en",
+        "original_title": "The Woman in the Window",
+        "overview": "A seductive woman gets an innocent professor mixed up in murder.",
+        "popularity": 16.121,
+        "poster_path": "/i8jDpAWByVYaQZJXbsg8XqDOF5y.jpg",
+        "release_date": "1944-10-25",
+        "title": "The Woman in the Window",
+        "video": false,
+        "vote_average": 7.389,
+        "vote_count": 332
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rPSJAElGxOTko1zK6uIlYnTMFxN.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1104040,
+        "original_language": "en",
+        "original_title": "Gangs of Lagos",
+        "overview": "A group of friends who each have to navigate their own destiny, growing up on the bustling streets and neighborhood of Isale Eko, Lagos.",
+        "popularity": 16.111,
+        "poster_path": "/nGwFsB6EXUCr21wzPgtP5juZPSv.jpg",
+        "release_date": "2023-04-07",
+        "title": "Gangs of Lagos",
+        "video": false,
+        "vote_average": 6.284,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 177110,
+        "original_language": "cn",
+        "original_title": "人頭豆腐湯",
+        "overview": "\"There Is A Secret in My Soup\" is based on infamous HK crime case called 'Hello Kitty Murder'.In 1999 three triad gangsters kidnapped,brutally tortured and beat a 23-year old woman named Fan Man-yee for one month until she died.Then they dismembered and cooked the body,threw most of it out with the trash,fed legs and arms to stray dogs and hid the skull inside the head of a giant-sized Hello Kitty doll.",
+        "popularity": 16.107,
+        "poster_path": "/qLyjveo5Ie77khFe9IDMOggTLtg.jpg",
+        "release_date": "2001-01-05",
+        "title": "There Is a Secret in My Soup",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1307157,
+        "original_language": "en",
+        "original_title": "Hustlers Take All",
+        "overview": "When an underground casino run by women recruits a brilliant young business grad, the casino’s biggest rival hatches a murderous plot to stay on top.",
+        "popularity": 16.103,
+        "poster_path": "/qzdEQUQ03Vwm8gSs7dvu1OvNbuf.jpg",
+        "release_date": "2024-08-03",
+        "title": "Hustlers Take All",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qw7TcQyLkXffGKIZvp3fUgbpj1f.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 68623,
+        "original_language": "cn",
+        "original_title": "爆裂刑警",
+        "overview": "Plainclothes policemen Brian and Mike use an elderly woman's apartment for surveillance, hoping to catch a fugitive gangster. They develop a warm relationship with their hostess, whom they call \"granny.\" Meanwhile, each man develops a romantic relationship: Brian with a strange wandering teenage girl, and Mike with a pregnant woman at the dry cleaning shop. When the gangster returns to his flat, Brian and Mike are forced into an explosive confrontation.",
+        "popularity": 16.096,
+        "poster_path": "/50kphvvy0zkMjK1G2visnbPi4TV.jpg",
+        "release_date": "1999-08-05",
+        "title": "Bullets Over Summer",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/awxZV0smcbkGQGu1G97a0YVydX7.jpg",
+        "genre_ids": [
+            53,
+            16,
+            80,
+            878,
+            27
+        ],
+        "id": 37629,
+        "original_language": "ja",
+        "original_title": "エンゼルコップ",
+        "overview": "In the late twentieth century, the Secret Security Force was formed to stop the actions of the communist terrorist group known as the Red May. Angel, a beautiful, yet cold woman, has recently joined the small anti-terrorist group. But her first mission will be a true test of skill, for members of the Red May are being found dead, murdered by gruesome methods. Who is causing these murders? And why? Written by Chuck \"Dark-Side\" Williamson",
+        "popularity": 16.085,
+        "poster_path": "/pNfLYNE5U2tvJidhmsX2nY6LXZY.jpg",
+        "release_date": "1989-09-01",
+        "title": "Angel Cop",
+        "video": false,
+        "vote_average": 6.071,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tsOtLYSXlBjkKhsr0mnMaEve4bL.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 40810,
+        "original_language": "ja",
+        "original_title": "激突! 殺人拳",
+        "overview": "Takuma Tsurugi takes on the government, the police, the mafia and an international ring of kidnappers who aim to dispossess a beautiful young heiress of her millions.",
+        "popularity": 16.081,
+        "poster_path": "/e0g4jc7RQLkQitIKADjCfnyjYoj.jpg",
+        "release_date": "1974-02-02",
+        "title": "The Street Fighter",
+        "video": false,
+        "vote_average": 6.939,
+        "vote_count": 90
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3EzYSZMDJNp275F3A8VDdjbaPPX.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 20802,
+        "original_language": "en",
+        "original_title": "Freebie and the Bean",
+        "overview": "Two San Francisco detectives want to bring down a local hijacking boss. But they'll have to get to him before a hitman does.",
+        "popularity": 16.081,
+        "poster_path": "/sM9YZqppgCfVtFRX1eAgaaeaJQx.jpg",
+        "release_date": "1974-12-25",
+        "title": "Freebie and the Bean",
+        "video": false,
+        "vote_average": 6.098,
+        "vote_count": 61
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/bJIAvpPOUV3NCU9TXBytTo3HaSd.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 5516,
+        "original_language": "en",
+        "original_title": "The Ladykillers",
+        "overview": "An eccentric, if not charming Southern professor and his crew pose as a band in order to rob a casino, all under the nose of his unsuspecting landlord – a sharp old woman.",
+        "popularity": 29.068,
+        "poster_path": "/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg",
+        "release_date": "2004-03-25",
+        "title": "The Ladykillers",
+        "video": false,
+        "vote_average": 6.133,
+        "vote_count": 1549
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h0jlcOISKcrVG4IE4p5IyZGrMhn.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 212,
+        "original_language": "en",
+        "original_title": "Arsenic and Old Lace",
+        "overview": "Mortimer Brewster, a newspaper drama critic, playwright, and author known for his diatribes against marriage, suddenly falls in love and gets married;  but when he makes a quick trip home to tell his two maiden aunts, he finds out his aunts' hobby - killing lonely old men and burying them in the cellar!",
+        "popularity": 29.068,
+        "poster_path": "/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg",
+        "release_date": "1944-09-01",
+        "title": "Arsenic and Old Lace",
+        "video": false,
+        "vote_average": 7.643,
+        "vote_count": 902
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/SExpQgcY5c3UMbBntFIh7xRDg3.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 1594,
+        "original_language": "en",
+        "original_title": "A Shot in the Dark",
+        "overview": "Inspector Jacques Clouseau, smitten with the accused maid Maria Gambrelli, unwittingly turns a straightforward murder investigation into a comedic series of mishaps, testing the patience of his irritable boss Charles Dreyfus as casualties mount.",
+        "popularity": 29.065,
+        "poster_path": "/pR6tNqNLYIbRRYC5TFKWVWaVvvK.jpg",
+        "release_date": "1964-06-23",
+        "title": "A Shot in the Dark",
+        "video": false,
+        "vote_average": 7.222,
+        "vote_count": 525
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lG8T8NMJHfBgxvobVBMy0rFR2OM.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 336845,
+        "original_language": "en",
+        "original_title": "Cleveland Abduction",
+        "overview": "A single mother becomes Ariel Castro's first kidnapping victim, and finds herself trapped in his home with two other women for 11 years.",
+        "popularity": 29.062,
+        "poster_path": "/j2iCc5fjyJvKRQAW7d6XWwDFzmr.jpg",
+        "release_date": "2015-05-02",
+        "title": "Cleveland Abduction",
+        "video": false,
+        "vote_average": 7.214,
+        "vote_count": 353
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g5woRbuOrwynegzoMKOg8GmMf0j.jpg",
+        "genre_ids": [
+            28,
+            35,
+            53,
+            80,
+            9648
+        ],
+        "id": 10743,
+        "original_language": "en",
+        "original_title": "Confidence",
+        "overview": "What Jake Vig doesn't know just might get him killed. A sharp and polished grifter, Jake has just swindled thousands of dollars from the unsuspecting Lionel Dolby with the help of his crew. It becomes clear that Lionel wasn't just any mark, he was an accountant for eccentric crime boss Winston King. Jake and his crew will have to stay one step ahead of both the criminals and the cops to finally settle their debt.",
+        "popularity": 29.037,
+        "poster_path": "/yJzmAtY9DmhhjJwFnW0Zjlvz6yg.jpg",
+        "release_date": "2003-04-25",
+        "title": "Confidence",
+        "video": false,
+        "vote_average": 6.251,
+        "vote_count": 425
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mzsCLrjPMiXzwY5dpT89CMYHh1s.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 452323,
+        "original_language": "ja",
+        "original_title": "アウトレイジ 最終章",
+        "overview": "Five years after the all-out war between the Sanno and Hanabishi crime families, former yakuza boss Otomo works in South Korea for Mr. Chang, a noted fixer. When tensions rise between Chang and the Hanabishi, and Chang's life is endangered, Otomo returns to Japan to settle things once and for all.",
+        "popularity": 29.029,
+        "poster_path": "/4zFrnSerWypyhypXmifo2Rh1TQx.jpg",
+        "release_date": "2017-10-07",
+        "title": "Outrage Coda",
+        "video": false,
+        "vote_average": 6.846,
+        "vote_count": 162
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/twWLgj5hHFUI9PWE5vpet0OIxjA.jpg",
+        "genre_ids": [
+            27,
+            80,
+            18,
+            53
+        ],
+        "id": 763149,
+        "original_language": "en",
+        "original_title": "Aftermath",
+        "overview": "Desperate to save their marriage, a young couple takes a deal to move into their dream home, but disturbing events reveal the house's troubled history.",
+        "popularity": 29.027,
+        "poster_path": "/fzEb71u0HOucjdjcVoOqfCqOM0T.jpg",
+        "release_date": "2021-08-04",
+        "title": "Aftermath",
+        "video": false,
+        "vote_average": 6.235,
+        "vote_count": 581
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8uw6OCa4ofQ6A9xz5ldtgnEVPDr.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 8438,
+        "original_language": "en",
+        "original_title": "Murder in the First",
+        "overview": "A young, inexperienced public defender is assigned to defend an inmate accused of committing murder while behind bars.",
+        "popularity": 29.013,
+        "poster_path": "/sU37ONoL9qUyYXUhubJSYH9tEoc.jpg",
+        "release_date": "1995-01-20",
+        "title": "Murder in the First",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 549
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m5xvBhmygdATTaehuGFjUwvDpLf.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1078249,
+        "original_language": "da",
+        "original_title": "Den grænseløse",
+        "overview": "In a moment of cowardice, Detective Carl Mørck sends Rose, his junior colleague in Department Q, to the remote Danish island of Bornholm to answer his old colleague Christian Habersaat's repeated requests. But during his forced retirement ceremony Christian kills himself sending Rose into a journey deep into her own traumatic past. Later, Department Q are embroiled into an old cold case of a girl found dead hanging in a tree.",
+        "popularity": 28.996,
+        "poster_path": "/3GBvlNiiKyNTph25cosMExP7vJX.jpg",
+        "release_date": "2024-02-01",
+        "title": "Boundless",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6xIZ4GCZ5Dhjv8tYU88ZbZ4PwxQ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            37,
+            53
+        ],
+        "id": 501395,
+        "original_language": "en",
+        "original_title": "True History of the Kelly Gang",
+        "overview": "Set against the badlands of Australia where the English rule with a bloody fist and the Irish endure, Ned Kelly discovers he comes from a line of Irish rebels — an uncompromising army of cross dressing bandits immortalised for terrorising their oppressors back in Ireland. Fuelled by the unfair arrest of his mother, Kelly recruits a wild bunch of warriors to plot one of the most audacious attacks of anarchy and rebellion the country has ever seen.",
+        "popularity": 28.995,
+        "poster_path": "/eVyESHnWiTY1el8DEWbYMVW3K5k.jpg",
+        "release_date": "2019-11-23",
+        "title": "True History of the Kelly Gang",
+        "video": false,
+        "vote_average": 5.941,
+        "vote_count": 298
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aT2mSasUNwIQUgZbYi6fqC8v7AF.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 26263,
+        "original_language": "en",
+        "original_title": "Death Wish 4: The Crackdown",
+        "overview": "After the death of his girlfriend's daughter from a drug overdose, Paul Kersey takes on the local drug cartel.",
+        "popularity": 28.981,
+        "poster_path": "/r8HwJQJyKRyJ2JypwiVR5p0ZV84.jpg",
+        "release_date": "1987-06-11",
+        "title": "Death Wish 4: The Crackdown",
+        "video": false,
+        "vote_average": 5.696,
+        "vote_count": 283
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4So4aDgPRkspivwd0WEZu9x1GVH.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1175156,
+        "original_language": "it",
+        "original_title": "Ricchi a tutti i costi",
+        "overview": "When a grandmother falls for a cheeky suitor with dubious intentions, her family devises a secret plan to protect her life — and their inheritance.",
+        "popularity": 28.968,
+        "poster_path": "/azv9ekvJr1Vz6gNZa6QyaIbeiHG.jpg",
+        "release_date": "2024-06-04",
+        "title": "The Price of Nonna's Inheritance",
+        "video": false,
+        "vote_average": 5.822,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qVcL6rYhWxayMPBHx2OBnntzTbU.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 14839,
+        "original_language": "en",
+        "original_title": "Blue Collar",
+        "overview": "Fed up with mistreatment at the hands of both management and union brass, and coupled with financial hardships on each man's end, three auto assembly line workers hatch a plan to rob a safe at union headquarters.",
+        "popularity": 28.918,
+        "poster_path": "/7WBBcgzESyX1qEq9x7tg22dlORL.jpg",
+        "release_date": "1978-02-10",
+        "title": "Blue Collar",
+        "video": false,
+        "vote_average": 7.354,
+        "vote_count": 168
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9GLnRJoj2xVBtyRMygaejJQ0lkt.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 425336,
+        "original_language": "es",
+        "original_title": "Loving Pablo",
+        "overview": "The film chronicles the rise and fall of the world's most feared drug lord Pablo Escobar and his volatile love affair with Colombia's most famous journalist Virginia Vallejo throughout a reign of terror that tore a country apart.",
+        "popularity": 28.914,
+        "poster_path": "/aV3kKzTCycGfZc5Lh29Tk6avKPL.jpg",
+        "release_date": "2017-10-12",
+        "title": "Loving Pablo",
+        "video": false,
+        "vote_average": 6.274,
+        "vote_count": 977
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1Q3cxQmZcU7lqwWlruKL2yCC5j2.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 560204,
+        "original_language": "en",
+        "original_title": "Arkansas",
+        "overview": "Kyle and Swin live by the orders of an Arkansas-based drug kingpin named Frog, whom they've never met. But when a deal goes horribly wrong, the consequences are deadly.",
+        "popularity": 28.908,
+        "poster_path": "/ieNGttYsxunAANK9LRZa4LdkEqi.jpg",
+        "release_date": "2020-05-05",
+        "title": "Arkansas",
+        "video": false,
+        "vote_average": 5.788,
+        "vote_count": 302
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 393738,
+        "original_language": "el",
+        "original_title": "Ερωτικό Πάθος",
+        "overview": "Since her parents' death, 19-year old Della lives with her aunt Marsha and Andrew, her old husband. One morning Marsha has sex with Alex, her husband's doctor. Right afterwords, Della seduces him at the beach while Marsha watches them from her window. The two women have a fight which results to Della leaving the house. She finds refuge at Maria's (a friend of hers) place but as it appears she is missing and the house is inhabited by Aris and Samantha. Della makes a pass at Aris, managing to infuriate Samantha. In the meanwhile, the local authorities are investigating the murder of Aris' business partner, Steve Brynner. When all trace leads to Aris, Della suggests a swap: She'll travel to Italy to get fake passports for the couple as long as they accept to murder Marsha.",
+        "popularity": 28.903,
+        "poster_path": "/9Py9VvA9MBCgJWH4kOBvDRsdkW5.jpg",
+        "release_date": "1981-03-26",
+        "title": "Erotic Passion",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l2wRcBe2CEUt0Q7TOqr25PO2UA2.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 45284,
+        "original_language": "ja",
+        "original_title": "アウトレイジ",
+        "overview": "When a tough yakuza gangster is betrayed by his bosses, it means all out war. Bodies pile up as he takes out everyone in his way to the top in a brutal quest for revenge.",
+        "popularity": 28.879,
+        "poster_path": "/s6VVl5WKuGIDlSAm8hgvTsrzODK.jpg",
+        "release_date": "2010-05-17",
+        "title": "Outrage",
+        "video": false,
+        "vote_average": 6.914,
+        "vote_count": 412
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/scrH5AMMD2o73vwgCnhcYXx8zrt.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 10878,
+        "original_language": "en",
+        "original_title": "Saving Silverman",
+        "overview": "A pair of buddies conspire to save their best friend from marrying the wrong woman, a cold-hearted beauty who snatches him from them and breaks up their Neil Diamond cover band.",
+        "popularity": 28.876,
+        "poster_path": "/w6eEJXYECpJnCNqDu4qDCLHvONe.jpg",
+        "release_date": "2001-02-09",
+        "title": "Saving Silverman",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 514
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t2DJFqKeoXwxkexpDyFtrNKcwlP.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1807,
+        "original_language": "en",
+        "original_title": "Elephant",
+        "overview": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
+        "popularity": 28.862,
+        "poster_path": "/1a4VU9z2hxEvugHMK7VsobB9xTX.jpg",
+        "release_date": "2003-09-20",
+        "title": "Elephant",
+        "video": false,
+        "vote_average": 7.061,
+        "vote_count": 1844
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xZasERRbpWBP8d9L3iRdknaRAqx.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 10629,
+        "original_language": "en",
+        "original_title": "Veronica Guerin",
+        "overview": "In this true story, Veronica Guerin is an investigative reporter for an Irish newspaper. As the drug trade begins to bleed into the mainstream, Guerin decides to take on and expose those responsible. Beginning at the bottom with addicts, Guerin then gets in touch with John Traynor, a paranoid informant. Not without some prodding, Traynor leads her to John Gilligan, the ruthless head of the operation, who does not take kindly to Guerin's nosing.",
+        "popularity": 28.849,
+        "poster_path": "/14RnhkH9ArHZ8viDAej4TnVl4Jg.jpg",
+        "release_date": "2003-07-11",
+        "title": "Veronica Guerin",
+        "video": false,
+        "vote_average": 6.613,
+        "vote_count": 292
+    }
+]

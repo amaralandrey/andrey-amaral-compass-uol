@@ -1,0 +1,392 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/oGQrHznIFLXDVCnUSrIaccXqAV2.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 35958,
+        "original_language": "en",
+        "original_title": "New York Confidential",
+        "overview": "Story follows the rise and subsequent fall of the notorious head of a New York crime family, who decides to testify against his pals in order to avoid being killed by his fellow cohorts.",
+        "popularity": 11.033,
+        "poster_path": "/megZifGNBCHxbqeb9preURvMI17.jpg",
+        "release_date": "1955-02-15",
+        "title": "New York Confidential",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tQFiCSe4YYCrGYPiAyO1QEUG6X5.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 34601,
+        "original_language": "en",
+        "original_title": "Three Way",
+        "overview": "Lew is a small time loser with a troubled past and a very big secret. Overhearing a couple plan a kidnapping, Lew is tempted to come up with a scheme of his own. He decides to get to the victim first and then blackmail the real criminals. His plan soon spins out of control.",
+        "popularity": 11.033,
+        "poster_path": "/4sDNvHPwnCy6dQBU4FjSawNhrow.jpg",
+        "release_date": "2004-06-29",
+        "title": "Three Way",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3XG7RaQJAbYmcKlBy4YGAfsW5LF.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 133110,
+        "original_language": "en",
+        "original_title": "Mike Hammer: Murder Takes All",
+        "overview": "Mike Hammer is kidnapped and led to believe it is the work of a Las Vegas entertainer, but soon realises somebody else is involved.",
+        "popularity": 11.028,
+        "poster_path": "/3wzrvCDvfA30nNIKM19RlX6k9ul.jpg",
+        "release_date": "1989-05-21",
+        "title": "Mike Hammer: Murder Takes All",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vXgQGANjRpVvk63KYzr1PbOz887.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 27795,
+        "original_language": "en",
+        "original_title": "Stripped to Kill",
+        "overview": "A Los Angeles policewoman's partner has her pose as a stripper to lure a killer of strippers.",
+        "popularity": 11.028,
+        "poster_path": "/rDZ63RGL3EoSHZibdAL1p3hKNfP.jpg",
+        "release_date": "1987-03-20",
+        "title": "Stripped to Kill",
+        "video": false,
+        "vote_average": 4.622,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3RkOPJUkQdfgBVgLLw4v4fNirxZ.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 91926,
+        "original_language": "en",
+        "original_title": "Crawl",
+        "overview": "A seedy bar owner hires a mysterious Croatian to commit murder, but a planned double-crossing backfires when a young waitress is taken hostage. A suspenseful, yet darkly humorous chain of events builds to a bloodcurdling climax.",
+        "popularity": 11.023,
+        "poster_path": "/7EyQm5sMqHfJQCJFSkqaK41IJHX.jpg",
+        "release_date": "2011-10-15",
+        "title": "Crawl",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xfzkluV3xuJWDoPHH2WOfk8EfnO.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 111363,
+        "original_language": "cn",
+        "original_title": "流氓差婆",
+        "overview": "A clumsy policewoman trains hard to avenge her father's death.",
+        "popularity": 11.022,
+        "poster_path": "/glBH5ctO19KmzdPbwBAGoMS6RaF.jpg",
+        "release_date": "1989-11-18",
+        "title": "Thunder Cops II",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AmOAIJuAwZ6i9PGTCajPw9hg399.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 54863,
+        "original_language": "ja",
+        "original_title": "子連れ殺人拳",
+        "overview": "Sakata protects a little boy while coping with rival gangs.",
+        "popularity": 11.02,
+        "poster_path": "/4VeBZOYQB9n3qs3FVnmn60j2nYt.jpg",
+        "release_date": "1976-04-10",
+        "title": "Karate Warriors",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nYQKvEK6yxe5ewGwe0b7FIMS0Ce.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 526997,
+        "original_language": "de",
+        "original_title": "Sauerkrautkoma",
+        "overview": "When a hilariously dull policeman moves in with his best buddy in Munich, he has to deal with scandals, a corpse — and potential marriage.",
+        "popularity": 11.018,
+        "poster_path": "/xzpxIv0r2B51EMXiufrYOKo7kxu.jpg",
+        "release_date": "2018-08-09",
+        "title": "Sauerkrautkoma",
+        "video": false,
+        "vote_average": 7.097,
+        "vote_count": 88
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s3cuXtBxw7os9iE0uXoazJWf9Lh.jpg",
+        "genre_ids": [
+            80,
+            53,
+            10770
+        ],
+        "id": 314370,
+        "original_language": "en",
+        "original_title": "The Taking of Pelham One Two Three",
+        "overview": "In New York, armed men hijack a subway car and demand a ransom for the passengers. Even if it's paid, how could they get away?",
+        "popularity": 11.018,
+        "poster_path": "/akBizBjWNtflwja701E8eZqqFdi.jpg",
+        "release_date": "1998-02-01",
+        "title": "The Taking of Pelham One Two Three",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tYeg0upxJOGR1pA44szOmJlh6gX.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 367428,
+        "original_language": "ja",
+        "original_title": "密航０ライン",
+        "overview": "Katiri is a reporter so ambitiously amoral that he’ll sell out anyone—including his partner and the drug dealer he’s sleeping with—to get a scoop. But what happens when an even more ruthless female gang boss kidnaps his sister?",
+        "popularity": 11.017,
+        "poster_path": "/lVg1fB72zLauvE0agQTT4hoxs5W.jpg",
+        "release_date": "1960-06-25",
+        "title": "Smashing the 0-Line",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gQWoielS55JE7v527he8QhNcs9s.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 18705,
+        "original_language": "en",
+        "original_title": "Mr. Moto's Last Warning",
+        "overview": "A Japanese man claiming to be Mr. Moto, of the International Police, is abducted and murdered soon after disembarking from a ship at Port Said in Egypt. The real Mr. Moto is already in Port Said, investigating a conspiracy against the British and French governments.",
+        "popularity": 11.017,
+        "poster_path": "/AboXVQh5iNEbxqbHxtWoAFRrvva.jpg",
+        "release_date": "1939-01-20",
+        "title": "Mr. Moto's Last Warning",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vu3HXdtzdB9QzkHB9kBbO7wzMlr.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            10770
+        ],
+        "id": 197487,
+        "original_language": "en",
+        "original_title": "Amazons",
+        "overview": "A cult of descendants of the Amazons plot to take control of mankind, but an inquisitive doctor might uncover their plans.",
+        "popularity": 11.006,
+        "poster_path": "/fAAuQt2WIua1ElVjeC1rGTi8qCI.jpg",
+        "release_date": "1984-01-29",
+        "title": "Amazons",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            28,
+            80
+        ],
+        "id": 252165,
+        "original_language": "en",
+        "original_title": "Hidden Agenda",
+        "overview": "A young medical student travels to Berlin to investigate the apparent death of his brother and discovers a secret life of espionage, betrayal and murder at the highest levels.",
+        "popularity": 11.0,
+        "poster_path": "/odHBcOY572XzAZs22zQXUUQ2K8u.jpg",
+        "release_date": "1999-11-02",
+        "title": "Hidden Agenda",
+        "video": false,
+        "vote_average": 2.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tfPbHpomn2s6D51G5g1ouodO3tI.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 993100,
+        "original_language": "cn",
+        "original_title": "紮職2",
+        "overview": "Seventeen years ago, an assassin ambushes triad boss Yau. Yau’s wife, Nam, sends Chai, Kam and others to find the assassin. Chai catches the assassin and discovers that he is Meow, Chai and Kam’s childhood best friend. To save his friend, Chai helps Meow flee Hong Kong. Though Yau survives the attack, the injuries leave him crippled for the rest of his life.",
+        "popularity": 10.997,
+        "poster_path": "/wFJ9kigoqGM4H932tgAIBzxj6et.jpg",
+        "release_date": "2023-10-05",
+        "title": "Triad 2",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/SdQT0VMHTNZ78piTQgrkwYOtGV.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 1303236,
+        "original_language": "zh",
+        "original_title": "角頭－大橋頭",
+        "overview": "",
+        "popularity": 10.996,
+        "poster_path": "/2wkjPNIjmh5fEat7PmgA5eNtNIW.jpg",
+        "release_date": "2024-08-16",
+        "title": "GATAO: Like Father Like Son",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1K1lKiaHSZpS8tq0ViGjejBk3Jf.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 504184,
+        "original_language": "ta",
+        "original_title": "செக்கச்சிவந்த வானம்",
+        "overview": "A bloody power struggle erupts between three brothers who are vying to take over the family business following the death of their father.",
+        "popularity": 10.993,
+        "poster_path": "/kzwMj4FZdeH37I9u9FIbmkmI2Jx.jpg",
+        "release_date": "2018-09-27",
+        "title": "Chekka Chivantha Vaanam",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eZRqE8YqehMJhBBer33An4u33Uo.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10770
+        ],
+        "id": 655602,
+        "original_language": "en",
+        "original_title": "His Deadly Affair",
+        "overview": "Violinist Danielle Turner returns to her hometown for her final show of the tour. While home she sets out to repair her relationship with her sister, Heidi, but Danielle’s dream boyfriend, James the Conductor of the Orchestra, has a dangerous and obsessive wife, who is waiting to extract her vengeance on Danielle.",
+        "popularity": 10.991,
+        "poster_path": "/6ha40QUuFnuuzsQEsqs7iSjv5Xt.jpg",
+        "release_date": "2019-12-13",
+        "title": "His Deadly Affair",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dNfmHw3gz9vXayMrLVtOaarZkN7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 408626,
+        "original_language": "en",
+        "original_title": "City of Tiny Lights",
+        "overview": "In the teeming, multicultural metropolis of modern-day London, a seemingly straightforward missing-person case launches a down-at-heel private eye into a dangerous world of religious fanaticism and political intrigue.",
+        "popularity": 10.988,
+        "poster_path": "/eX9iEZdU2w1elGQhNY50DmKqiaE.jpg",
+        "release_date": "2016-09-12",
+        "title": "City of Tiny Lights",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 82
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qk1BKFtaYVr262aRVf8X5zEQOMV.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 40256,
+        "original_language": "pt",
+        "original_title": "A Prisão",
+        "overview": "In a women's prison in Brazil, the inmates are young and beautiful, the warden is a sadist, all but one of the guards are cruel, and the nurse is an incompetent cuckoo. To make it difficult for the inmates to hide contraband, they wear no underwear. They are alternately murderous and orgiastic with each other, and they engage in sex play with some of the guards. The warden pimps out inmates to wealthy lesbians. With the help of the nurse and under the cover of Carnival, three inmates stage an escape. Once out, will they contrive to stay undiscovered, or will their natures guarantee an ill-fated end to their attempt?",
+        "popularity": 10.988,
+        "poster_path": "/r4lU7i4Do0mU5x3AA5Mu01mkNP3.jpg",
+        "release_date": "1980-10-10",
+        "title": "Bare Behind Bars",
+        "video": false,
+        "vote_average": 4.883,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7ZoGpZmEPX6ZK6Yl7BoXg6u2Eyk.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            80
+        ],
+        "id": 11390,
+        "original_language": "da",
+        "original_title": "Olsen-banden i Jylland",
+        "overview": "The Olsen gang in Jutland. Ones again Egon Olsen has a plan when he gets out of Vridslose State Prison. He has found out that the Germans left a large sum of money (in American dollars and gold bars) in one of their commando bunkers, when they were defeated in 1945; the only problem it's in Jutland. Egon, Benny and Kjeld \"appropriate\" a car and drives to Jutland along with Kjelds wife and child Yvonne and Borge. They look forward to fooling the the people in Jutland, but of course, things don't go quite as planed. It ends with Benny, Kjeld, Borge and Yvonne sitting in the train back to Copenhagen, were they are overtaken by Egon in his car on the road next to the track. This is the last time the Olsen gang goes to Jutland.",
+        "popularity": 10.988,
+        "poster_path": "/lpQNR02pqXynd8fXh0v3mCYIcMV.jpg",
+        "release_date": "1971-10-08",
+        "title": "The Olsen Gang in Jutland",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 48
+    }
+]

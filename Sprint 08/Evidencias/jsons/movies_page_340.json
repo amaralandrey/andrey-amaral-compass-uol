@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/5l7WQhqYQUr3XklIQegMWB94xMq.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 208495,
+        "original_language": "en",
+        "original_title": "Mission Park",
+        "overview": "Four friends from the rough side of town grow apart when two are consumed by a life of crime, and the other two become FBI agents sent deep undercover - to bring down those childhood friends.",
+        "popularity": 9.451,
+        "poster_path": "/z8sLzGK0tidgPwz9ioCXEfSSHtE.jpg",
+        "release_date": "2013-09-06",
+        "title": "Mission Park",
+        "video": false,
+        "vote_average": 5.192,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uKlHeQ4YqLJBfbvvpZWncEK4Wzk.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 639995,
+        "original_language": "ms",
+        "original_title": "Wira",
+        "overview": "After a long stint in the army, an ex-lieutenant returns home and enters an underground MMA match to take on a local mobster and protect his family.",
+        "popularity": 9.449,
+        "poster_path": "/7ujJmRqh3fZ8OqxOx7YoWWKFnpd.jpg",
+        "release_date": "2019-11-21",
+        "title": "Wira",
+        "video": false,
+        "vote_average": 4.429,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4UiL57XpzcXbIxRTkppXvVby1hN.jpg",
+        "genre_ids": [
+            28,
+            10749,
+            9648,
+            27,
+            80
+        ],
+        "id": 290847,
+        "original_language": "en",
+        "original_title": "The Phantom Speaks",
+        "overview": "The spirit of an executed murderer enters the body of a physician, and forces him to do its bidding--namely, murder.",
+        "popularity": 9.449,
+        "poster_path": "/3UYMv6zKrp7zeVOj1519bgecu2f.jpg",
+        "release_date": "1945-04-13",
+        "title": "The Phantom Speaks",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f09U3JCbCvyWsz7pYyph9NhSYd8.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 72574,
+        "original_language": "en",
+        "original_title": "Death Valley",
+        "overview": "A divorced mother, her young son and her new boyfriend set out on a road trip through Death Valley and run afoul of a local serial killer.",
+        "popularity": 9.449,
+        "poster_path": "/XHuvwszXiK1lc2B79PLQUSCnBV.jpg",
+        "release_date": "1982-05-07",
+        "title": "Death Valley",
+        "video": false,
+        "vote_average": 5.232,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zkDoJyyM1GUrm7PcIi9MUQePfT1.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 212748,
+        "original_language": "en",
+        "original_title": "Rhymes for Young Ghouls",
+        "overview": "In 1976, a Mi'gMaq teenager plots revenge against the sadistic Indian agent who imprisoned her in a residential school where rape and abuse are common.",
+        "popularity": 9.447,
+        "poster_path": "/steITxOFJ4HnFRuxnYePDxDGK3r.jpg",
+        "release_date": "2013-09-09",
+        "title": "Rhymes for Young Ghouls",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            18,
+            80,
+            10770
+        ],
+        "id": 226050,
+        "original_language": "en",
+        "original_title": "Perry Mason: The Case of the Fatal Fashion",
+        "overview": "Della's friend is accused of murdering a rival fashion magazine editor.",
+        "popularity": 9.446,
+        "poster_path": "/ppfWmI6NEc1k7gIUTSagNsZwGj8.jpg",
+        "release_date": "1991-09-24",
+        "title": "Perry Mason: The Case of the Fatal Fashion",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bbgtv3XRuPRc1YMeJJqWF4MFdvN.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 718069,
+        "original_language": "ko",
+        "original_title": "열혈형사",
+        "overview": "The strongest punk detective in the police station who investigates with his mouth more than theory, 'Dong-min', is appointed to the investigation department just when he was about to become successful in his career.  He is sad to be appointed, however, he will be having a joint investigation with a straightforward FM detective 'Mong-heo', in charge of a case that involves a missing model.  As the investigation progresses, 'Dong-min's instincts awaken and realizes that it was not just a case of a missing person.  It couldn't get any better!  A comical, slapstick combo investigation begins!",
+        "popularity": 9.44,
+        "poster_path": "/c6KcN3Iltra7U0PyEfneoeTc1ox.jpg",
+        "release_date": "2020-06-18",
+        "title": "The Fiery Detective",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/frn6rWY8EHeiO0wTqP93ozEpinI.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1217348,
+        "original_language": "en",
+        "original_title": "Dr. Death: Cutthroat Conman",
+        "overview": "Revealing the shocking rise and fall of Paolo Macchiarini, the superstar celebrity surgeon who ascended to global fame after performing the world's first synthetic organ transplant, only to be exposed as an international con man whose web of lies extends decades, ensnared many including those in his personal life and left a trail of devastated patients grappling with a nightmare.",
+        "popularity": 9.439,
+        "poster_path": "/16MvBZ65pUOdSCz2ngQQ7KLwYaa.jpg",
+        "release_date": "2023-12-21",
+        "title": "Dr. Death: Cutthroat Conman",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eyLhOqrywxY1AkSRipXtKh8zvoB.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648,
+            10770
+        ],
+        "id": 103132,
+        "original_language": "en",
+        "original_title": "In the Deep Woods",
+        "overview": "A friend of Joanna has been killed by a serial killers who leaves the bodies in the woods. A strange guy who says is a private detective: Joanna begins to fear he might be the killer.",
+        "popularity": 9.439,
+        "poster_path": "/cMp3Py8PZCXM0C5CITl3wW4AuVa.jpg",
+        "release_date": "1992-10-26",
+        "title": "In the Deep Woods",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wpxuxWv50ZvuxbaKagdKtd6FjD9.jpg",
+        "genre_ids": [
+            28,
+            80,
+            10749
+        ],
+        "id": 276846,
+        "original_language": "hi",
+        "original_title": "बादल",
+        "overview": "Badal is a victim of the 1984 riots, brought up by a terrorist. Badal aims to kill the treacherous police officer who had killed his parents and his loving sister. He takes shelter in the house of an honest police officer and falls in love with a minister's granddaughter. Will he be able to accomplish his revenge?",
+        "popularity": 9.437,
+        "poster_path": "/lMMOhx1VTkf3TS5xnS1LisoRIHc.jpg",
+        "release_date": "2000-02-11",
+        "title": "Badal",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/LwNDGFlMmB4Xpvd0OBUySRkxp0.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 21070,
+        "original_language": "fr",
+        "original_title": "Le Septième Juré",
+        "overview": "In a moment of madness a middle-aged, married and respectable pharmacist kills a young woman who is sun-bathing by a lake. Unable to take in what he has done, he flees from the scene of the crime and behaves as if nothing has happened. Eventually her boyfriend is charged with the crime and, in a strange twist of fate, the killer finds himself serving on the jury.",
+        "popularity": 9.437,
+        "poster_path": "/TCSQejFMvoo2tsVnxP3HBZWTGU.jpg",
+        "release_date": "1962-04-18",
+        "title": "The Seventh Juror",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7BSfPqm0NwgpEfwiNEtdKb569d4.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 820095,
+        "original_language": "ru",
+        "original_title": "Белый список",
+        "overview": "During a nationwide moral panic caused by a recent spike in teenage suicides two federal investigators are sent to a small Russian town to review a cold case involving a suspicious death of a schoolgirl. Initially seeing their task as a mere PR stunt both gradually start to loose their focus as they venture deeper into the paranoid world of conspiracy theories surrounding the case.",
+        "popularity": 9.436,
+        "poster_path": "/aeQID0XHg3j9H1ZkOqPo31a5GYr.jpg",
+        "release_date": "2023-11-23",
+        "title": "The White List",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3aFIMjGcataa0EOSOrCg7xGeAJl.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 450848,
+        "original_language": "cn",
+        "original_title": "大話神探",
+        "overview": "Stumbling Cops is a Hong Kong Crime-Comedy directed by Guy Lai Ying-Chau and starring Stanley Fung.",
+        "popularity": 9.436,
+        "poster_path": "/uEDnbGrZPcm0OK2mOEXBSBgbpK6.jpg",
+        "release_date": "1988-10-13",
+        "title": "Stumbling Cops",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 190014,
+        "original_language": "ja",
+        "original_title": "昭和残侠伝　一匹狼",
+        "overview": "The karashi Botan returns in the third chapter of the incredible Showa Zankoden series. This time legendary actor Ken Takakura plays Takei Shigejiro of the Shimazu family. When the boss of the Shimazu is killed, Shigejiro takes revenge and is sent to jail. Upon his release, he meets the dying widow of one of hid followers and takes her to her father, Boss Shiomasa, who take him into his family. But when Shiomasa is killed by an old enemy, Shigejiro is obligated to take revenge...",
+        "popularity": 9.436,
+        "poster_path": "/jz2a9Hhx2x71BVBG9Jg21XxztLr.jpg",
+        "release_date": "1966-07-09",
+        "title": "Contemporary Tales of Chivalry: The Lone Wolf",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tg6giC5rIt7GPyBnMMOJ6oqVeAk.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 112478,
+        "original_language": "en",
+        "original_title": "Third Degree Burn",
+        "overview": "A down-and-out private eye (Treat Williams) gets too close to the wife (Virginia Madsen) of a rich man (Richard Masur) soon found dead.",
+        "popularity": 9.434,
+        "poster_path": "/lLI28hyyO0v8t7pxqOapbdJpXXd.jpg",
+        "release_date": "1989-05-28",
+        "title": "Third Degree Burn",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iWFaEC64bgGH96oDiCeXKx1zKlM.jpg",
+        "genre_ids": [
+            80,
+            10749
+        ],
+        "id": 154878,
+        "original_language": "en",
+        "original_title": "Career Woman",
+        "overview": "A young woman graduates from a New York City law school, returns to her small hometown, and finds her first case is defending a childhood friend accused of murder. Director Lewis Seiler's 1936 courtroom drama stars Claire Trevor, Isabel Jewell, Michael Whalen, Gene Lockhart, Eric Linden, Charles Middleton, Edward Brophy, Kathleen Lockhart, Guinn Williams, El Brendel, Sterling Holloway, Ray Brown, Howard Hickman, Frank McGlynn Sr., Charles Waldron Sr., Spencer Charters and Eily Malyon.",
+        "popularity": 9.432,
+        "poster_path": "/8WQ3DRxKq7wdXcFzjrXV1SCbvrC.jpg",
+        "release_date": "1936-12-18",
+        "title": "Career Woman",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 216595,
+        "original_language": "en",
+        "original_title": "On the Run",
+        "overview": "Albert is an introverted travel agent living a lonely life in New York. When Louie, his best friend from childhood, appears having just escaped from prison, Albert's quiet existence is permanently disrupted. what ensues is one long, crazy night in New York that will change both their lives forever.",
+        "popularity": 9.431,
+        "poster_path": "/4ihOptZnSSNvMX1KSnQkzzgUkpb.jpg",
+        "release_date": "1999-01-29",
+        "title": "On the Run",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/402Pk0WHiRrg3RXxWYvtBPQpYeg.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 121611,
+        "original_language": "en",
+        "original_title": "The Biggest Bundle of Them All",
+        "overview": "A kidnapped mobster persuades his captors to help him rob platinum ingots from a train.",
+        "popularity": 9.431,
+        "poster_path": "/qt5dW6Hf0sDhRsgVq0rBDqa00AF.jpg",
+        "release_date": "1968-01-17",
+        "title": "The Biggest Bundle of Them All",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6TU4O2ommJbNLjdxS47OMtzSPL6.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            10749
+        ],
+        "id": 90869,
+        "original_language": "en",
+        "original_title": "Mortal Passions",
+        "overview": "A scheming woman (Krista Errickson) seeks to kill her husband to collect the insurance money, and is willing to seduce anyone she can to do it - including her husband's brother.",
+        "popularity": 9.431,
+        "poster_path": "/fRMqLCoRaYoKq5MJpN6zVk3b3fh.jpg",
+        "release_date": "1989-10-06",
+        "title": "Mortal Passions",
+        "video": false,
+        "vote_average": 3.25,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            18,
+            9648
+        ],
+        "id": 31590,
+        "original_language": "en",
+        "original_title": "Legacy",
+        "overview": "When a geeky, overweight rushee is found dead at the hottest sorority on the campus, the three most popular girls of the house are prime suspects.",
+        "popularity": 9.431,
+        "poster_path": "/vtc945BjW8vqSnYtQXlKOtK2U6N.jpg",
+        "release_date": "2008-08-12",
+        "title": "Legacy",
+        "video": false,
+        "vote_average": 3.3,
+        "vote_count": 26
+    }
+]

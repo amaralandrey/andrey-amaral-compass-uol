@@ -1,0 +1,406 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/k1k0g6wEE4CmHiqUI95Yor55ViH.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 60181,
+        "original_language": "fr",
+        "original_title": "Borsalino and Co.",
+        "overview": "Marseille. Heaps of flowers and funeral wreaths... \"A man who no longer defends his colors is no longer a man.\"",
+        "popularity": 16.011,
+        "poster_path": "/w8NRzyVyZSLlyW7b1cOWiQCe1jh.jpg",
+        "release_date": "1974-10-23",
+        "title": "Borsalino and Co.",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iwuEohjQ4dZs9bzmPKRLN3vrQ6I.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 284152,
+        "original_language": "ko",
+        "original_title": "좋은 친구들",
+        "overview": "Hyun-tae, In-chul and Min-soo have been best friends since childhood. Their relationship is forever changed after Hyun-tae's mother asks In-chul to commit insurance fraud by destroying her arcade.",
+        "popularity": 16.009,
+        "poster_path": "/xq8jGwdVu0mvic93Qcg558MmQ9B.jpg",
+        "release_date": "2014-07-10",
+        "title": "Confession",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lX3IZmvMj4lVSBDk1efwLqgKd1N.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1094481,
+        "original_language": "en",
+        "original_title": "Hitmen",
+        "overview": "Michael Hero, a powerful CEO, seeks vengeance for the murder of his grandson by offering a one-million-dollar bounty for the assassination of his grandson's accidental killers, attracting the world's leading assassins to the task at hand.",
+        "popularity": 16.008,
+        "poster_path": "/cdbNHV7Rjy72WgZyIuh3QwxgVS2.jpg",
+        "release_date": "2023-11-23",
+        "title": "Hitmen",
+        "video": false,
+        "vote_average": 3.75,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Z6qsRVE80MMLOVLZKEQ3vtslS9.jpg",
+        "genre_ids": [
+            35,
+            10751,
+            14,
+            80
+        ],
+        "id": 505204,
+        "original_language": "de",
+        "original_title": "Liliane Susewind - Ein tierisches Abenteuer",
+        "overview": "An eleven year old girl can talk to animals. When a thief causes trouble in the local zoo, she comes to the rescue.",
+        "popularity": 16.007,
+        "poster_path": "/ic35QjcEjYawKbnxvjpm60oiSWT.jpg",
+        "release_date": "2018-05-10",
+        "title": "Little Miss Dolittle",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mbx4WUzJRBAx1E8CLkKFdhIZJQz.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 574894,
+        "original_language": "zh",
+        "original_title": "“大”人物",
+        "overview": "A car fixer jumps off stairs after illegal demolition. Police officer tries to find the crime and catch the evil boss.",
+        "popularity": 16.005,
+        "poster_path": "/dGHJUVtn9ij8M3RbC3YdhSQ1Wgs.jpg",
+        "release_date": "2019-01-10",
+        "title": "The Big Shot",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uLEjkm2vcqBcWzH5eX7YvAE8OVJ.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 470401,
+        "original_language": "en",
+        "original_title": "Abducted in Plain Sight",
+        "overview": "In 1974, 12-year-old Jan Broberg is abducted from a small church-going community in Idaho by a trusted neighbour and close family friend.",
+        "popularity": 16.005,
+        "poster_path": "/licfKJMCnGFgFDATHeUZuy047RB.jpg",
+        "release_date": "2018-05-10",
+        "title": "Abducted in Plain Sight",
+        "video": false,
+        "vote_average": 6.497,
+        "vote_count": 337
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9uRp80Lse2a83apqb8uOTiaBpue.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80
+        ],
+        "id": 66195,
+        "original_language": "en",
+        "original_title": "The Perfect Host",
+        "overview": "Warwick Wilson is the consummate host. He carefully prepares for a dinner party, the table impeccably set and the duck perfectly timed for 8:30 p.m. John Taylor is a career criminal. He’s just robbed a bank and needs to get off the streets. He finds himself on Warwick’s doorstep posing as a friend of a friend, new to Los Angeles, who’s been mugged and lost his luggage.",
+        "popularity": 16.004,
+        "poster_path": "/tYqk1u5d3eARg5gV8cF4RZFZKKQ.jpg",
+        "release_date": "2010-07-01",
+        "title": "The Perfect Host",
+        "video": false,
+        "vote_average": 6.364,
+        "vote_count": 405
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mSQiMJyuQuHpsZSek10V1sXy8do.jpg",
+        "genre_ids": [
+            16,
+            9648,
+            80
+        ],
+        "id": 1244064,
+        "original_language": "ja",
+        "original_title": "TVシリーズ特別編集版『名探偵コナン vs. 怪盗キッド』",
+        "overview": "A movie chronicling the confrontations between Detective Conan and Kaito Kid, including a remake of the first appearance of Kaito Kid with new animation.",
+        "popularity": 16.003,
+        "poster_path": "/5oBVUUXDjURVTQ6x3aqiXG4GtHV.jpg",
+        "release_date": "2024-01-05",
+        "title": "Detective Conan vs. Kid the Phantom Thief",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/PncTIHqTcartOXIvm3TopbL0d7.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            53
+        ],
+        "id": 15940,
+        "original_language": "en",
+        "original_title": "Beautiful Creatures",
+        "overview": "When Petula and Dorothy cover up the accidental murder of one jerk boyfriend, they hatch a hilarious scheme to collect a huge ransom.",
+        "popularity": 16.003,
+        "poster_path": "/zOKaYzY14ZpVy6nG4kAelyLZQ4Q.jpg",
+        "release_date": "2000-08-23",
+        "title": "Beautiful Creatures",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 71
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yW9leSPIijHW0EtYRflSsrXpSPS.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 681435,
+        "original_language": "te",
+        "original_title": "Red",
+        "overview": "When civil engineer Siddharth is arrested for a murder on the basis of a pictorial evidence, cops discover his lookalike Aditya and realize they have only 48 hours to solve the case.",
+        "popularity": 16.002,
+        "poster_path": "/7cEEDAHhMGtoWfYXJxelVMRwLu0.jpg",
+        "release_date": "2021-01-14",
+        "title": "Red",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rgm0hjouWcuMYknsQMBaIUbjiR6.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            18
+        ],
+        "id": 74149,
+        "original_language": "th",
+        "original_title": "อุโมงค์ผาเมือง",
+        "overview": "In this worthy adaptation of the Japanese film Rashomon, a young monk is left to determine the truth behind three competing perspectives after a bandit’s disturbing murder trial.",
+        "popularity": 15.999,
+        "poster_path": "/rcQPlRCHsePVznsLIjt3yCrdg6D.jpg",
+        "release_date": "2011-09-16",
+        "title": "At the Gate of the Ghost",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ivgqWSTCnjaHHQAtdPsKTVGTPEe.jpg",
+        "genre_ids": [
+            12,
+            18,
+            10749,
+            80
+        ],
+        "id": 26282,
+        "original_language": "en",
+        "original_title": "Macao",
+        "overview": "Nick Cochran, an American in exile in Macao, has a chance to restore his name by helping capture an international crime lord. Undercover, can he mislead the bad guys and still woo the attractive singer/petty crook, Julie Benson?",
+        "popularity": 15.997,
+        "poster_path": "/eXoIIwdaaDuCthlTGMimjCjfPRD.jpg",
+        "release_date": "1952-04-11",
+        "title": "Macao",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/97V7d7FjDd5HQ2N3DtbXDTvSBX5.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18,
+            9648
+        ],
+        "id": 1255418,
+        "original_language": "en",
+        "original_title": "Curious Caterer: Foiled Plans",
+        "overview": "Goldy Berry's Medieval feast at Hyde Castle gets interrupted by a murder. She teams up with Detective Shultz to solve the mystery before the murderer strikes again.",
+        "popularity": 15.995,
+        "poster_path": "/v0ZUVu5NwoOuQSeTvR1oUEFxoeH.jpg",
+        "release_date": "2024-04-26",
+        "title": "Curious Caterer: Foiled Plans",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/coAER61FKM8Rk8ufeZtDMV2X2jR.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            14
+        ],
+        "id": 41817,
+        "original_language": "en",
+        "original_title": "Heart Condition",
+        "overview": "Racist police officer Jack Moony has a vendetta against Napoleon Stone, a charismatic black lawyer who is sleeping with Jack's old flame Crystal Gerrity. Jack has a heart attack, but his life is saved when he receives Stone's heart, since Stone died mysteriously the same night as Jack was stricken. Stone is not completely gone, however, and as a ghost he is all too happy to give Jack advice on how he should do his job and live his life.",
+        "popularity": 15.988,
+        "poster_path": "/2ApuvU24UEBlWeBiQGRyyOYFeqe.jpg",
+        "release_date": "1990-02-02",
+        "title": "Heart Condition",
+        "video": false,
+        "vote_average": 5.483,
+        "vote_count": 88
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3VFVbZagp3Y9Hu4lBR79uWW6bfe.jpg",
+        "genre_ids": [
+            18,
+            16,
+            35,
+            80
+        ],
+        "id": 27716,
+        "original_language": "en",
+        "original_title": "Coonskin",
+        "overview": "Brother Rabbit, Brother Bear, and Preacher Fox rise to the top of the crime ranks in Harlem by going up against a con-man, a racist cop, and the Mafia.",
+        "popularity": 15.988,
+        "poster_path": "/3zrxUkbeLl2KmSIRywNTwiGOZ2y.jpg",
+        "release_date": "1975-08-20",
+        "title": "Coonskin",
+        "video": false,
+        "vote_average": 5.979,
+        "vote_count": 119
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2qo02SgiHlSyJ4aZX04UOUBFWql.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53,
+            80
+        ],
+        "id": 91618,
+        "original_language": "en",
+        "original_title": "Terminal Island",
+        "overview": "In the wake of a Supreme Court decision to outlaw the death penalty, California passes an initiative that designates San Bruno island as a dumping spot for first-degree murder convicts, free to do what they like except leave. The main camp of convicts is controlled by the tyrannical Bobby, who rules with an iron hand, and the women are used as sex slaves. A.J. and a group of more free-minded murderers have escaped and gone into hiding. When A.J. and his men liberate the women from Bobby's custody, tensions mount to an all-out confrontation for control of the island.",
+        "popularity": 15.985,
+        "poster_path": "/b7EclUvelou80TMc89XeBt0nULn.jpg",
+        "release_date": "1973-06-22",
+        "title": "Terminal Island",
+        "video": false,
+        "vote_average": 5.412,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1qWkceFKLtsrI9sZCl3aop78ErL.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 81463,
+        "original_language": "es",
+        "original_title": "Los violadores",
+        "overview": "Hal is proud of his white Chevrolet Sting Ray. After going on a date with young Babsi, a gang of rockers ambushes them. Hal wants to be the hero, reacts aggressively and causes a traffic accident in which one of the rockers is killed. The rockers strike back immediately and rape Babsi. Hal mobilizes his friend's karate club and takes up the fight against the rockers. He swears revenge on every single rocker and a brutal fight begins.",
+        "popularity": 15.982,
+        "poster_path": "/6hrzPQoXFiFzA9aDdU0VXBeymfm.jpg",
+        "release_date": "1981-01-02",
+        "title": "Mad Foxes",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xyaoViQOSkrYNtHKEHPb8X8Kxbk.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 61296,
+        "original_language": "fr",
+        "original_title": "Stavisky...",
+        "overview": "Irresistible charm and talent helps Serge Alexandre alias Stavisky, small-time swindler, to make friends with even most influential members of French industrial and political elite during the early 30s. But nothing lasts forever and when his great scam involving hundreds millions of francs gets exposed result is an unprecedented scandal that almost caused a civil war.",
+        "popularity": 15.982,
+        "poster_path": "/lN8EcqRSaqe5OFyYjmjqV3H8bF2.jpg",
+        "release_date": "1974-05-15",
+        "title": "Stavisky...",
+        "video": false,
+        "vote_average": 6.152,
+        "vote_count": 99
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vEMCO6NgZr4cOBBHBmyUqsDEvjG.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            10749
+        ],
+        "id": 161040,
+        "original_language": "ta",
+        "original_title": "David",
+        "overview": "The story is about two Davids living in different parts of India whose lives eventually come together in a twist of events., who are about to take a step which is going to change their lives forever.",
+        "popularity": 15.981,
+        "poster_path": "/zvSS3fwsESQ7nnVCqSiIfsEyEWx.jpg",
+        "release_date": "2013-02-01",
+        "title": "David",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xVyr4pHiJ0mYjOooG5QSDLM9EFw.jpg",
+        "genre_ids": [
+            36,
+            18,
+            80
+        ],
+        "id": 60579,
+        "original_language": "ta",
+        "original_title": "ஹே ராம்",
+        "overview": "Saketh Ram's wife is raped and killed during direct action day riots in Calcutta. He is convinced that Mahatma Gandhi is responsible for all the problems happening in the country. He sets out to kill him.",
+        "popularity": 15.975,
+        "poster_path": "/hHaq5QffND0x8dXEqjVPAmFlJv6.jpg",
+        "release_date": "2000-02-18",
+        "title": "Hey Ram",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 47
+    }
+]

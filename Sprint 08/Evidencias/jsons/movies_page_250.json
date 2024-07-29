@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/jebknLWJIkB652DqNWaGEUdXbbY.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1269,
+        "original_language": "de",
+        "original_title": "Neues vom Wixxer",
+        "overview": "Scotland Yard investigators have to prevent the murder of Victoria Dickman when her name is found on a death list.",
+        "popularity": 12.173,
+        "poster_path": "/uZBbfB0OrEM6YuTc8j3KNaATSmn.jpg",
+        "release_date": "2007-03-10",
+        "title": "The Vexxer",
+        "video": false,
+        "vote_average": 6.398,
+        "vote_count": 128
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i3d4eS2xv8BHYuLeUOAkSZ2KYXA.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10402
+        ],
+        "id": 357299,
+        "original_language": "ja",
+        "original_title": "キャバレー",
+        "overview": "A young jazz musician's desire to advance in his career runs afoul of organized crime in this thriller from Haruki Kadokawa. After a saxophonist starts playing at a particular nightspot, a thug from the Yakuza adopts him as a special friend for no greater reason than he plays one of his favorite songs well. As the dangerous life of the gangster intertwines with that of the musician, it brings harm to the musician's girlfriend, who is raped. This changes the young saxophonist's attitude about his patron, but his Yakuza \"friend\" is still too embroiled in his own problems to worry about anything else.",
+        "popularity": 12.17,
+        "poster_path": "/dKRP54n1qc7ndoor2ju7lJaurbS.jpg",
+        "release_date": "1986-04-26",
+        "title": "Cabaret",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uG1zrHUlGGUmgtbhuTk9QROnmwO.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 521288,
+        "original_language": "cn",
+        "original_title": "低壓槽",
+        "overview": "Yu Chau is a cop who has gone so deep undercover within the triad. He can no longer tell which side of the law he's on. When he accidentally kills one of his pals in an operation, he runs off into the boonies to lick his wounds. Upon his return, he teams up with fellow officers Jim and Jackie to catch a triad Boss, only to unveil collusion with government officials at the highest level. Yu Chau once again faces the dilemma of taking the law into his own hands...",
+        "popularity": 12.167,
+        "poster_path": "/9LiqCJBLkSRzRZuRCUW17ysB0NN.jpg",
+        "release_date": "2018-04-28",
+        "title": "The Trough",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/seXPoZwiWNeybw5X3hUp9OVbuqI.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 214486,
+        "original_language": "en",
+        "original_title": "Sergeant Madden",
+        "overview": "A dedicated police officer is torn between family and duty when his son turns to a life of crime.",
+        "popularity": 12.167,
+        "poster_path": "/iC2RybfGIdeDW6VaExwqXpilLWy.jpg",
+        "release_date": "1939-03-24",
+        "title": "Sergeant Madden",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2T3V4BeDE2OaqdomIM5Nlrvu6fn.jpg",
+        "genre_ids": [
+            80,
+            28,
+            878
+        ],
+        "id": 40837,
+        "original_language": "en",
+        "original_title": "Ghost Warrior",
+        "overview": "When skiers in Japan come across the frozen body of centuries-old samurai warrior Yoshimita, scientists secretly whisk the corpse to a high-tech laboratory in California, where they bring him back to life. But when Yoshimita escapes onto the mean streets of 1980s Los Angeles, his ancient and strict code of honor gets him both into and out of trouble. J. Larry Carroll directs this low-budget action fantasy.",
+        "popularity": 12.165,
+        "poster_path": "/rD0pSQ4tIoTNzUli5CPP5jGBTk.jpg",
+        "release_date": "1986-03-01",
+        "title": "Ghost Warrior",
+        "video": false,
+        "vote_average": 5.107,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5BQjpaULQp60Wq50AH88gPtfl4k.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 24025,
+        "original_language": "sv",
+        "original_title": "Johan Falk: National Target",
+        "overview": "Frank Wagner goes deeper undercover to infiltrate Europe's most dangerous Mafia, the Russian-est, consisting of ex - KGB officers.",
+        "popularity": 12.164,
+        "poster_path": "/lXkdIyUuSTieOGQbxT6QjqphYSh.jpg",
+        "release_date": "2009-10-06",
+        "title": "Johan Falk: National Target",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AeAWTsG5iPfbonBtdSfiJAnfq6z.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 31035,
+        "original_language": "no",
+        "original_title": "En ganske snill mann",
+        "overview": "After serving a 12-year sentence for killing the man that slept with his wife, a man ponders whether he should try and reconcile with his family, or take revenge on those who turned him in.",
+        "popularity": 12.161,
+        "poster_path": "/l3I58PdeJHTPTzLa1QWtKS97hyW.jpg",
+        "release_date": "2010-03-19",
+        "title": "A Somewhat Gentle Man",
+        "video": false,
+        "vote_average": 6.581,
+        "vote_count": 105
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/il7Ar4SvG27SF2DWbNDgLL3mH1Y.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 112552,
+        "original_language": "en",
+        "original_title": "Incident in an Alley",
+        "overview": "A policeman is accused of manslaughtering a 14-year-old boy but is acquitted of all charges. Still, he feels a lot of guilt and begins to doubt if he really is innocent after all.",
+        "popularity": 12.158,
+        "poster_path": "/oscOUqXr9LUwE2jAurBUuezk0vI.jpg",
+        "release_date": "1962-05-16",
+        "title": "Incident in an Alley",
+        "video": false,
+        "vote_average": 3.1,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iARhC0Tor1XF0ADsCTvf0DEu3ZK.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 41872,
+        "original_language": "en",
+        "original_title": "Girls in Prison",
+        "overview": "Framed for the murder of a record company president in 1952 Hollywood, young, aspiring singer Aggie O'Hanlon is sentenced to life in prison and tries to adjust to her life life behind bars in a hellish womens prison where she is befriended by other \"lifer\" inmates who help her out when Aggie finds herself marked for murder by an unknown source who thinks she knows more about the murder than she does.",
+        "popularity": 12.158,
+        "poster_path": "/42gZLRZStmVH3shTSTj3iDZ9RBf.jpg",
+        "release_date": "1994-08-19",
+        "title": "Girls in Prison",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nC9AwWsCIto06aJaQ96Z3BB9aYt.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 326057,
+        "original_language": "en",
+        "original_title": "Assassin",
+        "overview": "Ruthless killer for hire breaks the rules of his profession and falls for a beautiful young woman. Discovering the notorious gangland brothers had hired him to kill her father, his world breaks down and he must turn against his criminal employers and their gang to save the woman he loves.",
+        "popularity": 12.155,
+        "poster_path": "/5INyciUa2zkdU66d0YbvPjYwfwE.jpg",
+        "release_date": "2015-03-09",
+        "title": "Assassin",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jcLVMtqSyiTqKEQJ7D1RjgkVSKV.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648,
+            10770
+        ],
+        "id": 56412,
+        "original_language": "en",
+        "original_title": "Skinwalkers",
+        "overview": "Faced with the murder of three medicine men, Navajo police must find the culprit. That the murders appear to be the work of a Skinwalker, or bad medicine man, complicate and illuminate the detective's work.",
+        "popularity": 12.153,
+        "poster_path": "/r1yKwzFnq8mc5KNn9p6OgayFqKI.jpg",
+        "release_date": "2002-11-02",
+        "title": "Skinwalkers",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n8tauUT2Hywi5VpFu93jFWwmCHI.jpg",
+        "genre_ids": [
+            27,
+            80,
+            18
+        ],
+        "id": 127946,
+        "original_language": "de",
+        "original_title": "Die Zärtlichkeit der Wölfe",
+        "overview": "A German serial killer preys on boys and young men during the so-called years of crisis between the wars. Based on the true story of Fritz Haarmann, aka the Butcher of Hanover and the Vampire of Hanover.",
+        "popularity": 12.151,
+        "poster_path": "/hArRqqGnyoHERNzKnbrOJGLKoKq.jpg",
+        "release_date": "1973-07-12",
+        "title": "Tenderness of the Wolves",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 1311537,
+        "original_language": "zh",
+        "original_title": "误杀3",
+        "overview": "Coinciding with a grand local holiday celebration, wealthy businessman Zheng Bingrui invites his daughter Tingting's teacher Li Huiping and a group of classmates' parents to a party at his home, but Tingting is suddenly kidnapped. Police officer Zhang Jingxian led the team to investigate the case, the kidnappers to Ting Ting life threat, requiring Zheng Li with a huge ransom to the appointment, along the way the two found the kidnapping case behind the hidden secrets ......",
+        "popularity": 12.149,
+        "poster_path": "/5fWocECTYUM5PxIieD3cSFW59VH.jpg",
+        "release_date": "",
+        "title": "Octopus with Broken Arms",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mbFvUfsKqeuinP4gGygn5LeR5pu.jpg",
+        "genre_ids": [
+            80,
+            12
+        ],
+        "id": 30972,
+        "original_language": "en",
+        "original_title": "The Brides of Fu Manchu",
+        "overview": "This time Fu Manchu and his army of henchmen are kidnaping the daughters of prominent scientists and taking them to his remote island headquarters. Instead of asking for ransom, Fu demands that the fathers help him to build a death ray, which he intends to use to take over the world. But Fu's archenemy, Nayland Smith of Scotland Yard, is determined not to let that happen.",
+        "popularity": 12.147,
+        "poster_path": "/e5vuutKDt6lmS4OJx7eA4USApjo.jpg",
+        "release_date": "1966-12-16",
+        "title": "The Brides of Fu Manchu",
+        "video": false,
+        "vote_average": 5.736,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gno3ABJacqieb0GloIwNCihuwYO.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 848730,
+        "original_language": "es",
+        "original_title": "Los bastardos",
+        "overview": "An epic about one of the most turbulent times in the recent history of the Buenos Aires suburbs. In this context, a group of idealists emerges who are specifically called: \"The bastards.\"",
+        "popularity": 12.146,
+        "poster_path": "/ffDHUOjHNfqSizXFA7oymCCckE8.jpg",
+        "release_date": "2023-03-30",
+        "title": "Los bastardos",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/86ED8FZlt6Zi0F1wrdYz4lSL7IB.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 55379,
+        "original_language": "ja",
+        "original_title": "女囚さそり　７０１号怨み節",
+        "overview": "Nami is once again on the run from the law but is saved by an old classmate who works at a strip club. Through a subsequent conversation they discover they both have a score to settle with a particular crooked cop. However, Nami has doubts about ever trusting a man.",
+        "popularity": 12.145,
+        "poster_path": "/6tc4iSFAUkiDEZ4itqUZoPCOJTX.jpg",
+        "release_date": "1973-12-29",
+        "title": "Female Prisoner Scorpion: #701's Grudge Song",
+        "video": false,
+        "vote_average": 6.148,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/drQBVyFiZUOgJbW3lEHyv8zMkkv.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            10770
+        ],
+        "id": 226675,
+        "original_language": "en",
+        "original_title": "Perry Mason: The Case of the Grimacing Governor",
+        "overview": "The alleged suicide of a gubernatorial candidate triggers a series of mysterious deaths leading to the governor's mansion, and \"Wild\" Bill McKenzie, a friend of Perry Mason, is on the case.",
+        "popularity": 12.144,
+        "poster_path": "/cT56l8i8ZCFbGmcuor7aXR3ab2R.jpg",
+        "release_date": "1994-11-09",
+        "title": "Perry Mason: The Case of the Grimacing Governor",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4GAsUfRU6QNfV7tDGJfkT7R7cBk.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 157209,
+        "original_language": "it",
+        "original_title": "Oedipus orca",
+        "overview": "Sequel to \"La Orca\" which follows the life of the kidnapped girl after she returns home to her boyfriend and family. After her kidnap ordeal Alice tries to return to her normal life, but her memories still haunt her and her way to see the world has been changed forever.",
+        "popularity": 12.144,
+        "poster_path": "/4giog4dx98lHQ2bjBIlmJ3I4FL3.jpg",
+        "release_date": "1977-04-04",
+        "title": "Oedipus Orca",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iC3z9ppFIThEnC6NdKtl1n1ruS5.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 748346,
+        "original_language": "en",
+        "original_title": "Marlene",
+        "overview": "Marlene is a film inspired by Marlene Truscott, a housewife who fought to exonerate her husband from a crime he didn't commit. Marlene became involved in the fight for justice at a young age, when Steven was arrested at 14 and sentenced to be hung. When Steven was released from prison ten years later, she fell in love with him. Marlene's story is a story of hiding, living under an assumed name and protecting her children. He was free, but now she was in prison. Through it all Marlene was determined that Steven would get justice, that they would find light in the darkness, a darkness that buried the truth. Surrounded by boxes of files Marlene found a world of lies, cover-ups, and secrets.",
+        "popularity": 12.142,
+        "poster_path": "/7c588ryGu1RXW5H2KYiCaZGjoUC.jpg",
+        "release_date": "2020-10-01",
+        "title": "Marlene",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/18s4aEjAoWLrUIon0r1JivDkQG4.jpg",
+        "genre_ids": [
+            18,
+            80,
+            35,
+            53
+        ],
+        "id": 411005,
+        "original_language": "zh",
+        "original_title": "一路順風",
+        "overview": "A Taiwanese drug mule has his foolproof smuggling method thrown out of whack when he catches a ride with the wrong cab driver.",
+        "popularity": 12.142,
+        "poster_path": "/7zhcNxA5RFhIhUJWKsl147sCI7c.jpg",
+        "release_date": "2016-11-18",
+        "title": "Godspeed",
+        "video": false,
+        "vote_average": 7.297,
+        "vote_count": 37
+    }
+]

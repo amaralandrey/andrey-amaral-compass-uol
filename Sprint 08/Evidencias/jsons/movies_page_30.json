@@ -1,0 +1,408 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/z8pQocUi56yIAToFjrmSumQ7VAL.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 339527,
+        "original_language": "en",
+        "original_title": "Solace",
+        "overview": "A psychic doctor, John Clancy, works with an FBI special agent in search of a serial killer.",
+        "popularity": 42.61,
+        "poster_path": "/pbcXpZgem8kgr90RwIUNAbC2ite.jpg",
+        "release_date": "2015-09-03",
+        "title": "Solace",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 2158
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            80
+        ],
+        "id": 511809,
+        "original_language": "en",
+        "original_title": "West Side Story",
+        "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+        "popularity": 42.601,
+        "poster_path": "/myAX5qoD6YVLNGiWpk2wcU66Vfq.jpg",
+        "release_date": "2021-12-08",
+        "title": "West Side Story",
+        "video": false,
+        "vote_average": 7.001,
+        "vote_count": 1502
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gqemVzi13T4oB95EBufIxqafSCl.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 412988,
+        "original_language": "en",
+        "original_title": "The Happytime Murders",
+        "overview": "In a world where human beings and puppets live together, when the members of the cast of a children's television show aired during the 1990s begin to get murdered one by one, puppet Phil Philips, a former LAPD detective who fell in disgrace and turned into a private eye, takes on the case at the request of his old boss in order to assist detective Edwards, who was his partner in the past.",
+        "popularity": 42.598,
+        "poster_path": "/rWxkur51srfVnMn2QOFjE7mbq6h.jpg",
+        "release_date": "2018-08-22",
+        "title": "The Happytime Murders",
+        "video": false,
+        "vote_average": 5.726,
+        "vote_count": 970
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gnWhqrGlDUXBv7L5kXN6o7iMoYs.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 10189,
+        "original_language": "en",
+        "original_title": "Pineapple Express",
+        "overview": "A stoner and his dealer are forced to go on the run from the police after the pothead witnesses a cop commit a murder.",
+        "popularity": 42.587,
+        "poster_path": "/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg",
+        "release_date": "2008-08-06",
+        "title": "Pineapple Express",
+        "video": false,
+        "vote_average": 6.634,
+        "vote_count": 3706
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/JXO3RAMyRTtKc1LdarQnB1GCBm.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 70436,
+        "original_language": "en",
+        "original_title": "The Raven",
+        "overview": "A fictionalized account of the last days of Edgar Allan Poe's life, in which the poet is in pursuit of a serial killer whose murders mirror those in the writer's stories.",
+        "popularity": 42.522,
+        "poster_path": "/boE0JFhZRpWLLrKOQE6bCBZGerP.jpg",
+        "release_date": "2012-03-09",
+        "title": "The Raven",
+        "video": false,
+        "vote_average": 6.287,
+        "vote_count": 1310
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i09ge9T89Yfu1Q2DyUIQ9f9ALuC.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 11327,
+        "original_language": "en",
+        "original_title": "Midnight Express",
+        "overview": "Billy Hayes is caught attempting to smuggle drugs out of Turkey. The Turkish courts decide to make an example of him, sentencing him to more than 30 years in prison. Hayes has two opportunities for release: the appeals made by his lawyer, his family, and the American government, or the \"Midnight Express\".",
+        "popularity": 42.41,
+        "poster_path": "/mIzGfVCSWmmYjLIIbA2BX3rlV56.jpg",
+        "release_date": "1978-08-31",
+        "title": "Midnight Express",
+        "video": false,
+        "vote_average": 7.513,
+        "vote_count": 1653
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/BgBXBqAukHxt6WKb7Iw49LW0DW.jpg",
+        "genre_ids": [
+            27,
+            53,
+            28,
+            9648,
+            80,
+            18
+        ],
+        "id": 935999,
+        "original_language": "en",
+        "original_title": "Hounded",
+        "overview": "A stately home robbery takes an evil turn one night when a gang of young thieves are caught by the owners of the house and then hunted across the estate for the proprietor's entertainment.",
+        "popularity": 42.371,
+        "poster_path": "/cdVz9dUv2YvNQil4svLAiUTuY28.jpg",
+        "release_date": "2022-10-21",
+        "title": "Hunted",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gYLSKuxOOmUGu0fZvErHz2FkZGl.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80,
+            18,
+            53
+        ],
+        "id": 9404,
+        "original_language": "cn",
+        "original_title": "警察故事4之簡單任務",
+        "overview": "Hong Kong cop Chan Ka-Kui returns, working with Interpol to track down and arrest an illegal weapons dealer. Chan later realizes that things are not as simple as they appear and soon finds himself to be a pawn of an organization posing as Russian intelligence.",
+        "popularity": 42.36,
+        "poster_path": "/rVUvhpM5mXUYy9KaItE76Ougj8v.jpg",
+        "release_date": "1996-02-10",
+        "title": "Police Story 4: First Strike",
+        "video": false,
+        "vote_average": 6.456,
+        "vote_count": 467
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jllyc0pY7xFYLyjuCEP6pO7hm8t.jpg",
+        "genre_ids": [
+            80,
+            35,
+            53
+        ],
+        "id": 9430,
+        "original_language": "en",
+        "original_title": "Go",
+        "overview": "Grocery store clerk Simon occasionally sells drugs from his cash register at work, so when soap opera actors Adam and Zack come looking for Ecstasy on a quiet Christmas Eve, they are surprised to find Ronna covering his shift. Desperate for money, Ronna decides to become an impromptu drug dealer, unaware that Adam and Zack are secretly working for obsessed narcotics officer Burke.",
+        "popularity": 42.198,
+        "poster_path": "/kP0OOAa4GTZSUPW8fgPbk1OmKEW.jpg",
+        "release_date": "1999-04-09",
+        "title": "Go",
+        "video": false,
+        "vote_average": 6.949,
+        "vote_count": 674
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/egK8OpGhJdoD3xzdiaQPiGEIyMw.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80,
+            9648
+        ],
+        "id": 15196,
+        "original_language": "en",
+        "original_title": "Clue",
+        "overview": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
+        "popularity": 42.17,
+        "poster_path": "/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+        "release_date": "1985-12-13",
+        "title": "Clue",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 1646
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dELhGxcMdDepJuZTeHGKxhLF1V2.jpg",
+        "genre_ids": [
+            10749,
+            28,
+            35,
+            80
+        ],
+        "id": 11205,
+        "original_language": "cn",
+        "original_title": "快餐車",
+        "overview": "Cousins Thomas and David, owners of a mobile restaurant, team up with their friend Moby, a bumbling private detective, to save the beautiful Sylvia, a pickpocket.",
+        "popularity": 42.134,
+        "poster_path": "/i5iZVBfOqlRs4g50dm2G6YGfhYD.jpg",
+        "release_date": "1984-08-17",
+        "title": "Wheels on Meals",
+        "video": false,
+        "vote_average": 6.928,
+        "vote_count": 370
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2xpxgucXMQRfzlkumna1DXsxFPk.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 10157,
+        "original_language": "en",
+        "original_title": "Police Academy 2: Their First Assignment",
+        "overview": "Officer Carey Mahoney and his cohorts have finally graduated from the Police Academy and are about to hit the streets on their first assignment. Question is, are they ready to do battle with a band of graffiti-tagging terrorists? Time will tell, but don't sell short this cheerful band of doltish boys in blue.",
+        "popularity": 42.122,
+        "poster_path": "/xyljfyGSJOdghPsycreHMsnhpU9.jpg",
+        "release_date": "1985-03-28",
+        "title": "Police Academy 2: Their First Assignment",
+        "video": false,
+        "vote_average": 6.062,
+        "vote_count": 1493
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Y8b33EkncHL9mLRVvSPSB2SQol.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11546,
+        "original_language": "en",
+        "original_title": "Police Academy: Mission to Moscow",
+        "overview": "The Russians seek help in dealing with the Mafia from the veterans of the Police Academy. They head off to Moscow, in order to find evidence against Konstantin Konali, who marketed a computer game that everyone in the world is playing.",
+        "popularity": 42.009,
+        "poster_path": "/3517XQ9LpoEykyYq2TuDNS45MPP.jpg",
+        "release_date": "1994-06-09",
+        "title": "Police Academy: Mission to Moscow",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 840
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iUS8yMKkJGl0RUabaYKZoxYxClo.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            53
+        ],
+        "id": 7516,
+        "original_language": "en",
+        "original_title": "Smokin' Aces",
+        "overview": "When a Las Vegas performer-turned-snitch named Buddy Israel decides to turn state's evidence and testify against the mob, it seems that a whole lot of people would like to make sure he's no longer breathing.",
+        "popularity": 41.972,
+        "poster_path": "/nrdnN8WqvyOt8Bnl3hgWcZD6ZyM.jpg",
+        "release_date": "2006-12-09",
+        "title": "Smokin' Aces",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 1595
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tkNwAiWE9hbiJUUwz42jU2dbWfi.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            53
+        ],
+        "id": 957314,
+        "original_language": "en",
+        "original_title": "The Passenger",
+        "overview": "Randolph Bradley is perfectly content fading into the background, but when his coworker Benson snaps and goes on a violent killing spree, he’s forced to face his fears and confront his troubled past in order to find a way to survive.",
+        "popularity": 41.971,
+        "poster_path": "/sWIwES7kkAGjD6rihy26plmkXHU.jpg",
+        "release_date": "2024-07-11",
+        "title": "The Passenger",
+        "video": false,
+        "vote_average": 5.667,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kH8xW7K2Gp1KOXoeewcLPkfqZ8K.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 470044,
+        "original_language": "en",
+        "original_title": "The Hate U Give",
+        "overview": "Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she's torn between her two very different worlds as she tries to speak her truth.",
+        "popularity": 41.926,
+        "poster_path": "/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+        "release_date": "2018-10-19",
+        "title": "The Hate U Give",
+        "video": false,
+        "vote_average": 8.132,
+        "vote_count": 2079
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/43ZU7sKMdh7WFXgfuHntpPUh4Nf.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 127521,
+        "original_language": "en",
+        "original_title": "6 Bullets",
+        "overview": "An ex-mercenary known for finding missing children is hired by a mixed martial arts fighter whose daughter has been kidnapped.",
+        "popularity": 41.925,
+        "poster_path": "/vH15N6iRLPX9YM2Xalop15hvaLD.jpg",
+        "release_date": "2012-09-11",
+        "title": "6 Bullets",
+        "video": false,
+        "vote_average": 6.182,
+        "vote_count": 344
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ynnarxTMs8jWKV9GK0SpUhGNCgH.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 8848,
+        "original_language": "en",
+        "original_title": "The Bank Job",
+        "overview": "Terry is a small-time car dealer trying to leave his shady past behind and start a family. Martine is a beautiful model from Terry's old neighbourhood who knows that Terry is no angel. When Martine proposes a foolproof plan to rob a bank, Terry recognises the danger but realises this may be the opportunity of a lifetime. As the resourceful band of thieves burrows its way into a safe-deposit vault at a Lloyds Bank, they quickly realise that, besides millions in riches, the boxes also contain secrets that implicate everyone from London's most notorious underworld gangsters to powerful government figures, and even the Royal Family. Although the heist makes headlines throughout Britain for several days, a government gag order eventually brings all reporting of the case to an immediate halt.",
+        "popularity": 41.888,
+        "poster_path": "/4G4JJTlOTwSOwvzzU6bKiZfpkBb.jpg",
+        "release_date": "2008-02-28",
+        "title": "The Bank Job",
+        "video": false,
+        "vote_average": 6.836,
+        "vote_count": 2234
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/knK1NdE8fezJsOv3ZPzZdLnndla.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 164457,
+        "original_language": "en",
+        "original_title": "Out of the Furnace",
+        "overview": "Two brothers live in the economically-depressed Rust Belt, when a cruel twist of fate lands one in prison. His brother is then lured into one of the most violent crime rings in the Northeast.",
+        "popularity": 41.884,
+        "poster_path": "/cOuQQ4eRpSBxb0G9OXzWE1pHPeq.jpg",
+        "release_date": "2013-11-09",
+        "title": "Out of the Furnace",
+        "video": false,
+        "vote_average": 6.576,
+        "vote_count": 1906
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 808396,
+        "original_language": "en",
+        "original_title": "God Is a Bullet",
+        "overview": "Vice detective Bob Hightower finds his ex-wife murdered and daughter kidnapped by a cult. Frustrated by the botched official investigations, he quits the force and infiltrates the cult to hunt down the leader with the help of the cult’s only female victim escapee, Case Hardin.",
+        "popularity": 41.814,
+        "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+        "release_date": "2023-06-22",
+        "title": "God Is a Bullet",
+        "video": false,
+        "vote_average": 6.164,
+        "vote_count": 166
+    }
+]

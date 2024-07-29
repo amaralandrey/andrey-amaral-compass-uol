@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/53WIxWs7RWUja4CzE3TJOQ2xjVv.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 146486,
+        "original_language": "sv",
+        "original_title": "Joker",
+        "overview": "Nicke loves practical jokes. When his best friend Pelle is getting married, Nicke is hosting the bachelor party. It will start with the kidnapping of Pelle. Everything goes wrong when Pelle is kidnapped for real by a terrorist group.",
+        "popularity": 9.288,
+        "poster_path": "/rY8eu4yQTwpZgz8BEVKfGIh8TUG.jpg",
+        "release_date": "1991-11-01",
+        "title": "Joker",
+        "video": false,
+        "vote_average": 5.857,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zsyTvnpEUJNCIYVeraawhMVHUGO.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 52112,
+        "original_language": "it",
+        "original_title": "Delitto in Formula Uno",
+        "overview": "While keeping an eye on his small time crook brother in law, Inspector Nico Giraldi gets involved in a murder case set in the world of Formula One racing. Giraldi is suspended for trying to cover up for his brother in law and becomes afraid his wife and son may be targeted next. Therefore he calls in the help of his childhood friend and chief informant, Venticello.",
+        "popularity": 9.288,
+        "poster_path": "/tuJ1j8PUxk1smrFJsnEE8PlXQ2h.jpg",
+        "release_date": "1984-02-17",
+        "title": "Crime in Formula One",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q2ZFyrDHq7vDk0buN4DE9ch6HQ6.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            28,
+            35,
+            18
+        ],
+        "id": 78237,
+        "original_language": "es",
+        "original_title": "Tiempo de valientes",
+        "overview": "Mariano is a psychologist who must fulfill community service after losing a lawsuit by a traffic accident. He is forced to provide therapeutic support to Alfredo, a policeman depressed over his wife cheating on him. Mariano is then accidentally involved in a double homicide investigation being conducted by Alfredo.",
+        "popularity": 9.285,
+        "poster_path": "/vdfbyrsfzE4AlkqAmLX0nIZldL8.jpg",
+        "release_date": "2005-09-29",
+        "title": "On Probation",
+        "video": false,
+        "vote_average": 7.477,
+        "vote_count": 110
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sM4ZptlVQmIN4kng91KDqwtloEE.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 44931,
+        "original_language": "en",
+        "original_title": "The Shadow on the Window",
+        "overview": "Three delinquents murder a prosperous farmer at an isolated farm house. One witness to the crime - the dead man's secretary - is then taken hostage. The other witness - her young son - is thrown into state of shock. Can he recover soon enough to help the police - and his father - rescue his mother before it's too late?",
+        "popularity": 9.285,
+        "poster_path": "/8O6IxxTxYK8bomCrheF8UFA3VIo.jpg",
+        "release_date": "1957-03-06",
+        "title": "The Shadow on the Window",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bzw24j8uNl7TaDtmm92ss5SxQqC.jpg",
+        "genre_ids": [
+            18,
+            80,
+            28
+        ],
+        "id": 407798,
+        "original_language": "ja",
+        "original_title": "必殺！ブラウン館の怪物たち",
+        "overview": "When the Shogunates greatest secret is stolen, the fate of the nation hangs in the balance. The Shogunate sends an incompetent cop, Tanaka, to Kyoto to act as a stalking horse. Hoping the thieves will kill Tanaka and the Ninja Spies will kill the thieves. But what the Shogunate doesn't realise is that Tanaka's even more incompetent assistant Mondo is in fact the leader of a gang of revengers for hire, there motto is \"Sure Death\" (or your money cheerfully refunded). Mondo doesn't know that everyone knows about the secret, but they all think he does. Poor Mondo, he not only has to deal with crazed Shogunate extremists, oddball ninjas, crooks who work for the Emperor and bicycle riding foreign death squads. He also have to deal with a wife and a crazy mother-in-law!",
+        "popularity": 9.284,
+        "poster_path": "/iPZ5VKwwTpX4ebbEeQl5d323VVk.jpg",
+        "release_date": "1985-06-29",
+        "title": "Sure Death! Brown, You Bounder!",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3SCSxlQyUhQR3cssUwitLaIWQcG.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 174383,
+        "original_language": "en",
+        "original_title": "No Place to Hide",
+        "overview": "In New York in the late 60s, a politically motivated group of students plans bombings of company offices who do business with dictators in Middle American countries. But when they contact a known terrorist and bombing specialist, the FBI gets on their track.",
+        "popularity": 9.283,
+        "poster_path": "/4lkvcPC7iF85r9YO6KwjbqiLG01.jpg",
+        "release_date": "1974-09-12",
+        "title": "No Place to Hide",
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uJo9JvM57BzAvVbslao4du59DBO.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648
+        ],
+        "id": 110699,
+        "original_language": "en",
+        "original_title": "Dick Tracy's G-Men",
+        "overview": "A mad doctor named Zanoff uses a drug to bring himself back from the dead after his execution in prison. Dick Tracy sets out to capture Zanoff before he can put his criminal gang back together again.",
+        "popularity": 9.283,
+        "poster_path": "/eQApHIqQHmqP3ZxbkPAzLJuLNaz.jpg",
+        "release_date": "1939-09-02",
+        "title": "Dick Tracy's G-Men",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mFmceI39whrez4UQOqBPiz8aPrE.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648,
+            28
+        ],
+        "id": 63912,
+        "original_language": "en",
+        "original_title": "The Big Job",
+        "overview": "A gang of hapless crooks, led by Sidney James, successfully perpetrate a robbery only to be caught after the fact. Fifteen years later they emerge from prison intent on retrieving their stolen loot - and discover a police station has been built over its hiding place.",
+        "popularity": 9.283,
+        "poster_path": "/d2Irb8PvhTZqYtc4poj2XtBivR6.jpg",
+        "release_date": "1965-01-01",
+        "title": "The Big Job",
+        "video": false,
+        "vote_average": 6.636,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3vjz0ERnMvC1ukiMrPhtejirgZd.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            18
+        ],
+        "id": 793252,
+        "original_language": "en",
+        "original_title": "Mystery 101: Killer Timing",
+        "overview": "An escaped serial killer and an attempt on Travis's life makes this their most dangerous case yet as Amy and Travis team up with his FBI agent ex to find the connection before it's too late.",
+        "popularity": 9.281,
+        "poster_path": "/ku52Y9p3ZcB6q9AfVqdpmtR8su6.jpg",
+        "release_date": "2021-03-21",
+        "title": "Mystery 101: Killer Timing",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/590mujnOlnjoSwvmNQ8VUaPt4Zb.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 514782,
+        "original_language": "en",
+        "original_title": "Toy Gun",
+        "overview": "Ruggero, a meek young man, impulsively robs a bank to prove to his ex-wife that he is courageous and masculine. A police investigation engulfs everyone except our unassuming hero who is completely ignored. Through a set of hilarious coincidences, he gets away with the robbery, while corrupt bank officials take the fall for what looks like an inside job.",
+        "popularity": 9.278,
+        "poster_path": "/z7Cti1ii27TTyKLx5YJPq3inX8S.jpg",
+        "release_date": "2018-01-02",
+        "title": "Toy Gun",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7x5lUrTbZJVwVWVOJBBHQ1J8gYb.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            36
+        ],
+        "id": 46993,
+        "original_language": "pt",
+        "original_title": "Madame Satã",
+        "overview": "A story inspired by the life of one of the most remarkable figures in Brazilian popular culture, João Francisco dos Santos (1900-1976). In turn, bandit, transvestite, street fighter, brothel cook, convict and father to seven adopted children, dos Santos – better known as Madame Satã – was also a notorious gay performer who pushed social boundaries in a volatile time.",
+        "popularity": 9.276,
+        "poster_path": "/rgsrsLJXzzmMiTvatmEhXU8fMY2.jpg",
+        "release_date": "2002-10-03",
+        "title": "Madame Satã",
+        "video": false,
+        "vote_average": 6.875,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3mfPYlfczW1H1zd7fmDcHMeKBdT.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 61095,
+        "original_language": "en",
+        "original_title": "The Turning Point",
+        "overview": "Special prosecutor John Conroy hopes to combat organized crime in his city and appoints his cop father Matt as chief investigator. John doesn't understand why Matt is reluctant, but cynical reporter Jerry McKibbon thinks he knows: he's seen Matt with mob lieutenant Harrigan. Jerry's friendship with John is tested by the question of what to do about Matt, and by his attraction to John's girl Amanda. Meanwhile, the threatened racketeers adopt increasingly violent means of defense.",
+        "popularity": 9.275,
+        "poster_path": "/o60DNuYHFRygXkh85CMSnO574vf.jpg",
+        "release_date": "1952-07-12",
+        "title": "The Turning Point",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pcpnCkpHWHvMB3OiL0npRCBJxXS.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 442924,
+        "original_language": "ja",
+        "original_title": "闇金ドッグス3",
+        "overview": "Tukasa works for Tadaomy’s loan shark company. He picks up more female debtors because of his appealing looks. One day, Erina appears in front of Tukasa. Erina used to be an idol and she now sings on the street.",
+        "popularity": 9.272,
+        "poster_path": "/hBe17sB5jJwvVJMQ6ugfYvmlg0L.jpg",
+        "release_date": "2016-05-21",
+        "title": "Stray Dogz 3",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1beKrqImXNqUvaMLCNm5Qyx55xU.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 218407,
+        "original_language": "en",
+        "original_title": "Sworn Enemy",
+        "overview": "A law student poses as a fight promoter to catch a notorious gangster.",
+        "popularity": 9.271,
+        "poster_path": "/5foLi3wwZuKvC2xrE9b4HBdovbR.jpg",
+        "release_date": "1936-09-11",
+        "title": "Sworn Enemy",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dd6CwM9yKgEWwsSD7j1YcMoLDDn.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 5631,
+        "original_language": "de",
+        "original_title": "Der grüne Bogenschütze",
+        "overview": "The country estate of American emigre Abel Bellamy is haunted by the ghost of the Green Archer, a 14th century Robin Hood type figure who terrorised the former lords of the manor. Now, with the gangster coming home on vaguely defined business and his niece Valerie arriving with her adoptive father to take up residence in the adjacent mansion, much to Bellamy's annoyance, the archer has returned. Who is he and what does he want?",
+        "popularity": 9.27,
+        "poster_path": "/a7LGyh9fAMyjlE7H3yTEYJXj6Ur.jpg",
+        "release_date": "1961-02-02",
+        "title": "The Green Archer",
+        "video": false,
+        "vote_average": 6.231,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mUkuJotRAcdJiZiTuLucCYv9uuq.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 89253,
+        "original_language": "en",
+        "original_title": "Like Father Like Son",
+        "overview": "Life for Dee Stanton is improving at every turn. Her legal career is blossoming and her boyfriend Dominic unexpectedly proposes to her. Things were very different 11 years ago when her husband Paul was jailed for the brutal murders of four girls and Dee was hounded from her home. Dee has kept all this a secret from her 15-year-old son Jamie. Now he has discovered the truth about his father and demands to see him.",
+        "popularity": 9.269,
+        "poster_path": "/cDlwpJRYZlPIKqzgeVylZnt2rwE.jpg",
+        "release_date": "2005-01-24",
+        "title": "Like Father Like Son",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kIVM7YUjmitNuChyZugbv7t9sxd.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 143660,
+        "original_language": "ja",
+        "original_title": "襲う！！",
+        "overview": "A policewoman is attacked, handcuffed and raped while on night patrol. Rather than report the incident, she decides to find and punish the rapist herself.",
+        "popularity": 9.267,
+        "poster_path": "/cjNB0L3FVcNxjwuBeU8Eq3cPmBc.jpg",
+        "release_date": "1978-02-04",
+        "title": "Attacked!!",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            18,
+            53
+        ],
+        "id": 1123282,
+        "original_language": "en",
+        "original_title": "Depravity",
+        "overview": "A group of roommates in a US metropolis inadvertently kill an innocent man and proceed on a perilous journey of deception and cover-up.",
+        "popularity": 9.265,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Depravity",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xLaGDBuiWgZ9grp69NbVISEDsXn.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80,
+            53,
+            18
+        ],
+        "id": 96147,
+        "original_language": "hi",
+        "original_title": "Aankhen",
+        "overview": "Two good-for-nothing brothers are embroiled in a conspiracy involving a political assassination and try their best to save the country.",
+        "popularity": 9.263,
+        "poster_path": "/zuLd519jDNN4kXOd3m6IIMslXK3.jpg",
+        "release_date": "1993-09-09",
+        "title": "Aankhen",
+        "video": false,
+        "vote_average": 5.567,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8w0ChLDvXaGSXr6ujMBoCI8u9d8.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 54392,
+        "original_language": "en",
+        "original_title": "The Blue Lamp",
+        "overview": "P.C. George Dixon is a long-serving traditional copper who is due to retire shortly. He takes a new recruit under his aegis and introduces him to the easy-going night beat. Dixon is a classic ordinary hero but also anachronistic, unprepared and unable to answer the violence  of the 1950s.",
+        "popularity": 9.262,
+        "poster_path": "/t8ekJGjiFaPNIvANSgN46oVmbmw.jpg",
+        "release_date": "1950-01-19",
+        "title": "The Blue Lamp",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 48
+    }
+]

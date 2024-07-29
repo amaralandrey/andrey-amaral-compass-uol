@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/nogFh7eQFbBm0wTr9bb6YlnNoiI.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 82,
+        "original_language": "en",
+        "original_title": "Miami Vice",
+        "overview": "A case involving drug lords and murder in South Florida takes a personal turn for undercover detectives Sonny Crockett and Ricardo Tubbs. Unorthodox Crockett gets involved romantically with the Chinese-Cuban wife of a trafficker of arms and drugs, while Tubbs deals with an assault on those he loves.",
+        "popularity": 56.27,
+        "poster_path": "/l2BYL9gMZ9IH9MbykTGqfVnNNpb.jpg",
+        "release_date": "2006-07-27",
+        "title": "Miami Vice",
+        "video": false,
+        "vote_average": 6.003,
+        "vote_count": 1711
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mXEKGETmIJ9jkVoA8FuEb17uFb9.jpg",
+        "genre_ids": [
+            28,
+            80,
+            27
+        ],
+        "id": 45233,
+        "original_language": "it",
+        "original_title": "Blade Violent - I violenti",
+        "overview": "Emanuelle is framed by a corrupt D.A. while investigating a drug smuggling operation and has to tough it out under lock and key, dealing with a strict warden and abusive guards.",
+        "popularity": 56.225,
+        "poster_path": "/ivEWHvm5EiF4eb2l0ieZdz4DRkq.jpg",
+        "release_date": "1983-05-06",
+        "title": "Women's Prison Massacre",
+        "video": false,
+        "vote_average": 4.58,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9fkYHcOtaz4cKmlDWw7tqUr5TUt.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 51540,
+        "original_language": "en",
+        "original_title": "Horrible Bosses",
+        "overview": "For Nick, Kurt and Dale, the only thing that would make the daily grind more tolerable would be to grind their intolerable bosses into dust. Quitting is not an option, so, with the benefit of a few-too-many drinks and some dubious advice from a hustling ex-con, the three friends devise a convoluted and seemingly foolproof plan to rid themselves of their respective employers... permanently.",
+        "popularity": 56.136,
+        "poster_path": "/uQkUwgyFHAm0jGQERPG6Z9o9Zbj.jpg",
+        "release_date": "2011-07-08",
+        "title": "Horrible Bosses",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 6219
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/97i5zrV5Kmhi3NYJ7PzcfHmMNx8.jpg",
+        "genre_ids": [
+            16,
+            35,
+            10751,
+            80
+        ],
+        "id": 10982,
+        "original_language": "en",
+        "original_title": "Hoodwinked!",
+        "overview": "Little Red Riding Hood: A classic story, but there's more to every tale than meets the eye. Before you judge a book by its cover, you've got to flip through the pages. In the re-telling of this classic fable, the story begins at the end of the tale and winds its way back. Chief Grizzly and Detective Bill Stork investigate a domestic disturbance at Granny's cottage, involving a karate-kicking Red Riding Hood, a sarcastic wolf and an oafish Woodsman.",
+        "popularity": 56.054,
+        "poster_path": "/tjuMvHg7NJmE9hqKD3p86kW2Jvk.jpg",
+        "release_date": "2005-12-16",
+        "title": "Hoodwinked!",
+        "video": false,
+        "vote_average": 6.23,
+        "vote_count": 1709
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5GynP6w2OQWSbKnCLHrBIriF4Cw.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 540901,
+        "original_language": "en",
+        "original_title": "Hustlers",
+        "overview": "A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.",
+        "popularity": 55.955,
+        "poster_path": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+        "release_date": "2019-09-12",
+        "title": "Hustlers",
+        "video": false,
+        "vote_average": 6.48,
+        "vote_count": 2873
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xDKuTzBVpJPqFc39H4hctrle87T.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 11001,
+        "original_language": "en",
+        "original_title": "Blue Streak",
+        "overview": "Miles Logan is a jewel thief who just hit the big time by stealing a huge diamond. However, after two years in jail, he comes to find out that he hid the diamond in a police building that was being built at the time of the robbery. In an attempt to regain his diamond, he poses as an LAPD detective.",
+        "popularity": 55.723,
+        "poster_path": "/jek2osBtFhzU6Hjj7yp1egOtbqO.jpg",
+        "release_date": "1999-09-17",
+        "title": "Blue Streak",
+        "video": false,
+        "vote_average": 6.498,
+        "vote_count": 1432
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg",
+        "genre_ids": [
+            878,
+            80,
+            28
+        ],
+        "id": 629176,
+        "original_language": "en",
+        "original_title": "Samaritan",
+        "overview": "Thirteen year old Sam Cleary suspects that his mysteriously reclusive neighbor Mr. Smith is actually the legendary vigilante Samaritan, who was reported dead 25 years ago. With crime on the rise and the city on the brink of chaos, Sam makes it his mission to coax his neighbor out of hiding to save the city from ruin.",
+        "popularity": 55.632,
+        "poster_path": "/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg",
+        "release_date": "2022-08-25",
+        "title": "Samaritan",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 1914
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eA55xGHQMWHzpK4cANUFCUwUaYF.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 524369,
+        "original_language": "en",
+        "original_title": "The Many Saints of Newark",
+        "overview": "Young Anthony Soprano is growing up in one of the most tumultuous eras in Newark, N.J., history, becoming a man just as rival gangsters start to rise up and challenge the all-powerful DiMeo crime family. Caught up in the changing times is the uncle he idolizes, Dickie Moltisanti, whose influence over his nephew will help shape the impressionable teenager into the all-powerful mob boss, Tony Soprano.",
+        "popularity": 55.306,
+        "poster_path": "/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg",
+        "release_date": "2021-09-22",
+        "title": "The Many Saints of Newark",
+        "video": false,
+        "vote_average": 6.358,
+        "vote_count": 635
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nHyri67CN6juBR6hmOefCn9oGf8.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 27581,
+        "original_language": "en",
+        "original_title": "The Other Guys",
+        "overview": "Unlike their heroic counterparts on the force, desk-bound NYPD detectives Gamble and Hoitz garner no headlines as they work day to day. When a seemingly minor case turns out to be a big deal, the two cops get the opportunity to finally prove to their comrades that they have the right stuff.",
+        "popularity": 55.038,
+        "poster_path": "/wNEHNqo3MgHmj3BUiPSqqq5czcm.jpg",
+        "release_date": "2010-08-06",
+        "title": "The Other Guys",
+        "video": false,
+        "vote_average": 6.306,
+        "vote_count": 4060
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6sep7uVzku6bWWYeKG3aqDfBThi.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 9631,
+        "original_language": "en",
+        "original_title": "The Negotiator",
+        "overview": "The police try to arrest expert hostage negotiator Danny Roman, who insists he's being framed for his partner's murder in what he believes is an elaborate conspiracy. Thinking there's evidence in the Internal Affairs offices that might clear him, he takes everyone in the office hostage and demands that another well-known negotiator be brought in to handle the situation and secretly investigate the conspiracy.",
+        "popularity": 54.94,
+        "poster_path": "/moiaZupHkPNd4ryCRqaocjKPeId.jpg",
+        "release_date": "1998-07-29",
+        "title": "The Negotiator",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 2014
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yLEvFfGVXsStEkNQwi9OxAcCDaa.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749,
+            53
+        ],
+        "id": 11558,
+        "original_language": "en",
+        "original_title": "Silver Streak",
+        "overview": "A somewhat daffy book editor on a rail trip from Los Angeles to Chicago thinks that he sees a murdered man thrown from the train. When he can find no one who will believe him, he starts doing some investigating of his own. But all that accomplishes is to get the killer after him.",
+        "popularity": 54.878,
+        "poster_path": "/fNOh3ljmTonQ9kuICJhp02bXGDg.jpg",
+        "release_date": "1976-12-03",
+        "title": "Silver Streak",
+        "video": false,
+        "vote_average": 6.73,
+        "vote_count": 311
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xiAyufulheAWDWuZPVvV3Q9LIXc.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 799710,
+        "original_language": "ko",
+        "original_title": "더 와일드: 야수들의 전쟁",
+        "overview": "Woo-chul used to be a successful boxer, but he had to go to prison because his opponent died in the middle of a match. Now that he’s been released, he intends to become a model citizen. Meanwhile, his friend Do-shik will do whatever it takes to get ahead. After choosing different paths, they will be forced to plot against and betray one another.",
+        "popularity": 54.734,
+        "poster_path": "/t9GEcmN1ihe4qsGmhIEGvHT9ywY.jpg",
+        "release_date": "2023-11-15",
+        "title": "The Wild",
+        "video": false,
+        "vote_average": 5.233,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2NArMoObkAbnIPvqlHC3gRGsfBb.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 11423,
+        "original_language": "ko",
+        "original_title": "살인의 추억",
+        "overview": "During the late 1980s, two detectives in a South Korean province attempt to solve the nation's first series of rape-and-murder cases.",
+        "popularity": 54.657,
+        "poster_path": "/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
+        "release_date": "2003-05-02",
+        "title": "Memories of Murder",
+        "video": false,
+        "vote_average": 8.061,
+        "vote_count": 3661
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rWFLgIRGXzECIbczgo7dmnwq55q.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 8068,
+        "original_language": "en",
+        "original_title": "Desperado",
+        "overview": "Mariachi plunges headfirst into the dark border underworld when he follows a trail of blood to the last of the infamous Mexican drug lords, Bucho, for an action-packed, bullet-riddled showdown. With the help of his best friend and a beautiful bookstore owner, the Mariachi tracks Bucho, takes on his army of desperados, and leaves a trail of blood of his own.",
+        "popularity": 54.563,
+        "poster_path": "/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
+        "release_date": "1995-08-25",
+        "title": "Desperado",
+        "video": false,
+        "vote_average": 6.932,
+        "vote_count": 2764
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vGyWFIyTN3U7SvbnT0BWQvXXzM5.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80,
+            18
+        ],
+        "id": 1039690,
+        "original_language": "en",
+        "original_title": "Desperation Road",
+        "overview": "Ex-con Russell Gaines is attempting to rebuild his life with the help of his father, Mitchell. However, the arrival of Maben sends his new life into chaos, leading the pair to go on the run - as their violent pasts catch up to them, the pair must learn to trust each other if they hope to live out the rest of their days.",
+        "popularity": 54.551,
+        "poster_path": "/tPyj6Gii1HrnzCbJXEF7JdSFkQ8.jpg",
+        "release_date": "2023-10-19",
+        "title": "Desperation Road",
+        "video": false,
+        "vote_average": 6.651,
+        "vote_count": 86
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lWcNlDMmZ6xJVoCZjhFxqVl0TIa.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            36,
+            53
+        ],
+        "id": 388399,
+        "original_language": "en",
+        "original_title": "Patriots Day",
+        "overview": "In the aftermath of an unspeakable act of terror, Police Sergeant Tommy Saunders joins courageous survivors, first responders and investigators in a race against the clock to hunt down the Boston Marathon bombers before they strike again.",
+        "popularity": 54.333,
+        "poster_path": "/mIDxsJTrOC7NhgOo3GziiHyKfsQ.jpg",
+        "release_date": "2016-12-12",
+        "title": "Patriots Day",
+        "video": false,
+        "vote_average": 7.054,
+        "vote_count": 2544
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sKJOOzIR5oMiCeXC7gBxXgIDz9p.jpg",
+        "genre_ids": [
+            28,
+            80,
+            878
+        ],
+        "id": 302156,
+        "original_language": "en",
+        "original_title": "Criminal",
+        "overview": "CIA Agent Bill Pope is on a mission to track down a shadowy hacker named 'The Dutchman'. When he gets mysteriously killed, an experimental procedure transfers his memories into a dangerous ex-convict. When he wakes up Pope's memories, his mission is to eliminate The Dutchman before the hacker launches ICBMs and starts World War III.",
+        "popularity": 54.31,
+        "poster_path": "/lm0NlIsgGDqdx7CGFCDDJo1ptgh.jpg",
+        "release_date": "2016-04-07",
+        "title": "Criminal",
+        "video": false,
+        "vote_average": 6.196,
+        "vote_count": 1680
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gsJsFlnNrjjfVHjRW9sSpVDpwIx.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 10474,
+        "original_language": "en",
+        "original_title": "The Basketball Diaries",
+        "overview": "A high school basketball player’s life turns upside down after free-falling into the harrowing world of drug addiction.",
+        "popularity": 54.309,
+        "poster_path": "/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+        "release_date": "1995-04-21",
+        "title": "The Basketball Diaries",
+        "video": false,
+        "vote_average": 7.394,
+        "vote_count": 1933
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sRZjzfBbBwRVI8oO5OtkaCYPFad.jpg",
+        "genre_ids": [
+            18,
+            53,
+            28,
+            80
+        ],
+        "id": 2924,
+        "original_language": "en",
+        "original_title": "Backdraft",
+        "overview": "Firemen brothers Brian and Stephen McCaffrey battle each other over past slights while trying to stop an arsonist with a diabolical agenda from torching Chicago.",
+        "popularity": 54.237,
+        "poster_path": "/bymJtYNIdiAiBR1LRetaJXbfryc.jpg",
+        "release_date": "1991-05-24",
+        "title": "Backdraft",
+        "video": false,
+        "vote_average": 6.649,
+        "vote_count": 1370
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9U62oMhoJeLPJrg0r6KqsKH967H.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 526007,
+        "original_language": "en",
+        "original_title": "The Night Clerk",
+        "overview": "Hotel night clerk Bart Bromley is a highly intelligent young man on the Autism spectrum. When a woman is murdered during his shift, Bart becomes the prime suspect. As the police investigation closes in, Bart makes a personal connection with a beautiful guest named Andrea, but soon realises he must stop the real murderer before she becomes the next victim.",
+        "popularity": 53.964,
+        "poster_path": "/hPWjid7yMatyIDHvku7lCMN7zSi.jpg",
+        "release_date": "2020-02-19",
+        "title": "The Night Clerk",
+        "video": false,
+        "vote_average": 6.216,
+        "vote_count": 726
+    }
+]

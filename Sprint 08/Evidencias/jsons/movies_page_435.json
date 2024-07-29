@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/99Hiz1LA71V85J9SLfSq0aVLoeB.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 212502,
+        "original_language": "hi",
+        "original_title": "Ek Aur Ek Gyarah: By Hook or by Crook",
+        "overview": "Two petty thieves Tara and Sitara get on the bad side of two wanted criminals, namely Panther and Cobra.",
+        "popularity": 7.72,
+        "poster_path": "/4G4etYFM9aL4nMsv4jyxXdYlowl.jpg",
+        "release_date": "2003-08-06",
+        "title": "Ek Aur Ek Gyarah: By Hook or by Crook",
+        "video": false,
+        "vote_average": 5.946,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80,
+            35
+        ],
+        "id": 1001867,
+        "original_language": "en",
+        "original_title": "Auxiliary Man",
+        "overview": "A neurotic would-be hitman gets his first assignment trailing a pill-peddling scumbag in the San Fernando Valley, but nothing goes as planned.",
+        "popularity": 7.719,
+        "poster_path": "/v0EPQd4ANGTX4H5u8OpYZd2wrZL.jpg",
+        "release_date": "",
+        "title": "Auxiliary Man",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ejttWJEHWrmDepTqdJ0tZRkHIIg.jpg",
+        "genre_ids": [
+            80,
+            35,
+            10751
+        ],
+        "id": 130024,
+        "original_language": "en",
+        "original_title": "The Amazing Dobermans",
+        "overview": "An ex-con man and his five trained Dobermans help a Treasury Dept. agent stop a racketeer and his gang.",
+        "popularity": 7.719,
+        "poster_path": "/htM7PcpsL4kLqdGEZMMnYzXmeto.jpg",
+        "release_date": "1976-11-24",
+        "title": "The Amazing Dobermans",
+        "video": false,
+        "vote_average": 5.591,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5H721KIPUTPSTFkxPtXXiod0WHN.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 54664,
+        "original_language": "en",
+        "original_title": "The Man with Two Faces",
+        "overview": "Actress Jessica Wells, sister of actor Damon Wells, is on top of her form except when her husband Vance is around. When Vance takes her to the apartment of a theatrical producer she comes home incoherent and Vance is found dead in the vanished producer's hotel suite",
+        "popularity": 7.718,
+        "poster_path": "/jpQ3AC9dB0lXvr6ZFpQXmqHamjg.jpg",
+        "release_date": "1934-08-04",
+        "title": "The Man with Two Faces",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            18,
+            80,
+            10752
+        ],
+        "id": 209625,
+        "original_language": "ja",
+        "original_title": "忍びの衆",
+        "overview": "The Shinobi-no-Mono series was so successful that Daiei Studios dipped into the well one more time, making the best 60′s B&amp;W ninja movie ever seen in the otherwise color-dominated year of 1970. Issei Mori directs Hiroki Matsukata as the reluctant leader of a small band of spies charged with kidnapping a noblewoman from a heavily ninja-proofed castle. The finality of the air slowly began to fill like smoke, and in all that had become dark the loyalty of the Ninja who dared to go shone like light as they entered a world shrouded in mystery. Things do not go as planned in what is possibly the darkest and most fatalistic of the already noir-ish 60′s fare. Both the decade and it’s distinctive style of shinobi cinema went out on a high note with Mission Iron Castle.",
+        "popularity": 7.717,
+        "poster_path": "/n1iQFRHgq0DKHrQD2N6y3oqteqI.jpg",
+        "release_date": "1970-02-07",
+        "title": "Mission: Iron Castle",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zM2IlrRerCxkfRfIHTZy0Mp9W3K.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 47902,
+        "original_language": "en",
+        "original_title": "Meskada",
+        "overview": "Small-town detective Noah Cordin is called to solve a juvenile homicide that occurred during a home burglary in his affluent town of Hilliard. The dead boy's mother, Allison Connor, is a member of the Meskada County Board of Commissioners, and a powerful woman in Hilliard; and the entire township rallies together in solidarity - to support her and Detective Cordin's efforts to find the killers.",
+        "popularity": 7.717,
+        "poster_path": "/oNmq7mBaj0HkFBb8CsHz0diFnBY.jpg",
+        "release_date": "2010-10-03",
+        "title": "Meskada",
+        "video": false,
+        "vote_average": 5.025,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ltSGhDJ9vcSFULZXYoTxtJ9qHlU.jpg",
+        "genre_ids": [
+            9648,
+            35,
+            80,
+            10770
+        ],
+        "id": 37444,
+        "original_language": "en",
+        "original_title": "A Slight Case of Murder",
+        "overview": "In the midst of a spat, film critic Terry Thorpe accidentally kills his lover. Though Thorpe covers his tracks, he raises the suspicions of a private investigator, who then tries to blackmail him. Thorpe also falls under the watchful eye of Detective Fred Stapelli, a cop who is intent on becoming a screenwriter. Before long, Thorpe's girlfriend, Kit, and Stapelli's wife, Patricia, are roped into the case.",
+        "popularity": 7.717,
+        "poster_path": "/8lzixEbonNLJHhKSEWiMKJUVxMs.jpg",
+        "release_date": "1999-09-19",
+        "title": "A Slight Case of Murder",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cwZ54HFhjqMB6Rw3QCUpRi0snYW.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10751
+        ],
+        "id": 14387,
+        "original_language": "en",
+        "original_title": "The Great St. Trinian's Train Robbery",
+        "overview": "The all-girl school foil an attempt by train robbers to recover two and a half million pounds hidden in their school.",
+        "popularity": 7.715,
+        "poster_path": "/2Qfnd1FsAmouFTczKoFbRUccqSO.jpg",
+        "release_date": "1966-03-11",
+        "title": "The Great St. Trinian's Train Robbery",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 387540,
+        "original_language": "cn",
+        "original_title": "迷姦犯",
+        "overview": "Correction Officer Kwok Kam Hung is a gambling addict and owes a large sum of money, so he constantly makes money through the inmates. The department finds out and fires him. Unemployed, Hung seeks other means to survive and recalls a trick formula that will daze the victim and take the victim's money. He first tries and succeeds in dazing a prostitute and taking her money. Hung then decides to inject the daze drug into drinks in convenient stores.",
+        "popularity": 7.712,
+        "poster_path": "/YXRmMjpdOn8OD1pIBv36fTjb7w.jpg",
+        "release_date": "1995-11-22",
+        "title": "Daze Raper",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6zQP4kC8df8qLeuV95TEtxDA8DK.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 245787,
+        "original_language": "fr",
+        "original_title": "Le glaive et la balance",
+        "overview": "Three young men are suspected of kidnapping and murdering a little boy. Most likely, two of them are really involved, but one is not. All of their pasts are questionable, riddled with violence and controversy. Neither the police nor the court can decide how to solve that puzzle.",
+        "popularity": 7.712,
+        "poster_path": "/xyXM2KfTTYFDPqOu83q8WWWFWCY.jpg",
+        "release_date": "1963-02-01",
+        "title": "The Sword and the Balance",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Wo2uxtacPNyNqkscb89S5Gr6b1.jpg",
+        "genre_ids": [
+            10770,
+            18,
+            80
+        ],
+        "id": 1074896,
+        "original_language": "en",
+        "original_title": "Hoax: The Kidnapping of Sherri Papini",
+        "overview": "Young mother Sherri Papini disappears while jogging and reappears three weeks later on Thanksgiving Day. She claims that two Hispanic women kidnapped and abused her. Four years later, new evidence reveals that her abduction was a hoax she perpetrated to spend time with an ex-boyfriend.",
+        "popularity": 7.711,
+        "poster_path": "/vgNozMzSJMxAt5TJbN83lGf7dZf.jpg",
+        "release_date": "2023-01-28",
+        "title": "Hoax: The Kidnapping of Sherri Papini",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wHmvmHwTTJlZDskWScifdt1mj2G.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 65532,
+        "original_language": "fr",
+        "original_title": "Les Inconnus dans la maison",
+        "overview": "Loursat, a lawyer, lives with his daughter Nicole in a sinister and vast bourgeois residence. Abandoned for nearly twenty years by his wife, the brilliant lawyer has sunk into alcoholism and his relationship with his daughter is virtually non-existent. However, one day the corpse of a stranger is discovered in the residence of Loursat. Nicole, who frequents a gang of young people who escape boredom by stealing cars and other objects, is immediately suspected.",
+        "popularity": 7.711,
+        "poster_path": "/6KmXdqNnAoAKOQgXaJtb6geaU7g.jpg",
+        "release_date": "1942-05-16",
+        "title": "Strangers in the House",
+        "video": false,
+        "vote_average": 7.028,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ubkLP6TNtVvZ0FLbZ8Y8BfgtQcm.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 1112842,
+        "original_language": "ja",
+        "original_title": "仕掛人・藤枝梅安2",
+        "overview": "The main character, Baian Fujieda, is a dark hero who has two faces: one as a skilled acupuncturist who saves lives, and the other as a criminal who buries evil that cannot be kept alive for the sake of others. Popular writer Shotaro Ikenami's historical novel series of the same title, on which the film \"BAIAN The Assassin, M.D.\" is based, is a blockbuster bestseller with a total of over 6 million copies in print and has been made into a timeless entertainment film many times in Japan.  Many famous actors have played the role of Baian, including Ken Watanabe. The year 2023 marks the 100th anniversary of Shotaro Ikenami's birth. In the anniversary year of 2023, a new \"BAIAN The Assassin, M.D.\" is born.",
+        "popularity": 7.709,
+        "poster_path": "/iLiPdSz4C4xPOrdnxOgduRfJ6HK.jpg",
+        "release_date": "2023-04-07",
+        "title": "Baian the Assassin, M.D.: Part 2",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yULy28oYeakpux4zwYFEZTcOlK1.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 281536,
+        "original_language": "en",
+        "original_title": "OK Garage",
+        "overview": "A lovely school teacher finds herself the victim of a scam artist - a garage owner who delights in ripping off his customers. Soon, she has two eager young men, her lizard-loving neighbour and his friend, on her side to help her exact revenge on the sleazy mechanic, who is the leader of a stolen car ring.",
+        "popularity": 7.708,
+        "poster_path": "/sqlRDy5RvXrqEIRUFvbTBDrvGDl.jpg",
+        "release_date": "1998-04-19",
+        "title": "All Revved Up",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 165847,
+        "original_language": "en",
+        "original_title": "Paper Bullets",
+        "overview": "Alcoholic cop John Rourke finds a trail of corruption after a gunman opens fire on a police conference.",
+        "popularity": 7.708,
+        "poster_path": "/jF998vvuhHofxLjzlY5LcnD52S3.jpg",
+        "release_date": "2000-10-23",
+        "title": "Paper Bullets",
+        "video": false,
+        "vote_average": 3.125,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xnzsml50TUShiNqDjbxg8qIbSkg.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            18
+        ],
+        "id": 315362,
+        "original_language": "sv",
+        "original_title": "Beck 28 - Familjen",
+        "overview": "When a well-known crime boss is murdered by a sniper in front of his family, Beck and his team are challenged to discover which one of his many enemies could be responsible for the crime.",
+        "popularity": 7.706,
+        "poster_path": "/fF30DiIwFp14Od9yvpcETI6tXIq.jpg",
+        "release_date": "2015-01-10",
+        "title": "Beck 28 - The Family",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zXN9OlOc2hdK5bTWxT6nVFywdEV.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 107325,
+        "original_language": "en",
+        "original_title": "Diamonds",
+        "overview": "Charles Hodgson is a British aristocrat who decides to become a thief as a way of getting at his twin brother, Earl, a security expert who has built a supposedly impregnable vault in Tel Aviv, which holds a cache of diamonds. For the caper, Charles enlists Archie, a heist expert, and Sally. He also becomes acquainted with an American woman, Zelda Shapiro, who is in Israel looking for a new husband.",
+        "popularity": 7.705,
+        "poster_path": "/tws7DJZSlqWwAzTZsB6sdAiWeTB.jpg",
+        "release_date": "1975-10-22",
+        "title": "Diamonds",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 870028,
+        "original_language": "en",
+        "original_title": "The Accountant 2",
+        "overview": "When Medina's former boss is killed by unknown assassins, she's forced to contact Christian to solve the murder. With the help of his estranged but highly lethal brother Brax, Chris applies his brilliant mind and less-than-legal methods to piece together the unsolved puzzle. As they get closer to the truth, the trio draw the attention of some of the most ruthless killers alive — all intent on putting a stop to their search.",
+        "popularity": 7.704,
+        "poster_path": null,
+        "release_date": "",
+        "title": "The Accountant 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zN8uRvXT2lYeGgwsppq234serL2.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 90074,
+        "original_language": "en",
+        "original_title": "It's Murder!",
+        "overview": "The film tells the story of a family whose uncle is murdered. The son gets everything because he's in the will. The detective is trying to find out who murdered the uncle, while trying to avoid ending up dead as well.",
+        "popularity": 7.704,
+        "poster_path": "/9YzwMcZssTlXWnBqBiJ7XmxDwEH.jpg",
+        "release_date": "1977-01-01",
+        "title": "It's Murder!",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9CvlUmnyWXRwL6l2m00ien8QKQH.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 119140,
+        "original_language": "ja",
+        "original_title": "不良少女　魔子",
+        "overview": "Patronized by a gang ruling the city, Mako delinquently plays around a night club every night with her bad company. One night, a guy Hideo gets closer to her for one-night stand, and they consequently fall in love. However, Hideo is killed by the gang. Mako swears vengeance on her beloved's murderer.",
+        "popularity": 7.703,
+        "poster_path": "/zJxF1sbzA9pa6mAxuxF7MnF5Ycx.jpg",
+        "release_date": "1971-08-25",
+        "title": "Bad Girl Mako",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 4
+    }
+]

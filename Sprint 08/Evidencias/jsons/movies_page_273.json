@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 542624,
+        "original_language": "en",
+        "original_title": "Dark Web",
+        "overview": "The true story of a 29-year-old idealist named Ross William Ulbricht (aka Dread Pirate Roberts) who built an online illegal-drug marketplace called \"The Silk Road\" and along the way allegedly became a murderous kingpin.",
+        "popularity": 11.299,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Dark Web",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2PruPXWz2CNIfS89jjRNeLJXBYU.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 1148694,
+        "original_language": "zh",
+        "original_title": "东北警察故事2",
+        "overview": "",
+        "popularity": 11.297,
+        "poster_path": "/uFUBRvuk6LzD9oEwSFAGZc2i1kn.jpg",
+        "release_date": "2023-07-08",
+        "title": "Fight Against Evil 2",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/osI6wguuZwoOaggttxjJoOEKx28.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 147498,
+        "original_language": "cn",
+        "original_title": "我在黑社會的日子",
+        "overview": "Li Man-Ho comes to Hong Kong after his father's death following a double crossed peace meeting at the hands of a rival gang. The family's business begins to crumble as rival organizations stir violence and trouble in acknowledgment of this weakness. Li Man-Ho reluctantly agrees after pressure from other members to temporarily act as leader in order to restore stability and order. But he is soon faced with violence, betrayal and confusion, in this world he tried so long to avoid.",
+        "popularity": 11.296,
+        "poster_path": "/gEkqDScQbYrAMPseQGJJCtEXgll.jpg",
+        "release_date": "1989-08-03",
+        "title": "Triads: The Inside Story",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d92fuqhTpVZL3y9nWl0azkQUUdE.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 55382,
+        "original_language": "ja",
+        "original_title": "踊る大捜査線 THE MOVIE",
+        "overview": "Aoshima, a police detective working in the Bayside Precinct, is continually frustrated by the hierarchy and red tape that plague the system. His friend Muroi is climbing the ladder of the police bureaucracy. Muroi has made a pact with Aoshima that while Aoshima looks after the streets, Muroi would make life easier for the cops on the beat. One day in Bayside, a series of events turns the small station upside down.",
+        "popularity": 11.295,
+        "poster_path": "/4pveFVl8gyGrnfD4Tr8icw2fAjY.jpg",
+        "release_date": "1998-10-31",
+        "title": "Bayside Shakedown",
+        "video": false,
+        "vote_average": 6.563,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/khbg0wAflDw9rAFfiww731DBFbM.jpg",
+        "genre_ids": [
+            10752,
+            18,
+            53,
+            80,
+            10749
+        ],
+        "id": 55240,
+        "original_language": "en",
+        "original_title": "Uncertain Glory",
+        "overview": "In occupied France, a convicted thief and murderer escapes the guillotine when a bombing raid strikes the prison, but is quickly re-captured by the inspector of the Surete responsible for his original arrest. Fearing the guillotine more than his actual death, the convict inveigles the inspector to help him with a plan to rescue 100 Frenchmen taken by the Gestapo following an act of sabotage: he will confess to being the saboteur and allow himself to be executed by firing squad, the Gestapo's method of execution, thus freeing the 100 men.",
+        "popularity": 11.295,
+        "poster_path": "/uCGksCMaDEqacHEnsn2zNvpquQY.jpg",
+        "release_date": "1944-04-07",
+        "title": "Uncertain Glory",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5uWYbklhgBtr9P90IvhY8g4BgR.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 72083,
+        "original_language": "es",
+        "original_title": "Muerte de un ciclista",
+        "overview": "A couple having an affair strike a bicyclist with their car and do not offer aid out of fear of their relationship being exposed.",
+        "popularity": 11.294,
+        "poster_path": "/j9vR2ljPzoDJy76qR6yQgBLzgM7.jpg",
+        "release_date": "1955-09-07",
+        "title": "Death of a Cyclist",
+        "video": false,
+        "vote_average": 7.144,
+        "vote_count": 97
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n2gRVwBcqn7gv34cfRmCC6lgETF.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            10749
+        ],
+        "id": 374739,
+        "original_language": "en",
+        "original_title": "Flower Shop Mystery: Mum's the Word",
+        "overview": "Abby Knight, a former lawyer turned proud flower shop owner is starting over after the death of her husband with the support from her father, a new business and her daughter off to college. Life is good in the peaceful town of New Chapel but when a black SUV rams her prized vintage car, she’s determined to track down the driver. She begrudgingly accepts the help of a new neighbor, the handsome and charming ex-Marine Marco Salvare who just bought the bar down the street.",
+        "popularity": 11.291,
+        "poster_path": "/yybzcfZJkgGWEnuuZTcBNKh2gXU.jpg",
+        "release_date": "2016-01-17",
+        "title": "Flower Shop Mystery: Mum's the Word",
+        "video": false,
+        "vote_average": 6.897,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7iUczTfq7S5B2fIQVlVnLt7YGIS.jpg",
+        "genre_ids": [
+            10770,
+            12,
+            80,
+            18
+        ],
+        "id": 79106,
+        "original_language": "en",
+        "original_title": "Sherlock Holmes: Incident at Victoria Falls",
+        "overview": "King Edward asks Sherlock Holmes to perform one more task before his retirement: to safeguard the Star of Africa on a trip to Cape Town. Soon the fabled jewel is stolen and several people end up being murdered.",
+        "popularity": 11.289,
+        "poster_path": "/wLFifMWbjGnLo8Zc8hy1qu9ofs3.jpg",
+        "release_date": "1992-02-19",
+        "title": "Sherlock Holmes: Incident at Victoria Falls",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b8XmJxOpihoaJ6eVSg0N2j4nK8j.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 26635,
+        "original_language": "en",
+        "original_title": "Brother Orchid",
+        "overview": "When retired racket boss John Sarto tries to reclaim his place and former friends try to kill him, he finds solace in a monastery and reinvents himself as a pious monk.",
+        "popularity": 11.285,
+        "poster_path": "/qf2Qr4cBrjpu3ZqiKaa3pP6T7Rr.jpg",
+        "release_date": "1940-06-07",
+        "title": "Brother Orchid",
+        "video": false,
+        "vote_average": 6.422,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h7W065cQV1qtIkFIePFasLZSMCA.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 51079,
+        "original_language": "en",
+        "original_title": "Piccadilly",
+        "overview": "A young Chinese woman, working in the kitchen at a London dance club, is given the chance to become the club's main act.",
+        "popularity": 11.283,
+        "poster_path": "/biZjt8E9ljayP80tZPXgWKBiiyn.jpg",
+        "release_date": "1929-02-01",
+        "title": "Piccadilly",
+        "video": false,
+        "vote_average": 6.345,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mcKpcvRMR5APotccfZ44sdMkuxP.jpg",
+        "genre_ids": [
+            80,
+            28,
+            27
+        ],
+        "id": 54008,
+        "original_language": "en",
+        "original_title": "Sugar Hill",
+        "overview": "When her boyfriend is brutally murdered, after refusing to be shaken down by the local gangsters running their protection racket, Sugar Hill, decides not to get mad, but BAD! Calling upon the help of aged voodoo queen Mama Maitresse, Sugar entreats her to call upon Baron Zamedi, the Lord of the Dead, for help in gaining a gruesome revenge. In exchange for her soul, the Dark Master raises up a zombie army to do her bidding. The bad guys who thought they were getting away clean are about to find out that they're DEAD wrong.",
+        "popularity": 11.281,
+        "poster_path": "/dbvItLuu3qCZElHCYZgXxWMmm66.jpg",
+        "release_date": "1974-02-01",
+        "title": "Sugar Hill",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/khL5ru8ngMTLabgaHmVPufxr7t.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 416859,
+        "original_language": "en",
+        "original_title": "Blood Money",
+        "overview": "Hardened criminal Lester is in prison for armed robbery and murder. When his request for parole is refused, he escapes and hatches a plan for revenge and make him rich. He leads two gang members to the home of a witness who helped put him in jail. But the FBI and a SWAT team are on his trail...",
+        "popularity": 11.278,
+        "poster_path": "/jG4BFuN1p29bmVs5wwvvrBIoPYt.jpg",
+        "release_date": "1996-01-01",
+        "title": "Blood Money",
+        "video": false,
+        "vote_average": 2.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aeoIkuAsf1a1zz6HlDhqztEfSUl.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 1092823,
+        "original_language": "en",
+        "original_title": "Sumotherhood",
+        "overview": "Riko and Kane have got it all: big dreams, no respect and a fifteen grand debt. Could things get any worse? Yes! So, it’s time to man up and finally be taken serious as “Roadmen”. Once putting their heads together on various ways to make some money, they decide to rob a megastar in a nightclub toilet and hold up the local bank but things inevitably don’t go to plan!",
+        "popularity": 11.276,
+        "poster_path": "/vqCW6r75j092lVge7nkzgDBycJH.jpg",
+        "release_date": "2023-10-13",
+        "title": "Sumotherhood",
+        "video": false,
+        "vote_average": 5.389,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2aYbWGq0ANX68ZhVtPUHbgUUsGn.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 730428,
+        "original_language": "hi",
+        "original_title": "क्लास ऑफ '83",
+        "overview": "A hero policeman shunted to a punishment posting as the Dean of the police academy decides to punish the corrupt bureaucracy and its criminal allies in return by training five lethal assassin policemen.",
+        "popularity": 11.275,
+        "poster_path": "/exlQEMxbolmsCE4D5Ky6u4onnvC.jpg",
+        "release_date": "2020-08-21",
+        "title": "Class of '83",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/saTFZ5AYh6Ol3x9fIby72Gnp7CA.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            10770
+        ],
+        "id": 126341,
+        "original_language": "en",
+        "original_title": "Miami Vice: Brother's Keeper",
+        "overview": "Miami detective Sonny Crockett reluctantly teams with New York City cop Rico Tubbs when both of them end up pursuing a drug dealer who killed their respective partners.",
+        "popularity": 11.273,
+        "poster_path": "/vwdNH6M3bevgG66d2FEDROocqFR.jpg",
+        "release_date": "1984-09-16",
+        "title": "Miami Vice: Brother's Keeper",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 55932,
+        "original_language": "en",
+        "original_title": "Pros & Cons",
+        "overview": "Framed for crimes they didn't commit, two small-timers are headed up the river without a paddle. Now, the only thing that can bail them out is a case of mistaken identity. It's the hysterical prison comedy that's so funny, it's criminal!",
+        "popularity": 11.273,
+        "poster_path": "/ougm7anCKlsuVv9D9F9PkebgkUO.jpg",
+        "release_date": "1999-01-01",
+        "title": "Pros & Cons",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yBwvPmdF1dRuTBB4i4BW8mIS2Is.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 3521,
+        "original_language": "de",
+        "original_title": "Das Rätsel der roten Orchidee",
+        "overview": "Rival gangsters from Chicago move to London and attempt to extort money from rich Britons.",
+        "popularity": 11.271,
+        "poster_path": "/x161bE8ULUl3BLg64wuBvrkQily.jpg",
+        "release_date": "1962-03-01",
+        "title": "Secret of the Red Orchid",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sa85yRz5asOPKx49aubcbCmKj2b.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 8064,
+        "original_language": "de",
+        "original_title": "Chiko",
+        "overview": "This is the story of Isa, who grows up in a Hamburg suburb. It might be one of the world's richest cities but every beast has its belly and here, in the very underbelly, Chiko lives in a world where violence, staking and keeping a claim, and drug taking are the norm. Where down is not an option, Chiko is determined to rise to the top, whatever and whomever it costs.",
+        "popularity": 11.269,
+        "poster_path": "/7jvu0BUsrsojDVDmar3QddRgCEF.jpg",
+        "release_date": "2008-02-09",
+        "title": "Chiko",
+        "video": false,
+        "vote_average": 6.369,
+        "vote_count": 65
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 1149953,
+        "original_language": "en",
+        "original_title": "Bunker",
+        "overview": "Trapped in an underground fallout shelter, six people fight to stay alive as oxygen - and trust in each other - runs out.",
+        "popularity": 11.267,
+        "poster_path": "/54v9EGwhfS96m5FCGnHKssdwgQ8.jpg",
+        "release_date": "2024-10-17",
+        "title": "Bunker",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hsTF6EYXXYJHNb2pnG30atLTvga.jpg",
+        "genre_ids": [
+            35,
+            12,
+            80,
+            14
+        ],
+        "id": 1083164,
+        "original_language": "en",
+        "original_title": "ZAPPER!",
+        "overview": "In a surreal universe where bananas fire laser beams and soup cans are used as grenades, a wacky cast of gangsters are thrown into a deadly game to battle it out over a mystical longboard in this trippy take on the Tarantino crime genre.",
+        "popularity": 11.265,
+        "poster_path": "/h4LCmzfMsNdXRorme9SvwDiDvf8.jpg",
+        "release_date": "2023-02-11",
+        "title": "ZAPPER!",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 4
+    }
+]

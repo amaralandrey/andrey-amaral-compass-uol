@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/1OCxbH2TTzTiar5iMAmOYGwr0kG.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 90770,
+        "original_language": "it",
+        "original_title": "I vinti",
+        "overview": "A trilogy of stories of well-off youths who commit murders. In the French episode, a group of high school students kill one of their colleagues for his money. In the Italian episode, a university student's involved in smuggling cigarettes. In the English episode, a lazy poet finds the body of a woman on the downs, and tries to sell his story to the press.",
+        "popularity": 11.657,
+        "poster_path": "/luIGHd6YIwIfs7woRAinM7ef637.jpg",
+        "release_date": "1953-10-22",
+        "title": "The Vanquished",
+        "video": false,
+        "vote_average": 6.368,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xZOaPcq6Dd1umdN5RbpEV0nB2CT.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 976699,
+        "original_language": "en",
+        "original_title": "Cinnamon",
+        "overview": "Follows a struggling small-town gas station attendant and aspiring singer, Jodi Jackson, whose life is sent into a tailspin when there’s a robbery at work.",
+        "popularity": 11.651,
+        "poster_path": "/oWGvRrNdKFZY1NXgCg8F88HL8Q6.jpg",
+        "release_date": "2023-06-11",
+        "title": "Cinnamon",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            28
+        ],
+        "id": 806704,
+        "original_language": "en",
+        "original_title": "The Batman - Part II",
+        "overview": "Sequel to the 2022 film The Batman.",
+        "popularity": 11.645,
+        "poster_path": "/qwDWC2OzPw9zGc2lVCbjDrdaL6A.jpg",
+        "release_date": "2026-10-01",
+        "title": "The Batman - Part II",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 10006,
+        "original_language": "en",
+        "original_title": "Wild Seven",
+        "overview": "In this darkly karmic vision of Arizona, a man who breathes nothing but ill will begins a noxious domino effect as quickly as an uncontrollable virus kills. As he exits Arizona State Penn after twenty-one long years, Wilson has only one thing on the brain, leveling the score with career criminal, Mackey Willis. As eccentric and intuitive as he is vicious, Mackey's own perfected criminal game will play right into the path Wilson has set for him. With the help of a prison bus driver, Lee Marvin, Wilson acts as a catalyst, putting a plan into action that will bring an untimely end to Mackey Willis. The problem is, nothing goes exactly as planned.",
+        "popularity": 11.644,
+        "poster_path": "/y114dTPoqn8k2Txps4P2tI95YCS.jpg",
+        "release_date": "2006-01-01",
+        "title": "Wild Seven",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ittWeKaVv8AVEVCI7QEhJKZlCyi.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 16128,
+        "original_language": "en",
+        "original_title": "Fist of the Warrior",
+        "overview": "First-class assassin Lee Choe has spent years working for the mob. When his handler turns on him by killing his girlfriend and framing him for the murder, Lee stops at nothing to seek revenge. He fights back with a vengeance and violently punishes those who played a part in the death of his innocent love.",
+        "popularity": 11.643,
+        "poster_path": "/wKy2Tvs7okv6LoSouEKsNJdUpja.jpg",
+        "release_date": "2007-06-04",
+        "title": "Fist of the Warrior",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d3Gpv0adTHO7kcuKZvOcXSETSur.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 81462,
+        "original_language": "en",
+        "original_title": "Short Eyes",
+        "overview": "A young man who is charged with child molestation is placed in New York City’s infamous Tombs prison. When the other inmates in his cell block find out what he is charged with, life becomes extremely difficult for him.",
+        "popularity": 11.642,
+        "poster_path": "/mtgLebvVu9WLfkJXgcPyigcrozY.jpg",
+        "release_date": "1977-09-28",
+        "title": "Short Eyes",
+        "video": false,
+        "vote_average": 6.803,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f8bXJR7R9RCHM7muG0pqoRzHBD3.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36,
+            10752
+        ],
+        "id": 577114,
+        "original_language": "tr",
+        "original_title": "Çiçero",
+        "overview": "Ilyas Bazna works as a butler in the British Embassy in Turkey during WW2. After Bazna starts to work as a German spy he is going to experience a series of unexpected events.",
+        "popularity": 11.635,
+        "poster_path": "/twsjEyjnB4I4s2Eq19mh5xUwWhl.jpg",
+        "release_date": "2019-01-18",
+        "title": "Operation Cicero",
+        "video": false,
+        "vote_average": 6.102,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cdVBttrVTtj9e6FCmZWXI0kBb24.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 69574,
+        "original_language": "ja",
+        "original_title": "ヌードの夜／愛は惜しみなく奪う",
+        "overview": "A beautiful mother and her two daughters run a bar in a town. They have a dream of becoming rich, reforming the building, and living as celebrities. With no chance of their dream coming true with just their everyday earnings, they had another face - blinding the elderly with their beauty, putting on insurance coverage and seeking to get rich quick by murdering. However, their scheme begins to collapse from one little mistake.",
+        "popularity": 11.635,
+        "poster_path": "/eP0Q7IZicbaXeKsD0lt9NAKnSuD.jpg",
+        "release_date": "2010-10-02",
+        "title": "A Night in Nude: Salvation",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/byFvyxWDBcv6IhhLubSKREX4WiD.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 78353,
+        "original_language": "en",
+        "original_title": "Lucky Lady",
+        "overview": "When an American booze smuggler gets murdered in Prohibition-era Mexico, his widow, a nightclub singer, joins forces with her lover and a desperate loner to become rum-runners to the U.S.",
+        "popularity": 11.629,
+        "poster_path": "/ZqXvQXzOGFBNP674rA5xrI6J23.jpg",
+        "release_date": "1975-12-25",
+        "title": "Lucky Lady",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s8DsdMerUnNtwjJ9JCA5CAdtdyd.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 284753,
+        "original_language": "en",
+        "original_title": "The Ransom",
+        "overview": "A Native American travels around a resort town, murdering cops and rich people with a high-powered crossbow, while demanding that the town's richest residents pay him money to stop the killings.",
+        "popularity": 11.628,
+        "poster_path": "/4NTkE01uZZWUAOy4hw2NyPadszj.jpg",
+        "release_date": "1977-04-29",
+        "title": "The Ransom",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            80,
+            9648
+        ],
+        "id": 282505,
+        "original_language": "en",
+        "original_title": "Stolen from the Womb",
+        "overview": "A psychotic stalker gives a pregnant woman a labor-inducing drug, then kidnaps her newborn.",
+        "popularity": 11.627,
+        "poster_path": "/2h25udEHe59MlEhKbfeJHPNW03P.jpg",
+        "release_date": "2014-06-21",
+        "title": "Stolen from the Womb",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gBVPjLWZcZXRrjUwBCBRGt13Ped.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            10770
+        ],
+        "id": 58106,
+        "original_language": "en",
+        "original_title": "The Boy Next Door",
+        "overview": "A novelist moves to a small town to write her next novel. She seeks inspiration and as time goes by she gathers information about her neighbor, a young, wealthy man whom she observes, as well as photographs, from her window. She soon finds herself a suspect in a murder investigation due to suspicious circumstances involving her odd behavior and reclusive lifestyle. She must fight to demonstrate her innocence.",
+        "popularity": 11.626,
+        "poster_path": "/n6ZTSKWkKt3LK8hxQUQ0sH3NAkJ.jpg",
+        "release_date": "2008-06-01",
+        "title": "The Boy Next Door",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/plnVOkVl8q79HsHbEiAvmNmP8gN.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18,
+            80
+        ],
+        "id": 72455,
+        "original_language": "en",
+        "original_title": "Walking Tall Part II",
+        "overview": "The Walking Tall legacy continues with Bo Svenson as Sheriff Buford Pusser, a one-man army trying to rid his town of corruption. Out to avenge his wife's death at the hand of the mob, Sheriff Pusser blows up their moonshine operation. With Buford breathing down their necks, the syndicate hires two hitmen; one a maniacal race car driver, the other a deadly gunslinger. Any other man would've hightailed it out of there, but then Pusser is no ordinary man.",
+        "popularity": 11.623,
+        "poster_path": "/bMrOljXbWHlC0oNEvfPUSsmvl3Y.jpg",
+        "release_date": "1975-09-28",
+        "title": "Walking Tall Part II",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v5JMGnh4G2o4zTX9XJN8IuKvmYt.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 23423,
+        "original_language": "en",
+        "original_title": "Friends and Family",
+        "overview": "Gay New York couple Stephen Torcelli and Danny Russo have something to hide from Stephen's parents -- their jobs as Mafia enforcers. When the Torcelli family plans to visit, Stephen and Danny panic because Stephen's father works for the FBI. Despite efforts to keep family and Mafia separate, a birthday party gets mixed up with a mobster's daughter's engagement party. Trouble arises when the mobsters concoct a political scheme at the party.",
+        "popularity": 11.622,
+        "poster_path": "/kYzGsZZjIwni13eve3AvAXBXFb.jpg",
+        "release_date": "2001-06-17",
+        "title": "Friends and Family",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eXWIWdXR1GVDKvDPz3xMwIN4PhT.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 227246,
+        "original_language": "sv",
+        "original_title": "Mastermind",
+        "overview": "Kurt Wallander and the other police officers try to find the connection between a horrible murder that took place in Ystad and the kidnapping of one of the police force's daughters. It also seems someone has infiltrated the police and controls every move the police make.",
+        "popularity": 11.621,
+        "poster_path": "/xuAAh7Ey2GvalPeQ57Ol278h0VV.jpg",
+        "release_date": "2005-12-16",
+        "title": "Wallander 07 - Mastermind",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8jNhjmpOIT0d0rB3edNWPPNWQr1.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 50958,
+        "original_language": "en",
+        "original_title": "Deadly Weapons",
+        "overview": "After the mob hits a guy with a list, one of the hoods keeps the list for himself to blackmail the people on it. When the mobsters find out he's a double-crosser, they off him, which angers his busty girlfriend. She goes after them using the only two weapons she has.",
+        "popularity": 11.621,
+        "poster_path": "/aCrL0vpLenR0GNPAY2aYcU6nKcc.jpg",
+        "release_date": "1974-04-04",
+        "title": "Deadly Weapons",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4WtWFZKMax2AUGBdGIPINXDJIoo.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 28864,
+        "original_language": "en",
+        "original_title": "Angel Eyes",
+        "overview": "Angel is a disturbed teen who becomes obsessed with her nice stepfather Steven. After her mother dies under unusual circumstances, Angel is sent to an institution. Years later, she is let out and tracks down her dear step-dad who now lives with his new girlfriend Michelle. He is technically her only kin so he takes her in, but his girlfriend doesn't like Angel one bit. Angel's obsession with her \"dad\" is as strong as ever and she fantasizes about seducing him. After spying on him and his girlfriend having passionate sex, she begins playing a deadly game and even tries to seduce his hostile girlfriend. However, Steven has a more immediate and obvious problem - a drug dealer called Johnny Ventura.",
+        "popularity": 11.621,
+        "poster_path": "/IKtUAWF7f9D8e1DOjFC1lDjfHa.jpg",
+        "release_date": "1993-03-17",
+        "title": "Angel Eyes",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bHCLa5vLW5RRewHH8o3nJbCvOCV.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 37712,
+        "original_language": "ja",
+        "original_title": "ピストルオペラ",
+        "overview": "An assassin fends off numerous attacks from her comrades, who are trying to move up in rank by killing off the competition.",
+        "popularity": 11.619,
+        "poster_path": "/sgmNlbYZUd8YG2Cfe38sFihIYgj.jpg",
+        "release_date": "2001-10-27",
+        "title": "Pistol Opera",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9gczHHaJDAdcRxHBoTV7rskttmw.jpg",
+        "genre_ids": [
+            53,
+            28,
+            12,
+            80
+        ],
+        "id": 44749,
+        "original_language": "hi",
+        "original_title": "रेस 2",
+        "overview": "Ranveer Singh (Saif Ali Khan) travels to exotic locales and confronts the Turkish mafia on a mission to avenge the death of his lover Sonia in this action-packed sequel. In the process of seeking her killers, Ranveer crosses Armaan Mallick (John Abraham) and Aleena (Deepika Padukone) -- two of the most feared figures in the Turkish underworld. Meanwhile, Ranveer's loyal friend RD (Anil Kapoor) and his new partner Cherry (Amisha Patel) offer a helping hand in a world where love is cheap and trust is a luxury most agents can't afford.",
+        "popularity": 11.617,
+        "poster_path": "/FxfkEbgz7jQ8Jo2RViWQRd8sKT.jpg",
+        "release_date": "2013-01-25",
+        "title": "Race 2",
+        "video": false,
+        "vote_average": 5.425,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/olHG1FoAatrJhqt75CGpbJwZajM.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 29120,
+        "original_language": "en",
+        "original_title": "Suckers",
+        "overview": "A fiercely dishonest car salesman hires a new employee who owes a serious debt to loan sharks.",
+        "popularity": 11.614,
+        "poster_path": "/x7PzJi63A3mTB6TXgaBzpNBjkf8.jpg",
+        "release_date": "1999-12-12",
+        "title": "Suckers",
+        "video": false,
+        "vote_average": 5.816,
+        "vote_count": 19
+    }
+]

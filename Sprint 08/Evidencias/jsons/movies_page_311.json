@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/iRBJXdXjATsm0Qnq6JYrBSTQ3qq.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80
+        ],
+        "id": 554205,
+        "original_language": "zh",
+        "original_title": "无名之辈",
+        "overview": "Cop-turned-security guard Ma Xianyong finds himself in a criminal twilight zone when two unrelated events turn his world upside down. The mysterious disappearance of his boss has implications for his financial security. Even more perilous is the abduction of his paralyzed sister who, unknown to Ma, makes a morbid deal with her captors.",
+        "popularity": 10.179,
+        "poster_path": "/xhXIJFaCgnnNxmMc2wWz9J11sey.jpg",
+        "release_date": "2018-11-15",
+        "title": "A Cool Fish",
+        "video": false,
+        "vote_average": 6.868,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x3smKmjJI1sfp4LLBJI7KJKcPyp.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 1214366,
+        "original_language": "ja",
+        "original_title": "罪と悪",
+        "overview": "One day, a boy's body is found again under the same bridge. The case is eerily similar to Masaki's case from 22 years ago. Haru has a connection with the deceased boy. Akira meets Haru while investigating the boy's death. By meeting each other again, the three men face the case from 22 years ago that they buried deep within their minds.",
+        "popularity": 10.177,
+        "poster_path": "/xZiJ4AEo5wMn2E80rzafbtDlA4m.jpg",
+        "release_date": "2024-02-01",
+        "title": "Sin and Evil",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cEhnQN13tHAePITOhqKmbK58g3b.jpg",
+        "genre_ids": [
+            99,
+            18,
+            80
+        ],
+        "id": 817127,
+        "original_language": "en",
+        "original_title": "Brainwashed: Sex-Camera-Power",
+        "overview": "Investigates the politics of cinematic shot design, and how this meta-level of filmmaking intersects with the twin epidemics of sexual abuse/assault and employment discrimination against women, with over 80 movie clips from 1896 - 2020.",
+        "popularity": 10.177,
+        "poster_path": "/zqklSVRTxlC92VnhXyCPCVEnAzH.jpg",
+        "release_date": "2022-10-21",
+        "title": "Brainwashed: Sex-Camera-Power",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yga2beCjfOLuDKrQJLiecDGtOf8.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 64318,
+        "original_language": "en",
+        "original_title": "Hide-Out",
+        "overview": "Wounded criminal Lucky Wilson takes refuge in a small Connecticut farm.  He falls in love with the farmer's daughter who at first is unaware of his criminal record.  Lucky is fully prepared to shoot his way out when the cops come calling, but he is softened by the daughter's affections.",
+        "popularity": 10.172,
+        "poster_path": "/bUf30QPBSUM3fctX2TugVvXatgE.jpg",
+        "release_date": "1934-08-24",
+        "title": "Hide-Out",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cMWwQEE18gapqvISbp06757It25.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            18
+        ],
+        "id": 252345,
+        "original_language": "sv",
+        "original_title": "Steget efter",
+        "overview": "Shortly after police discovers the murder of three friends, police inspector Wallander finds his friend and colleague Svedberg dead. First, it is believed that Svedberg killed himself but Wallander soon discovers links between Svedberg, the three friends and a fourth person, a young woman in a mental hospital.",
+        "popularity": 10.171,
+        "poster_path": "/gbq6a5rGS4SRXgaz90vaK3XfNON.jpg",
+        "release_date": "2005-06-25",
+        "title": "One Step Behind",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aans2Xi3e8b3lfb0a2S3dHsOpDs.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            10770
+        ],
+        "id": 36969,
+        "original_language": "en",
+        "original_title": "Murder at the Presidio",
+        "overview": "Based on the true story of the only homicide committed on the famed San Francisco Military base. A military Criminal Investigations Officer goes beyond his orders to get to the facts behind what appears to be a robbery-motivated killing. What he finds may well unravel his damaged mental health.",
+        "popularity": 10.171,
+        "poster_path": "/eRZX1tbCoMJfwwYJ7LDtxUjyCnb.jpg",
+        "release_date": "2005-05-02",
+        "title": "Murder at the Presidio",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 60590,
+        "original_language": "en",
+        "original_title": "Midnite Spares",
+        "overview": "After discovering that a group of car thieves may have something to do with his father's untimely death, Steve pursues the criminals and attempts to capture them as well as prove his prowess as a racecar driver.",
+        "popularity": 10.168,
+        "poster_path": "/qcUnh8VEB7cCoFVGSXRHHkFkyfG.jpg",
+        "release_date": "1983-02-17",
+        "title": "Midnite Spares",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 1149278,
+        "original_language": "en",
+        "original_title": "Allison Sydney Harrison",
+        "overview": "The story, set in San Francisco, depicts the adventures of Allison Sydney Harrison, a high-school student who teams with her wealthy private-detective father David Harrison to solve crimes. In the pilot, Allison and David team to solve the murder of a beautiful woman. The prime suspect is their chauffeur, Pat Rosetti.",
+        "popularity": 10.167,
+        "poster_path": "/n7XyQSG6h16OXV2WL0gHWLX7Hob.jpg",
+        "release_date": "1983-08-19",
+        "title": "Allison Sydney Harrison",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wLoH4X5ym34CKejSrpwZrZAiJpU.jpg",
+        "genre_ids": [
+            10770,
+            53,
+            80,
+            18
+        ],
+        "id": 360927,
+        "original_language": "en",
+        "original_title": "Driven Underground",
+        "overview": "Single mother Sarah Palmer hides her family in Oregon when her daughter Christy becomes a key witness in a murder against the mob.",
+        "popularity": 10.167,
+        "poster_path": "/q5OQd0ltiIlx7Hkx7Mb3q7mDLtM.jpg",
+        "release_date": "2015-09-04",
+        "title": "Driven Underground",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kO4JzgVGJ5VRe3VM868zGWGD6X6.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 182207,
+        "original_language": "es",
+        "original_title": "El Apando",
+        "overview": "In Mexico City's infamous Lecumberri prison, three drug-addicted convicts celebrate getting drugs from one of their the mothers. They are found out and locked up in the \"apando,\" the dreaded punishment cell. Protests over the treatment of those held in the cell lead to a bloody confrontation.",
+        "popularity": 10.163,
+        "poster_path": "/l9WfrIUZEV5BjMJnBQkuJX8Ixir.jpg",
+        "release_date": "1976-08-05",
+        "title": "The Heist",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vWBGzednQzAL1qpniw1aZ1l5MU5.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            18
+        ],
+        "id": 1155257,
+        "original_language": "zh",
+        "original_title": "拯救嫌疑人",
+        "overview": "Lawyer Chen Zhi Qi, who excels in her work, unintentionally finds herself involved in an awful conspiracy theory that involves her client who is on death row.",
+        "popularity": 10.161,
+        "poster_path": "/jbWhaVPoF6PXah2LprNwtFIu84C.jpg",
+        "release_date": "2023-11-01",
+        "title": "Last Suspect",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sSnUJwsx1Y9VhD1BElnS8BThjH1.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18,
+            80
+        ],
+        "id": 63411,
+        "original_language": "ja",
+        "original_title": "闇の狩人",
+        "overview": "Yataro Tanigawa, a one-eyed hired assassin, impresses yakuza boss Gomyo Kiyoemon with his skill. Gomyo hires Tanigawa as his bodyguard, or yojimbo, to protect him during an inter-clan conflict. Tanigawa quickly rises in stature in the clan, but finds his boss's enemies almost overwhelming.",
+        "popularity": 10.161,
+        "poster_path": "/ekBCCjMvzhY1B8PivwsVuKdvqad.jpg",
+        "release_date": "1979-06-17",
+        "title": "Hunter in the Dark",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/22sEgukNcmmfuhr991FLM4Y50Za.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 37351,
+        "original_language": "fr",
+        "original_title": "Le Mystère de la chambre jaune",
+        "overview": "Joseph Rouletabille, a reporter for a local newspaper, investigates the attempted killing of Mathilde Stangerson, who uses the yellow room of the title as her bedroom. At the time of the revolver shots her room was locked and the windows were barred, but when her father enters after having forced the door, there is no-one there except for Mathilde. So who did it and how did he get away?",
+        "popularity": 10.161,
+        "poster_path": "/dbKJted6TJE6wdW1ZDXvtfrDMiR.jpg",
+        "release_date": "2003-06-11",
+        "title": "The Mystery of the Yellow Room",
+        "video": false,
+        "vote_average": 6.556,
+        "vote_count": 90
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            10402,
+            53
+        ],
+        "id": 376575,
+        "original_language": "en",
+        "original_title": "48 Hours to Live",
+        "overview": "A loner fresh out of rehab and hunted by both sides of the law returns home to solve the murder of his sister, and finds himself entangled in a game of revenge on the LA club circuit.",
+        "popularity": 10.16,
+        "poster_path": "/87tmBJac7Rl4EpCkURXkxqL7x2d.jpg",
+        "release_date": "2016-11-09",
+        "title": "48 Hours to Live",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bv6MRtlmuFJQXAK6IiGJc4uBE7l.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 48161,
+        "original_language": "no",
+        "original_title": "NOKAS",
+        "overview": "On the 5th of April 2004, the greatest bank robbery in Norwegian history was carried out in Stavanger. The events are seen through the eyes of those who were directly involved – the bank robbers, police officers and employees of the firm. The film is based on testimonies of eye-witnesses and unfolds in the places where the attack took place.",
+        "popularity": 10.159,
+        "poster_path": "/eijeX7rgZgUieYVEIUoLsH0rrEX.jpg",
+        "release_date": "2010-10-01",
+        "title": "NOKAS",
+        "video": false,
+        "vote_average": 6.153,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nGdupUFFZmIDu3uJGReahE8piXf.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 232462,
+        "original_language": "en",
+        "original_title": "Styx",
+        "overview": "Nelson puts his criminal ways behind him, having spent years as a first-rate safecracker. This resolution lasts until his brother finds himself owing money to organised crime and Nelson needs to do one last big job, with a few other professionals.",
+        "popularity": 10.157,
+        "poster_path": "/x2OgY2ij2EJeb5eS8Xaox2Ocsmn.jpg",
+        "release_date": "2001-10-15",
+        "title": "Styx",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v2FQ63G4V6hBsERqXsiz2S3XiyL.jpg",
+        "genre_ids": [
+            27,
+            80,
+            18
+        ],
+        "id": 73196,
+        "original_language": "it",
+        "original_title": "Anime perse",
+        "overview": "Three women are sent by steamboat to an undisclosed jungle prison called \"The Home of Lost Souls\". Here they experience the usual beatings, whippings, cat fights and humiliations. The butch warden has a deal on the side with a local pimp who forces them to dance in bikinis at a nightclub and sexually service the patrons. Tired of cages, rape, torture and rats, the girls kill the resident snitch and escape into the jungle.",
+        "popularity": 10.157,
+        "poster_path": "/ihjD8igyNxFe3VqpRUnKIPuNz7e.jpg",
+        "release_date": "2006-05-01",
+        "title": "The Jail: The Women's Hell",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/NL49RbgaooTxhIIJZLwkNYFVvr.jpg",
+        "genre_ids": [
+            80,
+            28,
+            35
+        ],
+        "id": 393613,
+        "original_language": "en",
+        "original_title": "Spaghettiman",
+        "overview": "Clark doesn't care about you. He doesn't care about the world. He barely cares about himself. But after an incident with an old bowl of spaghetti and a malfunctioning microwave, he becomes a superhero that can fight crime with the power of spaghetti. However, you have to pay him.",
+        "popularity": 10.153,
+        "poster_path": "/4vvPb0UYY2huoVK5T4VenACkPuT.jpg",
+        "release_date": "2016-02-19",
+        "title": "Spaghettiman",
+        "video": false,
+        "vote_average": 5.688,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 153976,
+        "original_language": "en",
+        "original_title": "Dance Fu",
+        "overview": "A young championship dancer seeking fortune and fame is forced to avenge the death of his uncle.",
+        "popularity": 10.153,
+        "poster_path": "/mj70r8bKcf8GAYZKskoZnnrY1fl.jpg",
+        "release_date": "2012-07-06",
+        "title": "Dance Fu",
+        "video": false,
+        "vote_average": 2.2,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cLhdwwQMzkxNPrn6v9F0QwKGEeB.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 105125,
+        "original_language": "ja",
+        "original_title": "ヌードの夜",
+        "overview": "Jiro is a Tokyo man who offers a stand-in service where he'll do \"anything\". A woman claiming to be from Fukuoka wants to be shown around Tokyo and see the sights. What Jiro doesn't know is that this woman isn't who she says she is. She's on the run from her Yakuza boyfriend, and Jiro is going to be unwittingly entwined in the situation.",
+        "popularity": 10.152,
+        "poster_path": "/11zb8aYkinOo11mD5Ua5PcsDxfn.jpg",
+        "release_date": "1993-12-18",
+        "title": "A Night in Nude",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 17
+    }
+]

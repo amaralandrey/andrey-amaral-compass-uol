@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 52401,
+        "original_language": "ja",
+        "original_title": "太陽の傷",
+        "overview": "Katayama is on the way home to his wife and little daughter when he comes across a gang of punks beating up an innocent man. Katamaya decides to help the stranger and surprisingly wins the fight. This turns out to be a bad decision as his daughter is kidnapped and murdered by the leader of the same band of young thugs. Katayama seeks revenge and tries to trace the gang's location.",
+        "popularity": 9.824,
+        "poster_path": "/kNPcw1gsPjpsyFirUFu8S6kwxmO.jpg",
+        "release_date": "2006-05-03",
+        "title": "Sun Scarred",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mcz3bzyHucpAv5FFPH2XLsrZ1cd.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 124439,
+        "original_language": "it",
+        "original_title": "Sahara Cross",
+        "overview": "Jean Bellard and Carl Mank, two Western engineers supported by Hamid are in search of a terrorist group that murdered their colleague in the Tunisian desert.",
+        "popularity": 9.823,
+        "poster_path": "/kJs1pObuLSNSSEYw05k85v4t3cm.jpg",
+        "release_date": "1977-09-10",
+        "title": "Sahara Cross",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e6WQoHeD1lomknxc0a65Ae1sfVw.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10751,
+            53
+        ],
+        "id": 330421,
+        "original_language": "ta",
+        "original_title": "பாபநாசம்",
+        "overview": "A cinephile tries to protect his family by hiding a heat-of-the-moment murder committed by his daughter by taking cues from the films he has watched. With the victim the son of a cop, can he get away with it?",
+        "popularity": 9.821,
+        "poster_path": "/qH0ayDXNdTvzGrBFwzK79JMyKp1.jpg",
+        "release_date": "2015-07-03",
+        "title": "Papanasam",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 180897,
+        "original_language": "cn",
+        "original_title": "省港一號通緝犯",
+        "overview": "A Hong Kong cop is sent to mainland China to find a group of killers. Meanwhile, a cop discovers that his former love is aiding the gang of crooks.",
+        "popularity": 9.821,
+        "poster_path": "/fIkBDZWW8IwsM1EI4d7hAgzbhvo.jpg",
+        "release_date": "1994-06-29",
+        "title": "Rock n' Roll Cop",
+        "video": false,
+        "vote_average": 5.375,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vLv0gTfKw2HC9TRIKmazp0S78f5.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 114051,
+        "original_language": "es",
+        "original_title": "Navajeros",
+        "overview": "A chronicle of the life of Jaro, the leader of a juvenile delinquent gang, depicting his rise from street urchin to outlaw anti-hero on the way to his inevitable end.",
+        "popularity": 9.82,
+        "poster_path": "/qRLLhYcctqlVCMdNGP85erTbSqI.jpg",
+        "release_date": "1980-10-06",
+        "title": "Navajeros",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/BhgQUTI6Pv6UBuEF2cJdSU3E7j.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 447535,
+        "original_language": "zh",
+        "original_title": "上海王",
+        "overview": "A lowly brothel maid captures the attention of Shanghai triad leaders, pulling her into a brutal war where she learns to rise above the odds in order to survive.",
+        "popularity": 9.818,
+        "poster_path": "/kfPb6rgCMIy3ohZzUlwO9bQFudn.jpg",
+        "release_date": "2017-02-17",
+        "title": "Lord of Shanghai",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5hsFU0plfcgYhcVMrhlykpmc3RM.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10770
+        ],
+        "id": 291259,
+        "original_language": "en",
+        "original_title": "Beyond the Pale",
+        "overview": "Mr. Whicher is hired by former Home Secretary Sir Edward Shore to investigate the violent threats made against his son Charles, who has recently returned from India with his family.",
+        "popularity": 9.818,
+        "poster_path": "/eLtmzNtlP53d3GUz0LqU4JwPRg1.jpg",
+        "release_date": "2014-09-07",
+        "title": "Beyond the Pale",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6gNhO5oPswkh2kj4iZJqTVVIERy.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 583980,
+        "original_language": "en",
+        "original_title": "Fugitive Family",
+        "overview": "To the world Brian Roberts looks like a successful businessman, with a lovely wife and two children all living in a dream home. Nevertheless, he has really been working undercover for the Justice Department to snare a mob boss. When his cover is blown, he has to break the news to his family about the nature of his real job and, worse, that they are now in real danger! Consequently, they are forced into the federal government's Witness Relocation Program. However, the trauma to the family does not stop there, as the gangsters he double-crossed are determined he and his family shall not escape 'mob justice.'",
+        "popularity": 9.817,
+        "poster_path": "/nqGR7JuqSaIgq1Zce9LYMXZrwQG.jpg",
+        "release_date": "1980-10-01",
+        "title": "Fugitive Family",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o3s5DFZmQ54PbDeib2XeJARQFEp.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            9648
+        ],
+        "id": 661328,
+        "original_language": "en",
+        "original_title": "Picture Perfect Mysteries: Dead Over Diamonds",
+        "overview": "Photographer Allie and Detective Sam's investigation into a priceless stolen necklace leads to danger and an unexpected death.",
+        "popularity": 9.815,
+        "poster_path": "/17V3Q36cB6vRgD6ulf9tWYakbcU.jpg",
+        "release_date": "2020-02-16",
+        "title": "Picture Perfect Mysteries: Dead Over Diamonds",
+        "video": false,
+        "vote_average": 7.614,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5KGQEaE519pOD9DltmWBo6OcuH1.jpg",
+        "genre_ids": [
+            27,
+            80
+        ],
+        "id": 794004,
+        "original_language": "en",
+        "original_title": "Bleach",
+        "overview": "A man goes through extreme measures to attempt to stop the ghosts of the girls he murdered in a snuff film from haunting while trying to keep the authorities off his back as well.",
+        "popularity": 9.813,
+        "poster_path": "/7KYr2dciA6hnDYCedknzFVU8rBf.jpg",
+        "release_date": "2022-12-15",
+        "title": "Bleach",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6gGFF49kakjiyWIGqlbDesrCjXr.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 64845,
+        "original_language": "ko",
+        "original_title": "나는 아빠다",
+        "overview": "A corrupt detective infiltrates a gang and tries to save his daughter. One day he finds out the heart his daughter would receive as a transplant is from a magician he falsely accused.",
+        "popularity": 9.813,
+        "poster_path": "/u4VCeltHGCQdaXMGO1WuWtuCDKy.jpg",
+        "release_date": "2011-04-14",
+        "title": "I Am a Father",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6rrHcN3Sx5adi5xOyEOe6OXQ01B.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 59037,
+        "original_language": "it",
+        "original_title": "Amore tossico",
+        "overview": "The alienating and repetitive life of a group of heroin junkies in 1980s Rome.",
+        "popularity": 9.812,
+        "poster_path": "/hQwo0Nwek1kH9QE4ZOO0TN7XAgU.jpg",
+        "release_date": "1983-09-01",
+        "title": "Toxic Love",
+        "video": false,
+        "vote_average": 7.257,
+        "vote_count": 224
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/khRkXzvfzgE9vdcitDdUnmeFg6n.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 39411,
+        "original_language": "en",
+        "original_title": "Plump Fiction",
+        "overview": "Four stories intersect in this violent film parody. Exterminators dress as hit men and try to protect the wife of their boss, Montello. Meanwhile, the strippers at Montello's strip club, dressed as nuns, attempt to rob him. Tag-team wrestlers steal Montello's briefcase, thinking its contents are valuable. Finally, Bumpkin, running to deliver a script, loses a lot of the pages.",
+        "popularity": 9.811,
+        "poster_path": "/hVpAdZmLjgLI6onq2UDdLvg4lrs.jpg",
+        "release_date": "1997-05-01",
+        "title": "Plump Fiction",
+        "video": false,
+        "vote_average": 3.868,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rc04xvb23cRUUNJyhuDGW0e7l8O.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 502994,
+        "original_language": "ja",
+        "original_title": "黒いドレスの女",
+        "overview": "A woman named Fujiki Asuka arrives as an acquaintance of a sister in law for a day under the bar master Tamura who had guided Yakuza's escaping as a shoji. Tamura who lives on the second floor of the store for the time being the son who wants to work here. A few days later, Tamura finds a handgun from Yuko's baggage and holds a suspicion ....",
+        "popularity": 9.81,
+        "poster_path": "/AnCCg3MaGHmjWLMG17tZ86biM8a.jpg",
+        "release_date": "1987-03-14",
+        "title": "The Lady in a Black Dress",
+        "video": false,
+        "vote_average": 5.333,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uQSwlPo2u4CX75lARC4BL3h7wFQ.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 141319,
+        "original_language": "en",
+        "original_title": "Spanish Judges",
+        "overview": "A con-artist hires two low-lifes to cover him during a deal, ending with three criminals, two dueling pistols, and one night they'll never forget",
+        "popularity": 9.807,
+        "poster_path": "/nuODOVq5nPUwx1Z0T03T6B39Ps6.jpg",
+        "release_date": "2000-10-16",
+        "title": "Spanish Judges",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 78814,
+        "original_language": "en",
+        "original_title": "We Have Your Husband",
+        "overview": "American-born Jayne Valseca, her husband Eduardo, the son of a legendary Mexican newspaper publisher, and their two children live an idyllic life on their 1,000 acre ranch outside of a peaceful Mexico town. But in the summer of 2007, their peaceful life is turned into a real-life nightmare when Eduardo is ambushed and kidnapped by strangers. With kidnapping becoming a pervasive and lucrative business in Mexico, Jayne is at the mercy of the kidnappers when they demand millions for the husband's safe release. She's pushed to the limit to do everything she possibly can to raise the money necessary to bring Eduardo back alive. As Eduardo is starved and tortured, he looses hope of ever seeing his family again but despite the dire and bleak times, Jayne refuses to give up and decides to turn the tables on the kidnappers and makes demands of her own. The film is based on a true story from the book, We Have Your Husband: One Woman's Terrifying Story of a Kidnapping in Mexico.",
+        "popularity": 9.807,
+        "poster_path": "/n3vcScSfTYM3XS4sBwhHUwxw0pL.jpg",
+        "release_date": "2011-11-12",
+        "title": "We Have Your Husband",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dEBx1cg8jUgi4N3Wb1snfyH9qAp.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 37088,
+        "original_language": "en",
+        "original_title": "Aileen: Life and Death of a Serial Killer",
+        "overview": "British documentarian Nick Broomfield creates a follow-up piece to his 1992 documentary of the serial killer Aileen Wuornos, a highway prostitute who was convicted of killing six men in Florida between 1989 and 1990. Interviewing an increasingly mentally unstable Wuornos, Broomfield captures the distorted mind of a murderer whom the state of Florida deems of sound mind -- and therefore fit to execute. Throughout the film, Broomfield includes footage of his testimony at Wuornos' trial.",
+        "popularity": 9.803,
+        "poster_path": "/a77VTxHWxuraYUPlvdSG2idI0Dj.jpg",
+        "release_date": "2003-09-09",
+        "title": "Aileen: Life and Death of a Serial Killer",
+        "video": false,
+        "vote_average": 6.756,
+        "vote_count": 122
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/na9tYLe7SeZrGVMbxqn14jUpPKe.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1016342,
+        "original_language": "en",
+        "original_title": "Phoenix",
+        "overview": "It follows Fiona \"Phoenix\" Grant, a U.S. Army veteran Sergeant teaching hand-to-hand combat skills in Afghanistan. She receives word that her father has been killed in Florida.",
+        "popularity": 9.802,
+        "poster_path": "/uUYqoLpya2lohuOgssROvfGUElq.jpg",
+        "release_date": "2023-08-19",
+        "title": "Phoenix",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lHiuwO8HdmObpU2rpH1TxhSKWdW.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            80
+        ],
+        "id": 12231,
+        "original_language": "da",
+        "original_title": "Olsen-banden på spanden",
+        "overview": "A good looking female social welfare worker makes Egon Olsen forget about crimes for some time, but when an American gangster breaks into a local bank and the police think its Egon's work, he has to get back to work to prove he's innocent.",
+        "popularity": 9.802,
+        "poster_path": "/hnCzNCKjE2h4esd9UDoQWnY0MNR.jpg",
+        "release_date": "1969-10-03",
+        "title": "The Olsen Gang in a Fix",
+        "video": false,
+        "vote_average": 6.617,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tXJQ5pAjClOsYh7s3RPjPcvvT99.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 642288,
+        "original_language": "ja",
+        "original_title": "ファンシー",
+        "overview": "Set in a spa town, Akira Takasu (Masatoshi Nagase) is a carver and a mailman. He keeps in touch with poet Penguin (Masataka Kubota). Penguin has a female fan with the name of Moonlit Night's Star (Sakurako Konishi). She sends letters to Penguin. One day, the female fan appears in front of Akira Takasu and Penguin. These three somehow get involved in a battle between the yakuza.",
+        "popularity": 9.801,
+        "poster_path": "/2LjQb1nrrqZmsTNtGpLeTRivlya.jpg",
+        "release_date": "2020-02-07",
+        "title": "Fancy",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    }
+]

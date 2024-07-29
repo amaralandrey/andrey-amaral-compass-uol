@@ -1,0 +1,408 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/ygIHxA8EB246fwnNlHn6gN1QCf4.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 346709,
+        "original_language": "en",
+        "original_title": "Line of Duty",
+        "overview": "Frank Penny is a disgraced cop looking for a shot at redemption. When the police chief's 11-year-old daughter is abducted, Frank goes rogue to try and save her. But to find the girl, Frank will need the help of Ava Brooks, whose live-streaming news channel is broadcasting Frank's every move.",
+        "popularity": 27.974,
+        "poster_path": "/wMszdTo0UuGcAEEDHsQL9dmwLIG.jpg",
+        "release_date": "2019-12-25",
+        "title": "Line of Duty",
+        "video": false,
+        "vote_average": 5.942,
+        "vote_count": 312
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ooXpv2GAIvBaYA48K3ZOLJlBnRt.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 20794,
+        "original_language": "en",
+        "original_title": "Novocaine",
+        "overview": "A dentist finds himself a murder suspect after a sexy patient seduces him into prescribing her drugs.",
+        "popularity": 27.947,
+        "poster_path": "/6ZVFepWKzYho4DLhyFVuRk7klZ1.jpg",
+        "release_date": "2001-11-23",
+        "title": "Novocaine",
+        "video": false,
+        "vote_average": 5.951,
+        "vote_count": 132
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jNwWDAetEotkXJeJyU4YYp4winp.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 21948,
+        "original_language": "en",
+        "original_title": "Rolling Thunder",
+        "overview": "A Vietnam veteran, Charles Rane, returns home after years in a POW camp and is treated as a hero. When thugs invade his home to steal the silver coins he received for his service, they mangle his hand and leave him and his family for dead. Rane survives and becomes obsessed with getting revenge. Aided by his loyal friend Johnny Vohden, Rane, now wielding a hook for a hand, sets out on his mission of vengeance.",
+        "popularity": 27.943,
+        "poster_path": "/9iZjVn6Q5FJa92SQLcFMrskpES9.jpg",
+        "release_date": "1977-11-02",
+        "title": "Rolling Thunder",
+        "video": false,
+        "vote_average": 6.841,
+        "vote_count": 198
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2oxlor4lQrP2JX40ammAQdOqkEQ.jpg",
+        "genre_ids": [
+            53,
+            80,
+            878,
+            9648
+        ],
+        "id": 17532,
+        "original_language": "en",
+        "original_title": "S. Darko",
+        "overview": "Seven years after the events of the first film, Samantha Darko finds herself stranded in a small desert town after her car breaks down where she is plagued by bizarre visions telling of the universe's end. As a result, she must face her own demons, and in doing so, save the world and herself.",
+        "popularity": 27.936,
+        "poster_path": "/rQJjsKhqL4VZx0VN2sD8PR0dK1h.jpg",
+        "release_date": "2009-04-28",
+        "title": "S. Darko",
+        "video": false,
+        "vote_average": 4.41,
+        "vote_count": 452
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/J4l8AvrK8ByAjnoKposMLh3ubL.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 400,
+        "original_language": "en",
+        "original_title": "Things to Do in Denver When You're Dead",
+        "overview": "Five different criminals face imminent death after botching a job quite badly.",
+        "popularity": 27.934,
+        "poster_path": "/rA4Jttg1kJvNhSv7wM0SNyXrqY0.jpg",
+        "release_date": "1995-12-01",
+        "title": "Things to Do in Denver When You're Dead",
+        "video": false,
+        "vote_average": 6.489,
+        "vote_count": 361
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zXRMUNuSQ3psaa15D6oluX5ywjb.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 33436,
+        "original_language": "fr",
+        "original_title": "Le cerveau",
+        "overview": "Arthur and Anatole are two little robbers. They want to rob money, money that will travel in a special train from Paris to Bruxelles. They don't know that other people have planned to do the same thing.",
+        "popularity": 27.911,
+        "poster_path": "/wCtaWDaOiGPVEoo7tiPBSH7sQx9.jpg",
+        "release_date": "1969-03-07",
+        "title": "The Brain",
+        "video": false,
+        "vote_average": 7.338,
+        "vote_count": 256
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r00r7FPrBRdDU1mRAAJ0Ds30yM6.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 587808,
+        "original_language": "en",
+        "original_title": "Backdraft 2",
+        "overview": "Years after the original Backdraft, Sean, son of the late Steve \"Bull\" McCaffrey, is assigned to investigate a deadly fire only to realize it is something much more sinister.",
+        "popularity": 27.909,
+        "poster_path": "/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg",
+        "release_date": "2019-05-14",
+        "title": "Backdraft 2",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 175
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ggU4sv2A2gVbCb7F0cnsVyZEtxc.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 14034,
+        "original_language": "en",
+        "original_title": "What's the Worst That Could Happen?",
+        "overview": "Thief Kevin Caffery attempts to rob from the home of rich businessman Max Fairbanks. But Fairbanks catches him and steals his cherished ring that his girlfriend gave him. Caffery is then bent on revenge and getting his ring back with the help of his partners.",
+        "popularity": 27.907,
+        "poster_path": "/roVPa80bjfbToshzapT8pTfHH91.jpg",
+        "release_date": "2001-05-31",
+        "title": "What's the Worst That Could Happen?",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 287
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/asi4QVM9QSdSAZUo5mpMZVxNaxl.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 9959,
+        "original_language": "en",
+        "original_title": "Freedomland",
+        "overview": "A black police detective must solve a strange case of a kidnapped boy and deal with a big racial protest.",
+        "popularity": 27.895,
+        "poster_path": "/fM9MYcI7BHJ2YqEtcr8JKPE8nDB.jpg",
+        "release_date": "2006-02-17",
+        "title": "Freedomland",
+        "video": false,
+        "vote_average": 5.188,
+        "vote_count": 319
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/arb8T0YFfLT5cUVIJPTMoHbmk12.jpg",
+        "genre_ids": [
+            878,
+            80,
+            9648
+        ],
+        "id": 411999,
+        "original_language": "en",
+        "original_title": "OtherLife",
+        "overview": "Ren Amari is the driven inventor of a revolutionary new drug. OtherLife expands the brain's sense of time and creates virtual reality directly in the user's mind. With OtherLife, mere seconds in real life feel like hours or days of exciting adventures. As Ren and her colleagues race around the clock to launch OtherLife, the government muscles in to use the drugs as a radical solution to prison overcrowding. They will create virtual cells where criminals serve long sentences in just minutes of real time. When Ren resists, she finds herself an unwilling guinea pig trapped in a prison cell in her mind. She must escape before she descends into madness, and then regain control of OtherLife before others suffer the same fate.",
+        "popularity": 27.879,
+        "poster_path": "/q6jPyq5GJ7jqP82hcqbMFdhQlCW.jpg",
+        "release_date": "2017-06-16",
+        "title": "OtherLife",
+        "video": false,
+        "vote_average": 6.343,
+        "vote_count": 400
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y2L5kW4SGseKH1XDL4c11qB21Xe.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 46828,
+        "original_language": "en",
+        "original_title": "Son of the Pink Panther",
+        "overview": "The illegitimate son of Inspector Clouseau is on the case of the kidnapped Princess Yasmin.",
+        "popularity": 27.871,
+        "poster_path": "/vSBzy0XtZvJQ4N9KLoWvblprZY2.jpg",
+        "release_date": "1993-08-27",
+        "title": "Son of the Pink Panther",
+        "video": false,
+        "vote_average": 4.655,
+        "vote_count": 210
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5RwrEx5BdIbOD0KiE3HYaIanvWV.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 18406,
+        "original_language": "en",
+        "original_title": "Chained Heat",
+        "overview": "Linda Blair plays Carol, a young woman who must serve 18 months in prison after driving drunk and killing a man. The prison turns out to be brimming with decadence, corruption and sleaze, where the other female inmates are sadistic crack-selling lesbian rapists and the guards and warden are no better.",
+        "popularity": 27.869,
+        "poster_path": "/iS3XhJEEmK7BfwsFFMoLVSCMQrn.jpg",
+        "release_date": "1983-05-27",
+        "title": "Chained Heat",
+        "video": false,
+        "vote_average": 5.107,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nxWUUSYOTEAjARGUI9EcTBSMo2u.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 241765,
+        "original_language": "en",
+        "original_title": "The Outsider",
+        "overview": "Revolves around a British military contractor Lex Walker who is told his daughter has died. When he arrives in Los Angeles and discovers the body is not hers, he begins an investigation.",
+        "popularity": 27.838,
+        "poster_path": "/yzCyzP0FwzprnbFxWapmoL2MLO7.jpg",
+        "release_date": "2014-03-11",
+        "title": "The Outsider",
+        "video": false,
+        "vote_average": 4.489,
+        "vote_count": 91
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3J2RcipA3YAP96EuKBWwP0eKf5Z.jpg",
+        "genre_ids": [
+            878,
+            28,
+            80,
+            18
+        ],
+        "id": 9278,
+        "original_language": "en",
+        "original_title": "Freejack",
+        "overview": "Time-traveling bounty hunters find a doomed race-car driver in the past and bring him to 2009 New York, where his mind will be replaced with that of a terminally ill billionaire.",
+        "popularity": 27.833,
+        "poster_path": "/lSN8lIX90Az0t1qvIXC4MlCvd9a.jpg",
+        "release_date": "1992-01-17",
+        "title": "Freejack",
+        "video": false,
+        "vote_average": 5.386,
+        "vote_count": 308
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jXPrGgk6PypAsv8IPq8NqlQi6ts.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 3001,
+        "original_language": "en",
+        "original_title": "How to Steal a Million",
+        "overview": "A woman must steal a statue from a Paris museum to help conceal her father's art forgeries.",
+        "popularity": 27.82,
+        "poster_path": "/xaf3pwmITJvfz9Ab8DiGM8OOtBC.jpg",
+        "release_date": "1966-07-13",
+        "title": "How to Steal a Million",
+        "video": false,
+        "vote_average": 7.479,
+        "vote_count": 571
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/74sTbAsqUaFKcG77Vu6whrThojw.jpg",
+        "genre_ids": [
+            9648,
+            28,
+            18,
+            53,
+            80
+        ],
+        "id": 11169,
+        "original_language": "en",
+        "original_title": "Spartan",
+        "overview": "U.S. government agent Scott is assigned to rescue the daughter of a high-ranking government official. As willing as he is to bend the rules to get things done, though, Scott is shocked to find that others are willing to go even further to protect a political career.",
+        "popularity": 27.815,
+        "poster_path": "/wIaihDzXF0ie3oALucbUZmvGRBu.jpg",
+        "release_date": "2004-03-12",
+        "title": "Spartan",
+        "video": false,
+        "vote_average": 6.185,
+        "vote_count": 355
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7al64Hp3RPaMNB5AWTdFH7RggnG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 13250,
+        "original_language": "en",
+        "original_title": "Butterfly on a Wheel",
+        "overview": "A sociopathic kidnapper methodically pushes a desperate pair of parents to their absolute breaking point.",
+        "popularity": 27.812,
+        "poster_path": "/qcjjYcMaaSKD2C8xn0hy6o6yj2L.jpg",
+        "release_date": "2007-07-27",
+        "title": "Butterfly on a Wheel",
+        "video": false,
+        "vote_average": 6.413,
+        "vote_count": 503
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9NOVijK2ou69d9jtnTrPbljvMlG.jpg",
+        "genre_ids": [
+            35,
+            27,
+            53,
+            80
+        ],
+        "id": 27381,
+        "original_language": "en",
+        "original_title": "Innocent Blood",
+        "overview": "Marie is a vampire with a thirst for bad guys. When she fails to properly dispose of one of her victims, a violent mob boss, she bites off more than she can chew and faces a new, immortal danger",
+        "popularity": 27.811,
+        "poster_path": "/c7RcoSiKAm4K0MNbtgqeQZjp0Pe.jpg",
+        "release_date": "1992-09-25",
+        "title": "Innocent Blood",
+        "video": false,
+        "vote_average": 6.129,
+        "vote_count": 205
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cUh3QGvpXXdeNdms7I86XVDL4bv.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            10749
+        ],
+        "id": 1252,
+        "original_language": "en",
+        "original_title": "Lonely Hearts",
+        "overview": "In the late 1940s, a murderous couple known as the 'The Lonely Hearts Killers' kills close to a dozen people. Two detectives try to nab the duo who find their targets via the personals in the paper.",
+        "popularity": 27.808,
+        "poster_path": "/qnQK4JUwEUFDKt7dSMY2fJmhv2f.jpg",
+        "release_date": "2006-04-30",
+        "title": "Lonely Hearts",
+        "video": false,
+        "vote_average": 6.021,
+        "vote_count": 335
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qqr6IbCiyylEQLMzMBrSejRJJr1.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 17058,
+        "original_language": "en",
+        "original_title": "Scarlet Street",
+        "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much.",
+        "popularity": 27.805,
+        "poster_path": "/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg",
+        "release_date": "1945-12-25",
+        "title": "Scarlet Street",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 370
+    }
+]

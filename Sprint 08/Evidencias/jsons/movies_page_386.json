@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/cYvAoDLpfhq63ntKqqGlhYxjzd5.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 20028,
+        "original_language": "en",
+        "original_title": "Decoy",
+        "overview": "A fatally shot female gangleader recounts her sordid life of crime to a police officer just before she dies.",
+        "popularity": 8.534,
+        "poster_path": "/3YZzSh5rgovQimeXb8V6ECMY5eK.jpg",
+        "release_date": "1946-09-14",
+        "title": "Decoy",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dpmgZ1AF93AMeoDJLCmyRdP2O9V.jpg",
+        "genre_ids": [
+            10749,
+            53,
+            80
+        ],
+        "id": 350646,
+        "original_language": "cn",
+        "original_title": "二奶村之殺夫",
+        "overview": "Shiu comes to land China to begin her new company. His girlfriend Wan makes him guarantee not to get a concubine. In place of, he falls for his far-away relative. And what will Wan do when she discovers?",
+        "popularity": 8.533,
+        "poster_path": "/psvzaShJQIvoCYTnOZNhPenRzu3.jpg",
+        "release_date": "1995-03-23",
+        "title": "The Woman Behind",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bqoGo0qkbWVhwWGVuhRUrRqfbLX.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 110790,
+        "original_language": "en",
+        "original_title": "Murder, He Says",
+        "overview": "Pete Marshall is sent as a replacement to the mountain district town of Plainville when a public opinion surveyor who went there goes missing. Visiting the hillbilly family of Mamie Fleagle, Pete begins to suspect that she and her two sons have murdered the surveyor. Pete then believes that Mamie is slowly poisoning wealthy Grandma Fleagle, who has put a vital clue to her fortune in a nonsensical embroidered sampler.",
+        "popularity": 8.533,
+        "poster_path": "/tEJ0JJezKFOua7f0rhfZJi9sr7h.jpg",
+        "release_date": "1945-06-23",
+        "title": "Murder, He Says",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/chAOgSxzUPV9tJAuXXRy73z8TBg.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 353767,
+        "original_language": "ja",
+        "original_title": "五瓣の椿",
+        "overview": "A young woman begins murdering all those responsible for her ailing father's condition. Because the girl is so outwardly sweet and innocent, the detective looking into the deaths does not suspect her.",
+        "popularity": 8.532,
+        "poster_path": "/yY6nWSw6kiyk68sHGw5gkK2O423.jpg",
+        "release_date": "1964-11-21",
+        "title": "The Scarlet Camellia",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q6JUH6kV5V86Uq49dQTIhobcLwp.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 859051,
+        "original_language": "en",
+        "original_title": "Murder on Maple Drive",
+        "overview": "In an effort to \"keep up with the Joneses\", a couple stretches their finances to purchase a home in an upper-class neighborhood. Due to a murder/suicide by the previous owners, the house is deeply discounted. After they move in, they form a quick friendship with a neighbor. But strange things begin to happen, and they soon suspect the neighbor may have played a part in the murders.",
+        "popularity": 8.531,
+        "poster_path": "/irWkzrql7cXdMJuoQUdwlTaAzJY.jpg",
+        "release_date": "2021-07-25",
+        "title": "Murder on Maple Drive",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            35,
+            18
+        ],
+        "id": 791021,
+        "original_language": "de",
+        "original_title": "Die Bestatterin - Die unbekannte Tote",
+        "overview": "",
+        "popularity": 8.531,
+        "poster_path": "/xITyoGEXxH0nkMb75vbzaCo9f6Q.jpg",
+        "release_date": "2021-01-28",
+        "title": "Die Bestatterin - Die unbekannte Tote",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jxtQXj9Y7cxvAYnd8eabU4yWH2d.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 141267,
+        "original_language": "sv",
+        "original_title": "Johan Falk: Kodnamn: Lisa",
+        "overview": "Five men break into Frank Wagner's apartment. Frank is able to escape and seeks out the help of Johan Falk. Has someone leaked that Frank is working with the police? Frank and John don't know who knows what and whom to trust.",
+        "popularity": 8.53,
+        "poster_path": "/uEaWnpEmoOgHlOwJIyGmPlyR0JR.jpg",
+        "release_date": "2013-03-15",
+        "title": "Johan Falk: Kodnamn: Lisa",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 2240,
+        "original_language": "de",
+        "original_title": "Unterm Birnbaum",
+        "overview": "Abel Hradscheck, the owner of an inn in the Oderbruch country, faces financial ruin. For this state of affairs, Ursula, his wife and former actress, is by no means free of blame. She is a \"newcomer\" to the area and even after eleven years in the area, still a \"stranger\". A Cracow company announces that a money-collector is on his way to the innkeeper. Mr. Szulski arrives and the debts are settled - with money supposedly stemming from an inheritance. The next day, Szulski departs but according to the maid and the stable-boy, behaves in a very strange manner. Soon afterwards, his carriage is discovered in the Oder River, but there is no trace of the drowned man. Hradscheck's neighbor starts casting suspicion on the innkeeper. The Counselor of Justice, who heads the investigations has the spot under the pear tree dug out. A dead body is exhumed...",
+        "popularity": 8.53,
+        "poster_path": "/2fQNsNHKEMVEFtTUlXTgXB9DhDi.jpg",
+        "release_date": "1973-11-16",
+        "title": "Unterm Birnbaum",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gnTrxJs6tuNnZ9AYUFhrZGtD4KM.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 31979,
+        "original_language": "en",
+        "original_title": "Played",
+        "overview": "An examination of the malevolent London underworld with it's despicable criminal underground. Ray (Mick Rossi) just finished an eight year prison sentence after getting set up. Now he is back on the streets to settle the score.",
+        "popularity": 8.528,
+        "poster_path": "/5I8at2uTDCZRSImREtisF0kxdzY.jpg",
+        "release_date": "2006-05-19",
+        "title": "Played",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            27,
+            28,
+            80
+        ],
+        "id": 194992,
+        "original_language": "ja",
+        "original_title": "ザ・ハード BOUNTY HUNTER",
+        "overview": "New York, USA. Hard has been making a living as a bounty hunter for years, but lately has been struggling to make ends meet due to alimony and child support payments for his beloved Momoko. A supposedly simple case devolves quickly into major mayhem and murder, and it's by no means sure he will be able to survive the crazy psychopaths trying to kill him for sticking his nose in their business. But he's not going down without a fight...",
+        "popularity": 8.527,
+        "poster_path": "/l5ZIl9tfDoquifvzcRzvLqOhQKG.jpg",
+        "release_date": "1996-05-01",
+        "title": "The Hard: Bounty Hunter",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bwlyHayb7jKfeBt9ccErQnKI1Lq.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 37695,
+        "original_language": "ru",
+        "original_title": "Горячие новости",
+        "overview": "A gang of crooks robbing cash collectors, run into a police surveillance team and the inadequate police response results in a gunfight. A TV crew on assignment in the area happens to capture this humiliation on camera, and this example of police incompetence is soon the lead story in every news bulletin. Public confidence in law and order now suffers irreparable harm. The head of the Moscow force welcomes a public search-and-destroy operation against these thugs, the brainchild of Katya, his PR director. She proposes that the capture of this dangerous gang be transformed into a live TV show of a kind never seen before. At this point she cannot know that the gang leader's life-and-death struggle with the police is destined to lead to a media duel. Besieged in a huge apartment block, the crooks hold hostage a father and his son and daughter. A massive special forces rescue operation is mounted but fails miserably.",
+        "popularity": 8.527,
+        "poster_path": "/fXYJhqYTO48SdqfeAbzEk5eRgQe.jpg",
+        "release_date": "2009-05-07",
+        "title": "Newsmakers",
+        "video": false,
+        "vote_average": 5.342,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53,
+            27
+        ],
+        "id": 416119,
+        "original_language": "en",
+        "original_title": "Blood Trap",
+        "overview": "Six criminals are tasked with kidnapping a young for ransom, but when they get locked inside her mansion, what they find is not what they expected.",
+        "popularity": 8.524,
+        "poster_path": "/eIyS1kDNR902DgtPbgd282zaBha.jpg",
+        "release_date": "2015-10-09",
+        "title": "Blood Trap",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zEIzNUKiQiaJh4H1qds878oEtoA.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            18
+        ],
+        "id": 46404,
+        "original_language": "hi",
+        "original_title": "Manorama Six Feet Under",
+        "overview": "Satyaveer is an engineer suspended for allegedly accepting a bribe. However, Satyaveer, proud author of a tawdry and thoroughly unsuccessful crime novel, is approached by a woman named Manorama to investigate her husband, whom she suspects of having an affair.",
+        "popularity": 8.524,
+        "poster_path": "/1b5ZrBI48xbAVmCbNNhvFXz474y.jpg",
+        "release_date": "2007-09-21",
+        "title": "Manorama Six Feet Under",
+        "video": false,
+        "vote_average": 6.479,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3Fw0Bf1UsrYLbyvJEriqZ2v5gVf.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1191133,
+        "original_language": "en",
+        "original_title": "The Murdaugh Murders",
+        "overview": "A determined reporter interviews the infamous Alex Murdaugh and hopes for answers pertaining to the alleged murders of his wife and son.",
+        "popularity": 8.523,
+        "poster_path": "/lyf3xGdwiHjIT4YCOix6qQK5HCi.jpg",
+        "release_date": "2023-10-14",
+        "title": "The Murdaugh Murders",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xBKV71iDqN2aFTVsnksTiYtLiwe.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 591051,
+        "original_language": "zh",
+        "original_title": "雪暴",
+        "overview": "Buried by treacherous conditions at the top of Mt. Baekdu, a policeman must brave the extreme weather until his transfer comes through. When a group of thieves stumbles into the station in search of safe shelter, both sides must fight for survival.",
+        "popularity": 8.522,
+        "poster_path": "/wOCQoSL4sf26JQLbFOOx2MBy4uu.jpg",
+        "release_date": "2019-04-30",
+        "title": "Savage",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l18EvF3UyplTeNjVESqYOdjSAXi.jpg",
+        "genre_ids": [
+            18,
+            10770,
+            80,
+            53
+        ],
+        "id": 252914,
+        "original_language": "en",
+        "original_title": "The Bait",
+        "overview": "Tracy Fleming is a widowed police officer, with a young son, who has risen to the role of plainclothes operative. After six women have been raped and killed, Fleming agrees to go undercover in an effort to make herself a target for the killer. The climax places her in a life-and-death struggle with the killer.",
+        "popularity": 8.522,
+        "poster_path": "/5dxEmYvr0HTCC9UmONC5SbtwETG.jpg",
+        "release_date": "1973-03-13",
+        "title": "The Bait",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 239499,
+        "original_language": "en",
+        "original_title": "Goodnight Sweet Wife: A Murder in Boston",
+        "overview": "Dramatic recounting of the true story of Bostonians Charles and Carol Stuart and the events before and after October 23, 1989, the night of the latter's murder, supposedly, as the husband related to police, by a young black man out to rob them while they were spending a night on the town.",
+        "popularity": 8.522,
+        "poster_path": "/cTYMbbo5fflhNpeXH9QUsyGHCQX.jpg",
+        "release_date": "1990-09-25",
+        "title": "Goodnight Sweet Wife: A Murder in Boston",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rPvdgmNIqoBpxWbBOd9V6xg9uEl.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 88213,
+        "original_language": "en",
+        "original_title": "Daughter of the Dragon",
+        "overview": "At her Chinese father's bidding, a woman goes to murder an enemy and meets a Scotland Yard detective.",
+        "popularity": 8.52,
+        "poster_path": "/fgQe9cPcYjr08PeKAfEe3Ebz9vX.jpg",
+        "release_date": "1931-09-05",
+        "title": "Daughter of the Dragon",
+        "video": false,
+        "vote_average": 5.139,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 116790,
+        "original_language": "en",
+        "original_title": "All-American Girl: The Mary Kay Letourneau Story",
+        "overview": "A teacher is arrested and jailed for raping her 13-year-old student, and twice gives birth to his child.",
+        "popularity": 8.519,
+        "poster_path": "/36hWaezEDqffAzHH2QJEIavMPnJ.jpg",
+        "release_date": "2000-01-18",
+        "title": "All-American Girl: The Mary Kay Letourneau Story",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gtwLmSRIdKEt7hnnqXmOYv3GsFa.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 44170,
+        "original_language": "en",
+        "original_title": "The Falcon in Hollywood",
+        "overview": "Suave amateur detective Tom Lawrence--aka Michael Arlen's literary hero The Falcon--arrives in Hollywood for some rest and relaxation, only to find himself involved in the murder of a movie actor. There's no shortage of suspects: the costume designer to whom he was married, a tyrannical director, a beautiful young French starlet, a Shakespeare-quoting producer, even a New York gangster. Helping The Falcon solve the crime is a cute, wise-cracking cab driver and a pair of bumbling cops.",
+        "popularity": 8.519,
+        "poster_path": "/8pdDEiJDpq1VVLyI1apFc9tgdrl.jpg",
+        "release_date": "1944-12-08",
+        "title": "The Falcon in Hollywood",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 12
+    }
+]

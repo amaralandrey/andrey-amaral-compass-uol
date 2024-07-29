@@ -1,0 +1,407 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/1X9mntzXjNz1kSg3ts9IvYW8492.jpg",
+        "genre_ids": [
+            27,
+            80,
+            9648
+        ],
+        "id": 34048,
+        "original_language": "ja",
+        "original_title": "エンジェル・ダスト",
+        "overview": "A police psychologist  suspects her former lover of serial murders on the Tokyo subway.",
+        "popularity": 12.377,
+        "poster_path": "/whguJSunavX8KDGwKU2K6CfgKD7.jpg",
+        "release_date": "1994-09-23",
+        "title": "Angel Dust",
+        "video": false,
+        "vote_average": 6.413,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tLsWFS5gN0vpDo4a1XDH7TFjoqx.jpg",
+        "genre_ids": [
+            37,
+            80,
+            53
+        ],
+        "id": 1062907,
+        "original_language": "en",
+        "original_title": "Guns & Moses",
+        "overview": "A beloved small town rabbi in the high desert becomes an unlikely gunslinger after his community is violently attacked.",
+        "popularity": 12.376,
+        "poster_path": "/pofWNQQoULWqPEu0jH6MTv8IFrV.jpg",
+        "release_date": "2024-06-19",
+        "title": "Guns & Moses",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vrqWxqg1ANAChv4RLI1UCeUXt0J.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            10770
+        ],
+        "id": 6032,
+        "original_language": "en",
+        "original_title": "Murder with Mirrors",
+        "overview": "When Miss Jane Marple arrives at palatial Stonygates, one thing is certain. Before there's time to lather a warm scone with marmalade and place a tea cozy, murder most foul is bound to occur.",
+        "popularity": 12.376,
+        "poster_path": "/jVRzRsYYuSuMpf5ZwlNI0ENUp1Q.jpg",
+        "release_date": "1985-02-20",
+        "title": "Murder with Mirrors",
+        "video": false,
+        "vote_average": 6.389,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6YrLPdqVhFyE8RtB2R8FjeIIo3e.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            12
+        ],
+        "id": 126854,
+        "original_language": "ru",
+        "original_title": "Приключения Шерлока Холмса и доктора Ватсона: Охота на тигра",
+        "overview": "Dr. Watson executes Sherlock Holmes' will, who faced death after exposing Moriarty and his gang in the previous episode.",
+        "popularity": 12.372,
+        "poster_path": "/jjmSEOYrVQ7Eja3Tw77xUQPuNQd.jpg",
+        "release_date": "1980-09-10",
+        "title": "The Adventures of Sherlock Holmes and Dr. Watson: Hunting the Tiger",
+        "video": false,
+        "vote_average": 7.827,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8qz78tNk8QZSmyKvWaZBkmIbPfv.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 72790,
+        "original_language": "en",
+        "original_title": "Hustle and Heat",
+        "overview": "A slick private eye set out to investigate the death of a young rapper, only to find himself knee-deep in drugs, guns, and double crosses.",
+        "popularity": 12.372,
+        "poster_path": "/cGxOcqIKgME1aWxXfVGm6UpR0iM.jpg",
+        "release_date": "2003-11-04",
+        "title": "Hustle and Heat",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/79JQ0qhjDHGlcP86fxWchwGwuOL.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 38082,
+        "original_language": "en",
+        "original_title": "Love and Bullets",
+        "overview": "Jackie Pruit is the girlfriend of notorious gangster Joe Bomposa. When it looks as if Bomposa's goons are threatening Jackie's life, the FBI moves in to protect her, hoping that she'll have incriminating evidence. Veteran agent Charlie Congers is assigned to watch over Jackie, and while it soon becomes apparent that she knows almost nothing about Bomposa that would be of any use to the FBI, he falls in love with her. Bomposa decides it would be more convenient to have Jackie out of the way, ordering her to be executed. Bomposa's henchmen slip through FBI security and murder her, but now they have to answer the angry and vengeful Congers.",
+        "popularity": 12.372,
+        "poster_path": "/zdKxBSl1BEjHTRa8ERLXnZLr8oU.jpg",
+        "release_date": "1979-04-05",
+        "title": "Love and Bullets",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8p2VGTmBHKXjOZQJ9D1fT5Jr6qr.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 348315,
+        "original_language": "nl",
+        "original_title": "Schone handen",
+        "overview": "Sylvia has turned a blind eye for too long to husband Eddie's flourishing drug business. When his dealing takes a (deadly) turn for the worse, however, her need to protect the lives and futures of her young children compel her to flee. But Eddie will stop at nothing to keep his wife inside the ‘family'.",
+        "popularity": 12.37,
+        "poster_path": "/68mACTcrUSy6CEIwBVkWlQnc03X.jpg",
+        "release_date": "2015-09-10",
+        "title": "Clean Hands",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jq2PByYoXK6K0rbdL41C2yjGK8E.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 51823,
+        "original_language": "en",
+        "original_title": "Across the Line: The Exodus of Charlie Wright",
+        "overview": "The story centers on Charlie, a Los Angeles billionaire financial whiz who goes into self-imposed exile in Tijuana after his empire is revealed to have been a Ponzi scheme. While looking for the woman he abandoned there 25 years before, Charlie is pursued by a Mexican gangster, a federal agent and thugs sent by a former client looking to retrieve his money.",
+        "popularity": 12.37,
+        "poster_path": "/wICNztMLSZjTPEYGuNX95loPJXg.jpg",
+        "release_date": "2010-12-28",
+        "title": "Across the Line: The Exodus of Charlie Wright",
+        "video": false,
+        "vote_average": 4.975,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hNHvjW48NwXKwncvU8XuTbr210o.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 22448,
+        "original_language": "hi",
+        "original_title": "आवारापन",
+        "overview": "A loyal henchman is ordered by his boss to keep an eye on his mistress, and trouble begins when he refuses to kill her.",
+        "popularity": 12.369,
+        "poster_path": "/yVArEukDbkfNjxsynes4PWI4nlk.jpg",
+        "release_date": "2007-06-29",
+        "title": "Awarapan",
+        "video": false,
+        "vote_average": 6.964,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5y98LdgXJPSo2n4vLJhTLCN78PS.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 41585,
+        "original_language": "it",
+        "original_title": "Mery per sempre",
+        "overview": "A teacher discovers his calling. Marco relocates to Palermo from Milan and takes a job teaching in a reform school while he waits for a high school position. He tries to understand and motivate his handful of students, reading them colloquial poetry, encouraging them to stand up for their rights, finding out about their histories. Natale, in for murder, enamoured of the Mafia, the King Rat within the group; Mery, a drag queen, arrested for assault when defending himself, in love with Mario and, in daylight, rejected by all; Pietro, illiterate, muscular, believing his destiny is set; the callow Claudio, vulnerable, learning to harden himself. What can Mario learn and do in such a short time?",
+        "popularity": 12.363,
+        "poster_path": "/iGgJH7580UkEaqrwxMolpqQ7a1X.jpg",
+        "release_date": "1989-05-04",
+        "title": "Mary Forever",
+        "video": false,
+        "vote_average": 7.466,
+        "vote_count": 222
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 78504,
+        "original_language": "en",
+        "original_title": "Restitution",
+        "overview": "A true crime writer investigating a small town murder spree uncovers the devastating truth that changes the town forever.",
+        "popularity": 12.361,
+        "poster_path": "/nJPv0WTZboiJ0tDD7wQF6Otn9MG.jpg",
+        "release_date": "2011-10-28",
+        "title": "Restitution",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eDtxOLU7a5LzLF5HbmmPPwOdgza.jpg",
+        "genre_ids": [
+            12,
+            80,
+            9648,
+            10770
+        ],
+        "id": 192899,
+        "original_language": "en",
+        "original_title": "The Sign of Four",
+        "overview": "Sherlock Holmes and Dr. Watson try to track down the Great Mogul, the second-largest diamond in the world.",
+        "popularity": 12.36,
+        "poster_path": "/yU0yVIswpZLPCPFigM2aRvKsTwj.jpg",
+        "release_date": "1983-12-06",
+        "title": "The Sign of Four",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sIRoLxhCq44jRlPF23nD7p8hMXm.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 507152,
+        "original_language": "en",
+        "original_title": "Myra",
+        "overview": "A trans sex worker in the Spanish barrio finds herself in an unwanted love triangle with a notorious gang leader while two drug organizations battle for supremacy suddenly finds herself tangled in a world of chaos and deceit.",
+        "popularity": 12.359,
+        "poster_path": "/gEozx5hsCNhk4hdNULkoC4uoWeS.jpg",
+        "release_date": "2019-01-19",
+        "title": "Myra",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l9vDTvNhuMTBLoTCqhFx9fPuH8N.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            12
+        ],
+        "id": 126846,
+        "original_language": "ru",
+        "original_title": "Приключения Шерлока Холмса и доктора Ватсона: Король шантажа",
+        "overview": "Mycroft Holmes hands Sherlock Holmes the case of the Master Blackmailer.",
+        "popularity": 12.359,
+        "poster_path": "/f8DfsnLKFWjQ5L21VSwDeODJ4iN.jpg",
+        "release_date": "1980-09-08",
+        "title": "The Adventures of Sherlock Holmes and Dr. Watson: King of Blackmailers",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hEibQYTCiZezpU35R7Fn0kiscKv.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            53,
+            80
+        ],
+        "id": 37216,
+        "original_language": "en",
+        "original_title": "Blind Date",
+        "overview": "Dutch painter Jan-Van Rooyer hurries to keep a rendezvous with Jacqueline Cousteau, an elegant, sophisticated Frenchwoman, slightly his elder, whose relationship with him had turned from art student into one of love trysts. He arrives and is confronted by Detective Police Inspector Morgan who accuses him of having murdered Jacqueline. Morgan listens sceptically to the dazed denials of Van Rooyer as he tells the story of his relationship with the murdered woman. Morgan, after hearing the story, realizes that the mystery has deepened, and it becomes more complicated when the Assistant Commissioner, Sir Brian Lewis, explains that Jacqueline was not married but was being kept by Sir Howard Fenton, a high-ranking diplomat whose names must be kept out of the case.",
+        "popularity": 12.359,
+        "poster_path": "/9Cqpi47eDzd4QZS1TJdwhN70Mz3.jpg",
+        "release_date": "1959-08-01",
+        "title": "Blind Date",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/csnvGN0ciWcYEMNUZ5xgMDFdTAd.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 893508,
+        "original_language": "en",
+        "original_title": "The Bezonians",
+        "overview": "In the Bezonians social club in North London, A group of down and outs scheme, plot and dream of becoming rich and breaking out of the monotony of their dreary and financially impotent lives.",
+        "popularity": 12.358,
+        "poster_path": "/w42KoVU0GSDAHLcj0mZgRBmzvq6.jpg",
+        "release_date": "2022-09-15",
+        "title": "The Bezonians",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xX0b98ePpgZaD3AtzFlsuZcT1OW.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 29464,
+        "original_language": "en",
+        "original_title": "Uptown Saturday Night",
+        "overview": "Two blue-collar buddies search the underworld for a winning lottery ticket lost in a nightclub holdup.",
+        "popularity": 12.356,
+        "poster_path": "/qVLO2SoUa33Yvy5yme2cEuQIO4o.jpg",
+        "release_date": "1974-07-26",
+        "title": "Uptown Saturday Night",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zZJvZA1UCxxEytyXFVX32WzGIqk.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 400969,
+        "original_language": "ja",
+        "original_title": "日本で一番悪い奴ら",
+        "overview": "Starting in 1970s Hokkaido, the film charts the moral descent of Detective Moroboshi over three decades, the young cop quickly gets a bit too cozy with the other side of the law when his senior colleague Murai teaches him the ropes and ruts of the police business. Soon, he swaggers and rants through the streets of Sapporo a lean, mean, sex‐crazy bully, indistinguishable from a yakuza.",
+        "popularity": 12.354,
+        "poster_path": "/eP5DUanjrrEjRbNzmeoLrpyJGi9.jpg",
+        "release_date": "2016-06-25",
+        "title": "Twisted Justice",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7c65xpnYlea6VITznLLRS9cTuwS.jpg",
+        "genre_ids": [
+            80,
+            53,
+            27
+        ],
+        "id": 9533,
+        "original_language": "en",
+        "original_title": "Red Dragon",
+        "overview": "Former FBI Agent Will Graham, who was once almost killed by the savage Hannibal 'The Cannibal' Lecter, now has no choice but to face him again, as it seems Lecter is the only one who can help Graham track down a new serial killer.",
+        "popularity": 12.353,
+        "poster_path": "/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg",
+        "release_date": "2002-10-02",
+        "title": "Red Dragon",
+        "video": false,
+        "vote_average": 7.021,
+        "vote_count": 4145
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fXc9lr6rAcgendfvafCMRdw15tr.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 14607,
+        "original_language": "en",
+        "original_title": "Loaded",
+        "overview": "A young, wealthy club kid's life spirals downward into an out-of-control world of drugs, sex and violence.",
+        "popularity": 12.352,
+        "poster_path": "/mhXXieOT9fZxJ0TdTBgy9RfYmIg.jpg",
+        "release_date": "2008-03-25",
+        "title": "Loaded",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 38
+    }
+]

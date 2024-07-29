@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/ytBo0IU4Q9eDqdq2jdtzm3m6Qqc.jpg",
+        "genre_ids": [
+            28,
+            878,
+            80,
+            10770
+        ],
+        "id": 244839,
+        "original_language": "en",
+        "original_title": "Into Pitch Black",
+        "overview": "After the events of Pitch Black, a contractor is hired to locate Riddick, dead or alive. He reviews available information on him and the events of Pitch Black. Terrified, he hires a female cyberpunk merc to do the job for him.",
+        "popularity": 15.295,
+        "poster_path": "/daB2WDVkOXzaWohtuxvOArpRF4X.jpg",
+        "release_date": "2000-12-02",
+        "title": "Into Pitch Black",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/evozfrdHPMVSjVUdtVq3lRXUT7R.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 391477,
+        "original_language": "cn",
+        "original_title": "選老頂",
+        "overview": "The godfather of the triad Jing Hing and his senior bosses need to select a new boss to run the daily operations of the five gangs under their control. Chuck, a lifelong member of the triad, dreams of being the elected one, but his wife wants him to leave the criminal life and spend time with their child. Wulf, a former cop, also wants take over the seat. Both will try to achieve their goal by any means necessary.",
+        "popularity": 15.294,
+        "poster_path": "/qzE3Ewb26HilHSO0gweiORgY3Rx.jpg",
+        "release_date": "2016-03-31",
+        "title": "The Mobfathers",
+        "video": false,
+        "vote_average": 5.955,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rnxoI9ojYhReuBgb1gxkejpS55i.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 8899,
+        "original_language": "fr",
+        "original_title": "Le Silence de Lorna",
+        "overview": "Lorna is a young Albanian woman in a marriage of convenience with Claudy, a heroin addict. Just as Lorna is about to be granted Belgian citizenship, Claudy finds the strength to detox; this presents a problem not only for Lorna, but for the criminal who brokered the deal.",
+        "popularity": 15.294,
+        "poster_path": "/nBhfKw4VnRwYuRgN117soBlH4oY.jpg",
+        "release_date": "2008-08-27",
+        "title": "Lorna's Silence",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 145
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n5ekLLoLLoxDzXCvwEHmkSSeUtz.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 34145,
+        "original_language": "fr",
+        "original_title": "Classe tous risques",
+        "overview": "On crowded Milan streets, two men execute a split-second payroll heist—in broad daylight—then begin a lightning-paced getaway, via every conveyance available. But after all, when a tough guy's returning to France (where he's been sentenced to death in absentia) after holing up in Italy for nearly a decade, he's got to have some startup money—particularly if he's going back with the wife and kids.",
+        "popularity": 15.293,
+        "poster_path": "/uMiuUAlPwiWDKSgu4SoShpzvMR.jpg",
+        "release_date": "1960-03-23",
+        "title": "The Big Risk",
+        "video": false,
+        "vote_average": 7.041,
+        "vote_count": 122
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z9Hs1wbcJycRL0y0QOr3CNZw48K.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 21296,
+        "original_language": "en",
+        "original_title": "Kansas City Confidential",
+        "overview": "An ex-convict sets out to uncover who framed him for an armored car robbery.",
+        "popularity": 15.29,
+        "poster_path": "/2RcTYPzsR0QfN5d8g3HjIkIqcbg.jpg",
+        "release_date": "1952-11-11",
+        "title": "Kansas City Confidential",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 125
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ro3IFKScjT2yTw1CbEYguMDKhfH.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878,
+            80
+        ],
+        "id": 200565,
+        "original_language": "ja",
+        "original_title": "特捜戦隊デカレンジャー THE MOVIE フルブラスト・アクション",
+        "overview": "The Dekarangers must deal with a mysterious undercover agent from another planet while trying to save her world and Earth from one of the universe's toughest Alienizer gangs.",
+        "popularity": 15.287,
+        "poster_path": "/ndQ9z0Odo7QxBphu9SHU1MX8lZK.jpg",
+        "release_date": "2004-09-11",
+        "title": "Tokusou Sentai Dekaranger The Movie: Full Blast Action",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qySEOp4MLscb9JDl89ooUJKpbVn.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 47467,
+        "original_language": "en",
+        "original_title": "Kill Speed",
+        "overview": "KILL SPEED is a high-octane, youth oriented, TOP GUN meets FAST & FURIOUS tale about best friends who fly home-built, high-tech planes to deliver Mexican manufactured crystal meth throughout rural California in order to fund their Hollywood, rock-star lifestyle.",
+        "popularity": 15.287,
+        "poster_path": "/w64IOlFCuM2s7XRqW3pO5wTeHg6.jpg",
+        "release_date": "2010-07-02",
+        "title": "Kill Speed",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bADN7ADEamWrtnDM8pAE1vgI3GC.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            10770
+        ],
+        "id": 47338,
+        "original_language": "ja",
+        "original_title": "名探偵コナンドラマスペシャル「工藤新一の復活！黒の組織との対決」",
+        "overview": "Shinichi Kudo returns as the young Conan to investigate a murderous letter sent to a beauty pageant winner who demands affection.",
+        "popularity": 15.287,
+        "poster_path": "/AnWR6Jk3kKJA7j010YAtWkSWoyQ.jpg",
+        "release_date": "2007-12-17",
+        "title": "Detective Conan Drama Special 2: Confrontation With the Men in Black",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9cek8exHD4kPc1jeiEYRhfmXOG6.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 40420,
+        "original_language": "fr",
+        "original_title": "Flic ou Voyou",
+        "overview": "When the local police inspector was found dead in a prostitute's house, police division commissioner Stan Borowitz is sent to investigate the situation. Posing as the prostitute's long-lost brother \"Antonio Cerruti,\" he discovers a mare's nest of police corruption. In fact, in this comedy thriller the whole town is corrupt. If they were closely examined, Stan's methods for pursuing this investigation might embarrass the police. For instance, he drives into a criminal's house in a fancy, expensive race car. In another incident, he callously blows up a casino owned by Musard , one of the town's crime bosses. On that occasion, he first forces Musard to remove his clothes, and the poor criminal watches his casino explode from across the square while standing naked in a phone booth. Meanwhile, Stan seduces the lovely Edmonde.",
+        "popularity": 15.287,
+        "poster_path": "/1wL9rqvi9346OdZs9EptPTEHMOz.jpg",
+        "release_date": "1979-03-28",
+        "title": "Cop or Hood",
+        "video": false,
+        "vote_average": 6.349,
+        "vote_count": 175
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tcmvDVzH7JpVhhRGDemOrYNNo4g.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 64912,
+        "original_language": "ja",
+        "original_title": "仁義なき戦い 完結篇",
+        "overview": "While Hirono is in prison, his rival Takeda turns his own crime organization into a political party, whose two executives stir up new tensions in their thirst for power.",
+        "popularity": 15.284,
+        "poster_path": "/hU54IC4vbi5htQg6AVxjwTeYy6t.jpg",
+        "release_date": "1974-06-29",
+        "title": "Battles Without Honor and Humanity: Final Episode",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ilPfKsXn2mvBKsvzwVUUbViDdU2.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 768480,
+        "original_language": "ja",
+        "original_title": "劇場版 シグナル 長期未解決事件捜査班",
+        "overview": "The story continues from the Japanese SIGNAL drama series. In 2021, a limousine taxi driver causes an accident on a highway, and a high-level government official dies in the accident. The cold case investigation unit, including Kento Saegusa and team leader Misaki Sakurai, have doubts about the case. Meanwhile, in 2009, administrative officers die consecutively in car accidents. The police announce these deaths as accidents. Takeshi Ōyama believes that these deaths were not the product of simple accidents. At 11:23 pm, a walkie-talkie turns on and makes a connection between the future and past. Kento Saegusa and Takeshi Ōyama face the threat of bioterrorism.",
+        "popularity": 15.282,
+        "poster_path": "/AfkA9vQ102SEguTiFBR4EvHEbdv.jpg",
+        "release_date": "2021-04-02",
+        "title": "SIGNAL: The Movie – Cold Case Investigation Unit",
+        "video": false,
+        "vote_average": 6.714,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8iqWC0vFo4yDEi8dlLaeQT9HQ7M.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 26167,
+        "original_language": "en",
+        "original_title": "Raw Deal",
+        "overview": "A revenge-seeking gangster is sent to prison after being framed for a crime he didn't commit. After seducing a beautiful young woman, he uses her to help him carry out his plot for vengeance, leading him to the crazy pyromaniac who set him up.",
+        "popularity": 15.277,
+        "poster_path": "/qLC4VnigxhC4ovSZdH2JUjuXoYY.jpg",
+        "release_date": "1948-05-21",
+        "title": "Raw Deal",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 96
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l8CVEHGV53lrptHpHiiBMFGg9kk.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 63415,
+        "original_language": "cn",
+        "original_title": "復仇者之死",
+        "overview": "A serial murderer has brutally killed several policemen and their pregnant wives. After a quick investigation, the murderer is revealed to be Kit, whom the case's detective-in-charge knows from a previous case. Once upon a time, Kit was an innocent boy in a rural village who also has a crush on naïve high school student Wing. After the death of Wing's grandmother, Kit rescues Wing from a foster care facility, and the two quickly fall in love. However, their romance ends prematurely when a local policeman arrests them. The events that follow lay the seeds for Kit's terrifying path to vengeance.",
+        "popularity": 15.275,
+        "poster_path": "/mqeO5gCR0NtipojZ9QydW88kPsN.jpg",
+        "release_date": "2010-10-22",
+        "title": "Revenge: A Love Story",
+        "video": false,
+        "vote_average": 6.679,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2gy1Y4HZgIjmY1PzPoi7AcYrFbO.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 27036,
+        "original_language": "en",
+        "original_title": "Too Late for Tears",
+        "overview": "Through a fluke circumstance, a ruthless woman stumbles across a suitcase filled with $60,000, and is determined to hold onto it even if it means murder.",
+        "popularity": 15.266,
+        "poster_path": "/zMIBqFSnyvOr6Thi3RtViicdCm5.jpg",
+        "release_date": "1949-07-17",
+        "title": "Too Late for Tears",
+        "video": false,
+        "vote_average": 6.719,
+        "vote_count": 80
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            18,
+            10749,
+            80
+        ],
+        "id": 113076,
+        "original_language": "en",
+        "original_title": "Gypsy Eyes",
+        "overview": "A security officer tracks down the Gypsy girl who can identify an American diplomat's killer.",
+        "popularity": 15.26,
+        "poster_path": "/owlX1EYhGRKkHvoSiE6JXKKdPsd.jpg",
+        "release_date": "1993-01-01",
+        "title": "Gypsy Eyes",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bMwWuvcPIWzNpqZwur1AVEWznGE.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27
+        ],
+        "id": 408439,
+        "original_language": "en",
+        "original_title": "Hounds of Love",
+        "overview": "When Vicki Maloney is randomly abducted from a suburban street by a disturbed couple, she soon observes the dynamic between her captors and quickly realises she must drive a wedge between them if she is to survive.",
+        "popularity": 15.259,
+        "poster_path": "/b4niGo8hpxIpmAZsGkpZK4mXiDo.jpg",
+        "release_date": "2016-10-07",
+        "title": "Hounds of Love",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 330
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b6jzjjZHRYfdGNBvBSxcKVexBIN.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1773,
+        "original_language": "en",
+        "original_title": "American Madness",
+        "overview": "Socially-conscious banker Thomas Dickson faces a crisis when his protégé is wrongly accused of robbing the bank, gossip of the robbery starts a bank run, and evidence suggests Dickson's wife had an affair... all in the same day.",
+        "popularity": 15.256,
+        "poster_path": "/hLtaGtsvyws2I18qltMGNyU4Mm1.jpg",
+        "release_date": "1932-08-15",
+        "title": "American Madness",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iOGxpQtUrjs9WBze13jzAq2ZLD.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 591237,
+        "original_language": "en",
+        "original_title": "Bulletproof 2",
+        "overview": "Special Agent Jack Carter reluctantly assumes the identity of criminal Archie Moses to take down a powerful South African crime family. But when the real Moses is put in danger, he and Carter must work together to foil the scheme for good.",
+        "popularity": 15.248,
+        "poster_path": "/uGILkFnRrpdiNtDaHeekGZSn5o5.jpg",
+        "release_date": "2020-01-07",
+        "title": "Bulletproof 2",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 86
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4zyuCJtoGmrxqk9rp9KxBpzhklp.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 94809,
+        "original_language": "it",
+        "original_title": "Napoli violenta",
+        "overview": "Inspector Betti (Maurizio Merli) is transferred to Naples and immediately after his arrival receives a warm welcome from The Commandante (Barry Sullivan), the city's crime lord. Betti then goes on a personal mission against corruption and organized crime, and tries to force the syndicate out of town with any means necessary.",
+        "popularity": 15.246,
+        "poster_path": "/rZLGP9fpTFOXjR0hf7QziMKy0b2.jpg",
+        "release_date": "1976-08-07",
+        "title": "Violent Naples",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 224244,
+        "original_language": "en",
+        "original_title": "Discopathe",
+        "overview": "The mid-70's: A timid young New Yorker leads an uneventful life until he is fatefully exposed to the pulsating rhythms of a brand-new genre of music....disco. Unable to control his murderous impulses that stem from a traumatic childhood experience, Duane Lewis transforms into a dangerous serial killer exiled to Montreal.",
+        "popularity": 15.241,
+        "poster_path": "/1y2EtsXbCV4lpoGptduEtwv5mmB.jpg",
+        "release_date": "2013-08-03",
+        "title": "Discopath",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 36
+    }
+]

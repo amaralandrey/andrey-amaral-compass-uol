@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/ouhF0NDd50uZfUdRtWd3NmPzoSV.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 33419,
+        "original_language": "en",
+        "original_title": "The House of Fear",
+        "overview": "The Good Comrades are a collection of varied gentlemen who crave one thing - solitude. They reside at Drearcliff House, ancestral home of their eldest member. All seems serene and convivial until one by one the members begin to perish in the most grisly of manners. Foul play is suspected by the Good Comrades' insurance agent, who turns to Sherlock Holmes and Dr. John Watson for guidance.",
+        "popularity": 13.073,
+        "poster_path": "/3tHTXEnBmnTX4tJUQ5JAIKosp3d.jpg",
+        "release_date": "1945-03-16",
+        "title": "The House of Fear",
+        "video": false,
+        "vote_average": 6.823,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2vdzBRU95r92aTHgFXfnPODBUag.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 61998,
+        "original_language": "ru",
+        "original_title": "ПираМММида",
+        "overview": "Russia, early 90s. A fictional story inspired by financier Sergey Mavrodi, his securities company \"MMM\", and the pyramid scheme he ran that left upwards of fifteen million investors with nothing when it crashed.",
+        "popularity": 13.069,
+        "poster_path": "/xg7Ij96vWPK02ySAJmUctmzvKCN.jpg",
+        "release_date": "2011-04-07",
+        "title": "The PyraMMMid",
+        "video": false,
+        "vote_average": 5.603,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a3rzGlFc6UmdWShekSzGbOLWUWk.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648,
+            53
+        ],
+        "id": 28715,
+        "original_language": "en",
+        "original_title": "Madhouse",
+        "overview": "A horror movie star returns to his famous role after years in a mental institution. But the character seems to be committing murders independent of his will.",
+        "popularity": 13.069,
+        "poster_path": "/uGvbgGotNIr24wyMrrfgYcSuH1r.jpg",
+        "release_date": "1974-05-22",
+        "title": "Madhouse",
+        "video": false,
+        "vote_average": 6.15,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iEoswpT189UFsp28bE0gOOiScB7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 141099,
+        "original_language": "en",
+        "original_title": "Jack Irish: Black Tide",
+        "overview": "Jack Irish has no shortage of friends, but family members are few and far between. His wife was murdered by an ex-client and his father is a fading photo on the pubs football wall of fame. So when Des Connors, the last link to his dad, calls to ask for help in the matter of a missing son, Jack is more than happy to lend a hand. But sometimes prodigal sons go missing for a reason... As Jack begins to dig, he discovers that Gary Connors was a man with something to hide, and his friends are people with yet darker and even more deadly secrets.",
+        "popularity": 13.068,
+        "poster_path": "/4v6UE8i5qNjOOjlCde7nn82InvE.jpg",
+        "release_date": "2012-10-24",
+        "title": "Jack Irish: Black Tide",
+        "video": false,
+        "vote_average": 6.779,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hqLCdhnwsBnSzyZiqmprTBEmcJH.jpg",
+        "genre_ids": [
+            16,
+            80,
+            18
+        ],
+        "id": 373522,
+        "original_language": "ja",
+        "original_title": "サンクチュアリ",
+        "overview": "Two Japanese survivors of the Khmer Rouge massacres in Cambodia vow to find a sanctuary, even if they have to build it themselves. Returning to Japan, they take seemingly opposite paths: one becomes a politician, the other a gangster. As Asami and Houjou work through the linked worlds of politics and crime in modern Japan, they don't hesitate to do anything necessary to secure their own positions and stay true to their vow. Loyal to no one else, they find their friendship increasingly tested as they rise in their chosen fields.",
+        "popularity": 13.066,
+        "poster_path": "/zc9kBMZWL3ASvtPXi2KgTM4j7BA.jpg",
+        "release_date": "1996-05-01",
+        "title": "Sanctuary",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uYXKu20M7I0Fm6pMz75RYqSTi10.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 261290,
+        "original_language": "cn",
+        "original_title": "公僕II",
+        "overview": "Two Cops, one young and hotheaded, the other aging and by-the-book, are teamed up to break a case involving a series of Jewel heists by a ruthless young gangster and his illegal immigrant gang.",
+        "popularity": 13.066,
+        "poster_path": "/xx2uyUOnEmHbSOcHsKh3yYlRDsg.jpg",
+        "release_date": "1995-11-07",
+        "title": "City Cop",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pwsSGCxAJ8ZKvkcpSDxMBEjCwSO.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1168842,
+        "original_language": "en",
+        "original_title": "Monster Inside: America's Most Extreme Haunted House",
+        "overview": "Russ McKamey is the creator of the world's \"most extreme haunted house\" - McKamey Manor. He is also a manipulative abuser, according to three people who realize the horror is never over once you decide to enter the Manor.",
+        "popularity": 13.065,
+        "poster_path": "/5qXF43ZW6liSInXRXDdNpnxphAb.jpg",
+        "release_date": "2023-10-12",
+        "title": "Monster Inside: America's Most Extreme Haunted House",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7FQOYgA97hja8d8h17XlsjtQWXS.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 538260,
+        "original_language": "en",
+        "original_title": "Abducted",
+        "overview": "After seven-year-old Eden is kidnapped during an home invasion, single father Dane Hunte takes matters into his own hands, while Detective Fini, leading the investigation, unravels the mystery surrounding the unusual crime.",
+        "popularity": 13.064,
+        "poster_path": "/sUrGR7tlMUtgM0KhXYunWs0NK3G.jpg",
+        "release_date": "2018-02-21",
+        "title": "Abducted",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/im2zna0ghMTsBGtD4IUE3gfqwOZ.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 15156,
+        "original_language": "en",
+        "original_title": "Illegal Tender",
+        "overview": "After the gangsters who killed his father come to settle a score, a teenage boy and his mother turn the tables on the killers - one Latino family's quest for honor and revenge as the hunted become the hunters.",
+        "popularity": 13.064,
+        "poster_path": "/aWup2SrtnKKIHoWvcK8Gwr85ScK.jpg",
+        "release_date": "2007-08-24",
+        "title": "Illegal Tender",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rOXcmXwqnhumrLKzTFjUmcFPkHk.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            10770
+        ],
+        "id": 247695,
+        "original_language": "en",
+        "original_title": "The Inspectors",
+        "overview": "U.S Postal Inspectors are called in when a suburban couple are killed by a mail bomb. Suspicion immediately falls on the couple's estranged and heavily in debt son, who also just happens to be a Navy munitions expert. But investigations reveal that he is on the run from a past event in his life that is associated with the bombings.",
+        "popularity": 13.063,
+        "poster_path": "/py4FOsOlGcYuYs1v7VEXjSMnMOE.jpg",
+        "release_date": "1998-09-20",
+        "title": "The Inspectors",
+        "video": false,
+        "vote_average": 5.833,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8vFviADj8GIeYNNrERlPVSbwKlN.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 75905,
+        "original_language": "en",
+        "original_title": "Fragment of Fear",
+        "overview": "A reformed drug addict travels to Italy to find out who murdered his aunt.",
+        "popularity": 13.063,
+        "poster_path": "/g0FVuvvekTgfJzgVEoObJ6v2Kdj.jpg",
+        "release_date": "1970-09-03",
+        "title": "Fragment of Fear",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5BKOFdrBRmB2bZ1YEVlnG0LMSQa.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            53,
+            80,
+            18
+        ],
+        "id": 81539,
+        "original_language": "en",
+        "original_title": "Good Morning, Killer",
+        "overview": "Follows FBI Special Agent Ana Gray as she hunts for a kidnapper. As Ana develops a rapport with the kidnapper's latest victim, the suspect suddenly changes his pattern. Now Ana must race to find him before he strikes again.",
+        "popularity": 13.061,
+        "poster_path": "/yLNwcSzDJ6dAaENPPDZNAr268Rg.jpg",
+        "release_date": "2011-12-13",
+        "title": "Good Morning, Killer",
+        "video": false,
+        "vote_average": 5.25,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qKAoBpVwq7JRhBW7zhgKUjsySiK.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1312019,
+        "original_language": "en",
+        "original_title": "BOUND",
+        "overview": "To escape her overprotective drug-dealing stepfather, an introvert flees to NYC with her pet pocket squirrel. After successfully reinventing herself through the help of some \"found family,\" she realizes she must return home and confront her dark past, to truly be free.",
+        "popularity": 13.06,
+        "poster_path": "/zmmGocQvitCRmXMi7qXkHSNyyXF.jpg",
+        "release_date": "",
+        "title": "BOUND",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/31i0ehr5zgOCpCxlEfRmdfnCP58.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 359243,
+        "original_language": "ko",
+        "original_title": "치외법권",
+        "overview": "Jung-Jin is a criminal profiler and he came from the FBI in the United States. Yoo-Min is a detective and he graduated from the top police university, but he is more interested in women then arresting criminals. Jung-Jin and Yoo-Min are called to the special investigation headquarter for a secret meeting. There, Jung-Jin and Yoo-Min receive an order to take down the boss of a criminal organization. The crime boss, with the help of people in power, appears untouchable.",
+        "popularity": 13.059,
+        "poster_path": "/faplWlxPTgSdxbmoPeFgh4nqSIZ.jpg",
+        "release_date": "2015-08-27",
+        "title": "Untouchable Lawmen",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uq8ZNFJPEwBe64htVakNjTZClyW.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 29388,
+        "original_language": "en",
+        "original_title": "High Life",
+        "overview": "It's 1983, and hopeless junkie Dick gets an unwelcome visit from the past - his seriously sleazy former cellmate, Bug, to be precise. Bug requires a crash course in the 80s: different music, different drugs, and machines in walls that dispense money. The latter development gives Dick an idea.",
+        "popularity": 13.058,
+        "poster_path": "/alzUTGTbpA204di5WSIWlBKdjbl.jpg",
+        "release_date": "2009-02-07",
+        "title": "High Life",
+        "video": false,
+        "vote_average": 5.875,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y1y19cvjp8cqnASszAGwRMImiZF.jpg",
+        "genre_ids": [
+            28,
+            37,
+            80
+        ],
+        "id": 127475,
+        "original_language": "en",
+        "original_title": "The Revengers",
+        "overview": "The life of peaceful rancher John Benedict is torn apart when his family is massacred by a gang of marauding outlaws and his farm is destroyed. He assembles a team of mean, lawless convicts to act as his posse as he pursues the gang responsible for the deaths of his loved ones.",
+        "popularity": 13.054,
+        "poster_path": "/pkTz0NgUxn4bbNLBXPpjHlVbCgP.jpg",
+        "release_date": "1972-06-21",
+        "title": "The Revengers",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ofJAJTtJgRGzvVhURUpAMRXmaTX.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80,
+            9648
+        ],
+        "id": 70917,
+        "original_language": "en",
+        "original_title": "The Scenesters",
+        "overview": "Someone is killing beautiful young Hipsters in East L.A. Charlie is a crime scene cleaner working for Aftershocks Inc. with a penchant for Sherlock Holmes type deduction. Wallace is an out-of-luck filmmaker working as a crime scene videographer. The detectives covering the murders are apathetic at best but with good names (Henry and Carlita, particularly Carlita). Good names, bad attitudes.",
+        "popularity": 13.053,
+        "poster_path": "/esOcs9qE9xsFCII9hendMIFzVma.jpg",
+        "release_date": "2009-08-31",
+        "title": "The Scenesters",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pajE6iL8cYQjMyI7oeXr0d1b5mh.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1046529,
+        "original_language": "fr",
+        "original_title": "Le Masque",
+        "overview": "Featuring interviews with his accomplices and victims alike, this deep dive explores how a master con man scammed French elites out of millions of euros.",
+        "popularity": 13.049,
+        "poster_path": "/7TQLEXSrGPMn0EVCjyBJkSHGpqj.jpg",
+        "release_date": "2022-12-01",
+        "title": "The Masked Scammer",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1vfMUSqvD1ecBmJWPDUqIlZQxJn.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            10749
+        ],
+        "id": 49288,
+        "original_language": "cn",
+        "original_title": "友情歲月之山雞故事",
+        "overview": "Those Were the Days... is a 2000 Hong Kong film directed by Raymond Yip. The film is a spin-off/prequel of the Young and Dangerous film series, as it follows the life of Chicken Chiu (Jordan Chan) before he joined the triads with the boss Chan Ho Nam (Ekin Cheng).",
+        "popularity": 13.047,
+        "poster_path": "/dqeZDnR5VPlP0VPdlYMxkVq8BdJ.jpg",
+        "release_date": "2000-03-31",
+        "title": "Those Were the Days",
+        "video": false,
+        "vote_average": 6.091,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53,
+            18,
+            80
+        ],
+        "id": 31992,
+        "original_language": "en",
+        "original_title": "Freeway Killer",
+        "overview": "For years he terrorized California motorists as he rode the endless highways searching for his next victim. The discarded bodies turned up beaten, sexually assaulted and horribly mutilated. Deceptively charming and intelligent, the scheming murderer easily avoided police at first. But as police closed in and the killer’s pattern grew more erratic, the only question was how many more will die?",
+        "popularity": 13.042,
+        "poster_path": "/enrh35Wz7xd6LExXSryOqOrTTGt.jpg",
+        "release_date": "2009-11-04",
+        "title": "Freeway Killer",
+        "video": false,
+        "vote_average": 4.921,
+        "vote_count": 19
+    }
+]

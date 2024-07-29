@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/k8TRjMqUkS3dv3PluvNkZ6rXC58.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1170659,
+        "original_language": "en",
+        "original_title": "Paradise",
+        "overview": "An Indian tourist couple arrive in the hill country of crisis ridden Sri Lanka to celebrate their 5th wedding anniversary. But, when things take an unexpected turn, conflicts deepen revealing cracks in their relationship.",
+        "popularity": 14.941,
+        "poster_path": "/pYl7ydDvidoaM2Q8pLx8rGn8WRg.jpg",
+        "release_date": "2024-06-21",
+        "title": "Paradise",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2htKwdsvkEPgAMGgwqERaQOXM0f.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 5482,
+        "original_language": "it",
+        "original_title": "Cani arrabbiati",
+        "overview": "Following a bungled robbery, three violent criminals take a young woman, a middle-aged man, and a child hostage and force them to drive them outside Rome to help them make a clean getaway.",
+        "popularity": 14.935,
+        "poster_path": "/coPfiRtfFvbEOJra64hnlXMsY8w.jpg",
+        "release_date": "1974-01-01",
+        "title": "Rabid Dogs",
+        "video": false,
+        "vote_average": 7.587,
+        "vote_count": 241
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/muoXo3P15X4iIrP6TzLIK34TY7b.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648,
+            53,
+            10752
+        ],
+        "id": 44383,
+        "original_language": "en",
+        "original_title": "Sherlock Holmes in Washington",
+        "overview": "In World War II, a British secret agent carrying a vitally important document is kidnapped en route to Washington. The British government calls on Sherlock Holmes to recover it.",
+        "popularity": 14.931,
+        "poster_path": "/ni0H8iNOcmW26Y0aNLiA4wyckxX.jpg",
+        "release_date": "1943-03-24",
+        "title": "Sherlock Holmes in Washington",
+        "video": false,
+        "vote_average": 6.722,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5lUp8KpXMLGN7BSr8cBuVw3xHXQ.jpg",
+        "genre_ids": [
+            28,
+            16,
+            878,
+            80
+        ],
+        "id": 1157408,
+        "original_language": "ja",
+        "original_title": "攻殻機動隊ARISE: Pyrophoric Cult",
+        "overview": "Motoko and her squad are finally getting closer to Fire-Starter's broker, but things get tense when they're instructed to take a backseat role on a sting operation.",
+        "popularity": 14.929,
+        "poster_path": "/yRcAlT0tKvJNOUKfi1HiNPxGsiE.jpg",
+        "release_date": "2015-08-26",
+        "title": "Ghost in the Shell: Arise - Border 5: Pyrophoric Cult",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/feyY1epCcD0TLrZLCBnvlGlsMdJ.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80
+        ],
+        "id": 1282960,
+        "original_language": "en",
+        "original_title": "Detained",
+        "overview": "In the dead of night, Rebecca wakes in a decrepit precinct, accused of a hit-and-run. But a deadly scuffle reveals a sinister plot. With nowhere to turn, she must uncover the truth before it consumes her. But Rebecca harbors secrets darker than they know.",
+        "popularity": 14.928,
+        "poster_path": "/lR7RTf2vsJl9lwCUmDyKCmU7X6L.jpg",
+        "release_date": "2024-08-02",
+        "title": "Detained",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f8O51BCfQoCoN1DN17LXKDcUe6V.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 350160,
+        "original_language": "de",
+        "original_title": "Schweinskopf al dente",
+        "overview": "As he tries to win back his ex-girlfriend, a lethargic Lower Bavarian police officer gets sidetracked by a panicky boss and an escaped psychopath.",
+        "popularity": 14.928,
+        "poster_path": "/5Xekhu9z0c25LL5jLl8scOmn55x.jpg",
+        "release_date": "2016-08-11",
+        "title": "Schweinskopf al dente",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 98
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nUVs60eIFezgmRjEYRAONPAsLCy.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 24508,
+        "original_language": "en",
+        "original_title": "The Lineup",
+        "overview": "In San Francisco, a psychopathic gangster and his mentor retrieve heroin packages carried by unsuspecting travelers.",
+        "popularity": 14.925,
+        "poster_path": "/7SyTNyeZpJ4lXoPBV7p8h5ek0Uy.jpg",
+        "release_date": "1958-06-11",
+        "title": "The Lineup",
+        "video": false,
+        "vote_average": 7.079,
+        "vote_count": 82
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1fvwGDrM6n7oXmH6QZEA8BSHomy.jpg",
+        "genre_ids": [
+            80,
+            35,
+            53
+        ],
+        "id": 46361,
+        "original_language": "ja",
+        "original_title": "ザ・マジックアワー",
+        "overview": "A hustler who gets in trouble with a gang boss in the port town of Sukago agrees to make good with the don by putting him in contact with a mysterious hitman — an assassin the hustler has no idea how to contact. Instead, he hires an actor to play the role, though the thespian has no idea what he's getting into.",
+        "popularity": 14.924,
+        "poster_path": "/iP3yEaIUaJO826vjvrNnw6gxwoA.jpg",
+        "release_date": "2008-06-07",
+        "title": "The Magic Hour",
+        "video": false,
+        "vote_average": 7.485,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qH6e13I6ScnJ8JGkbbChYsZ7puK.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 4657,
+        "original_language": "en",
+        "original_title": "Jindabyne",
+        "overview": "Outside the Australian town of Jindabyne, local man Stuart Kane is on a fishing trip with friends when they discover the body of a murdered girl.",
+        "popularity": 14.92,
+        "poster_path": "/zozfpvbl8OezjqBsgFByTGkbnw8.jpg",
+        "release_date": "2006-07-20",
+        "title": "Jindabyne",
+        "video": false,
+        "vote_average": 5.463,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aT4NkQOdkycPEcXLMOuQ0ynSCcj.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 654905,
+        "original_language": "it",
+        "original_title": "La Belva",
+        "overview": "To rescue his daughter, an unstable Special Forces veteran unleashes his inner beast as he pursues her kidnappers — and soon becomes a suspect himself.",
+        "popularity": 14.915,
+        "poster_path": "/4zbKISdp5UBgWY2a28dfJY8ouIK.jpg",
+        "release_date": "2020-11-27",
+        "title": "The Beast",
+        "video": false,
+        "vote_average": 6.187,
+        "vote_count": 277
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/RZsvZ6LiEdlcRGmA4UeI7OK8nU.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 138185,
+        "original_language": "ja",
+        "original_title": "白夜行",
+        "overview": "A pawn shop owner in Osaka is murdered, but due to a lack of conclusive evidence the police lists the man's death as a suicide. Detective Sasagaki, who investigated the case, can't forget the dark eyes of the main suspect's daughter Yukiho and the pawn shop owner's son Ryouji.  As time goes by, more mysterious deaths surround Yukiho & Ryouji. Detective Sasagaki still unable to let go of the pawn shop owner case discovers startling details about Yukiho and Ryouji ...",
+        "popularity": 14.915,
+        "poster_path": "/y7U3wCHChO7LIJ3PG7P7O0mWYpY.jpg",
+        "release_date": "2011-01-29",
+        "title": "Into the White Night",
+        "video": false,
+        "vote_average": 6.722,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vKVX9hV2HnCPe8XnauCQKEHQCwv.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 24860,
+        "original_language": "nl",
+        "original_title": "De zaak Alzheimer",
+        "overview": "Vincke and Verstuyft are one of the best detective teams of the Antwerp police force. When they are confronted with the disappearance of a top official and the murder of two prostitutes, the trail leads to the almost retired assassin Angelo Ledda. Since Ledda starts showing symptoms of Alzheimer's, it's getting more and more difficult to complete his contracts. When he has to murder a 12-year old call-girl, he refuses and becomes a target himself. While Vincke and Verstuyft are chasing him and counting the corpses, Ledda is taking care of his employers.",
+        "popularity": 14.912,
+        "poster_path": "/rKFzSI5XtDOfXoULnY5TEaNpuMC.jpg",
+        "release_date": "2003-10-15",
+        "title": "The Memory of a Killer",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 130
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uWxP169OgnbUTzzpRci8SFUaB6v.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 38002,
+        "original_language": "ko",
+        "original_title": "범죄의 재구성",
+        "overview": "After being convicted for fraud, one month has passed since Choi Chang-Hyuk's release from jail. But this time around he's got an elaborate plan cooked up. It's the biggest bank heist in history that'll make any thief have a wet dream. The best five thieves come together to form a team.",
+        "popularity": 14.907,
+        "poster_path": "/7dX5UsnQLPgLNYAXfX2yQPyiuRP.jpg",
+        "release_date": "2004-04-15",
+        "title": "The Big Swindle",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6BW5JJ9XMXfbG5x4gTuv6MGrKlN.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            53,
+            80
+        ],
+        "id": 31593,
+        "original_language": "en",
+        "original_title": "Cutter's Way",
+        "overview": "Richard spots a man dumping a body, and decides to expose the man he thinks is the culprit with his friend Alex Cutter.",
+        "popularity": 14.901,
+        "poster_path": "/eOuaZWChAK3YQmWH2yD7eIr5o2.jpg",
+        "release_date": "1981-03-19",
+        "title": "Cutter's Way",
+        "video": false,
+        "vote_average": 6.446,
+        "vote_count": 140
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xTsQZnwmrUAvC2QABKpIYpqRO1I.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            14
+        ],
+        "id": 474647,
+        "original_language": "ja",
+        "original_title": "不能犯",
+        "overview": "At a certain park, there is a mysterious man, who has red eyes and a black suit, that people can go to and request him to kill someone. His assassinations can never be blamed on him because he takes no illegal action. His strength is in the power of suggestion and the arrangement of events. He accepts these requests, all the while privately mocking the foolishness of those whose unwise wishes he grants.",
+        "popularity": 14.899,
+        "poster_path": "/dEsK36fG7VGf6HNU9wVTxqP9nKa.jpg",
+        "release_date": "2018-02-01",
+        "title": "IMPOSSIBILITY DEFENSE",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nkVsFtaCZTIgGwCTTkjqzMPGeAk.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 31546,
+        "original_language": "en",
+        "original_title": "American Buffalo",
+        "overview": "Three inner-city losers plan a robbery of a valuable coin in a seedy second-hand junk shop.",
+        "popularity": 14.893,
+        "poster_path": "/tkIMquxwzMzZUrnAv43e3w0eX0F.jpg",
+        "release_date": "1996-09-13",
+        "title": "American Buffalo",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 59
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/koEwhGuIhTwQ1Ud0GfY1eJ9rJXT.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 49010,
+        "original_language": "en",
+        "original_title": "Hobo with a Shotgun",
+        "overview": "A vigilante homeless man pulls into a new city and finds himself trapped in urban chaos, a city where crime rules and where the city's crime boss reigns. Seeing an urban landscape filled with armed robbers, corrupt cops, abused prostitutes and even a pedophile Santa, the Hobo goes about bringing justice to the city the best way he knows how - with a 20-gauge shotgun. Mayhem ensues when he tries to make things better for the future generation. Street justice will indeed prevail.",
+        "popularity": 14.888,
+        "poster_path": "/xxMaO7VoN2BnZit79PedVHnTjcO.jpg",
+        "release_date": "2011-05-06",
+        "title": "Hobo with a Shotgun",
+        "video": false,
+        "vote_average": 5.937,
+        "vote_count": 594
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7poIYGnNnuTYrRQtLwhIaiNMWYK.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 24429,
+        "original_language": "en",
+        "original_title": "The Brink's Job",
+        "overview": "In 1950, a group of unlikely criminal masterminds commits the robbery of the century. Led by Tony Pino, a petty thief fresh out of prison, and Joe McGinnis, who specializes in planning lucrative capers, the gang robs Brink's main office in Boston of more than $2 million. However, things begin to go awry when the FBI gets involved, the cops start cracking down on the gang and McGinnis refuses to hand over the loot...",
+        "popularity": 14.875,
+        "poster_path": "/65lZlnZASf06RASDKCQQi7klNUW.jpg",
+        "release_date": "1978-12-08",
+        "title": "The Brink's Job",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/swaHDlAJp3Mar8vK5MdL2WwUzFJ.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            9648
+        ],
+        "id": 173603,
+        "original_language": "da",
+        "original_title": "Skytten",
+        "overview": "The five days when Copenhagen was held in a panic grip by an intelligent activist and former elite shooter, who takes to arms when a woman journalist writes about the government’s broken promises in an environmental question.",
+        "popularity": 14.865,
+        "poster_path": "/isN9vzQXvL5L3VkWfbllhWP3EHs.jpg",
+        "release_date": "2013-02-27",
+        "title": "The Shooter",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yNQU1zksFrrkijkphcvKqP09sk6.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 63848,
+        "original_language": "en",
+        "original_title": "The Ritz",
+        "overview": "To escape from a mobster, businessman Gaetano Proclo orders a cab driver to take him to a place where he can't be found. Unfortunately for Gaetano, the place turns out to be a gay bathhouse.",
+        "popularity": 14.862,
+        "poster_path": "/h5z2AvjDFVMJmGN2EE4vS7tSw1C.jpg",
+        "release_date": "1976-08-12",
+        "title": "The Ritz",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 38
+    }
+]

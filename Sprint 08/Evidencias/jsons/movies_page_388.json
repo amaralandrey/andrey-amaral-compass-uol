@@ -1,0 +1,395 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/j18YTlWkTwJ8s0L4lLEZ83eEI2v.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 40976,
+        "original_language": "cn",
+        "original_title": "救命",
+        "overview": "A horrid crime was committed at a wedding reception and bridesmaid Chi Ching was the lone eyewitness. At the police station, she recognised the suspect, Suen Ling, in a line up. She also discovered the affair between this stranger and her lover. All of a sudden the emotional turmoil surrounding her chronic illness resurfaced and quickly grew beyond control.",
+        "popularity": 8.5,
+        "poster_path": "/g4rbbJseIrDJgoecqEyngwOi5v2.jpg",
+        "release_date": "2004-04-27",
+        "title": "Koma",
+        "video": false,
+        "vote_average": 5.289,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 261194,
+        "original_language": "cn",
+        "original_title": "五湖四海",
+        "overview": "A young Taiwanese man after being released from prison starts his life as a gangster. He goes to Hong Kong to do some business with the Triads.",
+        "popularity": 8.497,
+        "poster_path": "/or9sHBsZtNgccu81Ge52hxWyCuw.jpg",
+        "release_date": "1992-11-19",
+        "title": "Requital",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 371648,
+        "original_language": "cs",
+        "original_title": "Znamení raka",
+        "overview": "A murder in a hospital run by incompetents.",
+        "popularity": 8.496,
+        "poster_path": "/1Og9i1qmSlRdBOfdA4cN7he6nBR.jpg",
+        "release_date": "1967-05-05",
+        "title": "Sign of the Cancer",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/arrzzGGnOAHMNSjjN8kNt9aW2MC.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 45503,
+        "original_language": "ja",
+        "original_title": "前科おんな殺し節",
+        "overview": "Reiko Ike stars as the daughter of a man who has been pushed into drug dealing by the local Yakuza mob. Having outlived his usefulness to the gang he is murdered and Reiko is gang raped, leading her to attempt a knife attack on the Yakuza boss (Ryoji Hayama) at a swank nightclub. Failing to kill him she ends up in prison, where she befriends a crew of other malcontents (including Yumiko Katayama and Chiyoko Kazama) and meets the Yakuza boss's girlfriend (Miki Sugimoto). Upon release Reiko reassembles her mob and launches a Machiavellian scheme to engineer a gang war between Hayama's Oba Industries and the formerly dominant Hamayasu Clan. The rival gangs begin killing each other off and Reiko works her way closer to her ultimate vengeance.",
+        "popularity": 8.495,
+        "poster_path": "/pYiZ5xLLe4xc6sEjocfEt5sIb74.jpg",
+        "release_date": "1973-10-27",
+        "title": "Criminal Woman: Killing Melody",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9Sn8zdyf3oCcMC77v4Gv92pVvRS.jpg",
+        "genre_ids": [
+            80,
+            53,
+            10770
+        ],
+        "id": 252954,
+        "original_language": "en",
+        "original_title": "The Elevator",
+        "overview": "A claustrophobic armed robber, fleeing from his latest job, finds himself trapped with a group of people between floors in a high-rise building's elevator that is teetering on collapse.",
+        "popularity": 8.494,
+        "poster_path": "/plpSeMuxlAgA9vVPZFUFXhoylmi.jpg",
+        "release_date": "1974-02-09",
+        "title": "The Elevator",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gBetAv6xaSw9A2gU2lsO4qlqUu8.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10770
+        ],
+        "id": 297191,
+        "original_language": "en",
+        "original_title": "Praying Mantis",
+        "overview": "A single man thinks he has finally found a woman who loves him. The woman is charming and intelligent but holds a very dark secret which will truly test how strong their relationship can be.",
+        "popularity": 8.493,
+        "poster_path": "/vfmRpg15IxpnpJWIFQJdFvmX162.jpg",
+        "release_date": "1993-08-11",
+        "title": "Praying Mantis",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5UKuCXVeHQQUP8aR58xN51glPgo.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 78191,
+        "original_language": "en",
+        "original_title": "Racket Busters",
+        "overview": "A trucker with a pregnant wife fights a New York mobster's protection racket.",
+        "popularity": 8.493,
+        "poster_path": "/fDumxsKcDj1rMMQf8DgkoZWVnK1.jpg",
+        "release_date": "1938-07-16",
+        "title": "Racket Busters",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cPI7b1ryP7xopTN2GwfNfjfhkrt.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 261419,
+        "original_language": "en",
+        "original_title": "No Trees in the Street",
+        "overview": "Based on the play by Ted Willis, the film is set in the years just before World War II, when England hadn't completely dug itself out of the worldwide depression. Melvyn Hayes is featured as an aimless teenager, who tries to escape his squalid surroundings by entering a life of crime.  He falls in with local hoodlum Herbert Lom, who holds the rest of the slum citizens in the grip of fear including Hayes' own family. No Trees in the Street chronicles Hayes' sordid progress from nickel-and-dime thefts to murder.",
+        "popularity": 8.491,
+        "poster_path": "/8DjgVquT24XTUNCiChwnKIIzrBH.jpg",
+        "release_date": "1959-03-03",
+        "title": "No Trees in the Street",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AngxTcs3rr1edH3XwDJtTxZ72v9.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 52666,
+        "original_language": "pl",
+        "original_title": "Dług",
+        "overview": "Based on true events, the movie tells the story of two men who want to start a scooter business but don't have the required collateral for a bank loan. Then one of them runs into a former flat neighbour who offers to lend them the money. The guy turns out to be a thug and starts to extort them. Their life goes downhill from there.",
+        "popularity": 8.49,
+        "poster_path": "/57VzJyaO1HQxKaSAnBhfOaeqzl2.jpg",
+        "release_date": "1999-11-19",
+        "title": "The Debt",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 51
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eSVh7LZP1TZBj9wOliS1qIAmuaM.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80
+        ],
+        "id": 49891,
+        "original_language": "tr",
+        "original_title": "Hırsız Var!",
+        "overview": "With the death of a billionaire engaged in illegal practices, his billion-dollar fortune is up for the grabs. As his art collection is being prepared to be sold at an auction, two Turkish thieves from Germany are hired to steal valuable paintings from the art collection. Meanwhile, Seckin the fashioner designer - also the brother of Binnur, wife of the late billionaire - prepares for a fashion show in the same hotel that the robbery is going to take place. With the intervention of police, the beautiful model and her ex-lover, a hip papparazi, the two \"Laz\" mafia bosses seeking revenge, and the getaway driver straight out of Selcuk Erdem caricatures, the robbery is bound to go wrong. Prepare for a twist at the end as the plot unfolds towards a climactic ending...",
+        "popularity": 8.49,
+        "poster_path": "/k33lqXh6wFjYpTSRtDPE7y0Axn6.jpg",
+        "release_date": "2005-02-10",
+        "title": "Robbery Alla Turca",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sm8EFgu4TQXzlH7ML1UqjrBREqa.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 398796,
+        "original_language": "cn",
+        "original_title": "逃學英雄傳",
+        "overview": "Undercover cop, Kin, infiltrates a Hong Kong school to root out an underworld presence. Things get tricky when he falls for a charming teacher, adding a romantic twist to the fight against organized crime within the school's vibrant walls.",
+        "popularity": 8.488,
+        "poster_path": "/5KuDhIMCZJBRnReieuCTtR3HrgR.jpg",
+        "release_date": "1992-02-20",
+        "title": "Truant Heroes",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vEq6wikT75nrtLeXQyWGkdOpjkG.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 331308,
+        "original_language": "ja",
+        "original_title": "関東緋桜一家",
+        "overview": "The Ni Family is the most well know and respected group of firefighters in the Kanto  region. When their leader dies and the successor disappears, Tsuruji, a beautiful yet  tough geisha, becomes the boss. But will she be able to confront a yakuza gang trying to  take over the area?",
+        "popularity": 8.488,
+        "poster_path": "/tvGhCkIKS0wqcYX57IzBx71mlyJ.jpg",
+        "release_date": "1972-03-04",
+        "title": "The Kanto Scarlet Cherry Gang",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iZamf5foMETCJqbZ8s7787UNCGb.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 354382,
+        "original_language": "en",
+        "original_title": "Alto",
+        "overview": "Frankie is head strong and passionate about her rock band and her Italian-American heritage. She is engaged to a good Italian man, and everything in her life is in order until she discovers a murder victim in the trunk of her rental car. Heather, her sister, convinces Frankie to attend the funeral where they meet Nicolette, the daughter of the new Brooklyn mafia don. When Nicolette shows up at a gig, it triggers a cascade of events that take Frankie towards an unexpected romance.",
+        "popularity": 8.486,
+        "poster_path": "/gb8bCb3GAQqgRbb4m0OQJIv6Vxs.jpg",
+        "release_date": "2015-08-01",
+        "title": "Alto",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eUmjh1DYqLmIbKYIVGTHSyzv719.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 33843,
+        "original_language": "en",
+        "original_title": "The Burglar",
+        "overview": "Burglar Nat Harbin and his two associates set their sights on wealthy spiritualist Sister Sarah, who has inherited a fortune -- including a renowned emerald necklace -- from a Philadelphia financier. Using Nat's female ward, Gladden, to pose as an admirer and case the mansion where the woman lives, they set up a perfect break-in. Things get complicated afterwards.",
+        "popularity": 8.486,
+        "poster_path": "/19eVor0aJVzLJMUVa1wYlDBsHQO.jpg",
+        "release_date": "1957-06-01",
+        "title": "The Burglar",
+        "video": false,
+        "vote_average": 5.742,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1UHhFjgl7xXA9PVy9rCLGdTRziO.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 25807,
+        "original_language": "en",
+        "original_title": "Red Light",
+        "overview": "Nick Cherney, in prison for embezzling from Torno Freight Co., sees a chance to get back at Johnny Torno through his young priest brother Jess. He pays fellow prisoner Rocky, who gets out a week before Nick, to murder Jess... who, dying, tells revenge-minded Johnny that he'd written a clue \"in the Bible.\" Frustrated, Johnny obsessively searches for the missing Gideon Bible from Jess's hotel room.",
+        "popularity": 8.482,
+        "poster_path": "/5Vs4kB5HD3dIVoPuVNvi9xr9ONI.jpg",
+        "release_date": "1949-09-30",
+        "title": "Red Light",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7JA13rlF0jk1M4NoQX54KItEQkL.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 44119,
+        "original_language": "en",
+        "original_title": "Piggy Banks",
+        "overview": "John and Michael are taught by their father at a young age that people are merely piggy banks... if you need money, just break one open. Charming and brilliant, they roam the country robbing and murdering anyone foolish enough to get in the car with them. After their partnership becomes strained and John sets off on his own, he discovers his father had a secret family... another wife and a daughter in another state. With a renewed sense of purpose he sets out to find and kill his stepsister. But this may be more challenging than he thinks... has he met his match?",
+        "popularity": 8.481,
+        "poster_path": "/oG5OJ5vAOogjMSt78WWWce3ENeT.jpg",
+        "release_date": "2005-01-01",
+        "title": "Born Killers",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yEBZGWmO9BSmcuXvkCxJrUBIj3I.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 60658,
+        "original_language": "en",
+        "original_title": "Victim of Desire",
+        "overview": "An SEC agent investigating $70M in missing funds and a murdered businessman gets involved with the man's wife.",
+        "popularity": 8.479,
+        "poster_path": "/daemNMW9fVlfPjb64lolibdw0D7.jpg",
+        "release_date": "1995-03-08",
+        "title": "Victim of Desire",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3W2GVumCT1Ih4Jov6WMuEfgJ4UU.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 579739,
+        "original_language": "ja",
+        "original_title": "ズームアップ　暴行白書",
+        "overview": "The wife of a prominent businessman works as a late-night radio personality.  One night on her way to the radio station, she is raped by a motorcycle gang without knowing the reason...",
+        "popularity": 8.478,
+        "poster_path": "/2AWW590pdJVRVzCQYjFzRbVeVR8.jpg",
+        "release_date": "1981-10-09",
+        "title": "Zoom Up: Sexual Crime Report",
+        "video": false,
+        "vote_average": 3.2,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 412215,
+        "original_language": "en",
+        "original_title": "Fox",
+        "overview": "The thirteen-part series recounted the lives of the titular Fox family, who lived in Clapham in South London and had gangland connections.",
+        "popularity": 8.478,
+        "poster_path": null,
+        "release_date": "1980-03-10",
+        "title": "Fox",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4lX5n2Oy0IXDFia0X3g9b1KJvcB.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 48987,
+        "original_language": "en",
+        "original_title": "Kid Glove Killer",
+        "overview": "Van Heflin stars as the head of a city crime lab who tries to solve the murder of the town mayor by scientifically analyzing evidence.",
+        "popularity": 8.478,
+        "poster_path": "/6v6aw8NdFAKBw9Z4QWXzLdhzJhi.jpg",
+        "release_date": "1942-04-17",
+        "title": "Kid Glove Killer",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 19
+    }
+]

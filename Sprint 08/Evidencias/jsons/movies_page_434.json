@@ -1,0 +1,391 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/wtRNqJaDoKOAfITeL0qlblOBTgi.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 501393,
+        "original_language": "ja",
+        "original_title": "続・網走番外地",
+        "overview": "Two convicts just released from prison find a green bauble filled with diamonds — and try to prove they didn't steal it.",
+        "popularity": 7.733,
+        "poster_path": "/1PhCnj2PeMfeOvq9LHwDA3wI0CE.jpg",
+        "release_date": "1965-07-10",
+        "title": "Prison Walls of Abashiri, Part 2",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3MAEkcSAditPPvkuOdMpRBAudY.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 981560,
+        "original_language": "ja",
+        "original_title": "鬼平犯科帳スペシャル 一寸の虫",
+        "overview": "Detective Onihei better known as \"Heizo the Demon\" heads a group of skilled officers, however, one of those special officers got himself into a web of betrayal and deceit, and become the very thing Heizo the Demon investigates daily.",
+        "popularity": 7.732,
+        "poster_path": "/7Zb5WMu3xwL5yvBqP2ixZpGbRfK.jpg",
+        "release_date": "2011-04-15",
+        "title": "Onihei Crime Files: Conscience of a Worm",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bNyJEcHmtZbw2G58StKGwhGXzex.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 410994,
+        "original_language": "te",
+        "original_title": "ధృవ",
+        "overview": "A committed police officer is on a very dangerous mission to destroy the most corrupt person in the country, Siddharth Abhimanyu.",
+        "popularity": 7.732,
+        "poster_path": "/hh7D1fLjet1Ce1kcCkk5TVr3g9O.jpg",
+        "release_date": "2016-10-07",
+        "title": "Dhruva",
+        "video": false,
+        "vote_average": 6.944,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vNbVhaXcBatSynvZGGWmHZPpy0q.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 103604,
+        "original_language": "es",
+        "original_title": "Intrépidos punks",
+        "overview": "Punks kill people and rape people and stuff... and cops kinda do their own thing... and there's boobs and blood and motorcycles... the end.",
+        "popularity": 7.729,
+        "poster_path": "/5zMVIJb3u5GRqRKhcZQaHs1umSA.jpg",
+        "release_date": "1988-02-25",
+        "title": "Fearless Punks",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aFLZIil7AVtSoN3UeJ7vowAR6E.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 596335,
+        "original_language": "hi",
+        "original_title": "अल्‍बर्ट पिंटो को गुस्‍सा क्‍यूं आता है?",
+        "overview": "Albert Pinto goes missing one day and his girlfriend and family start making rounds at the police station to track him down. Unknown to them, he is on his way to Goa to carry out his first assignment as a hitman.",
+        "popularity": 7.727,
+        "poster_path": "/sPyEn5nH9FF8b7SpHwnyHMi7kBJ.jpg",
+        "release_date": "2019-04-12",
+        "title": "Albert Pinto Ko Gussa Kyun Aata Hai?",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5j14URf0fHIgSjPKH6ktmTtkd6c.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 243536,
+        "original_language": "de",
+        "original_title": "Polt.",
+        "overview": "",
+        "popularity": 7.727,
+        "poster_path": "/mZXHhUdQnqvOFbdihCFNJ7QLHEs.jpg",
+        "release_date": "2013-12-18",
+        "title": "Polt.",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            80,
+            9648,
+            53
+        ],
+        "id": 242906,
+        "original_language": "en",
+        "original_title": "The Perfect Boyfriend",
+        "overview": "A charming but devious man conspires to bilk a wealthy veterinarian of her money.",
+        "popularity": 7.727,
+        "poster_path": "/hwa9uPUy2dxtTaCL5Eokguscpie.jpg",
+        "release_date": "2013-07-04",
+        "title": "The Perfect Boyfriend",
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jyHhu04Tpw5lN4fq37HMUf5dTKd.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 64935,
+        "original_language": "fr",
+        "original_title": "Une Affaire privée",
+        "overview": "Divorced private detective Francois Maneri is assigned by his agency to investigate the disappearance of Rachel, a young student who has been missing for six months. After interviewing Rachel's family, friends and classmates, Francois is attacked and injured by an anonymous assailant and becomes reluctant to continue his search. But when Rachel's body is found, Francois is drawn deeper into the investigation as he discovers the dead girl's secret life.",
+        "popularity": 7.727,
+        "poster_path": "/mPdnP2ts47ZWeMvPkktxiK0LUA8.jpg",
+        "release_date": "2002-04-30",
+        "title": "A Private Affair",
+        "video": false,
+        "vote_average": 5.464,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3J543SRcr6NT1svStRN9y3pkmiC.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            80
+        ],
+        "id": 15498,
+        "original_language": "da",
+        "original_title": "Olsen-bandens store kup",
+        "overview": "After his usual stay behind bars, Egon has another cunning plan involving millions. They rob over 4 million from a money transport. The gang keeps a low profile and hide the money. But it's stolen by \"Kongen\" and \"Knægten\", who immediately start living it up - in the penthouse suite at the Sheraton. The suitcase with the money changes hands several times, before Kongen's daughter takes of with all the money.",
+        "popularity": 7.725,
+        "poster_path": "/pRgDj10N7Ansx7xte0PePLXjaS5.jpg",
+        "release_date": "1972-10-06",
+        "title": "The Olsen Gang's Big Score",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            10749
+        ],
+        "id": 1256628,
+        "original_language": "ja",
+        "original_title": "螢",
+        "overview": "A young outlaw racing through the streets of Yokohama. Will the love that slipped through his fingers like sand come back to him once again?",
+        "popularity": 7.724,
+        "poster_path": "/7qcxlKuwXLNN0nDBDET3P66PsBi.jpg",
+        "release_date": "1989-02-18",
+        "title": "Firefly",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bmQsHhCOCWBWxhsi3jhd0qBf4C2.jpg",
+        "genre_ids": [
+            80,
+            35,
+            53
+        ],
+        "id": 1021130,
+        "original_language": "bn",
+        "original_title": "হুব্বা",
+        "overview": "The notorious Bimal Mandal, who ruled the Rishra-Hindmotor-Konnagar area for years, gets arrested by Dibakar Sen. However, he gets away due to lack of evidence. Soon, Dibakar and Hubba, seem to become alter egos of one another and morality gets blurred.",
+        "popularity": 7.724,
+        "poster_path": "/qfyNt7wMeYpbjVU5vt5ZVfeSy98.jpg",
+        "release_date": "2024-01-19",
+        "title": "Hubba",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7VAH7XZeHAzvkltJLKhQmjfFe51.jpg",
+        "genre_ids": [
+            80,
+            10749
+        ],
+        "id": 534694,
+        "original_language": "cn",
+        "original_title": "爱在黑社会的日子",
+        "overview": "Simon Yam Tat-wah and Rosamund Kwan Chi-lam star in this gauzy melodrama about the life and loves of the gangster elite, directed by Andy Chin Wing-keung. The film centers around Ching Kit, a mob boss who instead of using typical tools of underworld shakedowns -- mob hits, blackmail, and the like -- employs the dinner party to negotiate deals, to forge partnerships, and craft revenge. When Ching works out a deal with the Portuguese mob that would give him partial control of Macau's casinos, he quickly learns that treachery lurks around every corner. Veronica Yip Yuk-hing, Cecila Yip Tung, and Pauline Wong Siu-fung also appear.",
+        "popularity": 7.724,
+        "poster_path": "/dimiLA1HNJWJvBSF76mlddV8Vko.jpg",
+        "release_date": "1993-03-21",
+        "title": "Love Among the Triad",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4v1KImK30TbGDkrlsGQfljTKUjL.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18,
+            10770
+        ],
+        "id": 252891,
+        "original_language": "en",
+        "original_title": "The Pigeon",
+        "overview": "A private eye is hired to protect a young woman who has a black book on a crime syndicate.",
+        "popularity": 7.724,
+        "poster_path": "/rdrvOR50Uw3iKOh39BFYPPIaUVj.jpg",
+        "release_date": "1969-11-04",
+        "title": "The Pigeon",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wJnoicAYh2ZD4JZWIXvZLB0LKvq.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 29477,
+        "original_language": "en",
+        "original_title": "Highway 301",
+        "overview": "The \"Tri-State\" gang goes on a successful bank robbing streak causing local authorities to turn up the heat on the daring career criminals.",
+        "popularity": 7.724,
+        "poster_path": "/qgkhQ2LWEXdPZoiXFUrypkpyooK.jpg",
+        "release_date": "1950-12-01",
+        "title": "Highway 301",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nuQy8f6LkJfEQZlx88AiZsOSUyG.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 237863,
+        "original_language": "sv",
+        "original_title": "Tragedi på en lantkyrkogård",
+        "overview": "A murder investigation takes detective Christer Wijk to a small village, where he needs to separate rumors and facts to trail the murderer.",
+        "popularity": 7.723,
+        "poster_path": "/rY2H1vsUqqN5yFYwI5LVXaPCvXY.jpg",
+        "release_date": "2013-11-20",
+        "title": "Tragedy in a Country Churchyard",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y1NaOrsCVuZAgNlTTX3fxR5lNOa.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 363586,
+        "original_language": "ja",
+        "original_title": "けものの眠り",
+        "overview": "When a middle aged salaryman is unknowingly used by drug traffickers he is dishonored and fires back at the Yakuza bosses, with destructive consequences.",
+        "popularity": 7.722,
+        "poster_path": "/8CEiXEV4ZcyyawIskVtnr3Pr2x1.jpg",
+        "release_date": "1960-04-09",
+        "title": "The Sleeping Beast Within",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7zyWHWronryjCP7LtorlAK9aeqZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 261448,
+        "original_language": "en",
+        "original_title": "Scotland Yard",
+        "overview": "A soldier is wounded in action. His face is restored by a plastic surgeon to resemble someone else.",
+        "popularity": 7.722,
+        "poster_path": "/rof2DSucKqHPahqLVAl6py2Nbbu.jpg",
+        "release_date": "1930-10-19",
+        "title": "Scotland Yard",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ppdTBJAmdWEcIOv03adCTO7PeWY.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 44101,
+        "original_language": "en",
+        "original_title": "Backlash",
+        "overview": "In a series of flashbacks, shows that attorney John Morland has given a lift to a hitchhiker who turns out to be a murderer. As a result, Morland himself is implicated in a killing. A pair of detectives discover that Morland has been having business problems and no end of difficulties with his wife Catherine. The trail of clues leads to a surprising revelation.",
+        "popularity": 7.722,
+        "poster_path": "/1WnmubVdek4oH8wVjg2PFqcgccj.jpg",
+        "release_date": "1947-03-01",
+        "title": "Backlash",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9m3k95PNfRgWdK7gj4DME5sIZ64.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 42809,
+        "original_language": "ja",
+        "original_title": "関東無宿",
+        "overview": "Handsome young Katsuta tries to follow the yakuza code, but even his boss doesn't believe in it. Diamond Fuyu is less ethical, and allows the idiotic Tetsu to trick a schoolgirl he fancies, Hanako, into a type of bonded prostitution. Because of gang conflict, the Izu family (to whom Katsuta belongs) has their last gambling den taken over, and he seeks revenge. This brings him back into contact with a former lover who is also a card trickster - she is also Diamond Fuyu's sister, and is now married to Okaru-Hachi, who has mastered a clever card cheating trick called Okaru, which involves the deft use of mirrors.",
+        "popularity": 7.721,
+        "poster_path": "/sKHakcPjgoQNCTEUOamoLIA0YAA.jpg",
+        "release_date": "1963-11-23",
+        "title": "Kanto Wanderer",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/99Hiz1LA71V85J9SLfSq0aVLoeB.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 212502,
+        "original_language": "hi",
+        "original_title": "Ek Aur Ek Gyarah: By Hook or by Crook",
+        "overview": "Two petty thieves Tara and Sitara get on the bad side of two wanted criminals, namely Panther and Cobra.",
+        "popularity": 7.72,
+        "poster_path": "/4G4etYFM9aL4nMsv4jyxXdYlowl.jpg",
+        "release_date": "2003-08-06",
+        "title": "Ek Aur Ek Gyarah: By Hook or by Crook",
+        "video": false,
+        "vote_average": 5.946,
+        "vote_count": 29
+    }
+]

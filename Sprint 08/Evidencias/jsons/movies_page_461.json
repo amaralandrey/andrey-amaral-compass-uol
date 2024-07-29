@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 113205,
+        "original_language": "es",
+        "original_title": "La Mera Reyna del Sur",
+        "overview": "A strong, bold woman confronts the police and manages to seize control of a drug cartel while seeking revenge.",
+        "popularity": 7.378,
+        "poster_path": "/7hHO8fHhzbCqLvBHx7pxFISaaEF.jpg",
+        "release_date": "2003-09-22",
+        "title": "La Mera Reyna del Sur",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h2P0Vhp1PjOExFcXjWrfEnYTiPk.jpg",
+        "genre_ids": [
+            80,
+            35,
+            18
+        ],
+        "id": 1315227,
+        "original_language": "ar",
+        "original_title": "سرقة بميزانية منخفضة",
+        "overview": "Four friends, driven by their artistic aspirations conduct an elaborate scheme to steal a $3 million painting from a prestigious gallery. In a risky twist, they decide to produce a film within the gallery itself using it as a cover. As their plan unfolds, they navigate the treacherous worlds of art, deception, and creativity, testing their friendship and challenging their artistic ambitions.",
+        "popularity": 7.377,
+        "poster_path": "/3brfAkgfy88L2IfOU6g24L32Sq7.jpg",
+        "release_date": "2024-06-13",
+        "title": "Low Budget Heist",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vc3Son74qVmSxNXWE9qOSLv8xQD.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 838539,
+        "original_language": "en",
+        "original_title": "Black Medicine",
+        "overview": "Jo is a black-market medic who carries out illegal operations for the criminal underworld. When she gives refuge to a young girl, she must choose between breaking her medical oath or crossing her ruthless employers.",
+        "popularity": 7.377,
+        "poster_path": "/mpsB6kI74OswOkZ3PRW7pnOQnZF.jpg",
+        "release_date": "2021-07-22",
+        "title": "Black Medicine",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 423083,
+        "original_language": "es",
+        "original_title": "Apuesta con la muerte",
+        "overview": "A young man tries to get away from his disfunctional family by working with his friend, a rich boy who lives in excess and sleaze, but he will soon realize how reckless his friend is and that he is  submerged in a life of crime, vice and deadly bets.",
+        "popularity": 7.375,
+        "poster_path": "/iGLqfUSo1Ndd1FMJsamA7b2osrK.jpg",
+        "release_date": "1989-01-01",
+        "title": "Apuesta con la muerte",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 393989,
+        "original_language": "en",
+        "original_title": "Soul",
+        "overview": "Chase, a frustrated artist, lives a bohemian life with lover, Alexis, an enchanting dancer, in their rundown apartment in an artistic niche of the city. His life is thrown into turmoil when Alexis is raped and murdered. Chase's greedy art dealer, Carl, sees this tragedy as a way to capitalize on what once was a unfruitful investment. What follows is a chain reaction of greed by way of mourning Alexis' death. Chase can find only one reason to go on: revenge.",
+        "popularity": 7.375,
+        "poster_path": "/1ZvojPXy53WjnvpDCTgCAdt8L3X.jpg",
+        "release_date": "2016-04-16",
+        "title": "Soul",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8crvkhoJ3jq57xLxIrgZgUotH84.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 290909,
+        "original_language": "en",
+        "original_title": "Diamonds for Breakfast",
+        "overview": "Swinging playboy Grand Duke Nicholas Goduno, a direct descendent of the Romanov family who were overthrown in the Russian Revolution of 1917, learns that his family's crown jewels will be exhibited at a London museum and plots to steal them. To this end, he gathers a crew of beautiful but dangerous women, led by Bridget Rafferty, to assist in his plot against Popov, the Soviet functionary in charge of the exhibit.",
+        "popularity": 7.374,
+        "poster_path": "/i0abIFF5aCgG4GpXV4JfjoehIPm.jpg",
+        "release_date": "1968-12-01",
+        "title": "Diamonds for Breakfast",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4toQATvID74y1wlplVAJ2iI0cZL.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 475696,
+        "original_language": "ja",
+        "original_title": "新・極道の妻たち　惚れたら地獄",
+        "overview": "The seventh movie of the series “Yakuza Ladies” focuses on a wife of a small Osaka family. She risks her life to protect her husband’s family and its members against much larger, more established organizations.",
+        "popularity": 7.373,
+        "poster_path": "/kdvRoQH8C2X3S8obR9ybS83wRzZ.jpg",
+        "release_date": "1994-01-15",
+        "title": "Yakuza Ladies Revisited: Love is Hell",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cXOMYu54YHDxB0sJaRAmwxEGF75.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 73317,
+        "original_language": "en",
+        "original_title": "Once a Thief",
+        "overview": "A down-on-her-luck San Francisco woman, turning in desperation to jewel robbery, barely escapes getting nabbed in a heist and moves to Los Angeles where she gets an honest job as a waitress. Her troubles start again, however, when she falls madly in love, blind to the fact that her boyfriend is a four-flushing, small-time con man.",
+        "popularity": 7.373,
+        "poster_path": "/80OZRJyBQWso5txBM3Q7UT3hYPK.jpg",
+        "release_date": "1950-07-07",
+        "title": "Once a Thief",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qSpva0nlXsXJtmUL9gh372z60fp.jpg",
+        "genre_ids": [
+            99,
+            80,
+            9648
+        ],
+        "id": 1105868,
+        "original_language": "en",
+        "original_title": "They Called Him Mostly Harmless",
+        "overview": "When an unidentified hiker is found deceased in the Florida wilderness, authorities release a sketch. Multiple hikers call in claiming to have met the man. There's only one problem – he never told them his name. It would take two years, thousands of devoted internet sleuths, and a miracle of science to identify him, and that's when the trouble really starts.",
+        "popularity": 7.369,
+        "poster_path": "/i3Ngi39RT9kxTPyGN5CwK2XEZrk.jpg",
+        "release_date": "2024-02-08",
+        "title": "They Called Him Mostly Harmless",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qtCOiY7r0b3bz7yOGzjt21ehEq1.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 151009,
+        "original_language": "en",
+        "original_title": "Special Agent",
+        "overview": "A California railroad agent hunts two brothers for murder and robbing a payroll express.",
+        "popularity": 7.368,
+        "poster_path": "/gWgPuKiSjwwNpInnqCyH9NOxoyO.jpg",
+        "release_date": "1949-07-22",
+        "title": "Special Agent",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7ufu0EAdhU9nGnvT94gJYpbqxTq.jpg",
+        "genre_ids": [
+            18,
+            53,
+            10770,
+            9648,
+            80
+        ],
+        "id": 1179621,
+        "original_language": "en",
+        "original_title": "How She Caught A Killer",
+        "overview": "Inspired by a true story, rookie detective Linda Murphy (Sarah Drew) is fresh out of the police academy when she hears her boss, detective David Goodman (Eric Keenleyside) talking about a serial killer in the area who seems to be targeting sex workers. Teaming up with FBI agent Neil Carter (Jamall Johnson), Linda fights to go undercover to help solve the murders and, if all goes accordingly, capture a serial killer.",
+        "popularity": 7.366,
+        "poster_path": "/vwfd0gAi9A4tT38Kf7mEulGnAwj.jpg",
+        "release_date": "2023-09-16",
+        "title": "How She Caught A Killer",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Yujkj0Kya5D8EGzFInA85ZwA7U.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 84369,
+        "original_language": "cn",
+        "original_title": "邊緣人",
+        "overview": "An undercover cop goes deep undercover to inside one of Hong Kong's most notorious Triad gangs only to find him getting consumed by a life of crime and seediness.",
+        "popularity": 7.366,
+        "poster_path": "/bHW7EirIDHYGZjt5coMlk6jvOTz.jpg",
+        "release_date": "1981-01-08",
+        "title": "Man on the Brink",
+        "video": false,
+        "vote_average": 7.167,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1082388,
+        "original_language": "en",
+        "original_title": "Billy Summers",
+        "overview": "Limited series based on Stephen King's novel.",
+        "popularity": 7.365,
+        "poster_path": "/yXYPElmebL4Q9YrsxEWWBWcbZvD.jpg",
+        "release_date": "",
+        "title": "Billy Summers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iJUOi5lf3LQCUodNqXfUS0MudfZ.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 262846,
+        "original_language": "de",
+        "original_title": "Negresco - Eine tödliche Affäre",
+        "overview": "The wife of a international spy arrives in Berlin for a holiday. While her husband is away, she falls in love with a British photographer.",
+        "popularity": 7.365,
+        "poster_path": "/jcOqYmFXoZ056dnTP65FcFP7gdp.jpg",
+        "release_date": "1968-08-22",
+        "title": "Negresco",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qm8H8Lf9ENN3Ozhcu4eovEcbNP0.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            80
+        ],
+        "id": 15539,
+        "original_language": "da",
+        "original_title": "Olsen-bandens flugt over plankeværket",
+        "overview": "As usual, Egon has an ingenious plan. And, as usual, it works just fine until one of the gang members makes some kind of funny error. This time, however, even Egon's life is in danger, for some international criminals try to get rid of him by throwing him into a container filled with acid.",
+        "popularity": 7.365,
+        "poster_path": "/6VxkmNWVIskCO6GuiES4BNdOqKQ.jpg",
+        "release_date": "1981-10-16",
+        "title": "The Olsen Gang Jumps the Fence",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k0ghRTZH2g75tz3TdnUbYPsUQLz.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 262976,
+        "original_language": "it",
+        "original_title": "Il sicario",
+        "overview": "An industrial overpowered by debts decides to kill his creditor. Not having the courage to do it in person, he hired his former employee who needs money.",
+        "popularity": 7.364,
+        "poster_path": "/nI5U4dg4KHvlCKS5ExHms4QwpBj.jpg",
+        "release_date": "1961-03-11",
+        "title": "Blood Feud",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 175195,
+        "original_language": "ar",
+        "original_title": "عبده موته",
+        "overview": "Abdo (Mohamed Ramadan) is a thug working in the drug trade after losing his parents, using force to impose royalties on the people of the neighborhood, while Angham (Houria Farghali) is looking to marry him, and  the dancer Rabyia (Dina)  has an affair with him, and so is his cousin Alyia (Rehab al-Jamal).",
+        "popularity": 7.364,
+        "poster_path": "/vlPgMkzKevwAjwIWDxGcMbRNRer.jpg",
+        "release_date": "2012-10-23",
+        "title": "Abdu Mouta",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            10770
+        ],
+        "id": 109182,
+        "original_language": "en",
+        "original_title": "Izzy & Moe",
+        "overview": "The adventures of two retired vaudeville performers who become two of the best prohibition agents in the 1920's.",
+        "popularity": 7.364,
+        "poster_path": "/fEIpVfZf3Oyu29zWy1LMg5yZMkA.jpg",
+        "release_date": "1985-09-23",
+        "title": "Izzy & Moe",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/W1vDLQIhlTI4vyL7lEa2SfdGsz.jpg",
+        "genre_ids": [
+            80,
+            10770,
+            9648
+        ],
+        "id": 182376,
+        "original_language": "en",
+        "original_title": "The Rockford Files: If the Frame Fits...",
+        "overview": "Jim Rockford, is framed for the murder of another rival detective with whom Jim was seen having an argument.",
+        "popularity": 7.363,
+        "poster_path": "/yXsxYJbkglk5YV7y5JvCJP0KqGk.jpg",
+        "release_date": "1996-01-14",
+        "title": "The Rockford Files: If the Frame Fits...",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pSvctlyfb7Rfd3Z08KRlPijQQPV.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 308149,
+        "original_language": "en",
+        "original_title": "The Beautiful Ones",
+        "overview": "A retelling of Romeo and Juliet set within the Los Angeles underworld.",
+        "popularity": 7.362,
+        "poster_path": "/kjy1obH5Oy1IsjTViYVJDQufeZP.jpg",
+        "release_date": "2017-07-14",
+        "title": "The Beautiful Ones",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 6
+    }
+]

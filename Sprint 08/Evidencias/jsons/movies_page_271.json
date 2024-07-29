@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10770
+        ],
+        "id": 228257,
+        "original_language": "en",
+        "original_title": "Perry Mason: The Case of the Fatal Framing",
+        "overview": "A painter, believed to be dead, returns to make allegations that a gallery owner is selling counterfeits of his work. Later, the artist is murdered.",
+        "popularity": 11.376,
+        "poster_path": "/e7CUI63PPIooocA8zsnVSOMIuUI.jpg",
+        "release_date": "1992-03-01",
+        "title": "Perry Mason: The Case of the Fatal Framing",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4W53mm2nvOtiOuPNW2oiBm9pmUZ.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 9925,
+        "original_language": "en",
+        "original_title": "Funny Money",
+        "overview": "Henry Perkins, a mild-mannered accountant, accidentally trades briefcases with another man, to find out that there's a million dollars inside. Henry tells his unsuspecting wife of their new-found fortune, but she doesn't embrace it as well as he does. Soon they're joined by their best friends, a cop on the take, a cop on the hunt, and the dreaded Mr. Big, who has come to claim his money.",
+        "popularity": 11.376,
+        "poster_path": "/oG3jWUZiDqqrdk3oKwPEkuwoN89.jpg",
+        "release_date": "2006-01-01",
+        "title": "Funny Money",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            10770
+        ],
+        "id": 257565,
+        "original_language": "en",
+        "original_title": "Precious Victims",
+        "overview": "Paula and Robert Sims are desperate: their 12 days old baby has been kidnapped! Since there's no trace of the kidnappers, they address the public for help. Shortly after their daughter is found dead. When the same happens three years later to their second daughter, Sheriff Yocom becomes suspicious.",
+        "popularity": 11.368,
+        "poster_path": "/1HuZJNlBc8fJGhGHTh69wt4UaUt.jpg",
+        "release_date": "1993-09-27",
+        "title": "Precious Victims",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9dHwPGK1OQbcmy5rjryTr1T9nrY.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 173015,
+        "original_language": "cn",
+        "original_title": "廉政第一擊",
+        "overview": "During a period of widespread police corruption, Ti Lung is a stubborn cop who takes on both the mob and the political establishment.",
+        "popularity": 11.367,
+        "poster_path": "/5vgJr4Lz78Dk14NcaVFNOyeb9Vr.jpg",
+        "release_date": "1993-02-25",
+        "title": "First Shot",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dlnDYIbSLr7kOjQq9aq2YGOsrEv.jpg",
+        "genre_ids": [
+            53,
+            27,
+            80
+        ],
+        "id": 87339,
+        "original_language": "ja",
+        "original_title": "地獄の警備員",
+        "overview": "A former sumo wrestler, now working as a security guard, goes on a murderous rampage.",
+        "popularity": 11.367,
+        "poster_path": "/ycxR3MhB4dmQ5Uad88c6aK9QnkS.jpg",
+        "release_date": "1992-06-16",
+        "title": "The Guard from Underground",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oSz4ZTPzVuUg2efL1ybB3GuB0Cp.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 166221,
+        "original_language": "en",
+        "original_title": "Teresa's Tattoo",
+        "overview": "Mathematician Teresa just wanted to study during the College spring break. But her friends, who want her to live a little, drag her out to parties. The next thing she knows, she has been drugged, kidnapped, made a redhead, tattooed, and wearing leather?!? Her captors seem to be the most inept crooks ever. They seem to have a plan, if only she could figure out why it involves her.",
+        "popularity": 11.355,
+        "poster_path": "/xWLqpPPVBb8QI2jZzzCr4uXSqvT.jpg",
+        "release_date": "1994-03-15",
+        "title": "Teresa's Tattoo",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d9S560FcKeXN3yZTl5KX4cvXJ0M.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 633490,
+        "original_language": "en",
+        "original_title": "Safeguard",
+        "overview": "When a Japanese restaurant is extorted by the London Mafia, a father takes matters into his own hands to protect his family and their business.",
+        "popularity": 11.35,
+        "poster_path": "/okhx4eIru78W33kRjs9DGWdenZG.jpg",
+        "release_date": "2020-09-07",
+        "title": "Safeguard",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bLAnakZJtbQhYSiV52R9dUI0QsZ.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 18281,
+        "original_language": "en",
+        "original_title": "Side Street",
+        "overview": "A struggling young father-to-be gives in to temptation and impulsively steals an envelope of money from the office of a corrupt attorney. Instead of a few hundred dollars, it contains $30,000, and when he decides to return the money things go wrong and that is only the beginning of his troubles.",
+        "popularity": 11.348,
+        "poster_path": "/yt3VdPaLWhfgwsCMMW4DIVlgzdd.jpg",
+        "release_date": "1950-03-23",
+        "title": "Side Street",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5qwnw0yZOrXhKDMBHWESgbT7qZ3.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 646097,
+        "original_language": "en",
+        "original_title": "Rebel Ridge",
+        "overview": "A high-velocity thriller that explores systemic American injustices through bone-breaking action sequences, suspense and dark humor.",
+        "popularity": 11.347,
+        "poster_path": null,
+        "release_date": "2024-09-06",
+        "title": "Rebel Ridge",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kNjW7UfqU7EH7QrA2yeAUR2O8tM.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "id": 31560,
+        "original_language": "en",
+        "original_title": "A Blueprint for Murder",
+        "overview": "Whitney Cameron is in a quandary: he's attracted to his beautiful sister-in-law, Lynn, but also harbors serious suspicions about her. Her husband, Cameron's brother, died under mysterious circumstances, and now that the death of her stepchild, Polly, has been attributed to poisoning, he suspects that Lynn is after his late brother's estate, and killing everyone in her way.",
+        "popularity": 11.346,
+        "poster_path": "/5YmRhrJoYoDR323X4Racm8s7dnd.jpg",
+        "release_date": "1953-07-24",
+        "title": "A Blueprint for Murder",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ceBoofJ48cU9RP46gHx3NI8qP5.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 224569,
+        "original_language": "en",
+        "original_title": "Taxman",
+        "overview": "After a homocide that the police believe is over gasoline theft, a tax investigator discovers the Russian mafia is involved and that they are stealing millions in gasoline tax money. Only one rookie cop is willing to believe him and together they must get the evidence they need or die trying.",
+        "popularity": 11.345,
+        "poster_path": "/y6uvUy5wgF21wcIN3lY3G8dkjab.jpg",
+        "release_date": "1999-09-16",
+        "title": "Taxman",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yfTXQ7pjQp7o3mYh2EJ5bPJgIT.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 66707,
+        "original_language": "en",
+        "original_title": "Johnny Apollo",
+        "overview": "Wall Street broker Robert Cain, Sr., is jailed for embezzling. His college graduate son Bob then turns to crime to raise money for his father's release. As assistant to mobster Mickey Dwyer, then falls for Dwyer's girl Lucky. He winds up in the same prison as his father.",
+        "popularity": 11.343,
+        "poster_path": "/hYmGde6YNfJAYpG91kJu6dVKjuU.jpg",
+        "release_date": "1940-04-19",
+        "title": "Johnny Apollo",
+        "video": false,
+        "vote_average": 6.719,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eejpzqzvGL8jnyqlcZeEXKR5pdt.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 46351,
+        "original_language": "en",
+        "original_title": "Great Guy",
+        "overview": "A meat inspector sets out to rid his town of payoff deals affecting the quality of meat being sold to the public.",
+        "popularity": 11.341,
+        "poster_path": "/AcqtAhoYNFR1kjXvuZiT5ZoY76A.jpg",
+        "release_date": "1936-12-01",
+        "title": "Great Guy",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 40077,
+        "original_language": "cn",
+        "original_title": "變臉迷情",
+        "overview": "Lon is an assassin who is deformed. The only man he can trust is his brother, Kwan. When Lon kills a police officer, the officer's partner tries to go after him, but lets him go after seeing his face. Meanwhile, Lon falls for Wendy, the girlfriend of Lon's sadistic boss, Dragon. When Lon agrees to kill Dragon for Wendy, it's a setup. After the kill, Lon is hit by a car and plunges into the river. A year passes by. A new man named Michael arrives, working for Wendy. Meanwhile, the partner of the cop Lon killed is still on the case. He notices a resemblance of the new man to Lon. Is Michael the same person as Lon? If so, what is the motive?",
+        "popularity": 11.34,
+        "poster_path": "/qMCAypUW8pR8V1g8BEdMsfAktUq.jpg",
+        "release_date": "2002-05-09",
+        "title": "Devil Face, Angel Heart",
+        "video": false,
+        "vote_average": 5.286,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4ltKjFiYSprtjaPOcf5M3n7yn0t.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            10770,
+            14
+        ],
+        "id": 330590,
+        "original_language": "en",
+        "original_title": "The Eligible Bachelor",
+        "overview": "Sherlock Holmes' problem with disturbing dreams proves to be both an impediment and an aid in the search for a missing woman.",
+        "popularity": 11.339,
+        "poster_path": "/adaZhTCJ3iAFUHaKdILyRgdVuTd.jpg",
+        "release_date": "1993-02-03",
+        "title": "The Eligible Bachelor",
+        "video": false,
+        "vote_average": 6.906,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cVkrxt6WsiYLR7rVnxKUjAY0Fmb.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 41955,
+        "original_language": "ru",
+        "original_title": "Антикиллер",
+        "overview": "Former criminal investigator, Major Korenev, nicknamed Fox is released from prison. He has been detained there as a result of planted incriminating evidence of unlawful investigation techniques. Setting accounts with Shaman - a big criminal boss, who ordered the evidence planted and also with his former colleagues was not a part of Korenev's agenda. As he returns to Moscow he finds a new world ruled by underworld bosses, criminal clans fighting each other and utter chaos on the desperately keeping appearances streets of Russian capital. Facing death of his friends, Major Korenev decides to re-install law and order using some unorthodox methods that are only relevant in 21st century Russia.",
+        "popularity": 11.339,
+        "poster_path": "/pkdnzpmacniXKJnEmlD7q5KCFrw.jpg",
+        "release_date": "2002-08-01",
+        "title": "Antikiller",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10770,
+            80
+        ],
+        "id": 276526,
+        "original_language": "en",
+        "original_title": "In My Daughter's Name",
+        "overview": "A mother takes the law into her own hands after her daughter's murderer is acquitted on a technicality.",
+        "popularity": 11.337,
+        "poster_path": "/hMYXUNbxItlp3WBfDi02KHonz5s.jpg",
+        "release_date": "1992-05-10",
+        "title": "In My Daughter's Name",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a4CLGeX0X96B7AZg11cIUgYOyvs.jpg",
+        "genre_ids": [
+            53,
+            10770,
+            18,
+            80
+        ],
+        "id": 786562,
+        "original_language": "en",
+        "original_title": "Fatal Frenemies",
+        "overview": "After Haley goes missing, Michelle must work quickly to find her daughter and discover the truth behind the mysterious deaths before Haley or anyone else gets hurt.",
+        "popularity": 11.334,
+        "poster_path": "/oxTrDiAxc84HmdmwVxfw1fEIZVO.jpg",
+        "release_date": "2021-05-21",
+        "title": "Fatal Frenemies",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9ARB7rx4Fd5YjTTgQqKyIN43I5O.jpg",
+        "genre_ids": [
+            80,
+            28,
+            9648
+        ],
+        "id": 111422,
+        "original_language": "no",
+        "original_title": "Varg Veum - De døde har det godt",
+        "overview": "Varg Veum tries to help a scared girl lost in the woods at night, but he fails to avoid her death. What was this young asylum seeker fleeing from?",
+        "popularity": 11.33,
+        "poster_path": "/w8bJGOM0ppjK3KsBGaicDM10G8U.jpg",
+        "release_date": "2012-01-20",
+        "title": "Varg Veum - The Dead Have It Easy",
+        "video": false,
+        "vote_average": 6.296,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zEWgUj10TOdYUUAWuXE29arTFB8.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 69599,
+        "original_language": "cn",
+        "original_title": "省港旗兵",
+        "overview": "A group of desperate Chinese criminals hope to make a quick, effortless score in Hong Kong. Things go afoul, and the gang must hide out until the heat dies down, besmirched with the blood of an undercover cop.",
+        "popularity": 11.33,
+        "poster_path": "/8G8kI4TtP4PRCdsx0LWuIrZBq3v.jpg",
+        "release_date": "1984-07-11",
+        "title": "Long Arm of the Law",
+        "video": false,
+        "vote_average": 6.803,
+        "vote_count": 33
+    }
+]

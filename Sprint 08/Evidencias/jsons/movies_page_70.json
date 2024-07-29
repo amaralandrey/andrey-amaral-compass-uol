@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/jRxc6dVw7AxRUuOtFxmGop0IZ5p.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 152748,
+        "original_language": "en",
+        "original_title": "Ain't Them Bodies Saints",
+        "overview": "Bob Muldoon and Ruth Guthrie, an impassioned young outlaw couple on an extended crime spree, are finally apprehended by lawmen after a shootout in the Texas hills. Although Ruth wounds a local officer, Bob takes the blame. But four years later, Bob escapes from prison and sets out to find Ruth and their daughter, born during his incarceration.",
+        "popularity": 28.518,
+        "poster_path": "/xkGkVjeMcvEg7P3VxWy8wYBJ7Dv.jpg",
+        "release_date": "2013-07-03",
+        "title": "Ain't Them Bodies Saints",
+        "video": false,
+        "vote_average": 6.141,
+        "vote_count": 417
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x29PYzoNYPGzdj3M8FDwSwEgNpf.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 5236,
+        "original_language": "en",
+        "original_title": "Kiss Kiss Bang Bang",
+        "overview": "A petty thief posing as an actor is brought to Los Angeles for an unlikely audition and finds himself in the middle of a murder investigation along with his high school dream girl and a detective who's been training him for his upcoming role...",
+        "popularity": 28.516,
+        "poster_path": "/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg",
+        "release_date": "2005-09-14",
+        "title": "Kiss Kiss Bang Bang",
+        "video": false,
+        "vote_average": 7.175,
+        "vote_count": 2617
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vVTMfM5yw8iyohBRFSvHAxiyIHt.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11896,
+        "original_language": "en",
+        "original_title": "Throw Momma from the Train",
+        "overview": "Larry Donner, an author with a cruel ex-wife, teaches a writing workshop in which one of his students, Owen, is fed up with his domineering mother. When Owen watches a Hitchcock classic that seems to mirror his own life, he decides to put the movie's plot into action and offers to kill Larry's ex-wife, if Larry promises to murder his mom. Before Larry gets a chance to react to the plan, it seems that Owen has already set things in motion.",
+        "popularity": 28.511,
+        "poster_path": "/Ap0Wo7hNS6WW1wdPOKYM3SNpewY.jpg",
+        "release_date": "1987-12-11",
+        "title": "Throw Momma from the Train",
+        "video": false,
+        "vote_average": 6.173,
+        "vote_count": 546
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dPJ6Phs6crwoVXiLHntQk2lHz2T.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 21191,
+        "original_language": "es",
+        "original_title": "Sin nombre",
+        "overview": "Sayra, a Honduran teen, hungers for a better life. Her chance for one comes when she is reunited with her long-estranged father, who intends to emigrate to Mexico and then enter the United States. Sayra's life collides with a pair of Mexican gangmembers who have boarded the same American-bound train.",
+        "popularity": 28.493,
+        "poster_path": "/wncX4fshBUDvB2CaW3AYG7i3nUd.jpg",
+        "release_date": "2009-03-20",
+        "title": "Sin Nombre",
+        "video": false,
+        "vote_average": 7.607,
+        "vote_count": 658
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zHKEgUrLn8wRrBmKRPIq5sFPrvV.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 10778,
+        "original_language": "en",
+        "original_title": "The Man Who Wasn't There",
+        "overview": "A tale of murder, crime and punishment set in the summer of 1949. Ed Crane, a barber in a small California town, is dissatisfied with his life, but his wife Doris' infidelity and a mysterious opportunity presents him with a chance to change it.",
+        "popularity": 28.483,
+        "poster_path": "/gQHBLxJmakVO1h7VnTHwnVplXZs.jpg",
+        "release_date": "2001-10-26",
+        "title": "The Man Who Wasn't There",
+        "video": false,
+        "vote_average": 7.529,
+        "vote_count": 1528
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jpuhJikambSdHYf18OE6706yJkc.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 949229,
+        "original_language": "ta",
+        "original_title": "லியோ",
+        "overview": "A mild-mannered man becomes a local hero through an act of violence, but it brings forth consequences with connection to a dangerous world, one which will shake his carefully constructed life to its very core.",
+        "popularity": 28.476,
+        "poster_path": "/2XUHC4lp3tDsgfFLFygNZ2x2Um9.jpg",
+        "release_date": "2023-10-18",
+        "title": "Leo",
+        "video": false,
+        "vote_average": 6.797,
+        "vote_count": 69
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6YRQ8l93ZEs6x4rZojWoHIWdguK.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1024546,
+        "original_language": "en",
+        "original_title": "Detective Knight: Rogue",
+        "overview": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+        "popularity": 28.475,
+        "poster_path": "/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg",
+        "release_date": "2022-10-21",
+        "title": "Detective Knight: Rogue",
+        "video": false,
+        "vote_average": 6.241,
+        "vote_count": 141
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ydrBuCEfMI4rxh3QFlJfXwqHEY4.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 476,
+        "original_language": "en",
+        "original_title": "Drugstore Cowboy",
+        "overview": "Portland, Oregon, 1971. Bob Hughes is the charismatic leader of a peculiar quartet, formed by his wife, Dianne, and another couple, Rick and Nadine, who skillfully steal from drugstores and hospital medicine cabinets in order to appease their insatiable need for drugs. But neither fun nor luck last forever.",
+        "popularity": 28.462,
+        "poster_path": "/2bQXK39axyedUL6DE1pzdMYgAw1.jpg",
+        "release_date": "1989-10-20",
+        "title": "Drugstore Cowboy",
+        "video": false,
+        "vote_average": 7.093,
+        "vote_count": 520
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qbsMwtq6pXlf823z8u3qKPCeoM1.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28,
+            18
+        ],
+        "id": 671039,
+        "original_language": "fr",
+        "original_title": "Bronx",
+        "overview": "Caught in the crosshairs of police corruption and Marseille’s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.",
+        "popularity": 28.457,
+        "poster_path": "/9HT9982bzgN5on1sLRmc1GMn6ZC.jpg",
+        "release_date": "2020-10-30",
+        "title": "Rogue City",
+        "video": false,
+        "vote_average": 5.88,
+        "vote_count": 577
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8svHeSlKssWjscBaa2HnFZR9oo4.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 2760,
+        "original_language": "en",
+        "original_title": "The Lodger: A Story of the London Fog",
+        "overview": "London. A mysterious serial killer brutally murders young blond women by stalking them in the night fog. One foggy, sinister night, a young man who claims his name is Jonathan Drew arrives at the guest house run by the Bunting family and rents a room.",
+        "popularity": 28.433,
+        "poster_path": "/tD84zwFeFRf3zG98x558N3PBMV.jpg",
+        "release_date": "1927-02-14",
+        "title": "The Lodger: A Story of the London Fog",
+        "video": false,
+        "vote_average": 7.127,
+        "vote_count": 288
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gz1UpnvzxPVMFjT3YpKmPxCkFUa.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 42172,
+        "original_language": "en",
+        "original_title": "Hardcore",
+        "overview": "A conservative Midwest businessman ventures into the sordid underworld of pornography in search of his runaway teenage daughter who’s making hardcore films in the pits of Los Angeles.",
+        "popularity": 28.432,
+        "poster_path": "/g6m9xBTAzxXVhdJ624s9BLK9o6.jpg",
+        "release_date": "1979-02-09",
+        "title": "Hardcore",
+        "video": false,
+        "vote_average": 6.774,
+        "vote_count": 259
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6ZNqWfUXdxiNVqwgO2doLlkmgQc.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 139567,
+        "original_language": "en",
+        "original_title": "Fire with Fire",
+        "overview": "A fireman takes an unexpected course of action when a man whom he's been ordered to testify against—after being held up at a local convenience store—threatens him.",
+        "popularity": 28.423,
+        "poster_path": "/kziBJGQFo9f0Vkj9s37qI0G9I0I.jpg",
+        "release_date": "2012-08-31",
+        "title": "Fire with Fire",
+        "video": false,
+        "vote_average": 5.674,
+        "vote_count": 661
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gnu0rtxbrmhgjob4TXvIH8DHxB9.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 16958,
+        "original_language": "en",
+        "original_title": "The Asphalt Jungle",
+        "overview": "Recently paroled from prison, legendary burglar \"Doc\" Riedenschneider, with funding from Alonzo Emmerich, a crooked lawyer, gathers a small group of veteran criminals together in the Midwest for a big jewel heist.",
+        "popularity": 28.403,
+        "poster_path": "/gECEOjjLjuHi9DDHeDLj28SXLHE.jpg",
+        "release_date": "1950-05-12",
+        "title": "The Asphalt Jungle",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 464
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/glNHP57gEZqm42ybpToCV9oZ1AP.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 534490,
+        "original_language": "en",
+        "original_title": "Avengement",
+        "overview": "While on a prison furlough, a lowly criminal evades his guards and returns to his old stomping ground to take revenge on the people who turned him into a cold blooded killer.",
+        "popularity": 28.393,
+        "poster_path": "/rXPxSAYf3FdQktnOtQnvhUPMhFp.jpg",
+        "release_date": "2019-05-24",
+        "title": "Avengement",
+        "video": false,
+        "vote_average": 6.771,
+        "vote_count": 471
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ahNBewkTuhp1ckP42MkKSit0ajX.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            9648
+        ],
+        "id": 535265,
+        "original_language": "en",
+        "original_title": "Killers Anonymous",
+        "overview": "A failed attempt to murder a Senator is connected to a group meeting secretly to discuss their darkest urges—to take lives.",
+        "popularity": 28.378,
+        "poster_path": "/wpFabJf2J82j4qJyYIMFexmJ8BT.jpg",
+        "release_date": "2019-06-27",
+        "title": "Killers Anonymous",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 191
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fDGLPd3bWZHq1PWG9XSHotj82cm.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 9676,
+        "original_language": "en",
+        "original_title": "The Black Dahlia",
+        "overview": "In 1940s Los Angeles, two former boxers-turned-cops must grapple with corruption, narcissism, stag films and family madness as they pursue the killer of an aspiring young actress.",
+        "popularity": 28.378,
+        "poster_path": "/su7yuXqGUHICfoijtcSaxWLE34Y.jpg",
+        "release_date": "2006-09-15",
+        "title": "The Black Dahlia",
+        "video": false,
+        "vote_average": 5.631,
+        "vote_count": 1071
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qBpup0yPaLPxmSu3TQHwchhqdFb.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 38015,
+        "original_language": "ko",
+        "original_title": "타짜",
+        "overview": "Go-ni tries his best to worship Pyung Gyung-jang as his teacher, and promises to stop gambling after winning his money back. But people's desires are endless.",
+        "popularity": 28.377,
+        "poster_path": "/lIIGKcD9CmCYPYaCOZg3rTw0bRS.jpg",
+        "release_date": "2006-09-28",
+        "title": "Tazza: The High Rollers",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mUu9W0gclkUERm2IfnIDyyYIImV.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1292109,
+        "original_language": "en",
+        "original_title": "RHINO MAN",
+        "overview": "RHINO MAN follows the courageous field rangers who risk their lives every day to protect South Africa's rhinos from being poached to extinction.",
+        "popularity": 28.366,
+        "poster_path": "/2btLKhI1P1nKzV3PbwwwUD1Dooz.jpg",
+        "release_date": "2024-07-26",
+        "title": "RHINO MAN",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xgZyXaixTJERkUVqLHdhARga4zo.jpg",
+        "genre_ids": [
+            28,
+            18,
+            9648,
+            53,
+            80
+        ],
+        "id": 9415,
+        "original_language": "en",
+        "original_title": "Murder at 1600",
+        "overview": "A secretary is found dead in a White House bathroom during an international crisis, and Detective Harlan Regis is in charge of the investigation. Despite resistance from the Secret Service, Regis partners with agent Nina Chance. As political tensions rise, they learn that the crime could be part of an elaborate cover-up. Framed as traitors, the pair, plus Regis' partner, break into the White House in order to expose the true culprit.",
+        "popularity": 28.365,
+        "poster_path": "/5S469MSJIzb6J0PIsghUn52uzfP.jpg",
+        "release_date": "1997-04-18",
+        "title": "Murder at 1600",
+        "video": false,
+        "vote_average": 6.062,
+        "vote_count": 515
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wOai2Rem91sX2fIhh1nhNk7wch5.jpg",
+        "genre_ids": [
+            53,
+            28,
+            12,
+            80,
+            18
+        ],
+        "id": 8978,
+        "original_language": "en",
+        "original_title": "Assault on Precinct 13",
+        "overview": "On New Year's Eve, inside a police station that's about to be closed for good, officer Jake Roenick must cobble together a force made up cops and criminals to save themselves from a mob looking to kill mobster Marion Bishop.",
+        "popularity": 28.36,
+        "poster_path": "/oBpsRvMN1ONl8oFHuWt1rasDYFJ.jpg",
+        "release_date": "2005-01-19",
+        "title": "Assault on Precinct 13",
+        "video": false,
+        "vote_average": 6.164,
+        "vote_count": 1053
+    }
+]

@@ -1,0 +1,395 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/h4TCOK50rKRPhBTOH1I0JCldJvG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27
+        ],
+        "id": 21536,
+        "original_language": "en",
+        "original_title": "Starkweather",
+        "overview": "In 1958 Nebraska, 19 year old garbageman Charles Starkweather goes on a murder spree with his 14 year old girlfriend Caril Ann Fugate. They kill 11 people in three months, introducing America to spree killing.",
+        "popularity": 9.223,
+        "poster_path": "/8QnvfdlRyd5zJQVq7YtoKFAGQqd.jpg",
+        "release_date": "2004-11-08",
+        "title": "Starkweather",
+        "video": false,
+        "vote_average": 4.667,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1qouPCAfPkZY6pgiwqwPVsYNdAP.jpg",
+        "genre_ids": [
+            53,
+            80,
+            35
+        ],
+        "id": 326755,
+        "original_language": "it",
+        "original_title": "Mordi e fuggi",
+        "overview": "A man and his mistress have just taken off for a weekend romp when they're kidnapped by a trio of bank robbers. They wind up becoming media \"stars\" as police and reporters follow them. They all wind up at the beat-up shack of a cranky old codger, with the police surrounding them and the robbers threatening to kill everybody.",
+        "popularity": 9.222,
+        "poster_path": "/wnGcNuOSjBfRFhSbvG56HcOXFYc.jpg",
+        "release_date": "1973-03-08",
+        "title": "Dirty Weekend",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            35,
+            80,
+            9648
+        ],
+        "id": 6078,
+        "original_language": "en",
+        "original_title": "The Strange Case of the End of Civilization as We Know It",
+        "overview": "John Cleese is hilarious as the descendant of Sherlock Holmes in this modern detective drama of international power politics and intrigue. Unlike his illustrious grandfather however, he only succeeds in bungling every job he organizes. Also stars Arthur Lowe as the \"bionic\" grandson of Dr. Watson, Stratford Johns as the Commissioner of Police, and Connie Booth as Mrs. Hudson.",
+        "popularity": 9.222,
+        "poster_path": "/dQj3sVBeHRDn1jULydggZtgyf8d.jpg",
+        "release_date": "1977-09-18",
+        "title": "The Strange Case of the End of Civilization as We Know It",
+        "video": false,
+        "vote_average": 6.607,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/904i4qgNZTVHOgx51E7dli0UP2X.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 712137,
+        "original_language": "fr",
+        "original_title": "Vaurien",
+        "overview": "Dje arrives in Paris penniless, relying on his charm to get by. He seizes every opportunity which comes his way, even if it means killing.",
+        "popularity": 9.22,
+        "poster_path": "/msESTlps71nVfWOTc3XXSQr7ll0.jpg",
+        "release_date": "2021-06-09",
+        "title": "Rascal",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vkde64e3K5m6S0FvQaHGxuKXRlb.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1086357,
+        "original_language": "it",
+        "original_title": "Caracas",
+        "overview": "A well-known Neapolitan writer returns to his hometown after a long absence and encounters an old friend known as Caracas. Caracas, once a neo-fascist skinhead, is now converting to Islam.",
+        "popularity": 9.219,
+        "poster_path": "/wpKJzODXApY3W2Z89icO8LrUHiG.jpg",
+        "release_date": "2024-02-29",
+        "title": "Caracas",
+        "video": false,
+        "vote_average": 6.294,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 45382,
+        "original_language": "en",
+        "original_title": "Artworks",
+        "overview": "A police chief's daughter, a sales agent for a home-security firm, meets an art gallery owner. Love and envy lead them to hatch a plot to steal overlooked but valuable paintings from her wealthy clients.",
+        "popularity": 9.219,
+        "poster_path": "/psAm0RZMpK26MYf5RDJwU2PmeQk.jpg",
+        "release_date": "2003-04-10",
+        "title": "Artworks",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4h3sspcWhhdiJvOEfxv5FlndiCc.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 94894,
+        "original_language": "en",
+        "original_title": "Angel's Dance",
+        "overview": "A young hitman is asked to prove himself by killing an innocent woman.",
+        "popularity": 9.218,
+        "poster_path": "/rIUsUsc1ONmwKEzkXcZhE34jGxN.jpg",
+        "release_date": "1999-02-25",
+        "title": "Angel's Dance",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qJ2WabGydhDmJRrmXV897XMK3LC.jpg",
+        "genre_ids": [
+            10770,
+            18,
+            80
+        ],
+        "id": 47495,
+        "original_language": "en",
+        "original_title": "Overkill: The Aileen Wuornos Story",
+        "overview": "This film is based on the true story of Aileen Wuornos a prostitute-turned-serial killer who preyed mostly on truck drivers.",
+        "popularity": 9.218,
+        "poster_path": "/e81aurScY96hVeU85jjKEaqnkVG.jpg",
+        "release_date": "1992-01-01",
+        "title": "Overkill: The Aileen Wuornos Story",
+        "video": false,
+        "vote_average": 2.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "id": 1205702,
+        "original_language": "en",
+        "original_title": "Game of Power",
+        "overview": "Newspaper journalist Louis Ranaldi finds himself questioning the circumstances involving the sale of a popular neighborhood bar called Delaney's that was converted into an aerial nightclub. He discovers that there are improprieties and seeks to ascertain what political implications are involved in the Delaney's sale. Approached by Paul Matthews, the new owner of Delaney's, Ranaldi is invited to become a disc jockey at the aerial nightclub, as a token of thanks for being unbiased in his stories. Naturally, his disc jockey job is perceived as a conflict of interest by his editor and he is removed from covering the aerial nightclub story. Meanwhile, Denise Fortin, owner of a flower shop, is murdered shortly after Ranaldi interviews her for a newspaper profile story. Ranaldi begins investigating her murder and finds himself as an accomplice of an even bigger crime, while uncovering a secret buried deep within political circles.",
+        "popularity": 9.217,
+        "poster_path": "/kVPJmXcmf8f9SNK11Bad3TAoCXf.jpg",
+        "release_date": "2025-02-02",
+        "title": "Game of Power",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nRSSQrtg8r5cmU3ydyVnoS2suHF.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80,
+            10402
+        ],
+        "id": 766358,
+        "original_language": "en",
+        "original_title": "Sound of Violence",
+        "overview": "As a child, the brutal murder of her family made Alexis regain her hearing along with synesthetic abilities. Now as an adult, she finds solace in the sounds of bodily harm. But when she’s told she might lose her hearing again, she escalates her gruesome sound experiments in a quest to compose her masterpiece.",
+        "popularity": 9.216,
+        "poster_path": "/i3umQVtEGpwPTYIkRm2QsDAlrv8.jpg",
+        "release_date": "2021-05-21",
+        "title": "Sound of Violence",
+        "video": false,
+        "vote_average": 5.068,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nOEU6E4ipdsm7MBIRphJNAumMMf.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 118876,
+        "original_language": "it",
+        "original_title": "Perché si uccide un magistrato",
+        "overview": "A filmmaker's popular movie about a corrupt judge who is killed by the Mafia seemingly foretells the murder of a magistrate who orders the film's seizure.",
+        "popularity": 9.216,
+        "poster_path": "/8xgeWbVtJvzgsUPGPlcAkUV70Hc.jpg",
+        "release_date": "1975-02-05",
+        "title": "How to Kill a Judge",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/px4P6oFIOClx7zp93JB965GqGTw.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 32609,
+        "original_language": "en",
+        "original_title": "Mickey One",
+        "overview": "A former comic is on the run from the mob.",
+        "popularity": 9.216,
+        "poster_path": "/lFa9lgGfq0YIXWiL8VhRWZPb2Vt.jpg",
+        "release_date": "1965-09-27",
+        "title": "Mickey One",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gxd57g5PTdqTg5UJm8xXw79hAJO.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 795542,
+        "original_language": "en",
+        "original_title": "The Long Island Serial Killer: A Mother's Hunt for Justice",
+        "overview": "Mari Gilbert searches for the truth behind what happened to her daughter Shannan, a sometime escort who disappeared after a ‘date’ on Long Island. After Shannan fails to come home, her mother Mari knows something is terribly wrong. Pleading to police to take her concerns seriously, she keeps pushing the police for answers. Mari’s insistence that her daughter not be overlooked eventually leads to a horror hidden on Long Island for more than a decade – 19 bodies of young women discovered buried in shallow graves along Ocean Parkway in the area of Jones Beach State Park.",
+        "popularity": 9.215,
+        "poster_path": "/afGGYCWBZnyD9iDfXSxNvpwrewO.jpg",
+        "release_date": "2021-02-20",
+        "title": "The Long Island Serial Killer: A Mother's Hunt for Justice",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4a2YlzyWNdoKFaMbtXoMMdcjlvo.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 347674,
+        "original_language": "en",
+        "original_title": "Rivers 9",
+        "overview": "When a Native American casino controlled by the mob begins to destroy a close-knit rural town, a band of lovable low-tech misfits hatch a plan to beat them at their own game by pulling off an audacious casino heist.",
+        "popularity": 9.213,
+        "poster_path": "/mYh6XA6Rpmq8oPVX9nqPcZjkIdZ.jpg",
+        "release_date": "2015-06-30",
+        "title": "Rivers 9",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kJvOrBdzBbKVK36tnxZnrX7C2Kw.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 330162,
+        "original_language": "en",
+        "original_title": "Among the Missing",
+        "overview": "Seeking to avoid arrest while fleeing through a city park at night, two jewel thieves, Gordon and young Tommy, stash some just-stolen jewels on elderly, unknowing Martha Abbott. They then invite Martha to come live with them as their housekeeper, duping her into helping fence their goods. When Martha eventually becomes aware of the criminal activities, she strives to help Tommy reform.",
+        "popularity": 9.213,
+        "poster_path": "/YG79xlFTpWIhwxKIf3YmXswnPY.jpg",
+        "release_date": "1934-09-25",
+        "title": "Among the Missing",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eIOS0tUXM43176IIh3BBPiP55bU.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1127767,
+        "original_language": "en",
+        "original_title": "Riff Raff",
+        "overview": "A former criminal’s ordinary life which is thrown upside down when his old family shows up for a long-awaited reckoning.",
+        "popularity": 9.212,
+        "poster_path": "/34jT7N68gzoWAiShYfD7X2lBW7G.jpg",
+        "release_date": "",
+        "title": "Riff Raff",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/DV4hXb4JW8tfOvjLngz0LOmMgK.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 33697,
+        "original_language": "en",
+        "original_title": "Iowa",
+        "overview": "A cautionary tale of love, crime, fantasy and addiction that follows two young Iowan lovers who decide to go into the \"batch\" business - cooking their own methamphetamine - only to watch it burn a searing hole in their lives.",
+        "popularity": 9.212,
+        "poster_path": "/f3UUPXwyMXD6YrVErbXOPuuG4DN.jpg",
+        "release_date": "2005-04-22",
+        "title": "Iowa",
+        "video": false,
+        "vote_average": 2.75,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/waIxqEyQsfRWRBbYSAp8IXwPOSf.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 63406,
+        "original_language": "en",
+        "original_title": "Empire State",
+        "overview": "In the docklands of East London stands the Empire State, a nightclub full of magic and mystery. Designed like an ocean liner, it's become a battle ground where anything can happen. In the midst of the action, a young boy stows aboard to search for his friend who has disappeared in the entrails of the club.",
+        "popularity": 9.211,
+        "poster_path": "/ff7hVPGrEeHh9V3RjHT4Dcijc8T.jpg",
+        "release_date": "1987-03-01",
+        "title": "Empire State",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 237435,
+        "original_language": "en",
+        "original_title": "Bloodlines",
+        "overview": "In 1999, South African emigrant psychiatrist Colin Bouwer murdered his wife in what he thought was an undetectable manner. He was not counting on the skills and tenacity of New Zealand police and his colleagues in the medical profession.",
+        "popularity": 9.21,
+        "poster_path": "/gaKhy6U6OVNAfRX3mhiumDfl6yb.jpg",
+        "release_date": "2010-08-31",
+        "title": "Bloodlines",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 356811,
+        "original_language": "ja",
+        "original_title": "切り裂きジャックの告白　～刑事　犬養隼人～",
+        "overview": "The body of a young woman is discovered in a park in Tokyo with all her organs removed. The case is assigned to Detective Inukai, a usually cool and unemotional detective known for seeing through the lies of others. But Inukai has a young daughter in need of a kidney transplant, so when the first crime is followed by two similar crimes, Inukai is caught between his roles as a detective and a father.",
+        "popularity": 9.208,
+        "poster_path": null,
+        "release_date": "2015-04-18",
+        "title": "Kirisaki Jack no Kokuhaku",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

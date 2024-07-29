@@ -1,0 +1,409 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/8yWa53v6CcpkHSgM6nhsi5jRIxb.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 58470,
+        "original_language": "en",
+        "original_title": "The Green Man",
+        "overview": "Unknown to everyone but his shady Middle Eastern bosses, watchmaker Hawkins is actually a professional hired assassin with a predilection for killing his targets with bombs. After disposing of a dictator and millionaire, Hawkins is assigned to kill a politician who is heading to a remote hotel, The Green Man, for a secret tryst with his secretary. There, however, Hawkins' plot is discovered by vacuum salesman William Blake, who determines to stop him.",
+        "popularity": 8.299,
+        "poster_path": "/5UQISYyjXtqjkKzaDp3c84Whk1w.jpg",
+        "release_date": "1956-12-21",
+        "title": "The Green Man",
+        "video": false,
+        "vote_average": 6.953,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a2UHfSMJkG4SE6gcB7TNJUoDnzv.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            10749
+        ],
+        "id": 81088,
+        "original_language": "te",
+        "original_title": "మాస్",
+        "overview": "Mass, an orphan, bonds well with his landlord's son, Adi, who is in love with a mafia head's daughter. Attempting to separate the lovers, the gangsters kill Adi and Mass sets out to seek revenge.",
+        "popularity": 8.298,
+        "poster_path": "/h0sU47Zph0iyTvlKrfOq0kKBKY3.jpg",
+        "release_date": "2004-12-23",
+        "title": "Mass",
+        "video": false,
+        "vote_average": 6.222,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/elyYIulpKWXpAqZ4JSodzp1eW78.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1296094,
+        "original_language": "en",
+        "original_title": "Cruise Ship Murder",
+        "overview": "After her aunt is found dead having mysteriously fallen overboard on a cruise ship, Olivia is thrown into rough seas as her uncle's secret past is brought to life and more deaths occur.",
+        "popularity": 8.297,
+        "poster_path": "/gXFY3xpWdHmcj1UCVkrNJHaFtzw.jpg",
+        "release_date": "2024-05-25",
+        "title": "Cruise Ship Murder",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qADfG27tvbbu2jTIIZzJolTaQuR.jpg",
+        "genre_ids": [
+            53,
+            27,
+            18,
+            80
+        ],
+        "id": 125270,
+        "original_language": "ja",
+        "original_title": "みな殺しの霊歌",
+        "overview": "Police investigators investigate the link between a serial killer's machinations and a teenage boy who committed suicide.",
+        "popularity": 8.297,
+        "poster_path": "/6j1vEJBQS1qDobIh7uH7XIP6xQo.jpg",
+        "release_date": "1968-04-13",
+        "title": "I, the Executioner",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/srFow7SNr3fEq8D10qr6OA5liQl.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 841552,
+        "original_language": "ko",
+        "original_title": "착한 살인자들",
+        "overview": "First, the tale of a doctor who hides the accidental death of his son. Second, the story of a sculptress who kills and makes a sculpture out of a habitual sex offender who breaks into her home. Third, the story of a detective who administers euthanasia to satisfy the wishes of a terminally ill younger brother. Last, the tale of a young girl who develops psychological problems after her mother is killed by her abusive father",
+        "popularity": 8.296,
+        "poster_path": "/dm3Eu9359xf7ZSGLlmqPS3Ie3VW.jpg",
+        "release_date": "2011-06-04",
+        "title": "Homicide Sonata",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            80,
+            9648,
+            53,
+            18
+        ],
+        "id": 1061422,
+        "original_language": "en",
+        "original_title": "Rec",
+        "overview": "An influencer sets up cameras to find out what’s going on in her home.",
+        "popularity": 8.294,
+        "poster_path": "/7pZDYaQSDA0S6RdDYYzhktxeiAa.jpg",
+        "release_date": "2022-12-13",
+        "title": "Rec",
+        "video": false,
+        "vote_average": 5.227,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            27,
+            10770
+        ],
+        "id": 53428,
+        "original_language": "en",
+        "original_title": "Nick Knight",
+        "overview": "Detective Nick Knight is investigating a series of murders in which the bodies are found drained of blood - but the most recent one doesn't fit the pattern. Instead it involves the cure that Nick has been searching for for decades, so that he himself can face the light of day. Later remade as the first two episodes of Forever Knight.",
+        "popularity": 8.293,
+        "poster_path": "/zY2PU241BjD6rK77uMlHEsKbsw6.jpg",
+        "release_date": "1989-08-20",
+        "title": "Nick Knight",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yHzxZhtx8PAZqGLO2NE7oqVEPLu.jpg",
+        "genre_ids": [
+            80,
+            12,
+            53,
+            27,
+            28
+        ],
+        "id": 47410,
+        "original_language": "en",
+        "original_title": "Trapped",
+        "overview": "A group of college students accidentally see a local redneck kill his wife's lover. A deadly game of cat-and-mouse ensues, with the students trying to escape the area while the killer sets out to eliminate the witnesses who can tie him to the murder.",
+        "popularity": 8.292,
+        "poster_path": "/5gxaBCqX1eADOHcrauT9LdkZ6gg.jpg",
+        "release_date": "1982-05-28",
+        "title": "Trapped",
+        "video": false,
+        "vote_average": 5.429,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pv5WTJ4bZdkN8TrWM7c3LtutPVR.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 335154,
+        "original_language": "fr",
+        "original_title": "Dealer",
+        "overview": "After giving up a life of cocaine trafficking, Dan is offered a chance to achieve his dream : moving to Australia with his daughter. He accepts the deal and starts a downward spiral sucking him back into 24 hours of hell.",
+        "popularity": 8.291,
+        "poster_path": "/9NUrbiDGpHPZGTzJU88tAkx1l2w.jpg",
+        "release_date": "2014-09-04",
+        "title": "Dealer",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1jAYY94y5YeYl7cPMHRl4NBexAb.jpg",
+        "genre_ids": [
+            18,
+            53,
+            10770,
+            80
+        ],
+        "id": 87016,
+        "original_language": "en",
+        "original_title": "Sexting in Suburbia",
+        "overview": "moody daughters, Rachel and Dina have a close relationship. Dina tells her everything... or so Rachel thinks. When Dina suddenly commits suicide, Rachel is devastated and confused. Her search for answers as to what happened in her daughter's final days leads her to some painful discoveries about the secrets that Dina was trying to keep and the bullying that was tearing her apart.",
+        "popularity": 8.291,
+        "poster_path": "/4Z6eZF62G192ONI5DLrNS8iMpfD.jpg",
+        "release_date": "2012-01-14",
+        "title": "Sexting in Suburbia",
+        "video": false,
+        "vote_average": 5.659,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hnEpCx8B5drMcBjiEC3wIfr6RVT.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 451515,
+        "original_language": "en",
+        "original_title": "The Midnighters",
+        "overview": "An aging ex-con struggles to adapt to the outside world after many years in prison--and begins to build a relationship with the grown son he never knew.",
+        "popularity": 8.29,
+        "poster_path": "/6NhAkzg7rmTsBOTjmxvxCnPDf9F.jpg",
+        "release_date": "2017-04-08",
+        "title": "The Midnighters",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kuuKVXrDsOW3s5jrP3hOxCvxV5V.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 45468,
+        "original_language": "ja",
+        "original_title": "XX ダブルエックス 美しき獣",
+        "overview": "A hit-woman goes after the Japanese mafia with a mad-on after her sister is killed. Beautiful, seductive Ran (Kaori Shimamura) harbors a secret: By night, she's the deadly assassin known as the Black Orchid. Her newest assignment started as an ordinary hit, but now it threatens to pull her into a nightmare world of sex and murder. Toshiharu Ikeda, creator of the Evil Dead Trap series of films, directs this erotic, violent tale of underworld deception.",
+        "popularity": 8.29,
+        "poster_path": "/9olH7lbwNV53mNHyDqy9iHYUxse.jpg",
+        "release_date": "1995-09-08",
+        "title": "XX: Beautiful Beast",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1301470,
+        "original_language": "zh",
+        "original_title": "重生",
+        "overview": "In a world where order has broken down, darkness reigns, forces are at work, and conspiracies abound. The son of a notorious drug cartel leader fights for his life, and gradually rises to prominence. The captain of the anti-narcotics squad is a vicious and ruthless killer. The violent thugs who roam in the darkness intervene to stir up trouble and vow to seize the benefits. The situation becomes more and more confusing as the whole team goes crazy, not realizing that a huge revenge plot is involved behind the scenes. Under the darkness of the money and power transactions, factional armed struggle, black gold insider surfaced one by one. The long-awaited game of life and death has already begun......",
+        "popularity": 8.289,
+        "poster_path": "/1duF5m1dAnjX8c7QRQ1hjgJJqjM.jpg",
+        "release_date": "2024-08-16",
+        "title": "重生",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n9i95YmXnWlgIqokD5L5fhnbdKh.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 886474,
+        "original_language": "ja",
+        "original_title": "マニアック・ドライバー",
+        "overview": "A Japanese giallo about a murderous driver roaming the street in search of prey.",
+        "popularity": 8.289,
+        "poster_path": "/ji5uehfD9w9Xa0Nfwr8Ug8PkFPw.jpg",
+        "release_date": "2021-09-16",
+        "title": "Maniac Driver",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eolwylstSSwfhGPE19XWQrfVQcS.jpg",
+        "genre_ids": [
+            878,
+            28,
+            12,
+            80
+        ],
+        "id": 134051,
+        "original_language": "fr",
+        "original_title": "Panther Squad",
+        "overview": "An astronaut has been abducted by a group of environmental terrorists. The New Organization of Nations decides to send a lethal commando \"The Panther Squad\", composed of sexy female mercenaries to get rid of the terrorists led by Barbara Wims and to free the hostage...",
+        "popularity": 8.289,
+        "poster_path": "/teXZd7SUaPrcNYq6i7joNifLQhJ.jpg",
+        "release_date": "1984-01-15",
+        "title": "Panther Squad",
+        "video": false,
+        "vote_average": 3.3,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cwtB2vGXMCyqNXo0NLShirOe2QM.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 103185,
+        "original_language": "en",
+        "original_title": "Ma Barker's Killer Brood",
+        "overview": "Ma Barker and her four sons terrorize the 1930s South and Midwest with a string of kidnappings, robberies and murders, and even get to work with such famous criminals as John Dillinger and Baby Face Nelson.",
+        "popularity": 8.289,
+        "poster_path": "/kddnsCHzwHWjBdMUGm3OJT3uESg.jpg",
+        "release_date": "1960-02-03",
+        "title": "Ma Barker's Killer Brood",
+        "video": false,
+        "vote_average": 5.909,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eiIAfMb5hOB7YK1cNDQMoi0rqck.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 28489,
+        "original_language": "it",
+        "original_title": "Il giustiziere sfida la città",
+        "overview": "A biker's brother is killed while investigating the kidnapping of a young boy, the byproduct of a war between two crime families. The biker vows to get revenge by finding the kidnapped boy and destroying the two families.",
+        "popularity": 8.289,
+        "poster_path": "/fE1ccN1cPFR2dlWvjpnJPHuMCgu.jpg",
+        "release_date": "1975-08-16",
+        "title": "Syndicate Sadists",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aVHvqEI1Ex9Y1KTEioqm3jXA9S3.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878,
+            35,
+            80
+        ],
+        "id": 531941,
+        "original_language": "ja",
+        "original_title": "快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー ~GIRLFRIENDS ARMY~",
+        "overview": "Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger ～GIRLFRIENDS ARMY～ is a Hyper Battle DVD, that showcase various features of the series and its armament. The DVD will feature the series’ heroines, Umika Hayami and Tsukasa Myoujin.",
+        "popularity": 8.288,
+        "poster_path": "/yyUybBwB1DxuzFRRmv2iTdU8M4Q.jpg",
+        "release_date": "2018-06-30",
+        "title": "Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger ~GIRLFRIENDS ARMY~",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cvOxBnR3IP2YBIvjFGBc0NDYpg6.jpg",
+        "genre_ids": [
+            10770,
+            9648,
+            18,
+            36,
+            80
+        ],
+        "id": 374987,
+        "original_language": "hu",
+        "original_title": "Félvilág",
+        "overview": "The story of three women - a famous prostitute, her housekeeper and their new maid - living in Budapest of 1910s, whose passionate, bizarre and complex relationship can only lead to one thing: murder.",
+        "popularity": 8.288,
+        "poster_path": "/stfP9IzdfMiWsLFClwKmlmKHFLE.jpg",
+        "release_date": "2015-12-30",
+        "title": "Demimonde",
+        "video": false,
+        "vote_average": 6.926,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hkF56n8O6L2weZko0JZ4p9A02wN.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 486963,
+        "original_language": "cn",
+        "original_title": "摩登龍爭虎鬥",
+        "overview": "An eccentric tale of competition and corruption within a seemingly ordinary insurance company. When a young female insurance agent is found murdered, what was supposed to be a routine police investigation turns into front page news when the victim was alleged to have traded sex for insurance policies",
+        "popularity": 8.287,
+        "poster_path": "/sPtQQuqPwfxaUwjO4wGLK5SFUd9.jpg",
+        "release_date": "1994-05-05",
+        "title": "Best of Best",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    }
+]

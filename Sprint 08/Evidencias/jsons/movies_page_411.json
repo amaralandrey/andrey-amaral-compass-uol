@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/c26Lu37lhie6KLTn8abwwZqmBnJ.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            18
+        ],
+        "id": 290234,
+        "original_language": "ja",
+        "original_title": "劇場版 ATARU THE FIRST LOVE＆THE LAST KILL",
+        "overview": "Ataru, who suffers from “savant syndrome,” has the power to discover, observe, see through, and deduct microscopic evidence of unsolved cases. Why does he always go to the criminal sites? What explains his strange behavior? Meanwhile, a mystery unfolds with Ataru and a woman named Madoka, who is a killer. The woman possesses the same extraordinary memory and deductive reasoning abilities as Ataru. Who is she?",
+        "popularity": 8.089,
+        "poster_path": "/sQNlKAwD7HMSJwLuzgUr2eeEHfC.jpg",
+        "release_date": "2013-09-14",
+        "title": "Ataru: The First Love & The Last Kill",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iBqBY74J0DZ9QPZSfuHMWfjwdGW.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 16686,
+        "original_language": "no",
+        "original_title": "Varg Veum - Bitre blomster",
+        "overview": "Karsten Aslaksen, chief engineer of a large chemical company, disappears without trace. His married lover, a successful politician named Vibeke Farang, approaches private investigator Varg Veum to track him down discreetly.",
+        "popularity": 8.089,
+        "poster_path": "/cgSuKTdjdej79OFddifggwbqQSP.jpg",
+        "release_date": "2007-09-28",
+        "title": "Varg Veum - Bitter Flowers",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fABfnFOikIuaCIbKsEfe737BKkz.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53,
+            18
+        ],
+        "id": 545925,
+        "original_language": "nl",
+        "original_title": "Baantjer: Het Begin",
+        "overview": "A mild-mannered police detective freshly stationed in tumultuous 1980 Amsterdam enters a race against time when he encounters a violent plot against the Dutch royal family.",
+        "popularity": 8.088,
+        "poster_path": "/9mIPqpyGKcWk9ti8TGarkJfRcNi.jpg",
+        "release_date": "2019-04-18",
+        "title": "Baantjer: The Beginning",
+        "video": false,
+        "vote_average": 6.093,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3TkKXgh6oBvsTVrq2QldusTMDO6.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 289940,
+        "original_language": "cn",
+        "original_title": "第6誡",
+        "overview": "Meet Leonard, a man who will help you die with a smile on your face. A young attorney meets his client for the first time, a serial killer known as the \"Smiley Face Killer\", whose victims all died with a smile on their faces.",
+        "popularity": 8.088,
+        "poster_path": "/4ygEBppHxILkjin5AgopfYAqvDh.jpg",
+        "release_date": "2012-10-04",
+        "title": "Cross",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 136775,
+        "original_language": "en",
+        "original_title": "G.B.H.",
+        "overview": "Damien, a London copper has a past he's trying to forget. Before joining the force he ran with a football firm, getting involved in tear-ups up and down the country. Now he's on the other side of the law and faces a tough decision, side with his old crew or protect London as it burns and rioters run amok. Falling in love with fellow cop Louise, he is quickly alerted to a street-level uprising that is about to shake London. Amidst the brutalities presented by the riots, he fights for justice at Louise's expense. Having been raped by a rioter known to him, Damien finds himself levelling with the rioters, fighting a war he cannot win, as much against the rioters as against himself.",
+        "popularity": 8.088,
+        "poster_path": "/13E6v159XQcKhY7A6wW1nsBxgeN.jpg",
+        "release_date": "2012-10-01",
+        "title": "G.B.H.",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zWCfJkuWJuARMGBZ3n4ruIerTfL.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 28044,
+        "original_language": "en",
+        "original_title": "Charlie Chan at the Opera",
+        "overview": "A dangerous amnesiac escapes from an asylum, hides in the opera house, and is suspected of getting revenge on those who tried to murder him 13 years ago.",
+        "popularity": 8.087,
+        "poster_path": "/xM3HEdNLnJofx6rmj5i4Ha5dquP.jpg",
+        "release_date": "1936-12-04",
+        "title": "Charlie Chan at the Opera",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qUVrEUq50cqWMpUgSULMNKEOATQ.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 249306,
+        "original_language": "en",
+        "original_title": "Blood Orange",
+        "overview": "Discharged by his employer, a private eye stays on a jewel theft case after a model with information for him is murdered.",
+        "popularity": 8.086,
+        "poster_path": "/8CuqZAP3hmYhNoAdBWZkoVUcM9e.jpg",
+        "release_date": "1953-10-10",
+        "title": "Blood Orange",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oOoGg99nSlFJAp3gfUi0Vvy45T0.jpg",
+        "genre_ids": [
+            53,
+            10770,
+            80
+        ],
+        "id": 734418,
+        "original_language": "en",
+        "original_title": "Psycho Sister-In-Law",
+        "overview": "Haley and Nick Downes are a happy, successful young couple pregnant with their first baby, but when Nick's father dies unexpectedly, his estranged sister Zara suddenly shows up to town with a diabolical plan in store to make the baby and their father's fortune her own.",
+        "popularity": 8.085,
+        "poster_path": "/zKlLDMEQ213Ugiq5WcOMofvgESI.jpg",
+        "release_date": "2020-08-16",
+        "title": "Psycho Sister-In-Law",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q8bQe4h2pQ13FmmcW5YOPggjQSZ.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 551947,
+        "original_language": "en",
+        "original_title": "Betrayed",
+        "overview": "In an effort to control the city the Mayor opens the doors to the Russian Mob. It is not long until he realizes they aren't going to follow his rules. To fix the problem he accepts an offer to set up the Russians and open the door for the Cartel. When the Russians find out they take the Mayors Daughter and then the real games begin.",
+        "popularity": 8.085,
+        "poster_path": "/AcNhuxe5s6PqcLteRzjBlr0MAOU.jpg",
+        "release_date": "2018-10-02",
+        "title": "Betrayed",
+        "video": false,
+        "vote_average": 4.868,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lz10j85ds0YRYoNabfhKAZxZYjm.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 377729,
+        "original_language": "en",
+        "original_title": "Bad Black",
+        "overview": "A mild-mannered doctor is trained in the art of ass-kicking commando vengeance by a no-nonsense ghetto kid in an effort to regain a family heirloom from Uganda’s toughest gang.",
+        "popularity": 8.085,
+        "poster_path": "/zQfOajbGIJlTquF5FPuoHIdp9cP.jpg",
+        "release_date": "2016-09-25",
+        "title": "Bad Black",
+        "video": false,
+        "vote_average": 7.567,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9Jl0r5LUf0p0hX4yjGMBs7bcC1j.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 71393,
+        "original_language": "ru",
+        "original_title": "Холодное лето пятьдесят третьего",
+        "overview": "In 1953, the year Stalin died, many prisoners (some political, but mostly common criminals) were released from the Soviet Gulags. This is the story of a remote settlement which was under attack by a bunch of these recently-released blood-thirsty thugs in the summer of 1953, and the townspeople, along with a two political prisoners, who try to stop them.",
+        "popularity": 8.085,
+        "poster_path": "/bgJWZc2e7KLtSyEZL9JkiY9bUO2.jpg",
+        "release_date": "1988-12-03",
+        "title": "The Cold Summer of 1953",
+        "video": false,
+        "vote_average": 7.208,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4HgTr1F748KIpoNWK2QYoGnTlQf.jpg",
+        "genre_ids": [
+            35,
+            10770,
+            80
+        ],
+        "id": 97146,
+        "original_language": "en",
+        "original_title": "Caught in the Act",
+        "overview": "After de-bunking her philandering spouse's deceptions, Jodie Colter accidentally stumbles onto the murder case of a former homecoming queen. She quickly finds that her natural snooping skills, honed on catching her cheating husband, can be put to even better use by bringing a killer to justice. With her children in tow, she pieces together the clues that prove the homecoming queen's canny lawyer husband is a murderer.",
+        "popularity": 8.084,
+        "poster_path": "/sgaOnPhj6N9e753Q5WRS6Ab4N7A.jpg",
+        "release_date": "2004-05-10",
+        "title": "Caught in the Act",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1310208,
+        "original_language": "de",
+        "original_title": "Mordkommission Calw - Klassentreffen",
+        "overview": "",
+        "popularity": 8.079,
+        "poster_path": "/z4g49x4ybVGMspMXrBIYCgFmfE2.jpg",
+        "release_date": "2024-08-10",
+        "title": "Mordkommission Calw - Klassentreffen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            12
+        ],
+        "id": 949687,
+        "original_language": "bn",
+        "original_title": "ফেলুদার গোয়েন্দাগিরি: দার্জিলিং জমজমাট",
+        "overview": "The suave Prodosh C. Mitter aka Feluda has ruled over our hearts with his sharp wit, impressive intellect and astute observation skills for over five decades now! The story starts off with the murder of Birupaksha Majumdar by Vishnudas Balaporia in the cold Darjeeling Mountains. Feluda, Topshey and Lalmohun Ganguly investigate.",
+        "popularity": 8.079,
+        "poster_path": "/29YB334BWep5SyX1BPAWJtRZYeC.jpg",
+        "release_date": "2022-06-17",
+        "title": "Feludar Goyendagiri: Darjeeling Jawmjawmaat",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q99DZl74NtL8mQFYRrNAGmBYxyR.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 716854,
+        "original_language": "ko",
+        "original_title": "고백",
+        "overview": "Jiwon, a motivated new police officer, is strangely bothered after meeting Osun, a social worker. On a hot summer day, a kidnapper sends a message saying, ‘If you want to save the kidnapped child, donate money to the welfare center.’ The incident becomes a national concern as the media report it. Somehow, Jiwon doubts the link between the case and Osun.",
+        "popularity": 8.079,
+        "poster_path": "/1pBAaatnUJ7SrIxKUPaVHhJZi1A.jpg",
+        "release_date": "2021-02-24",
+        "title": "Go Back",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pejoe9OyX2NwIxRVf3tuPVj5wv5.jpg",
+        "genre_ids": [
+            27,
+            80,
+            53
+        ],
+        "id": 80633,
+        "original_language": "en",
+        "original_title": "The Hands of Orlac",
+        "overview": "Famed concert pianist Stephen Orlac survives a plane crash, but his hands are permanently destroyed. Helpful surgeon Volcheff grafts a pair of new hands on the hapless Orlac. Unfortunately, they're the hands of an executed murderer – useless for a pianist, but quite handy for less delicate work...",
+        "popularity": 8.079,
+        "poster_path": "/dMoP2u3sf7LKkCOijCw8dyxCbUc.jpg",
+        "release_date": "1960-12-01",
+        "title": "The Hands of Orlac",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            35,
+            80,
+            18,
+            10770
+        ],
+        "id": 184669,
+        "original_language": "en",
+        "original_title": "Killer Hair",
+        "overview": "A fashion reporter stumbles on a murder investigation in the Nation's Capitol, only to be thrown for a loop when her police detective former lover is assigned to the case.",
+        "popularity": 8.078,
+        "poster_path": "/9Hr70MoNNGUfb5djwX2BeJiDkc3.jpg",
+        "release_date": "2009-08-20",
+        "title": "Killer Hair",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5mbGQFhDAquIVuFaB7VqjrJ83O7.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 210778,
+        "original_language": "cn",
+        "original_title": "靚女差館",
+        "overview": "Bear and Satay are two cops who got moved to the Cop Shop Babes brigade, where they can chat up policewomen. But bomb expert Fireball wants to revenge from the Cop Shop Babes chief (Carina Lau) and the girls.",
+        "popularity": 8.077,
+        "poster_path": "/rABsfrgmKS8TK1Hx6nLi4LJSMrz.jpg",
+        "release_date": "2001-05-19",
+        "title": "Cop Shop Babes",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cluhSDA5D74TDXhnXB47wK7GJsp.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 78264,
+        "original_language": "fr",
+        "original_title": "L'Ordinateur des pompes funèbres",
+        "overview": "Fred works for an insurance company as a computer engineer. He is bored with enduring the trials of his shrewish wife, so, after using actuarial tables to calculate the most common means of death, he cleverly prepares the family bathroom and brings about her demise. For a while he is content with his new freedom, but then he recognizes that a friend is in a similar situation.",
+        "popularity": 8.077,
+        "poster_path": "/AnTrRM7NxDuzokM6mTX66DCDDYQ.jpg",
+        "release_date": "1976-04-07",
+        "title": "The Undertaker Parlor Computer",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q1oy9F1ERhjzApnz7ajlDl6eWRg.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 29624,
+        "original_language": "en",
+        "original_title": "Double Jeopardy",
+        "overview": "Marc Hill is the attorney for Emmet Devrey, a real estate developer with a past, who is being blackmailed by his former partner Sam Baggett. When Sam's unfaithful wife Marge cooks up a scheme with her used car salesman lover Jeff Calder to bilk both Devrey and her alcoholic husband, Sam is killed and Devrey is accused of the crime. Mark is called to prove his employers innocence.",
+        "popularity": 8.077,
+        "poster_path": "/mSvnDEjGFQtDb3vvOejrXzaAXoy.jpg",
+        "release_date": "1955-06-23",
+        "title": "Double Jeopardy",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 10
+    }
+]

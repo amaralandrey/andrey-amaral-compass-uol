@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 396417,
+        "original_language": "en",
+        "original_title": "I Know My Son Is Alive",
+        "overview": "A couple's life is torn apart by the disappearance of their new-born son.",
+        "popularity": 7.787,
+        "poster_path": "/nXZjyh0nnxVa0TBRjBaK2L55urg.jpg",
+        "release_date": "1994-02-20",
+        "title": "I Know My Son Is Alive",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j6QDDcIrLmAmQeW75DESxL78KRR.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 1231785,
+        "original_language": "ja",
+        "original_title": "ある閉ざされた雪の山荘で",
+        "overview": "Kazuyuki Kuga aspires to become an actor. He auditions for the lead role in a theater company's next work. Among the 300 people who take part in that audition, only 7 people are selected for a final audition round. Kazuyuki Kuga is among the final 7 participants. These 7 people then travel to a snowy mountain villa and stay there for 4 days to take the final audition. By the director's orders, all contact with the outside world are not allowed. Soon, the participants begin to disappear one by one.",
+        "popularity": 7.785,
+        "poster_path": "/e1I9ahbsEL4PS3AegXyoguNegRR.jpg",
+        "release_date": "2024-01-12",
+        "title": "In a Closed Snowy Mountain Villa",
+        "video": false,
+        "vote_average": 4.25,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tykpJrtNdvznxHRptbmveXTGlMA.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 362456,
+        "original_language": "en",
+        "original_title": "Dangerously Yours",
+        "overview": "A detective poses as a jewel thief and joins a bunch of other crooks sailing from Europe to New York in search a famous gem. He falls in love with one of the crooks.",
+        "popularity": 7.785,
+        "poster_path": "/xftWu3B35IpRFLn9CRl7QbUfpCo.jpg",
+        "release_date": "1937-09-21",
+        "title": "Dangerously Yours",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 144934,
+        "original_language": "cn",
+        "original_title": "阿嫂",
+        "overview": "In the macho triad world where heroes are molded from blood, brawn and brains, what place is there for a defenseless girl? The only exception to the rule is if you earn your respect as 'Ah Sou' - the big boss' wife. Ah Sou tells the extraordinary story of an innocent girl who becomes appointed successor to Hong Kong's ruling triad. This role becomes a double-edged sword for our young heroine, who is sucked into a maelstrom of vicious gang wars, hair-raising assassination attempts and ruthless power struggles and betrayals. Through numerous violent episodes and unexpected reversals, she discovers her own inner strength and re-writes the laws of the triad kingdom.",
+        "popularity": 7.785,
+        "poster_path": "/sMCFHyZjFneLfVDGFkoQOM5ye6k.jpg",
+        "release_date": "2005-08-04",
+        "title": "Mob Sister",
+        "video": false,
+        "vote_average": 4.625,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dgN5YfDtzixocOaQM2uu3SdVOpI.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10770,
+            27
+        ],
+        "id": 61692,
+        "original_language": "en",
+        "original_title": "The Last Vampyre",
+        "overview": "Sherlock Holmes investigates strange and tragic happenings in a village that appear linked to a man who seems to be like a vampire.",
+        "popularity": 7.785,
+        "poster_path": "/xeA3oqd4DQcZF2DncxekWaDuaD4.jpg",
+        "release_date": "1993-03-14",
+        "title": "The Last Vampyre",
+        "video": false,
+        "vote_average": 7.023,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bdLvelZtIr8MiscEs9e48Vzd4Jl.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 354630,
+        "original_language": "te",
+        "original_title": "శివ",
+        "overview": "Siva is a new student in the community college. He is welcomed by a group of collegians, including the lovely Asha, to whom Shiva is instantly attracted. Shiva notices that there is violence within the college, perpetrated by people who are not even students. When he decides to find out their motives, he is met with violence, and threats. Now Shiva must decide to stand up for his college, or just carry on studying, finish college, and move on and get to on job.",
+        "popularity": 7.784,
+        "poster_path": "/q6loMZxRfWdgmpK9OzHNtwSVHxs.jpg",
+        "release_date": "1989-10-05",
+        "title": "Siva",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8JuRREKSh1pk2mxUWAFVz9DIDbs.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 222926,
+        "original_language": "en",
+        "original_title": "The Last Hour",
+        "overview": "A former cop's ex-wife marries a stockbroker, who it turns out has cheated the Mafia out of a large sum of money. They kidnap the wife to force the husband to pay the money back. The ex-cop has to rescue her.",
+        "popularity": 7.783,
+        "poster_path": "/fxpfDMhqoOHHXLsDNtfiAG5Lh02.jpg",
+        "release_date": "1991-10-03",
+        "title": "The Last Hour",
+        "video": false,
+        "vote_average": 2.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hIzkoWH9wQocelDQZvPeiaeYDwa.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 211490,
+        "original_language": "en",
+        "original_title": "The Spider and the Fly",
+        "overview": "\"The Spider and the Fly is set in Paris during the cloud-cuckoo days before WW I. The storyline intertwines the destinies of three people. Guy Rolfe plays Phillipe de Ledocq, a resourceful safecracker who always manages to elude arrest. Eric Portman is cast as police-chief Maubert, who will not rest until Ledocq is behind bars. And Nadia Gray is Madeleine, the woman beloved by both Ledocq and Maubert. Just as Maubert has managed to capture his man, Ledocq is released at the behest of the government, who wants him to steal secrets from the German embassy revealing the whereabouts of the Kaiser's secret agents. And just how does Madeleine figure into all of this? Spider and the Fly is a diverting precursor to the 1960s TV series It Takes a Thief.\" ~ Hal Erickson, Rovi",
+        "popularity": 7.783,
+        "poster_path": "/jacUlMcUi2JyUiTLWQK2hLurYAe.jpg",
+        "release_date": "1949-12-01",
+        "title": "The Spider and the Fly",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5HLaT3MyuebuoqrTKkM1WmEjiH0.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648
+        ],
+        "id": 107184,
+        "original_language": "it",
+        "original_title": "Kriminal",
+        "overview": "A master criminal is pursued by inspector Milton",
+        "popularity": 7.781,
+        "poster_path": "/klzRI8jWgNm0yuRPgvFT56uTnA6.jpg",
+        "release_date": "1966-12-23",
+        "title": "Kriminal",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nlQ847wGkqkBScA8rq2EX6w9CsW.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 35917,
+        "original_language": "en",
+        "original_title": "Crime in the Streets",
+        "overview": "A social worker tries to end juvenile crime by getting involved with a street gang.",
+        "popularity": 7.781,
+        "poster_path": "/gxSJPpedReAAUrny8CEqjTbfyFv.jpg",
+        "release_date": "1956-06-10",
+        "title": "Crime in the Streets",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 456684,
+        "original_language": "en",
+        "original_title": "Larceny",
+        "overview": "A man breaks into a flat, startling the occupant. They argue about the new girlfriend of the 'burglar', who's come to get her stuff. Then a third man bursts out of the cupboard...",
+        "popularity": 7.78,
+        "poster_path": "/uL0iqPb4dtICVCCMKYem2yRPBRX.jpg",
+        "release_date": "1996-07-14",
+        "title": "Larceny",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j51NWokIxJelqscSxYofPnV45bu.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 426918,
+        "original_language": "ja",
+        "original_title": "子宮に沈める",
+        "overview": "A life of a mother and her two children breaking down quietly without showing any events happening out of their house. The film is about a child neglect and a corruption of the belief, motherhood exists in all female, based on a true incident happened in Osaka, Japan.",
+        "popularity": 7.78,
+        "poster_path": "/79R8Q1lvAwLY6yPTJhBIdhHeGYb.jpg",
+        "release_date": "2013-11-09",
+        "title": "Sunk into the Womb",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w4dEcJv4EdBWuT7COmZXv96mi9j.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 156158,
+        "original_language": "sv",
+        "original_title": "Borkmanns punkt",
+        "overview": "Van Veeteren finds retiring from the police force is easier said than done when two decapitated bodies are found in quick succession. The matching MO in the two grisly murders brings the investigation teams of Maardam and Kaalbringen together - a collaboration that is not without its problems.",
+        "popularity": 7.78,
+        "poster_path": "/1hl6MDVeQsHqLeoZiMofDf0hOEQ.jpg",
+        "release_date": "2005-12-14",
+        "title": "Borkmann's Point",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vjup4mk5bsk1bsjNe92E6CJeAvU.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 60021,
+        "original_language": "sv",
+        "original_title": "Skills",
+        "overview": "Kelvin is an average teenager with an extraordinary talent - parkour. After his detective father is shot, Kelvin is forced to question his moral boundaries: how far will he go for family and friends?",
+        "popularity": 7.779,
+        "poster_path": "/xwPkeIXuXCtpRy7Z3wq9YL8gaR9.jpg",
+        "release_date": "2010-01-01",
+        "title": "Skills",
+        "video": false,
+        "vote_average": 1.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 160473,
+        "original_language": "cn",
+        "original_title": "逆我者死",
+        "overview": "",
+        "popularity": 7.778,
+        "poster_path": "/yhbUhV48NAsjI1hk8VW0QyPPXwh.jpg",
+        "release_date": "1999-12-31",
+        "title": "Never Compromise",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/25KNlVR3DDdewFrV6LyBq41SDFP.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            27
+        ],
+        "id": 105663,
+        "original_language": "it",
+        "original_title": "Nove ospiti per un delitto",
+        "overview": "Nine members of an extremely rich and hateful family have decided to have a reunion on a remote island in the Mediterranean. No sooner than their arrival, old grudges, resentments, and feuds make themselves known, along with allusions to some more macabre events in their past. But when their boats are sabotaged, thus stranding them without any connection to the mainland, it becomes clear that someone is not willing to let old wounds heal, a fact made all the more clear as bodies start to pile up...",
+        "popularity": 7.778,
+        "poster_path": "/7BQIdWLaX6PtuSX1OIblHPI3zYd.jpg",
+        "release_date": "1977-01-12",
+        "title": "Nine Guests for a Crime",
+        "video": false,
+        "vote_average": 5.452,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            10749,
+            80
+        ],
+        "id": 1022489,
+        "original_language": "zh",
+        "original_title": "（真）新的一天",
+        "overview": "Two men from different generations might be a father and a son, brothers, friends… even lovers or enemies. They encounter each other in a parallel universe. The battle between your past and future might be inevitable. What should happen, must happen…",
+        "popularity": 7.777,
+        "poster_path": "/u1OSRulfRiJY6bT9aG17DrRFz38.jpg",
+        "release_date": "2023-11-11",
+        "title": "Fish Memories",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            10770
+        ],
+        "id": 80660,
+        "original_language": "en",
+        "original_title": "The Perfect Husband",
+        "overview": "A woman discovers her new husband wants to keep her all to himself.",
+        "popularity": 7.777,
+        "poster_path": "/xeya6vvHjrMw9RRQlER0JV6eusD.jpg",
+        "release_date": "2004-02-12",
+        "title": "The Perfect Husband",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 381911,
+        "original_language": "en",
+        "original_title": "Sweety Barrett",
+        "overview": "Sweety Barrett is a giant of a man with the mind of a child. An easy target in a corrupt world, Sweety becomes embroiled in a smuggling operation unleashing a spiral of dangerous and unexpected events.",
+        "popularity": 7.776,
+        "poster_path": "/aj3lg18SbgPjsTcPSPjTnroytjk.jpg",
+        "release_date": "1999-04-16",
+        "title": "Sweety Barrett",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jVKQRH954FH2Cz5h9IjHewOattA.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 119094,
+        "original_language": "en",
+        "original_title": "Lucky Jordan",
+        "overview": "Lucky Jordan is a gangster living in New York City and when he's drafted into the army, he tries to escape duty by using an old con woman named Annie to convince the draft board he's needed at home. When that fails, Jordan is sent to boot camp, but he doesn't stay there long. He takes a beautiful USO worker hostage and flees back to New York. There, he learns that a rival gangster is plotting against America.",
+        "popularity": 7.775,
+        "poster_path": "/bvbN0NoZgIyMnAaAD7x0juqMYmp.jpg",
+        "release_date": "1942-11-16",
+        "title": "Lucky Jordan",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    }
+]

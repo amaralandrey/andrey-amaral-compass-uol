@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/e2yTVFdirggRRntYoGiFAqS3uTT.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 82575,
+        "original_language": "hi",
+        "original_title": "Indian",
+        "overview": "DCP Raksekhar Azad (Raj) is an invincible cop with a great aim. He arrests a terrorist by the name of Khan. But Khan lands in a prison cell that looks cushier than the Buckingham Palace. However, this gets Raj promoted, and he is congratulated by none other than his father-in-law, who is also a very high ranking policeman. Then all of a sudden, Raj finds out that many policemen would like to see Khan go free. He discusses this issue with his father-in-law, and to his surprise, does not find any support from him. Disagreements and arguments ensue, and as a result, his father-in-law gets killed. The Police suspect Raj of killing him, they begin the process of arresting him, he runs away, while Khan is all set to get freed to do whatever he likes.",
+        "popularity": 12.719,
+        "poster_path": "/vqfJESTMVjp7GwPJz0SvASSdRr9.jpg",
+        "release_date": "2001-10-26",
+        "title": "Indian",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oA5k91Lu0IojIoRcbXtdAgNFAiP.jpg",
+        "genre_ids": [
+            80,
+            53,
+            27
+        ],
+        "id": 36299,
+        "original_language": "en",
+        "original_title": "The Grave",
+        "overview": "Two prisoners escape with the help of their jailer to search for a treasure that is supposedly buried with a dead millionaire.",
+        "popularity": 12.718,
+        "poster_path": "/q25UvAZoINZ4SzWzOxHfg99TT4P.jpg",
+        "release_date": "1996-01-18",
+        "title": "The Grave",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/CEGtCp36ORWISlEwPGDt1GNaGh.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 401600,
+        "original_language": "hu",
+        "original_title": "A Viszkis",
+        "overview": "Between 1993 and 1999, one man robbed 29 financial institutions in Budapest. Banks, post offices and even travel agencies fell victim to his crime spree. The police had no leads and no hope of finding him during his six-year stint. The only clue left behind at the crime scenes was the distinct aroma of whiskey. The media christened him the “Whiskey Bandit”. Never physically harming anyone, many began to eagerly follow his escapades through the media. A Transylvanian immigrant, who also happened to be a goalie for one of the city's largest hockey teams, named Attila Ambrus, was finally identified as the “Whiskey Bandit”. The police had finally captured him... or so they thought.",
+        "popularity": 12.717,
+        "poster_path": "/uaL59BF0jcHsvqxx3SSho3ZLAiY.jpg",
+        "release_date": "2017-11-23",
+        "title": "The Whiskey Bandit",
+        "video": false,
+        "vote_average": 6.475,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uycElQXtwMo5dRpiy8Ji9wIbZuJ.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            80
+        ],
+        "id": 46727,
+        "original_language": "en",
+        "original_title": "Speedway Junky",
+        "overview": "A naive drifter runs away from his army father in hopes of making it on the car racing circuit. In Las Vegas, he meets a young scam artist, who develops a crush on him. He is then introduced to a whole gang led by a young hustler. The racer-to-be then gets a lesson in the wild side, getting involved in one situation after another.",
+        "popularity": 12.717,
+        "poster_path": "/qZXKzRrrfXr8Ppt71rSuD2DEjCE.jpg",
+        "release_date": "1999-02-11",
+        "title": "Speedway Junky",
+        "video": false,
+        "vote_average": 5.38,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4SX4N6U6XDd7bWII4d3vJs7IuHU.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 44267,
+        "original_language": "cn",
+        "original_title": "野獸刑警",
+        "overview": "Tung is a street cop in Hong Kong who's friends with a Triad named Fai. Fai hires a hit man to murder a business rival; the hit goes wrong and Fai, implicated in the incident, goes on the run.",
+        "popularity": 12.717,
+        "poster_path": "/r1kz0gAYZCeB8mLDzxG7hmenrdV.jpg",
+        "release_date": "1998-04-09",
+        "title": "Beast Cops",
+        "video": false,
+        "vote_average": 6.113,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oMrHc2JwH0Khh9khoFKch05ryJm.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80,
+            9648
+        ],
+        "id": 414523,
+        "original_language": "ta",
+        "original_title": "துருவங்கள் பதினாறு",
+        "overview": "A former cop looks back on the case which left him disabled and forced him to quit the force.",
+        "popularity": 12.714,
+        "poster_path": "/q4gVTJwYQUg7pBhExDY2IUVTo84.jpg",
+        "release_date": "2016-12-29",
+        "title": "Dhuruvangal Pathinaaru",
+        "video": false,
+        "vote_average": 7.87,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bjvpMybkWQY3XV53RdCLr9sAgSy.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 1276108,
+        "original_language": "ja",
+        "original_title": "ラストマイル",
+        "overview": "",
+        "popularity": 12.712,
+        "poster_path": "/sjP9oot7WYiXnatCMkKAev41v6G.jpg",
+        "release_date": "2024-08-23",
+        "title": "Last Mile",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kyHzh8wKHP9EDg9wQnrmWaTDFr6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 72847,
+        "original_language": "en",
+        "original_title": "The Unfaithful",
+        "overview": "Christine Hunter kills an intruder and tells her husband and lawyer that it was an act of self-defense. It's later revealed that he was actually her lover and she had posed for an incriminating statue he created.",
+        "popularity": 12.709,
+        "poster_path": "/3lU8LmPTqRzm0VbpY21gVUKsYw0.jpg",
+        "release_date": "1947-07-01",
+        "title": "The Unfaithful",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8s1YuZt26RsVNJbXy9nfDBjHWto.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 34898,
+        "original_language": "en",
+        "original_title": "Heavens Fall",
+        "overview": "Successful New York attorney Sam Leibowitz travels to the South in 1933 to defend nine young black men accused of raping two women on an Alabama freight train.",
+        "popularity": 12.703,
+        "poster_path": "/x6t2EwJK6oaL9ZfrqdxuJFIUmvo.jpg",
+        "release_date": "2006-07-20",
+        "title": "Heavens Fall",
+        "video": false,
+        "vote_average": 7.333,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AhzQpeJgFwLvyq0WuN51yxT4WbR.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 53404,
+        "original_language": "fr",
+        "original_title": "Crime d'amour",
+        "overview": "In the sterile setting of a powerful multinational, a ruthless corporate executive and her ambitious protégée bare their claws in a vicious battle for supremacy.",
+        "popularity": 12.701,
+        "poster_path": "/cYjUy4YMZqbSUlrpxrijVh1lrhO.jpg",
+        "release_date": "2010-08-09",
+        "title": "Love Crime",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 110
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1146154,
+        "original_language": "ko",
+        "original_title": "몸값 part.1",
+        "overview": "",
+        "popularity": 12.697,
+        "poster_path": "/tHuz3hJdlspicxjE1y2RZXGbVNm.jpg",
+        "release_date": "2023-07-05",
+        "title": "Bargain part.1",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iXvIV4ezZ5Eed2LCWC28c9KrMFA.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 116323,
+        "original_language": "ko",
+        "original_title": "부러진 화살",
+        "overview": "Inspired by the true story of Kim Kyung-ho, a math professor who was arrested for shooting a crossbow at the presiding judge of his appeal against unfair dismissal.",
+        "popularity": 12.697,
+        "poster_path": "/3XL5p5XNin3JHGh0iBzYWDvjXvc.jpg",
+        "release_date": "2011-10-09",
+        "title": "Unbowed",
+        "video": false,
+        "vote_average": 6.75,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A0v8VDxY1RZ28gL6rnDYEOY0DdH.jpg",
+        "genre_ids": [
+            27,
+            80
+        ],
+        "id": 72444,
+        "original_language": "en",
+        "original_title": "Human Experiments",
+        "overview": "A demented prison doctor performs gruesome shock therapy experiments on inmates.",
+        "popularity": 12.696,
+        "poster_path": "/rizflW3YRMOTKkiYnwjUAnEGjne.jpg",
+        "release_date": "1979-10-19",
+        "title": "Human Experiments",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ggIKrUzKjOGJ2SNlMwaj4xhqrp2.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 131737,
+        "original_language": "en",
+        "original_title": "St George's Day",
+        "overview": "Infamous London gangster cousins, Micky Mannock and Ray Collishaw, are at the top of the food chain, when their world is turned upside down as they lose a shipment of the Russian Mafia's cocaine in rough seas. Set in London, Amsterdam and Berlin, the story races across Europe at breakneck speed as Micky and Ray attempt to stay one step ahead of the Police. Can they pull off a daring diamond heist in time to put things right and retire to a \"legitimate\" way of life.",
+        "popularity": 12.695,
+        "poster_path": "/w5VU0eilunJ3UDKRDgeODQ8sDLs.jpg",
+        "release_date": "2012-09-07",
+        "title": "St George's Day",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dX0ZmUb0KBbrgzUGxrRKrbrVYgN.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 384841,
+        "original_language": "zh",
+        "original_title": "真相禁区",
+        "overview": "Everyone has secrets they keep hidden, even from their loved ones. When Ouquan's wife gives birth to a child, Ouquan is certain the child is not his and suspects his wife of an affair. He discovers the other man is an unjustly imprisoned criminal, who is on the prowl for revenge and will stop at nothing to re-gain what he's lost.",
+        "popularity": 12.693,
+        "poster_path": "/dVTRByA6a97dX05wWoJ7mUYxypA.jpg",
+        "release_date": "2016-01-22",
+        "title": "Inside or Outside",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qOC1T41mOXFRFiOtXuhzAnHrU1T.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            10770
+        ],
+        "id": 41875,
+        "original_language": "en",
+        "original_title": "Gotham",
+        "overview": "A New York private eye searches for a socialite who supposedly drowned 10 years before.",
+        "popularity": 12.693,
+        "poster_path": "/1483zO2trK7YoqD2qO1fxmHJrTP.jpg",
+        "release_date": "1988-08-21",
+        "title": "Gotham",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rxOh6SQzLmrl5sRhPTsTRQvthU9.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10402
+        ],
+        "id": 678870,
+        "original_language": "nl",
+        "original_title": "Zillion",
+        "overview": "It's 1997. Frank Verstraeten, a computer genius with a nose for business, a fascination for nightlife and an unhealthy urge to prove himself, only wants one thing: his own disco that not only outperforms the competition but simply humiliates it. The futuristic mega discotheque Zillion is a fact and Frank turns from computer dealer to the pivotal figure of the Antwerp nightlife. He parades with the most beautiful women in Belgium and forges an alliance with Dennis Black Magic, the porn king who provides the spicy extras. Unfortunately, beautiful songs don't last long either.",
+        "popularity": 12.692,
+        "poster_path": "/co6btwyOIsYMra3pExNZhdW7xol.jpg",
+        "release_date": "2022-12-15",
+        "title": "Zillion",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/TIDU7z586pmSOaTLYMurFRWAA6.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 44862,
+        "original_language": "en",
+        "original_title": "Once Fallen",
+        "overview": "When Chance (Brian Presley) returns home after five years in jail, he is determined to escape his past, start a new life and make peace with his father, (Ed Harris, Golden Globe® winner), who is the head of the Aryan Brotherhood prison gang and serving a life sentence for murder. Upon his release, his dreams of a crime-free future begin to disintegrate when he is forced to assume his best friend's outrageous debt to a local mobster. Despite being thrust back into a world of organized fighting, drug dealing and ties to corrupt police agents, Chance falls in love with Pearl (Academy Award® nominee Taraji P. Henson) and the prospect of living a normal life seems almost within reach. But will he be able to escape the crimes of his father and his past?",
+        "popularity": 12.687,
+        "poster_path": "/8ebXl6daqC7PdOr9OKxMqsjh40z.jpg",
+        "release_date": "2010-11-02",
+        "title": "Once Fallen",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sOFwEeWmlQufAQwLH7OXnw2oLlj.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 17204,
+        "original_language": "en",
+        "original_title": "Paradise Lost: The Child Murders at Robin Hood Hills",
+        "overview": "A horrific triple child murder leads to an indictment and trial of three nonconformist boys based on questionable evidence.",
+        "popularity": 12.685,
+        "poster_path": "/h65fwEQTv9zRNyEuExE1wAk5CQ2.jpg",
+        "release_date": "1996-12-03",
+        "title": "Paradise Lost: The Child Murders at Robin Hood Hills",
+        "video": false,
+        "vote_average": 7.564,
+        "vote_count": 179
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jKAlYhPdKlLADl6zNG6ao0vMCcM.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 2443,
+        "original_language": "en",
+        "original_title": "The Spider Woman",
+        "overview": "Sherlock Holmes investigates a series of so-called \"pajama suicides\". He knows the female villain behind them is as cunning as Moriarty and as venomous as a spider. Based on \"The Sign of Four\" and the short stories \"The Dying Detective\", \"The Final Problem\", \"The Speckled Band\" and \"The Adventure of the Devil's Foot\".",
+        "popularity": 12.685,
+        "poster_path": "/yTbwfGfrJ1opMAIrdltCCf3eRo2.jpg",
+        "release_date": "1943-12-24",
+        "title": "The Spider Woman",
+        "video": false,
+        "vote_average": 6.88,
+        "vote_count": 79
+    }
+]

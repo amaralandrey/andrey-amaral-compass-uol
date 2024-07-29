@@ -1,0 +1,392 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 49380,
+        "original_language": "en",
+        "original_title": "Corrupt",
+        "overview": "After decades of terror, two deadly street gangs reach a delicate truce and young MJ (Silkk the Shocker) sees a way out of the hood once and for all. Only Corrupt (Ice-T) stands in MJ's way, resulting into a violent and brutal roller coaster ride of action!",
+        "popularity": 6.913,
+        "poster_path": "/bV3WtFCe3blZr5z2uZJyRAJchEZ.jpg",
+        "release_date": "1999-12-28",
+        "title": "Corrupt",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/we13BYTZLR8uWq0VdJKBv0bM0rj.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 467730,
+        "original_language": "ja",
+        "original_title": "浅間の暴れん坊",
+        "overview": "When Boss Juzo's Shinmachi Yakuza family struck fear into the hearts of his adversaries, Boss Shohei's Okabe Yakuza family with a merciless gang of raiders, Itaro of Asama was missing. With the courage of a lion he had gone off to face the enemy and settle the score all by himself. As a result he had to take the blame in place of Boss Shohei, and went off to adventures on his own.",
+        "popularity": 6.912,
+        "poster_path": "/nOFVFhRXIVSzrb0tOyTApmAPbCQ.jpg",
+        "release_date": "1958-12-02",
+        "title": "Roughneck From Asama",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wBep9eG5oV7FuksumOFW5Ycz795.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 12515,
+        "original_language": "fr",
+        "original_title": "Les Suspects",
+        "overview": "When an American tourist is murdered in the south of France, the police must investigate. In this movie, the police inspector re-creates the girl's journeys through France until the murder is solved. Suspicions are narrowed down to four possible perpetrators early on, and flashbacks illuminate the roles each one played in the girl's vacation.",
+        "popularity": 6.912,
+        "poster_path": "/x0kQexe7Gek5BmurBcJbropcY86.jpg",
+        "release_date": "1974-11-27",
+        "title": "The Suspects",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 412305,
+        "original_language": "cn",
+        "original_title": "怪俠一枝梅",
+        "overview": "Warlord Lei Zhengtian was hated by the people and many attempts were made to kill him. He therefore hired bodyguards to protect him. Although Lei was a tyrant, he feared his wife to death since his Warlord title was given to him by his father-in-law. His wife often shouted at him. One night, Lei was again scolded and hit by his wife. Enraged, Lei decided to visit the brothel. However, he was afraid of being assassinated. So he shaved all his beard, changed into a black suit and went in disguise.",
+        "popularity": 6.91,
+        "poster_path": "/3jMip0JS8Xws6lWymes8rjfdPlS.jpg",
+        "release_date": "1994-12-22",
+        "title": "Now You See Me, Now You Don’t",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iP2jow72dLWrkL7x0OtCu9NzX6d.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 561920,
+        "original_language": "ja",
+        "original_title": "大女優殺人事件～鏡は横にひび割れて～",
+        "overview": "A police detective Shoukokuji Ryuuya from the first section of Metropolitan Police Department is tasked to investigate the murder case of a woman which takes place at a grand party held by a big-time actress but faces the hurdle of finding the true culprit among the large pool of suspects.",
+        "popularity": 6.909,
+        "poster_path": "/s7A4LeOVStccTMx71O4oeCOTkci.jpg",
+        "release_date": "2018-03-25",
+        "title": "The Mirror Crack'd from Side to Side",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 511378,
+        "original_language": "ta",
+        "original_title": "எல்லாம் அவன் செயல்",
+        "overview": "A lawyer, who defends criminals, wages vigilante justice against them in private. The movie deals with the murder of a girl who was ragged and brutally murdered by her classmates. The lawyer, through his own investigation arrives at the fact that she was brutally raped by college authorities and framed the students as culprits.",
+        "popularity": 6.908,
+        "poster_path": "/buu3DhMEa5lS6wRiWSDygsGOthV.jpg",
+        "release_date": "2008-11-28",
+        "title": "Ellam Avan Seyal",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10770,
+            80
+        ],
+        "id": 356797,
+        "original_language": "ja",
+        "original_title": "パンドラ〜永遠の命〜",
+        "overview": "",
+        "popularity": 6.908,
+        "poster_path": "/rPG1vKhxCfzZeq0j1szgmyoEqEU.jpg",
+        "release_date": "2014-04-27",
+        "title": "Pandora: Eternal life",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2Ji2foyudgiiGRgIhFYAdKAGbSz.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 281618,
+        "original_language": "en",
+        "original_title": "Criminal Desires",
+        "overview": "A beautiful reporter gets caught up in the deadly and erotic world of an online 'murder club' in this red-hot thriller.",
+        "popularity": 6.908,
+        "poster_path": "/6HVV7uVLh9bkQoj0ukFjCc3CJSZ.jpg",
+        "release_date": "2013-07-04",
+        "title": "Criminal Desires",
+        "video": false,
+        "vote_average": 2.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 105976,
+        "original_language": "cn",
+        "original_title": "天使特警",
+        "overview": "A special police squad battles a gang of arms traffickers.",
+        "popularity": 6.908,
+        "poster_path": "/ojAjyLm88vY6ncmvfmyWFRPMGwW.jpg",
+        "release_date": "1991-06-07",
+        "title": "Angel Force",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mtGnrJPCnxxmxwWaE97nfnnTg2s.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 62091,
+        "original_language": "en",
+        "original_title": "City Across the River",
+        "overview": "Brooklyn youth Frank Cusack, good son and brother by day, is a gang member by night. The Dukes, seemingly likable dead-end-kids, are dangerously involved with racketeer Gaggsy Steens. Despite the efforts of Franks's parents, he and pal Benny get involved in a serious crime. Can Stan Albert, head of the community center, prevent them from becoming full-time crooks?",
+        "popularity": 6.908,
+        "poster_path": "/lcFSi4PppbyGc6U1N2KbTJhuAF0.jpg",
+        "release_date": "1949-04-07",
+        "title": "City Across the River",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g3cVP7Ikkolre778AYg90iUsRRW.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 28256,
+        "original_language": "en",
+        "original_title": "Satan Met a Lady",
+        "overview": "In the second screen version of The Maltese Falcon, a detective is caught between a lying seductress and a lady jewel thief.",
+        "popularity": 6.908,
+        "poster_path": "/sv7TKzYhq3qybbgTr9Z0Em0BiLj.jpg",
+        "release_date": "1936-07-22",
+        "title": "Satan Met a Lady",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            28,
+            35
+        ],
+        "id": 684085,
+        "original_language": "en",
+        "original_title": "Coapa Heights",
+        "overview": "A group of Mexican teenagers in the 90's face a series of ordeals in their neighborhood's dynamic of drugs and intrinsic decadent violence",
+        "popularity": 6.907,
+        "poster_path": "/yXG9TqZBdMbeLmcO11dxa9lh0a2.jpg",
+        "release_date": "1999-01-01",
+        "title": "Coapa Heights",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/igwXEInJ6Ev5DlezQtSXjypjISH.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 369810,
+        "original_language": "ru",
+        "original_title": "Училка",
+        "overview": "A gunshot suddenly breaks the silence of the school hallways. A desperate history teacher holds her whole class hostage. But very soon the situation will change, and the teacher herself will become a hostage.",
+        "popularity": 6.906,
+        "poster_path": "/5hEWsD4jvq5T6vJhQJ6eATsuo3O.jpg",
+        "release_date": "2015-11-13",
+        "title": "The Teacher",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c5ADM4b2xZisCVqi88ZxuEwfBWk.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 178695,
+        "original_language": "de",
+        "original_title": "Der Henker von London",
+        "overview": "A group of hooded vigilantes hang wrong-doers with a rope stolen from Scotland Yard's Black Museum.",
+        "popularity": 6.906,
+        "poster_path": "/l6WDfNGIR8XI9HLeKKIm710JMtG.jpg",
+        "release_date": "1963-11-22",
+        "title": "The Mad Executioners",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 679484,
+        "original_language": "es",
+        "original_title": "Siete en la mira 4: Yo soy la ley",
+        "overview": "Mexican feature film",
+        "popularity": 6.904,
+        "poster_path": "/58HuODgQB8odF4XrrdJPQ5HAowp.jpg",
+        "release_date": "1991-05-01",
+        "title": "Siete en la mira 4: Yo soy la ley",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cVKG5SKBNYTZxtXCqFk6rMN55U5.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 254311,
+        "original_language": "ru",
+        "original_title": "Петровка, 38",
+        "overview": "According to the story of the same name by Yulian Semyonov.\r Employees of the Moscow Criminal Investigation Department - Colonel Alexei Pavlovich Sadchikov, Major Vladislav Nikolaevich Kostenko and Senior Lieutenant Valentin Roslyakov are investigating the impudent robberies carried out by a group wearing dark glasses criminals.\r The City Savings Bank was robbed. The investigation of the crime indicated the involvement of a teenager, who soon came to the criminal investigation himself. With his help, the robbers who were preparing the next raid were caught. But the most dangerous criminal — \"Prokhor\" — is still free...",
+        "popularity": 6.904,
+        "poster_path": "/vkiFCMjuIeWqaQi6xhiiC4WRqJE.jpg",
+        "release_date": "1980-07-28",
+        "title": "Petrovka Street, Number 38",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bZi6e8RCBwjXGCbCYZonyvTC0QO.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 506323,
+        "original_language": "ja",
+        "original_title": "大脱獄",
+        "overview": "A group of prisoners attempts to break the Abashiri prison.  This film can be considered a sequel to the Abashiri Bangaichi series, written and directed by Ishii Teruo. The friendship between two men on death row, a fleeting love affair with a traveling dancer and a deadly battle with the real culprit who has hunted him down filmed over a long period of time on location in Hokkaido.",
+        "popularity": 6.903,
+        "poster_path": "/yi9VsgP7eHgH8UmwQlmFB2UYrxB.jpg",
+        "release_date": "1975-04-05",
+        "title": "Great Jailbreak",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1jMk5iJXHPHpdp1qI4S7wfcYW46.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 838443,
+        "original_language": "zh",
+        "original_title": "平原上的火焰",
+        "overview": "A series of murders strikes the city of Fentun. The crimes mysteriously stop without the authorities having been able to find the perpetrator. Eight years later, a young police officer, close to one of the victims, decides to reopen the investigation.",
+        "popularity": 6.901,
+        "poster_path": "/pG3lUpB7XoX6hbTqaoDqm52O7Ss.jpg",
+        "release_date": "2021-12-24",
+        "title": "Fire on the Plain",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r3RDMpTou68u0dBuhKHcBz2wTel.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80,
+            10770
+        ],
+        "id": 229166,
+        "original_language": "en",
+        "original_title": "Perry Mason: The Case of the Lethal Lifestyle",
+        "overview": "A former associate of Perry Mason returns to handle the defense of a world-class chess player accused of murdering a prominent TV personality.",
+        "popularity": 6.901,
+        "poster_path": "/2mMubeBHcvjjvRJQIcbbfTEexZ5.jpg",
+        "release_date": "1994-05-10",
+        "title": "Perry Mason: The Case of the Lethal Lifestyle",
+        "video": false,
+        "vote_average": 7.214,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 181888,
+        "original_language": "cn",
+        "original_title": "同床2夢",
+        "overview": "The carefree days of a happy lesbian Hong Kong couple are over when they are attacked by three drug dealers while enjoying a swim; the girls are raped and one of them is killed. Three years later, the surviving girl, now a boutique owner, accidentally runs across one of those men, and decides this is the perfect opportunity to take her revenge.",
+        "popularity": 6.901,
+        "poster_path": "/rlPCty1E3bq83rnP4PhIQt0ZvCK.jpg",
+        "release_date": "1994-01-01",
+        "title": "The Lady Punisher",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+    }
+]

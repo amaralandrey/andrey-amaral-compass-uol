@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1208594,
+        "original_language": "de",
+        "original_title": "Schlepper - Der Usedom-Krimi",
+        "overview": "",
+        "popularity": 7.196,
+        "poster_path": null,
+        "release_date": "2023-11-23",
+        "title": "Schlepper - Der Usedom-Krimi",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5n60xrLgbsHristknto6JcyBYCK.jpg",
+        "genre_ids": [
+            18,
+            12,
+            10770,
+            80
+        ],
+        "id": 92757,
+        "original_language": "en",
+        "original_title": "A Family Lost",
+        "overview": "Valerie, a single mom and her 13-year old diabetic daughter Claire board a small plane in Kodiak Falls, with the intention of meeting the mother's new fiance Jordan. But when the plane crashes, the only survivors are the mother, daughter, and a suspicious passenger, leaving Valerie and Claire in harm's way.",
+        "popularity": 7.196,
+        "poster_path": "/xjt63JoubgzT6sXbwyGjC098GU.jpg",
+        "release_date": "2007-03-11",
+        "title": "A Family Lost",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wUPjB5hqnnlBDTkpKxCChyKrFsA.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1042978,
+        "original_language": "en",
+        "original_title": "Brotherhood",
+        "overview": "After years of fighting to survive on the streets of Lagos, two brothers fall on opposite sides of the law. The bonds of brotherhood are put to the ultimate test as one joins a Taskforce that hunts down the other and his gang.",
+        "popularity": 7.195,
+        "poster_path": "/t1tRYdnDvv8wWB9gsFUV8pRqRFf.jpg",
+        "release_date": "2022-09-23",
+        "title": "Brotherhood",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k4pJqDV8cJdOPiZ83bl9K5f90QG.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80,
+            878
+        ],
+        "id": 200094,
+        "original_language": "en",
+        "original_title": "Disconnect",
+        "overview": "A distraught college student finds a phone that enables her to talk to her deceased mother in the past. Instead of a heart attack, she learns that her mother was murdered. She tries to use the phone to stop the murder from occurring before the killer finds and kills her too.",
+        "popularity": 7.194,
+        "poster_path": "/2C5IH6aN9UnlIIBuGNZEd9XDoYd.jpg",
+        "release_date": "2010-08-06",
+        "title": "Disconnect",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rojJQCSbiaciH6RsNG2N0j3MP2X.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 84825,
+        "original_language": "zh",
+        "original_title": "戰·無雙",
+        "overview": "Mandy slaves away at two jobs struggling to support her family while dreaming about resurrecting her father's martial arts academy, a once famous school now forgotten since an accident took his leg.",
+        "popularity": 7.193,
+        "poster_path": "/qbbSSTiu4fE2EU55oT0oSuUJZcy.jpg",
+        "release_date": "2009-05-01",
+        "title": "Coweb",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n3lY4TR3op9Wxt8glFtpHP4RdKv.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80,
+            18
+        ],
+        "id": 64721,
+        "original_language": "ja",
+        "original_title": "野良猫ロック　ワイルドジャンボ",
+        "overview": "Wild young people kidnap a wealthy woman and she becomes attracted to one of them. When she tells the man that she is the mistress of a religious leader, he and his posse make plans to rob her partner.",
+        "popularity": 7.193,
+        "poster_path": "/iTdsd1VAWOOY8Vd8uh9oj4PDW9d.jpg",
+        "release_date": "1970-08-01",
+        "title": "Stray Cat Rock: Wild Jumbo",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            10770
+        ],
+        "id": 638761,
+        "original_language": "en",
+        "original_title": "A Quiet Little Neighborhood, a Perfect Little Murder",
+        "overview": "A suburban housewife thinks she has uncovered a murder plot.",
+        "popularity": 7.192,
+        "poster_path": null,
+        "release_date": "1990-10-04",
+        "title": "A Quiet Little Neighborhood, a Perfect Little Murder",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 638355,
+        "original_language": "cn",
+        "original_title": "十五億殺人網絡",
+        "overview": "Fion Wong is an investment banker who's set up to lose $100 million when she buys into an oil well scheme with Indonesian millionaire Donson Woo. When Donson betrays her, she jets to Indonesia to confront him.",
+        "popularity": 7.192,
+        "poster_path": "/uLDriKzsz4wCni8T94qO9sthwPh.jpg",
+        "release_date": "1997-12-12",
+        "title": "Web of Deception",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uBFB5463wpJ7nA9TFoQNcTRypsO.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80,
+            10402
+        ],
+        "id": 488077,
+        "original_language": "es",
+        "original_title": "Caracas Vice Vol. 2",
+        "overview": "Ryan of the DEA will face again the most dangerous drug lord of Venezuela, this time with new friends, in 1983.",
+        "popularity": 7.192,
+        "poster_path": "/pEwOMuikKLHnqgTwOIfP2Ya4ku7.jpg",
+        "release_date": "2017-11-18",
+        "title": "Caracas Vice Vol. 2",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lHWI3CbavsE1NfmH5QLS0vLSdVM.jpg",
+        "genre_ids": [
+            80,
+            99,
+            36
+        ],
+        "id": 256314,
+        "original_language": "de",
+        "original_title": "Beltracchi - Die Kunst der Fälschung",
+        "overview": "Wolfgang Beltracchi got away with forging art masterpieces for over 40 years. He may be egotistical and nihilistic, but his genius in undeniable. He managed to fool gallery owners, historians and investors with the stroke of a brush. This documentary follows his last days as a free man.",
+        "popularity": 7.192,
+        "poster_path": "/lX9pKMa54j0ZDKAuuNDrAf15jXr.jpg",
+        "release_date": "2014-03-06",
+        "title": "Beltracchi: The Art of Forgery",
+        "video": false,
+        "vote_average": 7.133,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dCs2QM0fn8XBRqvjSmNvraauVFt.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 220094,
+        "original_language": "en",
+        "original_title": "The Kansas City Massacre",
+        "overview": "Gangsters free one of their colleagues being escorted to prison and kill several FBI agents and local police officers in the attempt. FBI agent Melvin Purvis puts together a special squad to track down and capture the men responsible.",
+        "popularity": 7.192,
+        "poster_path": "/5I6hnMEiZV6asSp3gaO7dVya8AG.jpg",
+        "release_date": "1975-09-19",
+        "title": "The Kansas City Massacre",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 1251176,
+        "original_language": "ja",
+        "original_title": "マッドドッグ",
+        "overview": "Jin, the son of a local yakuza boss, Tetsu, the son of a fisherman, and Masa, the son of a crematorium worker. When Jin's father loses his life, Jin sets out to avenge his father's death by becoming a yakuza himself...",
+        "popularity": 7.19,
+        "poster_path": "/cXS4NeV84U8dSZTwh9GjZm2Ystu.jpg",
+        "release_date": "2011-10-22",
+        "title": "Mad Dog",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g7gq2hANd6Rd7y3btCXws8Yuf3z.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 72335,
+        "original_language": "en",
+        "original_title": "Penitentiary III",
+        "overview": "A man is framed for murder and sent to prison. He is beaten and tortured, then forced to fight the prison's worst killer, a martial-arts fighting midget called Thud.",
+        "popularity": 7.19,
+        "poster_path": "/k8bYskyPBLoke3ctxsfmDJ8ZsAq.jpg",
+        "release_date": "1987-09-04",
+        "title": "Penitentiary III",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ekzQRl3x91zkAbb7VpoFGtE8p8T.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 65320,
+        "original_language": "it",
+        "original_title": "I padroni della città",
+        "overview": "Tony, a mob loan collector, is dissatisfied with his station in life. Though he dreams of one day being rich, he is stuck with the dead-end job of beating up borrowers who fall behind in their payments. After meeting up with Napoli, another mob enforcer who's just been fired from his job, the two hatch a plan. Together, they will con mob boss Manzari out of a fortune, after which they can retire and live in luxury. Manzari, however, is not about to let them go so easily.",
+        "popularity": 7.189,
+        "poster_path": "/emX3puWQnOtcJXVMI2Bltywfh6G.jpg",
+        "release_date": "1976-12-03",
+        "title": "Rulers of the City",
+        "video": false,
+        "vote_average": 6.388,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1071599,
+        "original_language": "ja",
+        "original_title": "戦　ＩＫＵＳＡ",
+        "overview": "Adult video store clerk, Issa, feels like a total loser after losing his job and being dumped by his girlfriend. He is blessed by a stroke of luck when his invention, a curry package squeezing tool, suddenly gains immense popularity. Not only does his invention attract buyers and money, it even attracts unwanted attention from the Yakuza.",
+        "popularity": 7.188,
+        "poster_path": "/2T90kJD6QRAOBxAxIWDSEohCo8u.jpg",
+        "release_date": "2005-10-01",
+        "title": "Ikusa",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 972882,
+        "original_language": "en",
+        "original_title": "Protection Detail",
+        "overview": "Three bodyguards are hired to protect an aging Triad kingpin during a gang war in San Francisco's Chinatown.",
+        "popularity": 7.188,
+        "poster_path": "/9h4vpJMTS7CHdeIbteeYvodBlCC.jpg",
+        "release_date": "2022-05-23",
+        "title": "Protection Detail",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i6eOq79pPV3Jj2QFk1ae3QEORgF.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 242561,
+        "original_language": "en",
+        "original_title": "Desperate Cargo",
+        "overview": "When two showgirls decide to leave South America and head for home, they sweet talk the purser of a clipper ship into giving them berths. In the course of the voyage, a band of thieves attempts to take over the ship and make off with its cash cargo. The heroic purser has other ideas and weighs in to save the day.",
+        "popularity": 7.188,
+        "poster_path": "/dieTXGRNMt9bDBUIniGWF9Dhs5f.jpg",
+        "release_date": "1941-07-04",
+        "title": "Desperate Cargo",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 220774,
+        "original_language": "en",
+        "original_title": "Exit",
+        "overview": "An attempted burglary of a strip club goes awry when one of the three burglars kills a man who draws a gun. This results in the trio taking the dancers and the customers hostage. Why the robbers don't go ahead and escape when the shooting occurs is beyond the viewer. Then all the hostages escape and hide in the club's refrigerator which sort of indicates the intelligence of the stick-up men. Unfortunately, the cops outside are no more intelligent as they stand around outside wondering what to do as one of the strippers who was released crawls back into an extremely large venting system for a small club and rescues the hostages with the help of an ex-cop held inside the club.",
+        "popularity": 7.188,
+        "poster_path": "/mnxb55vl3aWAX90L5EXtd97YPVk.jpg",
+        "release_date": "1996-07-02",
+        "title": "Exit",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1pSXsZAMenov1rzo6ATAWk2FfPj.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 530227,
+        "original_language": "en",
+        "original_title": "A Young Man With High Potential",
+        "overview": "Piet, who is studying computer science, is as inexperienced sexually as he is intelligent. When he notices that his feelings for Klara, a fellow student, are not really reciprocal, he is deeply hurt. After trying out sleeping pills on himself, he drugs Klara, with unexpected consequences.",
+        "popularity": 7.186,
+        "poster_path": "/qhnlt0FsS8BIOHT7sJvcLP5LQg0.jpg",
+        "release_date": "2019-03-07",
+        "title": "A Young Man With High Potential",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cuRTngfuryVvvVW1OoUMIv92o1s.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 105403,
+        "original_language": "it",
+        "original_title": "Diamanti sporchi di sangue",
+        "overview": "A man is arrested and condemned to five years in jail for robbery. After serving his term, he is out for revenge on the gang members he considers were to blame for his arrest. The prize for this deadly fight is a large cache of diamonds.",
+        "popularity": 7.184,
+        "poster_path": "/q6v3rKEz51hbKKjTpaAT10UCrMZ.jpg",
+        "release_date": "1978-03-17",
+        "title": "Blood and Diamonds",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 9
+    }
+]

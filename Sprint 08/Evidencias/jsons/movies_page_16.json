@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/mzNY2H8avKWgoMfekx3FvnFlNi2.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 923667,
+        "original_language": "cn",
+        "original_title": "九龍城寨．圍城",
+        "overview": "Set in the 1980s, troubled youth Chan Lok-kwun accidentally enters the Walled City, discovers the order amidst its chaos, and learns important life lessons along the way. In the Walled City, he becomes close friends with Shin, Twelfth Master and AV. Under the leadership of Cyclone, they resist against the invasion of villain Mr. Big in a series of fierce battles. Together, they vow to protect the safe haven that is Kowloon Walled City.",
+        "popularity": 58.045,
+        "poster_path": "/PywbVPeIhBFc33QXktnhMaysmL.jpg",
+        "release_date": "2024-04-23",
+        "title": "Twilight of the Warriors: Walled In",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7eTWQb475pM9H3NEOiUzGYASEx0.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 500919,
+        "original_language": "en",
+        "original_title": "211",
+        "overview": "Inspired by one of the longest and bloodiest real-life events in police history, Officer Mike Chandler and a young civilian passenger find themselves under-prepared and outgunned when fate puts them squarely in the crosshairs of a daring bank heist in progress by a fearless team of highly-trained and heavily-armed men.",
+        "popularity": 58.035,
+        "poster_path": "/81RColr4rau6DZ7z9eMsksokcfk.jpg",
+        "release_date": "2018-05-30",
+        "title": "211",
+        "video": false,
+        "vote_average": 5.339,
+        "vote_count": 440
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cLXvsCO4KfWSLaXPnJF9GL0NKeg.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            28,
+            9648
+        ],
+        "id": 1115395,
+        "original_language": "pl",
+        "original_title": "Kolory zła: Czerwień",
+        "overview": "When a girl's body is found on a beach in Poland's Tricity, a prosecutor teams up with the victim's mother on an impassioned quest for the truth.",
+        "popularity": 57.928,
+        "poster_path": "/5NAdIXaF2AhewMFMqFvbxZmDC3M.jpg",
+        "release_date": "2024-05-29",
+        "title": "Colors of Evil: Red",
+        "video": false,
+        "vote_average": 6.827,
+        "vote_count": 150
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pyvkujOZ5qvY2NlQVC71flfgVWE.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 829,
+        "original_language": "en",
+        "original_title": "Chinatown",
+        "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+        "popularity": 57.673,
+        "poster_path": "/638pmIZ6SE5myFwHnGInI5YdcDh.jpg",
+        "release_date": "1974-06-20",
+        "title": "Chinatown",
+        "video": false,
+        "vote_average": 7.919,
+        "vote_count": 3710
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h5Y9T4OoFpMrONhVBZvN2X2DfAB.jpg",
+        "genre_ids": [
+            80,
+            35,
+            12
+        ],
+        "id": 9273,
+        "original_language": "en",
+        "original_title": "Ace Ventura: When Nature Calls",
+        "overview": "Summoned from an ashram in Tibet, Ace finds himself on a perilous journey into the jungles of Africa to find Shikaka, the missing sacred animal of the friendly Wachati tribe. He must accomplish this before the wedding of the Wachati's Princess to the prince of the warrior Wachootoos. If Ace fails, the result will be a vicious tribal war.",
+        "popularity": 57.638,
+        "poster_path": "/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg",
+        "release_date": "1995-11-10",
+        "title": "Ace Ventura: When Nature Calls",
+        "video": false,
+        "vote_average": 6.315,
+        "vote_count": 4038
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gz6Y41FwBhWLSyCJC6fyVkj9ZBS.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 554972,
+        "original_language": "ko",
+        "original_title": "성난황소",
+        "overview": "Dong-chul and Ji-soo are a happily married couple. One day, Dong-chul comes home to find his house in disarray and his wife missing.",
+        "popularity": 57.562,
+        "poster_path": "/csle64zkLObsdRoabreC6bBRxLI.jpg",
+        "release_date": "2018-11-22",
+        "title": "Unstoppable",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 133
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wIQ7wsT4C1ZTzSJkA3dcCz8vkOh.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11565,
+        "original_language": "en",
+        "original_title": "Big Momma's House 2",
+        "overview": "FBI agent Malcolm Turner goes back undercover as Big Momma, a slick-talking, slam-dunking Southern granny with attitude to spare! Now this granny must play nanny to three dysfunctional upper class kids in order to spy on their computer hacked dad.",
+        "popularity": 57.393,
+        "poster_path": "/wlbov6pkgySqYZilZcO54f29Dg1.jpg",
+        "release_date": "2006-01-26",
+        "title": "Big Momma's House 2",
+        "video": false,
+        "vote_average": 5.762,
+        "vote_count": 1551
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y319VH0gIFie6KEO5L4nHhxxQUw.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            18
+        ],
+        "id": 9437,
+        "original_language": "en",
+        "original_title": "Kiss the Girls",
+        "overview": "Forensic psychologist and detective Alex Cross travels to North Carolina and teams with escaped kidnap victim Kate McTiernan to hunt down \"Casanova,\" a serial killer who abducts strong-willed women and forces them to submit to his demands. The trail leads to Los Angeles, where the duo discovers that the psychopath may not be working alone.",
+        "popularity": 57.352,
+        "poster_path": "/25h5I3E3ydhazsPDnscWHivq5pn.jpg",
+        "release_date": "1997-09-29",
+        "title": "Kiss the Girls",
+        "video": false,
+        "vote_average": 6.519,
+        "vote_count": 1498
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tBOLfpP25TgqnWvhvsWocEXOoYS.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 1493,
+        "original_language": "en",
+        "original_title": "Miss Congeniality",
+        "overview": "When the local FBI office receives a letter from a terrorist known only as 'The Citizen', it's quickly determined that he's planning his next act at the Miss America beauty pageant. Because tough-as-nails Gracie Hart is the only female Agent at the office, she's chosen to go undercover as the contestant from New Jersey.",
+        "popularity": 57.195,
+        "poster_path": "/q1m9ME0zvncnFDmKXC43RqZr8mU.jpg",
+        "release_date": "2000-12-22",
+        "title": "Miss Congeniality",
+        "video": false,
+        "vote_average": 6.526,
+        "vote_count": 3801
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hIM016a5ZBY9mRR7ZUQjwaiiZTe.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 1294705,
+        "original_language": "tr",
+        "original_title": "Kıyma: Orman Kanunları",
+        "overview": "",
+        "popularity": 57.083,
+        "poster_path": null,
+        "release_date": "2024-05-23",
+        "title": "Kıyma: Orman Kanunları",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lRNx04avj1R9uKOR49TNWbzHKY9.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 22164,
+        "original_language": "en",
+        "original_title": "Blood and Bone",
+        "overview": "In Los Angeles, an ex-con takes the underground fighting world by storm in his quest to fulfill a promise to a dead friend.",
+        "popularity": 57.005,
+        "poster_path": "/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg",
+        "release_date": "2009-02-07",
+        "title": "Blood and Bone",
+        "video": false,
+        "vote_average": 7.342,
+        "vote_count": 752
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sblTwYXpm6Nrl4qewg3526lBdlK.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 479,
+        "original_language": "en",
+        "original_title": "Shaft",
+        "overview": "New York police detective John Shaft arrests Walter Wade Jr. for a racially motivated slaying. But the only eyewitness disappears, and Wade jumps bail for Switzerland. Two years later Wade returns to face trial, confident his money and influence will get him acquitted -- especially since he's paid a drug kingpin to kill the witness.",
+        "popularity": 56.946,
+        "poster_path": "/5ncvnNPaN73cOqD4muE413sSOyY.jpg",
+        "release_date": "2000-06-15",
+        "title": "Shaft",
+        "video": false,
+        "vote_average": 6.011,
+        "vote_count": 1238
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yzpZVgaTZzDrAP1yVeCbKZH9jmA.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 559969,
+        "original_language": "en",
+        "original_title": "El Camino: A Breaking Bad Movie",
+        "overview": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+        "popularity": 56.938,
+        "poster_path": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+        "release_date": "2019-10-11",
+        "title": "El Camino: A Breaking Bad Movie",
+        "video": false,
+        "vote_average": 6.956,
+        "vote_count": 4755
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aH4ZCM94FeWO0GSBLPYxnjkIuUP.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 204553,
+        "original_language": "ko",
+        "original_title": "감시자들",
+        "overview": "Ha Yoon-ju becomes the newest member of a unit within the Korean Police Forces Special Crime Department that specializes in surveillance activities on high-profile criminals. She teams up with Hwang Sang-jun, the veteran leader of the unit, and tries to track down James who is the cold-hearted leader of an armed criminal organization.",
+        "popularity": 56.906,
+        "poster_path": "/i1a1rk2qPrxIF5pYyBB2oSTa6OR.jpg",
+        "release_date": "2013-07-03",
+        "title": "Cold Eyes",
+        "video": false,
+        "vote_average": 7.537,
+        "vote_count": 335
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eBw5K3pmClsLO7N2FqgthuScKUx.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28,
+            53
+        ],
+        "id": 82682,
+        "original_language": "en",
+        "original_title": "Gangster Squad",
+        "overview": "Los Angeles, 1949. Ruthless, Brooklyn-born mob king Mickey Cohen runs the show in this town, reaping the ill-gotten gains from the drugs, the guns, the prostitutes and — if he has his way — every wire bet placed west of Chicago. And he does it all with the protection of not only his own paid goons, but also the police and the politicians who are under his control. It’s enough to intimidate even the bravest, street-hardened cop… except, perhaps, for the small, secret crew of LAPD outsiders led by Sgt. John O’Mara and Jerry Wooters who come together to try to tear Cohen’s world apart.",
+        "popularity": 56.846,
+        "poster_path": "/1eW9kFSuTQfyMvZKtxlnwKRBvI.jpg",
+        "release_date": "2013-01-09",
+        "title": "Gangster Squad",
+        "video": false,
+        "vote_average": 6.362,
+        "vote_count": 3948
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lDc6JPsXm9ARe9w9PC9qegqYs94.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 109431,
+        "original_language": "en",
+        "original_title": "Identity Thief",
+        "overview": "When a mild-mannered businessman learns his identity has been stolen, he hits the road in an attempt to foil the thief -- a trip that puts him in the path of a deceptively harmless-looking woman.",
+        "popularity": 56.641,
+        "poster_path": "/lIliJCGoWT6tEVaDivLpXEf038w.jpg",
+        "release_date": "2013-02-07",
+        "title": "Identity Thief",
+        "video": false,
+        "vote_average": 5.864,
+        "vote_count": 3264
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hFzZ7dXuOp44bnZzEeX8xE9YZlt.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 2768,
+        "original_language": "en",
+        "original_title": "American Gigolo",
+        "overview": "Julian makes a lucrative living as an escort to older women in the Los Angeles area. He begins a relationship with Michelle, a local politician's wife, without expecting any pay. One of his clients is murdered and Detective Sunday begins pumping him for details on his different clients, something he is reluctant to do considering the nature of his work. Julian begins to suspect he's being framed. Meanwhile Michelle begins to fall in love with him.",
+        "popularity": 56.605,
+        "poster_path": "/igXGCwti23PHOjLKQX6eGIGzQiJ.jpg",
+        "release_date": "1980-02-08",
+        "title": "American Gigolo",
+        "video": false,
+        "vote_average": 6.095,
+        "vote_count": 608
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uRoA67sM5vvCI4cplxhl67BTPly.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 457799,
+        "original_language": "en",
+        "original_title": "Extremely Wicked, Shockingly Evil and Vile",
+        "overview": "A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.",
+        "popularity": 56.423,
+        "poster_path": "/a7dVwEBU3vupg3hZQMeyL6ksz0F.jpg",
+        "release_date": "2019-05-02",
+        "title": "Extremely Wicked, Shockingly Evil and Vile",
+        "video": false,
+        "vote_average": 7.013,
+        "vote_count": 3268
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vBuw223bR0jeI3GHMfCjNBCGo6.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 119283,
+        "original_language": "en",
+        "original_title": "Parker",
+        "overview": "A thief with a unique code of professional ethics is double-crossed by his crew and left for dead. Assuming a new disguise and forming an unlikely alliance with a woman on the inside, he looks to hijack the score of the crew's latest heist.",
+        "popularity": 56.416,
+        "poster_path": "/u1cl4RsdqMjolVVsHwiLRPN1CT2.jpg",
+        "release_date": "2013-01-23",
+        "title": "Parker",
+        "video": false,
+        "vote_average": 6.037,
+        "vote_count": 2969
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 429200,
+        "original_language": "en",
+        "original_title": "Good Time",
+        "overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+        "popularity": 56.414,
+        "poster_path": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+        "release_date": "2017-08-11",
+        "title": "Good Time",
+        "video": false,
+        "vote_average": 7.198,
+        "vote_count": 2752
+    }
+]

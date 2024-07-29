@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/vPHKMsF14w0HOPv5FDSSuiMGjG0.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1042163,
+        "original_language": "en",
+        "original_title": "The Last Deal",
+        "overview": "A blackmarket cannabis dealer gets squeezed out of the business when marijuana becomes legal, and is forced to make one last deal with the people he should trust the least.",
+        "popularity": 6.9,
+        "poster_path": "/pAjw1FsPVGxmZoEFkuGTv4WRrgn.jpg",
+        "release_date": "2023-02-03",
+        "title": "The Last Deal",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            18,
+            80
+        ],
+        "id": 188714,
+        "original_language": "de",
+        "original_title": "Tödliche Versuchung",
+        "overview": "When the green box is being delivered, organic farmer Helena (Julia Koschitz) stumbles over the dashing David (Vladimir Burlakov), a law student and starts an affair with him. In fourteen years of marriage, Helena and Thomas (Marcus Mittermeier) have transformed the infatuation of the first years into a dependable, constant affection. But her husband feels that she is keeping something from him. He spies on her, challenges David, and kills him.Later there is silence between the spouses. Then the detective is at the door because the review of David's cell phone connections leads to Helena. And then she discovers what Thomas has done. Only now there is a debate. They want to save the marriage and cover up the murder.",
+        "popularity": 6.9,
+        "poster_path": "/rQbdXTSt2WXSKxqtMVHJjZWCKNy.jpg",
+        "release_date": "2013-04-20",
+        "title": "Tödliche Versuchung",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 639988,
+        "original_language": "ko",
+        "original_title": "도끼",
+        "overview": "A remake of the 2005 film with the same name. After being unemployed for several years, a man devises a unique plan to secure a new job: eliminate his competition.",
+        "popularity": 6.899,
+        "poster_path": null,
+        "release_date": "",
+        "title": "The Ax",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jDA7NRoxfgvYdDlntHstOQtWd8i.jpg",
+        "genre_ids": [
+            53,
+            35,
+            80
+        ],
+        "id": 213934,
+        "original_language": "en",
+        "original_title": "Trust Me",
+        "overview": "An art dealer murders one of his artists in the hopes of increasing the market value of his work.",
+        "popularity": 6.899,
+        "poster_path": "/aJe82MUVi8UNmZOm8iuXaKnT9Mx.jpg",
+        "release_date": "1989-11-10",
+        "title": "Trust Me",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/me3VCKg3zoowcURLJpfy8yWx1Gx.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 155465,
+        "original_language": "en",
+        "original_title": "Something to Hide",
+        "overview": "A man having marital problems with his shrewish wife picks up a young, pretty and pregnant hitchhiker. Before he knows it, he's in over his head and mixed up in violence and murder.",
+        "popularity": 6.899,
+        "poster_path": "/iXMkizHpSmWxVJCrDRvZWOHfyDQ.jpg",
+        "release_date": "1972-01-01",
+        "title": "Something to Hide",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xxMRww719nYnFAYjBmzLZFL1XXz.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 1212681,
+        "original_language": "ja",
+        "original_title": "嵐の果し状",
+        "overview": "It is the Taisho era in Japan. A man has quit the Yakuza after five years and returned to Shikoku in order to begin his life anew as a ferryman. His boss, however, became ill and the boat is taken due to unpaid debts to the local thugs. His new life has not begun well and he is determined to rebuild the shattered business. The Yakuza, however, have added the ferry business to the rest of their portfolio of local concerns.",
+        "popularity": 6.898,
+        "poster_path": "/fqv25uRDbah8WyiCjuOBBM7Qz7k.jpg",
+        "release_date": "1968-08-01",
+        "title": "Duel in the Storm",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b1UgSL3Liv6X3qx0MVz9zlxgov1.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 672956,
+        "original_language": "fr",
+        "original_title": "Les Mystères des majorettes",
+        "overview": "",
+        "popularity": 6.898,
+        "poster_path": "/uXUmViFaZRm5moSF3oziAe6wPJJ.jpg",
+        "release_date": "2020-01-12",
+        "title": "Les Mystères des majorettes",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x2JRdUjA0HjFDL4IHgYFQLNwGFc.jpg",
+        "genre_ids": [
+            80,
+            53,
+            10770
+        ],
+        "id": 513180,
+        "original_language": "en",
+        "original_title": "Witness Unprotected",
+        "overview": "Sam is a divorced freelance photographer who is struggling to put her daughter, Laurie, though college. She takes any job, even the dangerous ones, to keep the paychecks coming. Her latest assignment, given to her by a private investigation firm, goes horribly wrong when Sam suspects the subject of her stakeout may have been the victim of foul play.",
+        "popularity": 6.898,
+        "poster_path": "/1WIICHthDaJPYiSC5TVYKezZ2Br.jpg",
+        "release_date": "2018-02-13",
+        "title": "Witness Unprotected",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pIpCsYVlCXuxnhMJdvVyXyLJVQT.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 61141,
+        "original_language": "en",
+        "original_title": "Without Honor",
+        "overview": "Jane, a housewife, is confronted during her daily chores by Dennis, her married lover with whom she has had a long affair. Dennis tells Jane that he has to break off their relationship. She threatens suicide, but when she picks up a shish kabob skewer, the two struggle and Dennis is stabbed in the chest and collapses. Jane hides the body in the house. Before she can leave, her brother-in-law arrives and tells her that he knows about the affair and that he has invited her husband, her lover, and his wife to her house that evening so that he can tell them about the affair.",
+        "popularity": 6.898,
+        "poster_path": "/nmHudoXnyEyFipjqsqzbXPwMQQQ.jpg",
+        "release_date": "1949-10-26",
+        "title": "Without Honor",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w79fvi89ZtHjsdE8sTpBpp803wk.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 208399,
+        "original_language": "fr",
+        "original_title": "L'Homme en colère",
+        "overview": "Romain Dupree arrives to Montreal from France only to be informed that his son is dead. However the deceased is not his son but an individual who was using his passport so Dupree begins a frantic search for his son who happens to be wanted by the local mob.",
+        "popularity": 6.896,
+        "poster_path": "/asE6qLx3EyCa1fnZOCyoBBJmBxL.jpg",
+        "release_date": "1979-03-14",
+        "title": "The Angry Man",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 130355,
+        "original_language": "en",
+        "original_title": "You, the People",
+        "overview": "This MGM Crime Does Not Pay series short features a big city crime boss's attempt to use his crime \"machine\" to fraudulently win reelection for the current corrupt mayor. By using several illegal tactics, and aided by voter apathy, the crime boss nearly continues his control of the city.",
+        "popularity": 6.896,
+        "poster_path": "/b3hPoRjeFzzZp2ssBIFQPxamhnu.jpg",
+        "release_date": "1940-11-30",
+        "title": "You, the People",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m0nc2s0O7uMDtRhjaScPQZAVt3F.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1206847,
+        "original_language": "ja",
+        "original_title": "十代の狼",
+        "overview": "In the bustle of the city, on the corners of neon streets, the eyes of a wild beast are fixed on a young girl! A gloomy portrait of youth, in which distorted energy explodes! A unique social drama that acutely depicts the psychological conflict bubbling in the chest of detectives who are chasing a gang of scoundrels who prey on innocent girls. Adapted from the novel \"Kegareta Hankachi\".",
+        "popularity": 6.895,
+        "poster_path": "/xWbBvAYKX7RlKdWAhoqQlGvDbBY.jpg",
+        "release_date": "1960-03-02",
+        "title": "Teenage Wolf",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 374769,
+        "original_language": "ja",
+        "original_title": "火線地帯",
+        "overview": "Two young crooks who scam betters in the race track are employed by a yakuza gang called the Shigemori Syndicate to steal a shipment of handguns from a rival gang. Somewhere in the process they find themselves on the run from their own gang and one of them becomes himself romantically entangled with the boss's girlfriend. An ambitious underboss of the gang offers them a way out if they murder the previous boss but things don't turn out as planned (for everyone).",
+        "popularity": 6.895,
+        "poster_path": "/jCpL6X8OTq5jPKiuTPOWKeR6phE.jpg",
+        "release_date": "1961-05-24",
+        "title": "Fire Line",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hhflfjAXl944rSKSJv2Mr0QbVzp.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1292141,
+        "original_language": "ta",
+        "original_title": "தண்டுபாளையம்",
+        "overview": "Dandupalayam is a Tamil crime thriller based on true incidents involving the notorious Dandupalyam gang. With over 350 thefts, 150 murders, and 90 rape attempts, the story uncovers hidden truths.",
+        "popularity": 6.894,
+        "poster_path": "/lqQYv9hOeLWCjtvOtdLCGmN36Pn.jpg",
+        "release_date": "2024-06-07",
+        "title": "Dandupalayam",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/90drEOLZlOjNKRWwfCikeTduQEh.jpg",
+        "genre_ids": [
+            80,
+            10749
+        ],
+        "id": 194516,
+        "original_language": "en",
+        "original_title": "A Stranger in Town",
+        "overview": "In the small town of Crownport local attorney Bill Adams is trying to break up the ring of corrupt town officials by running for mayor. The cards seemed stacked against him when he gets help from a visiting hunter who, unknown to Adams and the rest of the town, is actually vacationing supreme court justice John Josephus Grant.",
+        "popularity": 6.894,
+        "poster_path": "/avVfGnYdiDjj4nRt1OrHyJY3O4J.jpg",
+        "release_date": "1943-04-01",
+        "title": "A Stranger in Town",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sco5plN6G8Y2xqip6oExLfkabA8.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 260007,
+        "original_language": "en",
+        "original_title": "Whirlpool",
+        "overview": "An ex-convict tries to connect with the daughter who doesn't even know he exists.",
+        "popularity": 6.893,
+        "poster_path": "/bWpifmSnkOi7GCpUDB3FkZfl8Yg.jpg",
+        "release_date": "1934-04-10",
+        "title": "Whirlpool",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 665437,
+        "original_language": "ru",
+        "original_title": "Пока ещё жива",
+        "overview": "After avenging the murder of her husband, Polina flees to Odessa where she hopes to hide from her merciless enemies. There she meets a young and charming Gleb and their sympathy begins to grow into something more ... but the mafia’s influence spreads very far, and the criminal group comes to the city to deal with her ‘for good’. Thus, Polina becomes a reason for fights for the territories. To stop this endless criminal saga, Polina is forced to turn from a victim into a hunter which draws her new and, as it turns out, mysterious friends into this dangerous game ...",
+        "popularity": 6.892,
+        "poster_path": "/AbPgj0913Ffv1p4RvRftFqF0Yf0.jpg",
+        "release_date": "2015-02-05",
+        "title": "She Is Still Alive",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x2gENEg7w5VoNKu6r1darllBMt3.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 93062,
+        "original_language": "en",
+        "original_title": "Riot in Juvenile Prison",
+        "overview": "When the shootings of two juvenile inmates bring public protest, a psychologist is brought in to see if he can do anything to control the problems peacefully.",
+        "popularity": 6.892,
+        "poster_path": "/8LiJLerlmpYIhmevSRJTr4G5bXt.jpg",
+        "release_date": "1959-04-01",
+        "title": "Riot in Juvenile Prison",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z1xSJ5deLgOzly35Mdzv0wBa464.jpg",
+        "genre_ids": [
+            36,
+            99,
+            80
+        ],
+        "id": 202427,
+        "original_language": "en",
+        "original_title": "Peter Jennings Reporting: The Kennedy Assassination - Beyond Conspiracy",
+        "overview": "Forty years after the assassination of John F. Kennedy, more than 80% of Americans still believe that Lee Harvey Oswald did not act alone. This documentary attempts to separate fact from conspiracy theories to get to the truth, employing stunning forensic technology that makes it possible for the first time to be an eyewitness to this crime of the century – to see precisely what happened that November day in Dallas.",
+        "popularity": 6.891,
+        "poster_path": "/so3hDSkdcvagNaRzNZ3ZkBjDdeC.jpg",
+        "release_date": "2003-11-22",
+        "title": "Peter Jennings Reporting: The Kennedy Assassination - Beyond Conspiracy",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6jCOU7gnjS1z8izCwRrdHn0CXwq.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 706783,
+        "original_language": "hi",
+        "original_title": "चोक्ड: पैसा बोलता है",
+        "overview": "A bank employee weighed down by her jobless husband's debts - and her own broken dreams - finds a secret source of seemingly unlimited cash in her home.",
+        "popularity": 6.889,
+        "poster_path": "/1jqDl2cuBlOBfrbjEIJhqwQVZnR.jpg",
+        "release_date": "2020-06-05",
+        "title": "Choked: Paisa Bolta Hai",
+        "video": false,
+        "vote_average": 6.456,
+        "vote_count": 34
+    }
+]

@@ -1,0 +1,408 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/UNP6AvoiTo1am5WBx11slm5NOQ.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 13437,
+        "original_language": "en",
+        "original_title": "Avenging Angelo",
+        "overview": "A woman who has recently discovered that she is the daughter of Angelo, a major mafia boss, decides to wreak vengeance when he is killed by a hitman. She's aided by his faithful bodyguard, with whom she soon falls in love.",
+        "popularity": 28.148,
+        "poster_path": "/hl4mI28D4NhE6ePNgPojQuyEYw7.jpg",
+        "release_date": "2002-08-30",
+        "title": "Avenging Angelo",
+        "video": false,
+        "vote_average": 5.441,
+        "vote_count": 221
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7qse864BI3rJmhg4I7UNOt14dJc.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28,
+            12
+        ],
+        "id": 19380,
+        "original_language": "en",
+        "original_title": "White Sands",
+        "overview": "A small southwestern town sheriff finds a body in the desert with a suitcase and $500,000. He impersonates the man and stumbles into an FBI investigation.",
+        "popularity": 28.14,
+        "poster_path": "/jeOkfby3MMawUbZqBj7el4UePno.jpg",
+        "release_date": "1992-04-24",
+        "title": "White Sands",
+        "video": false,
+        "vote_average": 5.849,
+        "vote_count": 152
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vcuT4cRrr1e7Pzy0U4qlHiEcYrq.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 25473,
+        "original_language": "en",
+        "original_title": "Walking Tall",
+        "overview": "Ex-wrestler and Tennessee Sheriff Buford Pusser walks tall and carries a big stick as he tussles with county-wide corruption and moonshining thugs.",
+        "popularity": 28.138,
+        "poster_path": "/fL0fuJ5qdm6JVwtIyw6F7e8PZMe.jpg",
+        "release_date": "1973-02-22",
+        "title": "Walking Tall",
+        "video": false,
+        "vote_average": 6.614,
+        "vote_count": 118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gurN4f1nhogNMxBE71C6p0ncrEi.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 574396,
+        "original_language": "en",
+        "original_title": "Calm with Horses",
+        "overview": "In darkest rural Ireland, ex-boxer Douglas 'Arm' Armstrong has become the feared enforcer for the drug-dealing Devers family, whilst also trying to be a good father to his autistic five-year-old son, Jack. Torn between these two families, Arm's loyalties are truly tested when he is asked to kill for the first time.",
+        "popularity": 28.134,
+        "poster_path": "/svqlPJDCaKGSRFDk8a3zp19xjwf.jpg",
+        "release_date": "2020-03-13",
+        "title": "Calm with Horses",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n7nEZULVUtC0ddFx09DBgTzuMci.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 857700,
+        "original_language": "pl",
+        "original_title": "Pitbull",
+        "overview": "Told across a number of years, part of the ever waging war between the police and the criminal empires spanning Eastern Europe, we follow one young man's life, his childhood and adolescence and ultimately his descent into the criminal underworld. His path soon crosses with a policeman who will stop at nothing to catch him.",
+        "popularity": 28.124,
+        "poster_path": "/hj67lXfFKEdtD5q5VOGhAP1gDxn.jpg",
+        "release_date": "2021-11-11",
+        "title": "Pitbull: Exodus",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1U9cMRLRtpY2YW0ilXkKQZ1C10r.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 360731,
+        "original_language": "cn",
+        "original_title": "卿本佳人",
+        "overview": "While working alone late at the office one night, Veronica is raped by a returning male colleague, who accidentally kills her in the process (she falls back and hits her head on a sharp object). Later that same evening, he comes across a bar hostess who looks identical to the woman that he has just murdered. He eventually talks her into showing up for work in Veronica's place on the very next day, and handing in her resignation. Unfortunately for him, she is persuaded to stay, and decides to continue impersonating the deceased secretary.",
+        "popularity": 28.118,
+        "poster_path": "/dvcarc7TMrRp1C3jXPpn7PKce99.jpg",
+        "release_date": "1991-12-06",
+        "title": "Pretty Woman",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fx6c2UuNnXPwuRvu4tGaJJJITT6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 889699,
+        "original_language": "fa",
+        "original_title": "عنکبوت مقدس",
+        "overview": "A journalist descends into the dark underbelly of the Iranian holy city of Mashhad as she investigates the serial killings of sex workers by the so called \"Spider Killer\", who believes he is cleansing the streets of sinners.",
+        "popularity": 28.084,
+        "poster_path": "/6ObJ4x7m1F5QRY06WzOxNJQHwGb.jpg",
+        "release_date": "2022-07-13",
+        "title": "Holy Spider",
+        "video": false,
+        "vote_average": 7.271,
+        "vote_count": 364
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n3xYoeVpdSzBtCCiEoW94W9UHtC.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648
+        ],
+        "id": 531384,
+        "original_language": "cn",
+        "original_title": "無雙",
+        "overview": "The Hong Kong police is hunting a counterfeiting gang led by a mastermind code-named \"Painter\" . The gang possesses exceptional counterfeiting skills which makes it difficult to distinguish the authenticity of its counterfeit currency. The scope of their criminal activities extends globally and greatly attracts the attention of the police. In order to crack the true identity of \"Painter\", the police recruits a painter named Lee Man to assist in solving the case.",
+        "popularity": 28.077,
+        "poster_path": "/aJv81P9fEsArYmEL1IGYNTYQLni.jpg",
+        "release_date": "2018-09-30",
+        "title": "Project Gutenberg",
+        "video": false,
+        "vote_average": 6.965,
+        "vote_count": 99
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sP1ShE4BGLkHSRqG9ZeGHg6C76t.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 934641,
+        "original_language": "en",
+        "original_title": "The Minute You Wake Up Dead",
+        "overview": "A stockbroker in a small southern town gets embroiled in an insurance scam with a next-door neighbor that leads to multiple murders when a host of other people want in on the plot. Sheriff Thurmond Fowler, the by-the-book town sheriff for over four decades, works earnestly to try and unravel the town’s mystery and winds up getting more than he bargained for.",
+        "popularity": 28.068,
+        "poster_path": "/pUPwTbnAqfm95BZjNBnMMf39ChT.jpg",
+        "release_date": "2022-11-04",
+        "title": "The Minute You Wake Up Dead",
+        "video": false,
+        "vote_average": 5.357,
+        "vote_count": 98
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/72nzOfZ7CWO3rIpCiBSzFZCPQa7.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            27
+        ],
+        "id": 11707,
+        "original_language": "en",
+        "original_title": "Tightrope",
+        "overview": "Wes Block is a detective who's put on the case of a serial killer whose victims are young and pretty women. The murders are getting personal when the killer chooses victims who are acquaintances of Block. Even his daughters are threatened.",
+        "popularity": 28.065,
+        "poster_path": "/3TozQxUUX291sM68PlwsucoGatw.jpg",
+        "release_date": "1984-08-17",
+        "title": "Tightrope",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 334
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6PtIVX93B0d77p4R3AvUvXVWydp.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 441531,
+        "original_language": "cn",
+        "original_title": "拆彈專家",
+        "overview": "When a terrorist who specializes in explosives takes hold of an underground tunnel, he threatens to kill hostages if his demands are not met.",
+        "popularity": 28.061,
+        "poster_path": "/l4G4M6V9UrNRdbcsbnMmEZUyBGw.jpg",
+        "release_date": "2017-04-20",
+        "title": "Shock Wave",
+        "video": false,
+        "vote_average": 6.697,
+        "vote_count": 170
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dhX8LZJkREFmRcrbEGNkf6EE0OL.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 410554,
+        "original_language": "en",
+        "original_title": "First Kill",
+        "overview": "A police chief tries to solve a kidnapping that involves a bank robber holding a young boy hostage.",
+        "popularity": 28.058,
+        "poster_path": "/zoia9YSg82UNYbtum9QYjKSqdLw.jpg",
+        "release_date": "2017-07-21",
+        "title": "First Kill",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 534
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/obrakInMZQUMqLsZqDLBFwhp2qc.jpg",
+        "genre_ids": [
+            18,
+            53,
+            9648,
+            80
+        ],
+        "id": 38407,
+        "original_language": "en",
+        "original_title": "Shanghai",
+        "overview": "An American man returns to a corrupt, Japanese-occupied Shanghai four months before Pearl Harbor and discovers his friend has been killed. While he unravels the mysteries of the death, he falls in love and discovers a much larger secret that his own government is hiding.",
+        "popularity": 28.045,
+        "poster_path": "/ydrpcCRfLww4AE1qAlu9x878nQX.jpg",
+        "release_date": "2010-06-10",
+        "title": "Shanghai",
+        "video": false,
+        "vote_average": 6.091,
+        "vote_count": 166
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lwK1HY1ml8bnTaQJzzcKfe2q93O.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            28
+        ],
+        "id": 7873,
+        "original_language": "en",
+        "original_title": "Harsh Times",
+        "overview": "Jim Davis is an ex-Army Ranger who finds himself slipping back into his old life of petty crime after a job offer from the LAPD evaporates. His best friend is pressured by his girlfriend Sylvia to find a job, but Jim is more interested in hanging out and making cash from small heists, while trying to get a law enforcement job so he can marry his Mexican girlfriend.",
+        "popularity": 28.042,
+        "poster_path": "/raBWBnGz2X6FQ3iUwPwYQE4FrkY.jpg",
+        "release_date": "2005-09-11",
+        "title": "Harsh Times",
+        "video": false,
+        "vote_average": 6.418,
+        "vote_count": 666
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8fswtoTMxVA6sJ2OTR6EhxQunkY.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 15670,
+        "original_language": "en",
+        "original_title": "Madea Goes to Jail",
+        "overview": "After a high-speed car chase, Madea winds up behind bars because her quick temper gets the best of her. Meanwhile, Assistant District Attorney Josh Hardaway lands a case that's too personal to handle: that of a young prostitute and former drug addict named Candace. When Candace winds up in jail, Madea takes the young woman under her protective wing.",
+        "popularity": 28.02,
+        "poster_path": "/qiXNNmSFXsfUdKDkylBF2LfX0DR.jpg",
+        "release_date": "2009-02-16",
+        "title": "Madea Goes to Jail",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 182
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sHHtfylgVd5A1pjBxKEPksF6eTC.jpg",
+        "genre_ids": [
+            18,
+            37,
+            80
+        ],
+        "id": 12690,
+        "original_language": "en",
+        "original_title": "Appaloosa",
+        "overview": "Two friends hired to police a small town that is suffering under the rule of a rancher find their job complicated by the arrival of a young widow.",
+        "popularity": 28.016,
+        "poster_path": "/qLLUC8QaNx4BK1Vuf7XqSyd8icX.jpg",
+        "release_date": "2008-09-19",
+        "title": "Appaloosa",
+        "video": false,
+        "vote_average": 6.543,
+        "vote_count": 949
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mqFiNjFHxalek0KzpjRWO8Apecc.jpg",
+        "genre_ids": [
+            37,
+            28,
+            80
+        ],
+        "id": 27277,
+        "original_language": "en",
+        "original_title": "The War Wagon",
+        "overview": "An ex-con seeks revenge on the man who put him in prison by planning a robbery of the latter's stagecoach, which is transporting gold. He enlists the help of a partner, who could be working for his nemesis.",
+        "popularity": 28.011,
+        "poster_path": "/wGSv9mfHocleVwH4Q8d38SkwQP.jpg",
+        "release_date": "1967-05-26",
+        "title": "The War Wagon",
+        "video": false,
+        "vote_average": 6.885,
+        "vote_count": 182
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wBHrFVmEp2NriJcWeOTAbEbamFp.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 698201,
+        "original_language": "ja",
+        "original_title": "東京リベンジャーズ",
+        "overview": "An unemployed man learns that his ex-girlfriend was murdered. He suddenly finds himself travelling through time to his middle school years and has chance to change the future and save the girl. He aims to rise to the top of the most brutal delinquent gang.",
+        "popularity": 28.002,
+        "poster_path": "/q8Q2VBt3rP0cSG3hNerIQuogLAH.jpg",
+        "release_date": "2021-07-09",
+        "title": "Tokyo Revengers",
+        "video": false,
+        "vote_average": 7.881,
+        "vote_count": 226
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dUu4C9ol9672oMxId7ERAwluIf7.jpg",
+        "genre_ids": [
+            16,
+            10770,
+            28,
+            35,
+            80
+        ],
+        "id": 53894,
+        "original_language": "ja",
+        "original_title": "ルパン三世 トワイライト☆ジェミニの秘密",
+        "overview": "As Lupin's mentor Don Dolune lies on his deathbed, he hands the master thief a gift, the diamond named Twilight. Though it's only half the treasure — the other half of the Twilight can be found in Morocco. Lupin must contend with his on-again-off-again-partner Fujiko, his feelings for the mysterious Lara, and the relentless whip-wielding maniac Sadachiyo in order to bring Twilight back to its full glory.",
+        "popularity": 28.0,
+        "poster_path": "/xen8rwhPrXRaurAl156gF6VNxL0.jpg",
+        "release_date": "1996-08-02",
+        "title": "Lupin the Third: The Secret of Twilight Gemini",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4mopIaKwC0RBK0kGVjgSnkLYn1m.jpg",
+        "genre_ids": [
+            12,
+            35,
+            28,
+            80
+        ],
+        "id": 10694,
+        "original_language": "en",
+        "original_title": "The Chase",
+        "overview": "Jack Hammond is sentenced to life in prison, but manages to escape. To get away from the police he takes a girl as hostage and drives off in her car. The girl happens to be the only daughter of one of the richest men in the state. In a while the car chase is being broadcast live on every TV-channel.",
+        "popularity": 27.985,
+        "poster_path": "/lEmGW4Fc9wMRLIKq6NRojZnTbdp.jpg",
+        "release_date": "1994-03-04",
+        "title": "The Chase",
+        "video": false,
+        "vote_average": 5.749,
+        "vote_count": 335
+    }
+]

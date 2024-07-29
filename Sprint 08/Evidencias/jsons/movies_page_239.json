@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/3e46k8KPCs1N7luAqNDFZFzrbbE.jpg",
+        "genre_ids": [
+            10749,
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 661043,
+        "original_language": "hi",
+        "original_title": "मलंग",
+        "overview": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his way.",
+        "popularity": 12.607,
+        "poster_path": "/noi7E47L0bpu60DO1jcYAvCqfSS.jpg",
+        "release_date": "2020-02-06",
+        "title": "Malang",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aPB1gHbfQH1QvBtQ9z1IYUasYSx.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10751
+        ],
+        "id": 103612,
+        "original_language": "en",
+        "original_title": "Matilda",
+        "overview": "A small-time talent agent discovers an amazing boxing kangaroo and figures to use it as his stepping-stone into the big time.",
+        "popularity": 12.607,
+        "poster_path": "/t339xseMiPPLKXZ8XyDBKCmYax7.jpg",
+        "release_date": "1978-06-22",
+        "title": "Matilda",
+        "video": false,
+        "vote_average": 5.75,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3t1qZqP1e17wQshpPKSqII1OogM.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 30017,
+        "original_language": "fa",
+        "original_title": "کلوزآپ ، نمای نزدیک",
+        "overview": "This fiction-documentary hybrid uses a sensational real-life event—the arrest of a young man on charges that he fraudulently impersonated the well-known filmmaker Mohsen Makhmalbaf—as the basis for a stunning, multilayered investigation into movies, identity, artistic creation, and existence, in which the real people from the case play themselves.",
+        "popularity": 12.604,
+        "poster_path": "/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg",
+        "release_date": "1990-05-09",
+        "title": "Close-Up",
+        "video": false,
+        "vote_average": 7.888,
+        "vote_count": 356
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ct8b1xlUxjfyyzY51cztWnDxtp2.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27
+        ],
+        "id": 93084,
+        "original_language": "en",
+        "original_title": "Keyhole",
+        "overview": "Gangster and deadbeat dad, Ulysses Pick, embarks on an unusual journey through his home.",
+        "popularity": 12.601,
+        "poster_path": "/t5J4bVz42R5MrDQv6cNpdkYgTkk.jpg",
+        "release_date": "2011-09-09",
+        "title": "Keyhole",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2yr5r4GLsp3ntBQET6OOzT39Zdo.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 72903,
+        "original_language": "en",
+        "original_title": "The Midnight Story",
+        "overview": "Beloved priest Father Thomasino is murdered in a San Francisco alley, and the police have few clues. But traffic cop Joe Martini becomes obsessed with finding the killer; he suspects Sylvio Malatesta. Ordered off the case, Joe turns in his badge and investigates alone. Soon he is a close friend of the Malatesta family, all delightful people, especially lovely cousin Anna. Uncertain whether Sylvio is guilty or innocent, Joe is now torn between old and new loyalties.",
+        "popularity": 12.601,
+        "poster_path": "/gFfn6Dxyi7TbLY095yO5YyFjSBe.jpg",
+        "release_date": "1957-06-04",
+        "title": "The Midnight Story",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3d1HJNldGIQScRVvCcsAfmC1hhu.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 426260,
+        "original_language": "en",
+        "original_title": "Thumper",
+        "overview": "In a town of low-income and fractured families, a group of teens are lured into working for a dangerous drug dealer. A new girl arrives who hides a dangerous secret that will impact everybody and change their lives forever.",
+        "popularity": 12.6,
+        "poster_path": "/98aGP5j9vF51UwIusxq6OX947Rf.jpg",
+        "release_date": "2017-04-20",
+        "title": "Thumper",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7NThUBzgNafbgNilsg19VdasdKI.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 20122,
+        "original_language": "hu",
+        "original_title": "Kárhozat",
+        "overview": "Karrer plods his way through life in quiet desperation. His environment is drab and rainy and muddy. Eaten up with solitude, his hopelessness would be incurable but for the existence of the Titanik Bar and its beautiful, haunting singer. But the lady is married and Karrer is determined to keep her husband away...",
+        "popularity": 12.597,
+        "poster_path": "/iW1WHmZEk9QTeY4qp7gjaDcCPDS.jpg",
+        "release_date": "1988-10-20",
+        "title": "Damnation",
+        "video": false,
+        "vote_average": 7.588,
+        "vote_count": 114
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ci07vpCfIojR3LiSEwAKy4jwx7j.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 13899,
+        "original_language": "ja",
+        "original_title": "DEAD OR ALIVE 2 逃亡者",
+        "overview": "Two contract killers cross paths in the middle of the same job and realize they are childhood friends. Together they take a break from killing and visit the small island they once called home. After reflecting on their past lives they decided to team up and use their talents in killing for good... much to the upset of the crime syndicates.",
+        "popularity": 12.597,
+        "poster_path": "/hEi5PhfgInQPL9Z0r3jijuYN8Im.jpg",
+        "release_date": "2000-12-02",
+        "title": "Dead or Alive 2: Birds",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 92
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nMYmYQyVYO3A4nUX5StQpPOzO3V.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            18
+        ],
+        "id": 55765,
+        "original_language": "ko",
+        "original_title": "거룩한 계보",
+        "overview": "An eccentric but faithful mafia, Chi-sung is sent to prison for his part in a gang fight. But when his parents are attacked by a rival mob and his own people take no action, he realizes that a decade of loyalty towards the gang has become futile. Determined to confront his own boss, he finds a way to escape from prison with his fellow inmates. Meanwhile, his friend Joo-joong is given the task to stop Chi-sung, forcing him to choose between the bond of friendship and loyalty towards the gang.",
+        "popularity": 12.596,
+        "poster_path": "/tkdfgT6KyE5Ga4g4vbykI0cZVWR.jpg",
+        "release_date": "2006-10-19",
+        "title": "Righteous Ties",
+        "video": false,
+        "vote_average": 6.431,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1vd86CBfkmXlYtBenJmqJdTve8M.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 24023,
+        "original_language": "sv",
+        "original_title": "Johan Falk: GSI - Gruppen för särskilda insatser",
+        "overview": "Johan works in tandem with the GSI organized crime unit to bring in a cadre of armored car robbers",
+        "popularity": 12.59,
+        "poster_path": "/hJVq80mJAy992hdtiBDuvrrI8nP.jpg",
+        "release_date": "2009-06-25",
+        "title": "Johan Falk: GSI - Gruppen för särskilda insatser",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ouuFdKu9N7KfQjEsyezTsPXQ7Ya.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            27,
+            80
+        ],
+        "id": 87462,
+        "original_language": "en",
+        "original_title": "Relentless",
+        "overview": "Two Los Angeles police detectives, cynical veteran Malloy and cocky rookie Dietz, hunt for a serial killer, an ex-cop named Taylor, whom randomly chooses his victims from a phone directory.",
+        "popularity": 12.569,
+        "poster_path": "/9pA3t6dls29FR9HKCMxiXYX5hNx.jpg",
+        "release_date": "1989-08-30",
+        "title": "Relentless",
+        "video": false,
+        "vote_average": 5.393,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5BOLI1zl9Ex6wh6rk7NSwpWvlq5.jpg",
+        "genre_ids": [
+            14,
+            18,
+            80
+        ],
+        "id": 32887,
+        "original_language": "en",
+        "original_title": "Alias Nick Beal",
+        "overview": "After straight-arrow district attorney Joseph Foster says in frustration that he would sell his soul to bring down a local mob boss, a smooth-talking stranger named Nick Beal shows up with enough evidence to seal a conviction. When that success leads Foster to run for governor, Beal's unearthly hold on him turns the previously honest man corrupt, much to the displeasure of his wife and his steadfast minister.",
+        "popularity": 12.568,
+        "poster_path": "/8wy0peTDb2Zrdecely80hOyAPv8.jpg",
+        "release_date": "1949-03-04",
+        "title": "Alias Nick Beal",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wAoPppsb55OMHlRaIX10sqrJo7B.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 700578,
+        "original_language": "de",
+        "original_title": "Kaiserschmarrndrama",
+        "overview": "A dicey murder investigation. A fuming best friend. A chaotic living situation. Village police officer Franz Eberhofer has a lot on his plate right now.",
+        "popularity": 12.567,
+        "poster_path": "/sCv2XqNSUayGNfzB1Z2V0FhACu2.jpg",
+        "release_date": "2021-08-05",
+        "title": "Kaiserschmarrndrama",
+        "video": false,
+        "vote_average": 7.014,
+        "vote_count": 69
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mz32fg55mSXVGP03WqKoz0E051n.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 795321,
+        "original_language": "ko",
+        "original_title": "아수라도",
+        "overview": "The third prison of death, where only vicious criminals who do not have a sense of law or common sense are being kept. A new era of power opens when Lee Tae-sik, the nation's former boss entered the office. Soon, the new warden, Jo Pyeong-ho, ends the evil without blood or tears, and begins to imprison the prisoners terribly, including Lee Tae-sik.",
+        "popularity": 12.564,
+        "poster_path": "/m9zKifnJAKSF9GGoLwvMdvvVzOt.jpg",
+        "release_date": "2021-03-18",
+        "title": "Asurado",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6dMZVZZdDHqegsXVydhldOxccqf.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            9648
+        ],
+        "id": 42729,
+        "original_language": "en",
+        "original_title": "A Study in Terror",
+        "overview": "When Watson reads from the newspaper there have been two similar murders near Whitechapel in a few days, Sherlock Holmes' sharp deductive is immediately stimulated to start its merciless method of elimination after observation of every apparently meaningless detail. He guesses right the victims must be street whores, and doesn't need long to work his way trough a pawn shop, an aristocratic family's stately home, a hospital and of course the potential suspects and (even unknowing) witnesses who are the cast of the gradually unraveled story of the murderer and his motive.",
+        "popularity": 12.561,
+        "poster_path": "/gWKXoUpzB28R5qHhQAoC6kOJaQ1.jpg",
+        "release_date": "1965-10-01",
+        "title": "A Study in Terror",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/318OIVwtNq8wtPTLd6JbD0xfSCr.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            10770
+        ],
+        "id": 648597,
+        "original_language": "en",
+        "original_title": "Gourmet Detective: Roux the Day",
+        "overview": "Henry is hired to authenticate and purchase a long lost and very valuable recipe book. Soon Henry and Maggie find themselves in a murder mystery where secrets hidden within a treasured book have dire consequences for all who own it.",
+        "popularity": 12.554,
+        "poster_path": "/cC8VqiIdOVjXRdClSzR94tauIod.jpg",
+        "release_date": "2020-01-19",
+        "title": "Gourmet Detective: Roux the Day",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jUzQ2OHZF5XkK2558Dw9NwBnjTC.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            53
+        ],
+        "id": 170455,
+        "original_language": "en",
+        "original_title": "A Killer Among Us",
+        "overview": "After the shocking murder of her mother, a girl helps a police detective by searching her home for clues that they hope will lead to the perpetrator.",
+        "popularity": 12.554,
+        "poster_path": "/8chaJ9rXgm5hdC8zJCDZDl4xQRD.jpg",
+        "release_date": "2012-09-08",
+        "title": "A Killer Among Us",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kkqEpSEtOhEvbX5aHPsP6sDpUmt.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10751
+        ],
+        "id": 691425,
+        "original_language": "en",
+        "original_title": "Good Friday",
+        "overview": "After his wife's death in a car accident, Lucas Cole has become an angry, shut-down, public prosecutor trying to convict the world. He's also become a disconnected father to his son. Then on one, fateful day everything for Lucas seems to be tested: his values, career and relationships - it's Good Friday.",
+        "popularity": 12.551,
+        "poster_path": "/bQZKCcSeWIRuW1r8fksYEOzUhyP.jpg",
+        "release_date": "2020-05-19",
+        "title": "Good Friday",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tITgpXEA9XcoIgNKivYAdzXyRq3.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 35955,
+        "original_language": "en",
+        "original_title": "Desperate",
+        "overview": "An innocent trucker takes it on the lam when he's accused of robbery.",
+        "popularity": 12.548,
+        "poster_path": "/Ac91MANcG3oFkr0u9TgcwD2LJNv.jpg",
+        "release_date": "1947-06-20",
+        "title": "Desperate",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aiFpSgNXNvE2hT6gWjMlcOzN0M3.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 155494,
+        "original_language": "en",
+        "original_title": "Killing Time",
+        "overview": "After the mobster who murdered his partner is acquitted, semicorrupt detective Robert Bryant hires a beautiful female assassin, Maria, to kill him. When he discovers that he cannot afford Maria's services, Bryant is forced to hire another assassin, Madison, to kill her. Maria survives the doublecross and sets out to collect what's owed to her, one way or another.",
+        "popularity": 12.546,
+        "poster_path": "/1s0HYWAobp76qkjlNREvzFNOUdG.jpg",
+        "release_date": "1998-01-30",
+        "title": "Killing Time",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 5
+    }
+]

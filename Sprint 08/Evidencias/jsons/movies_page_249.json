@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/nJx6Wkfz6zVNxBok9UYl4hddr8W.jpg",
+        "genre_ids": [
+            28,
+            80,
+            10749,
+            53
+        ],
+        "id": 40480,
+        "original_language": "en",
+        "original_title": "Bad Company",
+        "overview": "CIA operative Nelson Crowe is tasked with a deadly assignment: infiltrate a highly secret industrial espionage firm. Once inside, he teams with Margaret Wells, a master spy and seductive manipulator, in a plot to overthrow the organization's sinister president, which leads them into a darkly mysterious web of intrigue -- and shocking murder!",
+        "popularity": 12.217,
+        "poster_path": "/5q5r3cpaTDByz4qko9ZWHlK3gMF.jpg",
+        "release_date": "1995-01-20",
+        "title": "Bad Company",
+        "video": false,
+        "vote_average": 4.81,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lMVQfbKM65JGOx9smdO5Y8doQMR.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 27505,
+        "original_language": "en",
+        "original_title": "The Unholy Three",
+        "overview": "Three sideshow performers form a conspiracy known as \"The Unholy Three\" - a ventriloquist, midget, and strongman working together to commit a series of robberies.",
+        "popularity": 12.217,
+        "poster_path": "/aU3eZJEuzFzngrnTQJrqhTQ8zzO.jpg",
+        "release_date": "1925-07-20",
+        "title": "The Unholy Three",
+        "video": false,
+        "vote_average": 6.62,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sdwL0sK0ztHBFQEs3VDS32Io6t1.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53,
+            10770
+        ],
+        "id": 125801,
+        "original_language": "en",
+        "original_title": "Mystery Woman: Vision of a Murder",
+        "overview": "Sam lands a job photographing a new spa in Southern California for their brochure and brings her best friend Cassie along to enjoy some pampering. When one of the guests staying at the upscale retreat turns up dead, Sam is once again on the trail of a murderer. As the investigation progresses, Sam uncovers a scam that the spa Dr was testing unapproved drugs on the patrons.. filler implants, etc. without the patients' informed consent.",
+        "popularity": 12.216,
+        "poster_path": "/AqZLv3zdmaPqgXAc5v0mBsOx4ou.jpg",
+        "release_date": "2005-06-05",
+        "title": "Mystery Woman: Vision of a Murder",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jr6l9e5tg7tOeoSjkcKKeJcz9Fy.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 25335,
+        "original_language": "fi",
+        "original_title": "Rööperi",
+        "overview": "In the mid-1960s, three small-time Finnish bootleggers seize control of their Helsinki neighborhood's black-market liquor business.",
+        "popularity": 12.216,
+        "poster_path": "/yafmxsqHx3IVqlMdoPpuvbvg3dv.jpg",
+        "release_date": "2009-01-09",
+        "title": "Hellsinki",
+        "video": false,
+        "vote_average": 6.42,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a1TNmzozLvr5OjkOKRsywQ4GPmn.jpg",
+        "genre_ids": [
+            18,
+            10770,
+            9648,
+            80
+        ],
+        "id": 1302757,
+        "original_language": "en",
+        "original_title": "Signed, Sealed, Delivered: A Tale of Three Letters",
+        "overview": "The POstables are back identifying the intended recipients of a trio of dead letters which have a surprising, personal impact on all of them. Stars Eric Mabius, Kristin Booth, Crystal Lowe, Geoff Gustafson, Rhiannon Fish.",
+        "popularity": 12.21,
+        "poster_path": "/bs9o9vtv0FUBj4xyVVOo8RW8N2p.jpg",
+        "release_date": "2024-07-12",
+        "title": "Signed, Sealed, Delivered: A Tale of Three Letters",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uW9rpd9kH9o4d5gSLJeTyqH4DmZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 92759,
+        "original_language": "en",
+        "original_title": "12 Hours to Live",
+        "overview": "Eighteen-year-old Amy is having a bad day. Not only has she been kidnapped by a deranged gunman, but as a diabetic without her insulin, her chances of survival are diminishing with each tick of the clock. FBI agent Megan Saunders isn't walking on sunshine either, since this madman killed her partner when Megan hesitated to pull the trigger. Now Megan won't stop till she nails this guy, but can she save Amy before her time's up?",
+        "popularity": 12.21,
+        "poster_path": "/tQjLdUi2LH9NpZ7bihLs2MKIPGd.jpg",
+        "release_date": "2006-07-01",
+        "title": "12 Hours to Live",
+        "video": false,
+        "vote_average": 5.083,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oYqxi6sQnRnuSXbnpd9eZ6PNSB5.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 56800,
+        "original_language": "fr",
+        "original_title": "Judex",
+        "overview": "Georges Franju's Judex is an arch, playful tribute to the serials of the influential silent filmmaker Louis Feuillade. Franju shuffles through the plot of Feuillade's lengthy serial of the same name, about an adventurer named Judex whose revenge against the corrupt banker Favraux unleashes a complicated series of schemes.",
+        "popularity": 12.208,
+        "poster_path": "/v9QWXz5F11R0yZpCcxIH1W50BHP.jpg",
+        "release_date": "1963-12-04",
+        "title": "Judex",
+        "video": false,
+        "vote_average": 6.851,
+        "vote_count": 74
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zgbl3Q43ov0oWKXogmWxWgDGfHY.jpg",
+        "genre_ids": [
+            35,
+            18,
+            28,
+            80
+        ],
+        "id": 940164,
+        "original_language": "ko",
+        "original_title": "부기나이트",
+        "overview": "A fantasy film in which the world is coming to an end due to North Korea's sudden announcement of a nuclear explosion, and an ordinary office worker meets five women while planning to live his last day without regret, and finds his life as he is caught up in an unexpected extreme situation.",
+        "popularity": 12.207,
+        "poster_path": "/e87mnR1R74nXnMrJVXnr8jdJnaF.jpg",
+        "release_date": "2022-04-28",
+        "title": "Boogie Nights",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 257616,
+        "original_language": "en",
+        "original_title": "Back Stab",
+        "overview": "An architect goes to bed with a seductive stranger only to awaken beside the corpse of his boss.",
+        "popularity": 12.2,
+        "poster_path": "/cR7xjKieSTWLWkanXGPHqjZHTY0.jpg",
+        "release_date": "1990-10-03",
+        "title": "Back Stab",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jb8gpqaCfSlwwZXYnfZEUSMJiVA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 382743,
+        "original_language": "ta",
+        "original_title": "ஆறாது சினம்",
+        "overview": "An alcoholic cop accepts to investigate a case involving a couple of gruesome murders. Will the case be the redemption that he was waiting for?",
+        "popularity": 12.197,
+        "poster_path": "/bsBl0B3CrvweuJaNLBNglFMB64N.jpg",
+        "release_date": "2016-02-26",
+        "title": "Aarathu Sinam",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 53655,
+        "original_language": "en",
+        "original_title": "The Box",
+        "overview": "A disgraced former LAPD detective leads a home invasion in search of millions in stolen money. The plan goes awry and homicide detectives seeking answers interrogate the only survivors; a thief and a victim.",
+        "popularity": 12.195,
+        "poster_path": "/g1kblJuozm8rl4gkDgNIa44ocLl.jpg",
+        "release_date": "2007-01-01",
+        "title": "The Box",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7T3QKVE01BYCTfeoYft2KZQfy1B.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 941256,
+        "original_language": "en",
+        "original_title": "Craving",
+        "overview": "After a drug deal goes south, four heroin addicts barricade themselves in a country bar as the cops close in. Withdrawal sets in, further complicating their hostage situation, while a secret one of them is hiding could destroy them all.",
+        "popularity": 12.193,
+        "poster_path": "/oEWi555lKs4cplwt7Vu0yXnhUk8.jpg",
+        "release_date": "2023-03-01",
+        "title": "Craving",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t6fvDC3ABRE6168ioLWEGbltcC6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 252967,
+        "original_language": "en",
+        "original_title": "The Rookies",
+        "overview": "Three new officers in a large metropolitan police department adjust to their new jobs and way of life. This is another TV-pilot that was first aired as an ABC Movie of the Week before becoming a TV-series.",
+        "popularity": 12.189,
+        "poster_path": "/yLf8EAZLU44Gn8vP3m953EzJMUU.jpg",
+        "release_date": "1972-03-07",
+        "title": "The Rookies",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uGUzIp7SWTibQZcwObIA8QMj2xX.jpg",
+        "genre_ids": [
+            28,
+            35,
+            12,
+            80
+        ],
+        "id": 373869,
+        "original_language": "ja",
+        "original_title": "俺たち賞金稼ぎ団",
+        "overview": "Fourth film from \"Toei Hero Next\" series featuring actors playing heroes of Toei tokusatsu series. This time, six cast of super sentai series \"Zyuden Sentai Kyoryuger\" star in a comedy film, \"Oretachi Shokin Kasegi Dan.\" Directed by Koichi Sakamoto (\"Zyuden Sentai Kyoryuger\").",
+        "popularity": 12.188,
+        "poster_path": "/eT82EHZdRkq9Uqmgc6jP8vU5pdt.jpg",
+        "release_date": "2014-05-10",
+        "title": "We're a Bounty Hunter Team!",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k9b0x6KFd9cW8WTtuhTj14clF1i.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 661605,
+        "original_language": "fr",
+        "original_title": "Enquête sur un scandale d'État",
+        "overview": "October 2015. French customs seize seven tonnes of cannabis in the heart of the capital. The same day, Hubert Antoine, a former mole with a shady past, contacts Stéphane Vilner, a journalist at Libération. He claims to be able to demonstrate the existence of State drug trafficking led by Jacques Billard, prominent media figure and high-ranking French police officer. Suspicious at first, the young journalist finally dives into an investigation that will lead him to the darkest corners of the Republic.",
+        "popularity": 12.181,
+        "poster_path": "/kXGWSH09gLpRKdKloeHXuVAuBaU.jpg",
+        "release_date": "2022-02-09",
+        "title": "Undercover",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zrvhxXRaSeSgzv9f1ZO2PXe9pAv.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 62756,
+        "original_language": "ta",
+        "original_title": "சிங்கம்",
+        "overview": "The story, set in the backdrop of Nallore, a small town in Thoothukudi District, revolves around Sub-Inspector Durai Singam, a brave and just policeman who serves in his hometown primarily to fulfill his father’s wish. Durai Singam settles every dispute in his town patiently with his words of wisdom and resorts to force only when the situation demands it. Kavya, a city girl who comes on vacation to Nallore, falls in love with Durai Singam. Erimalai, Durai Singam's bumbling colleague and friend, often accompanies him.",
+        "popularity": 12.181,
+        "poster_path": "/g7bsLSuEg3FuCY1o7uSzbxMUJLB.jpg",
+        "release_date": "2010-05-28",
+        "title": "Singam",
+        "video": false,
+        "vote_average": 6.79,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qb2T7yeOsVsJvHgl0hLykDSKxaQ.jpg",
+        "genre_ids": [
+            12,
+            10749,
+            80
+        ],
+        "id": 53769,
+        "original_language": "en",
+        "original_title": "Singapore",
+        "overview": "After the war, Matt Gordon returns to Singapore to retrieve a fortune in smuggled pearls. Arrived, he reminisces in flashback about his prewar fiancée, alluring Linda, and her disappearance during the Japanese attack. But now Linda resurfaces...with amnesia and married to rich planter Van Leyden. Meanwhile, sinister fence Mauribus schemes to get Matt's pearls.",
+        "popularity": 12.181,
+        "poster_path": "/gUp3PSO8nQ82ToToPbmjjsFzahy.jpg",
+        "release_date": "1947-08-13",
+        "title": "Singapore",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k27eOAX1DLy2ZjAfb88Z5OJBq6v.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 41090,
+        "original_language": "en",
+        "original_title": "Wisdom",
+        "overview": "Unable to find work after a past felony, graduate John Wisdom and his girlfriend embark on a cross-country bank-robbing spree in order to aid American farmers.",
+        "popularity": 12.177,
+        "poster_path": "/jJiKZG7vauFCeax5Aj5fahrcKUO.jpg",
+        "release_date": "1986-12-31",
+        "title": "Wisdom",
+        "video": false,
+        "vote_average": 5.814,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cNO77lEXZx2NlMyqItmxhp5UNSC.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 457064,
+        "original_language": "pt",
+        "original_title": "Polícia Federal: A Lei é Para Todos - Os Bastidores da Operação Lava Jato",
+        "overview": "2013. During Operation Bidone, the Federal Police seized a truck loaded with palm heart, which contained 697 kg of cocaine. The investigation falls on the team assembled by Ivan Romano, based in Curitiba and composed by Beatriz, Júlio and Ítalo. The traffic connections lead them to the dower Alberto Youssef and later to the former Petrobras director Paulo Roberto Costa, who reveals an immense structure involving builders and the government, in order to divert public money. As the investigation progresses, the group led by Ivan is increasingly approaching some of the country's most influential politicians.",
+        "popularity": 12.175,
+        "poster_path": "/lYOBHagDwOv66TUzRy265qSWwTP.jpg",
+        "release_date": "2017-09-07",
+        "title": "Polícia Federal: A Lei é Para Todos - Os Bastidores da Operação Lava Jato",
+        "video": false,
+        "vote_average": 7.056,
+        "vote_count": 108
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 330711,
+        "original_language": "en",
+        "original_title": "One Kill",
+        "overview": "A divorced female marine officer with two small children begins an affair with a senior officer.",
+        "popularity": 12.174,
+        "poster_path": "/30fRxZytahRmZ4b1tqUsZbC5xhQ.jpg",
+        "release_date": "2000-08-06",
+        "title": "One Kill",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    }
+]

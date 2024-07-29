@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/gwypeqEs7LFo8sN3wz4zghcaOKa.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1206988,
+        "original_language": "en",
+        "original_title": "A Tribe Called Judah",
+        "overview": "With the help of their mother, the Judah boys plan to rob a small mall. But when they arrive, they're met by real armed robbers.",
+        "popularity": 9.777,
+        "poster_path": "/9aMG2ftIFqFAN69FdjovKJY0hsd.jpg",
+        "release_date": "2023-12-15",
+        "title": "A Tribe Called Judah",
+        "video": false,
+        "vote_average": 8.9,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wYWW1Wo5ecIjiT4FypFJxzGxLtq.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 35852,
+        "original_language": "en",
+        "original_title": "Obsession",
+        "overview": "A British psychiatrist devises a devilish revenge plot against his wife's lover.",
+        "popularity": 9.776,
+        "poster_path": "/7BlzTHGLBxxCiqY0fTvPqaE2hcX.jpg",
+        "release_date": "1949-08-03",
+        "title": "Obsession",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9o77gDaPeWiLTmaLCT14kRnrjxt.jpg",
+        "genre_ids": [
+            53,
+            35,
+            80
+        ],
+        "id": 358674,
+        "original_language": "en",
+        "original_title": "The Teenie Weenie Bikini Squad",
+        "overview": "Sexy secret agents go undercover (and under the covers) at an erotic magazine to catch a saboteur.",
+        "popularity": 9.775,
+        "poster_path": "/c2hn0UvSnBVN19TEiTOoMg7iQZ8.jpg",
+        "release_date": "2012-03-03",
+        "title": "The Teenie Weenie Bikini Squad",
+        "video": false,
+        "vote_average": 4.765,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5uXeIu60MnqlrhIQQCaQUyOLEHk.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 149476,
+        "original_language": "it",
+        "original_title": "Gangsters '70",
+        "overview": "An elderly gangster just released from prison plans one last job, and gathers a small crew to do the job, but the plan goes sour when one of the crew betrays the details of the operation to a rival gangster.",
+        "popularity": 9.774,
+        "poster_path": "/jEsgG9fpOMFCaf4VK21VlEFsCo3.jpg",
+        "release_date": "1968-04-29",
+        "title": "Gangsters '70",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iRKrmkZXUQQEhWOvhAzdmtYGiRE.jpg",
+        "genre_ids": [
+            18,
+            80,
+            35
+        ],
+        "id": 73138,
+        "original_language": "ja",
+        "original_title": "顔",
+        "overview": "Awkward and withdrawn, Masako kills her sister in an explosion of pent-up humiliation and rage that sends her tumbling into fugitive life.",
+        "popularity": 9.772,
+        "poster_path": "/5859D5cmh39gKyWVT6JAgNS76Oa.jpg",
+        "release_date": "2000-08-12",
+        "title": "Face",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7ldtxkVW93dTVKRrA2Fe0CSl0S1.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 11798,
+        "original_language": "en",
+        "original_title": "This Is England",
+        "overview": "A story about a troubled boy growing up in England, set in 1983. He comes across a few skinheads on his way home from school, after a fight. They become his new best friends, even like family. Based on experiences of director Shane Meadows.",
+        "popularity": 9.772,
+        "poster_path": "/zzbVtj7qSVLig1sEgGDXJDPhaXF.jpg",
+        "release_date": "2007-04-27",
+        "title": "This Is England",
+        "video": false,
+        "vote_average": 7.469,
+        "vote_count": 1220
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6nPCu5JR1YHRly9cdjLHixiC15k.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 123292,
+        "original_language": "en",
+        "original_title": "The Famous Ferguson Case",
+        "overview": "A foreword warns against the peril of yellow journalism, and the story illustrates it by following events in the upstate New York town of Cornwall after prominant financier George Ferguson is killed. Two types of New York City journalists descend on Cornwall, one interested in facts, the other in getting sensational \"news\". Mrs. Ferguson is known to have been friendly with a local banker. The Fergusons quarrel the evening he is killed (by \"burglars\", his wife tells the police later), and she is arrested, spurred on by the \"bad\" journalists, who also manage to badger the banker's wife into the hospital. Meanwhile, young Bruce Foster runs the Cornwall Courier, and shows the big city reporters how to dig out real news while they attempt to subvert justice for their own ends.",
+        "popularity": 9.771,
+        "poster_path": "/fJ6NMWanzJsNd14zZo3RzNHJ3xz.jpg",
+        "release_date": "1932-04-19",
+        "title": "The Famous Ferguson Case",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5JZRz4uPfAd8mNnmJyzGJ9B7JsD.jpg",
+        "genre_ids": [
+            10770,
+            53,
+            80,
+            18
+        ],
+        "id": 103432,
+        "original_language": "en",
+        "original_title": "Outrage",
+        "overview": "One man decides to wage war against a gang of teenage punks besieging an affluent California community. Based on a true incident.",
+        "popularity": 9.77,
+        "poster_path": "/ahzwOOdpU4QcERaAzaOpSVVCaxe.jpg",
+        "release_date": "1973-11-28",
+        "title": "Outrage",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6SSg8bmFhaaZkAE66jj5dMeU5Ul.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 28358,
+        "original_language": "de",
+        "original_title": "Blutiger Freitag",
+        "overview": "Womanizing thug Klett is sprung from the courthouse by two accomplices, then sets about planning the big heist of a local bank, equipped with a cache of high-powered weapons he's acquired from an American army outpost. Together with his faithful protégé, who reluctantly on-boards his young girlfriend and her AWOL brother, the quartet bumble their way through the supposedly full-proof plan that aims to deliver them a cool million in cash and a new life in Australia. Predictably, things deteriorate quickly at every turn.",
+        "popularity": 9.769,
+        "poster_path": "/e6JTJMTQkDl4gUuGnO0qQl0evYF.jpg",
+        "release_date": "1972-04-28",
+        "title": "Bloody Friday",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jI4n3ekviWphas3HdAUqg52p8zH.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            10770
+        ],
+        "id": 291260,
+        "original_language": "en",
+        "original_title": "The Ties That Bind",
+        "overview": "A divorce case involving a landowner and his young wife spirals into something darker, drawing Mr. Whicher into the heart of the English countryside where he uncovers the most disturbing and destructive of secrets.",
+        "popularity": 9.768,
+        "poster_path": "/iOTgeh0DpLafG1TqrcnYviu3d50.jpg",
+        "release_date": "2014-09-14",
+        "title": "The Ties That Bind",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y5WSjMlXv3aE2nM4BNYxM7J8NB8.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 132001,
+        "original_language": "es",
+        "original_title": "Perros callejeros II",
+        "overview": "A veteran policeman named Fernando feels a lot of hatred against Ángel because the boy ran him over with a car leaving him lame. Now Fernando accuses the young crook of having participated in a robbery at a gas station in which a murder has occurred. Helped by his friends, Ángel rebuilds the facts that serve him as an alibi, but while he is in pre-trial detention in La Modelo prison (Barcelona) a terrible mutiny will take place.",
+        "popularity": 9.767,
+        "poster_path": "/cUTV4lVLuW3k5cQ4ZJvLukBfh9Z.jpg",
+        "release_date": "1979-10-08",
+        "title": "Street Warriors II",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 283770,
+        "original_language": "en",
+        "original_title": "A Dark Adapted Eye",
+        "overview": "This psychological mystery/thriller, adapted from Barbara Vine aka Ruth Rendell's novel of the same name, depicts a family on the edge. Two sisters, the elder, obsessive Vera, and the younger, manipulative Eden, cut a path of secrecy and jealousy that leads to disaster.",
+        "popularity": 9.766,
+        "poster_path": "/ipesPY9wRshuDfKV4Eo6jyHUCeC.jpg",
+        "release_date": "1994-01-02",
+        "title": "A Dark Adapted Eye",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z4MkUdV0HX3RacLqj8S3cnm2uuv.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 46565,
+        "original_language": "it",
+        "original_title": "Torino nera",
+        "overview": "Mino and Lello, two sons of a worker wrongly accused of murder, try to find out evidence of his innocence and begin to investigate mafia business in Torino.",
+        "popularity": 9.766,
+        "poster_path": "/f1Sp5kg0PIN59eAUrwtc6lijsag.jpg",
+        "release_date": "1972-05-22",
+        "title": "Black Turin",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nYnVbZ36UTNBDeRM09WJ646RL3l.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 41894,
+        "original_language": "en",
+        "original_title": "Blood Done Sign My Name",
+        "overview": "A drama based on the true story in which a black Vietnam-era veteran is allegedly murdered by a local white businessman who is later exonerated. The plot focuses on the role of a local high school teacher and the civil unrest that followed the acquittal.",
+        "popularity": 9.766,
+        "poster_path": "/6aoc3MexldhKq65EmlosHMkUxgz.jpg",
+        "release_date": "2010-02-01",
+        "title": "Blood Done Sign My Name",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 506511,
+        "original_language": "cn",
+        "original_title": "寒戰 III",
+        "overview": "The follow-up to the movies \"Cold War\" (2012) - and \"Cold War II\" (2016)",
+        "popularity": 9.764,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Cold War III",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vomKoP25kJPKWjYWQBauUzZnD2X.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1044555,
+        "original_language": "ja",
+        "original_title": "マッチング",
+        "overview": "This film revolves around the perils of a dating app. A single woman is recommended an app, however the person she matches with is different to his photo. At the same time, a serial killer is stalking his latest victims also using the same app.",
+        "popularity": 9.763,
+        "poster_path": "/w3xwjvrp5yv2LyAwJDdLleDQ9uj.jpg",
+        "release_date": "2024-02-23",
+        "title": "Matching",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y6HHz0pcZCOfW1SfO7wJpLBWnnW.jpg",
+        "genre_ids": [
+            27,
+            80
+        ],
+        "id": 105424,
+        "original_language": "it",
+        "original_title": "Malocchio",
+        "overview": "People around Peter Crane begin dying in mysterious fashion. How is Playboy Peter involved in this? He begins having nightmares dealing with murder...His psychiatrist has no idea of what Peter is suffering from. Even the police are in danger as they start investigating the case. What is the secret of the \"Magic Circle\"?",
+        "popularity": 9.763,
+        "poster_path": "/81T28hFKXgUaAjEKmdIyKheDS3z.jpg",
+        "release_date": "1975-02-06",
+        "title": "Evil Eye",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yI1NVgYnXu2hTOo40PsUWpD73Ek.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 74587,
+        "original_language": "fr",
+        "original_title": "Le Cri du cormoran, le soir au-dessus des jonques",
+        "overview": "Alfred Mullanet, an unlucky player who lives on his wife's income, becomes in a few moments the object of interest of two thugs, Kruger and Mister K.",
+        "popularity": 9.763,
+        "poster_path": "/5iieKUSSb3vsMBw6NblUXrl0ZVk.jpg",
+        "release_date": "1971-02-10",
+        "title": "Le Cri du cormoran, le soir au-dessus des jonques",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            36,
+            53
+        ],
+        "id": 30121,
+        "original_language": "en",
+        "original_title": "Winter of Frozen Dreams",
+        "overview": "Barbara Hoffman is a University of Wisconsin science student. She is a part-time employee at a local massage parlor. She is also a killer. Now all Detective Lulling has to do is prove it.",
+        "popularity": 9.761,
+        "poster_path": "/j88NAnCCKJFNiVg1DaJkfJ8mQEI.jpg",
+        "release_date": "2009-06-01",
+        "title": "Winter of Frozen Dreams",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fbSX9D23sl4OKRDOYW4787aSdQT.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 64526,
+        "original_language": "it",
+        "original_title": "Alex L'Ariete",
+        "overview": "Alessandro Corso is a special forces carabiniere. During an operation he saves a child but cause the death of one of his comrades. He's then transferred to a peaceful little town, where he will be unexpectedly forced to help an hot witness named Antavleva, protecting her and bringing them safely to the trial.",
+        "popularity": 9.76,
+        "poster_path": "/x90nmBGWEPu28bhSngegCzbGZJC.jpg",
+        "release_date": "2000-07-21",
+        "title": "Alex the Ram",
+        "video": false,
+        "vote_average": 2.5,
+        "vote_count": 82
+    }
+]

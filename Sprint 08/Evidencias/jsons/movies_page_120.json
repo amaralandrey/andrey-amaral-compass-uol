@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/xrsqHuS402Msz8yhWbwre2QQYWd.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 45706,
+        "original_language": "ja",
+        "original_title": "東京流れ者",
+        "overview": "After yakuza boss Kurata dissolves his own criminal empire, a rival kingpin offers a position to Kurata's top operative, Tetsuya \"Phoenix Tetsu\" Hondo. When the fiercely loyal Tetsu declines, Otsuka taps unstoppable Tatsuzo the \"Viper\", a ruthless gun-for-hire, to assassinate him. As the Viper trails his target through the countryside, the agile Phoenix Tetsu grows concerned that one of his former associates has betrayed him.",
+        "popularity": 21.0,
+        "poster_path": "/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
+        "release_date": "1966-04-10",
+        "title": "Tokyo Drifter",
+        "video": false,
+        "vote_average": 7.112,
+        "vote_count": 178
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b4aXVjEH4PoMxubmpowanfdaVO7.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 919573,
+        "original_language": "fr",
+        "original_title": "L'Innocent",
+        "overview": "Sylvie, a nearly sixty-year-old woman, has fallen in love with Michel, a thug she marries in prison. The couple dream of starting again with a clean slate by opening a flower shop. But Sylvie’s son Abel, convinced that Michel will fall into a life of crime, disapproves of this relationship.",
+        "popularity": 20.999,
+        "poster_path": "/4nQ7hBCfr8mS0NAzDj0dg5Atq1t.jpg",
+        "release_date": "2022-10-12",
+        "title": "The Innocent",
+        "video": false,
+        "vote_average": 6.842,
+        "vote_count": 306
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xpXkdDAw1ilEtkhiCcUSgIwrttX.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 15801,
+        "original_language": "en",
+        "original_title": "What Doesn't Kill You",
+        "overview": "Two childhood friends from South Boston turn to crime as a way to get by, ultimately causing a strain in their personal lives and their friendship.",
+        "popularity": 20.997,
+        "poster_path": "/eospjku2O2O5c7rcfnD7Uw5CmGf.jpg",
+        "release_date": "2008-12-12",
+        "title": "What Doesn't Kill You",
+        "video": false,
+        "vote_average": 6.011,
+        "vote_count": 186
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9d34v6lwBdzbqEthHHUkpf1tjrn.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 437116,
+        "original_language": "ko",
+        "original_title": "미옥",
+        "overview": "A corrupt prosecutor plans for revenge against Hyun-jung's crime organization by using her loyal partner, Sang-hoon.",
+        "popularity": 20.995,
+        "poster_path": "/bsmv8sDlVJsrSOHtdrimWxIjDCD.jpg",
+        "release_date": "2017-11-09",
+        "title": "A Special Lady",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xxKydwuEO4Fb7D3HvABje80Nwm1.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 437078,
+        "original_language": "ko",
+        "original_title": "침묵",
+        "overview": "A father goes all out to clear his daughter from any wrong doing in the murder of his fiancée. When all evidence points to her, he takes matters into to his own hands to save his daughter and outwit the judiciary system.",
+        "popularity": 20.989,
+        "poster_path": "/7CRwdPyw3vYwMApBr87vXcjwr67.jpg",
+        "release_date": "2017-11-02",
+        "title": "Heart Blackened",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oZftUn6yOt61LItXE4zPOz4rca9.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36
+        ],
+        "id": 598826,
+        "original_language": "hi",
+        "original_title": "सरदार उधम",
+        "overview": "A young Sardar Udham Singh left deeply scarred by the Jallianwala Bagh massacre, escaped into the mountains of Afghanistan, reaching London in 1933-34. Carrying an unhealed wound for 21 years, the revolutionary assassinated Michael O’Dwyer on 13th March, 1940, the man at the helm of affairs in Punjab, April 1919 to avenge the lost lives of his beloved brethren.",
+        "popularity": 20.986,
+        "poster_path": "/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg",
+        "release_date": "2021-10-16",
+        "title": "Sardar Udham",
+        "video": false,
+        "vote_average": 7.203,
+        "vote_count": 86
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dB9pJFYLvaf9w2sYtVH9TYOu6Vr.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11485,
+        "original_language": "en",
+        "original_title": "Take the Money and Run",
+        "overview": "Virgil Starkwell is intent on becoming a notorious bank robber. Unfortunately for Virgil and his not-so-budding career, he is completely incompetent.",
+        "popularity": 20.982,
+        "poster_path": "/dT7cKFxsuHzSnDBxKeP5acoIpWZ.jpg",
+        "release_date": "1969-08-18",
+        "title": "Take the Money and Run",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 724
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aViJxMtIxoL3IkHCauYmFv0oCXh.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 274,
+        "original_language": "en",
+        "original_title": "The Silence of the Lambs",
+        "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+        "popularity": 20.979,
+        "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+        "release_date": "1991-02-14",
+        "title": "The Silence of the Lambs",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 15938
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sNg5mInBD52V7QdKJeP5J9InVH5.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 74879,
+        "original_language": "tr",
+        "original_title": "Bir Zamanlar Anadolu'da",
+        "overview": "In the rural area around the Anatolian town of Keskin, the local prosecutor, police commissar, and doctor lead a search for a victim of a murder to whom a suspect named Kenan and his mentally challenged brother confessed. However, the search is proving more difficult than expected as Kenan is fuzzy as to the body's exact location. As the group continues looking, its members can't help but chat among themselves about both trivia and their deepest concerns in an investigation that is proving more trying than any of them expected.",
+        "popularity": 20.972,
+        "poster_path": "/jKnV5JDArGn6UyrI9HiYzs7Zykn.jpg",
+        "release_date": "2011-09-23",
+        "title": "Once Upon a Time in Anatolia",
+        "video": false,
+        "vote_average": 7.499,
+        "vote_count": 454
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/erUsrvYpFdxnMs84qkAXPxmW0IF.jpg",
+        "genre_ids": [
+            80,
+            10749,
+            18
+        ],
+        "id": 997162,
+        "original_language": "en",
+        "original_title": "Marmalade",
+        "overview": "Baron, an imprisoned man, strikes up a friendship with cellmate Otis. As the pair hatch an escape plan together, Baron recalls the story of how he met Marmalade, the love of his life, and their Bonnie and Clyde scheme to rob a bank in order to care for his sick mother and give the couple the life they’ve always dreamed of.",
+        "popularity": 20.952,
+        "poster_path": "/6mjEcTvrwddcYPYeRcbdtozUIfU.jpg",
+        "release_date": "2024-02-08",
+        "title": "Marmalade",
+        "video": false,
+        "vote_average": 6.647,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4zHScUX53WcxTVxR3ZwiKBQym38.jpg",
+        "genre_ids": [
+            16,
+            10770,
+            28,
+            35,
+            80
+        ],
+        "id": 76190,
+        "original_language": "ja",
+        "original_title": "ルパン三世 ルパン暗殺指令",
+        "overview": "After Inspector Zenigata is reassigned from the Lupin case and grows despondent, master thief Lupin the Third decides to help him get his old job back, teaming up with the old man to destroy the international weapon smugglers Shot Shell. Together with Lupin's long-time partners in crime, they steal a nuclear Russian submarine and enlist the help of a nuclear physicist named Karen, who keeps suspiciously eyeing Lupin's partner Jigen. If that weren't enough, Zenigata's Interpol successor is an assassin who aims to pick off the Lupin gang one by one.",
+        "popularity": 20.95,
+        "poster_path": "/y99HibIl6ICHoioDcAMHfLv3I87.jpg",
+        "release_date": "1999-05-04",
+        "title": "Lupin the Third: Voyage to Danger",
+        "video": false,
+        "vote_average": 6.776,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9OUBGsZhuNq2aqym01czBa374zA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 711017,
+        "original_language": "da",
+        "original_title": "Shorta",
+        "overview": "The exact details of what took place while Talib Ben Hassi was in police custody remain unclear. Police officers Jens and Mike are on routine patrol in Svalegården's ghetto when news of Talib's death comes in over the radio, igniting uncontrollable, pent-up rage in the ghetto's youth, who lust for revenge. Suddenly, the two officers find themselves fair game and must fight tooth and claw to find a way out.",
+        "popularity": 20.948,
+        "poster_path": "/9At4gHXspTVG89nUZBJNM5zGmHm.jpg",
+        "release_date": "2020-10-08",
+        "title": "Enforcement",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 183
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9Jd2YrhSsnRyeJDqRJQK2fqPMMt.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 13428,
+        "original_language": "en",
+        "original_title": "Two Hands",
+        "overview": "A 19-year-old finds himself in debt to a local gangster when some gang loot disappears and sets him on the run from thugs. Meanwhile, two street kids start a shopping spree when they find the missing money.",
+        "popularity": 20.944,
+        "poster_path": "/47brh3ipjQkPHCMKsutdK3fMz0R.jpg",
+        "release_date": "1999-07-29",
+        "title": "Two Hands",
+        "video": false,
+        "vote_average": 6.622,
+        "vote_count": 135
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g0CkmVYQzGcquK5Y2Uo62UrUjbu.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 445224,
+        "original_language": "zh",
+        "original_title": "非凡任务",
+        "overview": "An undercover police officer attempts to take down a drug trafficking syndicate from the inside.",
+        "popularity": 20.943,
+        "poster_path": "/sMRVJ41dihj4pIpJ4UbArK1IXrg.jpg",
+        "release_date": "2017-03-31",
+        "title": "Extraordinary Mission",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5UglmSDS7B775KwqC65tJofwTe5.jpg",
+        "genre_ids": [
+            10751,
+            80
+        ],
+        "id": 429238,
+        "original_language": "en",
+        "original_title": "Coin Heist",
+        "overview": "When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.",
+        "popularity": 20.943,
+        "poster_path": "/6xnUDsQT2PoIdmdmh8jngh5Wacj.jpg",
+        "release_date": "2017-01-06",
+        "title": "Coin Heist",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 276
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hWz565LUTOL9B0z6Zs8LQvj7AMV.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10770
+        ],
+        "id": 216769,
+        "original_language": "en",
+        "original_title": "Swindle",
+        "overview": "A boy named Griffin finds a valuable multi-million dollar baseball card. After accidentally selling the card for a million dollar loss, he enlists the help of his best friend Ben and his colleagues to regain the baseball card.",
+        "popularity": 20.941,
+        "poster_path": "/gccrJwdNv0roucBpG6Dus0gw4Xb.jpg",
+        "release_date": "2014-03-22",
+        "title": "Swindle",
+        "video": false,
+        "vote_average": 6.991,
+        "vote_count": 223
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aJcr2XzbFt2jqKtCnlw9Po1ZA2f.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 28297,
+        "original_language": "en",
+        "original_title": "Brute Force",
+        "overview": "Timeworn Joe Collins and his fellow inmates live under the heavy thumb of the sadistic, power-tripping guard Captain Munsey. Only Collins' dreams of escape keep him going, but how can he possibly bust out of Munsey's chains?",
+        "popularity": 20.931,
+        "poster_path": "/xgmmXFbioGOXZTou2FS44yKa54r.jpg",
+        "release_date": "1947-07-16",
+        "title": "Brute Force",
+        "video": false,
+        "vote_average": 7.302,
+        "vote_count": 179
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ieSHpjcQ0x6aV4HW2No6bJ3TyOi.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 471859,
+        "original_language": "en",
+        "original_title": "Charlie Says",
+        "overview": "Three young women were sentenced to death in the infamous Manson murder case, but when the death penalty was lifted, their sentence became life imprisonment. One young graduate student was sent in to teach them – and through her we witness their transformations as they face the reality of their horrific crimes.",
+        "popularity": 20.929,
+        "poster_path": "/nwYDXLQpPULdUbwkTc4gWpMJufn.jpg",
+        "release_date": "2019-05-10",
+        "title": "Charlie Says",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 205
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lIWbyPbnUUJPUvzwIN4BaeEGIgU.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 13573,
+        "original_language": "en",
+        "original_title": "The United States of Leland",
+        "overview": "A withdrawn young man, Leland Fitzgerald is imprisoned for the murder of a mentally disabled boy, who also happened to be the brother of his girlfriend, Becky. As the community struggles to deal with the killing, Pearl Madison, a teacher at the prison, decides to write about Leland's case. Meanwhile, others affected by the murder, including Becky and her sister, Julie, must contend with their own problems.",
+        "popularity": 20.925,
+        "poster_path": "/60B0kXNSy3isCSZtM3vl2GWeKdE.jpg",
+        "release_date": "2003-05-15",
+        "title": "The United States of Leland",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 306
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qjXyAWVOYp8t6x22OtTTz6misK4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 158739,
+        "original_language": "en",
+        "original_title": "Blue Caprice",
+        "overview": "A narrative feature film inspired by the events known as the Beltway sniper attacks.",
+        "popularity": 20.92,
+        "poster_path": "/cb26MlJHJkgXXsBMYTURhrJ0vB2.jpg",
+        "release_date": "2013-09-12",
+        "title": "Blue Caprice",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 98
+    }
+]

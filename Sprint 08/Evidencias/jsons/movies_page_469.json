@@ -1,0 +1,395 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 906234,
+        "original_language": "cn",
+        "original_title": "黑社會.com",
+        "overview": "Brought up in a small walled village of Hong Kong, three friends are street fighters thirsty for great fame in the triad society.",
+        "popularity": 7.273,
+        "poster_path": "/iEAwpuM3HH5FRWeqp4DIwNvNdUA.jpg",
+        "release_date": "2000-10-28",
+        "title": "Mafia.com",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            10770,
+            53
+        ],
+        "id": 193146,
+        "original_language": "en",
+        "original_title": "Mystery Woman: Mystery Weekend",
+        "overview": "She's an avid mystery lover and bookseller, for whom crime has been comfortably confined to the pages of her favorite novels-until a real-life murder turns a weekend of fun and games into a chilling whodunit...",
+        "popularity": 7.273,
+        "poster_path": "/y0WKNp2DTGx8wmDMFH8d64bqHCo.jpg",
+        "release_date": "2005-01-07",
+        "title": "Mystery Woman: Mystery Weekend",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 181577,
+        "original_language": "en",
+        "original_title": "Orthodox",
+        "overview": "Orthodox tells the story of Benjamin, an Orthodox Jewish man who alienated himself from his community by becoming a boxer. When his life took a wrong turn he ended up in prison, losing his wife and children in the process. Now he is out and desperate to reintegrate, he finds that acceptance harder than he ever imagined. He turns back to his old boxing coach thinking there he has an ally, but a truth about the past emerges which leaves him even more isolated than he once thought. Benjamin must make a choice which will effect not just his own future but the life of a young Jewish boy whose life he can relate to. He is determined not to allow history to repeat itself.",
+        "popularity": 7.273,
+        "poster_path": "/ndDo27jxn0YP1E18LaOvYEDj5qj.jpg",
+        "release_date": "2015-11-11",
+        "title": "Orthodox",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/38SGQwXNPRI14aP7AhrRoHS8V34.jpg",
+        "genre_ids": [
+            9648,
+            27,
+            80
+        ],
+        "id": 425238,
+        "original_language": "en",
+        "original_title": "Citrus Springs",
+        "overview": "An inexperienced detective and a psychologist must learn to work together to stop a masked killer who's terrorizing their small town.",
+        "popularity": 7.272,
+        "poster_path": "/lFxmsfqXBPQ4hcqQXXzeGw0XIQp.jpg",
+        "release_date": "2016-05-17",
+        "title": "Citrus Springs",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 196847,
+        "original_language": "it",
+        "original_title": "La Legge Violenta Della Squadra Anticrimine",
+        "overview": "A mobster kills a cop during a robbery and then finds himself pursued by the police, his gang, and the media.",
+        "popularity": 7.272,
+        "poster_path": "/6A54hpLxOizvjInPGYWcPS13dBL.jpg",
+        "release_date": "1976-12-30",
+        "title": "Cross Shot",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            27,
+            9648,
+            80
+        ],
+        "id": 89543,
+        "original_language": "en",
+        "original_title": "Paint It Black",
+        "overview": "A California metal sculptor becomes a suspect after someone kills his gallery-owner lover.",
+        "popularity": 7.272,
+        "poster_path": "/vCcbMWMcFPTC2FRiy3aiRFq6EhS.jpg",
+        "release_date": "1990-03-28",
+        "title": "Paint It Black",
+        "video": false,
+        "vote_average": 2.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qFVBzz29GllQwTeRgwi6EQnUEcA.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 28157,
+        "original_language": "en",
+        "original_title": "Crime Without Passion",
+        "overview": "Caddish lawyer Lee Gentry is going out with Katy Costello, but carrying on an affair with dancer Carmen Brown. When he wants to end the dalliance with Carmen, she is so distraught that she becomes suicidal. Seizing the gun from Carmen, he accidentally shoots her, and thinking she's dead, concocts a series of increasingly outlandish alibis to cover his tracks under the guidance of a ghostly apparition that is his alter ego.",
+        "popularity": 7.271,
+        "poster_path": "/oSVdGVI4hu3M6130JyRf7pxyel2.jpg",
+        "release_date": "1934-08-30",
+        "title": "Crime Without Passion",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4AYXvM7QNQ4R1cu5XFqud9D7EHf.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 511367,
+        "original_language": "en",
+        "original_title": "49 Pulses",
+        "overview": "Utilizing survivor interviews, re-enactments, and police body cameras, this documentary examines the Orlando Night Club shooting, one of the worst mass shootings in U.S. history.",
+        "popularity": 7.27,
+        "poster_path": "/wBIrWxFQVWUancFkaypigfZiwBV.jpg",
+        "release_date": "2017-09-22",
+        "title": "49 Pulses",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2mWy7TpVzPSlbNVKtFDVkOak4uI.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 385371,
+        "original_language": "en",
+        "original_title": "The Midnight Man",
+        "overview": "When Grady, an assassin with a genetic disorder that renders him unable to feel pain, is sent on a high-stakes assignment, his world is turned upside-down after an attack when he awakens to discover that he can feel pain for the first time in his life. With the clock ticking and his greatest asset gone, Grady will go head-to-head with his greatest fears and unspeakable enemies, while experiencing a tactile world he never could have imagined.",
+        "popularity": 7.27,
+        "poster_path": "/mCViGoJkLvTKWJDHCTgm54DW09w.jpg",
+        "release_date": "2016-03-01",
+        "title": "The Midnight Man",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dnK23VxDlO9211GWUlQkrE75JtL.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53,
+            10770,
+            18
+        ],
+        "id": 89258,
+        "original_language": "en",
+        "original_title": "Mystery Woman: Redemption",
+        "overview": "Samantha Kinsey is the owner of the Mystery Woman bookstore and an expert in criminology. This time she will have to solve the murder of a war veteran. As always, she will face the police chief Connor, who will try by all means to derail the investigation of Samantha and her friend, the district attorney.",
+        "popularity": 7.27,
+        "poster_path": "/uwzmnijy6kMgMq1weH3MWBBzToP.jpg",
+        "release_date": "2006-11-06",
+        "title": "Mystery Woman: Redemption",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pK49zWxEOtBvkdbGs3v1vCsoigj.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 995923,
+        "original_language": "th",
+        "original_title": "อาชญาเกม",
+        "overview": "In a world where ranking determines the value of a player, a gang of skilled gamers find a quick way to get rich by breaking the rules.",
+        "popularity": 7.269,
+        "poster_path": "/py4Lsukqtkzx0cjusdEKbYXOE42.jpg",
+        "release_date": "2022-09-01",
+        "title": "The Up Rank",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jHjM7FNdW9DyWx83Zaal5KClMCq.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 89723,
+        "original_language": "en",
+        "original_title": "The Gorilla",
+        "overview": "When an escaped circus gorilla appears to have gone on a murderous rampage, a threatened attorney calls on the detective trio of Garrity, Harrigan and Mullivan to act as bodyguards.  In short order, we discover that there is more to the attorney than meets the eye, and the ape may be innocent after all.  When a pretty young heiress faces peril, it's up to our heroic trio to save the day.",
+        "popularity": 7.269,
+        "poster_path": "/1SoQjbhbjWnqtbXWoZ4ha9qUBLz.jpg",
+        "release_date": "1939-05-26",
+        "title": "The Gorilla",
+        "video": false,
+        "vote_average": 4.864,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qKpougHofM4Gagv1Qp8DAW3Sz4z.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 38821,
+        "original_language": "fi",
+        "original_title": "Häjyt",
+        "overview": "Häjyt tells a story of two friends who have a hard time finding their place in the society. Antti and Jussi are released from jail. While they were doing time for bank robbery, the third man involved in the robbery, the one who was not convicted, has become a policeman. He tries to help his friends to settle into the small town in Pohjanmaa, but the boys start a black market liquor business instead. The road seems to lead back to the jail.",
+        "popularity": 7.269,
+        "poster_path": "/gIyzNrM8BnyuB6guykvlXhsbkX1.jpg",
+        "release_date": "1999-01-15",
+        "title": "The Tough Ones",
+        "video": false,
+        "vote_average": 6.579,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/edGtcbLf2xXIyOGHrVA0uQ1dNFq.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1243990,
+        "original_language": "it",
+        "original_title": "Banksy e la ragazza del Bataclan",
+        "overview": "The exit door of the Bataclan theatre, the site of Bansky's mural, The Sad Girl, is stolen mysteriously. After it abruptly appears on of a hillside cottage in Abruzzo, French and Italian investigators unite to get to the bottom of the theft.",
+        "popularity": 7.268,
+        "poster_path": "/5hpEg5TTBu5Lhfbz66YFTCgpFLZ.jpg",
+        "release_date": "2023-11-26",
+        "title": "Banksy and the Stolen Girl",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 1277908,
+        "original_language": "en",
+        "original_title": "The Ordained",
+        "overview": "About the son of a Kennedy-esque family who leaves the priesthood and becomes a lawyer to prevent his politician sister from being assassinated.",
+        "popularity": 7.267,
+        "poster_path": null,
+        "release_date": "2013-06-01",
+        "title": "The Ordained",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zfqR8U8DIum7V6ZkGe2am8xhQYS.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1013247,
+        "original_language": "bn",
+        "original_title": "Mirza",
+        "overview": "A child named Mirza joins the crime world and gradually rises to power. Violence erupts as ganglords try to bring Mirza down.",
+        "popularity": 7.267,
+        "poster_path": "/lHtcP2Bcvl9X9TyAa6acxiUAAAC.jpg",
+        "release_date": "2024-04-11",
+        "title": "Mirza: Part 1 - Joker",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2IeTMvVB1XhivTtTfOvsmniIcUk.jpg",
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 152373,
+        "original_language": "es",
+        "original_title": "El violador infernal",
+        "overview": "A notorious killer dies in the electric chair in a maximum security prison. So great was his evil that Satan offers him a deal. He will get to go back to Earth as long as he sacrifices people to the devil and carves 666 on them somewhere. The guy, of course, accepts and gets reborn in the body of a drug dealer. He begins a trail of carnage that lasts throughout the movie.",
+        "popularity": 7.266,
+        "poster_path": "/7qXCcZS2fVJmxoTKs0eyyHthOUC.jpg",
+        "release_date": "1988-01-01",
+        "title": "The Infernal Rapist",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ckxiLOhJ1jjQcrW4bq41Vx4FvUA.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 99865,
+        "original_language": "en",
+        "original_title": "Lord Jeff",
+        "overview": "Spoiled child Geoffrey Bramer teams up with a pair of small time crooks to pose as an aristocrat and steal jewelry from exclusive shops. During a a caper, Geoffrey is caught and is sentenced to a reformatory where young men are trained to be sailors. He is befriended by model in-mate Terry O'Mulvaney but soon starts to get them both in trouble.",
+        "popularity": 7.266,
+        "poster_path": "/x2EYZ88Q6y4qzv20lu4FfNDrApN.jpg",
+        "release_date": "1938-06-17",
+        "title": "Lord Jeff",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/neGYVfOMk66ZyoMnjSTgzsplFOX.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 44767,
+        "original_language": "ja",
+        "original_title": "陽気なギャングが地球を回す",
+        "overview": "Four strangers (a verbose romantic, a human lie detector, an expert pickpocket, and a woman with a preternaturally precise sense of time) are brought together by chance when they inadvertently team up to thwart a bank robbery. Recognizing the potential of their combined talents, they decide to form a bank-robbing gang themselves, just for the fun and romance of it. Their heists are played out swiftly and coolly, less like robberies than performance art. Eventually, the foursome's good-natured crime streak is interrupted when a man from one of their pasts creates a whirlwind of extortion and double crossing.",
+        "popularity": 7.266,
+        "poster_path": "/eRSulH9QhoJ3oglvJlrOTS8hltA.jpg",
+        "release_date": "2006-05-13",
+        "title": "A Cheerful Gang Turns the Earth",
+        "video": false,
+        "vote_average": 5.636,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/I2WkXSAnHyuSUtQK7v9bvfrvCC.jpg",
+        "genre_ids": [
+            10770,
+            18,
+            80
+        ],
+        "id": 1191665,
+        "original_language": "en",
+        "original_title": "Killing for Extra Credit",
+        "overview": "When a mysterious social media account begins to post blind items about the scandals of a small town high school, a troubled teen and her best friend set out to unmask the culprit – with deadly consequences…",
+        "popularity": 7.265,
+        "poster_path": "/lwVUsIOeXO1SThtyiwq1BivegpU.jpg",
+        "release_date": "2024-01-01",
+        "title": "Killing for Extra Credit",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+    }
+]

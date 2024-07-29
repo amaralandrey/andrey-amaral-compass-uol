@@ -1,0 +1,407 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/wEsLwLxOyeSZhq9MJSFd7VJBH2z.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            28,
+            35
+        ],
+        "id": 1059064,
+        "original_language": "en",
+        "original_title": "The Instigators",
+        "overview": "Rory and Cobby are unlikely partners thrown together for a heist. But when it goes awry, they team up to outrun police, backward bureaucrats, and a vengeful crime boss.",
+        "popularity": 40.574,
+        "poster_path": "/pIz9csYn1yjrzQi0BuBZNJrTMi0.jpg",
+        "release_date": "2024-08-02",
+        "title": "The Instigators",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oeBom7DLr85lixEkWOGmhCPEfuY.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 842942,
+        "original_language": "en",
+        "original_title": "Bandit",
+        "overview": "After escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a rogue task force. Based on the story of The Flying Bandit.",
+        "popularity": 40.571,
+        "poster_path": "/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg",
+        "release_date": "2022-09-23",
+        "title": "Bandit",
+        "video": false,
+        "vote_average": 6.199,
+        "vote_count": 312
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iRoXulumL5AQHtjLZoUNHzY4IcV.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 203,
+        "original_language": "en",
+        "original_title": "Mean Streets",
+        "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob.",
+        "popularity": 40.555,
+        "poster_path": "/2t6RrPFGJjeKvI02OhKAg75bQUI.jpg",
+        "release_date": "1973-10-14",
+        "title": "Mean Streets",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 2023
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bPVCkI1NVHNuAdD9OB5NFHgOSXk.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 8409,
+        "original_language": "en",
+        "original_title": "A Man Apart",
+        "overview": "When Vetter's wife is killed in a botched hit organized by Diablo, he seeks revenge against those responsible. But in the process, Vetter and Hicks have to fight their way up the chain to get to Diablo but it's easier said than done when all Vetter can focus on is revenge.",
+        "popularity": 40.541,
+        "poster_path": "/z0JUBNk4BTBmeMOudrRH9GnOmK0.jpg",
+        "release_date": "2003-04-04",
+        "title": "A Man Apart",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 856
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6nHHDgXW69eb0h9SXa2E1TtfJys.jpg",
+        "genre_ids": [
+            53,
+            28,
+            878,
+            80
+        ],
+        "id": 9349,
+        "original_language": "en",
+        "original_title": "Universal Soldier",
+        "overview": "An American soldier who had been killed during the Vietnam War is revived 25 years later by the military as a semi-android, UniSols, a high-tech soldier of the future. After the failure of the initiative to erase all the soldier's memories, he begins to experience flashbacks that are forcing him to recall his past.",
+        "popularity": 40.471,
+        "poster_path": "/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg",
+        "release_date": "1992-07-10",
+        "title": "Universal Soldier",
+        "video": false,
+        "vote_average": 6.293,
+        "vote_count": 1641
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/56knNwOBGYfU1xRm94lQluuREv3.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 66,
+        "original_language": "en",
+        "original_title": "Absolute Power",
+        "overview": "A master thief coincidentally is robbing a house where a murder—in which the President of the United States is involved—occurs in front of his eyes. He is forced to run, while holding evidence that could convict the President.",
+        "popularity": 40.414,
+        "poster_path": "/xX9gmwtnTi0Y8WcTF7Jsg9Hdp6W.jpg",
+        "release_date": "1997-02-14",
+        "title": "Absolute Power",
+        "video": false,
+        "vote_average": 6.648,
+        "vote_count": 1053
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kBWPHSszi8jKLqW5tMaQV1bISB2.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 18487,
+        "original_language": "en",
+        "original_title": "The Taking of Pelham 1 2 3",
+        "overview": "Armed men hijack a New York City subway train, holding the passengers hostage in return for a ransom, and turning an ordinary day's work for dispatcher Walter Garber into a face-off with the mastermind behind the crime.",
+        "popularity": 40.403,
+        "poster_path": "/bNbyjzhzJVadpWIQPb57ddWWdWI.jpg",
+        "release_date": "2009-06-10",
+        "title": "The Taking of Pelham 1 2 3",
+        "video": false,
+        "vote_average": 6.353,
+        "vote_count": 3029
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wb1hz8m3snCBN1wdF3SZxrdKgRH.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80
+        ],
+        "id": 488623,
+        "original_language": "ko",
+        "original_title": "기억의 밤",
+        "overview": "Seoul, South Korea, 1997. When the young but extremely anxious student Jin-seok, his parents and his successful older brother Yoo-seok move to a new home, mysterious and frightening events begin to happen around them, unexplained events that threaten to ruin their seemingly happy lives. Unable to understand what is happening, Jin-seok wonders if he is losing his mind.",
+        "popularity": 40.388,
+        "poster_path": "/cBgj41y1RvmW1zJCEX0uNWL0UjW.jpg",
+        "release_date": "2017-11-29",
+        "title": "Forgotten",
+        "video": false,
+        "vote_average": 7.981,
+        "vote_count": 1022
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dGm3XpCrvwU7DmMz7UFViJtKAYg.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 2749,
+        "original_language": "en",
+        "original_title": "15 Minutes",
+        "overview": "When Eastern European criminals Oleg and Emil come to New York City to pick up their share of a heist score, Oleg steals a video camera and starts filming their activities, both legal and illegal. When they learn how the American media circus can make a remorseless killer look like the victim and make them rich, they target media-savvy NYPD Homicide Detective Eddie Flemming and media-naive FDNY Fire Marshal Jordy Warsaw, the cops investigating their murder and torching of their former criminal partner, filming everything to sell to the local tabloid TV show \"Top Story.\"",
+        "popularity": 40.386,
+        "poster_path": "/bZ7Xx15zZdDzbKFKl4ULEJ11hWu.jpg",
+        "release_date": "2001-03-01",
+        "title": "15 Minutes",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 692
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ekZUWo5XtSrfe10RKWrL0YKkq9b.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80
+        ],
+        "id": 1043565,
+        "original_language": "en",
+        "original_title": "Mindcage",
+        "overview": "Detectives Jake Doyle and Mary Kelly seek the help of an incarcerated serial killer named The Artist when a copycat killer strikes. While Mary searches for clues in The Artist's brilliant but twisted psyche, she and Jake are lured into a diabolical game of cat and mouse, racing against time to stay one step ahead of The Artist and his copycat.",
+        "popularity": 40.364,
+        "poster_path": "/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg",
+        "release_date": "2022-12-16",
+        "title": "Mindcage",
+        "video": false,
+        "vote_average": 6.061,
+        "vote_count": 270
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tKyxF6ZyxF65CcJKBKId1VavpGP.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            35,
+            80
+        ],
+        "id": 10403,
+        "original_language": "en",
+        "original_title": "The Player",
+        "overview": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?",
+        "popularity": 40.329,
+        "poster_path": "/p4ys4a4yASjKuWzsNWY1B7xP5kZ.jpg",
+        "release_date": "1992-04-03",
+        "title": "The Player",
+        "video": false,
+        "vote_average": 7.208,
+        "vote_count": 777
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oVnMghpFl2avQ39LnmfsuZMciLR.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            27
+        ],
+        "id": 1115377,
+        "original_language": "da",
+        "original_title": "Englemageren",
+        "overview": "'The Angel Maker' is a psychological crime thriller following Laura, a cyber crimes detective pursuing a brutal serial killer.",
+        "popularity": 40.328,
+        "poster_path": "/xkbL9BliHIZN4hjoyQeWt9v1rLY.jpg",
+        "release_date": "2023-06-08",
+        "title": "The Angel Maker",
+        "video": false,
+        "vote_average": 5.333,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tFmrdnfXM0p6ihMTFpptYOKEfSl.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18,
+            10749
+        ],
+        "id": 8867,
+        "original_language": "en",
+        "original_title": "The Punisher",
+        "overview": "The avenging angel of Marvel Comics fame comes brilliantly to life in this searing action-adventure thriller! Dolph Lundgren stars as Frank Castle, a veteran cop who loses his entire family to a mafia car bomb. His ex-partner believes Castle survived the blast and became the Punisher, living in the sewers and exacting vigilante violence against mob bosses throughout the city. When the populace is caught in the midst of a gang war that he caused, Castle must again emerge from the shadows and save the innocent.",
+        "popularity": 40.325,
+        "poster_path": "/tA0O0hYyHX7Hl2Fl8VEtGtfBtjI.jpg",
+        "release_date": "1989-10-05",
+        "title": "The Punisher",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 566
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aBCn1z1tJGivVhY1nHSrXOQqQwG.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35
+        ],
+        "id": 40805,
+        "original_language": "en",
+        "original_title": "The Green Hornet",
+        "overview": "Britt Reid, the heir to the largest newspaper fortune in Los Angeles, is a spoiled playboy who has been, thus far, happy to lead an aimless life. After his father dies, Britt meets Kato, a resourceful company employee. Realizing that they have the talent and resources to make something of their lives, Britt and Kato join forces as costumed crime-fighters to bring down the city's most-powerful criminal, Chudnofsky.",
+        "popularity": 40.319,
+        "poster_path": "/q1fXWEoZXogYjAUy32pUc6NL2IH.jpg",
+        "release_date": "2011-01-12",
+        "title": "The Green Hornet",
+        "video": false,
+        "vote_average": 5.591,
+        "vote_count": 3144
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yjf0RWXeZ0FyStOD5e0i0KlnBVE.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1291143,
+        "original_language": "en",
+        "original_title": "How to Rob a Bank",
+        "overview": "In this true-crime documentary, a charismatic rebel in 1990s Seattle pulls off an unprecedented string of bank robberies straight out of the movies.",
+        "popularity": 40.313,
+        "poster_path": "/3JuBviwcumsNZtC7qZjMzyKFtJy.jpg",
+        "release_date": "2024-06-04",
+        "title": "How to Rob a Bank",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 654,
+        "original_language": "en",
+        "original_title": "On the Waterfront",
+        "overview": "Terry Malloy is a kindhearted dockworker, and former boxer, who is tricked by his corrupt bosses into leading his friend to death. After falling in love, he tries to leave the waterfront and expose his employers.",
+        "popularity": 40.312,
+        "poster_path": "/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+        "release_date": "1954-06-22",
+        "title": "On the Waterfront",
+        "video": false,
+        "vote_average": 7.932,
+        "vote_count": 1527
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iKO7UEnXJUumjbjNwP4719n7vds.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            10749,
+            18
+        ],
+        "id": 916,
+        "original_language": "en",
+        "original_title": "Bullitt",
+        "overview": "Senator Walter Chalmers is aiming to take down mob boss Pete Ross with the help of testimony from the criminal's hothead brother Johnny, who is in protective custody in San Francisco under the watch of police lieutenant Frank Bullitt. When a pair of mob hitmen enter the scene, Bullitt follows their trail through a maze of complications and double-crosses. This thriller includes one of the most famous car chases ever filmed.",
+        "popularity": 40.309,
+        "poster_path": "/aauwHIvtTtOIID5LUKnRn7jLiUV.jpg",
+        "release_date": "1968-10-17",
+        "title": "Bullitt",
+        "video": false,
+        "vote_average": 7.155,
+        "vote_count": 1093
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vMeIYrazqkcESPW7IGAUXbnKbzI.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 10651,
+        "original_language": "en",
+        "original_title": "The Dead Pool",
+        "overview": "Dirty Harry Callahan returns for his final film adventure. Together with his partner Al Quan, he must investigate the systematic murder of actors and musicians. By the time Harry learns that the murders are a part of a sick game to predict the deaths of celebrities before they happen, it may be too late...",
+        "popularity": 40.293,
+        "poster_path": "/mqwGpW0Ptrvz1GmfCnLAOA4cQ8g.jpg",
+        "release_date": "1988-07-13",
+        "title": "The Dead Pool",
+        "video": false,
+        "vote_average": 6.267,
+        "vote_count": 805
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sNACthNvOoSTJxo240N5sqa67ip.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 553,
+        "original_language": "en",
+        "original_title": "Dogville",
+        "overview": "When a beautiful young Grace arrives in the isolated township of Dogville, the small community agrees to hide her from a gang of ruthless gangsters, and, in return, Grave agrees to do odd jobs for the townspeople.",
+        "popularity": 40.281,
+        "poster_path": "/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+        "release_date": "2003-05-21",
+        "title": "Dogville",
+        "video": false,
+        "vote_average": 7.776,
+        "vote_count": 2353
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3T23wNGVoj9aVrs5Usj839STgzZ.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 58412,
+        "original_language": "cn",
+        "original_title": "洗黑錢",
+        "overview": "An ex-cop and divorce lawyer team up with a gangster to clear their names after getting involved in a dirty money scheme led by a vicious money launderer, who plans to expand his business and wipe out anyone who stands in his way.",
+        "popularity": 40.272,
+        "poster_path": "/wAyIEvkeNlvhXR2y5UzDhRePE7C.jpg",
+        "release_date": "1990-08-11",
+        "title": "Tiger Cage II",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 27
+    }
+]

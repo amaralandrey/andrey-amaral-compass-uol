@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 57743,
+        "original_language": "en",
+        "original_title": "The Learning Curve",
+        "overview": "Paul and Georgia are lovers, soul mates...and partners in crime. But when this duplicitous duo tries to dupe the wrong man, they are ensnared in a world more dangerous than they could ever have imagined. Seduced into working for him on dangerous jobs beyond their small-time capability, Paul and Georgia suddenly have everything they've ever wanted...and even more to lose.",
+        "popularity": 7.759,
+        "poster_path": "/v7KKkf5wbcZpcjJdsNrIzkc9QfF.jpg",
+        "release_date": "2001-10-05",
+        "title": "The Learning Curve",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wAVc5TrgLVnmgTznRtIusa9e4h0.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 400800,
+        "original_language": "en",
+        "original_title": "Heartaches",
+        "overview": "Up-and-coming Hollywood actor/crooner, Vic Morton, has a secret. He starts receiving death threats in the mail and an attempt on his life is made. Soon after, two of his associates are murdered. Who is behind it all?",
+        "popularity": 7.757,
+        "poster_path": "/4F7roM8PeVjRtx8v2b7kRu9vsKN.jpg",
+        "release_date": "1947-06-28",
+        "title": "Heartaches",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/47r7DXXgzV9McMHaAfMStdoKM7T.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 322771,
+        "original_language": "sv",
+        "original_title": "Johan Falk: Ur askan i elden",
+        "overview": "Falk is blackmailed into smuggling a truckload of guns from Latvia.",
+        "popularity": 7.757,
+        "poster_path": "/1trQY5Q02a8N4ClCqmTMjRSgHFg.jpg",
+        "release_date": "2015-06-29",
+        "title": "Johan Falk: From the Ashes into the Fire",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pVrQkuSwxeQtvdtgJlnGPTJjygv.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 38395,
+        "original_language": "en",
+        "original_title": "Scene of the Crime",
+        "overview": "A cop investigates the shooting of another policeman... that may have been involved in crooked activities.",
+        "popularity": 7.757,
+        "poster_path": "/dLKT3qon0ZtIlUVt0jmlWPnVnTG.jpg",
+        "release_date": "1949-07-28",
+        "title": "Scene of the Crime",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648,
+            10749
+        ],
+        "id": 37519,
+        "original_language": "en",
+        "original_title": "Confessions",
+        "overview": "Confessions of a Call Girl is a revealing story of a women's struggle for balance as she battles a secret addiction while fighting to save her family and find herself.",
+        "popularity": 7.756,
+        "poster_path": "/i7zNtJet93MZlE9R1mbvpP1kGl4.jpg",
+        "release_date": "2006-07-23",
+        "title": "Confessions",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 105696,
+        "original_language": "en",
+        "original_title": "The Walking Target",
+        "overview": "An ex-con finds unexpected romance with the widow of his former accomplice as he tries to collect his hidden loot.",
+        "popularity": 7.755,
+        "poster_path": "/2Qc5Y1GiSuQt2LcfbPodzUXsJtK.jpg",
+        "release_date": "1960-10-01",
+        "title": "The Walking Target",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2fL9ioYhFC9DINkaQUjASl2Qj7X.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 735936,
+        "original_language": "ja",
+        "original_title": "非行少女ヨーコ",
+        "overview": "Easily bored, but still innocent and naive countryside girl (Mako Midori) discovers partying in Tokyo is a ton of fun. Yakuza-to-be (Ichiro Araki) is an acquaintance who tries to rape her, and the typically bland but very-good-here (Hayato Tani) the first boyfriend. Director Yasuo Furuhata (his first picture) lets his camera roll in trendy clubs amongst partying youngsters in a way that could've been out of 60s England or a Nikkatsu film.",
+        "popularity": 7.754,
+        "poster_path": "/j5tOsPZxr5aLgqQYtXc2G85w89A.jpg",
+        "release_date": "1966-03-19",
+        "title": "Pretty Devil Yoko",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o15wsyUJW3wOo22O8ModGwMn2wJ.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53,
+            80
+        ],
+        "id": 89652,
+        "original_language": "it",
+        "original_title": "Quelli della calibro 38",
+        "overview": "The city of Turin is in the grip of a brutal crime boss known as \"Il Marsigliese\" and plenty of cops have good cause to want him dead — none more than Inspector Vanni, whose wife was murdered by the ruthless gangster. Having exhausted every other avenue, Vanni forms a crack squad of motorcycle-riding, Colt .38-toting elite officers, tasked with meting out justice on the margins of the law. But when \"Il Marsigliese\" launches a bombing campaign designed to extort a vast ransom from the city's authorities, Vanni finds himself in a race against time to exact his revenge and avert disaster.",
+        "popularity": 7.754,
+        "poster_path": "/lbWogWBxlyem3O4g0Htjvpq7bNB.jpg",
+        "release_date": "1976-07-24",
+        "title": "Colt 38 Special Squad",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mlDbuzMKmjSyvwjiLurJyCxyKjU.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 782724,
+        "original_language": "sv",
+        "original_title": "Beck - Den förlorade sonen",
+        "overview": "A jawbone is found in the middle of the forest. When the rest of the body is found, it turns out that it has just recently been moved and belongs to Viktor Eklund, who has been missing for five years.",
+        "popularity": 7.753,
+        "poster_path": "/klUcqApIE3HIew4i0SP3Imzzjea.jpg",
+        "release_date": "2021-02-05",
+        "title": "Beck - Den förlorade sonen",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 294323,
+        "original_language": "fr",
+        "original_title": "Effraction",
+        "overview": "During a robbery that goes wrong, Valentin Tralande kills his accomplices and bank customers.",
+        "popularity": 7.752,
+        "poster_path": "/koovWO32G20S7AxBv5TIL13K4RG.jpg",
+        "release_date": "1983-04-06",
+        "title": "Effraction",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c3RS6P2kjrCcECP7B2qXmwNDQFW.jpg",
+        "genre_ids": [
+            80,
+            35,
+            28
+        ],
+        "id": 107059,
+        "original_language": "fr",
+        "original_title": "Gomez & Tavarès",
+        "overview": "Two very different cops are forced to work together...",
+        "popularity": 7.752,
+        "poster_path": "/oA6zYHxhRFnCr7YEmJY3vPfUYlb.jpg",
+        "release_date": "2003-05-07",
+        "title": "Payoff",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gGnv0KcOOAy0Ynyx89Pthzttl3b.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 261004,
+        "original_language": "it",
+        "original_title": "Sequestro di persona",
+        "overview": "Christina Fisher arrives in Sardinia to spend a holiday with her university friend, Francesco. As they are touring the island, they are trapped by mountain terrorists. Francesco is kidnapped, but Christina is permitted to leave. She is determined to contact the police, but is persuaded not to by Francesco's best friend, Gambino. Together they try to find the kidnappers, but she becomes suspicious of everyone including Gambino. Confused and paranoid, she sets out alone to contact the police.",
+        "popularity": 7.75,
+        "poster_path": "/35B7vUPKWxNC6U2IXDSlixUDMZN.jpg",
+        "release_date": "1968-03-14",
+        "title": "Sardinia Kidnapped",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m7RZNwiFYfiXqPph2KkCJDduP3f.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 45622,
+        "original_language": "en",
+        "original_title": "Leslie, My Name Is Evil",
+        "overview": "A young jury member becomes infatuated with Leslie, a troubled teenager and former homecoming princess, who became a follower of Charles Manson's cult and is now on trial for murder.",
+        "popularity": 7.75,
+        "poster_path": "/e3l3onOJlGgyzrMIiGX3a8EjgCX.jpg",
+        "release_date": "2009-09-14",
+        "title": "Leslie, My Name Is Evil",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jJrjymdevein32XxF09Z8YtMvT4.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 1042054,
+        "original_language": "ta",
+        "original_title": "கொன்றால் பாவம்",
+        "overview": "A fortune teller tells a poverty-stricken family that their fate will change overnight when a mysterious traveler visits there home to stay overnight.",
+        "popularity": 7.749,
+        "poster_path": "/lA5o8XFUlk1MvtuISjuSfs8bKxD.jpg",
+        "release_date": "2023-03-10",
+        "title": "Kondraal Paavam",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ttUKvuf0Pv1LLQZTC95leT5lbN8.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 159226,
+        "original_language": "en",
+        "original_title": "Hotel Continental",
+        "overview": "Scheduled for demolition, Hotel Continental has seen 50 years of romance, intrigue, and tragedy. The last night attracts many nostalgic patrons, including a gangster planning to grab the loot that he hid there many years ago.",
+        "popularity": 7.749,
+        "poster_path": "/3SKqzgEdiSPUDW9vnWyurLXbabi.jpg",
+        "release_date": "1932-02-21",
+        "title": "Hotel Continental",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6LQBk4SpBrYeQfFeg1ZGASXVvkG.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 219846,
+        "original_language": "en",
+        "original_title": "Outrage!",
+        "overview": "After a technicality results in the release of a man being tried for the rape and murder of a young woman, her father murders the man. Admitting his guilt and refusing to use temporary insanity, the father places his attorney in a virtual no-win situation. In an extreme effort, the attorney decides to call the judge who released the murderer originally and to challenge the entire legal system that would permit such a travesty.",
+        "popularity": 7.748,
+        "poster_path": "/j1DhUDBzJtdFjtyP6Vlw04lDBjv.jpg",
+        "release_date": "1986-01-01",
+        "title": "Outrage!",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/epseta9NxR0dyBbqTdGgEnW0Rgi.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 87612,
+        "original_language": "en",
+        "original_title": "You Can't Get Away with Murder",
+        "overview": "Johnnie learns crime from petty thug Frank Wilson. When Wilson kills a pawnbroker with a gun stolen from Johnnie's sister Madge's fiance Fred Burke, Fred goes to Sing Sing's death house. Wilson uses all the pressure can to keep Johnnie silent, even after he and Johnnie themselves wind up in the big house.",
+        "popularity": 7.748,
+        "poster_path": "/9AqCXB4RksSsU0hk8QpGGyW4qe.jpg",
+        "release_date": "1939-03-23",
+        "title": "You Can't Get Away with Murder",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aRQ7sDPGdYis7AicVlxfVyAearP.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 75978,
+        "original_language": "fr",
+        "original_title": "L'Arme à gauche",
+        "overview": "Jacques Cournot, an experienced skipper, is hired to arrange the purchase of a boat belonging to an American heiress in the Caribbean. When the boat disappears and corpses wash up on shore alongside evidence of arms trafficking, Cournot realizes he has been framed.",
+        "popularity": 7.748,
+        "poster_path": "/9u36TDj1aw6tPyex5PQC30DbHlu.jpg",
+        "release_date": "1965-06-18",
+        "title": "The Dictator's Guns",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qnyzb8SLeLz8spsT6XLyFYCi7ME.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1186947,
+        "original_language": "pt",
+        "original_title": "Bandida: A Número Um",
+        "overview": "At the age of nine, Rebeca is sold by her grandmother to the bookseller who ran Rocinha. Disputed by bicheiros and drug dealers, the community is going through changes in power. Rebeca becomes the wife of the chief drug dealer and, with the death of her partner, his successor. The electrifying trajectory of crime, violence, drugs and love of a female drug kingpin in Rocinha, Rio de Janeiro in the 1980s.",
+        "popularity": 7.747,
+        "poster_path": "/x1n3ZFBR7yuWrmts7GRZIcUtTVo.jpg",
+        "release_date": "2024-06-20",
+        "title": "Bandida: A Número Um",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lMCifuTi0mWFHfyUoJSeQ5R3JjX.jpg",
+        "genre_ids": [
+            27,
+            80,
+            9648,
+            53
+        ],
+        "id": 86667,
+        "original_language": "en",
+        "original_title": "Grip of the Strangler",
+        "overview": "A researcher investigating a notorious serial killer who was hanged 20 years earlier seemingly becomes possessed by the long dead strangler.",
+        "popularity": 7.747,
+        "poster_path": "/5RdrW6vghcqyyEQ8pqeAHSxfy2k.jpg",
+        "release_date": "1958-05-11",
+        "title": "Grip of the Strangler",
+        "video": false,
+        "vote_average": 5.944,
+        "vote_count": 36
+    }
+]

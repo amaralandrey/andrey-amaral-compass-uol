@@ -1,0 +1,408 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/4wIpKGLatMiSAjTCRkDWMxGiAOU.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 346658,
+        "original_language": "is",
+        "original_title": "Eiðurinn",
+        "overview": "When his daughter's criminal boyfriend becomes an increasing threat to the family, a father must take action to protect them.",
+        "popularity": 17.648,
+        "poster_path": "/aNYmpfY4L9EHlgrfvDTWYZmx6FA.jpg",
+        "release_date": "2016-09-06",
+        "title": "The Oath",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 88
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/20zcHI8A2xBAy5ES73gsY0v2dPv.jpg",
+        "genre_ids": [
+            80,
+            35,
+            18,
+            12
+        ],
+        "id": 16976,
+        "original_language": "ja",
+        "original_title": "ナイン・ソウルズ",
+        "overview": "After discovering a hole in their crowded cell, nine prisoners escape their confinement to track down the key of the universe, which a fellow prisoner known as the Counterfeit King said he had hidden.",
+        "popularity": 17.64,
+        "poster_path": "/oQXbOoBPOn7QvePAgAdnoUtmXxO.jpg",
+        "release_date": "2003-07-19",
+        "title": "9 Souls",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7qAuuOFagbmdeJ6nTR6mtGoESsw.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 44800,
+        "original_language": "en",
+        "original_title": "The Gambler",
+        "overview": "New York City English professor Axel Freed outwardly seems like an upstanding citizen. But privately Freed is in the clutches of a severe gambling addiction that threatens to destroy him.",
+        "popularity": 17.637,
+        "poster_path": "/wyZyUHOm14wmStWnuBjflOkzajt.jpg",
+        "release_date": "1974-10-02",
+        "title": "The Gambler",
+        "video": false,
+        "vote_average": 6.711,
+        "vote_count": 102
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/64mrdtS30ubr8lprr6yGR5cs7LS.jpg",
+        "genre_ids": [
+            18,
+            80,
+            27
+        ],
+        "id": 72508,
+        "original_language": "en",
+        "original_title": "The New Kids",
+        "overview": "A brother and his young sister come to a small town to find out a local gang terrorizes the population.",
+        "popularity": 17.636,
+        "poster_path": "/vBNWrVQU7W4Sk4rPV9KdXiojIED.jpg",
+        "release_date": "1985-01-18",
+        "title": "The New Kids",
+        "video": false,
+        "vote_average": 6.23,
+        "vote_count": 89
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/voWtzUp5MZTcDMVxZVeNmj4Lm8j.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 8073,
+        "original_language": "fr",
+        "original_title": "Bande à part",
+        "overview": "Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want.",
+        "popularity": 17.636,
+        "poster_path": "/9oqyj79xmcypxLajJdefOtrYx64.jpg",
+        "release_date": "1964-08-05",
+        "title": "Band of Outsiders",
+        "video": false,
+        "vote_average": 7.534,
+        "vote_count": 542
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lTjyjtr1NLNfeglWKzLS3gPW94v.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80
+        ],
+        "id": 11477,
+        "original_language": "es",
+        "original_title": "La comunidad",
+        "overview": "Julia, a real estate agent, finds an enormous amount of money hidden in a dead man's apartment, a stroke of luck that will force her to face the wrath of the very peculiar inhabitants of the condominium, headed by an unscrupulous administrator.",
+        "popularity": 17.629,
+        "poster_path": "/pKa0hUAoudwjMLlUDdyplpNols9.jpg",
+        "release_date": "2000-09-29",
+        "title": "Common Wealth",
+        "video": false,
+        "vote_average": 6.888,
+        "vote_count": 304
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gKs2sjPNlk72CiWjFf1XTbpZLNR.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 574321,
+        "original_language": "fr",
+        "original_title": "Seules les Bêtes",
+        "overview": "Following the disappearance of the glamorous and secretive Evelyne Ducat during a blizzard in the highlands of southern France, the lives of five people inextricably linked to Evelyne are brought together to devastating effect as the local police investigate the case.",
+        "popularity": 17.625,
+        "poster_path": "/wpnufblMIm1xfAZiNhrx7qMQmHR.jpg",
+        "release_date": "2019-12-04",
+        "title": "Only the Animals",
+        "video": false,
+        "vote_average": 6.68,
+        "vote_count": 266
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q7u8cF1TzqjU3UJm3BOIaUx7EGd.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28,
+            18,
+            36
+        ],
+        "id": 485337,
+        "original_language": "en",
+        "original_title": "Gangster Land",
+        "overview": "The story of America's most famous mobsters and their rise to power. Examine Al Capone's ascension through the eyes of his second in command, “Machine Gun” Jack McGurn.",
+        "popularity": 17.625,
+        "poster_path": "/fuIVbO6fLrMgmDvZsIutasCSVJC.jpg",
+        "release_date": "2017-12-01",
+        "title": "Gangster Land",
+        "video": false,
+        "vote_average": 5.411,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sT8XPGZ0rsL2r52pFotGcAzKAi9.jpg",
+        "genre_ids": [
+            35,
+            10751,
+            12,
+            80
+        ],
+        "id": 15338,
+        "original_language": "en",
+        "original_title": "Ace Ventura Jr: Pet Detective",
+        "overview": "\"I will try to be normal\" 12-year-old Ace Ventura Jr. promises. Thats cool, except whats normal for him is finding missing mutts, kidnapped kitties or gone gators and creating hilarious chaos every step of the way.",
+        "popularity": 17.624,
+        "poster_path": "/wnLBkPxGn2w8GwHw44MDDFX4R95.jpg",
+        "release_date": "2009-03-24",
+        "title": "Ace Ventura Jr: Pet Detective",
+        "video": false,
+        "vote_average": 3.34,
+        "vote_count": 174
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d029861FQ7Szpc37jL6fKzOaBid.jpg",
+        "genre_ids": [
+            18,
+            80,
+            27
+        ],
+        "id": 479490,
+        "original_language": "no",
+        "original_title": "Hjemsøkt",
+        "overview": "Set in the beautiful winter landscape of Norway, Haunted follows Catherine as she travels back to her old family estate after her father's death. When locals start telling stories of disappearances and possible murders, she is forced to confront her family's mysterious past.",
+        "popularity": 17.622,
+        "poster_path": "/bYOGDMs31P2gzk37n1iTEHMvJIl.jpg",
+        "release_date": "2017-11-24",
+        "title": "Haunted",
+        "video": false,
+        "vote_average": 4.558,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5R5O1IkKz4Otrhax39AwYRPkh1h.jpg",
+        "genre_ids": [
+            37,
+            80,
+            53,
+            18
+        ],
+        "id": 468210,
+        "original_language": "en",
+        "original_title": "Sweet Country",
+        "overview": "In 1929, an Australian Aboriginal stockman kills a white station owner in self-defense and goes on the lam, pursued by a posse.",
+        "popularity": 17.618,
+        "poster_path": "/szJdZCSiEIYybmPymoP2UTEvOUC.jpg",
+        "release_date": "2018-01-25",
+        "title": "Sweet Country",
+        "video": false,
+        "vote_average": 6.656,
+        "vote_count": 176
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xTWLkJbKl2r2JA81VpdV2lRJttA.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            80,
+            28,
+            53
+        ],
+        "id": 111971,
+        "original_language": "tl",
+        "original_title": "Gamitan",
+        "overview": "Cathy, a young and innocent freshman, has a crush on senior hunk, Nick, the campus' basketball star. One day, he came to her and asked her to have dinner and drive her home. One thing led to another until she ended up giving her virginity not knowing that he made a bet with his friends. He dumped her right after he got what he wanted without any explanation. Filled with hatred, she seduced Louie, her classmate who had a crush on her, to get back at Nick - and as a favor she would go to bed with him. Things got out of hand and led to a tragic ending.",
+        "popularity": 17.618,
+        "poster_path": "/4V3L4pIHxKIUFnwR2Xbj1cF5EGJ.jpg",
+        "release_date": "2002-08-21",
+        "title": "Gamitan",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aCVLHPMlwIMhf4Y06dFjBTqTRGA.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 622951,
+        "original_language": "zh",
+        "original_title": "陽光普照",
+        "overview": "A family of four fractures under the weight of unmet expectations, unexpected tragedy, and uncompromising pride.",
+        "popularity": 17.613,
+        "poster_path": "/j99jv5IhIKUkGDv3PWSjb234YR7.jpg",
+        "release_date": "2019-11-01",
+        "title": "A Sun",
+        "video": false,
+        "vote_average": 7.742,
+        "vote_count": 219
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fKJLHP7tPE5lvH9coVjmqazRuDU.jpg",
+        "genre_ids": [
+            10770,
+            9648,
+            18,
+            53,
+            80
+        ],
+        "id": 22555,
+        "original_language": "en",
+        "original_title": "Jesse Stone: Thin Ice",
+        "overview": "Jesse Stone and Captain Healy are shot during an unauthorized stake-out in Boston. Meanwhile, a cryptic letter sent from Paradise leads the mother of a kidnapped child to Stone. Though her son was declared dead, she hopes he will reopen the case.",
+        "popularity": 17.613,
+        "poster_path": "/gQPSSJmgnDwZNpJqzk5m3Zpytlm.jpg",
+        "release_date": "2009-03-01",
+        "title": "Jesse Stone: Thin Ice",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 76
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wGKaxjaJ8gR1PQ2MWQYYS8jpN1D.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            53,
+            80,
+            36
+        ],
+        "id": 35080,
+        "original_language": "en",
+        "original_title": "The Cat's Meow",
+        "overview": "Semi-true story of the Hollywood murder that occurred at a star-studded gathering aboard William Randolph Hearst's yacht in 1924.",
+        "popularity": 17.61,
+        "poster_path": "/zEVZa9EuApL5AQl2mE9NNAeCUix.jpg",
+        "release_date": "2001-10-08",
+        "title": "The Cat's Meow",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z0TF6eijRsu22EdamavqAzeRfIN.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 442014,
+        "original_language": "ko",
+        "original_title": "원라인",
+        "overview": "A group of professional con artists scam poor, unsuspecting citizens with fraudulent bank loans. The scams go well for a while, but then they begin to distrust each other.",
+        "popularity": 17.599,
+        "poster_path": "/iUfqzFDmZMM0JfsS70beNkhKEZz.jpg",
+        "release_date": "2017-03-29",
+        "title": "One-Line",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wYXJEz1dIwrFdzbv8o4DgBh4c0H.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 16003,
+        "original_language": "sv",
+        "original_title": "Jägarna",
+        "overview": "A policeman from Stockholm come to Norrbotten in Sweden, to join his brother, now when their father is dead. While there he starts to work on a long-running case where reindeers have been poached and soon discovers that his brother is involved...",
+        "popularity": 17.597,
+        "poster_path": "/5Ez8MDtedHPGWtkHFOKOXAJ8ns5.jpg",
+        "release_date": "1996-02-02",
+        "title": "The Hunters",
+        "video": false,
+        "vote_average": 6.436,
+        "vote_count": 102
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qkJv2RM1VAXrbDL1TvWGZh7KN9Z.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 58414,
+        "original_language": "cn",
+        "original_title": "龍在江湖",
+        "overview": "A low level gangster in Hong Kong gains new respect after saving a boss's life in a gang fight. Despite his wife's death in this attack, he appears to be moving up in the Triad family until he discovers the other bosses are not looking out for him when he is double crossed and the gangster he previously hospitalized in the gang fight comes back for revenge.",
+        "popularity": 17.596,
+        "poster_path": "/fRUz2HAs5vgZqO4eQRyz5dwPLeL.jpg",
+        "release_date": "1998-07-01",
+        "title": "A True Mob Story",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fAtlkO9yQhEXFg5aYX0S2g4WPlg.jpg",
+        "genre_ids": [
+            99,
+            80,
+            36
+        ],
+        "id": 377462,
+        "original_language": "en",
+        "original_title": "O.J.: Made in America",
+        "overview": "A chronicle of the rise and fall of O.J. Simpson, whose high-profile murder trial exposed the extent of American racial tensions, revealing a fractured and divided nation.",
+        "popularity": 17.576,
+        "poster_path": "/ubXcFOttFt8HINYgeuETwb6x3B7.jpg",
+        "release_date": "2016-05-20",
+        "title": "O.J.: Made in America",
+        "video": false,
+        "vote_average": 8.409,
+        "vote_count": 214
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tT3mJ7jJB92oB4gtmHGptdA7HcT.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 126780,
+        "original_language": "en",
+        "original_title": "Shadow of Doubt",
+        "overview": "An attorney uncovers a political conspiracy in the brutal killing of a wealthy young woman.",
+        "popularity": 17.576,
+        "poster_path": "/sz9bB5aPNTgJJb7A15Bc3eewCR3.jpg",
+        "release_date": "1998-04-09",
+        "title": "Shadow of Doubt",
+        "video": false,
+        "vote_average": 4.429,
+        "vote_count": 35
+    }
+]

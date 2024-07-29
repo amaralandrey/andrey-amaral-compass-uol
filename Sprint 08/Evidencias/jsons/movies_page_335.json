@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/42dEzKZ6Okc3BmxRJK9p77roCub.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 114609,
+        "original_language": "it",
+        "original_title": "Con la rabbia agli occhi",
+        "overview": "A professional killer is lured into a deadly double-cross when he agrees to assassinate a Mafia kingpin.",
+        "popularity": 9.58,
+        "poster_path": "/4gixmBVC02HFQ0EtXKIgYnPbBRv.jpg",
+        "release_date": "1976-10-22",
+        "title": "Death Rage",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/waJPfBVSY9XO3vYELvZpKKx6ayd.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 62107,
+        "original_language": "en",
+        "original_title": "I Witness",
+        "overview": "After 27 bodies are discovered in a collapsed tunnel in Tijuana, a man tries to unravel the mystery before becoming the next victim.",
+        "popularity": 9.576,
+        "poster_path": "/ovSPoXsqdLjXYhjK3pBOWzWIWxi.jpg",
+        "release_date": "2003-04-13",
+        "title": "I Witness",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1144430,
+        "original_language": "fr",
+        "original_title": "Balle perdue 3",
+        "overview": "Sequel to Lost Bullet 2. In development.",
+        "popularity": 9.575,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Balle perdue 3",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4zoZ9wCeevmXeSsxKf3CTruGTIy.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 261359,
+        "original_language": "en",
+        "original_title": "Three Days in Havana",
+        "overview": "A businessman gets caught up in an assassination plot when he travels to Cuba.",
+        "popularity": 9.575,
+        "poster_path": "/sTPyD31ra0PNwgjEnV0tZaxeuQ.jpg",
+        "release_date": "2014-03-28",
+        "title": "Three Days in Havana",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jxSqsJXDyu2lqbZZtRkFeft61wG.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            10751
+        ],
+        "id": 258651,
+        "original_language": "nl",
+        "original_title": "Violet",
+        "overview": "15-year-old Jesse is the only one who witnessed the stabbing of his friend Jonas. Now he has to face his family and friends from the BMX riders crew and explain the unexplainable - how he feels about it.",
+        "popularity": 9.575,
+        "poster_path": "/2mK9RofuXSmBIRyLkn2NU0fVvGw.jpg",
+        "release_date": "2014-02-09",
+        "title": "Violet",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4RTmrI2XA0DRlJsDz7k5joGN4v.jpg",
+        "genre_ids": [
+            80,
+            10749,
+            53,
+            10770
+        ],
+        "id": 50334,
+        "original_language": "en",
+        "original_title": "Deadly Isolation",
+        "overview": "In a quaint and quiet island community off the coast of Maine, Susan is a young widow suffering from deep grief for the loss of her husband, Ron. Two escaped convicts suffer from their own kind of deep grief at the loss of their diamonds stolen in a heist they participated in the year before, spear-headed by Susan's now late husband. One of the convicts, poses as an old college friend of Ron's enabling him to get close to a still vulnerable Susan and even closer to the diamonds.",
+        "popularity": 9.575,
+        "poster_path": "/vjItW5kbNVxxNiNRNir5plDLtFV.jpg",
+        "release_date": "2005-03-15",
+        "title": "Deadly Isolation",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8Em2MEWPKtS9SFVUeRPhBLKDJUa.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 26861,
+        "original_language": "en",
+        "original_title": "The Ministers",
+        "overview": "A NYPD detective attempts to avenge the death of her father, but unwittingly becomes involved with one of his killers.",
+        "popularity": 9.574,
+        "poster_path": "/voQjcICAdz11ukMPI1TndkTAWNW.jpg",
+        "release_date": "2009-10-16",
+        "title": "The Ministers",
+        "video": false,
+        "vote_average": 4.46,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10749,
+            80,
+            28,
+            53
+        ],
+        "id": 877655,
+        "original_language": "hi",
+        "original_title": "Dangerous",
+        "overview": "Two women, who have some had bad experiences with men, passionately fall in love with each other.",
+        "popularity": 9.573,
+        "poster_path": "/u746OGpGEeDezSELiCVTLqWxuK7.jpg",
+        "release_date": "2022-04-08",
+        "title": "Dangerous",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lngr08FPPFKQ94ReebvJ2kvtrzz.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 146637,
+        "original_language": "en",
+        "original_title": "Man Afraid",
+        "overview": "A preacher (George Nader) fears for his family (Phyllis Thaxter, Tim Hovey) after killing a teenage burglar whose father seeks revenge.",
+        "popularity": 9.573,
+        "poster_path": "/2MkVQmL6xwWuDoTqNuQjEbthbcA.jpg",
+        "release_date": "1957-04-04",
+        "title": "Man Afraid",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ktUJ0PLRqcKTSLCL1YMtLvW0zYF.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 250903,
+        "original_language": "en",
+        "original_title": "Bowery Boy",
+        "overview": "Dr. Tom O'Hara takes over a public clinic in New York's desperately poor Bowery section. Boy gangleader Sock Dolan resents Tom's interference in moving Sock's kid brother to a hospital, because Sock blames hospitals for his mother's death. Sock helps racketeer J.R. Mason sell food to the clinic, unaware that Mason sells cheap and often tainted food. When a number of patients, including Sock's brother, become ill from food poisoning, Sock is kidnapped by Mason to keep him silent. Dr. O'Hara must find a way to rescue Sock and stop Mason's contamination of hospital food supplies.",
+        "popularity": 9.571,
+        "poster_path": "/cw35y4oVIDF76uh1AOrEsdCsNyJ.jpg",
+        "release_date": "1940-12-28",
+        "title": "Bowery Boy",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5N9TVGAk8VNJ0yM7UIuQjSbRZhF.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 150587,
+        "original_language": "fr",
+        "original_title": "Sans mobile apparent",
+        "overview": "A series of murders is committed in Nice on the French riviera. The commissaire Carella is in charge and tries to find a missing link between all these murders.",
+        "popularity": 9.57,
+        "poster_path": "/aWYgYyux5pisHML36KW5D1ARQZo.jpg",
+        "release_date": "1971-09-15",
+        "title": "Without Apparent Motive",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wPeoTaKNp3PCd8osVQBA3PCmNqB.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 404279,
+        "original_language": "en",
+        "original_title": "Green Is Gold",
+        "overview": "A thirteen-year-old boy is forced to live with his estranged brother after their father is sent to prison. Their relationship is soon tested when the older brother's occupation as a marijuana dealer infringes on his ability not only to raise his kid brother, but even to take care of himself. However, through constant tribulations, they discover the only way to get through the difficulties of life is to work together and try to beat the odds.",
+        "popularity": 9.569,
+        "poster_path": "/x9p86hPU0cxaab7LnYNyQvpZ1sk.jpg",
+        "release_date": "2016-06-06",
+        "title": "Green Is Gold",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AuaL5bmHjSz1JAKwcAunnp5WCQ0.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53,
+            35
+        ],
+        "id": 54498,
+        "original_language": "en",
+        "original_title": "The Junkman",
+        "overview": "As film-maker Harlan Hollis drives to a James Dean festival, he's unaware that killers are tracking his every move. The fast and furious race to avoid their net, stay alive and discover who is behind this lethal plan, will take Hollis through a fiery battle, turning highways and city streets into a blazing junkyard.",
+        "popularity": 9.569,
+        "poster_path": "/4qECoy9qsXhggQVXZPZRk5eWrfv.jpg",
+        "release_date": "1982-08-28",
+        "title": "The Junkman",
+        "video": false,
+        "vote_average": 4.853,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4JYTWVL5jEDk7phzvFRC8MUSoM0.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 26447,
+        "original_language": "en",
+        "original_title": "3:15 the Moment of Truth",
+        "overview": "Violent crime is routine. Organized drug trade runs rampant in the face of powerless authority. And a vicious street gang holds dominion with a savage reign of terror. Welcome to Lincoln High! Here the cobras rule the school and everyone in it. Everyone except for Jeff Hanna.",
+        "popularity": 9.569,
+        "poster_path": "/c5gC8MdNp1WsjUjwhdLjinM6iZJ.jpg",
+        "release_date": "1986-01-31",
+        "title": "3:15 the Moment of Truth",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mMjURFhl0FPyV5qOYkvKLp9lFls.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            27
+        ],
+        "id": 63112,
+        "original_language": "it",
+        "original_title": "E tanta paura",
+        "overview": "Plot of Fear tells the story of a decadent weekend party full of orgies and drugs on the outskirts of Milan. After two deaths occur Inspector Lomenzo interrogates one of the guests, a fashion model who becomes his informant, as well as his lover. Clery reveals that after a “wildlife orgy”one of the hosts tried to jokingly feed one of the prostitutes to a tiger but she got so frightened that she died of heart attack. In his attempt to find a connection between the victims, he investigates a cutting-edge security and surveillance firm whose director has secrets of his own to hide.",
+        "popularity": 9.567,
+        "poster_path": "/cAFrA22iXVrCGy0IffbC3SCUNI0.jpg",
+        "release_date": "1976-09-17",
+        "title": "Plot of Fear",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 1026419,
+        "original_language": "en",
+        "original_title": "The Keys",
+        "overview": "Brothers, shipped off by their divorced New York mom to live with their businessman dad in the Florida Keys, find him caught up in a land war against a drug lord and developer who wants to build a massive casino complex.",
+        "popularity": 9.565,
+        "poster_path": "/1owPjemFq3iphALN32HrSHCC3kJ.jpg",
+        "release_date": "1992-04-12",
+        "title": "The Keys",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/icFqOKHfWnspS3mSxoZUSNn1Rej.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 48482,
+        "original_language": "en",
+        "original_title": "Thief of Hearts",
+        "overview": "A woman trapped in a boring marriage begins an affair with a handsome man who seems able to read her mind. She doesn't know that he has broken into her house and read her diaries, where she has recorded her deepest thoughts and fantasies.",
+        "popularity": 9.563,
+        "poster_path": "/be08f4q9Doq5HvHgBCS5NzQ6jja.jpg",
+        "release_date": "1984-10-19",
+        "title": "Thief of Hearts",
+        "video": false,
+        "vote_average": 5.284,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uskG4enRvZ5zNr3qDu6TzaOllEQ.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            10749
+        ],
+        "id": 77670,
+        "original_language": "en",
+        "original_title": "Kansas",
+        "overview": "A drifter becomes both a bank robber and a hero in this crime thriller. Andrew McCarthy stars as Wade Corey, who hitches a ride on a freight train already occupied by Doyle Kennedy (Matt Dillon), a charming ex-con who convinces Wade to accompany him to his hometown. Once there, Wade realizes too late that Doyle is intent on robbing the local bank. After they are separated following the crime, Wade hides the money. Happening upon a drowning in progress, he saves a young girl who just happens to be the daughter of the state governor, and he becomes an unlikely hero. Finding work at a nearby farm, the meandering Wade becomes a hired hand, falls for the beautiful daughter (Leslie Hope) of his boss, and dreads the return of Doyle, who is sure to come looking for his money.",
+        "popularity": 9.562,
+        "poster_path": "/6fTbENf7RVzPKElXtcuADK2MiZI.jpg",
+        "release_date": "1988-09-23",
+        "title": "Kansas",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lKhJubCiXxsiEeHDo9BU7B6WSmy.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            53,
+            27
+        ],
+        "id": 111835,
+        "original_language": "en",
+        "original_title": "Night Visions",
+        "overview": "A Los Angeles detective teams up with a psychic to hunt down a serial killer.",
+        "popularity": 9.56,
+        "poster_path": "/mDiQRWawE9RiYOL1cc9gg1hhKAc.jpg",
+        "release_date": "1990-11-30",
+        "title": "Night Visions",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6e5FrrOapD9bIT8bLX1OttDtpUs.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 30195,
+        "original_language": "en",
+        "original_title": "A Lady Without Passport",
+        "overview": "A secret service agent falls in love with an illegal immigrant.",
+        "popularity": 9.559,
+        "poster_path": "/wJfzpAglQhQLtUICju4A2cRmK77.jpg",
+        "release_date": "1950-08-03",
+        "title": "A Lady Without Passport",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 17
+    }
+]

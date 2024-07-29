@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/kIORtumDUNUzdR84TD6jicOi6YG.jpg",
+        "genre_ids": [
+            80,
+            12,
+            28
+        ],
+        "id": 497370,
+        "original_language": "ko",
+        "original_title": "마약왕",
+        "overview": "Busan, South Korea, 1970s. Lee Doo-sam is a small-time smuggler. After helping a drug gang to smuggle meth, he falls into the dark crime world. Quick-witted and full of ambition, he eventually takes over the drug underworld and starts to lead a double life: a good community leader during the day but an infamous drug lord during the night.",
+        "popularity": 28.537,
+        "poster_path": "/d3n0mUGIqISBjke1hrGVkF7P6CZ.jpg",
+        "release_date": "2018-12-19",
+        "title": "The Drug King",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 131
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ptZypdOBofmADX9JCtgi5E38cnC.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 74725,
+        "original_language": "en",
+        "original_title": "Kill List",
+        "overview": "Nearly a year after a botched job, a hitman takes a new assignment with the promise of a big payoff for three killings. What starts off as an easy task soon unravels, sending the killer into the heart of darkness.",
+        "popularity": 23.032,
+        "poster_path": "/qwT2I3ons0oD58jIppKmd4qLtvB.jpg",
+        "release_date": "2011-09-02",
+        "title": "Kill List",
+        "video": false,
+        "vote_average": 6.208,
+        "vote_count": 749
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rKzHtW1bdboA89FwiyRBNTY7edc.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36,
+            53
+        ],
+        "id": 474354,
+        "original_language": "en",
+        "original_title": "22 July",
+        "overview": "On 22 July 2011, neo-Nazi terrorist Anders Behring Breivik murdered 77 young people attending a Labour Party Youth Camp on Utøya Island outside of Oslo. This three-part story focuses on the survivors, the political leadership of Norway, and the lawyers involved.",
+        "popularity": 26.537,
+        "poster_path": "/rd940KzuIZwbdOvOUF7XDTzn8te.jpg",
+        "release_date": "2018-10-04",
+        "title": "22 July",
+        "video": false,
+        "vote_average": 7.083,
+        "vote_count": 1159
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ztgMCueCLEVvXIEEnGMDdSj7gBy.jpg",
+        "genre_ids": [
+            18,
+            80,
+            28
+        ],
+        "id": 187022,
+        "original_language": "zh",
+        "original_title": "天注定",
+        "overview": "Four independent stories set in modern China about random acts of violence.",
+        "popularity": 23.283,
+        "poster_path": "/6I6XVBrUYBWPDPMdk647VvTSNqx.jpg",
+        "release_date": "2013-10-04",
+        "title": "A Touch of Sin",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 318
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oZKQWDz6wP1bLZgPKwpcloU34sx.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 978870,
+        "original_language": "it",
+        "original_title": "L'ultima notte di Amore",
+        "overview": "On the night before his retirement, police lieutenant Franco Amore is called to investigate the death of a long-time partner of his in a diamond heist in which he was involved.",
+        "popularity": 23.565,
+        "poster_path": "/yKxmEfFrLjPLutpi7alffLOwMSj.jpg",
+        "release_date": "2023-03-09",
+        "title": "Last Night of Amore",
+        "video": false,
+        "vote_average": 7.193,
+        "vote_count": 422
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3igN3WJmYEBNl68BbgcRpKflUVK.jpg",
+        "genre_ids": [
+            28,
+            16,
+            878,
+            80
+        ],
+        "id": 279254,
+        "original_language": "ja",
+        "original_title": "攻殻機動隊ARISE border: 4 Ghost Stands Alone",
+        "overview": "The upcoming installment's story takes place amidst signs of postwar reconstruction in the winter of 2028. Tensions are rising in New Port City as demonstrations are held concerning the interests of foreign cartels. This leads to a shooting incident involving riot police. It all started with a cyberbrain infection released by the terrorist \"Fire Starter.\" An independent offensive unit led by Makoto Kusanagi entrusts the suppression of the situation to their ghosts and aims for their own justice. Below the surface of the incident, lies the \"tin girl\" Emma and the \"scarecrow man\" Burinda Junior. As Kusanagi deals with the incident, she draws near to what those two ghosts were seeking.",
+        "popularity": 25.179,
+        "poster_path": "/dNlPBbpsyZCHDbYa4VxZOCj3RiI.jpg",
+        "release_date": "2014-09-06",
+        "title": "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 120
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kk3quv4ZcAVBS6GoP47KDTUv6yn.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 559937,
+        "original_language": "zh",
+        "original_title": "特警队",
+        "overview": "The story centers on the Chinese Special Police Unit, from their hard training to their first mission.",
+        "popularity": 25.178,
+        "poster_path": "/wFklu01YHWhp2MxljR8e3XyvpPp.jpg",
+        "release_date": "2019-12-29",
+        "title": "S.W.A.T.",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 89
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/69f9n3MlirrkbkW6rx4G1HZlwof.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 54523,
+        "original_language": "it",
+        "original_title": "Autostop rosso sangue",
+        "overview": "A bickering couple driving cross-country pick up a murderous hitchhiker who threatens to kill them unless they take him to a sanctuary. In return he agrees to split some bank loot he has on him.",
+        "popularity": 19.385,
+        "poster_path": "/qo8Z0japEz6xKR9OBPslzKKqmND.jpg",
+        "release_date": "1977-04-30",
+        "title": "Hitch Hike",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 87
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9ATEYsOS7Qw1qWAGU02Nbyi78GW.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 27073,
+        "original_language": "cn",
+        "original_title": "俠盜高飛",
+        "overview": "In an effort to get his buddy out of a gambling debt, Jeff agrees to join forces with Judge in a weapons heist. The job goes bad and Judge betrays Jeff. Jeff plots the ultimate revenge on Judge and his followers and it is a question of whether he can follow through with his plan.",
+        "popularity": 25.168,
+        "poster_path": "/a3SFfTwR7j2WHsBTEoYmkxHrkDB.jpg",
+        "release_date": "1992-07-23",
+        "title": "Full Contact",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m2SXRnAd0d5N6qH2cbgluRgMX4z.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 11016,
+        "original_language": "en",
+        "original_title": "Key Largo",
+        "overview": "A hurricane swells outside, but it's nothing compared to the storm within the hotel at Key Largo. There, sadistic mobster Johnny Rocco holes up - and holds at gunpoint hotel owner James Temple, his widowed daughter-in-law Nora, and ex-GI Frank McCloud.",
+        "popularity": 25.166,
+        "poster_path": "/9ZhQ9iMUtck9DvKm7mfB2332fRr.jpg",
+        "release_date": "1948-07-16",
+        "title": "Key Largo",
+        "video": false,
+        "vote_average": 7.483,
+        "vote_count": 515
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gcuNrxZhsQN2McbhCig8Un1LMhN.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 912480,
+        "original_language": "fr",
+        "original_title": "Les chambres rouges",
+        "overview": "The high-profile case of serial killer Ludovic Chevalier has just gone to trial, and Kelly-Anne is obsessed. When reality blurs with her morbid fantasies, she goes down a dark path to seek the final piece of the case’s puzzle.",
+        "popularity": 25.155,
+        "poster_path": "/wyVtWLItC0tHFSM1UqLL45hf7Rk.jpg",
+        "release_date": "2023-08-11",
+        "title": "Red Rooms",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 99
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qbWZ722JncNLchuy6a9iObqnfzd.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            12
+        ],
+        "id": 331576,
+        "original_language": "cn",
+        "original_title": "殺破狼2",
+        "overview": "A Hong Kong cop named Kit busts a major gangster only to find his cover blown and his main witness gone. The gangster, in retaliation, has him kidnapped and put in a Thai jail with a false criminal identity. Lowly prison guard Chai, with his extraordinary fighting skills, guards Kit and prevents his escape. The prison guard’s daughter suffers from a rare form of leukemia and Kit is the only donor who can save her. The prison guard discovers Kit’s real identity and helps him to escape in return for his agreeing to save his daughter. Together, Kit and Chai must face and take down the gangster and his minions.",
+        "popularity": 32.275,
+        "poster_path": "/lCy3410NhfJiB6XoCaePJXbldv0.jpg",
+        "release_date": "2015-06-18",
+        "title": "SPL 2: A Time for Consequences",
+        "video": false,
+        "vote_average": 6.889,
+        "vote_count": 234
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9ma1mCoFaG9iNSdHgkAZiB4rXPD.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 8052,
+        "original_language": "en",
+        "original_title": "Hard Eight",
+        "overview": "A stranger mentors a young Reno gambler who weds a hooker and befriends a vulgar casino regular.",
+        "popularity": 25.142,
+        "poster_path": "/1l5UaoP25Ak8PWCKIULQz70yF03.jpg",
+        "release_date": "1997-02-28",
+        "title": "Hard Eight",
+        "video": false,
+        "vote_average": 6.863,
+        "vote_count": 824
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eReiiUBlDgF2dAtKkpxzzK6H8t2.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18,
+            53
+        ],
+        "id": 412302,
+        "original_language": "en",
+        "original_title": "Gemini",
+        "overview": "A heinous crime tests the complex relationship between a tenacious personal assistant and her Hollywood starlet boss. As the assistant travels across Los Angeles to unravel the mystery, she must stay one step ahead of a determined policeman and confront her own understanding of friendship, truth and celebrity.",
+        "popularity": 25.138,
+        "poster_path": "/oIltQs7MPk7VQFG3DJfgC63mShU.jpg",
+        "release_date": "2017-06-14",
+        "title": "Gemini",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 131
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tNCBhUrlskXHvp7JozWUmVKeuP0.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 10090,
+        "original_language": "en",
+        "original_title": "Reno 911!: Miami",
+        "overview": "A rag-tag team of Reno cops are called in to save the day after a terrorist attack disrupts a national police convention in Miami Beach during spring break. Based on the Comedy Central series.",
+        "popularity": 25.128,
+        "poster_path": "/l9v3nqTU4Gj2zuASGDLJX4YD8ma.jpg",
+        "release_date": "2007-02-23",
+        "title": "Reno 911!: Miami",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 238
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2UGtXJzsbgZ0edjxhIHxUv4XSVU.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 16295,
+        "original_language": "en",
+        "original_title": "Higher Learning",
+        "overview": "African-American student Malik is on a track scholarship; academics are not his strong suit, and he goes in thinking that his athletic abilities will earn him a free ride through college. Fudge, a \"professional student\" who has been at Columbus for six years so far, becomes friendly with Malik and challenges his views about race and politics in America.",
+        "popularity": 25.126,
+        "poster_path": "/tuud1Blsdwo1KQRdz5UVwjlLAWQ.jpg",
+        "release_date": "1995-01-11",
+        "title": "Higher Learning",
+        "video": false,
+        "vote_average": 6.337,
+        "vote_count": 206
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fn6lI2tawQgHyctkAJJtQ22v4pW.jpg",
+        "genre_ids": [
+            53,
+            28,
+            35,
+            80
+        ],
+        "id": 1613,
+        "original_language": "en",
+        "original_title": "The 51st State",
+        "overview": "An American master chemist plans to score big on a once in a lifetime drug deal. All does not go as planned and he is soon entangled in a web of deceit.",
+        "popularity": 25.122,
+        "poster_path": "/5MaF1WIt8s9aEGQpYfaKhEOgVjK.jpg",
+        "release_date": "2001-12-07",
+        "title": "The 51st State",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 586
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vY4xnvM0aQbqYlffajDcuczA3O5.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80,
+            35
+        ],
+        "id": 425591,
+        "original_language": "en",
+        "original_title": "I Don't Feel at Home in This World Anymore",
+        "overview": "When a depressed woman is burglarized, she finds a new sense of purpose by tracking down the thieves alongside her obnoxious neighbor. But they soon find themselves dangerously out of their depth against a pack of degenerate criminals.",
+        "popularity": 25.101,
+        "poster_path": "/1stdUlXBc3nxqhdWvZ6wWWEbCQW.jpg",
+        "release_date": "2017-01-19",
+        "title": "I Don't Feel at Home in This World Anymore",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 1257
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nnSjkUOJGfKTy4bnVPsbl4pyL0x.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 13635,
+        "original_language": "fr",
+        "original_title": "L'Instinct de mort",
+        "overview": "Jacques Mesrine, a loyal son and dedicated soldier, is back home and living with his parents after serving in the Algerian War. Soon he is seduced by the neon glamour of sixties Paris and the easy money it presents. Mentored by Guido, Mesrine turns his back on middle class law-abiding and soon moves swiftly up the criminal ladder.",
+        "popularity": 25.1,
+        "poster_path": "/zCyuiyIhbhgEOZde81qTgXbO0pw.jpg",
+        "release_date": "2008-10-22",
+        "title": "Mesrine: Killer Instinct",
+        "video": false,
+        "vote_average": 7.327,
+        "vote_count": 899
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sRY16xQIV5lHL1yTotyqPyyjsju.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18,
+            878
+        ],
+        "id": 64131,
+        "original_language": "fr",
+        "original_title": "Mauvais Sang",
+        "overview": "Two aging crooks are given two weeks to repay a debt to a woman named The American. They recruit their recently deceased partner's son to help them break into a laboratory and steal the vaccine against STBO, a sexually transmitted disease that is sweeping the country. It's spread by having sex without emotional involvement, and most of its victims are teenagers who make love out of curiosity rather than commitment.",
+        "popularity": 27.764,
+        "poster_path": "/yjUmAFx8Z3E0K1IUpQSyUilL5P9.jpg",
+        "release_date": "1986-11-26",
+        "title": "Mauvais Sang",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 239
+    }
+]

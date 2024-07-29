@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/sbCQ5uuQ9Y4fkWR8NR3x41rvFvF.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 21610,
+        "original_language": "en",
+        "original_title": "Nighthawks",
+        "overview": "When one of Europe's most lethal terrorists shows up in New York, an elite undercover cop is assigned to take him down by any means necessary.",
+        "popularity": 35.441,
+        "poster_path": "/EuWOvbS7GdbXuYhRwFXgUGIRFd.jpg",
+        "release_date": "1981-03-17",
+        "title": "Nighthawks",
+        "video": false,
+        "vote_average": 6.368,
+        "vote_count": 401
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wIxH3bnnuxJogfowqrBub66UcMW.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 65760,
+        "original_language": "en",
+        "original_title": "The Whistleblower",
+        "overview": "Nebraska cop Kathryn Bolkovac discovers a deadly sex trafficking ring while serving as a U.N. peacekeeper in post-war Bosnia. Risking her own life to save the lives of others, she uncovers an international conspiracy that is determined to stop her, no matter the cost.",
+        "popularity": 35.389,
+        "poster_path": "/iIVcea2BHHi7RJgucGEmpt3zkED.jpg",
+        "release_date": "2010-09-13",
+        "title": "The Whistleblower",
+        "video": false,
+        "vote_average": 6.743,
+        "vote_count": 537
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jRLquZKTbFwCv43HUZ3iffJTYBR.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 11835,
+        "original_language": "en",
+        "original_title": "Death Sentence",
+        "overview": "Nick Hume is a mild-mannered executive with a perfect life, until one gruesome night he witnesses something that changes him forever. Transformed by grief, Hume eventually comes to the disturbing conclusion that no length is too great when protecting his family.",
+        "popularity": 35.387,
+        "poster_path": "/3rdEAMh4a3pc7GO6fSkJwpt7BWX.jpg",
+        "release_date": "2007-08-31",
+        "title": "Death Sentence",
+        "video": false,
+        "vote_average": 6.744,
+        "vote_count": 1101
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sMQ3C8lqoFxbaN8WOD600RR4Zgo.jpg",
+        "genre_ids": [
+            878,
+            80,
+            53,
+            18
+        ],
+        "id": 9507,
+        "original_language": "en",
+        "original_title": "Runaway",
+        "overview": "In the near future, a police officer specializes in malfunctioning robots. When a robot turns out to have been programmed to kill, he begins to uncover a homicidal plot to create killer robots... and his son becomes a target.",
+        "popularity": 35.381,
+        "poster_path": "/6rbQRAB6dA5g2WYll57wEFaB3Pu.jpg",
+        "release_date": "1984-12-14",
+        "title": "Runaway",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 232
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Bfsoyo6mai2KKhdL5tk85RIB8F.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 4477,
+        "original_language": "en",
+        "original_title": "The Devil's Own",
+        "overview": "Frankie McGuire, one of the IRA's deadliest assassins, draws an American family into the crossfire of terrorism. But when he is sent to the U.S. to buy weapons, Frankie is housed with the family of Tom O'Meara, a New York cop who knows nothing about Frankie's real identity. Their surprising friendship, and Tom's growing suspicions, forces Frankie to choose between the promise of peace or a lifetime of murder.",
+        "popularity": 35.336,
+        "poster_path": "/3KIPu7H3tST0j4tpqdKpQZUBCQz.jpg",
+        "release_date": "1997-03-13",
+        "title": "The Devil's Own",
+        "video": false,
+        "vote_average": 6.177,
+        "vote_count": 1178
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tUBxdX0klHGOqtJWY73oQAu7Q0V.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1133602,
+        "original_language": "ja",
+        "original_title": "BAD LANDS バッド・ランズ",
+        "overview": "A grifter and her loose-cannon brother get their hands on a massive amount of money, but their ill-gotten gains puts a huge target on their back.",
+        "popularity": 35.292,
+        "poster_path": "/o8CB6o7ouYPgi8WIXKAR4Hgz3ud.jpg",
+        "release_date": "2023-09-29",
+        "title": "Bad Lands",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/46kPXsazEkDyRKpOWk0V8GgCkPS.jpg",
+        "genre_ids": [
+            53,
+            80,
+            27
+        ],
+        "id": 18912,
+        "original_language": "de",
+        "original_title": "Angst",
+        "overview": "A killer is released from prison and breaks into a remote home to kill a woman, her handicapped son and her pretty daughter.",
+        "popularity": 35.277,
+        "poster_path": "/biC5etj540m9qNj3w9zETQZpsN6.jpg",
+        "release_date": "1983-01-01",
+        "title": "Angst",
+        "video": false,
+        "vote_average": 7.101,
+        "vote_count": 335
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sPDIOvqyVzPo1Xu46BAB6aSGvSF.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 13056,
+        "original_language": "en",
+        "original_title": "Punisher: War Zone",
+        "overview": "Waging his one-man war on the world of organized crime, ruthless vigilante-hero Frank Castle sets his sights on overeager mob boss Billy Russoti. After Russoti is left horribly disfigured by Castle, he sets out for vengeance under his new alias: Jigsaw. With the \"Punisher Task Force\" hot on his trail and the FBI unable to take Jigsaw in, Frank must stand up to the formidable army that Jigsaw has recruited before more of his evil deeds go unpunished.",
+        "popularity": 35.264,
+        "poster_path": "/qp6RpE3MTSjUu9km96NzldykWki.jpg",
+        "release_date": "2008-12-05",
+        "title": "Punisher: War Zone",
+        "video": false,
+        "vote_average": 5.814,
+        "vote_count": 1106
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/LneY7WbNwbIg0PEeKXqe6xcUwR.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 513692,
+        "original_language": "cn",
+        "original_title": "怒火",
+        "overview": "Cheung Sung-bong is a highly respected cop with a long history of success in dangerous cases. However, his past soon comes back to haunt him when a former protégé resurfaces, seeking revenge.",
+        "popularity": 35.253,
+        "poster_path": "/nD9zK3nfEUPHKWwFmAaQoLsQYE5.jpg",
+        "release_date": "2021-07-28",
+        "title": "Raging Fire",
+        "video": false,
+        "vote_average": 6.882,
+        "vote_count": 199
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lvC9CrcsSFazXuzXZwmHBrXioZC.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80
+        ],
+        "id": 458109,
+        "original_language": "en",
+        "original_title": "Spinning Man",
+        "overview": "Evan Birch is a family man and esteemed professor at a distinguished university. When a female student goes missing, police Detective Malloy has reason to be suspicious when crucial evidence makes Evan the prime suspect in her disappearance.",
+        "popularity": 35.233,
+        "poster_path": "/lb73nmpv97C4C5WXoxTE0DD7ptU.jpg",
+        "release_date": "2018-04-06",
+        "title": "Spinning Man",
+        "video": false,
+        "vote_average": 5.554,
+        "vote_count": 416
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kKZnEBLLrfdQQX7GjCq9lCEhchy.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 10650,
+        "original_language": "en",
+        "original_title": "Sudden Impact",
+        "overview": "When a young rape victim takes justice into her own hands and becomes a serial killer, it's up to Dirty Harry Callahan, on suspension from the SFPD, to bring her to justice.",
+        "popularity": 35.214,
+        "poster_path": "/ugSiZ5sn0YMVEnunRwloIdnI8vF.jpg",
+        "release_date": "1983-12-08",
+        "title": "Sudden Impact",
+        "video": false,
+        "vote_average": 6.55,
+        "vote_count": 863
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aRe0MS4U1XJc4zFqaoAw3d3UyHP.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80
+        ],
+        "id": 2275,
+        "original_language": "en",
+        "original_title": "The General's Daughter",
+        "overview": "When the body of Army Capt. Elisabeth Campbell is found on a Georgia military base, two investigators, Warrant Officers Paul Brenner and Sara Sunhill, are ordered to solve her murder. What they uncover is anything but clear-cut. Unseemly details emerge about Campbell's life, leading to allegations of a possible military coverup of her death and the involvement of her father, Lt. Gen. Joseph Campbell.",
+        "popularity": 35.212,
+        "poster_path": "/w8CMN81n7SON7ALPMlxZtOzBZB.jpg",
+        "release_date": "1999-06-18",
+        "title": "The General's Daughter",
+        "video": false,
+        "vote_average": 6.389,
+        "vote_count": 885
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/103d4ObBCWbB6PtOOjZ7C1FSpVl.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 486131,
+        "original_language": "en",
+        "original_title": "Shaft",
+        "overview": "JJ, aka John Shaft Jr., may be a cyber security expert with a degree from MIT, but to uncover the truth behind his best friend’s untimely death, he needs an education only his dad can provide. Absent throughout JJ’s youth, the legendary locked-and-loaded John Shaft agrees to help his progeny navigate Harlem’s heroin-infested underbelly.",
+        "popularity": 35.201,
+        "poster_path": "/kfZqwGuvEBAysAbCsa0QLKoSYR.jpg",
+        "release_date": "2019-06-14",
+        "title": "Shaft",
+        "video": false,
+        "vote_average": 6.549,
+        "vote_count": 1670
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4svggv4gfe6vHsrGpaRMzrXLozt.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 299,
+        "original_language": "en",
+        "original_title": "Ocean's Eleven",
+        "overview": "Danny Ocean and his gang attempt to rob the five biggest casinos in Las Vegas in one night.",
+        "popularity": 35.184,
+        "poster_path": "/A4R6u7SidBPVXMVzGSysCiRGTRz.jpg",
+        "release_date": "1960-08-10",
+        "title": "Ocean's Eleven",
+        "video": false,
+        "vote_average": 6.358,
+        "vote_count": 335
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iNfDwioDBzqodomLbMfV8ZXj0yL.jpg",
+        "genre_ids": [
+            53,
+            878,
+            28,
+            80
+        ],
+        "id": 8831,
+        "original_language": "en",
+        "original_title": "Timecop",
+        "overview": "An officer for a security agency that regulates time travel, must fend for his life against a shady politician who has a tie to his past.",
+        "popularity": 35.177,
+        "poster_path": "/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg",
+        "release_date": "1994-09-15",
+        "title": "Timecop",
+        "video": false,
+        "vote_average": 6.01,
+        "vote_count": 1125
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kcrjQkK9XlUe0yD1cZptf4z5h3v.jpg",
+        "genre_ids": [
+            18,
+            36,
+            53,
+            10752,
+            80
+        ],
+        "id": 919207,
+        "original_language": "ko",
+        "original_title": "서울의 봄",
+        "overview": "After the assassination of President Park, martial law has been declared. A coup d’état bursts out by Defense Security Commander Chun Doo-gwang and a private band of officers following him. Capital Defense Commander Lee Tae-shin, an obstinate soldier who believes the military should not take political actions, fights against Chun Doo-gwang to stop him. The conflict between the two grows while military leaders are holding their decision and Defense Minister is gone. In the midst of chaos, the spring of Seoul that everyone longed for heads to unexpected direction.",
+        "popularity": 35.155,
+        "poster_path": "/qYczuua2tgjfxcdtLNDC0n4mOHz.jpg",
+        "release_date": "2023-11-22",
+        "title": "12.12: The Day",
+        "video": false,
+        "vote_average": 7.45,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wiZT8DVmAZNwmqd8G3QjWZ1mpLB.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80
+        ],
+        "id": 8012,
+        "original_language": "en",
+        "original_title": "Get Shorty",
+        "overview": "Chili Palmer is a Miami mobster who gets sent by his boss, the psychopathic \"Bones\" Barboni, to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry's leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren't all that different.",
+        "popularity": 35.148,
+        "poster_path": "/r82SdPhg4fnIcLt0ogIjQxqjdcO.jpg",
+        "release_date": "1995-10-20",
+        "title": "Get Shorty",
+        "video": false,
+        "vote_average": 6.473,
+        "vote_count": 1009
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9eYY8elmuv69MOVTeZFPibeJELO.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 22004,
+        "original_language": "en",
+        "original_title": "Trespass",
+        "overview": "Two Arkansas firemen, Vince and Don, get hold of a map that leads to a cache of stolen gold in an abandoned factory in East St. Louis. What they don't know is that the factory is on the turf of a local gang, who come by to execute one of their enemies. Vince sees the shooting, the gang spots Vince, and extended mayhem ensues. As Vince and Don try to escape, gang leader King James argues with his subordinate Savon about how to get rid of the trespassers.",
+        "popularity": 35.147,
+        "poster_path": "/GSeicpK571uoM2ZCRb1YyW2YMG.jpg",
+        "release_date": "1992-12-25",
+        "title": "Trespass",
+        "video": false,
+        "vote_average": 6.302,
+        "vote_count": 189
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5sNlQ9KL18MrDZm6JiMkbjKwimb.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 9923,
+        "original_language": "en",
+        "original_title": "Domino",
+        "overview": "The story of the life of Domino Harvey, who abandoned her career as a Ford model to become a bounty hunter.",
+        "popularity": 35.134,
+        "poster_path": "/yLjQ7QIdUt3qZY0d9FPxDT40BD1.jpg",
+        "release_date": "2005-10-14",
+        "title": "Domino",
+        "video": false,
+        "vote_average": 5.923,
+        "vote_count": 1170
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6cFzPYhi2L8ktU3ooWRyDF7lKip.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 23742,
+        "original_language": "en",
+        "original_title": "Cop Out",
+        "overview": "Detectives Jimmy and Paul, despite nine years as partners, can still sometimes seem like polar opposites—especially when Paul's unpredictable antics get them suspended without pay. Already strapped for cash and trying to pay for his daughter's wedding, Jimmy decides to sell a rare baseball card that's worth tens of thousands. Unfortunately, when the collector's shop is robbed and the card vanishes with the crook, Paul and Jimmy end up going rogue, tracking down the card and the drug ring behind its theft, all on their own time and without any backup—except for each other.",
+        "popularity": 35.126,
+        "poster_path": "/qA31i7FPVDHezuoevx3497CvZd4.jpg",
+        "release_date": "2010-02-26",
+        "title": "Cop Out",
+        "video": false,
+        "vote_average": 5.55,
+        "vote_count": 1450
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/hkF56n8O6L2weZko0JZ4p9A02wN.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 486963,
+        "original_language": "cn",
+        "original_title": "摩登龍爭虎鬥",
+        "overview": "An eccentric tale of competition and corruption within a seemingly ordinary insurance company. When a young female insurance agent is found murdered, what was supposed to be a routine police investigation turns into front page news when the victim was alleged to have traded sex for insurance policies",
+        "popularity": 8.287,
+        "poster_path": "/sPtQQuqPwfxaUwjO4wGLK5SFUd9.jpg",
+        "release_date": "1994-05-05",
+        "title": "Best of Best",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tnUcs4cJJNTkftfRLOArwZWHMN1.jpg",
+        "genre_ids": [
+            53,
+            18,
+            28,
+            80
+        ],
+        "id": 264041,
+        "original_language": "ta",
+        "original_title": "மீகாமன்",
+        "overview": "A cop Arul (Arya) is on an undercover mission to capture the underworld don Jothi (Ashutosh Rana) who runs a smuggling mafia in Goa. When both Arul and his friend Chandra (Ramanna) plans to arrest Jothi, things go haywire and the rest of the story tells us whether Arul completes his mission by playing a mind game.",
+        "popularity": 8.287,
+        "poster_path": "/rtpe39vLI6oO4xZlwMT89mfK81S.jpg",
+        "release_date": "2014-12-25",
+        "title": "Meaghamann",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 104372,
+        "original_language": "ja",
+        "original_title": "悪",
+        "overview": "A former gangster gets released from prison and goes to work for a group of people. The leader of this group becomes his mentor and the fight to combat criminals and for world peace. The whole resulting in the wanted and are chased of all families mob in Japan. They may however be a little unexpected help from the police.",
+        "popularity": 8.287,
+        "poster_path": "/9z9utfcrswvLV8pfllCGJD08wwB.jpg",
+        "release_date": "2006-02-25",
+        "title": "Waru",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6hKNkIPCWhttKxCCJUVPXpmzrbB.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 234227,
+        "original_language": "cn",
+        "original_title": "省港旗兵第四集：地下通道",
+        "overview": "The final entry in Michael and Johnny Mak's Long Arm of the Law series, Underground Express once again tells a story of gangsters versus police, focusing on the difference between how both factions act depending if they're coming from Hong Kong or Mainland China.",
+        "popularity": 8.285,
+        "poster_path": "/1Zj74OyuaKbqirQWp2QS21vzJFX.jpg",
+        "release_date": "1990-06-05",
+        "title": "Long Arm of the Law IV: Underground Express",
+        "video": false,
+        "vote_average": 7.556,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2CHOfFkWeFNk9aPb0Xid5beetBI.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 168056,
+        "original_language": "sv",
+        "original_title": "Fjällbackamorden 02 - Vänner för livet",
+        "overview": "The successful detective writer, Erica Falck, is thinking that her next book should be based on a true mysterious event from her childhood. When she was only 13 years old one of her dear friends and classmate Peter boarded a bus and then disappeared. Erica has been unable to let go of the tragic event and her first meeting with a real mystery. As she starts digging deeper into what really happened to Peter it seems as if she has awakened a sleeping beast. When Erica's only connection to Peter, his brother Ivan, who is on his way to see her, gets stabbed and murdered her mission becomes not only to solve the mystery about Peter but also to find out who killed Ivan. During a high school reunion party the heat builds up when Tina, Peter and Ivan's enigmatic sister, unexpectedly shows up and later at the party another murder is committed that leads Erica closer to the truth about what actually happened to the missing Peter.",
+        "popularity": 8.282,
+        "poster_path": "/3RiOkz3hq878nKP1qoKrl3kWYqy.jpg",
+        "release_date": "2013-01-02",
+        "title": "The Fjällbacka Murders: Friends for Life",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f2nwQ4EBBM0jbYSkso7TFlmUgkW.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10749,
+            10770
+        ],
+        "id": 89256,
+        "original_language": "en",
+        "original_title": "Her Married Lover",
+        "overview": "Film editor Katie and suspense novelist Richard share an erotically charged moment during a hostage crisis, before embarking on a rapturous affair. When Richard’s wife is killed in a suspicious accident, the lovers are accused of murder.",
+        "popularity": 8.282,
+        "poster_path": "/yHlv3aWq0g7WmTkWap6DwxsgPHt.jpg",
+        "release_date": "1999-10-07",
+        "title": "Her Married Lover",
+        "video": false,
+        "vote_average": 3.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            37,
+            10770
+        ],
+        "id": 369474,
+        "original_language": "pt",
+        "original_title": "Law of the Land",
+        "overview": "A frontier sheriff and his young deputies search for a serial killer who is murdering prostitutes.",
+        "popularity": 8.281,
+        "poster_path": "/4hx7MYjl5XwBZsATmai4W6rEdCk.jpg",
+        "release_date": "1976-04-29",
+        "title": "Law of the Land",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 69589,
+        "original_language": "ja",
+        "original_title": "BOX 袴田事件 命とは",
+        "overview": "Based on the true story of former professional boxer Iwao Hakamada who has spent over 40 years incarcerated on death row. Iwao Hakamada was arrested for the June 10, 1966 murder of a family in Shizuoka . Iwao Hakamada has always insisted on his innocence and many others also believe Iwao Hakamada has been falsely accused ...",
+        "popularity": 8.281,
+        "poster_path": "/2U8Bo9chwZDeFWXB2IJC4Dwx5rh.jpg",
+        "release_date": "2010-05-29",
+        "title": "Box: The Hakamada Case",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k2njvl6DVMXoVsvVBr0AU7G9EvY.jpg",
+        "genre_ids": [
+            10770,
+            53,
+            18,
+            80
+        ],
+        "id": 1176836,
+        "original_language": "en",
+        "original_title": "Body in the Attic",
+        "overview": "An unhappy wife convinces her lover to move into her attic. But when she finds him dead, she becomes convinced that her unsuspecting husband found out and is keeping his knowledge of her affair a secret to mentally torture her. Does he know the truth? Or is someone else responsible for her lover’s death?",
+        "popularity": 8.277,
+        "poster_path": "/k3jgCtAWYde0i7uAjVcjaqLiPQs.jpg",
+        "release_date": "2023-12-28",
+        "title": "Body in the Attic",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9DCqkS3aYIWj1eEXn3rV2c8g4Sq.jpg",
+        "genre_ids": [
+            28,
+            18,
+            9648,
+            80
+        ],
+        "id": 270823,
+        "original_language": "hi",
+        "original_title": "Talaash: The Hunt Begins",
+        "overview": "Babu works for three underworld dons and must go to prison to protect them. When his sentence is over, he returns home to find that Purnima (his wife), Arjun (his son) and Pooja (his daughter) live a destitute life. When he confronts his bosses, he is beheaded in front of his wife and children, and his daughter is abducted.  Purnima (Raakhee) loses her mind, and is hospitalized in a mental hospital. Growing up, Arjun (Akshay Kumar) becomes a high profile vigilante. As for Purnima, she becomes terribly ill and can be saved only if she sees her daughter again. Thus, Arjun decides to re-unite his mother and sister. In order to do so, he must discover the identity of his father's killers.",
+        "popularity": 8.277,
+        "poster_path": "/3E20MGbsGiUdYtCbBspeJ0hnQKz.jpg",
+        "release_date": "2003-01-03",
+        "title": "Talaash: The Hunt Begins",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rOGPAlScIzuhNV56E8nISm2UlyH.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 865464,
+        "original_language": "ml",
+        "original_title": "ജോൺ ലൂഥർ",
+        "overview": "Devikulam Police Station SI John Luther is a committed police officer, who even risks his life for policing. During an interrogation, he suffers ruptured eardrums and hearing loss. Will he be able to complete an investigation which he had to leave halfway?",
+        "popularity": 8.275,
+        "poster_path": "/cJoQGHkdimCfYizm4e4onSAKa4U.jpg",
+        "release_date": "2022-05-27",
+        "title": "John Luther",
+        "video": false,
+        "vote_average": 6.45,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2GwNnG8Zn6xyXv8VuBhRaGZcvXt.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 794621,
+        "original_language": "ja",
+        "original_title": "オルゴール",
+        "overview": "A former yakuza returns to gangster life after an old enemy threatens his son.",
+        "popularity": 8.275,
+        "poster_path": "/s7rDwEKghVgymNHrlN0rMSnkOwn.jpg",
+        "release_date": "1989-03-11",
+        "title": "Music Box",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 261193,
+        "original_language": "cn",
+        "original_title": "四大探長",
+        "overview": "Powerful Four boasts an all-star cast and chronicles the rise of four semi-corrupt Hong Kong police detectives during the late 1960s.",
+        "popularity": 8.275,
+        "poster_path": "/rmXScyvfnF6USvq4ai86jHD3kOO.jpg",
+        "release_date": "1992-01-01",
+        "title": "Powerful Four",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2WtvKiCl7ncYJxc9oodEF9mPqmd.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 161056,
+        "original_language": "fi",
+        "original_title": "8-pallo",
+        "overview": "8-Ball tells the story of  single mother Pike who, having just been released from prison, is trying to start her life anew. When her former boyfriend Lalli comes back from abroad, it opens a window into a past that Pike wants to put behind her.",
+        "popularity": 8.275,
+        "poster_path": "/5gQWtVYRrveoUw6ipyGmseXLnXb.jpg",
+        "release_date": "2013-02-22",
+        "title": "8-Ball",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wnaEKwRbJValhMnZuOuihXQC2xv.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 50250,
+        "original_language": "pt",
+        "original_title": "Os Imortais",
+        "overview": "Every year, four ex-soldiers who call themselves \"Os Imortais\" (\"The Immortals\"), get together with four women to celebrate their war deeds and remember the old days, back in the war. On the summer of 1985, tired of their monotonous lives, they decide to rob a bank. Joaquim Malarranha, a chief inspector from the local police force who is about to retire, crosses their path and chooses to spend his last days of duty trying to solve the robbery. But as he carries on with his investigation, he discovers more than he could have ever imagined...",
+        "popularity": 8.275,
+        "poster_path": "/xKP8fALfDCzI9aAPpPAQ4NfveVZ.jpg",
+        "release_date": "2003-11-07",
+        "title": "The Immortals",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mwvNmLVdHn5BPWyTCX2pn14PGh6.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 683876,
+        "original_language": "kn",
+        "original_title": "ಕಬ್ಜ",
+        "overview": "During the British rule in India, Arakeshwara, an air force soldier and son of a freedom fighter Amareshwara,due to unavoidable circumstances, kills Khaleed, the don of Amarapura and thus gets trapped in the mafia world and later becomes the king of the underworld. However, trouble ensues for Arakeshwara as he has to deal with his rivals and Bhargav Bhakshi, a cop sent by the British to eradicate him and the underworld.",
+        "popularity": 8.274,
+        "poster_path": "/vFpw8DbiGdhrqcvzpuiuRQBZJPb.jpg",
+        "release_date": "2023-03-17",
+        "title": "Kabzaa",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i0Pcl1HRihg5wYjtG5GmRuvDpaz.jpg",
+        "genre_ids": [
+            10770,
+            10751,
+            80,
+            9648
+        ],
+        "id": 275337,
+        "original_language": "en",
+        "original_title": "Casebusters",
+        "overview": "Jamie and Allie are amateur sleuths whose grandfather runs a small security business. One afternoon, while digging around on their own, they accidentally stumble onto a major case.",
+        "popularity": 8.273,
+        "poster_path": "/zijx1KlsXRiv6prJrnJ7aTi1ost.jpg",
+        "release_date": "1986-05-25",
+        "title": "Casebusters",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yefHjFQAR1yi6U8kMaFOhMWMCe.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 58838,
+        "original_language": "cn",
+        "original_title": "知法犯法",
+        "overview": "Mike, a cop who is becoming increasingly frustrated with his tiresome job with little benefits, whilst the criminals live a life of luxury. He is offered a undercover job to infiltrate a Triad gang led by Boss Tin. Mike slowly becomes engrossed in this world and in Tin's wife.",
+        "popularity": 8.272,
+        "poster_path": "/iemldTkgzzHXkZePWUmPLtGb0x6.jpg",
+        "release_date": "2001-03-01",
+        "title": "Cop on a Mission",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/enCslIAySNcaMDCnfcBeElP23jX.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 505516,
+        "original_language": "ja",
+        "original_title": "花と龍・青雲篇、愛憎篇、怒濤篇",
+        "overview": "Kingoro Tamai moves with his wife and son to the port city of Wakamatsu. He organizes the Tamai-gumi, a stevedore group, to vie for work with two other powerful groups. Gingo is Tamai's chief rival who falls in love with the latter's wife and tries to kill Tamai.",
+        "popularity": 8.266,
+        "poster_path": "/baK1UBRG4Aq4aUtzvZ6DaKbEsEL.jpg",
+        "release_date": "1973-03-17",
+        "title": "Flower and Dragon",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pwqmkIMbqgb3D1k3GjBeZpFajuq.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            53
+        ],
+        "id": 112518,
+        "original_language": "en",
+        "original_title": "Deadly Illusion",
+        "overview": "A private eye hired to kill a man's wife  warns her instead and then finds both are impostors.",
+        "popularity": 8.266,
+        "poster_path": "/hQLr45SoOPNFxvVhGxv7aQnwBz7.jpg",
+        "release_date": "1987-10-16",
+        "title": "Deadly Illusion",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 6
+    }
+]

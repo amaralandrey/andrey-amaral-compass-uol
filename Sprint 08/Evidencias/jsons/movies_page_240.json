@@ -1,0 +1,396 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/t1JAg5oIDug8REpK2MfXS9eHz7k.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 15451,
+        "original_language": "de",
+        "original_title": "Revanche",
+        "overview": "Ex-con Alex plans to flee to the South with his girl after a robbery. But something terrible happens and revenge seems inevitable.",
+        "popularity": 12.545,
+        "poster_path": "/tANcPqCxoCFqSRvhYTJ5mFte7gR.jpg",
+        "release_date": "2008-05-16",
+        "title": "Revanche",
+        "video": false,
+        "vote_average": 7.163,
+        "vote_count": 200
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qG2DFUvTOD151AKNbQgNQdXBOJE.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 108432,
+        "original_language": "en",
+        "original_title": "Sherlock Holmes and the Leading Lady",
+        "overview": "Sherlock Holmes and Doctor Watson get involved with Balkan terrorists to save Emperor Franz Joseph I of Austria from an assassination at the opera house and prevent World War I.",
+        "popularity": 12.541,
+        "poster_path": "/fq5asd3FzuLTzfPITWkOpxRo0at.jpg",
+        "release_date": "1991-12-06",
+        "title": "Sherlock Holmes and the Leading Lady",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vwL1iuYXJC8CNwKijazMRTCPA4P.jpg",
+        "genre_ids": [
+            12,
+            80,
+            18,
+            14,
+            9648,
+            53
+        ],
+        "id": 21775,
+        "original_language": "en",
+        "original_title": "Le Concile de Pierre",
+        "overview": "In France, the single translator Diane Siprien adopts an Asian baby named Liu-San in a foundation directed by Sybille Weber. Years later, a weird mark appears on the boy's chest and Diane and Liu share their dreadful nightmares. Diane is assigned for a three-day job in Germany and she leaves Liu with her friend Sybille. However, while going to the airport, Diane finds Liu hidden in the backseat and startles with an eagle flying toward the windshield, crashing her car. Liu falls into a coma and his digital recorder records the boy speaking in an unknown dialect. When Diane searches the translation and the origins of Liu, she is surrounded by mysterious murders. She discovers that the dialect is from the mystic Mongolian Tseven tribe and that Liu is a powerful Observer; further, he is in danger, threatened by sorcerers that need the boy for their Council of the Stone..",
+        "popularity": 12.541,
+        "poster_path": "/mrcpSFVKjQlZqKECiumCdekcWt5.jpg",
+        "release_date": "2006-11-15",
+        "title": "The Stone Council",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zAlmrbAOAEUIFJuGRkCbUPXNbiO.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 42822,
+        "original_language": "en",
+        "original_title": "20,000 Years in Sing Sing",
+        "overview": "Brash hoodlum Tom Connors enters Sing Sing cocksure of himself and disrespectful toward authority, but his tough but compassionate warden changes him.",
+        "popularity": 12.54,
+        "poster_path": "/pz6IM5TC5uLi3AQeXVMvPSgwngw.jpg",
+        "release_date": "1932-12-24",
+        "title": "20,000 Years in Sing Sing",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zmGdLKwPyUIgoq2TYBw3Eim5mNr.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 770492,
+        "original_language": "en",
+        "original_title": "Break Even",
+        "overview": "Four adventurous friends find 50M in cash at a remote island only to discover it was left by the DEA for the Cartel in a rogue deal.",
+        "popularity": 12.537,
+        "poster_path": "/1URYfZgvXyzTB2WtNiurZp28uFY.jpg",
+        "release_date": "2020-12-01",
+        "title": "Break Even",
+        "video": false,
+        "vote_average": 5.667,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/912nxaCkl5aAMoZMOtPGy3LPC2W.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 625248,
+        "original_language": "tl",
+        "original_title": "Dead Kids",
+        "overview": "A socially awkward teen bonds with a group of misfits who plot to abduct the school's arrogant rich kid -- until their kidnapping scheme turns deadly.",
+        "popularity": 12.537,
+        "poster_path": "/tIBEsnzhz5NE1KTzwyvJlFIGEhg.jpg",
+        "release_date": "2019-11-17",
+        "title": "Dead Kids",
+        "video": false,
+        "vote_average": 5.84,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3Censg4mJcybBOhIsVUrLXobwmc.jpg",
+        "genre_ids": [
+            18,
+            80,
+            28
+        ],
+        "id": 233993,
+        "original_language": "ja",
+        "original_title": "愛欲の罠",
+        "overview": "A hitman messes up an assassination and so becomes the next target of his organization.",
+        "popularity": 12.537,
+        "poster_path": "/5oDVqu0SvVwpB5ZLmyyGrp6hOwQ.jpg",
+        "release_date": "1973-12-15",
+        "title": "Trapped in Lust",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xcLTTiFZgiK7hUL80YtBn2wsEdS.jpg",
+        "genre_ids": [
+            28,
+            80,
+            10770
+        ],
+        "id": 223661,
+        "original_language": "cn",
+        "original_title": "刑警本色",
+        "overview": "Interpol officer Dickson Kwan is sent to Hong Kong to investigate in a fake passport forgery case and collaborates with officer Pau Sei and Lau Ting Kin. Due to different approaches on investigating, Dickson and Sei often get into conflicts. Later during an arrest operation, Dickson saves Sei's life and they forget about their bygones. Sei has a daughter Eva, who opposes his father to be a cop. Dickson falls in love with Eva and pursues her, however she does not like Dickson's dangerous profession and although she has feelings for him, she still rejects him.",
+        "popularity": 12.533,
+        "poster_path": "/czCqHgRDv2UMIsAOljHIFbV2GiF.jpg",
+        "release_date": "1988-01-01",
+        "title": "The Last Conflict",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qsqD0aAB50OymFqCUAQN8XAXUOs.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 99377,
+        "original_language": "en",
+        "original_title": "The Big Mouth",
+        "overview": "A fisherman crosses paths with a diamond-smuggling gangster–who is his doppelgänger—and inadvertently takes his place at a resort hotel where he meets a special girl.",
+        "popularity": 12.533,
+        "poster_path": "/wISMnNEuBZMpxv4tjWwZbawYMWW.jpg",
+        "release_date": "1967-07-12",
+        "title": "The Big Mouth",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x48oi91zKoUImKPKRSA3lLN69ET.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 30034,
+        "original_language": "en",
+        "original_title": "Shield for Murder",
+        "overview": "A crooked detective masterminds a robbery then fights to keep his money.",
+        "popularity": 12.527,
+        "poster_path": "/er9DUhC4jXg7QCH5ze6mn8QeS3w.jpg",
+        "release_date": "1954-08-27",
+        "title": "Shield for Murder",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v6RKWYXJLWAidd4wIrnRNJZ3vi4.jpg",
+        "genre_ids": [
+            28,
+            80,
+            27
+        ],
+        "id": 88941,
+        "original_language": "en",
+        "original_title": "A Scream in the Streets",
+        "overview": "Two Los Angeles detectives are assigned to track down and arrest a brutal rapist-murderer terrorizing the city. Their job is complicated by the fact that the killer is able to avoid capture because he can pose as a woman.",
+        "popularity": 12.522,
+        "poster_path": "/gm75Z0jbxfx0rzwJ7LhVpyFhKEN.jpg",
+        "release_date": "1973-01-01",
+        "title": "A Scream in the Streets",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sDGYsbLUC8bQc3WxwMIUxyD9amF.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            10770
+        ],
+        "id": 499292,
+        "original_language": "en",
+        "original_title": "Miss Marple: 4.50 from Paddington",
+        "overview": "Travelling on the 4.50 from Paddington, Mrs McGillicuddy witnesses a murder on a passing train - but where is the body?",
+        "popularity": 12.521,
+        "poster_path": "/4K8IRFo7pRGW7Uwvvl0XJQnK8ON.jpg",
+        "release_date": "1987-02-25",
+        "title": "Miss Marple: 4.50 from Paddington",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sWtxZHrVVBMGwCZB52L6PLfiO2w.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 143409,
+        "original_language": "ja",
+        "original_title": "荒野のダッチワイフ",
+        "overview": "A wealthy real estate investor is forced to watch the rape of his girlfriend and then is sent a film showing the fact. He hires a hitman, Sho, and shows him the film, so that the detective can get rid of the criminals. But the boss of the criminal band is Ko, Sho's archnemesis, who raped and murdered his girlfriend.",
+        "popularity": 12.515,
+        "poster_path": "/6zRQrwW5VagBqEKYrt0vvxxuIxE.jpg",
+        "release_date": "1967-10-03",
+        "title": "Inflatable Sex Doll of the Wastelands",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/euEacUW8TZIoJge9iiRHScGDmvz.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 43964,
+        "original_language": "ja",
+        "original_title": "野獣死すべし",
+        "overview": "A policeman is murdered and his gun, stolen, used to commit the next crime. Detective Kashiwagi, who is leading the investigation, learns that the author of the killings “walks like a dead man”. Kashiwagi runs into Date, a former correspondent in the Vietnam War. There, Date discovered hell and something snapped in his mind.",
+        "popularity": 12.512,
+        "poster_path": "/kBdFadZ0T8N59LmvNvfnzwL0ycK.jpg",
+        "release_date": "1980-10-04",
+        "title": "The Beast to Die",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gmvq84Cj6DgrFoYF2DPxWVcWclF.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 43891,
+        "original_language": "en",
+        "original_title": "Crime and Punishment",
+        "overview": "A man is haunted by a murder he's committed.",
+        "popularity": 12.51,
+        "poster_path": "/baF1oPKQdMxpiMdJijVNu2c8Yz1.jpg",
+        "release_date": "1935-11-22",
+        "title": "Crime and Punishment",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hFZ9KW2RHcPL5tcrwWPYYMRAi6f.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            27
+        ],
+        "id": 2304,
+        "original_language": "fr",
+        "original_title": "L'Homme blessé",
+        "overview": "Henri is a lonely, isolated young man who lets no one get close to him. He meets a street hustler and comes out of his shell, going 180 degrees into gay obsession. Though he has yet to physically approach the object of his affection, Henri builds up so much unrequited lust that it explodes with horrible results.",
+        "popularity": 12.508,
+        "poster_path": "/bZlCceaqycJo5mtheTpm3v6qxbs.jpg",
+        "release_date": "1983-05-25",
+        "title": "The Wounded Man",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jGspqU8fvG35zyeQnOjFytfkuZ.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 850161,
+        "original_language": "te",
+        "original_title": "రామారావు On Duty",
+        "overview": "Ramarao, a mandal revenue officer who was formerly removed from the position of deputy collector, is posted in Chittoor in the year 1995 and he decides to find out about a few unsolved murders in his area. He learns from his own investigation that an illegal smuggling ring is responsible for the deaths. Can Ramarao stop the smugglers?",
+        "popularity": 12.506,
+        "poster_path": "/snChpyepTGL6BUDeXNuRwDGZOmM.jpg",
+        "release_date": "2022-07-29",
+        "title": "Ramarao On Duty",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3GwD65DGn8BQUEgxandvtY7YJlO.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 778433,
+        "original_language": "ja",
+        "original_title": "CONFLICT -最大の抗争- 第三章",
+        "overview": "Washio now reigns as boss of Tendokai, but a deal over casino operating rights ignites a fierce war with a hostile faction in the Kansai region.",
+        "popularity": 12.502,
+        "poster_path": "/pztWOAD5bf3tQpkuEM1OsDU3icT.jpg",
+        "release_date": "2018-10-25",
+        "title": "Conflict III",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6O6YxSxF3NKa7BWrCmP3hLks0uX.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 124065,
+        "original_language": "cn",
+        "original_title": "新半斤八両",
+        "overview": "Hui, an owner of a Hong Kong tabloid magazine company hires martial artist Bill Lee to help him get a good headliner for a magazine story to, hopefully, save his failing business.",
+        "popularity": 12.502,
+        "poster_path": "/aq2NGpqJzO511mGyFXPpHDpCu9n.jpg",
+        "release_date": "1990-08-24",
+        "title": "Front Page",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a45PIfrFjvtEgV8ZjyHHdgrzpGH.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 22192,
+        "original_language": "sv",
+        "original_title": "Jönssonligan dyker upp igen",
+        "overview": "As always, Sickan has come up with a new plan. This time he wants to rob the IKEA furniture store. During their nightly break-in Sickan discovers that the store is used as a secret smuggling central for sending American computers to the Soviet Union. The computers are picked up by Soviet submarines sneaking into the Swedish archipelago. Naturally, it is their arch enemy Wall-Enberg who is behind all of this.",
+        "popularity": 12.5,
+        "poster_path": "/zz2lW37nwwl7wGBq7m9g85Q9jXx.jpg",
+        "release_date": "1986-10-24",
+        "title": "The Jönsson Gang Turns Up Again",
+        "video": false,
+        "vote_average": 6.038,
+        "vote_count": 52
+    }
+]

@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/pTG0hthzsMdHkIPxPy4b42xU7rP.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80,
+            10770
+        ],
+        "id": 266524,
+        "original_language": "en",
+        "original_title": "Jack Reed: A Search for Justice",
+        "overview": "Chicago police detective Jack Reed investigates the brutal murder of a stripper while he deals with corruption and bureaucracy within his own department.",
+        "popularity": 10.104,
+        "poster_path": "/mzHydAbf4RvEgdU6xalHozcC1Ez.jpg",
+        "release_date": "1994-10-02",
+        "title": "Jack Reed: A Search for Justice",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aCm3ZE47TWMzrFq50BSNZvNaU57.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 277967,
+        "original_language": "de",
+        "original_title": "Das ewige Leben",
+        "overview": "Brenner returns to Graz, the city where he grew up. When confronted with his old friends, his former girlfriend and the major sin he committed when he was young, murders and a fateful gunshot to the head result. After Brenner comes out of a coma, he begins to search for the person who tried to kill him - however, everybody claims that he himself is responsible. In the beginning Brenner was at the end of his rope, but he could face a new beginning in the end.",
+        "popularity": 10.1,
+        "poster_path": "/lSQ9fgPwhZfcFKxChHjHrbEiDLm.jpg",
+        "release_date": "2015-03-05",
+        "title": "Life Eternal",
+        "video": false,
+        "vote_average": 7.047,
+        "vote_count": 74
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l6gyuUfe8NiJXkxsRHRlokZaqpg.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 220396,
+        "original_language": "en",
+        "original_title": "The Chase",
+        "overview": "In Denver, a fleeing bank robber kills a cop and kidnaps an old man to hold as a hostage. He is chased by the police and a news helicopter, which films the entire incident. Based on a true story.",
+        "popularity": 10.1,
+        "poster_path": "/dWraIYRnS1LKVj8jgOPH8HghAiK.jpg",
+        "release_date": "1991-02-10",
+        "title": "The Chase",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lfnUjO2llUPUXDewkui9ucYwix9.jpg",
+        "genre_ids": [
+            80,
+            18,
+            12
+        ],
+        "id": 79399,
+        "original_language": "en",
+        "original_title": "Golden Salamander",
+        "overview": "An archaeologist stumbles into the territory of an evil crime syndicate and struggles to set things right.",
+        "popularity": 10.1,
+        "poster_path": "/suLb7W7D1BYLcTojWGARVcN6FNA.jpg",
+        "release_date": "1950-02-01",
+        "title": "Golden Salamander",
+        "video": false,
+        "vote_average": 5.75,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ip2EBzyRKixOesjCZClNXmMBCsh.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 439935,
+        "original_language": "ko",
+        "original_title": "아티스트: 다시 태어나다",
+        "overview": "Oh In-sook, who goes by Gisele in the art world, is a failed artist with nothing going for her. During her shift at her part time job, she meets a cunning and canny art sales representative Jae-bum. Jae-bum believes that Gisele has the potential to become a prominent artist and decides to represent her. He and his colleague James, through their ingenious sales efforts, begin to raise the value of Gisele’s paintings, causing Gisele to gain immense fame. As she is ready to bathe in her success, she unexpectedly dies of reasons unknown shocking the art community. Jaebum sees this as an opportunity to hike the prices on his deceased client’s paintings and decides to go all-in in doing so. However, Gisele miraculously gains consciousness like the Lazarus syndrome, denting Jae-bum’s scheme. In order to save his career, Jaebum suggests to Gisele to stay “dead” and aims to strike a deal with her.",
+        "popularity": 10.098,
+        "poster_path": "/eRBediTqqWU3SGywitU2GkZwzYW.jpg",
+        "release_date": "2017-03-09",
+        "title": "The Artist: Reborn",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yHr5isdqOlL0SecfTInouGvRo2q.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 227674,
+        "original_language": "en",
+        "original_title": "Cry Rape",
+        "overview": "A man who is arrested for rape swears it wasn't him but somebody who looks just like him, but the victim insists it was him.",
+        "popularity": 10.098,
+        "poster_path": "/lNmhNLw1Vv1cbBHQm1BzqGkDz2C.jpg",
+        "release_date": "1973-11-27",
+        "title": "Cry Rape",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 128008,
+        "original_language": "en",
+        "original_title": "Police Story: The Freeway Killings",
+        "overview": "Thriller/Drama about LAPD detectives tracking down two serial killers who are murdering hookers.",
+        "popularity": 10.098,
+        "poster_path": "/tWoffNyRfpDHVMCCrheVWSlPHK3.jpg",
+        "release_date": "1987-05-03",
+        "title": "Police Story: The Freeway Killings",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qingbSjGoxRNNg1t1ULIE9ccm9K.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 76851,
+        "original_language": "it",
+        "original_title": "Ad ogni costo",
+        "overview": "Professor James Anders is a seemingly mild-mannered teacher, an American working in Rio De Janeiro. Anders, bored with years of teaching, decides to put together a team to pull off a diamond heist during the Rio Carnival. Four international experts are brought together to carry out the robbery: a safe cracking expert, a master thief, a mechanical genius, and a playboy.",
+        "popularity": 10.096,
+        "poster_path": "/iKqqIqTTSKHM9wOTIMkEwhkq2y6.jpg",
+        "release_date": "1967-09-28",
+        "title": "Grand Slam",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xY0VF7mnPhgKgA8fsequ530F7h3.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 211076,
+        "original_language": "en",
+        "original_title": "Bad Turn Worse",
+        "overview": "Three teenage friends get in way over their head when they cross a down-home crime syndicate. They hope to make a break for it and escape their dead-end existence in a cotton-mill town but get sucked into the seedy underbelly of organized crime when one of them steals from the wrong man.",
+        "popularity": 10.091,
+        "poster_path": "/hDuYlLFSkYO2ex8k5GfYXJnibf6.jpg",
+        "release_date": "2014-08-15",
+        "title": "Bad Turn Worse",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 71
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zVNBap7LpLsdqYshueqW07rgNvp.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 76745,
+        "original_language": "fr",
+        "original_title": "Du rififi à Paname",
+        "overview": "In Paris, a gold smuggler is at war with other local gangsters who want piece of the action. Then the mob shows up and makes things worse. And an undercover US Treasury Department agent is trying to infiltrate the smuggling business.",
+        "popularity": 10.09,
+        "poster_path": "/u21RnFYSEildxLx224uTwcGTaxQ.jpg",
+        "release_date": "1966-03-02",
+        "title": "The Upper Hand",
+        "video": false,
+        "vote_average": 6.303,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zXZwol4Uw7goqFz6R0iBlcYRxXh.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 715765,
+        "original_language": "hi",
+        "original_title": "बच्चन पांडे",
+        "overview": "A budding director tries to research a merciless gangster for making a film on gangsterism. But her secret attempts to conduct the research fail when she gets caught for snooping.",
+        "popularity": 10.087,
+        "poster_path": "/2imRsgBbAk7QHvKcgWrfAgamp3P.jpg",
+        "release_date": "2022-03-18",
+        "title": "Bachchhan Paandey",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zBSW6eICfpwcvPeBP0p0ZgROnCf.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80
+        ],
+        "id": 594028,
+        "original_language": "kn",
+        "original_title": "ಕವಲುದಾರಿ",
+        "overview": "The story follows two Bangalore cops as they investigate an old case. Anant Nag plays Muthanna, a retired inspector while Rishi is Shyam, a sub-inspector working in the Traffic Police. Their search leads them across trails that will put their wit, resolve and morals to the test.",
+        "popularity": 10.085,
+        "poster_path": "/gDA8IXXHzvDACfZHhmCV6uJSA0V.jpg",
+        "release_date": "2019-04-12",
+        "title": "Kavaludaari",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 116645,
+        "original_language": "en",
+        "original_title": "Who Is the Black Dahlia?",
+        "overview": "In 1947 Los Angeles, a police detective tries to solve the shocking and grisly murder of 22-year-old aspiring actress Elizabeth Short.",
+        "popularity": 10.085,
+        "poster_path": "/pvuYniKCHEiZSmOpVx4rhpmGMdB.jpg",
+        "release_date": "1975-03-01",
+        "title": "Who Is the Black Dahlia?",
+        "video": false,
+        "vote_average": 6.364,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4sPeoQfGNHPdfjUlrxT3Wlp1J9T.jpg",
+        "genre_ids": [
+            12,
+            80
+        ],
+        "id": 339471,
+        "original_language": "en",
+        "original_title": "Black Jack",
+        "overview": "A man who lost everything in the war now smuggles contraband into and out of Spain, but the law's closing in.",
+        "popularity": 10.084,
+        "poster_path": "/iuJfO2b2GtZJp5hvStAu4f5brKg.jpg",
+        "release_date": "1950-11-20",
+        "title": "Black Jack",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8QAV8dOpkE2nGS6frz3qixl46tD.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 552670,
+        "original_language": "en",
+        "original_title": "Cut Off",
+        "overview": "Struggling with his new life in New Orleans, Clive follows Trevor, a former professor to his country home on the bayou to gain a new perspective. While Trevor helps Clive deal with his demons, Clive is sucked into a mission to kill.",
+        "popularity": 10.083,
+        "poster_path": "/1rZt61OUa4WwF4PaN7Lt29YGoV8.jpg",
+        "release_date": "2018-04-20",
+        "title": "Cut Off",
+        "video": false,
+        "vote_average": 5.725,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iPZs8xvfgePktAiPNXfb1buIGLw.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            36
+        ],
+        "id": 298871,
+        "original_language": "pl",
+        "original_title": "Sprawa Gorgonowej",
+        "overview": "In 1931, just before the New Year, in a house of architect Henryk Zaremba scream rips the night. The daughter of Zaremba is found killed in her bedroom, obviously killed with a pickaxe. The police arrives and starts the investigation. Rita Gorgonova, the governess of the girl and also lover of Zaremba becomes the main suspect.  Film based on real events - investigation and court trials of the most famous pre-war Polish murder case. Despite being historically accurate the movie is both involving and entertaining since the case was simple on the surface, but very complicated in details.",
+        "popularity": 10.083,
+        "poster_path": "/gZBbAm7r5MmdAK84vuNJBpTxNLu.jpg",
+        "release_date": "1977-11-25",
+        "title": "The Gorgon Case",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3WdzkbeFZYkp7z3Fvg5VZ6F5hz6.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 636279,
+        "original_language": "ko",
+        "original_title": "보고타",
+        "overview": "In the 1990s, 19-year-old Kook-hee moves to Bogota with his family, wishing for a better life only to end up living from hand to mouth. Beginning at the bottom of the ladder, he goes through hell and high water and now dominates the black market of Bogota.",
+        "popularity": 10.081,
+        "poster_path": "/h9qbjfZd0luePnX7rnoVDd88YnC.jpg",
+        "release_date": "",
+        "title": "Bogota: City of the Lost",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hg4gOWeF9UjOaeCM9MevEmIjvgf.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 70028,
+        "original_language": "de",
+        "original_title": "Das Geheimnis der gelben Narzissen",
+        "overview": "A Chinese detective breaks up a drug smuggling ring and tries to find the \"Daffodil Killer\". The drug smugglers had devised the ingenious method of smuggling heroin from Hong Kong in the stems of daffodils.",
+        "popularity": 10.077,
+        "poster_path": "/cyT3SO9n5AYTVYaY3QOiVAHhYyI.jpg",
+        "release_date": "1961-07-20",
+        "title": "The Devil's Daffodil",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tYajR7TJouFcSCKPzeC2OS0XyZy.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            12
+        ],
+        "id": 126866,
+        "original_language": "ru",
+        "original_title": "Приключения Шерлока Холмса и доктора Ватсона: Ирэн Адлер",
+        "overview": "During the investigation of the Agra treasure case, Holmes and Watson recall another case that Holmes had investigated earlier. The King of Bohemia comes to Holmes under a false name, who behaves somewhat arrogantly at first, and then plaintively asks for help.",
+        "popularity": 10.074,
+        "poster_path": "/gkk08aJndujZvMBEkPbzfJgMZui.jpg",
+        "release_date": "1983-06-26",
+        "title": "The Adventures of Sherlock Holmes and Dr. Watson: Irene Adler",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            80,
+            18,
+            9648
+        ],
+        "id": 107250,
+        "original_language": "en",
+        "original_title": "The Wandering Soul Murders",
+        "overview": "Haunted by the murder of her politician husband 6 years ago, former police detective Joanne Kilbourn (Wendy Crewson) keeps looking for clues, with the help of her old partner (Victor Garber). When a prime suspect is caught, it looks as if the killer may finally be brought to justice … but in a shocking turn of events, the suspect is gunned down as he's brought to the police station. Is there more to her husband's death than Joanne realized?",
+        "popularity": 10.074,
+        "poster_path": "/jG7RZYRFFlIt1Cbw36U6Y7Fd19Z.jpg",
+        "release_date": "2001-01-09",
+        "title": "The Wandering Soul Murders",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 7
+    }
+]

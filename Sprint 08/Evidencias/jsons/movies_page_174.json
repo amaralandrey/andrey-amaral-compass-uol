@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/xfoHNVoL7n1RSgoguk8gUJRImoc.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 31058,
+        "original_language": "it",
+        "original_title": "Riso amaro",
+        "overview": "Francesca and Walter are two-bit criminals in Northern Italy, and, in an effort to avoid the police, Francesca joins a group of women rice workers. She meets the voluptuous peasant rice worker, Silvana, and the soon-to-be-discharged soldier, Marco. Walter follows her to the rice fields, and the four characters become involved in a complex plot involving robbery, love, and murder.",
+        "popularity": 16.258,
+        "poster_path": "/9vvbZgbkfE7urqQXRNiONmvYTtF.jpg",
+        "release_date": "1949-09-30",
+        "title": "Bitter Rice",
+        "video": false,
+        "vote_average": 7.438,
+        "vote_count": 200
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nWLMIG4xY4MO2ESGoVfoVemu2a5.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 29740,
+        "original_language": "en",
+        "original_title": "I Am a Fugitive from a Chain Gang",
+        "overview": "A World War I veteran’s dreams of becoming a master architect evaporate in the cold light of economic realities. Things get even worse when he’s falsely convicted of a crime and sent to work on a chain gang.",
+        "popularity": 16.257,
+        "poster_path": "/jer6lim61i8V6a5HOZq2i07UQQf.jpg",
+        "release_date": "1932-11-09",
+        "title": "I Am a Fugitive from a Chain Gang",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 199
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8PvFz03EFFxEpHirFy573aRTwJH.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            18
+        ],
+        "id": 479242,
+        "original_language": "en",
+        "original_title": "Gourmet Detective: Eat, Drink and Be Buried",
+        "overview": "Henry and Maggie attend the birthday party of a local publisher, where his son and stepson reenact a historical 18th century dual. Someone, however, has loaded the antique pistol with a real musket ball, so when son pulls the trigger, he kills his stepbrother in front of a roomful of witnesses. Henry and Maggie have to figure out who wanted the stepson dead and why.",
+        "popularity": 16.249,
+        "poster_path": "/bB4trqWthUHHs6UvFy5niopmCbh.jpg",
+        "release_date": "2017-10-08",
+        "title": "Gourmet Detective: Eat, Drink and Be Buried",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yniqXvwEiO0vSNmGPIJmjgKZmi8.jpg",
+        "genre_ids": [
+            10749,
+            27,
+            80
+        ],
+        "id": 220885,
+        "original_language": "cn",
+        "original_title": "人皮燈籠",
+        "overview": "A gang member is pursued by a ghost who was his lover in a past life.",
+        "popularity": 16.247,
+        "poster_path": "/55Kkwpy3HkZTHd1oLqU9LB6YQMJ.jpg",
+        "release_date": "1993-11-27",
+        "title": "Ghost Lantern",
+        "video": false,
+        "vote_average": 6.571,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oQun09EMuMGHwU90bHpeP9F2372.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 14267,
+        "original_language": "en",
+        "original_title": "Female Trouble",
+        "overview": "Dawn Davenport progresses from a teenage nightmare hell-bent on getting cha-cha heels for Christmas to a fame monster whose egomaniacal impulses land her in the electric chair.",
+        "popularity": 16.237,
+        "poster_path": "/cqhIufhoORDMuFKEinV1IIYUBxD.jpg",
+        "release_date": "1974-10-04",
+        "title": "Female Trouble",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 177
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y9zmtCPXFVVNhlgzPTr7qXA87k7.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648,
+            10770
+        ],
+        "id": 6174,
+        "original_language": "en",
+        "original_title": "The Murders in the Rue Morgue",
+        "overview": "A detective comes out of retirement to help his daughter's fiance prove that he did not commit a series of murders.",
+        "popularity": 16.237,
+        "poster_path": "/roGb7CTNwNiRFeJLyJvIEPgz97g.jpg",
+        "release_date": "1986-12-07",
+        "title": "The Murders in the Rue Morgue",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/68Vk0LOkefFJc97n5PK1Ow280hZ.jpg",
+        "genre_ids": [
+            35,
+            10749,
+            80,
+            10751
+        ],
+        "id": 20294,
+        "original_language": "hi",
+        "original_title": "Welcome",
+        "overview": "Dubai-based criminal don Uday takes it upon himself to try and get his half-sister Sanjana married - in vain, as no one wants to be associated with a crime family. Uday's associate and best friend Majnu finds a well to do, nice young man, Rajiv, who lives with his maternal uncle and aunt - Dr. and Mrs. Ghunghroo. Through extortion he compels the Ghunghroos to accept this matrimonial alliance. With no escape from this predicament, the wedding is planned, with hilarious consequences.",
+        "popularity": 16.231,
+        "poster_path": "/fudxnXlTTBIDCkpR7XhlIgkNaUY.jpg",
+        "release_date": "2007-12-21",
+        "title": "Welcome",
+        "video": false,
+        "vote_average": 6.736,
+        "vote_count": 146
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ekvoB0FWr9qwP19ERtNVTikN3qd.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 66193,
+        "original_language": "en",
+        "original_title": "Sinners and Saints",
+        "overview": "In lawless storm ravaged New Orleans, eleaguered Detective Sean Riley is trying to cope with the death of his young son and the abandonment of his wife. Facing a probable suspension from the department, Riley is teamed with a young homicide Detective, Will Ganz, to help solve a series of brutal murders that have plunged the city into a major gang war. The two quickly realize there is something far more sinister going on than either could have ever imagined.",
+        "popularity": 16.229,
+        "poster_path": "/UJxJhntlNmceBCxgbXDNi4gG5e.jpg",
+        "release_date": "2010-06-30",
+        "title": "Sinners and Saints",
+        "video": false,
+        "vote_average": 5.527,
+        "vote_count": 94
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AWWrY0NFIYRFfWzAJqv4KSSML.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 29735,
+        "original_language": "en",
+        "original_title": "The Laughing Policeman",
+        "overview": "When a gunman opens fire on a crowded city bus in San Francisco, Detective Dave Evans is killed, along with the man he'd been following in relation to a murder. Evans' partner, Sgt. Jake Martin, becomes obsessed with solving the case.",
+        "popularity": 16.226,
+        "poster_path": "/5pBK26jzGirNthgIxCPNs4eVjIQ.jpg",
+        "release_date": "1973-12-20",
+        "title": "The Laughing Policeman",
+        "video": false,
+        "vote_average": 6.232,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fRUYuvMTyNrY2ksPpDLqqV9XiVW.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 45303,
+        "original_language": "cn",
+        "original_title": "暗戰 2",
+        "overview": "Ho Sheung Sang finds himself wrapped up in another cat-and-mouse game, this time against a tricky magician.",
+        "popularity": 16.223,
+        "poster_path": "/g06zwckiSMjWLdw8teOoHvDe0kP.jpg",
+        "release_date": "2001-12-27",
+        "title": "Running Out of Time 2",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7gkPmprl8m38JwWsCFys4NlJsi7.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            10770
+        ],
+        "id": 231627,
+        "original_language": "en",
+        "original_title": "Stalkers",
+        "overview": "Revolves around a criminal prosecutor who penned the law on stalking in California and is based on the true story of a hot-head cop and polished district attorney who team to bring a stalker obsessed with her former lover to justice.",
+        "popularity": 16.222,
+        "poster_path": "/juTLprxCegUQvccLzQDtxSBKQAV.jpg",
+        "release_date": "2013-04-13",
+        "title": "Stalkers",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ukFD3W0OkGQiA4qfQewAVL3WgRb.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            9648
+        ],
+        "id": 1848,
+        "original_language": "en",
+        "original_title": "Poodle Springs",
+        "overview": "Private eye Philip Marlowe and his bride move to a desert town, where he uncovers a land scheme.",
+        "popularity": 16.221,
+        "poster_path": "/ySroOZG9J50vMlKTc4fwyiOxmxR.jpg",
+        "release_date": "1998-07-25",
+        "title": "Poodle Springs",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xwMI3XD4EvQtLcBCGUoGx0TBWwd.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 714889,
+        "original_language": "es",
+        "original_title": "Los delincuentes",
+        "overview": "Morán works as a clerk in a bank in Buenos Aires. He is as good as invisible to his colleagues. Over dinner with his colleague Román, Morán tells him that he stole exactly $650,000, which is exactly double what he would have made until his retirement. He plans to turn himself in, but not before offering Román to split the money if agrees to hide it for the duration of his incarceration.",
+        "popularity": 16.22,
+        "poster_path": "/cad4ZgJsf32JCjqViS5fsDp826w.jpg",
+        "release_date": "2023-10-16",
+        "title": "The Delinquents",
+        "video": false,
+        "vote_average": 6.352,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Qgfvndpje4oU7cUw3oYvT8dlyP.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 19658,
+        "original_language": "hi",
+        "original_title": "Race",
+        "overview": "The plot thickens around two horse-racing competitors when three beautiful women come into their lives and a murder is committed.",
+        "popularity": 16.217,
+        "poster_path": "/krMI3hRmlgKcuNc3XBWtl8APasR.jpg",
+        "release_date": "2008-03-20",
+        "title": "Race",
+        "video": false,
+        "vote_average": 6.064,
+        "vote_count": 110
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o85Dzz3N6118X3P0baXZ5Jgaq4K.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 25955,
+        "original_language": "en",
+        "original_title": "Pickup on South Street",
+        "overview": "In New York City, an insolent pickpocket, Skip McCoy, inadvertently sets off a chain of events when he targets ex-prostitute Candy and steals her wallet. Unaware that she has been making deliveries of highly classified information to the communists, Candy, who has been trailed by FBI agents for months in hopes of nabbing the spy ringleader, is sent by her ex-boyfriend, Joey, to find Skip and retrieve the valuable microfilm he now holds.",
+        "popularity": 16.215,
+        "poster_path": "/et4fY4BxLyAPwxvUFUbzCUrGsjR.jpg",
+        "release_date": "1953-05-27",
+        "title": "Pickup on South Street",
+        "video": false,
+        "vote_average": 7.39,
+        "vote_count": 269
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jdnINtiKofOPMNaYPBT7hwbcDMG.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 283707,
+        "original_language": "it",
+        "original_title": "Anime nere",
+        "overview": "A former narcotics smuggler, now living peaceably in the Calabrian hills, is drawn back into his family’s drug-trade dynasty by his impetuous teenage son.",
+        "popularity": 16.211,
+        "poster_path": "/wed0sY0JNWVGZmvTKEIMluT8M2z.jpg",
+        "release_date": "2014-09-18",
+        "title": "Black Souls",
+        "video": false,
+        "vote_average": 6.814,
+        "vote_count": 191
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ufOOBCOyZbCp6xNYiDH3Zwz5f96.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 40180,
+        "original_language": "fr",
+        "original_title": "Peur sur la ville",
+        "overview": "A serial-killer frightens Paris by phoning young ladies at night, telling them insults about their lives. Minos, as he calls himself, wants to prevent the world from free women and he targets at first these ones. Commissaire Letellier is given the investigation and he has hard work with the maniac.",
+        "popularity": 16.21,
+        "poster_path": "/8i1a5edqui2fbP6zDmSvHWe0Wr2.jpg",
+        "release_date": "1975-04-09",
+        "title": "Fear Over the City",
+        "video": false,
+        "vote_average": 7.222,
+        "vote_count": 246
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s8l7HK396cXmCoxYf84VJBxxaOr.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 46040,
+        "original_language": "hi",
+        "original_title": "तीस मार खान",
+        "overview": "A con artist poses as a film director in a village with the intention of executing a caper with the unwitting help of the villagers.",
+        "popularity": 16.206,
+        "poster_path": "/salRF4Qjw4SQk5ZcXfktt3WFGDw.jpg",
+        "release_date": "2010-12-24",
+        "title": "Tees Maar Khan",
+        "video": false,
+        "vote_average": 3.807,
+        "vote_count": 88
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wJel7RuEKu8wT7arOflfpN1o80p.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 42358,
+        "original_language": "en",
+        "original_title": "Cold Sweat",
+        "overview": "During the Korean War, Joe Moran, is convicted for striking a colonel. Imprisoned in Germany he encounters his former company commander Captain Ross, jailed for black marketeering. Together with Ross' cohorts Joe agrees to escape with them, but things go wrong and a policeman is killed. An appalled Joe escapes by himself, abandoning the others, who are recaptured. Years later Joe has a boat rental business where he is found by Ross. Now a wanted drug smuggler he wants the use of Joe's boats and to ensure his cooperation, they kidnap his wife and daughter.",
+        "popularity": 16.204,
+        "poster_path": "/eZVf34Dg2LWL7X1yf3MkSVRL8kM.jpg",
+        "release_date": "1970-12-18",
+        "title": "Cold Sweat",
+        "video": false,
+        "vote_average": 5.619,
+        "vote_count": 67
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gc1Y41h4Pfx9MyBKhTo7rtRC7xs.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80
+        ],
+        "id": 31676,
+        "original_language": "en",
+        "original_title": "Desperate Hours",
+        "overview": "An escaped con, on the run from the law, moves into a married couple's house and takes over their lives.",
+        "popularity": 16.197,
+        "poster_path": "/gtIRVVHRRr4iWN8yJ6tQs0CqWV2.jpg",
+        "release_date": "1990-10-05",
+        "title": "Desperate Hours",
+        "video": false,
+        "vote_average": 5.468,
+        "vote_count": 186
+    }
+]

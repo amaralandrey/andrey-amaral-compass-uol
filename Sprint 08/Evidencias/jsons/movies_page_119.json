@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/dJoa858Z4UJfJK0DVlIvHZFutjc.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 45420,
+        "original_language": "cn",
+        "original_title": "重案黐孖GUN",
+        "overview": "Eason Chan is K.C, Chan and Y.T. Lee is Aaron Kwok, both are very smart cop, who both were assign to interpol. The only thing that make them different is woman. K.C Chan is known for courting with a lot of woman and Y.T. Lee get nervous around woman. The case for this movie is about a international thief who come to Hong Kong to steal, a diamond necklace worth over 10 million US. Anyway, Yumiko Cheng who is engage with a fertilizer mogul, soon for in love with KC Chan.",
+        "popularity": 21.069,
+        "poster_path": "/wPLPeL5qb20xzXeopDiiQUnw8k8.jpg",
+        "release_date": "2004-06-24",
+        "title": "Heat Team",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dk1OPZcIUF9MEFdK13mS8lYYmmR.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 34379,
+        "original_language": "en",
+        "original_title": "No Man's Land",
+        "overview": "A rookie cop goes undercover to infiltrate a gang of car thieves led by smooth and charming Ted. The rookie becomes too involved and starts to enjoy the thrill and lifestyle of the game, and becomes romanticly involved with the leaders sister.",
+        "popularity": 21.068,
+        "poster_path": "/4e31HPK4Rx3AvnAQhJDTpCqoESQ.jpg",
+        "release_date": "1987-10-23",
+        "title": "No Man's Land",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 92
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vJ1MWvrJmupJFDrXHlbxRYJg2ZE.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 74536,
+        "original_language": "en",
+        "original_title": "The Son of No One",
+        "overview": "A rookie cop is assigned to the 118 Precinct in the same district where he grew up. The Precinct Captain starts receiving letters about two unsolved murders that happened many years ago in the housing projects when the rookie cop was just a kid. These letters bring back bad memories and old secrets that begin to threaten his career and break up his family.",
+        "popularity": 21.062,
+        "poster_path": "/koxJAJTPTKzMxKu3vVhPvoZc4w6.jpg",
+        "release_date": "2011-11-04",
+        "title": "The Son of No One",
+        "video": false,
+        "vote_average": 5.053,
+        "vote_count": 303
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wJrvNljE4lZDd5D7cIxi6xAVVZL.jpg",
+        "genre_ids": [
+            80,
+            35,
+            878
+        ],
+        "id": 846167,
+        "original_language": "pl",
+        "original_title": "W jak morderstwo",
+        "overview": "A stay-at-home mom and avid reader of crime stories discovers the deepest secrets of a small town's residents while investigating a woman's murder.",
+        "popularity": 21.057,
+        "poster_path": "/i4CLIpT1lEOtVvOsF3dajDTXxuc.jpg",
+        "release_date": "2021-06-18",
+        "title": "In for a Murder",
+        "video": false,
+        "vote_average": 6.275,
+        "vote_count": 173
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/snrSg9LzNHATvaywIZusb8XIIpg.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 20876,
+        "original_language": "en",
+        "original_title": "A Shock to the System",
+        "overview": "Madison Avenue executive Graham Marshall has paid his dues. A talented and devoted worker, he has suffered through mounting bills and a nagging wife with one thing to look forward to: a well-deserved promotion. But when the promotion is given to a loud-mouthed yuppie associate, Graham unleashes his rage on an overly aggressive panhandler, who he accidently kills by pushing him into the path of an oncoming subway train. He re-thinks his problems with an entirely new solution. First, he arranges an \"accident\" for his annoying wife. Then he creates another \"mishap\" for his boss. It seems like the world is once more Graham's oyster…but a missing cigarette lighter and a prying police detective may change all that.",
+        "popularity": 21.055,
+        "poster_path": "/4w2rsBS3myidF2FxlBAx62YDLbi.jpg",
+        "release_date": "1990-03-23",
+        "title": "A Shock to the System",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 115
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zDn3cbldAhAldpPSkJkUwR9sHBq.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 50569,
+        "original_language": "zh",
+        "original_title": "馬永貞",
+        "overview": "Leaving the poverty of his life in Shantung to seek fortune in Shanghai, The Boxer is instead drawn into a world of corruption, gang warfare and evil... Where his only protection is his famed fighting technique.",
+        "popularity": 21.053,
+        "poster_path": "/yHIKeUXQ0N8icn0KIyXDEsvHYmx.jpg",
+        "release_date": "1972-02-11",
+        "title": "The Boxer from Shantung",
+        "video": false,
+        "vote_average": 6.629,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eDOPYJ10uSWgJx15RI4nq4etHPC.jpg",
+        "genre_ids": [
+            18,
+            28,
+            35,
+            80
+        ],
+        "id": 208869,
+        "original_language": "en",
+        "original_title": "Plastic",
+        "overview": "Sam and Fordy run a credit card fraud scheme, but when they steal from the wrong man, they find themselves threatened by sadistic gangster. They need to raise £5m and pull off a daring diamond heist to clear their debt.",
+        "popularity": 21.049,
+        "poster_path": "/1jva5sTJnlz9g11Xm0GTxl6WAIk.jpg",
+        "release_date": "2014-04-30",
+        "title": "Plastic",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 187
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uBDbyoufp7TGaDDVTHOCxl3dz8p.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 801526,
+        "original_language": "hi",
+        "original_title": "डार्लिंग्स",
+        "overview": "Badru hopes her volatile husband will reform if he stops drinking. But when his rage goes too far, she and her mom boldly, albeit clumsily, seek revenge.",
+        "popularity": 21.046,
+        "poster_path": "/lyA7kXCIAG17hVuvFOxlMmmv31A.jpg",
+        "release_date": "2022-08-05",
+        "title": "Darlings",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1pgiezGVzht05L2Z96Ex83zDCGr.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            28,
+            80
+        ],
+        "id": 122800,
+        "original_language": "en",
+        "original_title": "Freelancers",
+        "overview": "The son of a slain NYPD officer joins the force, where he falls in with his father's former partner and a team of rogue cops. His new boss, Sarcone, will see if he has what it takes to be rogue through many trials and tribulations of loyalty, trust and respect. When the truth about his father's death is revealed revenge takes him over and he won't stop until justice has been truly served.",
+        "popularity": 21.046,
+        "poster_path": "/8jdYImZW75JlZN70A0uzls4uL16.jpg",
+        "release_date": "2012-08-10",
+        "title": "Freelancers",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 231
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9wR8tVP9Ln8sYCfk3UULe0hZQH5.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 45129,
+        "original_language": "hi",
+        "original_title": "Salaam Bombay!",
+        "overview": "After destroying his older brother's motorbike in retaliation for his constant bullying, 11-year-old Krishna is sent to a traveling circus to earn money to pay for the bike's repairs, but soon winds up in the streets of Bombay's poorest slums. There, he befriends the drug dealer Chillum and young prostitute Sola Saal, while trying to make enough money at a neighborhood tea stall to repay his debt to his family.",
+        "popularity": 21.045,
+        "poster_path": "/eECutr4lseF2dDI7Okfq0CYAhWZ.jpg",
+        "release_date": "1988-08-24",
+        "title": "Salaam Bombay!",
+        "video": false,
+        "vote_average": 7.289,
+        "vote_count": 95
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wig9v1NdE7uCLELO7dgvq50MpaM.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 477508,
+        "original_language": "en",
+        "original_title": "Lucky Day",
+        "overview": "Red, a safe cracker who has just been released from prison, is trying to hold his family together as his past catches up with him in the form of Luc, a psychopathic contract killer who's seeking revenge for the death of his brother.",
+        "popularity": 21.042,
+        "poster_path": "/y1Iux6HUOjoOBrqDyg3RZYe0pGh.jpg",
+        "release_date": "2019-09-18",
+        "title": "Lucky Day",
+        "video": false,
+        "vote_average": 5.291,
+        "vote_count": 160
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5HgmYfCGZRtx0PnQxDTg3Djqrrd.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 798223,
+        "original_language": "es",
+        "original_title": "Pipa",
+        "overview": "Years after moving to a remote town, ex-cop Pipa is pulled back into the dark world she thought she'd left behind when a corpse appears on her property.",
+        "popularity": 21.035,
+        "poster_path": "/1Rgp0TpqtdJf3DoVJWeGiESSTH5.jpg",
+        "release_date": "2022-07-27",
+        "title": "Recurrence",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 96
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r1sKVaS6RxRplU2CJBaqMAz3vUC.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 127329,
+        "original_language": "cn",
+        "original_title": "絕色武器",
+        "overview": "A gorgeous lethal killer, brainwashed by the villain, makes a startling discovery in a mission to eliminate a person she can in no way imagine.",
+        "popularity": 21.034,
+        "poster_path": "/bDJGfBDpaS6NppZxwOobDNXMkF3.jpg",
+        "release_date": "2012-08-15",
+        "title": "Naked Soldier",
+        "video": false,
+        "vote_average": 4.604,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8KvYrF6oax8ZUIzi0z3mQmVPQUW.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 39768,
+        "original_language": "ru",
+        "original_title": "Берегись автомобиля",
+        "overview": "An insurance agent who moonlights as a carthief steals cars various crooks and never from the common people. He sells the stolen cars and gives the money to charity. His best friend, a cop, is assigned to bring in this modern robin hood.",
+        "popularity": 21.031,
+        "poster_path": "/tsfH6UnYq6WgjNIXCMlT7jwcsLk.jpg",
+        "release_date": "1966-05-22",
+        "title": "Beware of the Car!",
+        "video": false,
+        "vote_average": 7.594,
+        "vote_count": 117
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7vEIJNKjOwKoMYYQjJGwju7y6ul.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 23382,
+        "original_language": "en",
+        "original_title": "Dark Country",
+        "overview": "Two honeymooners rescue a mysterious car crash survivor in the Las Vegas desert. But their decision to save the man becomes increasingly regrettable when he turns on them, forcing the newlyweds to do the unthinkable.",
+        "popularity": 21.029,
+        "poster_path": "/w3DE4rxX5vY4ybq08zxQWrmbFaU.jpg",
+        "release_date": "2009-10-05",
+        "title": "Dark Country",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7c7FWO0wJxSk3StoJCPIuWB1w07.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 335640,
+        "original_language": "ko",
+        "original_title": "살인의뢰",
+        "overview": "A cop catches a serial killer who murdered his sister but never finds her body. The lack of closure torments him and drives his brother-in-law insane, who makes a deal with the mafia for revenge.",
+        "popularity": 21.028,
+        "poster_path": "/i8JExMArmqnFNyv2NGxcg4zGHaU.jpg",
+        "release_date": "2015-03-12",
+        "title": "The Deal",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/okTTU0LvV6VHiGiOnRI3GG0iokr.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1117379,
+        "original_language": "en",
+        "original_title": "Trafficking",
+        "overview": "Fresh out of prison, a former debt collector working for a gangland boss is told he has a terminal brain tumour. In an attempt to atone for his past he rescues a young girl from trafficking, forcing him into a deadly game of cat-and-mouse with his boss.",
+        "popularity": 21.019,
+        "poster_path": "/9Dz3H25Th3DrhsQFpXkaupm94qK.jpg",
+        "release_date": "2023-04-24",
+        "title": "Trafficking",
+        "video": false,
+        "vote_average": 6.347,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jNfEoNuBPBMO1fK2VMMqn5kmRCG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 229273,
+        "original_language": "es",
+        "original_title": "Los violadores del amanecer",
+        "overview": "Crime drama centering on a gang of rapists, the aftermath of their crimes on the victims and the gang members being brought to justice.",
+        "popularity": 21.018,
+        "poster_path": "/6BKCsCz2AYGU8SwVYCWGgS8hzPX.jpg",
+        "release_date": "1978-05-03",
+        "title": "The Dawn Rapists",
+        "video": false,
+        "vote_average": 4.647,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/68mo3BhFFvdnS65k7z0P89iyXyl.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 39828,
+        "original_language": "cn",
+        "original_title": "古惑仔之人在江湖",
+        "overview": "Five young hoodlums sing karaoke, murder, joke around, get beaten up, win and lose women, and learn the value of blind loyalty.",
+        "popularity": 21.018,
+        "poster_path": "/jLfEVzChm3akXJNhyQGWGrmEjd4.jpg",
+        "release_date": "1996-01-25",
+        "title": "Young and Dangerous",
+        "video": false,
+        "vote_average": 6.526,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jdvmNM5vwQDSsC4SAdiEdzrTAhU.jpg",
+        "genre_ids": [
+            80,
+            28,
+            35
+        ],
+        "id": 370665,
+        "original_language": "hi",
+        "original_title": "दिलवाले",
+        "overview": "Raj is a Mafia member. One day he meet a girl (Meera) while chasing by his rival gang and falls in love with her. Later he finds out that this girl is the daughter of the leader of his rival gang. Yet their love story continues until he was shot by his girlfriend upon a deep misunderstanding. After that incident these two lovers lives separate until their siblings fallen in love. With this new love story their paths intertwines again.",
+        "popularity": 21.015,
+        "poster_path": "/4jVu65xoOyOdk76J9jNTGmPK0dY.jpg",
+        "release_date": "2015-12-18",
+        "title": "Dilwale",
+        "video": false,
+        "vote_average": 6.636,
+        "vote_count": 297
+    }
+]

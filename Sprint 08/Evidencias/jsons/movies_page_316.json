@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/fSlCrONcfBzlsLAAqbsPY80ofge.jpg",
+        "genre_ids": [
+            53,
+            80,
+            27
+        ],
+        "id": 90898,
+        "original_language": "en",
+        "original_title": "The Rain Killer",
+        "overview": "Together, a weary cop and an all business FBI agent, team up to catch the latest homicidal manic: The Rain Killer. Just when they think that all the clues have been washed away, they find the one last clue; the one that's been in plain sight.",
+        "popularity": 10.045,
+        "poster_path": "/rwZWHNGp0rBag7QSkRrRE35VP0W.jpg",
+        "release_date": "1990-09-14",
+        "title": "The Rain Killer",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eRT7t3W7iAqaDDWaJq8wnkIAuk4.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 376424,
+        "original_language": "en",
+        "original_title": "Beware the Slenderman",
+        "overview": "In this horrifyingly modern fairytale lurks an online Boogeyman and two 12-year-old girls who would kill for him. The entrance to the internet quickly leads to its darkest basement. How responsible are our children for what they find there?",
+        "popularity": 10.044,
+        "poster_path": "/f5W2nhbnzOR2aNa7vSpwWCzzAw2.jpg",
+        "release_date": "2016-03-11",
+        "title": "Beware the Slenderman",
+        "video": false,
+        "vote_average": 6.523,
+        "vote_count": 236
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 221427,
+        "original_language": "no",
+        "original_title": "Detektiv Downs",
+        "overview": "Detective Robert has his own office, a trench coat, a Bogart hat and Downs syndrome. The only thing he is missing is a case. Then a lady comes to his rescue.",
+        "popularity": 10.044,
+        "poster_path": "/p3nGiyBIZmHyIuMF2Thd9C1uHBn.jpg",
+        "release_date": "2013-10-25",
+        "title": "Detective Downs",
+        "video": false,
+        "vote_average": 5.222,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wF7xPb1qB1Q3Tu39JrCNOvP70vB.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 591774,
+        "original_language": "en",
+        "original_title": "Run with the Hunted",
+        "overview": "Oscar, a young boy, commits a noble murder and is forced to runaway from his rural hometown, leaving behind his best friend, Loux. He escapes to the nearest city, where he is inducted into a gang of child street thieves. His innocence slips away as he is introduced to love, murder, and corruption. 15 years later, he has forgotten his past and become the leader of this band of lost children. When Loux moves to the city in search of work, she takes a job with a struggling private investigator. Stumbling upon Oscar's missing child report, she takes it upon herself to find the boy who saved her life.",
+        "popularity": 10.043,
+        "poster_path": "/uS9qxeCuP1WTYytdyQy9bydTgIi.jpg",
+        "release_date": "2019-10-03",
+        "title": "Run with the Hunted",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3F6Bk56735Kv7owyF6fVUWHEkIH.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 31262,
+        "original_language": "hu",
+        "original_title": "A Londoni férfi",
+        "overview": "A switchman at a seaside railway witnesses a murder but does not report it after he finds a suitcase full of money at the scene of the crime.",
+        "popularity": 10.041,
+        "poster_path": "/poBhgpN4fJfzaRuG4wMLah3rHLw.jpg",
+        "release_date": "2007-05-23",
+        "title": "The Man from London",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 89
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eqmKflVyVDwlQdJVaREA6yrgHdp.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 131966,
+        "original_language": "en",
+        "original_title": "Strike Force",
+        "overview": "A New York City detective teams up with a federal agent and a state trooper to bust up a drug ring.",
+        "popularity": 10.037,
+        "poster_path": "/AtU0fiXEg6htBMTkna7CTbLRN3U.jpg",
+        "release_date": "1975-04-12",
+        "title": "Strike Force",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/38rMfVYssufIZyJtoNDtPJQXrw3.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749,
+            36
+        ],
+        "id": 118534,
+        "original_language": "en",
+        "original_title": "A Scandal in Paris",
+        "overview": "A smooth-talking French thief wangles his way into an important position as prefect of police.",
+        "popularity": 10.033,
+        "poster_path": "/kOBl4nTfUtJugCjAmchRofdyEso.jpg",
+        "release_date": "1946-07-19",
+        "title": "A Scandal in Paris",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fw7CPAMk8Cums6i4Kz7EbjT3IFt.jpg",
+        "genre_ids": [
+            12,
+            35,
+            80
+        ],
+        "id": 77710,
+        "original_language": "pt",
+        "original_title": "Meu Tio Matou um Cara",
+        "overview": "Éder is arrested after confessing the murder of a man. Duca, his nephew, is sure that his uncle confessed the crime to protect his girlfriend, Soraya, ex-wife of the deceased, so he enlists two of his friends to help prove his theory.",
+        "popularity": 10.031,
+        "poster_path": "/kJS0v5sjb7LaVMBCSzjll5lB7d7.jpg",
+        "release_date": "2004-12-12",
+        "title": "My Uncle Killed a Guy",
+        "video": false,
+        "vote_average": 6.096,
+        "vote_count": 161
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AiucbIvr8xSKWxqE8aMkytjxGzM.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 255087,
+        "original_language": "ja",
+        "original_title": "日本の首領 野望篇",
+        "overview": "An ambitious Kansai yakuza don moves in on Tokyo using financial and political tactics, sparking conflict with a local criminal association.",
+        "popularity": 10.027,
+        "poster_path": "/dmWtExCufVwBoDHI2E4428ot9OF.jpg",
+        "release_date": "1977-10-29",
+        "title": "Japanese Godfather: Ambition",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w3ueioBHgMNA8cEybDZSsFQX3Hk.jpg",
+        "genre_ids": [
+            53,
+            28,
+            35,
+            80
+        ],
+        "id": 713407,
+        "original_language": "es",
+        "original_title": "Caracas Vice Vol. 3",
+        "overview": "1989. Caracas is once again in danger with the comeback of the most dangerous drug lord of Venezuela, Disco Herrera; just months after \"The Caracazo\", a series of riots and massacres that left over 3000 casualties. Now Inspector Guerrero will investigate the strange coincidence with the help of maverick ex-cop Ryan of the DEA and destroy Herrera once and for all.",
+        "popularity": 10.024,
+        "poster_path": "/goKPM7f2Hd3Sc7Gg2ZEtJaaDqPJ.jpg",
+        "release_date": "2024-02-27",
+        "title": "Caracas Vice Vol. 3",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 335617,
+        "original_language": "ja",
+        "original_title": "ケータイ刑事（デカ）　THE MOVIE　バベルの塔の秘密～銭形姉妹への挑戦状",
+        "overview": "Although they are still teenagers, the Zenigata Sisters are detectives, and have a grandfather in the Inspector General. They possess an uncanny knack for solving crimes, but no one knows that they are investigators. The Zenigata Sisters have been busy solving crimes around the nation, and are faced with a case surrounding their own family. Unless three crimes are solved, the perpetrator threatens to escalate his crimes. It is then that Rui, Mai and Rei begin receiving mail on their cell phones from the police department. The trap set by the perpetrator has the sisters stumped. Will they be able to solve the crime in time?",
+        "popularity": 10.024,
+        "poster_path": "/mt6mwK7Nf74jhFfjlP7pDrjPRDw.jpg",
+        "release_date": "2006-04-04",
+        "title": "Mobile Detectives: The Movie",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hnFIRIozlfqwLxFxv8WAhWGcCac.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 807888,
+        "original_language": "uk",
+        "original_title": "Носоріг",
+        "overview": "Ukraine, 1990s. Young Vova, cruel and tenacious, struggles to find his place among the ruthless members of the underworld in a city where crime and corruption reign.",
+        "popularity": 10.022,
+        "poster_path": "/wFxS2vvXJFGCCVWlPYzpCcLQagf.jpg",
+        "release_date": "2021-12-10",
+        "title": "Rhino",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4657MvRzpoWZ7eEzibgHGnd80yp.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648,
+            10770
+        ],
+        "id": 89738,
+        "original_language": "en",
+        "original_title": "The Crucifer of Blood",
+        "overview": "A beautiful young woman asks Holmes to help her father, a former army captain and hopeless opium addict break free of the curse surrounding a stolen treasure.",
+        "popularity": 10.017,
+        "poster_path": "/3947qPFt9VD1oaMP28U1Tlj3T8T.jpg",
+        "release_date": "1991-11-04",
+        "title": "The Crucifer of Blood",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2GB882qeY9SHw2JPacKB76oygw9.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 242031,
+        "original_language": "th",
+        "original_title": "เสียดาย",
+        "overview": "Filmed in documentary style, Daughter is the story of four girls who face family problems and turn to heavy drug use in order to cope with their sad realities.",
+        "popularity": 10.016,
+        "poster_path": "/kxSPI8KK8n01y5HEe8S5zUdKX61.jpg",
+        "release_date": "1994-12-31",
+        "title": "Daughter",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f8Vy839NPniWZfkBjuG2tcG9rD4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 479198,
+        "original_language": "en",
+        "original_title": "Tango One",
+        "overview": "Three officers are assigned to go undercover and join a mission to capture Den Donovan.",
+        "popularity": 10.015,
+        "poster_path": "/xtHF1l1ESIxVdFTxiv84ze7tqwk.jpg",
+        "release_date": "2018-03-02",
+        "title": "Tango One",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 677222,
+        "original_language": "en",
+        "original_title": "Sizzle",
+        "overview": "A sultry nightclub singer, a small-town girl in the big city, sets out to avenge her boyfriend's murder after he is killed while running illegal booze for the mob.",
+        "popularity": 10.014,
+        "poster_path": "/vY1kvK76ZgjmZGa0fneEs99jS4S.jpg",
+        "release_date": "1981-11-29",
+        "title": "Sizzle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4PI2pEV8rM1hzScueE5uZLbBoRB.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18,
+            9648,
+            10770
+        ],
+        "id": 45377,
+        "original_language": "en",
+        "original_title": "Death Sentence",
+        "overview": "A juror on a murder trial begins to believe that the man charged with the crime is innocent — and that the real killer is her own husband.",
+        "popularity": 10.014,
+        "poster_path": "/w3aK8Zsy0cauyS4h7v7FxypRMbU.jpg",
+        "release_date": "1974-10-02",
+        "title": "Death Sentence",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            27,
+            10770
+        ],
+        "id": 249195,
+        "original_language": "en",
+        "original_title": "The Hound of the Baskervilles",
+        "overview": "Holmes and Dr. Watson tackle the case of a curse on the Baskerville bloodline in this ABC Movie of the Week adaptation.",
+        "popularity": 10.01,
+        "poster_path": "/w3wvLqLZDhXL1D8ZumaCUbYDVra.jpg",
+        "release_date": "1972-02-12",
+        "title": "The Hound of the Baskervilles",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kP7kLsh1wv2iOzmoGJJQzAntMCF.jpg",
+        "genre_ids": [
+            14,
+            18,
+            80,
+            10770
+        ],
+        "id": 118304,
+        "original_language": "en",
+        "original_title": "He Sees You When You're Sleeping",
+        "overview": "A man dies in a freak accident on a golf course only to learn he must perform one last  good deed to get into heaven.",
+        "popularity": 10.01,
+        "poster_path": "/eOW8RmpV10Vrlgj3jCNtEanaVWj.jpg",
+        "release_date": "2002-12-22",
+        "title": "He Sees You When You're Sleeping",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v9vBZiLUId2OOI0TVv6rLJFgKRa.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 58926,
+        "original_language": "fr",
+        "original_title": "Le rouge est mis",
+        "overview": "Louis Bertain is the owner of a Paris garage which is the front for a robbery gang. He and his accomplices are careful to keep up a civic veneer by day, indulging in criminal activities only when \"the red light is on\" at night. This status quo is upset when one of the gang members becomes convinced that Louis' younger brother is a police informer.",
+        "popularity": 10.01,
+        "poster_path": "/ghIu7W2iBfYkmTOc1DfbIBiAzts.jpg",
+        "release_date": "1957-04-12",
+        "title": "Speaking of Murder",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 42
+    }
+]

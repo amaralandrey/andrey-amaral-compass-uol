@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 755753,
+        "original_language": "ja",
+        "original_title": "凶銃ルガーP08",
+        "overview": "A man's life is altered when he comes into possession of a gun.",
+        "popularity": 9.932,
+        "poster_path": "/pfBDYHGWHRj3vuZk9RkPj92Cf8T.jpg",
+        "release_date": "1994-01-29",
+        "title": "Kyouju Luger P08",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 235090,
+        "original_language": "en",
+        "original_title": "Thin Air",
+        "overview": "Frank Belson didn't ask too many questions about the past of his new wife Lisa St. Claire, even after she suddenly and mysteriously disappeared one night. He brings in Spenser to help locate her, who begins to piece together her complete life story while submerged in the Latino shadow world of the town of Proctor.",
+        "popularity": 9.928,
+        "poster_path": "/vOhgD0rrN9h5pPgpX7xb9Mehcc2.jpg",
+        "release_date": "2000-09-12",
+        "title": "Thin Air",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3zSr2NtwU6eU6awhXMXQGP99GEz.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 37293,
+        "original_language": "ja",
+        "original_title": "張込み",
+        "overview": "Two detectives begin a stakeout based on the slim chance of catching a murderer whom they suspect will try to reunite with an old flame.",
+        "popularity": 9.928,
+        "poster_path": "/vzfixRrZslqTJlM4i6s61tz8Hbh.jpg",
+        "release_date": "1958-01-15",
+        "title": "Stakeout",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vKuI9zWzg1TaEzhZXXDTDDBaEIj.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 20133,
+        "original_language": "no",
+        "original_title": "Varg Veum - Kvinnen i kjøleskapet",
+        "overview": "An international oil drilling company hires private investigator Varg Veum to find their missing systems designer, Arne Samuelsen. Varg discovers the headless body of a woman jammed into the fridge in Arne's apartment - and is promptly knocked unconscious. When he wakes up the body is gone and the Police has arrived.",
+        "popularity": 9.928,
+        "poster_path": "/j1oSb04rHaCqvjxlIGTBlUfQDMx.jpg",
+        "release_date": "2008-09-17",
+        "title": "Varg Veum - Woman in the Fridge",
+        "video": false,
+        "vote_average": 5.724,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            35
+        ],
+        "id": 1273472,
+        "original_language": "zh",
+        "original_title": "骗骗喜欢你",
+        "overview": "Lin Qinglang (played by Kim Chen), a working girl, made a sweet promise overnight to turn into a huge debt of 201314 yuan. How can she face it with a smile on the long journey of repaying money? Can the life trajectory of the scammer Ouyang Hui (played by Sun Yang), who has countless criminal records, be changed by meeting her? A \"scammer couple\", a \"love scam game\", where will the ending be",
+        "popularity": 9.926,
+        "poster_path": "/iwDVkzIWBeVHhICH20cpObjWZ1O.jpg",
+        "release_date": "2024-12-31",
+        "title": "Honey Money Phony",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/21REs3oN8MOPCY1pBa65f3Cy685.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 474377,
+        "original_language": "en",
+        "original_title": "One Small Indiscretion",
+        "overview": "Years ago, heartbroken and officially separated from her husband, Caroline briefly turned to the arms of another man. It was only one small indiscretion - a brief affair, forgotten after she and her husband reunited. But beautiful Elle, daughter of Caroline's lover, hasn't forgotten. She rents a guesthouse from Caroline, her husband, and teenage son with one purpose: to destroy their lives the way Elle thinks Caroline destroyed hers.",
+        "popularity": 9.926,
+        "poster_path": "/tjQg4meDWazYXhgdmHpK0Bp8Sq3.jpg",
+        "release_date": "2017-09-02",
+        "title": "One Small Indiscretion",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zBpzOqGj6rFzq9r0eVseqmFBJWd.jpg",
+        "genre_ids": [
+            27,
+            35,
+            878,
+            80,
+            10770
+        ],
+        "id": 301566,
+        "original_language": "en",
+        "original_title": "Too Many Cooks",
+        "overview": "\"Too Many Cooks\" is a humorous parody of US sitcoms of the 1970s and the 1980s.",
+        "popularity": 9.924,
+        "poster_path": "/mloofB4SaWLJCh1eGHb0dPvVybE.jpg",
+        "release_date": "2014-10-27",
+        "title": "Too Many Cooks",
+        "video": false,
+        "vote_average": 7.785,
+        "vote_count": 114
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 233977,
+        "original_language": "ja",
+        "original_title": "たそがれの情事",
+        "overview": "Reiko is an adulterous housewife whose lover is a foul-tempered yakuza gangster. After one of her husband's friends spies the amorous duo at a no-tell motel, the stage is set for murder.",
+        "popularity": 9.922,
+        "poster_path": "/5GNWC0TlLRCRtSJETf7xRUlsTD1.jpg",
+        "release_date": "1972-01-08",
+        "title": "Affair at Twilight",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tuHFr9EiuXSVX8qm7MMfqOjq6B3.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 79468,
+        "original_language": "en",
+        "original_title": "The Helicopter Spies",
+        "overview": "The men from U.N.C.L.E must stop a band of would-be sorcerers from using a deadly weapon.",
+        "popularity": 9.922,
+        "poster_path": "/gDZF6MsU3lfcEkLh3K2yg9GPucD.jpg",
+        "release_date": "1968-05-23",
+        "title": "The Helicopter Spies",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6VpOapx9w6en7OmUEXDXwxMqJHZ.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 58885,
+        "original_language": "cn",
+        "original_title": "機動部隊─警例",
+        "overview": "Tensions flare between PTU officers and the Complaints Against Police Officers unit when a security camera captures a triad member being brutalized by PTU officers.",
+        "popularity": 9.922,
+        "poster_path": "/vWbY8CPUjL1PVHDbVh10nwvb7R6.jpg",
+        "release_date": "2008-04-26",
+        "title": "Tactical Unit - The Code",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uX7DXDNGW1Las6pkzn0QGySpeOl.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 42423,
+        "original_language": "it",
+        "original_title": "Milano Palermo - Il ritorno",
+        "overview": "Turi Leofonte is released from prison after eleven years and asks for the surviving members of his old security detail to escort him back in Sicily to get revenge on his former associates – something the authorities indulge to seize a large stash of Mafia money he claims to have access to.",
+        "popularity": 9.92,
+        "poster_path": "/iEBOf0MdbaaLwE3lnYZve9pS5dn.jpg",
+        "release_date": "2007-11-23",
+        "title": "Milan – Palermo: The Return",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rPlwNU0sxfz1ePCSVo0klx7hnfX.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 41980,
+        "original_language": "cn",
+        "original_title": "飛砂風中轉",
+        "overview": "Roast Pork joins the triad as a young man and ends up becoming a trusted lieutenant of boss Kerosene. However, his true passion is in his successful chain of restaurants, his loving wife, and his two children. So when Kerosene wants to promote his trusted right hand man to the top of the organization as a way to take on his financial debts, it's understandable why Roast Pork would want to refuse. Roast Pork comes up with an intricate scheme with his men that would take himself out of the running, but Kerosene's intervention causes it to fail. When all hopes appears to be lost, lifelong gangster Sparrow is released from jail after serving a 20-year sentence for committing a gang-related murder that earned him a guarantee for the leader spot. However, Sparrow has made his own plans to stay out of the gang, setting off a battle of wits between the two men.",
+        "popularity": 9.92,
+        "poster_path": "/uAS8a3YT8TUSm4pp3MMemGlsNDv.jpg",
+        "release_date": "2010-05-20",
+        "title": "Once a Gangster",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AdizQBvkEE8aTvo3hoqzBWuo9t8.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 99751,
+        "original_language": "ja",
+        "original_title": "松ヶ根乱射事件",
+        "overview": "When a gold ingot and a severed human head are discovered in a small provincial town, the rush to solve the curious case wavers between tragic and darkly humorous.",
+        "popularity": 9.919,
+        "poster_path": "/bZApjNsUG61YXUzr3o0pMDI4aOE.jpg",
+        "release_date": "2007-02-24",
+        "title": "The Matsugane Potshot Affair",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lGEvJl9gJg3dikR3LpA6aUHLsr1.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 48112,
+        "original_language": "it",
+        "original_title": "Cento giorni a Palermo",
+        "overview": "In the late 1970s and early 80s, assassinations in Sicily get the attention of Communist deputy, Pio La Torre, who appeals to General Carlo Alberto Dalla Chiesa to become prefect in Palermo and take on the Mafia. Dalla Chiesa approaches the job with the same focus and methods he used in hunting down the Red Brigade.",
+        "popularity": 9.917,
+        "poster_path": "/sXnVn0TYe6VJQ3ctVgyZPDzBZXO.jpg",
+        "release_date": "1984-04-06",
+        "title": "One Hundred Days in Palermo",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jpAhwtSLEWvLLoe5wnmNjEe0OAc.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 32061,
+        "original_language": "en",
+        "original_title": "The Doberman Gang",
+        "overview": "After a failed bank robbery, an ex-con, an ex-waitress and a few of their friends train a pack of doberman dogs to rob a bank for them.",
+        "popularity": 9.916,
+        "poster_path": "/CFUqGWdZIjqSMHpLf0QLUvS3bv.jpg",
+        "release_date": "1972-05-26",
+        "title": "The Doberman Gang",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y0U1DUhf2ZOab7Q1pMwQR9tCT7G.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            9648
+        ],
+        "id": 387656,
+        "original_language": "sv",
+        "original_title": "Beck 34 - Sista dagen",
+        "overview": "Two traffic officers on a quiet morning shift try to stop a car for speeding. When the car finally pulls over, the driver gets out and shoots at them, killing one of the officers in cold blood. A national alert is issued and an extensive search for the ruthless killer begins, with the Beck group at the lead.  Neither the officer’s shocked and wounded colleague nor any of the witnesses have seen anything helpful to the police. Finally, they find the car registration number using a surveillance camera. But, when they enter the car owner’s apartment, they find him shot to death.  The first day of summer is a long one for the Beck group, as the killer has more victims on his list.",
+        "popularity": 9.914,
+        "poster_path": "/xZuj8bYLDW9LTV5daekBYaWqHfa.jpg",
+        "release_date": "2016-04-01",
+        "title": "Beck: The Last Day",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qDjWkKJC7trl7RjW2IfFirnkQHu.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 163549,
+        "original_language": "en",
+        "original_title": "Sunday in the Country",
+        "overview": "Three vicious thugs are on the run in rural America after robbing a local bank. They seek refuge at the home of a reclusive farmer, but he is prepared for their arrival and holds them at gunpoint. Unable to let them simply wait for the law, he decides to take them into into his cellar and torture them a little before the police arrive.",
+        "popularity": 9.914,
+        "poster_path": "/fi3LETB5pAYLQvbWP6nZrzcKZVr.jpg",
+        "release_date": "1974-11-22",
+        "title": "Sunday in the Country",
+        "video": false,
+        "vote_average": 6.364,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 67189,
+        "original_language": "en",
+        "original_title": "Sinatra Club",
+        "overview": "Brutal and celebrated Mafia gangster John Gotti (Danny Nucci) schemes, shoves and murders his way to the top of that world in this gritty biography told from the perspective of Salvatore Polisi (Jason Gedrick), who owns the Sinatra Club, where Gotti's crew hangs out. Determined to make his name, the young Gotti plans a daring armored-car robbery that he expects to get him noticed by the bosses of each of New York's five major crime families.",
+        "popularity": 9.913,
+        "poster_path": "/lrmQdWt1yiUu9RC4WXDn5RccgGS.jpg",
+        "release_date": "2010-09-01",
+        "title": "At the Sinatra Club",
+        "video": false,
+        "vote_average": 3.1,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8BLO9vVfzh8IPPKfK7CN9L9KVxO.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            10749
+        ],
+        "id": 36640,
+        "original_language": "en",
+        "original_title": "茶舞",
+        "overview": "An assassin is hired to kill the men responsible for kidnapping an important man's son. With every death, the killer gets closer to the last kidnapper's name... his own.",
+        "popularity": 9.912,
+        "poster_path": "/oyWP1DdTU42Mo4FrBtSW7PynC5j.jpg",
+        "release_date": "2006-05-22",
+        "title": "One Last Dance",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9J6CLYfKMrON59xVx4VwoWh3j7B.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 259949,
+        "original_language": "cn",
+        "original_title": "都市煞星",
+        "overview": "Min is an assassin. His adopted son Eagle and his son KK kill another assassin, Michael, because he broke the rule of the assassin group. This breeds contempt in Panther, Michael's brother. He tries every means to identify Eagle and wants to kill him. When all come to failure, he frames Eagle to have broken the group's rule.",
+        "popularity": 9.911,
+        "poster_path": "/vN3j8HpsBj5VqBGHX2BokGVQL06.jpg",
+        "release_date": "1990-10-25",
+        "title": "Point of No Return",
+        "video": false,
+        "vote_average": 6.667,
+        "vote_count": 3
+    }
+]

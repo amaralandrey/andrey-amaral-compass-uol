@@ -1,0 +1,396 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/5DtdoqshV16HuQB1vWqxU1F3JWS.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 428495,
+        "original_language": "en",
+        "original_title": "The Nile Hilton Incident",
+        "overview": "Cairo, 2011. A police officer investigates the murder of a woman in a luxurious hotel in the days leading up to the Egyptian revolution.",
+        "popularity": 18.442,
+        "poster_path": "/fcQOeSQV6flz28ybZCkcmCsdqkR.jpg",
+        "release_date": "2017-06-19",
+        "title": "The Nile Hilton Incident",
+        "video": false,
+        "vote_average": 6.594,
+        "vote_count": 341
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9tIGBB0VUWLLsiG4JqinSPKVYBE.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 396774,
+        "original_language": "en",
+        "original_title": "Bomb City",
+        "overview": "A crime-drama, about the cultural aversion of a group of punk rockers in a conservative Texas town. Their ongoing battle with a rival, more-affluent clique leads to a controversial hate crime that questions the morality of American justice.",
+        "popularity": 18.441,
+        "poster_path": "/kho48mWJ5xuiLn5bpuIvO6ZP7ep.jpg",
+        "release_date": "2017-03-31",
+        "title": "Bomb City",
+        "video": false,
+        "vote_average": 7.113,
+        "vote_count": 256
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iENuTaWvI2e7KEuKnTxxBhZwF3x.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            18
+        ],
+        "id": 836972,
+        "original_language": "en",
+        "original_title": "He Went That Way",
+        "overview": "Set in 1964, a three-day journey along Route 66 begins when Bobby Falls, a 19-year-old serial killer, hitches a ride with Jim Goodwin, a celebrity animal handler travelling with his precious cargo: his TV chimpanzee, Spanky.",
+        "popularity": 18.438,
+        "poster_path": "/ii1DVzyj9uJOF9qBrnHCT6nAxUw.jpg",
+        "release_date": "2024-01-05",
+        "title": "He Went That Way",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zHX28FhOkzxoVbHdaMbHu0k2kPY.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 71851,
+        "original_language": "ja",
+        "original_title": "仁義の墓場",
+        "overview": "A self-destructive man becomes a powerful member of the Japanese mafia but quickly loses his self control. Based on the true story of Rikio Ishikawa.",
+        "popularity": 18.435,
+        "poster_path": "/akDVDztEBt2SZ1StpPWMDMbVlL8.jpg",
+        "release_date": "1975-02-15",
+        "title": "Graveyard of Honor",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t78HhX62iZKSOXaTgXrAsiIwQf5.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 66043,
+        "original_language": "en",
+        "original_title": "The Incident",
+        "overview": "Two hoodlums terrorize the passengers of a late-night New York City subway train.",
+        "popularity": 18.435,
+        "poster_path": "/ghXkcvpKPwOaViJ1V9SK8UyZ27g.jpg",
+        "release_date": "1967-11-05",
+        "title": "The Incident",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 73
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n3Z93zadihMeZ2O7b0oIEzXhvhP.jpg",
+        "genre_ids": [
+            80,
+            10749,
+            53
+        ],
+        "id": 266034,
+        "original_language": "fr",
+        "original_title": "La chambre bleue",
+        "overview": "In their blue hotel room, a clandestine couple of two married lovers plan an impossible future, as death shutters their already frail tranquillity. Now, the noose tightens more and more around innocents and sinners; but, was there a crime?",
+        "popularity": 18.422,
+        "poster_path": "/fYHOfbx9Xuxbu6LJBJA9EPom70Q.jpg",
+        "release_date": "2014-05-16",
+        "title": "The Blue Room",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 121
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8U31A3HgUkF83wy6BL4zgtE26fe.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 69517,
+        "original_language": "fr",
+        "original_title": "Mort d'un pourri",
+        "overview": "In the middle of the night, deputy Philippe Dubaye wakes up his old friend Xavier Maréchal with disturbing news: he has just killed Serrano, a racketeer with extant political connections. Serrano kept proofs of Dubaye's involvement in corrupt dealings and was poised to use them against the deputy. Xavier readily agrees to cover up for his old pal Philippe, but he soon runs into difficulties. Nobody believes Dubaye's alibi. And everybody -- influential personalities, powerful businessmen, dubious go-betweens and the police -- wants to get hold of the documents that served to blackmail Dubaye; by all possible means...",
+        "popularity": 18.42,
+        "poster_path": "/pba0ETxhAldp0ccDGoz4RM8JyJ9.jpg",
+        "release_date": "1977-12-07",
+        "title": "Death of a Corrupt Man",
+        "video": false,
+        "vote_average": 6.523,
+        "vote_count": 87
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/84bWZa16ALeGKcdmvKWv6Kvoohb.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1007127,
+        "original_language": "ko",
+        "original_title": "댓글부대",
+        "overview": "Journalist Sang-jin uncovers the existence of the so-called 'Troll Factory' while investigating an online public sentiment manipulation story, and is confronted with an unbelievable truth.",
+        "popularity": 18.418,
+        "poster_path": "/1joLg8gwVTZe7tarh0isaWntdhQ.jpg",
+        "release_date": "2024-03-27",
+        "title": "Troll Factory",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7CYcy9eZZdhgBzaHGPH73hrjcNr.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            28,
+            80
+        ],
+        "id": 39180,
+        "original_language": "en",
+        "original_title": "See Spot Run",
+        "overview": "A drug sniffing agent canine is a target for an assassin boss so the FBI calls Witness Protection to send him somewhere else. Meanwhile a single Mom puts her 6 year old boy James in the care of her irresponsible, mailman, neighbor, Gordon, when the babysitter bails on her. Meanwhile, an assassin mob boss hires 2 goons to kill Agent 11. But when 11 escapes from the van when they tried to kill him, he hides in Gordon's Mailtruck that James is in too. And guess what they name him. Spot.",
+        "popularity": 18.412,
+        "poster_path": "/29iKqRGRcNqhrT710ohxVq5WwcE.jpg",
+        "release_date": "2001-03-02",
+        "title": "See Spot Run",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 218
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zDtVa8r0qbZIIyqSzvk2NvJUZyX.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 33055,
+        "original_language": "en",
+        "original_title": "Murphy's Law",
+        "overview": "A tough police detective escapes from custody after being framed and arrested for the murder of his ex-wife, and must now find the real killer and prove his innocence.",
+        "popularity": 18.409,
+        "poster_path": "/YqnhhLlv3ISBeIvN0zVO8cUWZe.jpg",
+        "release_date": "1986-04-18",
+        "title": "Murphy's Law",
+        "video": false,
+        "vote_average": 6.029,
+        "vote_count": 140
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hAfGwwnugpeFHa7QmVgySLy34Hw.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 468339,
+        "original_language": "en",
+        "original_title": "Once Upon a Time in London",
+        "overview": "Billy Hill and Jack 'Spot' Comer were among the most notorious criminals in London up until the 1950s. Dramatising the violent reign of two of London's most notorious gangsters, Billy Hill (Leo Gregory) and Jack 'Spot' Comer (Terry Stone), ONCE UPON A TIME IN LONDON charts the legendary rise and fall of a nationwide criminal empire that lasted until the mid-fifties and which paved the way for the notorious Kray Twins and The Richardsons. This is the story of their rise and fall.",
+        "popularity": 18.402,
+        "poster_path": "/8q0XUs50t12CP9Movhb5SkzBPpI.jpg",
+        "release_date": "2019-04-19",
+        "title": "Once Upon a Time in London",
+        "video": false,
+        "vote_average": 5.234,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2zhR6mlvLlOfMe4TWpf77zrWl1p.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 52695,
+        "original_language": "cn",
+        "original_title": "皇家師姐III雌雄大盜",
+        "overview": "Genji Nakamura and his partner Michiko Nishiwaki are thieves for the notorious Red Army terrorist organization in Japan. After pulling off the jewelry heist of the century in which dozens of people get killed, they are now planning to use the jewelry they've snatched to buy an arms cache.",
+        "popularity": 18.399,
+        "poster_path": "/yBem5NA6poJWvWvnLCdFJ02LTX7.jpg",
+        "release_date": "1988-09-28",
+        "title": "In the Line of Duty 3",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6W6T9Bs7nqvw5eLMLQs7p94KZjN.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 341077,
+        "original_language": "en",
+        "original_title": "Tiger House",
+        "overview": "A young gymnast battles a group of bank robbers at the home of her boyfriend.",
+        "popularity": 18.394,
+        "poster_path": "/heqehuEfbg2283Z9hFmsVuv3UE3.jpg",
+        "release_date": "2015-08-24",
+        "title": "Tiger House",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 266
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uhQS0C251mo32ZJkcjfFtJ0RN9P.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 12834,
+        "original_language": "en",
+        "original_title": "Leaves of Grass",
+        "overview": "An Ivy League professor returns home, where his pot-growing twin brother has concocted a plan to take down a local drug lord.",
+        "popularity": 18.392,
+        "poster_path": "/kpKXJ6DvLSdc1BOsansl7ZWa84K.jpg",
+        "release_date": "2009-09-13",
+        "title": "Leaves of Grass",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 404
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z1josz5xhHCI7Pt0Eg5Kc1e7GBn.jpg",
+        "genre_ids": [
+            53,
+            27,
+            80
+        ],
+        "id": 458673,
+        "original_language": "en",
+        "original_title": "Hunter's Moon",
+        "overview": "A trio of young sisters are attacked by local thugs. Then a force inhabiting the orchard exacts its revenge.",
+        "popularity": 18.375,
+        "poster_path": "/xirMbIyNqxkKPG89lTPdXZK2CJH.jpg",
+        "release_date": "2020-03-24",
+        "title": "Hunter's Moon",
+        "video": false,
+        "vote_average": 3.463,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7GNxGLF7jUL1bjG3xmnknMavML3.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 36133,
+        "original_language": "en",
+        "original_title": "Buddy Buddy",
+        "overview": "During a high profile Mafia testimony case, a contract killer checks-in a hotel room near the courthouse while his next door depressed neighbor wants to commit suicide due to marital problems.",
+        "popularity": 18.369,
+        "poster_path": "/zWks2N4Zl44qjOlFd44aPEcU9eM.jpg",
+        "release_date": "1981-04-02",
+        "title": "Buddy Buddy",
+        "video": false,
+        "vote_average": 6.219,
+        "vote_count": 97
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iQgOunKWZEbQ7zFNTb2cU95Hz6V.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 25413,
+        "original_language": "en",
+        "original_title": "The Suspect",
+        "overview": "Genial shopkeeper Philip has to endure the constant nagging of a shrewish wife while he secretly yearns for a pretty young stenographer. When the henpecking gets to be too much, Philip murders his wife and manages to make her death look like an accident. A ruthless blackmailer and a low-key detective both discover Philip's secret, and he has to decide which of them poses the more dangerous threat.",
+        "popularity": 18.368,
+        "poster_path": "/kHInEMFDY5PG7tigy872pKzg1bm.jpg",
+        "release_date": "1945-01-31",
+        "title": "The Suspect",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eXXEuTK6p4qb3zZFzDwZih5r3Nk.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 11315,
+        "original_language": "ja",
+        "original_title": "DEAD OR ALIVE 犯罪者",
+        "overview": "Ryūichi and his small gang of Triad vie for control of the Japanese underworld in a crime-ridden Shinjuku quarter while Detective Jojima tries to bring it down.",
+        "popularity": 18.368,
+        "poster_path": "/a8IVGH4teyBpnekItRedOBI4xOi.jpg",
+        "release_date": "1999-11-27",
+        "title": "Dead or Alive",
+        "video": false,
+        "vote_average": 6.344,
+        "vote_count": 154
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AvdaSijPWCV0XDikddO1nsPQLeF.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 25551,
+        "original_language": "en",
+        "original_title": "The Sniper",
+        "overview": "Eddie Miller struggles with his hatred of women, he's especially bothered by seeing women with their lovers. He starts a killing spree as a sniper by shooting women from far distances. In an attempt to get caught, he writes an anonymous letter to the police begging them to stop him.",
+        "popularity": 18.364,
+        "poster_path": "/upYwLa9rKoejM79p9DRXuLjYXN7.jpg",
+        "release_date": "1952-05-09",
+        "title": "The Sniper",
+        "video": false,
+        "vote_average": 6.662,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s5inFkaGhp5ceo0uTxTjAvFehlE.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 146955,
+        "original_language": "en",
+        "original_title": "Border Run",
+        "overview": "A female American reporter searches for her missing brother against the backdrop of violence and human smuggling across the US/Mexican border.",
+        "popularity": 18.36,
+        "poster_path": "/anA1Musyha2EmgiW9m4FXOFMX3d.jpg",
+        "release_date": "2012-10-12",
+        "title": "Border Run",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 70
+    }
+]

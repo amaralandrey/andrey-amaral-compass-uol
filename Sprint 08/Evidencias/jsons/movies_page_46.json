@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/kCmVAb2J81guVgk14lX7wLfFjMO.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 12554,
+        "original_language": "en",
+        "original_title": "Citizen X",
+        "overview": "Based on the true story of a Russian serial killer who, over many years, claimed victim to over 50 people. His victims were mostly under the age of 17. In what was then a communists state, the police investigations were hampered by bureaucracy, incompetence and those in power. The story is told from the viewpoint of the detective in charge of the case.",
+        "popularity": 35.117,
+        "poster_path": "/mr3lIjSRhXGVP2o9HY3P9PX2KsH.jpg",
+        "release_date": "1995-02-25",
+        "title": "Citizen X",
+        "video": false,
+        "vote_average": 7.196,
+        "vote_count": 313
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8UOJBcEHZgOK8BeyEfKnp5Vs0Dy.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 10147,
+        "original_language": "en",
+        "original_title": "Bad Santa",
+        "overview": "A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid.",
+        "popularity": 35.097,
+        "poster_path": "/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg",
+        "release_date": "2003-11-26",
+        "title": "Bad Santa",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2074
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jeLEiX8my7cqEO7Ut5LOgc45Oet.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 331190,
+        "original_language": "en",
+        "original_title": "Captive",
+        "overview": "Based on a miraculous true story that drew the attention of the entire nation, is the dramatic, thrilling, and spiritual journey of Ashley Smith and Brian Nichols.  After being taken hostage by Brian in her own apartment, Ashley turns to Rick Warren’s inspirational book, The Purpose Driven Life, for guidance.  In reading from the book, Ashley not only finds purpose in her own life, but helps Brian find a more peaceful resolution to a harrowing situation.",
+        "popularity": 35.042,
+        "poster_path": "/xTKqLPsKLDep3QQmwPGPfJNMNVF.jpg",
+        "release_date": "2015-09-17",
+        "title": "Captive",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 265
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/clU0V12kgvK6ubQVxAQ3fLrP6te.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            28
+        ],
+        "id": 693113,
+        "original_language": "en",
+        "original_title": "Midnight in the Switchgrass",
+        "overview": "FBI Agent Karl Helter and his partner Rebecca Lombardo are very close to busting a sex-trafficking ring. When they realize their investigation has crossed the path of a brutal serial killer, they team up with a FDLE agent to put an end to the infamous 'Truck Stop Killer'.",
+        "popularity": 35.027,
+        "poster_path": "/1OTSuh2HNcTRfme8caU8DjgJ39K.jpg",
+        "release_date": "2021-07-23",
+        "title": "Midnight in the Switchgrass",
+        "video": false,
+        "vote_average": 5.965,
+        "vote_count": 405
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o3NOUSFVCHjQFUUvS6OYPvC4sBE.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 11471,
+        "original_language": "zh",
+        "original_title": "英雄本色",
+        "overview": "A reforming ex-gangster tries to reconcile with his estranged policeman brother, but the ties to his former gang are difficult to break.",
+        "popularity": 35.002,
+        "poster_path": "/aPJr6xvy4v9xzGVHu5JkTQyLu0n.jpg",
+        "release_date": "1986-08-02",
+        "title": "A Better Tomorrow",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 495
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rWaVecskbmRzakbPawiOWVMo2EJ.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            18
+        ],
+        "id": 8090,
+        "original_language": "en",
+        "original_title": "Untraceable",
+        "overview": "Special Agent Jennifer Marsh works in an elite division of the FBI dedicated to fighting cybercrime. She thinks she has seen it all, until a particularly sadistic criminal arises on the Internet. This tech-savvy killer posts live feeds of his crimes on his website; the more hits the site gets, the faster the victim dies. Marsh and her team must find the elusive killer before time runs out.",
+        "popularity": 35.001,
+        "poster_path": "/ySUwDRDEn01lKIMPQorpFCMLWqE.jpg",
+        "release_date": "2008-01-22",
+        "title": "Untraceable",
+        "video": false,
+        "vote_average": 6.186,
+        "vote_count": 853
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yhfHeIsR5Ki02b5SqBuLqAsLDCk.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 3009,
+        "original_language": "en",
+        "original_title": "Le Procès",
+        "overview": "Josef K wakes up in the morning and finds the police in his room. They tell him that he is on trial but nobody tells him what he is accused of. In order to find out about the reason for this accusation and to protest his innocence, he tries to look behind the façade of the judicial system. But since this remains fruitless, there seems to be no chance for him to escape from this nightmare.",
+        "popularity": 34.992,
+        "poster_path": "/2o1oe54a4doiwB4uJq9Kx1RHal0.jpg",
+        "release_date": "1962-12-21",
+        "title": "The Trial",
+        "video": false,
+        "vote_average": 7.398,
+        "vote_count": 475
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xBAgzFMlbqvvhelo4lckeBdbCwI.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 240916,
+        "original_language": "en",
+        "original_title": "Reasonable Doubt",
+        "overview": "When up-and-coming District Attorney Mitch Brockden commits a fatal hit-and-run, he feels compelled to throw the case against the accused criminal who was found with the body and blamed for the crime. Following the trial, Mitch's worst fears come true when he realizes that he acquitted a guilty man, and he soon finds himself on the hunt for the killer before more victims pile up.",
+        "popularity": 34.982,
+        "poster_path": "/n0BUpxa6E8PYoZWbx5g6CxbdalX.jpg",
+        "release_date": "2014-01-17",
+        "title": "Reasonable Doubt",
+        "video": false,
+        "vote_average": 5.824,
+        "vote_count": 544
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AdRO1ZGa8Or4inBr8Bb557NV0Ba.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            10749
+        ],
+        "id": 172226,
+        "original_language": "en",
+        "original_title": "In Secret",
+        "overview": "In 1860s Paris, a young woman, Therese, is trapped in a loveless marriage to the sickly Camille by her domineering aunt, Madame Raquin. She spends her days behind the counter of a small shop and her evenings watching Madame play dominos with an eclectic group. After she meets her husband’s alluring friend, Laurent, she embarks on an illicit affair that leads to tragic consequences. Based on Emile Zola’s novel, Thérèse Raquin.",
+        "popularity": 34.962,
+        "poster_path": "/VkxiXAt1zl3aw2cID8Xpgl643T.jpg",
+        "release_date": "2013-09-17",
+        "title": "In Secret",
+        "video": false,
+        "vote_average": 6.174,
+        "vote_count": 213
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lOKxu2WFkNhPxLDWzUFCKhN1Vtm.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 13291,
+        "original_language": "en",
+        "original_title": "Traitor",
+        "overview": "When straight arrow FBI agent Roy Clayton heads up the investigation into a dangerous international conspiracy, all clues seem to lead back to former U.S. Special Operations officer Samir Horn.",
+        "popularity": 34.955,
+        "poster_path": "/va4Uo7L2b4d96JTdRMclO9L2hY0.jpg",
+        "release_date": "2008-08-23",
+        "title": "Traitor",
+        "video": false,
+        "vote_average": 6.634,
+        "vote_count": 625
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7WKgA9svCD4DsNTBe1FTkuNs1ot.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 15771,
+        "original_language": "en",
+        "original_title": "Class Action",
+        "overview": "A liberal activist lawyer alienated his daughter Maggie years ago when she discovered his many affairs. Now a conservative corporate lawyer, Maggie agrees to go up against her father in court. To gain promotion, she must defend an auto manufacturer against charges that their explosion-prone station wagons are unsafe. As her mother begs for peace, Maggie takes on her dad in a trial that turns increasingly personal and nasty.",
+        "popularity": 34.924,
+        "poster_path": "/9BOsvZL2DuE2JFGYOssynTjs8K6.jpg",
+        "release_date": "1991-03-15",
+        "title": "Class Action",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 151
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d5tcsjdLw3uxBd318EIcTn9e35X.jpg",
+        "genre_ids": [
+            35,
+            80,
+            27,
+            14
+        ],
+        "id": 244458,
+        "original_language": "en",
+        "original_title": "The Voices",
+        "overview": "A mentally unhinged factory worker must decide whether to listen to his talking cat and become a killer, or follow his dog's advice to keep striving for normalcy.",
+        "popularity": 34.892,
+        "poster_path": "/weY5OVSFmxvA3D4lfyhgvugklEh.jpg",
+        "release_date": "2014-01-19",
+        "title": "The Voices",
+        "video": false,
+        "vote_average": 6.242,
+        "vote_count": 1707
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j6HmtpElHPSkoRIGNlkcqC5aU9g.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 101251,
+        "original_language": "en",
+        "original_title": "El Padrino II: Border Intrusion",
+        "overview": "",
+        "popularity": 34.881,
+        "poster_path": "/yHtPjWgO3wCnY21qKL3NjbBbthx.jpg",
+        "release_date": "2008-01-01",
+        "title": "El Padrino II: Border Intrusion",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mxAcQm3GhIhraRNDYXyrUAGLj4k.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 18767,
+        "original_language": "cn",
+        "original_title": "火燒島",
+        "overview": "Someone in a prison run by a corrupt warden fakes the deaths of convicts to later use them as expendable assassins. A police officer is sent into the prison to gather evidence of the corruption.",
+        "popularity": 34.86,
+        "poster_path": "/cypvDdpmDskWD8FHIlkdbPrEEC3.jpg",
+        "release_date": "1990-03-28",
+        "title": "Island of Fire",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 117
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sA50fD5aLbYPRU0fMCHIZ88gc5g.jpg",
+        "genre_ids": [
+            16,
+            28,
+            878,
+            80
+        ],
+        "id": 581997,
+        "original_language": "en",
+        "original_title": "Batman vs Teenage Mutant Ninja Turtles",
+        "overview": "Batman, Batgirl and Robin forge an alliance with the Teenage Mutant Ninja Turtles to fight against the Turtles' sworn enemy, The Shredder, who has apparently teamed up with Ra's Al Ghul and The League of Assassins.",
+        "popularity": 34.854,
+        "poster_path": "/yP3h0Pu8htyb9450mWJ9Vu1rU.jpg",
+        "release_date": "2019-03-31",
+        "title": "Batman vs Teenage Mutant Ninja Turtles",
+        "video": false,
+        "vote_average": 7.148,
+        "vote_count": 470
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5SlUi93AaUBO94ERI1Q12NZjepO.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 17494,
+        "original_language": "en",
+        "original_title": "Unlawful Entry",
+        "overview": "After a break-in at their house, a couple gets help from one of the cops who answered their call. He helps them install a security system, begins dropping by on short notice and unofficial patrol angling to pry into the couple's problems with the wife. The husband begins wondering if they're getting too much help.",
+        "popularity": 34.839,
+        "poster_path": "/sKUk1ca6gHaIopi8VqE8GoxJq6J.jpg",
+        "release_date": "1992-06-26",
+        "title": "Unlawful Entry",
+        "video": false,
+        "vote_average": 6.191,
+        "vote_count": 288
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xeLOCSy9YIpGFYjcHiDTQ7ac65t.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 379,
+        "original_language": "en",
+        "original_title": "Miller's Crossing",
+        "overview": "Set in 1929, a political boss and his advisor have a parting of the ways when they both fall for the same woman.",
+        "popularity": 34.83,
+        "poster_path": "/ab3pnsTKp3BgcAFy0FgWBFBg9FL.jpg",
+        "release_date": "1990-09-21",
+        "title": "Miller's Crossing",
+        "video": false,
+        "vote_average": 7.459,
+        "vote_count": 1591
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/baKUm23wuT8AqDu2ucx5bgfqETN.jpg",
+        "genre_ids": [
+            80,
+            28,
+            35,
+            18
+        ],
+        "id": 25074,
+        "original_language": "cn",
+        "original_title": "奇蹟",
+        "overview": "A country boy becomes the head of a gang through the purchase of some lucky roses from an old lady. He and a singer at the gang's nightclub try to do a good deed for the old lady when her daughter comes to visit.",
+        "popularity": 34.819,
+        "poster_path": "/70OnveJQzlYji1TOoODNGrU9Mjj.jpg",
+        "release_date": "1989-06-15",
+        "title": "Miracles: The Canton Godfather",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 156
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cap8458wFeRCJSKxL758dI82TRK.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 15794,
+        "original_language": "en",
+        "original_title": "White Heat",
+        "overview": "A psychopathic criminal with a mother complex makes a daring break from prison and then leads his old gang in a chemical plant payroll heist. After the heist, events take a crazy turn.",
+        "popularity": 34.812,
+        "poster_path": "/4ekAK25fz1FDzRUHuJs171uiVaI.jpg",
+        "release_date": "1949-09-02",
+        "title": "White Heat",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 454
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v1qEgoa9gqdomROteK8ceelJueJ.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 31602,
+        "original_language": "en",
+        "original_title": "The Chase",
+        "overview": "The escape of Bubber Reeves from prison affects the inhabitants of a small Southern town.",
+        "popularity": 34.757,
+        "poster_path": "/lpX8szjdzaXqxKBiV8xfRVNzSiu.jpg",
+        "release_date": "1966-02-18",
+        "title": "The Chase",
+        "video": false,
+        "vote_average": 7.088,
+        "vote_count": 279
+    }
+]

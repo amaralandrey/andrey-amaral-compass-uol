@@ -1,0 +1,392 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 261241,
+        "original_language": "cn",
+        "original_title": "新大小不良",
+        "overview": "While visiting Shanghai, handsome young developer Hong meets the beautiful Kwun. Together they embark on a search for his friends from home, a brother and sister, who have become the targets of a ruthless gang leader, Keung. Now embroiled in a brutal criminal war with gambling and a seductive nightclub singer at the center, the innocents must fight to survive as the stakes rise to include their own lives!",
+        "popularity": 9.042,
+        "poster_path": "/nl7SN2xUDINvxGqHKlNXoJRXBOj.jpg",
+        "release_date": "1994-05-13",
+        "title": "Bloody Brothers",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/scvN9E5JstrXI4zaQ083DGaTrp4.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 213995,
+        "original_language": "en",
+        "original_title": "Prison Shadows",
+        "overview": "A boxer is framed for murder after an opponent dies in the ring.",
+        "popularity": 9.04,
+        "poster_path": "/bziwXZzAyjLof6URATfPnSqW4oO.jpg",
+        "release_date": "1936-07-17",
+        "title": "Prison Shadows",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lzkFxykQHuV9v8pg8WxC1eLgnkp.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 160600,
+        "original_language": "ja",
+        "original_title": "みな殺しの拳銃",
+        "overview": "Kuroda is a mob hitman who turns on his employers after being forced to execute his lover. Joining forces with his similarly wronged brothers, hot-headed Eiji and aspiring boxer Saburo, the trio escalate their mob retaliation to all-out turf war where no one will stop until one faction emerges victorious.",
+        "popularity": 9.039,
+        "poster_path": "/4BwuYiMwWsM8jL5KcnkYQtlM4nK.jpg",
+        "release_date": "1967-09-06",
+        "title": "Massacre Gun",
+        "video": false,
+        "vote_average": 7.214,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 252950,
+        "original_language": "en",
+        "original_title": "Nakia",
+        "overview": "An American Indian deputy sheriff is caught in the middle of a community dispute when the tribe tries to save an historic mission from a housing developer. This TV pilot film was an ABC Movie of the Week and later became a TV series.",
+        "popularity": 9.038,
+        "poster_path": "/mGpWnTxBeaQTqW1c5rPR3bXUAR9.jpg",
+        "release_date": "1974-04-17",
+        "title": "Nakia",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qzYxAgPP9YGwOEXzyiWGpm3lzhG.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 197877,
+        "original_language": "fr",
+        "original_title": "Monnaie de singe",
+        "overview": "Fulbert is a sidewalk artist who is duped into working for a counterfeiter. He accompanies a woman posing as a grieving widow on a trip to Spain in a hearse. Unaware she is the mistress of a notorious gangster, Fulbert is chased by thugs.",
+        "popularity": 9.037,
+        "poster_path": "/9I88OXi9SZQF4fjtI3s83YeIcv8.jpg",
+        "release_date": "1966-03-09",
+        "title": "Funny Money",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 64920,
+        "original_language": "en",
+        "original_title": "Witness to the Mob",
+        "overview": "Sammy 'The Bull' Gravano was mafiosi. He started out as a soldier, but his talent for murder, including the slayings of his best friends, his wife's brother and his own boss, Paul Castellano, saw him rise to under-boss in the Gambino crime family. However, betrayals within the family saw him break the code of silence and became the highest ranking member of the mob to turn into a rat - 'a rat in a suit,- assisting the government to finally put away the Teflon Don, John Gotti.",
+        "popularity": 9.036,
+        "poster_path": "/niX9b5Sew9GxXML09Wl5o6gLcT7.jpg",
+        "release_date": "1998-05-10",
+        "title": "Witness to the Mob",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9W4MYxJiRNPEzhaL0VM2Ctz9s0E.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 251449,
+        "original_language": "en",
+        "original_title": "Vice Academy 4",
+        "overview": "\"To Protect and Serve\" takes on a whole new meaning when the Vice Academy girls are on the case. Candy and her new partner Samantha are back in an all new wild adventure! The wicked nymphomaniac, Malathion, has broken out of prison again and is on the rampage. The vice girls must bust her before she can seduce the Commissioner and destroy his wedding plans. Malathion, with the help of her new boy-toy, wreaks havoc and sexual hi-jinks as only she knows how. Will Candy and Samantha be triumphant, or will Malathion succeed with her dastardly plot?",
+        "popularity": 9.035,
+        "poster_path": "/qaap3jLob6i7YTLQV4VNb9jTFUt.jpg",
+        "release_date": "1995-01-25",
+        "title": "Vice Academy 4",
+        "video": false,
+        "vote_average": 3.3,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wcMKexgW21bIZia1LaTl0P988Q4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 325842,
+        "original_language": "en",
+        "original_title": "Murder: By Reason of Insanity",
+        "overview": "A married couple from Poland emigrates to the U.S.,. but things don't turn out as well as they had imaged. The husband's business fails, while his wife's career really takes off. The husband, unable to cope with the pressures of his failed business, his failing marriage and the adjustments necessary to live in a completely different society, begins to take out his frustrations on his wife.",
+        "popularity": 9.034,
+        "poster_path": "/thmIjJm4P2ty31DLCEs5AUOM9f2.jpg",
+        "release_date": "1985-10-01",
+        "title": "Murder: By Reason of Insanity",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jNX7CZOrxEqybnZal6RD5I7JL39.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 61032,
+        "original_language": "en",
+        "original_title": "Unmasked",
+        "overview": "The editor of a sleazy tabloid newspaper has been borrowing money from his lover, the wife of a rich theatrical producer, and promises to marry her when she gets a divorce. However, the husband refuses to grant her a divorce, and takes back all the money and jewelry he has given her. The editor sees her husband leaving her apartment and, seeing his opportunity, kills her, takes all his IOUs (and the jewelry) and frames the husband for the murder.",
+        "popularity": 9.034,
+        "poster_path": "/weGmEd6ZBOMFzJyJC6aCVqK3xtK.jpg",
+        "release_date": "1950-01-30",
+        "title": "Unmasked",
+        "video": false,
+        "vote_average": 5.15,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jVpycU4G7wTRafVc0GZnueYIkk3.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 714694,
+        "original_language": "pt",
+        "original_title": "Alemão 2",
+        "overview": "The Alemão community in Rio de Janeiro is known for its high crime rate. Once again, a team faces drug trafficking to try to carry out the proposals inside the complex.",
+        "popularity": 9.033,
+        "poster_path": "/dg28tcd1gU9YtEjlrWh22RbeQJx.jpg",
+        "release_date": "2022-03-31",
+        "title": "Alemão 2",
+        "video": false,
+        "vote_average": 5.938,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xLhR1n95hWQqs9I7XYTXoCLezGh.jpg",
+        "genre_ids": [
+            18,
+            10402,
+            80
+        ],
+        "id": 114896,
+        "original_language": "es",
+        "original_title": "Aventurera",
+        "overview": "Left alone after her mother runs off with another man and her father kills himself, Elena attempts to make a new life for herself in a new city. Believing he's a friend, Elena goes to dinner with \"Pretty Boy\" Lucio, but he drugs her champagne and sells her to Rosaura, who runs a brothel out of her nightclub. Elena becomes a sensation as a dancer, but all the while she nurtures plans of revenge against those who have conspired against her.",
+        "popularity": 9.031,
+        "poster_path": "/uaNEiMDqAEzkOV2RsSoUrsywh68.jpg",
+        "release_date": "1950-10-18",
+        "title": "Aventurera",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 95964,
+        "original_language": "en",
+        "original_title": "The White Raven",
+        "overview": "A journalist gets pulled into an intrigue by his editor that involves a story that he received a Pulitzer for years before. It seems that the second largest diamond ever mined was used during World War II to buy a Jewish woman freedom from a prison camp. Only trouble is it disappeared after the war and now everyone is after it, including the Russians, former Nazis, gangsters, and the original owner. Somehow, the story that the journalist originally wrote about a camp survivor is believed to have leads to the diamond.",
+        "popularity": 9.031,
+        "poster_path": "/mTO1Js6oLcvSXy2UZw4lXipiOoA.jpg",
+        "release_date": "1998-12-18",
+        "title": "The White Raven",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 261126,
+        "original_language": "cn",
+        "original_title": "殺出香港",
+        "overview": "A soldier from Mainland China arrives at Hong Kong to look for his estranged sister and finds out that she has been forced into prostitution by a criminal organization.",
+        "popularity": 9.029,
+        "poster_path": "/ti242sk4XhIB0EDsPLXq8VC1i1A.jpg",
+        "release_date": "1988-10-20",
+        "title": "City Warriors",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7aR8V4BvtP6dQyq347C04HvYnFp.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 29487,
+        "original_language": "en",
+        "original_title": "The Mark of the Whistler",
+        "overview": "A drifter claims the money in an old bank account. Soon he finds himself the target of two men who turn out to be the sons of the man's old partner, who is now in prison because of a conflict with him over the money in that account.",
+        "popularity": 9.029,
+        "poster_path": "/6D24WsZpvQi0j2gfo2QK287lRaW.jpg",
+        "release_date": "1944-10-09",
+        "title": "The Mark of the Whistler",
+        "video": false,
+        "vote_average": 5.867,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9w6tdVkbeprFkgNptfmlVqY750u.jpg",
+        "genre_ids": [
+            80,
+            18,
+            12
+        ],
+        "id": 266373,
+        "original_language": "en",
+        "original_title": "Bengazi",
+        "overview": "An American with a shady past joins with a morally-bankrupt Irishman to find treasure buried by Arabs in a deserted mosque in the Sahara. The situation becomes complicated when they are surrounded by Bedouin bandits.",
+        "popularity": 9.028,
+        "poster_path": "/3pOgDLjFcFQ3BhchOmceJY3CQtL.jpg",
+        "release_date": "1955-09-14",
+        "title": "Bengazi",
+        "video": false,
+        "vote_average": 3.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uyCKeQdvhZgHPmxghQ6COIchCiR.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 346079,
+        "original_language": "en",
+        "original_title": "6 Ways to Die",
+        "overview": "Sonny \"Sundown\" Garcia is the top cocaine distributor in the United States, which has made him a very rich and powerful man. It has also made him plenty of enemies. John Doe is just such a man. A nameless man of mystery, John lives to see Sundown not just dead, but to suffer six meaningful losses before his death—his fortune, his freedom, his love, his reputation, his most valuable possession and, finally, his life. John hires six hit-men, each one assigned to inflict one of the six meaningful losses upon Sundown.",
+        "popularity": 9.027,
+        "poster_path": "/1qOJaZbGZkhKiMlXnsqbk9QXKf5.jpg",
+        "release_date": "2015-07-31",
+        "title": "6 Ways to Die",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5Lye8jj5tga0LewL0DhaJTc7WHJ.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 31124,
+        "original_language": "en",
+        "original_title": "Five the Hard Way",
+        "overview": "A racer in the motorcycle sport called 'sidehacking' goes on a rampage of vengeance when his fiancée is raped and murdered.",
+        "popularity": 9.027,
+        "poster_path": "/vWZlZKSrgLoUxBg2BhtVbi0cXpt.jpg",
+        "release_date": "1969-05-01",
+        "title": "The Sidehackers",
+        "video": false,
+        "vote_average": 1.552,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ko48fTAG0UT5eGPvzo2NTV9bfG1.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 49334,
+        "original_language": "en",
+        "original_title": "They Made Me a Fugitive",
+        "overview": "After being framed for a policeman's murder, a criminal escapes prison and sets out for revenge.",
+        "popularity": 9.025,
+        "poster_path": "/dJ8VhdQkFPhmLeBmodgXuzyQ1mC.jpg",
+        "release_date": "1947-06-24",
+        "title": "They Made Me a Fugitive",
+        "video": false,
+        "vote_average": 6.65,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xe5TEtqMWEcVweYz9Uxhu8qKbyx.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 452416,
+        "original_language": "ml",
+        "original_title": "പുത്തൻപണം",
+        "overview": "The sudden implementation of demonetisation rattles the country, and a few black money hoarders in Kerala are trying their best to save their void currencies by hook or crook. Kasaragod-based financier Nithyananda Shenoy also gets embroiled in it, and drawn into the scene are also a few underprivileged folk in Kochi. Dramatic situations surrounding the hotchpotch ensue, as each one tries to set their lives straight.",
+        "popularity": 9.022,
+        "poster_path": "/jePXxUxwHCdZJiTrVnU9QuNF7B4.jpg",
+        "release_date": "2017-04-12",
+        "title": "Puthan Panam",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 315661,
+        "original_language": "en",
+        "original_title": "In the Line of Duty: Hunt for Justice",
+        "overview": "When a state trooper is gunned down on a New Jersey highway, his friend and colleague sets out to track down the killers. Realizing the murder is connected to an extensive underground terrorist ring, he joins forces with the FBI on a massive five-state hunt. Based on a true story.",
+        "popularity": 9.022,
+        "poster_path": "/e18mGjg1QBsFkLOYEe7PI1EqQRk.jpg",
+        "release_date": "1995-10-01",
+        "title": "In the Line of Duty: Hunt for Justice",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 6
+    }
+]

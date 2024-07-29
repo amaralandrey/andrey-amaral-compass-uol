@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10770,
+            80
+        ],
+        "id": 243462,
+        "original_language": "fr",
+        "original_title": "The Exonerated",
+        "overview": "Six people tell their stories on a single subject - how they got wrongfully convicted to death penalty, but later got exonerated.",
+        "popularity": 8.957,
+        "poster_path": "/r79HQKs7lhonFQfAjqpagQ5UFTM.jpg",
+        "release_date": "2006-03-06",
+        "title": "The Exonerated",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yEvgUV5jnuitFIvNvCMR0OgMqvd.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 999151,
+        "original_language": "fr",
+        "original_title": "Les rois de la piste",
+        "overview": "Home cook Rachel, a sort of Ma Dalton, has raised her sons Sam and Jeremiah, and her grandson, Nathan, in the cult of conning. From bad plans to petty theft, this friendly family of broken arms is always after the big score. Luck or fate, during a burglary, they steal a painting by Tamara de Lempicka without knowing its value. Céleste, a shrewd and charming detective, sets out in pursuit.",
+        "popularity": 8.955,
+        "poster_path": "/m4EqcqQF3ATEjredi7GOUcE7ssM.jpg",
+        "release_date": "2024-03-13",
+        "title": "Rachel's Game",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s7QvyLoxJ1PWMGasGpqluQqhUT9.jpg",
+        "genre_ids": [
+            80,
+            35,
+            9648
+        ],
+        "id": 610482,
+        "original_language": "te",
+        "original_title": "ఏజెంట్ సాయి శ్రీనివాస అత్రేయ",
+        "overview": "Agent Sai Srinivasa Athreya is a brilliant, underrated detective from Nellore who runs an agency called FBI which sees no business. He gets more than what he asked for when a case happens to fall right into his lap out of nowhere.",
+        "popularity": 8.953,
+        "poster_path": "/jMVfhhWfHLawVp3kd55KBy3VBsW.jpg",
+        "release_date": "2019-06-21",
+        "title": "Agent Sai Srinivasa Athreya",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rpXp9wbmyj0UeChII64FRGwrnih.jpg",
+        "genre_ids": [
+            99,
+            9648,
+            36,
+            80
+        ],
+        "id": 223632,
+        "original_language": "en",
+        "original_title": "The Galapagos Affair: Satan Came to Eden",
+        "overview": "Darwin meets Hitchcock in this documentary. Directors Dan Geller and Dayna Goldfine have created a parable about the search for paradise, set in the brutal yet alluring landscape of the Galapagos Islands, which interweaves an unsolved 1930s murder mystery with stories of present day Galapagos pioneers. A gripping tale of idealistic dreams gone awry, featuring voice-over performances by Cate Blanchett, Diane Kruger, and Gustaf Skarsgard.",
+        "popularity": 8.953,
+        "poster_path": "/fUZPUzv5GUxYcycPFudBLLU8S39.jpg",
+        "release_date": "2014-04-03",
+        "title": "The Galapagos Affair: Satan Came to Eden",
+        "video": false,
+        "vote_average": 6.784,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1UAcvo5DZwZul8HCnON0knz5avi.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 921817,
+        "original_language": "ja",
+        "original_title": "佐武と市捕物控",
+        "overview": "Bunsei era, at a time when Edo culture is at its peak, and barely 50 years before the arrival of the Meiji Restoration in 1868. Sabu is a cheerful, honest young man who left his hometown with the dream of becoming a policeman. He is an informant to the policeman Saheiji  of Asakusa in Edo and stays with him and his daughter Midori. One day, Sabu encounters the cool master swordsman Ichi, who makes a living giving massages, and they become partners in an unexpected way. Although Sabu is still an informant, he and the blind Ichi collaborate in a way that compensates for each other’s shortcomings. Sabu becomes Ichi’s eyes while Ichi becomes Sabu’s right-hand man and solves cases with his well-honed skills of deduction as they search for the truth in difficult cases in Edo. One case starts with the discovery of two dead bodies in the Sumida River. The bodies have diagonal slashes and were left in boxes.",
+        "popularity": 8.952,
+        "poster_path": "/hkmrzhu6RnA2n6EFrceuS9yvFDw.jpg",
+        "release_date": "2015-12-19",
+        "title": "Sabu and Ichi's Detective Stories",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1290487,
+        "original_language": "ja",
+        "original_title": "炎と氷 2",
+        "overview": "",
+        "popularity": 8.949,
+        "poster_path": "/mcFrPD8WKpCQKXejo9SFzkmYf8F.jpg",
+        "release_date": "2005-01-25",
+        "title": "Fire and Ice 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k7s2mAWyf2xrfGX21sATziLLmi3.jpg",
+        "genre_ids": [
+            37,
+            28,
+            80,
+            10770
+        ],
+        "id": 209633,
+        "original_language": "en",
+        "original_title": "Dead Man's Revenge",
+        "overview": "Bitter and vengeful fugitive Luck Hatcher, dignified former slave turned bounty hunter Jessup Bush, and wily deputy U.S. Marshal Bodine all converge in a small town so they can hatch an intricate con in order to bring greedy and ruthless railroad speculator Payton McCay to justice.",
+        "popularity": 8.947,
+        "poster_path": "/oCCqseDgEVLcGpsoVT02AuO6KYT.jpg",
+        "release_date": "1994-04-15",
+        "title": "Dead Man's Revenge",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kdGrv82bZ8Jy2NobsPlujDi5tFk.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 428753,
+        "original_language": "fr",
+        "original_title": "Pris de court",
+        "overview": "A single mother gets entangled in a web of lies to protect her sons.",
+        "popularity": 8.945,
+        "poster_path": "/A4oyHW6D5VBFzqGes1F2sXmU1Yw.jpg",
+        "release_date": "2017-03-29",
+        "title": "Not on My Watch",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qdP9mPBWpZfFkEBVvSpeqxqNsTo.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 760568,
+        "original_language": "it",
+        "original_title": "Bastardi a mano armata",
+        "overview": "An isolated villa, a family just like the others. Michele has remarried beautiful Damiana, and lives with her and her daughter Fiore, a seductive teen with whom he has an intricate relationship. In the middle of the night, Sergio, an ex-con, bursts in the villa and abducts the family. his mission: retrieve and bring back to Caligola, the man who hired him, some important documents, now seeminlgy buried somewhere in the greenhouse near the house.",
+        "popularity": 8.941,
+        "poster_path": "/hoApmeZFZgaDnPSIT2Pgdor2G4c.jpg",
+        "release_date": "2023-05-31",
+        "title": "A Bunch of Bastards",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 322172,
+        "original_language": "en",
+        "original_title": "Buffalo Boys",
+        "overview": "After discovering the man who raised him is not his biological father, 15-year-old Ian's world is forever changed. His mother refuses to identify his real father, fueling Ian's desire to escape suburbia. His girlfriend urges him to stay and work things out, while his best friend continues to lead him down a violent path. The duo sell drugs to make money – until their dealer offers an easier, deadlier way to get rich quick.",
+        "popularity": 8.94,
+        "poster_path": null,
+        "release_date": "2013-08-24",
+        "title": "Buffalo Boys",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pkKRPDoCXVV5jDxtwMgS1rsgjPY.jpg",
+        "genre_ids": [
+            878,
+            18,
+            80,
+            9648
+        ],
+        "id": 53837,
+        "original_language": "ru",
+        "original_title": "Лунная радуга",
+        "overview": "After a strange incident, a group of russian space commandos starts developing supernatural powers. But how did they acquire such abilities and what is their intentions?",
+        "popularity": 8.935,
+        "poster_path": "/yMAPwEjy7hbP60yDiHRTfL50ra2.jpg",
+        "release_date": "1983-12-01",
+        "title": "Moon Rainbow",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x5FHbvJOveFOwH0o8LRWXdVjOnJ.jpg",
+        "genre_ids": [
+            12,
+            80,
+            9648,
+            10749,
+            53
+        ],
+        "id": 115384,
+        "original_language": "en",
+        "original_title": "Bulldog Drummond's Peril",
+        "overview": "Drummond's wedding with Phyllis is interrupted when the inspector guarding their gifts is killed. He tries to trace the killers and uncovers the mystery of diamond counterfeiters.",
+        "popularity": 8.934,
+        "poster_path": "/oEi90pKA2jiIjmc3zkGRSRPlMz5.jpg",
+        "release_date": "1938-03-18",
+        "title": "Bulldog Drummond's Peril",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fqi8olGdw4v6Q5xyA8nXDZaagkI.jpg",
+        "genre_ids": [
+            37,
+            18,
+            80
+        ],
+        "id": 82963,
+        "original_language": "en",
+        "original_title": "Valerie",
+        "overview": "After the American Civil War, former Union Major John Garth marries pretty settler Valerie but tragedy strikes and the two spouses end up in court where they give two different conflicting accounts of their marriage.",
+        "popularity": 8.932,
+        "poster_path": "/nLTeLtoNNHkuAXtQDlVMhBgKwKk.jpg",
+        "release_date": "1957-08-01",
+        "title": "Valerie",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qMyZLZV0v9ONQg6ri7U9WtD0EsY.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 404579,
+        "original_language": "hi",
+        "original_title": "Akira",
+        "overview": "Akira Sharma is your average Jane from Jodhpur. Early in life she sees an atrocity committed on a neighbour and learns to defend herself. And, a spitfire is born.",
+        "popularity": 8.929,
+        "poster_path": "/jU0gw5z6JrazhGOh4UfULKqt268.jpg",
+        "release_date": "2016-09-01",
+        "title": "Akira",
+        "video": false,
+        "vote_average": 5.646,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/blNJpBGfkCk91lzYQQgS6lAZIq6.jpg",
+        "genre_ids": [
+            36,
+            80
+        ],
+        "id": 145635,
+        "original_language": "it",
+        "original_title": "Giovanni Falcone",
+        "overview": "The story of the first ever \"anti-mafia judges pool\" established in the '80s at the Palermo Courthouse, in Sicily, in the '80s, while two mafia families started a 10-year-long war to obtain the complete control of smuggles.",
+        "popularity": 8.929,
+        "poster_path": "/bM9Efg5BSaOSWmR2fTuOieBO1zG.jpg",
+        "release_date": "1993-10-08",
+        "title": "Giovanni Falcone",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/41CzuTRPOIeS1cSbulRuApdwBCV.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 44845,
+        "original_language": "en",
+        "original_title": "Honest",
+        "overview": "The film is an edgy black comedy set in swinging London in the late 60s. The All Saints girls play three street wise sisters who head 'up West' to rob and generally cause trouble.",
+        "popularity": 8.929,
+        "poster_path": "/d17yJePSaLD8UKJkaDAxOZ6SVRe.jpg",
+        "release_date": "2000-05-26",
+        "title": "Honest",
+        "video": false,
+        "vote_average": 1.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 303693,
+        "original_language": "en",
+        "original_title": "Inside",
+        "overview": "A South African political prisoner is tortured to obtain information on apartheid conspirators. Ten years later, the head officer in charge of the questioning is similarly held as prisoner and questioned about his past offenses.",
+        "popularity": 8.928,
+        "poster_path": "/qD3NPLfWXp1c3YBDc9mmht8B81C.jpg",
+        "release_date": "1996-08-25",
+        "title": "Inside",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uNO6hXzuhx1qJrUISfdEVdX5Kgd.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "id": 38471,
+        "original_language": "en",
+        "original_title": "Dark Alibi",
+        "overview": "After three men are convicted of bank robberies, Charlie becomes suspicious.  After some investigation Charlie finds the men are innocent and that the fingerprint evidence used to convict them had been forged.  Charlie then proceeds to find the true bank robbers.",
+        "popularity": 8.927,
+        "poster_path": "/aKojx5sfIFglK3oifUQLkVkoPEI.jpg",
+        "release_date": "1946-05-25",
+        "title": "Dark Alibi",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            35,
+            80
+        ],
+        "id": 134570,
+        "original_language": "en",
+        "original_title": "Dead Men Don't Die",
+        "overview": "A reporter investigating a drug dealing ring is murdered. Brought back to life by the voodoo spell of a cleaning woman, he goes after his killers.",
+        "popularity": 8.926,
+        "poster_path": "/4AUPNYIiwPFB9IByjTjC39nQvr5.jpg",
+        "release_date": "1990-09-08",
+        "title": "Dead Men Don't Die",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8gCXoeH9VDf4E3DiG4at0jkTznw.jpg",
+        "genre_ids": [
+            27,
+            80,
+            9648,
+            53
+        ],
+        "id": 105917,
+        "original_language": "cn",
+        "original_title": "猛鬼出籠",
+        "overview": "An insane man is shot dead by two cops, Kung and Hsiao, after he refused to listen to them and stabbed a woman dead. After the encounter, the two cops always strange things and Hsiaos girlfriend is also haunted. To reduce the fear of hiring police a Taoist to sort out this problem ...",
+        "popularity": 8.926,
+        "poster_path": "/fXwsILjxOZ89M7ouaqHoO99kNdP.jpg",
+        "release_date": "1983-01-01",
+        "title": "Possessed",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 5
+    }
+]

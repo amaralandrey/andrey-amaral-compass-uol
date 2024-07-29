@@ -1,0 +1,395 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 328345,
+        "original_language": "tr",
+        "original_title": "Kod Adi K.O.Z.",
+        "overview": "Political and social processes in recent and current Turkish political history.",
+        "popularity": 8.456,
+        "poster_path": "/jeqLUvdsZBLvzx5SxYQXafGZm4h.jpg",
+        "release_date": "2015-02-13",
+        "title": "Code Name K.O.Z.",
+        "video": false,
+        "vote_average": 1.9,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rjNrnO0ds3kAEe9vmnJxH73RVxg.jpg",
+        "genre_ids": [
+            10770,
+            9648,
+            53,
+            80,
+            18
+        ],
+        "id": 1070608,
+        "original_language": "en",
+        "original_title": "Good Wife's Guide to Murder",
+        "overview": "When an expert in spousal murder is accused of killing her husband, she must use her investigation skills to prove her innocence.",
+        "popularity": 8.455,
+        "poster_path": "/73gbXWhsHmWEs65hWJuMht1Qeur.jpg",
+        "release_date": "2023-01-06",
+        "title": "Good Wife's Guide to Murder",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tbjGPtIPYfYZd2rNRMUppRf615e.jpg",
+        "genre_ids": [
+            28,
+            80,
+            10751,
+            53
+        ],
+        "id": 455032,
+        "original_language": "ta",
+        "original_title": "குரங்கு பொம்மை",
+        "overview": "An honest driver tries to find the owner of a bag, supposedly containing money to fund the marriage of the man’s daughter, not realising that it was used by his own father to move a stolen idol.",
+        "popularity": 8.455,
+        "poster_path": "/pPO8YY9TKZ3bm0jEM7w3N3mLK3q.jpg",
+        "release_date": "2017-09-01",
+        "title": "Kurangu Bommai",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 326562,
+        "original_language": "en",
+        "original_title": "Nasty Boys",
+        "overview": "When a narcotics team sent to bust some drug dealers are massacred. The police department form a special unit of undercover cops whose identities are withheld from the brass, and are only accountable to the leader, a Lieutenant. While they try to bust the dealers, the Lieutenant tries to find out who gave the dealers the information about the bust. And he suspects that it's someone in the DEA.",
+        "popularity": 8.455,
+        "poster_path": "/uBx0i9vhRqLqkTfd5pgxgVFmBDE.jpg",
+        "release_date": "1989-09-22",
+        "title": "Nasty Boys",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yocfNQOiGUuEwgm2DNTAr3k0SBb.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 189483,
+        "original_language": "en",
+        "original_title": "Martin's Day",
+        "overview": "Threatened with recapture after a prison escape, Martin Stechert grabs a 12-year-old as hostage. He proves to be named Martin, too a quiet \"good little boy\" always obeying the rules, whom life has given only dismal loneliness and frustration in return. Soon he begins to admire \"Stech\" for his cheeky pranks against society and his desperate mission to make dreams come true. In a climactic moment, he chooses to stay with the man even though he could run away. Via hijacks and hijinx, they flee to the idyllic peace of the older Martin's childhood home, a cabin on a lake. But the police are close behind, impatient and trigger-happy.",
+        "popularity": 8.455,
+        "poster_path": "/kkRC6WLwzEDhEKYJpNCwTSiaO1f.jpg",
+        "release_date": "1985-02-22",
+        "title": "Martin's Day",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 355185,
+        "original_language": "ja",
+        "original_title": "Family 2",
+        "overview": "In this continuation of \"Family\", it is discovered that the one who gave the order to assassinate the Mitsumikai Boss is the one and only Boss of the Japan Mafia: Mr. Nishiwaki. Hideshi finds something odd about the killing and begins to investigate, uncovering the true motives behind this murder. Miike's sequel is chock full of harrowing Boat chases, big explosions, beautiful women sex and drugs! Takashi Miike's Family, Part 2 continues the tale of the yakuza gangster named Hideshi, who must uncover the identity of the man who killed a powerful crime boss.",
+        "popularity": 8.454,
+        "poster_path": "/hDsaqE2jnJGqzBfc0wd2ez3nECE.jpg",
+        "release_date": "2001-09-21",
+        "title": "Family 2",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8Qa88kwPvRKdyz7pHkz8xTMxzUu.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 83295,
+        "original_language": "en",
+        "original_title": "The Black Gestapo",
+        "overview": "General Ahmed has started an inner-city People's Army to try and relieve the misery of the citizens of Watts. When the locals are put under increasing pressure by Mafia thugs, Ahmed's second-in-command Colonel Kojah asks for permission to start a protection squad to take more direct action. Ahmed fears this protection squad will just turn into a vigilante mob, and his prediction soon proves correct. Will Ahmed be able to wrest control back from the power-mad Kojah, or will he be the mob's next victim?",
+        "popularity": 8.454,
+        "poster_path": "/2hrcgXF7PCpNswsPA5vTGkhDeXa.jpg",
+        "release_date": "1975-03-01",
+        "title": "The Black Gestapo",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            10770
+        ],
+        "id": 67720,
+        "original_language": "en",
+        "original_title": "Three Blind Mice",
+        "overview": "A lawyer defends a man he's known since serving together in Vietnam, who has been accused of murdering three Vietnamese immigrants. Now he'll have to fight against a tenacious District Attorney, and evidence connected to the man's wife.",
+        "popularity": 8.452,
+        "poster_path": "/vxbCSsKmCXjmIjlRllqf8FOONNe.jpg",
+        "release_date": "2001-09-30",
+        "title": "Three Blind Mice",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hKzoVTjUmB2HS3BdJXvQFYMpuWM.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 40793,
+        "original_language": "en",
+        "original_title": "The Nickel Ride",
+        "overview": "A world-weary crime boss is losing his grip on his organization.",
+        "popularity": 8.452,
+        "poster_path": "/3YBVM1jpBASSm9qfJQfX6RmCkPE.jpg",
+        "release_date": "1975-01-15",
+        "title": "The Nickel Ride",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5SDLxM9rxBvxWWJzCrHnhp6O9DF.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 88573,
+        "original_language": "th",
+        "original_title": "ฝนตกขึ้นฟ้า",
+        "overview": "A hitman named Tul is shot in the head during an assignment. When he wakes up from a two month coma Tul discovers that he literally sees everything upside down.",
+        "popularity": 8.451,
+        "poster_path": "/wuZ6uVkuaKfehCSKMKb5SznEkpc.jpg",
+        "release_date": "2011-11-24",
+        "title": "Headshot",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oodlsWgLSFStFvu4mODNXy3i0e0.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 607310,
+        "original_language": "te",
+        "original_title": "ఎవరు",
+        "overview": "When a high-ranking police officer is killed by his alleged rape victim, Sub-inspector Vikram Vasudev is entrusted with investigating what seems like an open-and-shut case. However, as he delves deeper, Vikram finds the case spiralling into a dark tale filled with unexpected surprises.",
+        "popularity": 8.45,
+        "poster_path": "/kRxKI0ZuKTIp3BZJPHF9YoDYkaR.jpg",
+        "release_date": "2019-08-15",
+        "title": "Evaru",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eA7oF1ZxSnhTye0PpFiBtaYvMna.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 95556,
+        "original_language": "en",
+        "original_title": "The Liberation of L.B. Jones",
+        "overview": "Undertaker L.B. Jones, the richest black man in his county of Tennessee, is divorcing his wife for infidelity with a white policeman. Taking a stand against racism, he is greeted with a hostile bunch of Southern bigots and other various stereotypes.",
+        "popularity": 8.45,
+        "poster_path": "/nX4cm1sPtXMNC0LdofKADvCYwax.jpg",
+        "release_date": "1970-03-18",
+        "title": "The Liberation of L.B. Jones",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nS1y3jSRGUt2UyaNe39EDIVVHBE.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 449405,
+        "original_language": "en",
+        "original_title": "Title Shot",
+        "overview": "In Toronto, Canada, a troubled police detective investigates fixed betting and corruption in the world of heavyweight boxing. He uncovers a plot by a crime boss to use computerised data to rig fights. Everything is resolved during an explosive finale, set during a world heavyweight championship bout",
+        "popularity": 8.449,
+        "poster_path": "/hfkjkoKQZ0ewFrDD7e2nLToSe4x.jpg",
+        "release_date": "1979-09-09",
+        "title": "Title Shot",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gaHdGL1F1Wxmi2qx3OVxkmSVagk.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 35464,
+        "original_language": "it",
+        "original_title": "Arrivederci amore, ciao",
+        "overview": "Leftist radical-turned-terrorist Giorgio—who fled to Latin America in the '70s to escape justice—decides to surrender after hearing about the fall of the Berlin Wall. Determined to lead a comfortable, bourgeois life in his native Italy, he cuts a deal with a shady police chief, getting his sentence reduced in exchange for ratting out former comrades. Once released, Giorgio obsessively pursues his dream of becoming a \"respectable\" citizen, even if the way is paved with larceny, pimping, drug-dealing, rape, heist, and murder...",
+        "popularity": 8.449,
+        "poster_path": "/9gstmEqp3c9GY9u94Kswf9zT5Ke.jpg",
+        "release_date": "2006-02-24",
+        "title": "The Goodbye Kiss",
+        "video": false,
+        "vote_average": 6.846,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6DgqYuIaEm9PVuXxfpXGSptkC2a.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 196872,
+        "original_language": "en",
+        "original_title": "Deadly Past",
+        "overview": "Bartender on parole gets re-involved with his previous girlfriend, only to discover he's part of her criminal scheme.",
+        "popularity": 8.448,
+        "poster_path": "/sXCsRXXeZ7IiMevNEQS0RkzSbRG.jpg",
+        "release_date": "1995-04-24",
+        "title": "Deadly Past",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w27LIOFtcZ2lmvKhRWasyosryoA.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 248391,
+        "original_language": "en",
+        "original_title": "Deadly Vows",
+        "overview": "Tom Weston is a short tempered truck driver who has always aspired to live big. He begins dating Bobbi Gilbert, who is half his age and plans on marrying her, which is a problem since he's already married to Nancy. Now to achieve the life he's always wanted, Tom begins to concoct a web of lies that lead to betrayal, deceit, arson and murder. Based on a shocking true story.",
+        "popularity": 8.447,
+        "poster_path": "/tzzFt53wi5zKnF4nheECN4piEyT.jpg",
+        "release_date": "1994-09-13",
+        "title": "Deadly Vows",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ZoHIfyryd6AVJGpAH1z61UssUn.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 255247,
+        "original_language": "ja",
+        "original_title": "スペシャリスト",
+        "overview": "Kusanagi plays a police detective who gets framed for a crime he didn't commit and had to spend the last 10 years in prison. However, he regains his job as a police officer and makes use of his specialized knowledge on criminal psychology to solve difficult cases.",
+        "popularity": 8.446,
+        "poster_path": "/sCxWmgkW2qOW2VRwdoTAKOwWZbD.jpg",
+        "release_date": "2013-05-18",
+        "title": "Specialist",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            27,
+            80
+        ],
+        "id": 354401,
+        "original_language": "en",
+        "original_title": "Criminal Act",
+        "overview": "Two investigative reporters track down reports of giant rats in a city sewer system.",
+        "popularity": 8.444,
+        "poster_path": "/x0R8GpsmSYhyrayFhr8M2r8DpVn.jpg",
+        "release_date": "1989-09-27",
+        "title": "Criminal Act",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/db8mzfgiLqKVtgFbb3gQ0nIMA1q.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1154286,
+        "original_language": "te",
+        "original_title": "హిడింబ",
+        "overview": "In Hyderabad, two police officers Abhay and Adhya join forces to solve a series of kidnappings of which all the victims are girls, with one other interesting commonality.",
+        "popularity": 8.443,
+        "poster_path": "/6ywUJDvbvqQkE1pSQYRT9cSaVWs.jpg",
+        "release_date": "2023-07-20",
+        "title": "Hidimbha",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7kP3bFSP5hzzQ53ZiuNgp0uNIz4.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 190945,
+        "original_language": "ml",
+        "original_title": "മുംബൈ പോലീസ്",
+        "overview": "Mumbai Police tells the friendship of 3 police officers, on of them is the Commissioner and other two are Asst. Commissioners who rules the city of Cochin efficiently without any fear.",
+        "popularity": 8.443,
+        "poster_path": "/9DfBCt9eeHHXATtWvMV7ZA2Z1bs.jpg",
+        "release_date": "2013-05-02",
+        "title": "Mumbai Police",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 48
+    }
+]

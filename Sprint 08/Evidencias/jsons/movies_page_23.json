@@ -1,0 +1,407 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/cMUuAgVsMWOCawXonZ4D1dSMd6h.jpg",
+        "genre_ids": [
+            28,
+            16,
+            80,
+            9648,
+            18
+        ],
+        "id": 14919,
+        "original_language": "en",
+        "original_title": "Batman: Mask of the Phantasm",
+        "overview": "When a powerful criminal, who is connected to Bruce Wayne's ex-girlfriend, blames the Dark Knight for killing a crime lord, Batman decides to fight against him.",
+        "popularity": 47.813,
+        "poster_path": "/liYhLBTKpQctFupATfdk4qnOhMJ.jpg",
+        "release_date": "1993-12-25",
+        "title": "Batman: Mask of the Phantasm",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 1058
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eINHLmQNce1UoLuKlqKBvJK12Sd.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 122081,
+        "original_language": "en",
+        "original_title": "Spring Breakers",
+        "overview": "After four college girls rob a restaurant to fund their spring break in Florida, they get entangled with a weird dude with his own criminal agenda.",
+        "popularity": 47.792,
+        "poster_path": "/h3ufD3KszAl19r1gBv5wgvw4xpn.jpg",
+        "release_date": "2013-03-06",
+        "title": "Spring Breakers",
+        "video": false,
+        "vote_average": 5.222,
+        "vote_count": 3754
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sOR6e2JhxhHQmcvawhfi6gAntgc.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 628704,
+        "original_language": "ko",
+        "original_title": "미드나이트",
+        "overview": "A serial killer ruthlessly hunts down a deaf woman through the streets of South Korea after she witnesses his brutal crime.",
+        "popularity": 47.791,
+        "poster_path": "/gXaS8OuavUsEjoW7P8qKrHTGPi1.jpg",
+        "release_date": "2021-06-30",
+        "title": "Midnight",
+        "video": false,
+        "vote_average": 7.192,
+        "vote_count": 234
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cT0YCYCtAQC8wi56VWK1JRGgk3a.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            878,
+            53
+        ],
+        "id": 5549,
+        "original_language": "en",
+        "original_title": "RoboCop 2",
+        "overview": "After a successful deployment of the RoboCop Law Enforcement unit, OCP sees its goal of urban pacification come closer and closer, but as this develops, a new narcotic known as \"Nuke\" invades the streets led by God-delirious leader Cane. As this menace grows, it may prove to be too much for Murphy to handle. OCP tries to replicate the success of the first unit, but ends up with failed prototypes with suicidal issues... until Dr. Faxx, a scientist straying away from OCP's path, uses Cane as the new subject for the RoboCop 2 project, a living God.",
+        "popularity": 47.71,
+        "poster_path": "/99l6Jt3ygKKmv7K8D6jdLz33tcB.jpg",
+        "release_date": "1990-06-22",
+        "title": "RoboCop 2",
+        "video": false,
+        "vote_average": 5.995,
+        "vote_count": 1820
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7sKsP6SdJtW3O8WdaJYNeteWqDO.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 31608,
+        "original_language": "en",
+        "original_title": "Three Fugitives",
+        "overview": "On his first day after being released from jail for 14 armed bank robberies, Lucas finds himself caught up in someone else's robbery. Perry has decided to hold up the local bank to raise money so that he can keep his daughter, Meg, and get her the treatment she needs. Dugan, a detective, assumes Lucas helped plan the robbery, and hence Lucas, Perry and Meg become three fugitives.",
+        "popularity": 47.705,
+        "poster_path": "/d6Gy5Hg88lKJUumBwY0FZzwU5oD.jpg",
+        "release_date": "1989-01-27",
+        "title": "Three Fugitives",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 277
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yvbXGWjg30sj7rohEZvSe90jSJC.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 396371,
+        "original_language": "en",
+        "original_title": "Molly's Game",
+        "overview": "Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.",
+        "popularity": 47.677,
+        "poster_path": "/in43bQ7k0ttr666IPP94IlbQbTR.jpg",
+        "release_date": "2017-12-07",
+        "title": "Molly's Game",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 3613
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e86x1nXqfXRlqATuy60MmzFUFQr.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 2163,
+        "original_language": "en",
+        "original_title": "Breakdown",
+        "overview": "When his SUV breaks down on a remote Southwestern road, Jeff Taylor lets his wife, Amy, hitch a ride with a trucker to get help. When she doesn't return, Jeff fixes his SUV and tracks down the trucker -- who tells the police he's never seen Amy. Johnathan Mostow's tense thriller then follows Jeff's desperate search for his wife, which eventually uncovers a small town's murderous secret.",
+        "popularity": 47.491,
+        "poster_path": "/h6POHvMnoqBVpAFQXCMBoTjru9.jpg",
+        "release_date": "1997-05-02",
+        "title": "Breakdown",
+        "video": false,
+        "vote_average": 6.87,
+        "vote_count": 888
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oBDyiMDdJsxIYcN57JRfscGAo9f.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            878,
+            53
+        ],
+        "id": 5550,
+        "original_language": "en",
+        "original_title": "RoboCop 3",
+        "overview": "The mega corporation Omni Consumer Products is still bent on creating their pet project, Delta City, to replace the rotting city of Detroit. Unfortunately, the inhabitants of the area have no intention of abandoning their homes simply for desires of the company. To this end, OCP have decided to force them to leave by employing a ruthless mercenary army to attack and harass them. An underground resistance begins and in this fight, RoboCop must decide where his loyalties lie.",
+        "popularity": 47.489,
+        "poster_path": "/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg",
+        "release_date": "1993-01-21",
+        "title": "RoboCop 3",
+        "video": false,
+        "vote_average": 4.831,
+        "vote_count": 1234
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kuxLjp8ufk066O5YyNU116iVku7.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 48838,
+        "original_language": "en",
+        "original_title": "London Boulevard",
+        "overview": "A parolee falls for a reclusive movie star while trying to evade a ruthless gangster.",
+        "popularity": 47.249,
+        "poster_path": "/naQKmThKMtlur92CDgCP6b9aoQE.jpg",
+        "release_date": "2010-11-10",
+        "title": "London Boulevard",
+        "video": false,
+        "vote_average": 5.906,
+        "vote_count": 710
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            9648
+        ],
+        "id": 322,
+        "original_language": "en",
+        "original_title": "Mystic River",
+        "overview": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+        "popularity": 47.215,
+        "poster_path": "/hCHVDbo6XJGj3r2i4hVjKhE0GKF.jpg",
+        "release_date": "2003-10-07",
+        "title": "Mystic River",
+        "video": false,
+        "vote_average": 7.739,
+        "vote_count": 6470
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/23lvNIILy7s0wsB77ZXSbLmsqPF.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 2112,
+        "original_language": "en",
+        "original_title": "Payback",
+        "overview": "With friends like these, who needs enemies? That's the question bad guy Porter is left asking after his wife and partner steal his heist money and leave him for dead -- or so they think. Five months and an endless reservoir of bitterness later, Porter's partners and the crooked cops on his tail learn how bad payback can be.",
+        "popularity": 47.131,
+        "poster_path": "/gl295sH8213lY8aQ8hS2tTbuzYD.jpg",
+        "release_date": "1999-02-05",
+        "title": "Payback",
+        "video": false,
+        "vote_average": 6.834,
+        "vote_count": 1747
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4SO6pbGJTpM9YYovYxFLY3MXqZn.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            18,
+            80
+        ],
+        "id": 346685,
+        "original_language": "en",
+        "original_title": "The Girl on the Train",
+        "overview": "Rachel Watson, devastated by her recent divorce, spends her daily commute fantasizing about the seemingly perfect couple who live in a house that her train passes every day, until one morning she sees something shocking happen there and becomes entangled in the mystery that unfolds.",
+        "popularity": 46.965,
+        "poster_path": "/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",
+        "release_date": "2016-10-05",
+        "title": "The Girl on the Train",
+        "video": false,
+        "vote_average": 6.437,
+        "vote_count": 5597
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gPW90IPq6Go8hlT0n7Es3cFl7ly.jpg",
+        "genre_ids": [
+            18,
+            10770,
+            80
+        ],
+        "id": 550776,
+        "original_language": "en",
+        "original_title": "Believe Me: The Abduction of Lisa McVey",
+        "overview": "On the night she plans on taking her own life, 17-year-old 'Lisa McVey' is kidnapped and finds herself fighting to stay alive and manages to be a victim of rape. She manages to talk her attacker into releasing her, but when she returns home, no one believes her story except for one detective, who suspects she was abducted by a serial killer. Based on horrifying true events.",
+        "popularity": 46.931,
+        "poster_path": "/qbJEzCzEKDHPZDiRvSSBiYEKaAH.jpg",
+        "release_date": "2018-09-30",
+        "title": "Believe Me: The Abduction of Lisa McVey",
+        "video": false,
+        "vote_average": 8.075,
+        "vote_count": 603
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ojzo9tMl8ZLrQgdGApZJFLuS331.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 650,
+        "original_language": "en",
+        "original_title": "Boyz n the Hood",
+        "overview": "Boyz n the Hood is the popular and successful film and social criticism from John Singleton about the conditions in South Central Los Angeles where teenagers are involved in gun fights and drug dealing on a daily basis.",
+        "popularity": 46.878,
+        "poster_path": "/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+        "release_date": "1991-07-12",
+        "title": "Boyz n the Hood",
+        "video": false,
+        "vote_average": 7.614,
+        "vote_count": 1924
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gGeoc8rFfPRIakXNttoFU85YVwv.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10770
+        ],
+        "id": 379170,
+        "original_language": "en",
+        "original_title": "Sherlock: The Abominable Bride",
+        "overview": "Sherlock Holmes and Dr. Watson find themselves in 1890s London in this holiday special.",
+        "popularity": 46.83,
+        "poster_path": "/hibE8cyZs2Bm0o4WaWd1pppvjO2.jpg",
+        "release_date": "2016-01-01",
+        "title": "Sherlock: The Abominable Bride",
+        "video": false,
+        "vote_average": 7.852,
+        "vote_count": 2215
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bqFO92d1idNAI4OOncUrduz2YoA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            18
+        ],
+        "id": 10428,
+        "original_language": "en",
+        "original_title": "Hackers",
+        "overview": "Along with his new friends, a teenager who was arrested by the US Secret Service and banned from using a computer for writing a computer virus discovers a plot by a nefarious hacker, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.",
+        "popularity": 46.81,
+        "poster_path": "/qfx2EENW1sOpKNVKLzr7VOhlxkt.jpg",
+        "release_date": "1995-09-14",
+        "title": "Hackers",
+        "video": false,
+        "vote_average": 6.343,
+        "vote_count": 1242
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/88atstNUnf3AHnnCn4DW2rNJnfW.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 8321,
+        "original_language": "en",
+        "original_title": "In Bruges",
+        "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
+        "popularity": 46.786,
+        "poster_path": "/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+        "release_date": "2008-02-08",
+        "title": "In Bruges",
+        "video": false,
+        "vote_average": 7.491,
+        "vote_count": 4951
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 10835,
+        "original_language": "cn",
+        "original_title": "喋血雙雄",
+        "overview": "Mob assassin Jeffrey is no ordinary hired gun; the best in his business, he views his chosen profession as a calling rather than simply a job. So, when beautiful nightclub chanteuse Jennie is blinded in the crossfire of his most recent hit, Jeffrey chooses to retire after one last job to pay for his unintended victim's sight-restoring operation. But when Jeffrey is double-crossed, he reluctantly joins forces with a rogue policeman to make things right.",
+        "popularity": 46.764,
+        "poster_path": "/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+        "release_date": "1989-03-24",
+        "title": "The Killer",
+        "video": false,
+        "vote_average": 7.602,
+        "vote_count": 752
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j9QaQVuyQIEwckUbjHpAgA7E4jJ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 50348,
+        "original_language": "en",
+        "original_title": "The Lincoln Lawyer",
+        "overview": "A lawyer conducts business from the back of his Lincoln town car while representing a high-profile client in Beverly Hills.",
+        "popularity": 46.749,
+        "poster_path": "/gOn8Ve9Yi8fxjRkmLr5BZoOc7KV.jpg",
+        "release_date": "2011-03-17",
+        "title": "The Lincoln Lawyer",
+        "video": false,
+        "vote_average": 7.205,
+        "vote_count": 3153
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gyReyZ09en6XIm4Xzo5ESMxeyuu.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1234783,
+        "original_language": "es",
+        "original_title": "Nahir",
+        "overview": "One of the most controversial cases in recent years in Argentina, this movie is based on the true story of Nahir Galarza and the murder of her boyfriend that rocked the country. The youngest woman to be convicted and sentenced to life in prison in Argentina, but questions still remain- was this a crime of passion, or is the truth still yet to be fully discovered?",
+        "popularity": 46.747,
+        "poster_path": "/w4TcFexTfo5X7NkvNSeTrRSu9Sj.jpg",
+        "release_date": "2024-05-22",
+        "title": "Nahir",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 66
+    }
+]

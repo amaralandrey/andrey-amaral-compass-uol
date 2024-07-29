@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/39fcknANf8uI2eQUd9bACoVMasm.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            53
+        ],
+        "id": 55888,
+        "original_language": "en",
+        "original_title": "Ed Gein",
+        "overview": "The true story of Edward Gein, the farmer whose horrific crimes inspired Psycho, The Texas Chainsaw Massacre and The Silence of the Lambs. This is the first film to Gein's tormented upbringing, his adored but domineering mother, and the 1957 arrest uncovered the most bizarre series of murders America has ever seen",
+        "popularity": 19.119,
+        "poster_path": "/kmgR0RmsFei4Ev3a6GiRojuZwHx.jpg",
+        "release_date": "2000-11-17",
+        "title": "Ed Gein",
+        "video": false,
+        "vote_average": 5.413,
+        "vote_count": 104
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ylrd1QeNvaRXSmXwDLqhaGJ6S9K.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            28
+        ],
+        "id": 19621,
+        "original_language": "en",
+        "original_title": "The Hit",
+        "overview": "Ten years after ratting on his old mobster friends in exchange for personal immunity, two hit men drive a hardened criminal to Paris for his execution. However, while on the way, whatever can go wrong, does go wrong.",
+        "popularity": 19.114,
+        "poster_path": "/hKNIz9iids9uPyEpmJjLFM96KXI.jpg",
+        "release_date": "1984-09-07",
+        "title": "The Hit",
+        "video": false,
+        "vote_average": 6.418,
+        "vote_count": 188
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9j7VovzODcb1xQ1kKm68i8XC2bj.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            878
+        ],
+        "id": 727097,
+        "original_language": "en",
+        "original_title": "Archenemy",
+        "overview": "Max Fist claims he’s a hero from another dimension who has somehow landed on Earth and been stripped of his powers. Instead of treating him like a powerful champion, no one believes Max’s claims — except for a teenager named Hamster and his sister Indigo. The siblings convince Max to help them take out a local drug gang, where Max’s abilities are put to a violent and harrowing test.",
+        "popularity": 19.112,
+        "poster_path": "/f1jsJJql52sQwnPsoGIKRW7QfXI.jpg",
+        "release_date": "2020-11-30",
+        "title": "Archenemy",
+        "video": false,
+        "vote_average": 5.282,
+        "vote_count": 117
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fhZTZTsbv1gSpp6lXt5m3kXGSQ4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            878
+        ],
+        "id": 9063,
+        "original_language": "da",
+        "original_title": "Forbrydelsens element",
+        "overview": "Fisher, an ex-detective, decides to take one final case when a mysterious serial killer claims the lives of several young girls. Fisher, unable to find the culprit, turns to Osbourne, a writer who was once respected for his contributions to the field of criminology. Fisher begins to use Osbourne's technique, which involves empathizing with serial killers; however, as the detective becomes increasingly engrossed in this method, things take a disturbing turn.",
+        "popularity": 19.101,
+        "poster_path": "/sfg5KUOdR4bfoPiDf63LVG7mlfw.jpg",
+        "release_date": "1984-05-14",
+        "title": "The Element of Crime",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 189
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oXKzUfG4HPl1e3b87eFWV8Lr07a.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 42814,
+        "original_language": "en",
+        "original_title": "The Front Page",
+        "overview": "Hildy Johnson is an investigative reporter looking for a bigger paycheck. When an accused murderer escapes from custody, Hildy sees an opportunity for the story of a lifetime. But when he finds the criminal, he learns that the man may not be guilty. With the help of his editor, Hildy attempts to hide the convict, uncover the conspiracy and write the scoop of his career.",
+        "popularity": 19.099,
+        "poster_path": "/ifV0m0RRPAkchL5gS4MOLoWPBjN.jpg",
+        "release_date": "1931-04-04",
+        "title": "The Front Page",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7PP7NLNYyLVymJPHX3HiYHgAtsh.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 84858,
+        "original_language": "hi",
+        "original_title": "अग्निपथ",
+        "overview": "When his father is lynched by a mob after being framed by a gangster, a young boy leaves his village along with his pregnant mother  and flees to Mumbai. He takes up a life of crime and swears to avenge his father. A remake of the 1990 film.",
+        "popularity": 19.096,
+        "poster_path": "/vfnOUEiKaul9e3cw9eL2yv9W7Zn.jpg",
+        "release_date": "2012-01-25",
+        "title": "Agneepath",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 139
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6948QYLT3GVComQG4hbiNFF7VuA.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 254772,
+        "original_language": "en",
+        "original_title": "La Voie de l‘ennemi",
+        "overview": "A convict is released from prison in a small town in New Mexico. 18 years ago he killed a deputy. The then-and-now sheriff seeks revenge.",
+        "popularity": 19.094,
+        "poster_path": "/df8tTDXxd4wgDgaldnph2I0R2UB.jpg",
+        "release_date": "2014-05-07",
+        "title": "Two Men in Town",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/535UwHBHGOrsyrDqfEjOVjJQZq7.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 991197,
+        "original_language": "cn",
+        "original_title": "臨時劫案",
+        "overview": "A fierce robber has plotted a major heist. But unfortunately, his plan was unintentionally foiled by two dispirited middle-aged best friends, and the stolen cash disappears. As a result, the trio has to run from the pursue of a policewoman, as well as engaging in a firearm in order to reclaim the stolen cash, putting their life on the line.",
+        "popularity": 19.09,
+        "poster_path": "/5WnesBqPIUDOJcJK3B11lu3m2M1.jpg",
+        "release_date": "2024-01-19",
+        "title": "Rob N Roll",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j1phFR0pMwqouyyvN8g3qjqJi8O.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 32577,
+        "original_language": "en",
+        "original_title": "The Parole Officer",
+        "overview": "A hapless parole officer is framed for murder by a crooked police chief. To prove his innocence he must entice his former clients away from the law abiding lives they are now living to recover the evidence that will save him.",
+        "popularity": 19.081,
+        "poster_path": "/tTiBD7kCwIpjOXZ0L2JDMNo4su5.jpg",
+        "release_date": "2001-08-10",
+        "title": "The Parole Officer",
+        "video": false,
+        "vote_average": 5.762,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cJVJMpj8f7YhlSC6v6fBBJ4x8k0.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 36250,
+        "original_language": "ja",
+        "original_title": "新宿黒社会 チャイナマフィア戦争",
+        "overview": "Tatsuhito, a cop, pursues Chinese warlord Wang through the underworld of Shinjuku and over to Taiwan.",
+        "popularity": 19.069,
+        "poster_path": "/9C80qHKjbwgxDko88z6rxZ33Jjw.jpg",
+        "release_date": "1995-08-26",
+        "title": "Shinjuku Triad Society",
+        "video": false,
+        "vote_average": 6.35,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6jgmO00jlBMqv6Y6lNJQbMEMUMC.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 65649,
+        "original_language": "cn",
+        "original_title": "老虎出更",
+        "overview": "A seasoned cop and his rookie partner are a pair of mismatched partners in this Hong Kong action-comedy in the style of 'Lethal Weapon'. The wacky twosome are up in arms as they try to solve the murder of a heroin trafficker.",
+        "popularity": 19.068,
+        "poster_path": "/1Ti6Swe68KY76maRqcjYUZbMSX0.jpg",
+        "release_date": "1988-03-19",
+        "title": "Tiger on the Beat",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f8Vy1YNbHcZSwXAS8zCzZ2yiSQz.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 15049,
+        "original_language": "fr",
+        "original_title": "Bon Cop Bad Cop",
+        "overview": "When the body of the executive of hockey Benoit Brisset is found on the billboard of the border of Quebec and Ontario, the jurisdiction of the crime is shared between the two police forces and detectives David Bouchard from Montreal and Martin Ward from Toronto are assigned to work together. With totally different styles, attitudes and languages.",
+        "popularity": 19.062,
+        "poster_path": "/kidOf2K4pEM0Llsm8aIRcANTcSF.jpg",
+        "release_date": "2006-07-06",
+        "title": "Bon Cop Bad Cop",
+        "video": false,
+        "vote_average": 6.412,
+        "vote_count": 198
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eglf9YfrgCDlupodENN8qPtN5vC.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 2912,
+        "original_language": "fr",
+        "original_title": "Le Boucher",
+        "overview": "An unlikely friendship between a dour, working class butcher and a repressed schoolteacher coincides with a grisly series of Ripper-type murders in a provincial French town.",
+        "popularity": 19.062,
+        "poster_path": "/An2gkXn5TATag9Adul2Zbq5Ndrv.jpg",
+        "release_date": "1970-02-27",
+        "title": "The Butcher",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 223
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b8xkS4nTK1sAUNR3RUeQguNbcVN.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 23668,
+        "original_language": "en",
+        "original_title": "Fort Apache, the Bronx",
+        "overview": "From the sight of a police officer this movie depicts the life in New York's infamous South Bronx. In the center is \"Fort Apache\", as the officers call their police station, which really seems like an outpost in enemy's country. The story follows officer Murphy, who seems to be a tuff cynic, but in truth he's a moralist with a sense for justice.",
+        "popularity": 19.046,
+        "poster_path": "/6Ec96yA2KH5xIYmAotcBb8t03xw.jpg",
+        "release_date": "1981-02-06",
+        "title": "Fort Apache, the Bronx",
+        "video": false,
+        "vote_average": 6.515,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bKwEFttfCg30HeruWapNyNmqJkk.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 78450,
+        "original_language": "zh",
+        "original_title": "恐怖分子",
+        "overview": "An uncompromising look into urban life from the eyes of a voyeuristic photographer, a rebellious teenager, and a married couple teetering on the edge of adultery.",
+        "popularity": 19.044,
+        "poster_path": "/6UCPktMrZNMwydkTIhru6qSVONp.jpg",
+        "release_date": "1986-12-19",
+        "title": "Terrorizers",
+        "video": false,
+        "vote_average": 7.343,
+        "vote_count": 143
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rfs0Pw1wlpOdHNyxiSs28Xm8ocT.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 580626,
+        "original_language": "ko",
+        "original_title": "신의 한 수: 귀수편",
+        "overview": "In the 1990s, when Go gambling fever swept Korea, Gui-su loses everything because his father gambled obsessively until there was nothing left. Left all alone in the world, Gui-su meets a mentor and Go teacher, Il-do, and goes through vicious training to become the grandmaster of Go. He sets out for revenge on the world that destroyed his life, but soon finds himself chased by an unknown loner pursuing his own vendetta.",
+        "popularity": 19.04,
+        "poster_path": "/AcaRTiIOrkDM8vuQkDXhMgWJ2GO.jpg",
+        "release_date": "2019-11-07",
+        "title": "The Divine Move 2: The Wrathful",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xm1eHJ6MV33LzneyxLkxFjYWV0m.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 9727,
+        "original_language": "en",
+        "original_title": "End Game",
+        "overview": "Alex Thomas was the man in charge of protecting the president but, when the time came to fulfill his duties, everything just went wrong. His conscience haunted by a bullet, and his devotion to his country stronger than ever, Alex teams with a seasoned reporter to navigate a treacherous web of lies, unlocking a dangerous conspiracy, and enter a deadly world in which skilled assassins and highly-trained ex-special ops lurk in every shadow.",
+        "popularity": 19.029,
+        "poster_path": "/1fqDXE7nxsqWCng3rwlWZwzBBBn.jpg",
+        "release_date": "2006-07-27",
+        "title": "End Game",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5DfhvCAWMcLLhfATTa1KuoRzoEz.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 411009,
+        "original_language": "en",
+        "original_title": "Amanda Knox",
+        "overview": "This gripping, atmospheric documentary recounts the infamous trial, conviction and eventual acquittal of Seattle native Amanda Knox for the 2007 murder of a British exchange student in Italy.",
+        "popularity": 19.024,
+        "poster_path": "/he85BGyoCi42KWtwkC2sXlqdkWQ.jpg",
+        "release_date": "2016-09-10",
+        "title": "Amanda Knox",
+        "video": false,
+        "vote_average": 6.663,
+        "vote_count": 538
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wxar2zWRu7FK4FylQnnDdHlXs0h.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            14
+        ],
+        "id": 41925,
+        "original_language": "en",
+        "original_title": "The Comfort of Strangers",
+        "overview": "An Italian diplomat's son follows and seduces English lovers in Venice.",
+        "popularity": 19.017,
+        "poster_path": "/ePU1QvThfPUopPSo4mDUg55jVuD.jpg",
+        "release_date": "1990-11-01",
+        "title": "The Comfort of Strangers",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7tofEEP0buIc8nX7SqF0wpzYeIB.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 14269,
+        "original_language": "en",
+        "original_title": "Polyester",
+        "overview": "Blessed with a keen sense of smell and cursed with a philandering pornographer husband, a parasitic mother, and a pair of delinquent children, the long-suffering Francine Fishpaw turns to the bottle as her life falls apart -- until deliverance appears in the form of a hunk named Todd Tomorrow.",
+        "popularity": 19.017,
+        "poster_path": "/14RfMqOe8eF17bUajPsy4HtRsVC.jpg",
+        "release_date": "1981-05-29",
+        "title": "Polyester",
+        "video": false,
+        "vote_average": 6.897,
+        "vote_count": 156
+    }
+]

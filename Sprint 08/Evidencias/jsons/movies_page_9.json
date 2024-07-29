@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/oydsEHmBeqZnXv8v2Aw34rs699I.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 306,
+        "original_language": "en",
+        "original_title": "Beverly Hills Cop III",
+        "overview": "When his boss is killed, Detroit cop Axel Foley finds evidence that the murderer had ties to a California amusement park called Wonder World. Returning to sunny Beverly Hills once more, Foley reunites with Detective Billy Rosewood to solve the case. Along with Billy's new partner, Detective Jon Flint, they discover that Wonder World is being used as a front for a massive counterfeiting ring.",
+        "popularity": 72.294,
+        "poster_path": "/7vIpCkgGEfk5LZwm78nMxswLJRH.jpg",
+        "release_date": "1994-05-24",
+        "title": "Beverly Hills Cop III",
+        "video": false,
+        "vote_average": 5.876,
+        "vote_count": 1815
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iwvP8XVpYVmJ3xfF9xdBi5uAOWl.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            28
+        ],
+        "id": 75780,
+        "original_language": "en",
+        "original_title": "Jack Reacher",
+        "overview": "One morning in an ordinary town, five people are shot dead in a seemingly random attack. All evidence points to a single suspect: an ex-military sniper who is quickly brought into custody. The interrogation yields one written note: 'Get Jack Reacher!'. Reacher, an enigmatic ex-Army investigator, believes the authorities have the right man but agrees to help the sniper's defense attorney. However, the more Reacher delves into the case, the less clear-cut it appears. So begins an extraordinary chase for the truth, pitting Jack Reacher against an unexpected enemy, with a skill for violence and a secret to keep.",
+        "popularity": 72.283,
+        "poster_path": "/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg",
+        "release_date": "2012-12-20",
+        "title": "Jack Reacher",
+        "video": false,
+        "vote_average": 6.628,
+        "vote_count": 6856
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qHhuTmhRCYvj9ls4STFGnaeAPhR.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 23483,
+        "original_language": "en",
+        "original_title": "Kick-Ass",
+        "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+        "popularity": 72.225,
+        "poster_path": "/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+        "release_date": "2010-03-26",
+        "title": "Kick-Ass",
+        "video": false,
+        "vote_average": 7.125,
+        "vote_count": 11424
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yNz3HMbPDIawT7WH0MzkTrBBa1w.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 284536,
+        "original_language": "en",
+        "original_title": "The Gambler",
+        "overview": "Literature professor Jim Bennett leads a secret life as a high-stakes gambler. Always a risk-taker, Bennett bets it all when he borrows from a gangster and offers his own life as collateral. Staying one step ahead, he pits his creditor against the operator of an illicit gambling ring while garnering the attention of Frank, a paternalistic loan shark. As his relationship with a student deepens, Bennett must risk everything for a second chance.",
+        "popularity": 72.095,
+        "poster_path": "/kL7DfJIje1srf8yliRiMjFEqLtM.jpg",
+        "release_date": "2014-12-25",
+        "title": "The Gambler",
+        "video": false,
+        "vote_average": 5.957,
+        "vote_count": 1335
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o0x4LOW8qzVNyqwWGMuFa3kE7Hs.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 73861,
+        "original_language": "sr",
+        "original_title": "Srpski film",
+        "overview": "Retired porn star Milos leads a normal family life trying to make ends meet. Presented with the opportunity of a lifetime to financially support his family for the rest of their lives, Milos must participate in one last mysterious film. From then on, Milos is drawn into a maelstrom of unbelievable cruelty and mayhem.",
+        "popularity": 71.984,
+        "poster_path": "/cToUzXZ9AcUylfIt8vnXhiy6Y9m.jpg",
+        "release_date": "2010-06-16",
+        "title": "A Serbian Film",
+        "video": false,
+        "vote_average": 5.51,
+        "vote_count": 1909
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/akXPz7zK6NZ8YxGqjcHunGK9bXL.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 393,
+        "original_language": "en",
+        "original_title": "Kill Bill: Vol. 2",
+        "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+        "popularity": 71.448,
+        "poster_path": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+        "release_date": "2004-04-16",
+        "title": "Kill Bill: Vol. 2",
+        "video": false,
+        "vote_average": 7.879,
+        "vote_count": 13584
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 449443,
+        "original_language": "en",
+        "original_title": "Den of Thieves",
+        "overview": "A gritty crime saga which follows the lives of an elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+        "popularity": 71.412,
+        "poster_path": "/AfybH6GbGFw1F9bcETe2yu25mIE.jpg",
+        "release_date": "2018-01-18",
+        "title": "Den of Thieves",
+        "video": false,
+        "vote_average": 6.802,
+        "vote_count": 2777
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bskmLsrwmpqvZxKDi81UHa4mFDx.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 944401,
+        "original_language": "fr",
+        "original_title": "Dogman",
+        "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+        "popularity": 71.376,
+        "poster_path": "/yZGdlrKxglrWciRl0Rs6lAjfPHM.jpg",
+        "release_date": "2023-09-27",
+        "title": "Dogman",
+        "video": false,
+        "vote_average": 7.872,
+        "vote_count": 920
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A7VwVYbtzTcsDUE6hRpXFkOFeJE.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 11134,
+        "original_language": "cn",
+        "original_title": "警察故事 III：超級警察",
+        "overview": "A Hong Kong detective teams up with his female Red Chinese counterpart to stop a Chinese drug czar.",
+        "popularity": 70.914,
+        "poster_path": "/1C49MPtKZ8fZXtzwSj4Ha0eEEjl.jpg",
+        "release_date": "1992-07-04",
+        "title": "Police Story 3: Super Cop",
+        "video": false,
+        "vote_average": 6.856,
+        "vote_count": 470
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w9QfTrYmtoA96zJlVNvjS8eucf8.jpg",
+        "genre_ids": [
+            80,
+            35,
+            28
+        ],
+        "id": 402900,
+        "original_language": "en",
+        "original_title": "Ocean's Eight",
+        "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+        "popularity": 70.712,
+        "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+        "release_date": "2018-06-07",
+        "title": "Ocean's Eight",
+        "video": false,
+        "vote_average": 6.986,
+        "vote_count": 8153
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f79viVdvyIvu0ivAtlO7QtsE6bN.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            80
+        ],
+        "id": 256591,
+        "original_language": "en",
+        "original_title": "Focus",
+        "overview": "Nicky, an accomplished con artist, gets romantically involved with his disciple Jess but later ends their relationship. Years later, she returns as a femme fatale to spoil his plans.",
+        "popularity": 70.383,
+        "poster_path": "/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
+        "release_date": "2015-02-25",
+        "title": "Focus",
+        "video": false,
+        "vote_average": 6.881,
+        "vote_count": 7653
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8FlMYh5SRnAt8TBvryN2ttCYEfT.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 180299,
+        "original_language": "id",
+        "original_title": "The Raid 2: Berandal",
+        "overview": "After fighting his way through an apartment building populated by an army of dangerous criminals and escaping with his life, SWAT team member Rama goes undercover, joining a powerful Indonesian crime syndicate to protect his family and uncover corrupt members of his own force.",
+        "popularity": 70.239,
+        "poster_path": "/olA39iaXISiKEkACdELgr0ZRvIF.jpg",
+        "release_date": "2014-03-27",
+        "title": "The Raid 2",
+        "video": false,
+        "vote_average": 7.61,
+        "vote_count": 2258
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 163,
+        "original_language": "en",
+        "original_title": "Ocean's Twelve",
+        "overview": "Danny Ocean reunites with his old flame and the rest of his merry band of thieves in carrying out three huge heists in Rome, Paris and Amsterdam – but a Europol agent is hot on their heels.",
+        "popularity": 70.098,
+        "poster_path": "/Ad55M8newGWemFWCsMAkxO3fDwl.jpg",
+        "release_date": "2004-12-09",
+        "title": "Ocean's Twelve",
+        "video": false,
+        "vote_average": 6.566,
+        "vote_count": 7096
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36
+        ],
+        "id": 398978,
+        "original_language": "en",
+        "original_title": "The Irishman",
+        "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+        "popularity": 70.014,
+        "poster_path": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+        "release_date": "2019-11-01",
+        "title": "The Irishman",
+        "video": false,
+        "vote_average": 7.607,
+        "vote_count": 6637
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mkfRdkM7FtmOndrh1jML3MIRB2i.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 2034,
+        "original_language": "en",
+        "original_title": "Training Day",
+        "overview": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+        "popularity": 69.704,
+        "poster_path": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+        "release_date": "2001-10-05",
+        "title": "Training Day",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 5743
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9xjUZjuYyehv2qnqMH0oR9nSTft.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18,
+            53
+        ],
+        "id": 9702,
+        "original_language": "en",
+        "original_title": "Bound by Honor",
+        "overview": "Based on the true life experiences of poet Jimmy Santiago Baca, the film focuses on half-brothers Paco and Cruz, and their bi-racial cousin Miklo. It opens in 1972, as the three are members of an East L.A. gang known as the \"Vatos Locos\", and the story focuses on how a violent crime and the influence of narcotics alter their lives. Miklo is incarcerated and sent to San Quentin, where he makes a \"home\" for himself. Cruz becomes an exceptional artist, but a heroin addiction overcomes him with tragic results. Paco becomes a cop and an enemy to his \"carnal\", Miklo.",
+        "popularity": 69.676,
+        "poster_path": "/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+        "release_date": "1993-02-05",
+        "title": "Bound by Honor",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 1264
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rfBUlspOpxPavxrhkhvzlBlwfD8.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 372343,
+        "original_language": "en",
+        "original_title": "The Snowman",
+        "overview": "Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.",
+        "popularity": 69.604,
+        "poster_path": "/mKsQ8KMOk0VBX26Ev0Lj6EmfGJu.jpg",
+        "release_date": "2017-10-12",
+        "title": "The Snowman",
+        "video": false,
+        "vote_average": 5.216,
+        "vote_count": 2184
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qP2X0AbU3fsnl24ezw7HOyVKk3R.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53,
+            27
+        ],
+        "id": 105397,
+        "original_language": "cn",
+        "original_title": "滅門慘案II：借種",
+        "overview": "Another gruesome case involving a woman who's a sole survivor of a brutal massacre. A local constable questions the woman about her whereabouts and what might have happened the night before. As he gets the young woman to talk, she spins a tale of debauchery, madness and people so vile that you wished that they'll never see daylight again. Why is this woman so reluctant to talk? Who else might be involved in this ghastly murder? How will this bumbling cop get any solid leads or useful clues from this shell shocked woman?",
+        "popularity": 69.399,
+        "poster_path": "/xXR6FJNfH77B3KfzMU9HgjXRSMB.jpg",
+        "release_date": "1994-01-01",
+        "title": "Daughter of Darkness 2",
+        "video": false,
+        "vote_average": 5.368,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9G5bteYI8FXaY9EomnUP0kdHm66.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 4547,
+        "original_language": "en",
+        "original_title": "Panic Room",
+        "overview": "Trapped in their New York brownstone's panic room, a hidden chamber built as a sanctuary in the event of break-ins, newly divorced Meg Altman and her young daughter Sarah play a deadly game of cat-and-mouse with three intruders - Burnham, Raoul and Junior - during a brutal home invasion. But the room itself is the focal point because what the intruders really want is inside it.",
+        "popularity": 69.216,
+        "poster_path": "/7BabiNfuSycl58M9Cgl3Nf97n1F.jpg",
+        "release_date": "2002-03-29",
+        "title": "Panic Room",
+        "video": false,
+        "vote_average": 6.777,
+        "vote_count": 4802
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oTbIfHSLNxi9ihV6SG4K6jZ2PvM.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 15092,
+        "original_language": "en",
+        "original_title": "Crank: High Voltage",
+        "overview": "Chelios faces a Chinese mobster who has stolen his nearly indestructible heart and replaced it with a battery-powered ticker that requires regular jolts of electricity to keep working.",
+        "popularity": 69.213,
+        "poster_path": "/tzTC4EEvF0OPL63frEiogxL2T8M.jpg",
+        "release_date": "2009-04-16",
+        "title": "Crank: High Voltage",
+        "video": false,
+        "vote_average": 6.07,
+        "vote_count": 2751
+    }
+]

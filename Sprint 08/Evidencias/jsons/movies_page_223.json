@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/TO0F2pIiMsb9r27aU3Wj9CT84n.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1147964,
+        "original_language": "pt",
+        "original_title": "Angela",
+        "overview": "In this biopic about the life and death of Ângela Diniz, Angela meets Raul and believes she has found someone who loves her free spirit as much as she does. The overwhelming attraction makes the couple drop everything and live the dream of rebuilding their lives on the beach. But the relationship declines into abuse and violence, giving rise to one of the most remembered murders in Brazil.",
+        "popularity": 13.328,
+        "poster_path": "/1sRxjAw0LwV7GvwUHqb7YnyDp3D.jpg",
+        "release_date": "2023-09-07",
+        "title": "Angela",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 1278702,
+        "original_language": "zh",
+        "original_title": "火线狙击",
+        "overview": "The film tells the story of the male protagonist Song En (played by actor Xie Mengwei) who gave up his identity as a police officer in order to destroy the dark forces that were poisoning the local area and the deeper people behind them. At the same time, he was burdened with the revenge of his father's murder and the betrayal of a traitor in the police force. Infamy, he lurked in the dark forces and became a claw of a criminal organization. He embarked on a lonely road of competing with the dark forces alone, surrounded by dangers. In the end, he cooperated with the police inside and outside to break the dark story.",
+        "popularity": 13.327,
+        "poster_path": "/8SLL21axvLtEO97CGTTGDNUjnur.jpg",
+        "release_date": "2024-04-23",
+        "title": "Firewire Sniper",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/71FY8TrpfqHEA2chmSiD5ZWrN2R.jpg",
+        "genre_ids": [
+            18,
+            28,
+            35,
+            80
+        ],
+        "id": 67899,
+        "original_language": "en",
+        "original_title": "Thick as Thieves",
+        "overview": "Two master thieves go at odds with one another as one sets the other up for a crime. The first, a suave pro who does his job and then hides in his own privacy, listening to old jazz records and caring for his ailing dog, Wally. The other is a local gangster with a taste for the finer life, who decides to eliminate the competition. This ignites a war between the two men and their aides. An angry mob boss and a female police officer try to sort the mess before things get too out of hand.",
+        "popularity": 13.327,
+        "poster_path": "/x9Qi1B8cMUiRg5ouFV3lqX67eRJ.jpg",
+        "release_date": "1999-04-09",
+        "title": "Thick as Thieves",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nEYlaJYrAJZUhX8C4OZ0DkPqncw.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 50632,
+        "original_language": "ja",
+        "original_title": "女必殺拳　危機一発",
+        "overview": "Koryu heads to Yokohama in search of a woman named Birei, kidnapped by diamond smugglers who move their hot rocks by surgically implanting them into the nubile buttocks of Chinese prostitutes. Koryu's older sister, working as a jewelry designer, is secretly, if unhappily, involved with the gangsters.",
+        "popularity": 13.327,
+        "poster_path": "/2eiVnvLdIwGatG1qSZQkqV2p6Yn.jpg",
+        "release_date": "1974-12-07",
+        "title": "Sister Street Fighter: Hanging by a Thread",
+        "video": false,
+        "vote_average": 6.348,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xpdXXd5i1IN7d4eOhqAreApobxT.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1376,
+        "original_language": "en",
+        "original_title": "Sweet Sixteen",
+        "overview": "Determined to have a normal family life once his mother gets out of prison, a Scottish teenager from a tough background sets out to raise the money for a home.",
+        "popularity": 13.324,
+        "poster_path": "/p5h50WEZQ4pRFffnSULqL4cEuLp.jpg",
+        "release_date": "2002-09-07",
+        "title": "Sweet Sixteen",
+        "video": false,
+        "vote_average": 6.995,
+        "vote_count": 218
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fGJdAxsRfAMmJ69D3D5NgLtEZy9.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 582895,
+        "original_language": "fr",
+        "original_title": "Chanson douce",
+        "overview": "When Myriam, the mother of two young children, decides, despite the reluctance of her husband to resume his activity in a law firm, the couple is looking for a nanny. After a severe casting, they engage Louise, who quickly conquers the affection of children and gradually occupies a central place in the home. Gradually the trap of mutual dependence will close, until the tragedy.",
+        "popularity": 13.322,
+        "poster_path": "/oCziTuOrxalOFnmKNCTwD7u8jpY.jpg",
+        "release_date": "2019-11-27",
+        "title": "Perfect Nanny",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 220
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4AT3RYeGApqQrFbQjvJTO5IBXph.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            10770
+        ],
+        "id": 578561,
+        "original_language": "en",
+        "original_title": "Miss Marple: A Caribbean Mystery",
+        "overview": "While on vacation at a resort hotel in the West Indies, Miss Marple correctly suspects that the apparently natural death of a retired British major is actually the work of a murderer planning yet another killing.",
+        "popularity": 13.321,
+        "poster_path": "/jFN090M13cF2nnOq40F6fNz0HJN.jpg",
+        "release_date": "1989-12-25",
+        "title": "Miss Marple: A Caribbean Mystery",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/R8tcwYm0fPPLHLcSgBBxVdDSNT.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            10749
+        ],
+        "id": 39771,
+        "original_language": "en",
+        "original_title": "The Lady in Red",
+        "overview": "A farm girl's life turns upside down after she moves to Chicago and becomes trapped in a vicious cycle of prostitution and crime.",
+        "popularity": 13.321,
+        "poster_path": "/zXEtVKPTnSON63vueLZyQHj0QX5.jpg",
+        "release_date": "1979-07-01",
+        "title": "The Lady in Red",
+        "video": false,
+        "vote_average": 5.794,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vJ1zEudAE2p5TIpEiNk929ZWPnl.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 570614,
+        "original_language": "en",
+        "original_title": "Rise of the Footsoldier 4: Marbella",
+        "overview": "Fresh out of prison, Pat Tate steps right back into his Essex nightclub. But still disgruntled, he soon sets out to Marbelle to revenge those that put him away for five years. While in Spain, Pat cannot turn away from the opportunity to score the biggest drug deal of his life. All he needs is for his Essex pals Tony and Craig to deliver the cash to Marbella to close the deal. But Craig, useless as ever, turns a simple plane trip to a massive road trip packed with trickery and danger. And Tony is more worried about making it back to England as he has promised to support his best friend Nigel Benn at the boxing match of his life. While waiting in Marbella, Pat proceeds with the violent revenge he has craved for years. Revenges are made and Tony and Carlton walk Nigel Benn out to what turns out to be one of the most tragic fights in history. But the drugs they bring back seems to be a bad batch and cause them more trouble than they have ever anticipated before.",
+        "popularity": 13.32,
+        "poster_path": "/zc6UAUhB1bX0DW54cxSZ0ns38Os.jpg",
+        "release_date": "2019-11-08",
+        "title": "Rise of the Footsoldier 4: Marbella",
+        "video": false,
+        "vote_average": 5.37,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/afwZOLJ65LTPCw7xQB2BZXuyltm.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10402,
+            10749
+        ],
+        "id": 132883,
+        "original_language": "en",
+        "original_title": "Wonder Bar",
+        "overview": "Harry and Inez are a dance team at the Wonder Bar. Inez loves Harry, but he is in love with Liane, the wife of a wealthy business man. Al Wonder and the conductor/singer Tommy are in love with Inez. When Inez finds out that Harry wants to leave Paris and is going to the USA with Liane, she kills him.",
+        "popularity": 13.318,
+        "poster_path": "/noCvd3gFaPtk5y601WRDzERl217.jpg",
+        "release_date": "1934-03-31",
+        "title": "Wonder Bar",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 70374,
+        "original_language": "en",
+        "original_title": "Little Criminals",
+        "overview": "Des is an eleven year old kid who has had a really bad deal in life. Crime and mischief are the main staples of his life and he and his friends cruise around the city and do things like vandalize, steal, light fires, and mug people. He thinks that he is untouchable because he cannot be charged until he is twelve. Cory becomes Des' best friend and they carry on like nothing can stop them; however, Des ends up at an assessment centre for troubled youths and may begin a new life without crime.",
+        "popularity": 13.317,
+        "poster_path": "/rXbnOWpe6kQimNjEIihvE7jjmVz.jpg",
+        "release_date": "1995-01-01",
+        "title": "Little Criminals",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wauKko8jmeoz6vzjJTOxotK7eqZ.jpg",
+        "genre_ids": [
+            80,
+            35,
+            28,
+            10751,
+            10770
+        ],
+        "id": 461297,
+        "original_language": "en",
+        "original_title": "Cop and a Half: New Recruit",
+        "overview": "In this family-friendly action reboot of the 1993 film, Karina Foley, an ambitious and spunky 12-year-old, inserts herself in a police investigation of the Badge Bandit, led by the grizzled, veteran detective Mark Simmons. Much to Simmons' disapproval, Karina partners up with him to stop the Badge Bandit from further wreaking havoc on the city. Through wit, skill, and green smoothies, Karina and Detective Simmons save the day and build a strong relationship in the process.",
+        "popularity": 13.315,
+        "poster_path": "/7oxV17djCcUE2xFgrL5YE7RedX.jpg",
+        "release_date": "2017-08-01",
+        "title": "Cop and a Half: New Recruit",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pq0LsCaQyglY1y3W8N0TUP7qfAp.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "id": 83659,
+        "original_language": "en",
+        "original_title": "The Saint's Return",
+        "overview": "A private detective goes after the people who murdered his girlfriend.",
+        "popularity": 13.314,
+        "poster_path": "/2rSlF6FszwjaVV2jTMnSwpkqpw.jpg",
+        "release_date": "1953-10-12",
+        "title": "The Saint's Return",
+        "video": false,
+        "vote_average": 5.615,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f8UeXWO8pQCCW1p7udFZvmMthTn.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 70113,
+        "original_language": "en",
+        "original_title": "Tokyo Joe",
+        "overview": "An American veteren returns to Tokyo to try to pick up the threads of his pre-World War II life there but finds himself squeezed between criminals and the authorities.",
+        "popularity": 13.314,
+        "poster_path": "/tXHcILigqhV3y1NxwAyGFcIaGNm.jpg",
+        "release_date": "1949-10-26",
+        "title": "Tokyo Joe",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/68uiiAFDZDmJabbIrCWdT7GvBMq.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 42999,
+        "original_language": "it",
+        "original_title": "La commare secca",
+        "overview": "Roman police detectives interrogate a series of potential perpetrators in their struggle to determine whom to arrest for the brutal murder of a beautiful prostitute whose body is discovered in a park on the day of a torrential rainstorm. One by one, the prime suspects -- girl-crazy teenager Nino, pickpocket Canticchia, a soldier on leave, a tourist and a pimp -- recount the events of the day to the police, each insisting he is innocent.",
+        "popularity": 13.314,
+        "poster_path": "/mRlO7kBLNxG4nUwkzaL5eDT8fK9.jpg",
+        "release_date": "1962-08-27",
+        "title": "La Commare Secca",
+        "video": false,
+        "vote_average": 6.765,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fiVJPpSS4NHds15lJFrTqZbup38.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 86093,
+        "original_language": "en",
+        "original_title": "Cookie",
+        "overview": "Cookie Voltecki is the illegitimate daughter of mobster Dino Capisco, who has just finished thirteen years in prison. Since being released from jail, all that Dino wants is to settle some old scores, and make up for lost time with his daughter.",
+        "popularity": 13.31,
+        "poster_path": "/z37uyPcHdQoXFXSywqsUJTeFAPc.jpg",
+        "release_date": "1989-08-02",
+        "title": "Cookie",
+        "video": false,
+        "vote_average": 5.176,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1zYEt8kCj09GQNn5bhjgZkO4tds.jpg",
+        "genre_ids": [
+            80,
+            35,
+            28
+        ],
+        "id": 133563,
+        "original_language": "ja",
+        "original_title": "夕陽に赤い俺の顔",
+        "overview": "A vengeful contractor hires a series of young killers to target a woman muckraker. Trouble brews when an amateur marksman shows up his eclectic competition.",
+        "popularity": 13.306,
+        "poster_path": "/zDGhqKHC457VFUV5WaCHhCSMv9.jpg",
+        "release_date": "1961-02-19",
+        "title": "Killers on Parade",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sQRa1vjE2mmak8GwlXQc5cRn232.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 58404,
+        "original_language": "it",
+        "original_title": "Operazione San Gennaro",
+        "overview": "A pair of Americans want to perform the greatest robbery: the treasure of San Genaro, in Napoli.",
+        "popularity": 13.306,
+        "poster_path": "/wAj2GiU25Xh8zgkEG7VC5zMj6cq.jpg",
+        "release_date": "1966-11-25",
+        "title": "The Treasure of San Gennaro",
+        "video": false,
+        "vote_average": 7.386,
+        "vote_count": 175
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pT752B9PcXvdTOiun0gvCwMsqJb.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 27053,
+        "original_language": "fr",
+        "original_title": "Le jour se lève",
+        "overview": "After committing a murder, a man locks himself in his apartment and recollects the events the led him to the killing.",
+        "popularity": 13.306,
+        "poster_path": "/pnyHLvLKl18py7OKCWHMs0FdYW7.jpg",
+        "release_date": "1939-06-09",
+        "title": "Daybreak",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 220
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f4p4nArBzH5ZFKg9Sa9jdXmEQKz.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 27003,
+        "original_language": "en",
+        "original_title": "The Black Room",
+        "overview": "In a 16th-century European town, the ruling family has been given a prophecy that, should there ever be twin boys born, the younger will murder the older; so is dismayed when twins are born to the popular baron.  The older grows to be a selfish, slovenly man, who inherits the castle at his father's death and becomes ruler over the formerly happy villagers.  He enjoys his power until he learns his younger brother is returning from abroad and, afraid of the prophecy, he determines to murder his sibling, hide his body in the \"black room\" - an old torture chamber sealed away behind the fireplace - and then impersonate him, right down to his withered arm.  In this way he hopes to not only avoid the prophecy, but also escape consequences of his other criminal deeds and obtain marriage to a local girl of the nobility...",
+        "popularity": 13.304,
+        "poster_path": "/lXjHM4k632aV4F9vd6u5sJkJF6G.jpg",
+        "release_date": "1935-07-15",
+        "title": "The Black Room",
+        "video": false,
+        "vote_average": 6.445,
+        "vote_count": 55
+    }
+]

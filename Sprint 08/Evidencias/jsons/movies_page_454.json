@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/s4CRwON1oEjSwQQ6SajhdDpEFe8.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 318208,
+        "original_language": "fr",
+        "original_title": "Brelan d'as",
+        "overview": "Anthology film with three shorts each featuring a famous detective: Monsieur Wens, Lemmy Caution and Maigret.",
+        "popularity": 7.467,
+        "poster_path": "/7NIePbQ6VH9UMoqa15O6fb4hhbu.jpg",
+        "release_date": "1952-10-10",
+        "title": "Full House",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fY7wfVGzCunfLsr1bad6K7H92Em.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 33395,
+        "original_language": "en",
+        "original_title": "Charlie Chan in Shanghai",
+        "overview": "When a prominent official is murdered at a banquet honoring Charle Chan, the detective and son Lee team up to expose an opium-smuggling ring.",
+        "popularity": 7.467,
+        "poster_path": "/g7Fq1naVCuIPPI75j7SJwEvlwAk.jpg",
+        "release_date": "1935-10-11",
+        "title": "Charlie Chan in Shanghai",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kIMalXLFIMvdGw38VrjVB3wlyTx.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 45070,
+        "original_language": "ja",
+        "original_title": "容疑者 室井慎次",
+        "overview": "One day in February, 2005, Metropolitan Police Department Superintendent Muroi (Toshiro Yanagiba) is arrested to take responsibility for a botched murder case he headed. His faithful colleagues, including Arashiro (Toshio Kakei) and Okita (Miki Maya), only exacerbate the situation when they try to help clear his name. Is Muroi guilty as charged or merely taking the fall? What is the truth behind the murder? Two lawyers, one determined to get Muroi, the other resolved to save him, a feud between two police departments, political power plays and legal trappings, all combine to orchestrate Muroi’s downfall.",
+        "popularity": 7.466,
+        "poster_path": "/gB0bEun1Dq7Jta7upqPl3cz0ayh.jpg",
+        "release_date": "2005-08-27",
+        "title": "The Suspect: Muroi Shinji",
+        "video": false,
+        "vote_average": 6.333,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tjqc0JCVT3Oz3fXdFYjNzPobutq.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 33687,
+        "original_language": "en",
+        "original_title": "The Return of the Whistler",
+        "overview": "When a woman goes missing on the eve of her wedding, her fiancee hires a detective to track her down",
+        "popularity": 7.466,
+        "poster_path": "/dpIPt3NfOp42wZaT6LzqMt6gNZe.jpg",
+        "release_date": "1948-03-18",
+        "title": "The Return of the Whistler",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2p6LxBSNPWn3bTcmTDs9XDmEQB4.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 663172,
+        "original_language": "ko",
+        "original_title": "불량탐정 : 미씽",
+        "overview": "Mi-ri's friends, who work in a private detective office, leave on a trip to South East Asia. But suddenly, Mi-ri loses contact with her friends, and their whereabouts are unknown. Mi-ri is sure they have been abducted and asks a detective for help...\r The detective looks into the case, but where will he find Mi-ri's friends?",
+        "popularity": 7.465,
+        "poster_path": "/aAhCvyJZq5BPWTUPO74N9CouFvy.jpg",
+        "release_date": "2019-12-25",
+        "title": "Bad Detective: Missing",
+        "video": false,
+        "vote_average": 3.2,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AXGq5mxfNFSFANjZsqwPUnb6TO.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 118991,
+        "original_language": "en",
+        "original_title": "Keys to Tulsa",
+        "overview": "Richter Boudreau is on a bad streak: Languishing in the shadow of his celebrity mother, he loses his job as a film critic for the town paper, and now he's been approached with a dangerous proposition that ultimately leads to blackmail. Richter's friend Ronnie ropes him into a scheme to steal the inheritance of his wife, Vicky.",
+        "popularity": 7.465,
+        "poster_path": "/g3Y1t6AXTVyRrz2DOIGsBeeA3YB.jpg",
+        "release_date": "1997-04-11",
+        "title": "Keys to Tulsa",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2ULiHVMqIDbwm4Ic6i2kxLTEoll.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 55178,
+        "original_language": "da",
+        "original_title": "D-Dag",
+        "overview": "Four people plan to rob a bank on new year's eve, when no one will notice because of the celebrations.",
+        "popularity": 7.464,
+        "poster_path": "/4Yz0MtdZy4B1qwGrrI978jt4Sbp.jpg",
+        "release_date": "2000-01-01",
+        "title": "D-Day",
+        "video": false,
+        "vote_average": 5.727,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xWAXwiPdC4gH7kkSXGMdghiM5Qs.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 19373,
+        "original_language": "en",
+        "original_title": "The Executioner's Song",
+        "overview": "In this fact-based made-for TV film, Gary Gilmore, an Indiana man who just finished serving a lengthy stay in prison, tries to start anew by moving to Utah. Before long, Gary begins an ill-advised romance with the troubled Nicole Baker, a teenage single mother. As their relationship quickly deteriorates, Gary goes on a murderous rampage, leaving two dead. During his trial, he demands capital punishment; a media circus ensues and outsiders look to profit from his story.",
+        "popularity": 7.464,
+        "poster_path": "/32ymu9RHJ5shUuJI5fmY8LiMwr7.jpg",
+        "release_date": "1982-09-10",
+        "title": "The Executioner's Song",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3SrxuhrCDokg216g3xyGrL6YA61.jpg",
+        "genre_ids": [
+            18,
+            80,
+            99,
+            36
+        ],
+        "id": 878460,
+        "original_language": "en",
+        "original_title": "American Gangster Presents: Big Fifty - The Delhronda Hood Story",
+        "overview": "Delrhonda \"Big Fifty Hood ends up running her own drug empire, becoming one of Detroit's wealthiest and notorious women in the process. With her success, she discovers that money doesn't fix all of her problems, and she can only depend on herself if she wants to stay one step ahead of the law and stay alive.",
+        "popularity": 7.463,
+        "poster_path": "/z7f3g7L6z0Jp5Uz7EBPdJHTKJ2M.jpg",
+        "release_date": "2021-09-30",
+        "title": "American Gangster Presents: Big 50 - The Delrhonda Hood Story",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 477611,
+        "original_language": "ja",
+        "original_title": "笑う警官",
+        "overview": "A cop chasing after a female cop killer, but then gets caught in a dark web of departmental corruption.",
+        "popularity": 7.463,
+        "poster_path": "/9F3Wnc0UWluqqKZpUNOrtEppqp7.jpg",
+        "release_date": "2009-11-14",
+        "title": "The Laughing Policeman",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 316789,
+        "original_language": "ja",
+        "original_title": "スリ",
+        "overview": "Kaido is a professional pickpocket who works the Tokyo subway with his young foster-daughter, Rei: She lets herself be groped while Kaido relieves the groper of his wallet. More often than not they're observed by a middle-aged cop, who generally lets Kaido go free. Rei is unsettled when Kaido takes on a young street punk, Kazuki, as an apprentice -- with instructions to make Kaido stop drinking. Kazuki, however, would like to go into business with Rei.",
+        "popularity": 7.461,
+        "poster_path": "/ga5qXEIARJtm3KP5nOlRhXcVCgW.jpg",
+        "release_date": "2000-11-03",
+        "title": "Pickpocket",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 244437,
+        "original_language": "en",
+        "original_title": "Wilding",
+        "overview": "Two detectives are out to nail a gang of teenagers who have run wild through the city and brutally raped a woman.",
+        "popularity": 7.461,
+        "poster_path": "/uLZhJAkYyrI150oedHPQRRCYoyT.jpg",
+        "release_date": "1990-01-01",
+        "title": "Wilding",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1074715,
+        "original_language": "cs",
+        "original_title": "Smrt na černo",
+        "overview": "",
+        "popularity": 7.459,
+        "poster_path": "/nb5SIzpEGPvuN0SXnZEo2dNVhyZ.jpg",
+        "release_date": "1977-05-13",
+        "title": "Smrt na černo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nZZa7oVt1bxhyZn6KNCBZV7c1SE.jpg",
+        "genre_ids": [
+            53,
+            18,
+            10770,
+            80
+        ],
+        "id": 157077,
+        "original_language": "en",
+        "original_title": "Thrill of the Kill",
+        "overview": "Haunted by her sister's suspicious death, Kelly Holden enlists the help of murder-mystery novelist Graydon Jennings to help solve the crime. Together they discover that Kelly's sibling was living quite the double life -- sleeping with a congressman and fending off a scorned ex-lover! As this salacious story unfolds, Kelly discovers that truth isn't just stranger than fiction -- it can be more evil too!",
+        "popularity": 7.459,
+        "poster_path": "/r8qt05L1lqMnEvIzM5gPwvKNDpX.jpg",
+        "release_date": "2006-10-26",
+        "title": "Thrill of the Kill",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/riq9JCA8opQ31vl484ddfrgYaij.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 36635,
+        "original_language": "en",
+        "original_title": "Danger Signal",
+        "overview": "After robbing and murdering his married lover and then making her death look like suicide, conniving philanderer Ronnie Mason relocates to Los Angeles. Under a new identity and claiming to be a writer, Ronnie finds lodging at the home of Hilda Fenchurch and her mother. He woos Hilda, knowing she has money, but when he discovers that Hilda's sister, Anne, has just inherited $25,000, he switches his attentions to her.",
+        "popularity": 7.459,
+        "poster_path": "/dTMfktEGDOxBd10wC2KnnWXJ2rs.jpg",
+        "release_date": "1945-11-21",
+        "title": "Danger Signal",
+        "video": false,
+        "vote_average": 5.767,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 340444,
+        "original_language": "ja",
+        "original_title": "幸福",
+        "overview": "A police procedural surrounding murder at a bookstore and the private lives of the cops trying to solve the case.",
+        "popularity": 7.458,
+        "poster_path": "/nM7NHyzZTFKWAhabl4YcHw8eOla.jpg",
+        "release_date": "1981-10-10",
+        "title": "Lonely Heart",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/weEAEetRe7RADNvDw6i7M5ZzA1e.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 218563,
+        "original_language": "en",
+        "original_title": "Night Waitress",
+        "overview": "Helen Roberts, who's on probation, goes back to work as a waitress at Torre's Fish Palace, a San Francisco waterfront dive. The customers are low characters trying to make time with Helen and ex-rum runners trying to make a dishonest dollar. Some of the latter, including Helen's unwelcome suitor Martin Rhodes, are after a mysterious, valuable hidden \"cargo\"; when violence erupts, Helen finds herself innocently involved, and is soon on the run from both cops and crooks.",
+        "popularity": 7.458,
+        "poster_path": "/n4q0JSLm7wzR0dgefHoMxelaDCh.jpg",
+        "release_date": "1936-12-18",
+        "title": "Night Waitress",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3w03YKHDos79GqBIKaQne0J9WP9.jpg",
+        "genre_ids": [
+            18,
+            80,
+            35
+        ],
+        "id": 1232732,
+        "original_language": "es",
+        "original_title": "Casi el Paraíso",
+        "overview": "Ugo Conti, charismatic Italian aristocrat and influencer, arrives in Mexico where he seduces the Mexican high society. When he meets Frida Becker again, the love of his past, he will end up in the center of a struggle for political power.",
+        "popularity": 7.457,
+        "poster_path": "/drlxsgeit5v7Tb1IDh6Mvk15bGQ.jpg",
+        "release_date": "2024-09-12",
+        "title": "Casi el Paraíso",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 926010,
+        "original_language": "en",
+        "original_title": "Gemini",
+        "overview": "An emotionally torn bank manager is fretting over his extra marital relations with a colleague when he is pulled into the center of a violent and twisted heist.",
+        "popularity": 7.457,
+        "poster_path": "/gdV6485vECrU6t2qOQnnPbg2dhx.jpg",
+        "release_date": "2016-12-16",
+        "title": "Gemini",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53,
+            28
+        ],
+        "id": 331484,
+        "original_language": "en",
+        "original_title": "Scarface",
+        "overview": "A Mexican immigrant rises to the top of the criminal underworld in Los Angeles.",
+        "popularity": 7.456,
+        "poster_path": "/zw9M3su2qTFF7FIv27lAFvhJy1y.jpg",
+        "release_date": "",
+        "title": "Scarface",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

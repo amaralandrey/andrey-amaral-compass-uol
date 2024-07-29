@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 730919,
+        "original_language": "ja",
+        "original_title": "ガッデム!!",
+        "overview": "When yakuza member Okamoto (Hitoshi Ozawa) begins to search for Nami (Reiko Yasuhara), a woman he saw in an underground porn video, he finds himself on a path to his own destruction. Action film based on a manga by Takashi Ishii.",
+        "popularity": 8.075,
+        "poster_path": "/e7ByBHxIjnYpsQuWfNMVv6ueWam.jpg",
+        "release_date": "1991-11-22",
+        "title": "Goddamn!!",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lsujTleNSZfgc8AjvFDBo1yOG5i.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 487849,
+        "original_language": "ja",
+        "original_title": "ときめきに死す",
+        "overview": "Deaths in Tokimeki tells the story of a nondescript hitman, in a remote country villa, waiting to carry out a job: the assassination of the leader of a religious cult.",
+        "popularity": 8.075,
+        "poster_path": "/umqRYKInFQR5dMm1TfHJdK1h3fM.jpg",
+        "release_date": "1984-02-18",
+        "title": "Deaths in Tokimeki",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mVcYAtlMrQxBJqh7rqIJqrarTSL.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 180237,
+        "original_language": "en",
+        "original_title": "The Dirty Dolls",
+        "overview": "Johnny, a psychopath, puts together a gang made up of young teenage girls to commit crimes for him. Everything is going well until one day, during a diamond robbery, the girls are forced to take two hostages and bring them back to the hideout along with the loot. Furious, Johnny wants to kill the hostages so there will be no witnesses, but one of his gang, who happens to be his sister, starts to think that maybe Johnny is going too far.",
+        "popularity": 8.075,
+        "poster_path": "/v40Qqza71Kppwxs5DdllWGKj2xn.jpg",
+        "release_date": "1973-04-19",
+        "title": "The Dirty Dolls",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8ECKUwIpeoY0pSoGoznH9q74Ay0.jpg",
+        "genre_ids": [
+            36,
+            18,
+            80,
+            99
+        ],
+        "id": 671940,
+        "original_language": "it",
+        "original_title": "Il delitto Mattarella",
+        "overview": "January 6, 1980. President of the Sicily Piersanti Mattarella is going to Mass with his family when a young man approaches his car and shoots him in cold blood, killing him. The young Deputy Prosecutor on duty that day is Pietro Grasso, future General Anti-Mafia Prosecutor and President of the Italian Senate. His investigations are continued by Giovanni Falcone, who uncovers dangerous connections between the Mafia, the ruling Christian Democratic Party, neo-fascist terrorists, and secret services.",
+        "popularity": 8.074,
+        "poster_path": "/ptyfiNh6GtlRMtBeIZ0AsHDdphB.jpg",
+        "release_date": "2020-07-02",
+        "title": "Il delitto Mattarella",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z2iexNFJ7M2MquHpQk5PrZFAdZk.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 52452,
+        "original_language": "en",
+        "original_title": "Johnny Was",
+        "overview": "Johnny Doyle escapes a violent past in Ireland to lie low in London, until his former mentor Flynn breaks out of Brixton Prison...",
+        "popularity": 8.074,
+        "poster_path": "/bODiBndUdqlZeQUM7ou66A87ZFs.jpg",
+        "release_date": "2006-09-19",
+        "title": "Johnny Was",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4p5f4RTvF3nfYi4FQkUMS629N6L.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            53,
+            80
+        ],
+        "id": 960646,
+        "original_language": "en",
+        "original_title": "Fallen Angels Murder Club: Heroes and Felons",
+        "overview": "The members of the Fallen Angels Murder Club must band together again as they search for answers surrounding the death of one of their own. Hollis Morgan  finds herself at the center of the investigation when a journalist reporting on the murder also winds up dead.  As bodies begin to stack up, and Hollis connects the dots, she must solve the murders before it's too late.",
+        "popularity": 8.073,
+        "poster_path": "/xgCQng0JSQAJcZX6kM2ILiqWTj5.jpg",
+        "release_date": "2022-04-09",
+        "title": "Fallen Angels Murder Club: Heroes and Felons",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 396770,
+        "original_language": "ja",
+        "original_title": "新網走番外地",
+        "overview": "Former soldier, Suehiro Katsuji, fights violent gangs and powerful Chinese merchants during the post-war period in Japan.",
+        "popularity": 8.071,
+        "poster_path": "/fOCPVp5F4X8HqZYytZhqRUagXJz.jpg",
+        "release_date": "1968-12-28",
+        "title": "New Prison Walls of Abashiri",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qDz1KJoraOsF0PGzNGk63PARNps.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 149798,
+        "original_language": "ru",
+        "original_title": "Бригада: Наследник",
+        "overview": "Ivan is a typical modern young man of 18. His father disappeared 10 years ago. Trying to shake off the pursuing enemies of their father, Belov's wife and daughter changed their names and settled in the United States. But Alexander Belov's blood still runs in Ivan's veins. He wants to prove his financial independence to his mother and gets involved in a dubious stock market speculation. The operation fails and Ivan and his friends are faced with a huge debt. To solve this problem Ivan heads to Russia in order to try selling a small part of his father's multi-million heritage, but keeps this venture a secret from his mother. His friends Phil, Sydney and Kelly join him in this undertaking. The new rescue plan turned out to be even more dangerous than the prior speculative venture. The main characters get into areal maelstrom of betrayals, pursuits, family secrets and their disclosures and showdowns with both the mob and the Russian secret services...",
+        "popularity": 8.07,
+        "poster_path": "/jAJPWJ6dRox5q1u4NWZutnWXsnj.jpg",
+        "release_date": "2012-11-29",
+        "title": "Legatee",
+        "video": false,
+        "vote_average": 2.846,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/arDkcEEnBLbUXmUYOE9R2ACLPla.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 74095,
+        "original_language": "cn",
+        "original_title": "臥虎",
+        "overview": "The Hong Kong Police placed 1000 undercover officers in the various Triad groups in their efforts to bring down the criminal organization in Hong Kong. After one undercover officer's identity is discovered and he is killed, the pressure is put on one gang, suspicious of each other and everyone around them. Betrayal, deceit and murder bring this group of 'brothers' into a collision with the law, and each other.",
+        "popularity": 8.07,
+        "poster_path": "/fBInr3bu86Jp8BwDeCVJgCxvaUs.jpg",
+        "release_date": "2006-10-13",
+        "title": "Wo Hu",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            36,
+            18,
+            80
+        ],
+        "id": 18802,
+        "original_language": "en",
+        "original_title": "Hope & Redemption: The Lena Baker Story",
+        "overview": "Based on true events, The Lena Baker Story recounts one African-American womans struggle to rise above the challenges of her life, to face the choices she makes, and to ultimately triumph over her...Lena Baker was the first and only woman to be sentenced to death by the electric chair in the state of Georgia and was executed in 1945. She was pardoned posthumously in 2005.",
+        "popularity": 8.07,
+        "poster_path": "/aVOon0Y3LXxFLIIPIrYSrlYpX6Q.jpg",
+        "release_date": "2008-11-06",
+        "title": "Hope & Redemption: The Lena Baker Story",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mQsBGdxCXbnOpu32zHHzgF6oQVN.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1305533,
+        "original_language": "en",
+        "original_title": "Young Lion of the West",
+        "overview": "A local club promoter in Rochester, New York defies the orders of his boss and attempts to open up his own club.",
+        "popularity": 8.067,
+        "poster_path": "/r0Yq8pxgG6YzaeFzeJk3GFhlswT.jpg",
+        "release_date": "2024-07-19",
+        "title": "Young Lion of the West",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ejjKvXg1j9TKALpdidqhh7LzyPv.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 55903,
+        "original_language": "fr",
+        "original_title": "Betty Fisher et autres histoires",
+        "overview": "When bestselling novelist Betty Fisher loses her young son in a tragic accident, her unstable mother resorts to unusual actions to alleviate Betty's grief, actions which set off a chain reaction among a promiscuous waitress and her criminal associates.",
+        "popularity": 8.066,
+        "poster_path": "/hYMsIPY8APyppmc1wHztD3zLR0g.jpg",
+        "release_date": "2001-09-01",
+        "title": "Betty Fisher and Other Stories",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s6vPi3wQEBfcqoJ5CzFnkTjujUx.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 35957,
+        "original_language": "en",
+        "original_title": "Dial 1119",
+        "overview": "A deranged killer escapes from a mental institution, intent on locating the psychiatrist whose testimony sent him to the asylum, holds the patrons of a bar hostage.",
+        "popularity": 8.066,
+        "poster_path": "/zKNX4dxps6uXltOcCHKd2KGgQ19.jpg",
+        "release_date": "1950-11-03",
+        "title": "Dial 1119",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 653679,
+        "original_language": "es",
+        "original_title": "Inmaculada",
+        "overview": "A single mother discovers her daughter getting ready to elope with an unworthy boyfriend, so she sits the girl down and tells her the whole entire story of her own very unhappy marriage.",
+        "popularity": 8.065,
+        "poster_path": "/h1moTWaxQ9lkSj62FvbtBp0OViL.jpg",
+        "release_date": "1950-09-15",
+        "title": "Inmaculada",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tVcKG28HZSEgIAXibLFdvJU5J7O.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 27114,
+        "original_language": "en",
+        "original_title": "The Phantom of Crestwood",
+        "overview": "Five men have to prove their innocence when a blackmailer is murdered.",
+        "popularity": 8.065,
+        "poster_path": "/11nozB68nCjRCaxRuOIuqCSXLpf.jpg",
+        "release_date": "1932-10-14",
+        "title": "The Phantom of Crestwood",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nwwnMRK1okOGkt1MeJNEVWhMQ1O.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10402
+        ],
+        "id": 25862,
+        "original_language": "en",
+        "original_title": "Blues in the Night",
+        "overview": "A struggling band find themselves attached to a fugitive and drawn into a series of old feuds and love affairs, as they try to stay together and find musical success.",
+        "popularity": 8.064,
+        "poster_path": "/A6anBd0LJIZ4fnsh70THxUtuCD.jpg",
+        "release_date": "1941-11-15",
+        "title": "Blues in the Night",
+        "video": false,
+        "vote_average": 6.24,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            35,
+            878,
+            53,
+            80
+        ],
+        "id": 1071552,
+        "original_language": "en",
+        "original_title": "Mind Leech",
+        "overview": "A persuasive Leech wreaks havoc on rural Provinstate, ‘98",
+        "popularity": 8.063,
+        "poster_path": "/bLPiFYxEmAPJVhxa8vBzAZpNquv.jpg",
+        "release_date": "2023-01-07",
+        "title": "Mind Leech",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jrV9MNF2WICf0eNvxRXuu5oejeP.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 658113,
+        "original_language": "te",
+        "original_title": "అశ్వథామ",
+        "overview": "After learning his sister has been mysteriously impregnated, Gana sets out to hunt down the culprit as he discovers similar cases in the city.",
+        "popularity": 8.062,
+        "poster_path": "/kiAOon7Y0R4O3ipEQirBlX80ftS.jpg",
+        "release_date": "2020-01-31",
+        "title": "Aswathama",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b6NwOhvIVpbMyzFqdMnaSojv6CJ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 65830,
+        "original_language": "en",
+        "original_title": "No Night Is Too Long",
+        "overview": "A chance meeting, a stolen kiss and a sudden flare of passion sets a handsome young university student on a journey of betrayal, heartbreak and murder.",
+        "popularity": 8.062,
+        "poster_path": "/81uNqDEDFrM9NmdOigwQIjXNF2w.jpg",
+        "release_date": "2002-12-27",
+        "title": "No Night Is Too Long",
+        "video": false,
+        "vote_average": 6.364,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1MgvzvSH6AGabVHnju2KkU9lhyW.jpg",
+        "genre_ids": [
+            99,
+            28,
+            12,
+            16,
+            80
+        ],
+        "id": 779681,
+        "original_language": "en",
+        "original_title": "Knight Immortal",
+        "overview": "A visual and visceral celebration of the Dark Knight’s 80 years of crime fighting, narrated by storytellers of the past, present, and future.",
+        "popularity": 8.061,
+        "poster_path": "/fkvrik8umxLRq9N7PZscRLikbYb.jpg",
+        "release_date": "2019-09-03",
+        "title": "Knight Immortal",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 2
+    }
+]

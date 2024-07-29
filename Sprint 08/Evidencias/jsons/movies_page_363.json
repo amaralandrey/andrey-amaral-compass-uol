@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/gpPEVP2HNUyq6ghtqcnZ8kZgM7y.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 352196,
+        "original_language": "tr",
+        "original_title": "Abluka",
+        "overview": "With Istanbul mired in political violence, Kadir is offered release after 15 years in prison if he’ll work as an informant. In a shantytown he stumbles upon his brother Ahmet, working for the city rounding up stray dogs and shutting himself in his home.",
+        "popularity": 9.001,
+        "poster_path": "/bza9EaNrx20BrMFmbEsay5McPcf.jpg",
+        "release_date": "2015-07-29",
+        "title": "Frenzy",
+        "video": false,
+        "vote_average": 6.821,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q9bWl9uGANPZvwhEN398mT0uSxn.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 785902,
+        "original_language": "ja",
+        "original_title": "タフ PART IV 血の収穫篇",
+        "overview": "",
+        "popularity": 8.998,
+        "poster_path": "/349YjhQ38b2e6ZGi1qAXKynXe6R.jpg",
+        "release_date": "1991-08-30",
+        "title": "Tuff Part IV",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yd20fbSkoddiGSEsfCxonXRnok8.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 34977,
+        "original_language": "en",
+        "original_title": "Penthouse",
+        "overview": "Gertie Waxted knows how notorious gangster Jim Crelliman runs his rackets, because she's long been under the hoodlum's thumb. She's secretly helping lawyer Jackson Durant in a snoop job aimed at pinning a murder on the thug. Her life will be in peril when that secret gets out.",
+        "popularity": 8.998,
+        "poster_path": "/mUJCt9wBvsspffPacWFo66F8VoM.jpg",
+        "release_date": "1933-09-08",
+        "title": "Penthouse",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8nGzaEabv1tHqoT3Z0GIhgLpCi1.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 28258,
+        "original_language": "en",
+        "original_title": "The Secret Six",
+        "overview": "Bootlegger/cafe owner, Johnny Franks  recruits crude working man Scorpio to join his gang, masterminded by crooked criminal defense lawyer Newton. Scorpio eventually takes over Frank's operation, beats a rival gang, becomes wealthy and dominates the city for several years until a secret group of 6 masked businessmen have him prosecuted and sent to the electric chair.",
+        "popularity": 8.998,
+        "poster_path": "/67dWQ7G6uER6D5c8TT724FX7SlK.jpg",
+        "release_date": "1931-04-18",
+        "title": "The Secret Six",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9KK9peaUbf3ZlMbFeOugwZ8H0QR.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 584828,
+        "original_language": "en",
+        "original_title": "Last Ferry",
+        "overview": "When a young gay lawyer arrives on Fire Island to explore his sexuality, he becomes witness to a murder after being drugged. A stranger helps him to safety, but he soon discovers his saviour is friends with the killer.",
+        "popularity": 8.997,
+        "poster_path": "/tnybnxDBl62DluXQWQA45fj5JYX.jpg",
+        "release_date": "2019-10-31",
+        "title": "Last Ferry",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53,
+            28,
+            80,
+            14
+        ],
+        "id": 180268,
+        "original_language": "en",
+        "original_title": "Demonstone",
+        "overview": "Two U.S. Marine investigators looking into a series of grisly murders in Manila discover that the crimes are tied to an amulet with a 400-year-old curse on it that has unleashed supernatural forces.",
+        "popularity": 8.995,
+        "poster_path": "/ss3j3LUtDyEtsZmBBpM8p301Gi4.jpg",
+        "release_date": "1990-02-09",
+        "title": "Demonstone",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v39grIRkgPemXNhI8qjVxwYeTb1.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 79249,
+        "original_language": "fr",
+        "original_title": "De force",
+        "overview": "Following a series of unsolved robberies, the authorities decide to give carte blanche to commander Clara Damico to neutralize a particularly organized gang. Manual Makarov, a well-known figure in organized crime, is currently serving a sentence of twelve years in prison. Commander Damico promises him freedom in exchange for his cooperation. He refuses. There is no other solution, she is obliged to compel him by force.",
+        "popularity": 8.992,
+        "poster_path": "/jU6wmsXDcPuNEPdWLFXSI70cfOV.jpg",
+        "release_date": "2011-10-26",
+        "title": "Force",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 116756,
+        "original_language": "es",
+        "original_title": "Lamberto Quintero",
+        "overview": "",
+        "popularity": 8.99,
+        "poster_path": "/6v9k2zU9ycMLn7SIdLt0lCaWd1Z.jpg",
+        "release_date": "1987-05-19",
+        "title": "Lamberto Quintero",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fbHJXv49RmUCMIiEheknm5WgOFu.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 39310,
+        "original_language": "en",
+        "original_title": "New Jersey Drive",
+        "overview": "New Jersey Drive is a 1995 film about black youths in Newark, New Jersey, the unofficial \"car theft capital of the world\". Their favorite pastime is that of everybody in their neighborhood: stealing cars and joyriding. The trouble starts when they steal a police car and the cops launch a violent offensive that involves beating and even shooting suspects.",
+        "popularity": 8.99,
+        "poster_path": "/lXJWJT6lfAg2NEqEueJcI4ESWSG.jpg",
+        "release_date": "1995-04-19",
+        "title": "New Jersey Drive",
+        "video": false,
+        "vote_average": 5.973,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lzXDUU2Ky9xFbiqCtiVP65MeUDh.jpg",
+        "genre_ids": [
+            28,
+            80,
+            878
+        ],
+        "id": 443780,
+        "original_language": "ja",
+        "original_title": "スレイブメン",
+        "overview": "Yasuyuki Shimada is an ordinary guy who makes films. One day he gets a hold of a camera and a mask which has special powers to go back in time by filming the God of Death who handles all destinies. This is a new type of Dark Action Hero movie, where a simple filmmaker changes his destiny and tries to save his crush!",
+        "popularity": 8.988,
+        "poster_path": "/uWnNPvinnjUZJRTe6rVpRtRozmS.jpg",
+        "release_date": "2017-03-10",
+        "title": "Slavemen",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lgfP5iJ3VGrOL1G2YCDwAQUAJn8.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 5926,
+        "original_language": "en",
+        "original_title": "The Great St. Louis Bank Robbery",
+        "overview": "Career criminals and a local youth carefully plan and rehearse the robbery of a Missouri bank.",
+        "popularity": 8.988,
+        "poster_path": "/zodT2zxrTpCTWZp1jrz2xNZhSq7.jpg",
+        "release_date": "1959-09-10",
+        "title": "The Great St. Louis Bank Robbery",
+        "video": false,
+        "vote_average": 6.107,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b3li1jH6HvzRPQH9d4WNtssvSCY.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1140191,
+        "original_language": "tr",
+        "original_title": "Saýara",
+        "overview": "When her sister is murdered by a group of politically connected rich kids, Sayara, a quiet gym cleaner from Turkmenistan, begins to follow in her father's footsteps, seeking a path of revenge.",
+        "popularity": 8.987,
+        "poster_path": "/vYaYxlqiMhtY0ydAt1uktFCRRYT.jpg",
+        "release_date": "2024-06-21",
+        "title": "Saýara",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            10770
+        ],
+        "id": 189297,
+        "original_language": "en",
+        "original_title": "Past Tense",
+        "overview": "A former cop who is now a novelist notices an attractive young woman move in next door to him. He strikes up a conversation, one thing leads to another and he spends the night. She asks him to come back the next evening, but when he does he discovers that she has been killed. When he reports the murder, he is told that no such woman ever lived there, and when he gets back to the house there's a completely different woman staying there--who he's never seen before--who claims that she's lived there for years and no other woman has ever lived there",
+        "popularity": 8.984,
+        "poster_path": "/8pBAsaEeVEvCmMXRqBZJlQzIrQl.jpg",
+        "release_date": "1994-06-12",
+        "title": "Past Tense",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wbwKgKxkrwKi4Gfebg8Q3SzGH0d.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 266541,
+        "original_language": "en",
+        "original_title": "Parole Girl",
+        "overview": "A woman convicted of fraud aims to take her revenge on the man who put her inside after being released on parole.",
+        "popularity": 8.982,
+        "poster_path": "/73FJnCMLFY1PfizahN2HaeoWzjn.jpg",
+        "release_date": "1933-03-04",
+        "title": "Parole Girl",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eNYS65io8MuaFNl9jbVWHuFsEHx.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 24713,
+        "original_language": "sv",
+        "original_title": "Johan Falk: Operation Näktergal",
+        "overview": "Johan Falk and his colleagues at the GSI go after sex traffickers importing young women from the East and forcing them into prostitution.",
+        "popularity": 8.982,
+        "poster_path": "/k15ho9b3YEVtFf0txA56Rim0wto.jpg",
+        "release_date": "2009-11-03",
+        "title": "Johan Falk: Operation Näktergal",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tNuhR6qC5epmLqdwEtNFlBs2adH.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 461777,
+        "original_language": "es",
+        "original_title": "Sólo se vive una vez",
+        "overview": "Leo is the wrong man in the wrong place at the wrong time. After taping a murder and keeping the evidence he runs away to stay alive and, in order to survive, he has to cover up himself. Under a new identity he will become an orthodox Hasidic Jew. A french ruthless killer, Duges and his associates López and Harken will hunt Leo. Their nonstop chase has only one exhilarating speed: all- out. Time is running out and his enemies are getting closer. Now Leo a ragtag bunch of misfits will face the biggest challenge of their lives.",
+        "popularity": 8.981,
+        "poster_path": "/tKPTUSyy9AaO2l0KIROOpicKaPs.jpg",
+        "release_date": "2017-06-15",
+        "title": "You Only Live Once",
+        "video": false,
+        "vote_average": 5.632,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6QalX8hrDKumDVPtXbrAISuA4Sb.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 33253,
+        "original_language": "th",
+        "original_title": "เรื่องตลก 69",
+        "overview": "A woman, fired from a financial corporation during the Asia crisis, returns home with no money. However, she finds a box with a fortune in front of her door, and decides to keep it. However, the people that left it there soon want it back.",
+        "popularity": 8.98,
+        "poster_path": "/q9hHVuHQX3yTDDUtuIezDz3YC34.jpg",
+        "release_date": "1999-10-20",
+        "title": "6ixtynin9",
+        "video": false,
+        "vote_average": 6.85,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/At9sfKJ1JNcAMxziAdEDWHvXvVQ.jpg",
+        "genre_ids": [
+            80,
+            10770,
+            18
+        ],
+        "id": 973602,
+        "original_language": "fr",
+        "original_title": "Le village des endormis",
+        "overview": "While a murderer, Lucas, escapes during a prison transfer, a strange phenomenon suddenly disrupts the life of a village. One after another, the inhabitants fall into a prolonged sleep. It is in this climate of panic and anguish that Mathieu, a gendarmerie captain on the verge of divorce, must find Lucas and investigate a series of crimes. With the help of Elise, a sleep specialist who has come to the hospital as a backup, he will discover the origin of these mysterious sleepings, which is not unrelated to the murders he is investigating.",
+        "popularity": 8.979,
+        "poster_path": "/ka07pXn8NT11aD36xDfZpqOW3et.jpg",
+        "release_date": "2022-11-24",
+        "title": "Le village des endormis",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 297043,
+        "original_language": "es",
+        "original_title": "Perras callejeras",
+        "overview": "Crista, Berta and Sole, are three young people who feel exploited and discriminated by society.",
+        "popularity": 8.977,
+        "poster_path": "/aM8fZRllfZabWqvJD4Ig3n2PjrP.jpg",
+        "release_date": "1985-03-15",
+        "title": "Female Street Dogs",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5c7gKD6wlFf6IlHC59hzDbnAPma.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 835923,
+        "original_language": "en",
+        "original_title": "Boss Moves",
+        "overview": "When Lena coerces her husband, Crutch, to betray, Kane, best friends become sworn enemies. Locked in a deadly battle of mind games, nothing is as it seems, so make your next move your best move, because it could be your last.",
+        "popularity": 8.975,
+        "poster_path": "/18mL7RGrZDVjEqw7eGbtHsRAdpY.jpg",
+        "release_date": "2021-06-29",
+        "title": "Boss Moves",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    }
+]

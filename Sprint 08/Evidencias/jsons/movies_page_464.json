@@ -1,0 +1,395 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 222371,
+        "original_language": "en",
+        "original_title": "Reflections on a Crime",
+        "overview": "Seven years ago, Regina (Mimi Rogers) was tried for the death. On the night before she becomes the first woman in over 40 years to be executed in a federal penitentiary, she befriends the lone, curious prison guard Colin Reeves (Billy Zane), who has been assigned to watch over her. By telling Regina's story through flashbacks interwoven with her present situation, the film helps us understand this woman in a unique, disturbing and sympathetic way",
+        "popularity": 7.227,
+        "poster_path": "/5jjAjSXYL0nR3YP75yvb4fRCUPh.jpg",
+        "release_date": "1994-06-10",
+        "title": "Reflections on a Crime",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 72889,
+        "original_language": "ru",
+        "original_title": "Флэш.ка",
+        "overview": "Contemporary Russia. A humiliated bank executive takes revenge on his adulterous wife and corrupt employers.",
+        "popularity": 7.227,
+        "poster_path": "/gNTXDKXWxFMfMT0Qs92Mc8I9j5r.jpg",
+        "release_date": "2006-11-23",
+        "title": "Flash.card",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bRi0rbuWOoYUEHdXx5PmUhXwIXp.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 182584,
+        "original_language": "pa",
+        "original_title": "Sadda Haq",
+        "overview": "The movie tells the story of Sharon Gill, a modern-day Canadian Sikh graduate student who travels to India as part of her thesis on minorities at war. Revelations about the past soon leave the student curious for more information, and Gill's awareness changes after maneuvering into prison to interview Kartaar Singh. Singh is a hockey player whose life experiences lead him to fight against corruption in the police and government systems. The film's central story is based around Kartaar Singh's journey which is filled with courage, perseverance, and faith.",
+        "popularity": 7.897,
+        "poster_path": "/iagEDbNbIvrE1aKntaU3gdcsbk9.jpg",
+        "release_date": "2013-04-10",
+        "title": "Sadda Haq",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oaQT2UpHbDfJAII4voyEQywAOIi.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 120416,
+        "original_language": "en",
+        "original_title": "Model for Murder",
+        "overview": "An American officer scours Britain in search of his dead brother's girlfriend and becomes involved in a jewel heist.",
+        "popularity": 7.225,
+        "poster_path": "/gbYZTE3jWeKvnCVGvon0VdzFaAO.jpg",
+        "release_date": "1959-02-01",
+        "title": "Model for Murder",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            10749,
+            10770
+        ],
+        "id": 1165200,
+        "original_language": "cn",
+        "original_title": "愛在明天",
+        "overview": "",
+        "popularity": 7.224,
+        "poster_path": "/cVGvqy1VyvoH6EfWXuZJHJ1aPJE.jpg",
+        "release_date": "1992-01-01",
+        "title": "Club Girls Romance",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bIDPMjq7IfNTPGXFgS1yjE7wWx0.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 287537,
+        "original_language": "ko",
+        "original_title": "비정한 도시",
+        "overview": "One man's desperation to save his dying wife sparks a chain of tragedies in the dark crime thriller Circle of Crime. The film offers a complex story that first depicts several seemingly unconnected incidents: the escape of a serial killer, a man being chased by loan sharks after taking the money to save his wife's life, a taxi driver's hit-and-run and a woman's suicide attempt. As the plot unfolds, the connection between these incidents begins to become clear.",
+        "popularity": 7.224,
+        "poster_path": "/8SX76YlpTbxEbz1KJSIexvETGwB.jpg",
+        "release_date": "2012-10-25",
+        "title": "Circle of Crime",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4jWhX2yaf3u3N7u5h9rSpnMPL6P.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 193397,
+        "original_language": "en",
+        "original_title": "Tropic Zone",
+        "overview": "A fugitive from the police helps a beautiful farmer run her struggling banana plantation.",
+        "popularity": 8.925,
+        "poster_path": "/9x2xuyGIGQlxSugNPhji1YiPGv4.jpg",
+        "release_date": "1953-01-14",
+        "title": "Tropic Zone",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jF1bxjXoWSlKsyZAz5hXVuFCVrq.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 47743,
+        "original_language": "en",
+        "original_title": "The Saint in New York",
+        "overview": "A crime spree in New York forces the police commissioner to turn to Englishman Simon Templar, who fights lawlessness and corruption through unorthodox methods. Templar sets his sights on individual crimes bosses, and after bringing down two vicious leaders through disguise and deception, discovers that there is a mastermind behind all the city's crime.",
+        "popularity": 7.224,
+        "poster_path": "/wj8KUoMJiwNmlOnvmde5pulQWLU.jpg",
+        "release_date": "1938-05-25",
+        "title": "The Saint in New York",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/42Ww1gJyaULIVWnUnUDMOmXnqKu.jpg",
+        "genre_ids": [
+            18,
+            53,
+            28,
+            80
+        ],
+        "id": 889821,
+        "original_language": "el",
+        "original_title": "Animal",
+        "overview": "Under the hot Greek sun, animators at an all-inclusive island resort prepare for the busy tourist season. Kalia is the group leader. Paper decorations, glossy costumes and dance shows fill the stage. As summer intensifies and the work pressure builds up, their nights become violent and Kalia's struggle is revealed in the darkness. But when the spotlights turn on again, the show must go on.",
+        "popularity": 7.223,
+        "poster_path": "/nLPuMb8og7zRgRfosKQET7b00PV.jpg",
+        "release_date": "2024-01-17",
+        "title": "Animal",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hqOJMq6cITPIxansUQTeBxh9wUI.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 851531,
+        "original_language": "zh",
+        "original_title": "老郑飞到天上去了",
+        "overview": "Zheng, a middle-aged man, falls in straitened circumstances after divorce and job loss. However, an incident of his anger venting turns him into an Internet celebrity, \"Busy Buddy\". While savoring the unprecedented success in his life, Zheng meets his partner Liangliang, a middle school student. They team up to reveal people who have uncivilized behaviors in the town. A father-son relationship evolves between them. It seems that Zheng has come to a turning point in his life that will end all his misfortune. However, Zheng's ego and arrogance annoy Liangliang. Their relationship almost breaks down until Liangliang finds that Zheng has been diagnosed with a deadly disease. Zheng has decided to accomplish something meaningful during his remaining time, to save Liangliang from a crisis.",
+        "popularity": 7.222,
+        "poster_path": "/nGzp9LjpgKXUHSjE7g045WgRU0T.jpg",
+        "release_date": "2021-07-27",
+        "title": "Mr. Zheng",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qcNNIoyQzFYrtLSr0xI1d1gEXTp.jpg",
+        "genre_ids": [
+            80,
+            16,
+            35
+        ],
+        "id": 61881,
+        "original_language": "da",
+        "original_title": "Olsen Banden på de bonede gulve",
+        "overview": "Olsen-Banden skal udføre en betroet opgave for selveste Statsministeriet: H.C. Andersens originale fjerpen skal stjæles fra det Danske Export Museum, det gælder angiveligt Rigets sikkerhed og gode omdømme. Men Hallandsen har igen taget røven på Egon.Der er intet mindre end den danske nationalfølelse, Egons ære og 30 millioner på spil. Men Egon har en plan - han skal bruge en boremaskine, et glas honning, en flaske økologisk sveskejuice og en god bunke døde rotter.Christiansborg sættes på den anden ende, metroen forsinkes mere end sædvanligt og Dronningens gardere danser pludselig cancan.",
+        "popularity": 7.221,
+        "poster_path": "/4PkRHoFcKoHdIVygbzBMBwozNZj.jpg",
+        "release_date": "2010-10-15",
+        "title": "Olsen Gang Gets Polished",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 455872,
+        "original_language": "ja",
+        "original_title": "二発目は地獄行きだぜ",
+        "overview": "Tsunokichi and Ken face off against a rival yakuza in Kyushu.",
+        "popularity": 7.22,
+        "poster_path": "/xpWOkjDEZTEaXVgyshN1ofSZpbH.jpg",
+        "release_date": "1960-01-27",
+        "title": "The Second Bullet is Marked",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8AIKDgoRqOZg9f1HPzm8PrHQPol.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 454998,
+        "original_language": "ta",
+        "original_title": "தொண்டன்",
+        "overview": "A righteous ambulance driver rubs a politician on the wrong side, and the latter decides to teach him a lesson.",
+        "popularity": 7.22,
+        "poster_path": "/hPj0J3ccsMWF30nrvgJ0RwnlCAG.jpg",
+        "release_date": "2017-05-26",
+        "title": "Thondan",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l28j58y6H41kkALDMuXQpvBxTtJ.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 431861,
+        "original_language": "en",
+        "original_title": "The Giant",
+        "overview": "A teenager's small town life is changed forever when a series of murders begin on the same night that her missing boyfriend suddenly reappears.",
+        "popularity": 7.22,
+        "poster_path": "/3Nsckncd6KF4P7sNKtNhsTwhmzw.jpg",
+        "release_date": "2019-09-07",
+        "title": "The Giant",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dZ19wNkXMOmlWgFFRg5TzfrW3pP.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 37195,
+        "original_language": "en",
+        "original_title": "The Long Wait",
+        "overview": "Soon after thumbing a ride from a truck driver, Johnny McBride is badly burned and suffers from complete amnesia when the vehicle he’s riding in blows a tire and goes over an embankment in a fiery blaze. McBride later receives a tip from an acquaintance that a photo of him was placed prominently in the window of a photography studio in a town called Lyncastle, so Johnny immediately leaves for the burg in the hopes that something there will jog his memory.",
+        "popularity": 7.22,
+        "poster_path": "/6pz8wzIFZ4lLySHKcqC7xUyLn4V.jpg",
+        "release_date": "1954-05-26",
+        "title": "The Long Wait",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wYCnjJ3qHaztxPWgTFH8q0nw5Ec.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 366113,
+        "original_language": "ja",
+        "original_title": "姐御",
+        "overview": "The widow of a murdered yakuza boss serves jail time for attacking the man she believes killed her husband. After her release, as she is shadowed by a hitman, she returns to thoughts of revenge.",
+        "popularity": 7.219,
+        "poster_path": "/rUbXpcixRikh5ClptjhOXuzALuD.jpg",
+        "release_date": "1988-11-19",
+        "title": "The Boss' Wife",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nGCcWZ8kW8mNI6TlYFlV5aQPHAM.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 174135,
+        "original_language": "en",
+        "original_title": "Spy Train",
+        "overview": "People on a train want what's in a Nazi spy bag, unaware it's a time bomb.",
+        "popularity": 6.834,
+        "poster_path": "/A8rDR9rpkgClHuFoZUJZahfmscU.jpg",
+        "release_date": "1943-07-09",
+        "title": "Spy Train",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2Xe8NzvQFiLtXhJgfOO8877kG4x.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 1149033,
+        "original_language": "en",
+        "original_title": "Sabastian",
+        "overview": "Sabastian (2023) is serial killer (Luca Della Valle)  who sacrifices women to revive his long-dead lover, while two detectives (Torrei Hart, Dairus McCrary) race to stop his bloody ritual before he claims his next victim Irene played by Jamie Bernadette.",
+        "popularity": 7.218,
+        "poster_path": "/9UU7VczFL65ep0ynpyJZPTy8azA.jpg",
+        "release_date": "2023-07-03",
+        "title": "Sebastian",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 227702,
+        "original_language": "en",
+        "original_title": "Night Class",
+        "overview": "When Jake, a security guard in a small hotel, inadvertently helps out a beautiful burglar, he becomes a primary suspect and is quickly fired. Jake decides to track down the burglar himself and retrieve the stolen property.",
+        "popularity": 7.218,
+        "poster_path": "/vKPhs07DrQUTSB2YVJDm5jzO9ir.jpg",
+        "release_date": "2001-10-23",
+        "title": "Night Class",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qaBFoqsOsDJueaHKM86AxAbB13V.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 34068,
+        "original_language": "fr",
+        "original_title": "Assassin(s)",
+        "overview": "Old professional killer Wagner seeks someone to teach what he knows as long as he is already dying, and he chooses Max, young and passionless thief to be his successor.",
+        "popularity": 7.218,
+        "poster_path": "/riRJb1q3ZEX6Z6m1ZfKvyL96Nj6.jpg",
+        "release_date": "1997-04-30",
+        "title": "Assassin(s)",
+        "video": false,
+        "vote_average": 6.273,
+        "vote_count": 65
+    }
+]

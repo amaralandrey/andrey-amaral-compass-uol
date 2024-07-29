@@ -1,0 +1,396 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/p3A5H9PgHR1HAoMayshbsDW7wzF.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 1278234,
+        "original_language": "en",
+        "original_title": "Cursed in Baja",
+        "overview": "An ex-lawman travels to Mexico, searching for the heir to a Los Angeles fortune, while confronting his own complicated past. But what he finds in Baja challenges him to the core.",
+        "popularity": 7.066,
+        "poster_path": "/kZfUzLAaIL2Xo8mmshmRTKgrPdp.jpg",
+        "release_date": "2024-08-23",
+        "title": "Cursed in Baja",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pS1BNBYlftY2erzc1xQWSIzkiHI.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 478108,
+        "original_language": "de",
+        "original_title": "Beckmann und Markowski: Gehetzt",
+        "overview": "",
+        "popularity": 7.066,
+        "poster_path": null,
+        "release_date": "1999-06-26",
+        "title": "Beckmann und Markowski: Gehetzt",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e9izwWn5vDBwkZwgXHt2UIRTaXz.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 5632,
+        "original_language": "de",
+        "original_title": "Der Fälscher von London",
+        "overview": "A ring of counterfeiters is flooding the country with phony money, and suspicion falls upon a wealthy playboy who may--or may not--have amnesia.",
+        "popularity": 7.064,
+        "poster_path": "/8EeDyoEeniJK7QiHVIf9JjlxUT1.jpg",
+        "release_date": "1961-08-15",
+        "title": "The Forger of London",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nS0mmWS663raVsNj70mSC2qm9cz.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 661908,
+        "original_language": "fr",
+        "original_title": "Maddy Etcheban",
+        "overview": "",
+        "popularity": 7.063,
+        "poster_path": "/vV8oqdSdnXIQn0QyawDX9VEliIc.jpg",
+        "release_date": "2020-01-25",
+        "title": "Maddy Etcheban",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nttazok4JqCpz5hpeD10qp1ztHH.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 166901,
+        "original_language": "en",
+        "original_title": "Rude",
+        "overview": "This is the Easter weekend. In an inner city project, three people struggle against their demons and try to find redemption. They are Maxine, a window dresser depressed since she had an abortion and lost her lover ; Jordan, a boxer who has indulged in gay-bashing ; and 'The General', a drug dealer turned artist.",
+        "popularity": 7.063,
+        "poster_path": "/439AGtHRMO9TGUfiFZ97odEdvq.jpg",
+        "release_date": "1995-09-08",
+        "title": "Rude",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eg0Bx0TbiYmt4VrGb4r2lPHAGi5.jpg",
+        "genre_ids": [
+            28,
+            53,
+            18,
+            80
+        ],
+        "id": 150966,
+        "original_language": "en",
+        "original_title": "The Bad Son",
+        "overview": "The women in a Seattle serial killer's life often had an unpleasant way of turning up dead - from his girlfriend to his mother-in-law to his second wife. The police and FBI knew who the killer was, but were never prepared to face a bizarre twist in the case-that his own mother was an employee of the Seattle Police Department with access to confidential documents--and was a woman who didn't hesitate to interfere with justice...",
+        "popularity": 7.063,
+        "poster_path": "/2pen9BNN0XOC3Bhfq4yU21gUVpf.jpg",
+        "release_date": "2007-05-20",
+        "title": "The Bad Son",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            35,
+            10770
+        ],
+        "id": 46223,
+        "original_language": "en",
+        "original_title": "Dangerous Davies: The Last Detective",
+        "overview": "When D. C. Dangerous Davies, not held in high regard by his superiors, is assigned to find a notorious criminal kingpin, he uncovers the details of 15-year-old cold case.",
+        "popularity": 7.063,
+        "poster_path": "/y9str1XiihTdofpgzu8Y6pq6JHC.jpg",
+        "release_date": "1981-01-04",
+        "title": "Dangerous Davies: The Last Detective",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 95731,
+        "original_language": "cn",
+        "original_title": "野·良犬",
+        "overview": "The Pye-Dog, produced by Teddy Robin and written and directed by Derek Kwok, contained all the necessary ingredients for a story of friendship and camaraderie between a man and a boy. Both orphans, they bond together through school, but a secret one of them has of his true intentions threaten that established friendship, with a questioning of loyalties.",
+        "popularity": 7.061,
+        "poster_path": "/81aH6MrO2LDd7hDaEgDiahlAmjz.jpg",
+        "release_date": "2007-05-17",
+        "title": "The Pye-Dog",
+        "video": false,
+        "vote_average": 5.833,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5Og0w5n91F6gVcaPrXsQlEfTUGf.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 261051,
+        "original_language": "en",
+        "original_title": "Stolen Innocence",
+        "overview": "Stacy, a rebellious teenager, leaves home for the freedom and adventure of life on the road away from her parents. Afraid and alone, she is befriended by Richard, a handsome ex-con traveling across the country on a crime spree. Her short lived joy soon turns to terror.",
+        "popularity": 7.06,
+        "poster_path": "/k55grCyfGDUmcRxrrlMHlEqcgYg.jpg",
+        "release_date": "1995-10-03",
+        "title": "Stolen Innocence",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bYybsJRROYE0ImuPAbEZrDbEsjd.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 776583,
+        "original_language": "en",
+        "original_title": "First Date",
+        "overview": "After being conned into buying a shady '65 Chrysler, Mike's first date plans with girl-next-door Kelsey implode as he finds himself targeted by criminals, cops, and a crazy cat lady.",
+        "popularity": 7.058,
+        "poster_path": "/nHSYrkFxuBAJh3bq9UuRYuTu7r.jpg",
+        "release_date": "2021-07-02",
+        "title": "First Date",
+        "video": false,
+        "vote_average": 5.615,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 680939,
+        "original_language": "cs",
+        "original_title": "Kam nikdo nesmí",
+        "overview": "Lucie Rýdlová is found dead at a destroyed car after a night accident. The seat position shows that she cannot have been driving, and the dissection proves that she had died about four hours after the accident. It is for sure that a timely medical assistance could have saved her life. A pretty young tennis player Lucie lived at her grandmother, because her parents had been working abroad. Criminalists found out that the girl was going out with the interpreter Valenta (Eduard Cupák), who was twenty years older than her, divorced and a bit egoistic man.",
+        "popularity": 7.058,
+        "poster_path": "/oyz9dp7HfExjHHZzKiMpgNMLjnF.jpg",
+        "release_date": "1979-11-16",
+        "title": "Kam nikdo nesmí",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7oKkKJRrpYRs3iDThFkA65REtNQ.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 47305,
+        "original_language": "en",
+        "original_title": "The Hunted",
+        "overview": "A cop investigating a jewel robbery finds that all trails lead to his girlfriend - but she claims she's being framed.",
+        "popularity": 7.058,
+        "poster_path": "/cmHXINKNvjpcqHmu7IkcR2IqSB1.jpg",
+        "release_date": "1948-04-07",
+        "title": "The Hunted",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            10752,
+            36,
+            80,
+            18,
+            53
+        ],
+        "id": 1208850,
+        "original_language": "ms",
+        "original_title": "Takluk: Lahad Datu",
+        "overview": "The Malaysian security forces in quelling the militant group of the Sulu Sultanate aka \"Operation Daulat\" in Lahad Datu, Sabah.",
+        "popularity": 7.057,
+        "poster_path": "/pfYm24JuLhrkwXVqzKVRrSIPBRv.jpg",
+        "release_date": "2024-08-22",
+        "title": "Takluk: Lahad Datu",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8sOzObTmFuh0BiBtZK8m4V0r4uD.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36,
+            28
+        ],
+        "id": 261188,
+        "original_language": "cn",
+        "original_title": "正紅旗下",
+        "overview": "Based on a true story, and recreated from the personal account of one of the robbers, the film follows an immigrant from mainland China in 1975 as he works with a team to plan to rob an armored car carrying seven million dollars from the Hang Seng Bank in Hong Kong.",
+        "popularity": 7.057,
+        "poster_path": "/1wVMroZph4ZCayQAjH4CeAJyVkq.jpg",
+        "release_date": "1991-04-08",
+        "title": "Running on Empty",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vIRQvVVGLkLDZ8KIUvQFme8syBo.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 218398,
+        "original_language": "en",
+        "original_title": "Don't Turn 'em Loose",
+        "overview": "A conscientious attorney who is a member of the State Parole Board, finds his own son, using an alias, up for parole and makes the decision to cast the approving vote.",
+        "popularity": 7.057,
+        "poster_path": "/jxhwfuUHZOFq7KVV3IZtPklJqFe.jpg",
+        "release_date": "1936-09-18",
+        "title": "Don't Turn 'em Loose",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/49WWdX2gbywxb9lTxEkynDumvi6.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 159047,
+        "original_language": "en",
+        "original_title": "Quick Millions",
+        "overview": "A truck driver \"too lazy to work and too nervous to steal\" gets mixed up in racketeering. Naturally his underhanded business practices make him a pillar of the community.",
+        "popularity": 7.056,
+        "poster_path": "/2NDXUrJzSOtn3v8rhLkTi6mXoN5.jpg",
+        "release_date": "1931-04-17",
+        "title": "Quick Millions",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oMJARWwJN7KQ96FOQUZ2KYyl63s.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80,
+            9648
+        ],
+        "id": 81029,
+        "original_language": "en",
+        "original_title": "The Gentle Gunman",
+        "overview": "The relationship between brothers Terry and Matt, both active in the IRA, comes under strain when Terry begins to question the use of violence.",
+        "popularity": 7.056,
+        "poster_path": "/qmfQttXza7Xf8KwhQZEQtSYa1Z4.jpg",
+        "release_date": "1952-10-23",
+        "title": "The Gentle Gunman",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8WkxfkBUB60QY0X57f86JP6qW9X.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 21798,
+        "original_language": "en",
+        "original_title": "Belly 2: Millionaire Boyz Club",
+        "overview": "Born into a life of crime, G has just spent 8 years in the pen. Now out on the streets he's back to his old ways wondering if a con can ever really straighten out. Things become more complex when G hooks up with Alexis who makes her living upholding the law.",
+        "popularity": 7.055,
+        "poster_path": "/hQvGkD8TKc5Q8bqNjMnxoorgQxE.jpg",
+        "release_date": "2008-08-12",
+        "title": "Belly 2: Millionaire Boyz Club",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t9SZ04jztZddjk4OHKBpYsLnXUw.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 400549,
+        "original_language": "ja",
+        "original_title": "危いことなら銭になる",
+        "overview": "Joe, Okita, and Serizawa hear of the armed robbery of a truck carrying one billion eighty million yen's worth of Mint paper. Knowing that the thugs will now need a counterfeiter to make the bogus bills, they each decide to cash in on it by selling them the idea that they need Sakamoto, the best counterfeiter in Japan. A seesaw game unfolds between the three men as each tries to outdo the other two in handing over Sakamoto for one million yen to Hijikata, the big boss, who intends to make counterfeit money with the stolen paper. A little belatedly, they realize it needs their combined forces to outwit Hijikata and they raid his place together. Outnumbered, however, they are thrown into a basement room and the gas is turned on. Certain death stares them in the face, but the three men are not ones to take things lying down....",
+        "popularity": 7.054,
+        "poster_path": "/imkPz93bKpw0kRb25ha4t7A9f4M.jpg",
+        "release_date": "1962-12-01",
+        "title": "Danger Pays",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35,
+            80,
+            10770
+        ],
+        "id": 289162,
+        "original_language": "en",
+        "original_title": "The Brush-Off",
+        "overview": "The political adviser to Australia's Minister of the Arts investigates the suspicious death of a disgruntled artist.",
+        "popularity": 7.054,
+        "poster_path": "/sdQQtTw8yOOsmBFxKlvWo0wPuZr.jpg",
+        "release_date": "2004-09-05",
+        "title": "The Brush-Off",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    }
+]

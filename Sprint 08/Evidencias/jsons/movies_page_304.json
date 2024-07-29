@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/5qNy7QQZPbgOkQ6Lpt30jFhlEff.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 827873,
+        "original_language": "ja",
+        "original_title": "完全なる飼育 étude",
+        "overview": "Ayano, a middle-aged female director met Aoi, young attractive actor at the audition for her new film. Ayano soon felt something different in Aoi and the audition goes far beyond the moral.",
+        "popularity": 10.387,
+        "poster_path": "/vz5ACDuMp0sUJrXJHv8tiErQ4Sx.jpg",
+        "release_date": "2020-11-27",
+        "title": "Perfect Education: étude",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ctb04o9c1O4p5ugatKKUwVHhdUE.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 80543,
+        "original_language": "fr",
+        "original_title": "Sois belle et tais-toi",
+        "overview": "A beautiful 18-year-old orphan escapes from a reformatory and hooks up with a gang of jewel smugglers, and decides on a life of crime. However, she falls for and marries a policeman, putting a crimp in her criminal career.",
+        "popularity": 10.387,
+        "poster_path": "/igEc0XOlYng0CeIjotkxlxL7N39.jpg",
+        "release_date": "1958-05-07",
+        "title": "Be Beautiful But Shut Up",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/43gYXnTAqrVc0lMtjwT5yWN0TaR.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1065918,
+        "original_language": "ml",
+        "original_title": "കണ്ണൂർ സ്‌ക്വാഡ്",
+        "overview": "The gripping saga of a police officer and his team, their challenging journey to nab a criminal gang across the country. Further, it shows how he leads his team towards triumph, amidst professional uncertainities in this gripping drama.",
+        "popularity": 10.38,
+        "poster_path": "/mGR5OVq4edV7zMicFRdBAWyeCeu.jpg",
+        "release_date": "2023-09-28",
+        "title": "Kannur Squad",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bRnI3KcmVy4C4vE8yZqezh30tii.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 86816,
+        "original_language": "en",
+        "original_title": "The Legend of Lylah Clare",
+        "overview": "A dictatorial film director hires an unknown actress to play the lead role in a planned movie biography of a late, great Hollywood star.",
+        "popularity": 10.377,
+        "poster_path": "/nX0pmvrcPFFIkNtp36MYlo4bhM9.jpg",
+        "release_date": "1968-08-21",
+        "title": "The Legend of Lylah Clare",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k4a7JGI2lHO3uuu0QHV1wQs96yj.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 339709,
+        "original_language": "en",
+        "original_title": "My Trip Back to the Dark Side",
+        "overview": "Shawn Stone is having a bad day. The funding for his film project is not there, his personal life is in shambles, he's out of time and money. He sees only one way to solve his problems - he must turn to the dark side and ask the King of Porn for some cash",
+        "popularity": 10.376,
+        "poster_path": "/hjwvGfIf92cQdqwCZLmQJycbmIX.jpg",
+        "release_date": "2014-05-14",
+        "title": "My Trip Back to the Dark Side",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AvTm7UMYgozsz6haA2EVevKDh3s.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 458266,
+        "original_language": "cn",
+        "original_title": "毒。誡",
+        "overview": "The movie is based on a true story about a repented gangster preaching the word of God and guiding his brotherhood to turn over a new leaf.  Chen once was the leader of the famous gang \"The 13 Tsz Wan Shan\", he lost his family, lovers, brothers and finally ended up imprisoned for his drug abuse and trafficking. After jail, he devoted himself to save the lost fellows and was selected as \"The JCI Hong Kong Ten Outstanding Young Persons\".  Being respected by the world, Chen is always asked to solve the most difficult situations between evil and good. People give him a nickname \"The Fixer\". However, there are two sides of a coin, Chen can work out any problem of others, but he does not know how to deal with his personal knot with his love, with whom he has had guilty conscience all his life.  Can he fix it eventually?",
+        "popularity": 10.372,
+        "poster_path": "/v8BKl1e2JtspKq7s2O2ncUMQ3s3.jpg",
+        "release_date": "2017-05-18",
+        "title": "Dealer/Healer",
+        "video": false,
+        "vote_average": 6.462,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jx8ZlgbayJchhtPlxpA1MrZcMmj.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 151864,
+        "original_language": "en",
+        "original_title": "Street Corner",
+        "overview": "London policewomen handle rescues and larceny as they go about their work in Chelsea.",
+        "popularity": 10.37,
+        "poster_path": "/mDEXizIpAprwtb0yO47YvxZgbDs.jpg",
+        "release_date": "1953-03-17",
+        "title": "Street Corner",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            18,
+            10770
+        ],
+        "id": 1176581,
+        "original_language": "en",
+        "original_title": "Amy Prentiss",
+        "overview": "A hardworking San Francisco police woman aspires to the position of Chief of Police. Though up against a lot of resistance from the all-male establishment, she has a staunch supporter in the form of former chief.",
+        "popularity": 10.369,
+        "poster_path": "/nFwwWjE0YU4pBQE4SYsLVjciPyy.jpg",
+        "release_date": "1974-05-23",
+        "title": "Amy Prentiss",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kjF59g9rk1ek8z4wKMIzOFSScII.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 378092,
+        "original_language": "en",
+        "original_title": "Kill Kane",
+        "overview": "A teacher's world is torn apart when his wife and children are brutally murdered at the hands of a ruthless gang. Left for dead and with no one to turn to, he takes matters into his own hands and hits the streets in search of justice.",
+        "popularity": 10.367,
+        "poster_path": "/uodSa2bHUH6och9uy7fYoSlpzy1.jpg",
+        "release_date": "2016-03-01",
+        "title": "Kill Kane",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/taFnafHKcVacP8RApee1qJVt5iU.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 647003,
+        "original_language": "pt",
+        "original_title": "Noites Alienígenas",
+        "overview": "Rio Branco, Acre, an Amazon city near the border with Peru and Bolivia, has been suffering the violent impacts of recent changes in trafficking routes, which have arrived with violence in the Brazilian Amazon. In this scenario, the lives of three young childhood friends intertwine and ultimately, they find themselves in a common tragedy.",
+        "popularity": 10.366,
+        "poster_path": "/rkwOj1Ex2EjgYkfkuXbjr9lRsxU.jpg",
+        "release_date": "2023-03-23",
+        "title": "Alien Nights",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c8YzpYCOdrifMvqKpXc3A7KgIYz.jpg",
+        "genre_ids": [
+            27,
+            80,
+            53,
+            9648
+        ],
+        "id": 286570,
+        "original_language": "th",
+        "original_title": "ชุมทางรถไฟผี",
+        "overview": "Five teenagers on the run from police officers hide in a train carriage. However, its occupants are ghosts on their way to hell and they intend to take them along.",
+        "popularity": 10.359,
+        "poster_path": "/ee3CqkZeCMfLY3D97N0pAo5MsM3.jpg",
+        "release_date": "2007-05-10",
+        "title": "Train of the Dead",
+        "video": false,
+        "vote_average": 4.545,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/43LTPqS2GeSCvq1DTIFFCQpOqcH.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 316995,
+        "original_language": "ja",
+        "original_title": "眠らない街 新宿鮫",
+        "overview": "Adaptation of the Arimasa Ohsawa novel Shinjuku Shark.",
+        "popularity": 10.357,
+        "poster_path": "/4PSZLnBgGmGKSipPBWydWdoDZI2.jpg",
+        "release_date": "1993-10-08",
+        "title": "The City That Never Sleeps: Shinjuku Shark",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 462908,
+        "original_language": "cn",
+        "original_title": "魔鬼教師",
+        "overview": "Cheung Lok-ming, voted the Most Handsome King of Tutors, has many admirers among his female high school students while his wife waits patiently for a marriage proposal. Two of his students invoke the Saucer Spirit to predict the questions in their Chinese History exam. After being two-timed by her boyfriend Ted, Joyce tricks Mr Cheung back to her apartment where Saucer Spirit bewitches him into killing her and her friend mid-seduction. After dumping the bodies into the sea, he finds himself being investigated by failed cop and toilet connosseur Ma Tung who can't even keep track of his own police badge. But Cheung has other secrets buried 20 years in his past.",
+        "popularity": 10.353,
+        "poster_path": "/yMiBixHKj5PRdfWyXxSqpcroMrz.jpg",
+        "release_date": "2000-06-21",
+        "title": "Evil Fade",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lWRMXjaF7wHefm4onKA59TGQV8y.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 31585,
+        "original_language": "ja",
+        "original_title": "女囚　檻",
+        "overview": "A young woman who escaped from prison is eventually captured and brought back. The evil warden decides to make her a pet project and tries to break her down with torture, gang rape and by turning her friends against her.",
+        "popularity": 10.352,
+        "poster_path": "/ehclmghAT0p2BcyO5VljMIoINm6.jpg",
+        "release_date": "1983-09-16",
+        "title": "Female Prisoner: Caged!",
+        "video": false,
+        "vote_average": 3.2,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m8OKaVPqnxPsrg0jaPATai8VcQm.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            10770
+        ],
+        "id": 258380,
+        "original_language": "en",
+        "original_title": "Status: Unknown",
+        "overview": "After a lively high school reunion, Jessica and Cynthia reconnect with their childhood friend Karen and vow to stay in close communication online. After a year of cheerful daily status updates, Karen begins to post some strange updates to her life. When Jessica tries to call Karen to let her know that she and Cynthia will be in town for the week she is unable to reach her. Sensing something may be seriously wrong, Jessica tracks down Karen's husband Paul to find out where her friend is. Paul tells her that Karen ran off to Hawaii due to marriage issues but Jessica is convinced he is lying. But when random status posts begin showing up on Karen's page, Jessica suspects that someone else might be behind it...",
+        "popularity": 10.351,
+        "poster_path": "/3upa2abWA94YAK22YL2IAFNlKYh.jpg",
+        "release_date": "2014-02-22",
+        "title": "Status: Unknown",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vX9FALAhEx3OyJN9mbHBMVaQNQA.jpg",
+        "genre_ids": [
+            99,
+            80,
+            18
+        ],
+        "id": 637113,
+        "original_language": "en",
+        "original_title": "Square One",
+        "overview": "An investigation into the original 1993 Michael Jackson allegations brought by the Chandler family.",
+        "popularity": 10.349,
+        "poster_path": "/sVsAd5QoMbzEBt2U3WnzwAGD0dU.jpg",
+        "release_date": "2019-10-05",
+        "title": "Square One",
+        "video": false,
+        "vote_average": 8.6,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cfYKYL7hx3AvqLRwPjoYgIP7ZDX.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 53714,
+        "original_language": "en",
+        "original_title": "Another Man's Poison",
+        "overview": "Novelist Janet Frobisher, lives in an isolated house, having been separated for years from her criminal husband. She has fallen in love with her secretary's fiancé and when her estranged husband unexpectedly appears, Janet poisons him, but just as she's about to dispose of the body, one of her husband's criminal cohorts also shows up.",
+        "popularity": 10.348,
+        "poster_path": "/c1l9H43tauTdy4PZaekywdLYY5x.jpg",
+        "release_date": "1951-11-20",
+        "title": "Another Man's Poison",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b7ssm9DTKc2tcCRu0Ob7uLJ7RzC.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 289335,
+        "original_language": "sv",
+        "original_title": "Bröderna",
+        "overview": "In the third Wallander film, starring Krister Henriksson, a bestial double murder is investigated in which the victims have been subjected to torture and where many point to the act of revenge. Henning Mankell's sharp-eyed commissioner has the assistance of daughter Linda, newly graduated police officer, and criminal inspector Stefan Lindman.",
+        "popularity": 10.347,
+        "poster_path": "/uAhkenrgMeTbLf6LymX4ecqKYb0.jpg",
+        "release_date": "2005-09-07",
+        "title": "Wallander 03 - The Brothers",
+        "video": false,
+        "vote_average": 4.75,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/108GhFmeI9JNPssNcH5N6Os7byw.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 546966,
+        "original_language": "ja",
+        "original_title": "野獣死すべし",
+        "overview": "A promising post-graduate literature student is transformed into a psychotic killer following the suicide of his father and a sleazy affair by his mother with a younger man.",
+        "popularity": 10.343,
+        "poster_path": "/7zH5ftl7qJHiMC0anrWlC22AtNt.jpg",
+        "release_date": "1959-06-09",
+        "title": "The Beast Shall Die",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 15312,
+        "original_language": "en",
+        "original_title": "American Cousins",
+        "overview": "Two American mafiosi, Gino and Settimo, take refuge in the Glasgow cafe owned by their Scottish/Italian cousin, but he isn't the tough guy they'd expected. Gino and Settimo try to repay Roberto's hospitality by chasing off a debt collector who wants his property, but their strong arm tactics alarm him and he realises they aren't the PR consultants they claimed to be.",
+        "popularity": 10.34,
+        "poster_path": "/qm1xmFekvbhVpnJ0vpQ9O2QCOGd.jpg",
+        "release_date": "2003-11-28",
+        "title": "American Cousins",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 13
+    }
+]

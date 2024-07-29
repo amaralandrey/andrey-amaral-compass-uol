@@ -1,0 +1,395 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/6QSqbf8pTcHtGTZJy2m1ROTmUoH.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 87123,
+        "original_language": "en",
+        "original_title": "Heat Lightning",
+        "overview": "A lady gas station attendant gets mixed up with escaped murderers.",
+        "popularity": 8.659,
+        "poster_path": "/x1EKoIv0q9fdVymPW04foZURkUE.jpg",
+        "release_date": "1934-03-01",
+        "title": "Heat Lightning",
+        "video": false,
+        "vote_average": 6.769,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dqfJtIbu3AJzcZAudIijPeLS4Ob.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 45391,
+        "original_language": "cn",
+        "original_title": "九龍冰室",
+        "overview": "Ekin Cheng stars in this gritty triad action drama as Dragon, a talented former hitman who has reformed and is now a waiter at a blue collar cafe. However, when his ex-girlfriend becomes the queen of the Underworld, she becomes determined to entice him back to a life of crime. Resistant at first, Dragon gets pulled back into the crime world as a violent gang war erupts.",
+        "popularity": 8.659,
+        "poster_path": "/mi8q7ph7EixT3jjG3As9UYiJV18.jpg",
+        "release_date": "2001-01-01",
+        "title": "Goodbye, Mr. Cool",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 695531,
+        "original_language": "en",
+        "original_title": "The Five Rules Of Success",
+        "overview": "An enterprising ex-convict overcomes tragedy by designing his own path to success within a society that failed him.",
+        "popularity": 8.658,
+        "poster_path": "/rm1u7epasCj4KcMXjbzfKltHrD7.jpg",
+        "release_date": "2020-08-24",
+        "title": "The Five Rules Of Success",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2ECnLP3MxaHH0omb3XimsLTPXoa.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            10770
+        ],
+        "id": 313040,
+        "original_language": "en",
+        "original_title": "A Christmas Mystery",
+        "overview": "While searching through her late mothers attic, Rebecca uncovers sealed cards from a mysterious suitor that had been addressed to her widowed Mom over the past 12 Christmases. As she begins to wonder the identity of man, Rebecca hires a handsome, yet mysterious, detective to help solve the mystery behind the letters.",
+        "popularity": 8.658,
+        "poster_path": "/4GgMfd9wAbnqCSVnT13uFYyFcYJ.jpg",
+        "release_date": "2014-11-30",
+        "title": "A Christmas Mystery",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n3MmDr4w1WgiIlCiexsAKxHm5hT.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 78711,
+        "original_language": "en",
+        "original_title": "Perfect Strangers",
+        "overview": "A hit-man tries to seduce the mother of a child who witnessed his most recent kill.",
+        "popularity": 8.658,
+        "poster_path": "/oMytbQYhcqUMGpaUm0SPOdoZmpZ.jpg",
+        "release_date": "1984-07-13",
+        "title": "Perfect Strangers",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/blR0MEdpC2cJSHDHwbN718C8e40.jpg",
+        "genre_ids": [
+            18,
+            80,
+            28
+        ],
+        "id": 1069351,
+        "original_language": "ja",
+        "original_title": "必殺仕事人2023",
+        "overview": "An epidemic is spreading through the towns of Edo – it spreads via people, and if you get the fever, your face will turn red like a demon, and then you will die. There is no cure in sight, and people’s anxiety is increasing.",
+        "popularity": 8.656,
+        "poster_path": "/4hrLNXlUrbgSSoIl9AqijpWnGzb.jpg",
+        "release_date": "2023-01-08",
+        "title": "Deadly Professional 2023",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sPz9Rapu02xfaLHj9GRvsKfTOAR.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53,
+            28
+        ],
+        "id": 83658,
+        "original_language": "it",
+        "original_title": "Mozzarella Stories",
+        "overview": "",
+        "popularity": 8.656,
+        "poster_path": "/lEDlJS8EzwUSkMm4o7Nf63XJaHm.jpg",
+        "release_date": "2011-08-08",
+        "title": "Mozzarella Stories",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hGlChIzN1Rh2i3OpBaScwfOWkP8.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 71056,
+        "original_language": "fr",
+        "original_title": "Laisse aller... c'est une valse",
+        "overview": "The day he is released from jail, Serge is expected by four killers sent by Count Charles Varèse assigned to make him confess where he has hidden the jewels stolen during his last stickup. On the other hand the police inspector who arrested him offers him protection on condition he gives him the same piece of information. Serge refuses and is about to be tortured by Varèse's henchmen when Michel, a friendly hood, comes to his rescue. His friendship will result in... a heap of corpses!\r —Guy Bellinger",
+        "popularity": 8.653,
+        "poster_path": "/6iA3KDUknywDPB7Oq61G4mrd417.jpg",
+        "release_date": "1971-04-07",
+        "title": "Troubleshooters",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/swxwls3370c40u26eFGjKxlvPDI.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 892856,
+        "original_language": "ko",
+        "original_title": "여타짜",
+        "overview": "Mimi started to gamble, dreaming of turning her life around. One night, she loses her family in front of her eyes in an unknown attack from an unidentified assailant.",
+        "popularity": 8.65,
+        "poster_path": "/4CfPFAWQzE1TLUO1KVYjzd8rPnz.jpg",
+        "release_date": "2021-12-08",
+        "title": "Female Tazza",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6fS4M4EfxzhYkPKxHv4muzH1QMq.jpg",
+        "genre_ids": [
+            18,
+            80,
+            36
+        ],
+        "id": 57465,
+        "original_language": "it",
+        "original_title": "Alla luce del sole",
+        "overview": "In 1990s Palermo, Pino Puglisi is a priest from the neglected Brancaccio neighborhood dedicated in helping kids to get off the streets and creating an embracing place of hope and solidarity in his church, which means trouble for the local Mafia. He continues his solitary fight until the bitter end.",
+        "popularity": 8.649,
+        "poster_path": "/ws3oLwKKXHcUmhsP8WlaWosn6YP.jpg",
+        "release_date": "2005-01-21",
+        "title": "Come Into the Light",
+        "video": false,
+        "vote_average": 7.176,
+        "vote_count": 88
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 52433,
+        "original_language": "en",
+        "original_title": "모노폴리",
+        "overview": "Kyung-ho is a genius computer programmer who manages the on-line networks of all banks in Korea. One day, he accidentally runs into a man, John, who is an attractive businessman. John invites Kyung-ho to experience his lifestyle in high society. Through these lavish escapades, Kyung-ho is awakened to his hidden desires. As Kyung-ho finds out about a secret project John is working on, John asks him to join him in a plan to illegally withdraw small amounts of money from all the bank accounts across Korea by using Kyung-ho’s genius computer programming skills. With absolute trust in John, Kyung-ho finally joins this huge con game against Korea. Will John and Kyung-ho, who dream of being on top of the world, be the winners of this game?",
+        "popularity": 8.649,
+        "poster_path": "/vZ6wqGPsUVI85uar5sc9TM9q10m.jpg",
+        "release_date": "2006-06-01",
+        "title": "Monopoly",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            10749,
+            80
+        ],
+        "id": 841780,
+        "original_language": "cn",
+        "original_title": "張愛蘭巧破黑手黨",
+        "overview": "Leader of the Celestial Devil Gang Mo Fu ends an underling to infiltrate the house of code expert Cheung Yuet-ting in pursuit of the Mafia's secret intelligence. The unyielding man is killed, and the Mafia is framed for the crime. Cheung's instrumental role in the Mafia is succeeded by his daughter Oi-lan, who leads both gangs onto a deadly chase. Just then, Oi-lan's bosom friend Chan Yu-lam emerges from years of oblivion as a Mafia member and offers the wanted woman protection and assistance in retrieving the late father's cache. Mo's underling Lau Kei-fung is assigned the task of playing the confidence game in the Cheung household, preempting Oi-lan from accessing the classified information and abducting both Oi-lan and Chan before the Mafia can reach the key witness. Acting on a tip-off, the police raid the apartment and arrest both gangs. Chan, the undercover police officer, gains both Oi-lan's trust and affection. (Synopsis based on audiovisual materials)",
+        "popularity": 8.647,
+        "poster_path": null,
+        "release_date": "1965-12-15",
+        "title": "The Secret Code",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d4LOyITmO91t4jz6QktlSDWQyWZ.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 261475,
+        "original_language": "cn",
+        "original_title": "香港奇案之四《廟街皇后》",
+        "overview": "Part 1 : 'Maniac' - A gang is kidnapping and raping young women. Part 2: 'Queen of Temple Street' - A gambling addict sells his wife to a brothel to pay off his debts.",
+        "popularity": 8.647,
+        "poster_path": "/9BHkQMYfHlRnO6WrvU73Npg0Tub.jpg",
+        "release_date": "1977-06-19",
+        "title": "The Criminals, Part 4: Assault",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x6OaBh0pwRB0g3f3OGxU0jw5CEa.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 120554,
+        "original_language": "fr",
+        "original_title": "L'Ange noir",
+        "overview": "Stephane, the wife of a prominent magistrate, shoots and kills a man in her home and claims he tried to rape her. While investigating her case, her lawyer becomes hopelessly enmeshed in a web of lies and subterfuges concerning her past.",
+        "popularity": 8.647,
+        "poster_path": "/aYQYWUUfNgw9qXSgMCHyw66vn4f.jpg",
+        "release_date": "1994-11-11",
+        "title": "The Black Angel",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iGjqAWXD1yLwc1MG95b4zsvopgL.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 91655,
+        "original_language": "en",
+        "original_title": "Speedtrap",
+        "overview": "After a wave of unsolved car thefts, an insurance company calls in a private investigator to solve the case. While the chief of police isn't thrilled about having an outsider come and show up his men, one of the officers is a former girlfriend who's more than willing to help him out in any way she can.",
+        "popularity": 8.647,
+        "poster_path": "/jlq3be1qyPUvpDMN2zdVYqXmf5u.jpg",
+        "release_date": "1977-09-01",
+        "title": "Speedtrap",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 363214,
+        "original_language": "ja",
+        "original_title": "私という名の変奏曲",
+        "overview": "Referred to as the Pearl of the Orient, supermodel Miori Reiko has had her fair share of scandals due to her eccentricity and her wild love affairs. One day, Reiko is found dead in her apartment by her housekeeper, Ota Michiko. The medical examiner found traces of potassium cyanide in her body, which kick-started a major police investigation into her death.  Who is the true murderer of Miori Reiko?",
+        "popularity": 8.645,
+        "poster_path": "/dbchhVRu8rAzuIAYRlIQE1O4vMw.jpg",
+        "release_date": "2015-10-02",
+        "title": "Variations",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pKebUh9uHhlaNXFKKTjXKhev93g.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 61203,
+        "original_language": "hi",
+        "original_title": "शोर इन द सिटी",
+        "overview": "Various residents and career-criminals face challenges in crime-laden Mumbai.",
+        "popularity": 8.645,
+        "poster_path": "/ivBODI3DCKviepb7WdRqUvUU2Fb.jpg",
+        "release_date": "2011-04-28",
+        "title": "Shor in the City",
+        "video": false,
+        "vote_average": 6.26,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lIqkuG6gvNwqkgoyMl6lTt8H8WI.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 47211,
+        "original_language": "es",
+        "original_title": "Deprisa, deprisa",
+        "overview": "Angela is a young waitress who turns her back on society when she meets and falls in love with Pablo, a reckless criminal delinquent. Along with Pablo’s gang of car thieves, the pair embark on a drug and disco-fueled robbery spree as they hurtle toward oblivion.",
+        "popularity": 8.645,
+        "poster_path": "/93aeKG6qQ2feWX2lAZcjUATYpwc.jpg",
+        "release_date": "1981-03-25",
+        "title": "Faster, Faster",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1R9ueOHQyBFlmDpt8D8oco9elPw.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80,
+            18
+        ],
+        "id": 606216,
+        "original_language": "ja",
+        "original_title": "HYDRA",
+        "overview": "An assassin for a secret organization keeping Japan safe from underworld threats finds himself targeted by evil forces aiming to unleash an unstoppable criminal syndicate upon Japan.",
+        "popularity": 8.644,
+        "poster_path": "/bgCERhRmKJwrlQisTMBrLUasRF6.jpg",
+        "release_date": "2019-05-24",
+        "title": "Hydra",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 62315,
+        "original_language": "ru",
+        "original_title": "Как бы не так",
+        "overview": "A quiet provincial town, where cops and bandits coexist peacefully, is shocked by the unexpected incident. On the highway, an unknown Mercedes was shot by an unknown gangster named Old Man. The old man carried with him a whole suitcase of money. Money has disappeared. Everyone suspects everyone, but the main suspicion falls on a woman doctor named Marina, who nobly picked up the wounded Old Man on the road.",
+        "popularity": 8.644,
+        "poster_path": "/j57R16kppUKG4r0CHxUwCfpabkV.jpg",
+        "release_date": "2003-10-22",
+        "title": "No Matter How",
+        "video": false,
+        "vote_average": 0.8,
+        "vote_count": 2
+    }
+]

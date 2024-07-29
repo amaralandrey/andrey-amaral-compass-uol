@@ -1,0 +1,406 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/pv9bexe3zR7x1EFcjKIih4gNgj6.jpg",
+        "genre_ids": [
+            53,
+            10770,
+            80
+        ],
+        "id": 116214,
+        "original_language": "en",
+        "original_title": "Popeye Doyle",
+        "overview": "While Popeye Doyle is investigating what appears to be a very simple drug overdose, he becomes involved in international intrigue. The Mosad and various other foreign diplomatic figures turn up everywhere he goes. The drug overdose becomes a very involved murder case.",
+        "popularity": 10.132,
+        "poster_path": "/30ZbqYZbED70vzuFaBmbGzs5mmW.jpg",
+        "release_date": "1986-01-01",
+        "title": "Popeye Doyle",
+        "video": false,
+        "vote_average": 4.222,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sJPTOERrqolNE330ibDSLCw0KDz.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 443205,
+        "original_language": "en",
+        "original_title": "The Red Maple Leaf",
+        "overview": "A detective, who is deeply grieving over the tragic loss of his wife and daughter, becomes determined to find the kidnapped daughter of the U.S. Ambassador, no matter what the cost.",
+        "popularity": 8.771,
+        "poster_path": "/A9j8RV2Qtz7BzAZ4oGFrvXMLEkM.jpg",
+        "release_date": "2017-02-24",
+        "title": "The Red Maple Leaf",
+        "video": false,
+        "vote_average": 4.333,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nnFAv6hFgw7ikRy01CbqvUl2Cb5.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 262434,
+        "original_language": "en",
+        "original_title": "Melvin Purvis G-Man",
+        "overview": "Agent Melvin Purvis is placed in charge of running down notorious killer Machine Gun Kelly, and sets out to do just that.",
+        "popularity": 7.235,
+        "poster_path": "/pEiWmMygl5eBsCdN6Z3tTFKU5bp.jpg",
+        "release_date": "1974-04-09",
+        "title": "Melvin Purvis G-Man",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mtimhZ7tY2zhgePqsKzDTLlocJP.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 62184,
+        "original_language": "en",
+        "original_title": "Eye of God",
+        "overview": "A small Oklahoma town is stripped of its innocence when one of its boys turns up mute and bloodied by the lakeside. Unable to tell his story, the local sheriff embarks on a quest to uncover the roots of a gruesome crime. He's led to Ainsley DuPree and her new husband, Jack, a man whose interest in family may very well outweigh his morals.",
+        "popularity": 9.756,
+        "poster_path": "/vPieoGULWojKGi4zWQHFKuciKSb.jpg",
+        "release_date": "1997-10-17",
+        "title": "Eye of God",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zoIAwkbkyL0zCmof9uRVtEKV1bt.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 142584,
+        "original_language": "en",
+        "original_title": "Who Bombed Judi Bari?",
+        "overview": "Judi Bari and Darryl Cherney were falsely arrested for car-bombing themselves on May 24, 1990 while on an Earth First! musical organizing tour for Redwood Summer. They sued the FBI for violations of the First Amendment, claiming the FBI knew they were innocent but arrested them to try to silence them. Having survived the bomb but now stricken by cancer, Judi Bari, a leader of the movement to save California's old growth redwoods, gives her on-camera, deathbed testimony about the attempt on her life and her colorful organizing history with the radical environmental movement Earth First.",
+        "popularity": 7.088,
+        "poster_path": "/fy3klzzQefT7pnLqm2Wk3tJfjmk.jpg",
+        "release_date": "2012-03-02",
+        "title": "Who Bombed Judi Bari?",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nTdmoymB7hHC6JPMEoBLoMCZ100.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 6155,
+        "original_language": "de",
+        "original_title": "Der Mann, der Sherlock Holmes war",
+        "overview": "Two dubious characters disguise themselves as Holmes and Watson to gain attention and end up chasing counterfeiters and stolen stamps.",
+        "popularity": 7.232,
+        "poster_path": "/zvLpnsjwKK9gudKWLYl15oexjG.jpg",
+        "release_date": "1937-07-14",
+        "title": "The Man Who Was Sherlock Holmes",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6nB5Gd7O2ns3xJXss5mPcAKxidk.jpg",
+        "genre_ids": [
+            10751,
+            28,
+            35,
+            80
+        ],
+        "id": 65156,
+        "original_language": "en",
+        "original_title": "The North Avenue Irregulars",
+        "overview": "When crooks set up operations in a traditional town, a minister and a group of church ladies are willing to do anything, no matter how wacky, to get them out.",
+        "popularity": 10.119,
+        "poster_path": "/gyEaTIil42yWyLoYVKzWJWzDN9J.jpg",
+        "release_date": "1979-02-09",
+        "title": "The North Avenue Irregulars",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uo4L3IwyTLh4Ff2aDCNYKoqJHv5.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648,
+            35
+        ],
+        "id": 38458,
+        "original_language": "en",
+        "original_title": "Charlie Chan in Panama",
+        "overview": "Charlie impersonates an employee of the U.S. government to foil an espionage plot which would destroy part of the Panama Canal, trapping a Navy fleet on its way to the Pacific after maneuvers in the Atlantic.",
+        "popularity": 6.655,
+        "poster_path": "/oFmgkqu2eXQPzGdf4gpe5w58jLl.jpg",
+        "release_date": "1940-03-01",
+        "title": "Charlie Chan in Panama",
+        "video": false,
+        "vote_average": 6.816,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 222371,
+        "original_language": "en",
+        "original_title": "Reflections on a Crime",
+        "overview": "Seven years ago, Regina (Mimi Rogers) was tried for the death. On the night before she becomes the first woman in over 40 years to be executed in a federal penitentiary, she befriends the lone, curious prison guard Colin Reeves (Billy Zane), who has been assigned to watch over her. By telling Regina's story through flashbacks interwoven with her present situation, the film helps us understand this woman in a unique, disturbing and sympathetic way",
+        "popularity": 7.227,
+        "poster_path": "/5jjAjSXYL0nR3YP75yvb4fRCUPh.jpg",
+        "release_date": "1994-06-10",
+        "title": "Reflections on a Crime",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bRi0rbuWOoYUEHdXx5PmUhXwIXp.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 182584,
+        "original_language": "pa",
+        "original_title": "Sadda Haq",
+        "overview": "The movie tells the story of Sharon Gill, a modern-day Canadian Sikh graduate student who travels to India as part of her thesis on minorities at war. Revelations about the past soon leave the student curious for more information, and Gill's awareness changes after maneuvering into prison to interview Kartaar Singh. Singh is a hockey player whose life experiences lead him to fight against corruption in the police and government systems. The film's central story is based around Kartaar Singh's journey which is filled with courage, perseverance, and faith.",
+        "popularity": 7.897,
+        "poster_path": "/iagEDbNbIvrE1aKntaU3gdcsbk9.jpg",
+        "release_date": "2013-04-10",
+        "title": "Sadda Haq",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iXYgjyPVXIzXB7efKZR1Y7RJawp.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1148612,
+        "original_language": "en",
+        "original_title": "Tape 108",
+        "overview": "An obsessive audio surveillance expert accepts a deadly mission to infiltrate and record a meeting at the infamous Cobra Club. When he crosses paths with a mysterious assassin, he must question the nature of his mission and confront the impending danger that awaits.",
+        "popularity": 4.43,
+        "poster_path": "/nTzltYKzN4inWiTJBJ4s4AwAv92.jpg",
+        "release_date": "2023-10-08",
+        "title": "Tape 108",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4jWhX2yaf3u3N7u5h9rSpnMPL6P.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 193397,
+        "original_language": "en",
+        "original_title": "Tropic Zone",
+        "overview": "A fugitive from the police helps a beautiful farmer run her struggling banana plantation.",
+        "popularity": 8.925,
+        "poster_path": "/9x2xuyGIGQlxSugNPhji1YiPGv4.jpg",
+        "release_date": "1953-01-14",
+        "title": "Tropic Zone",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mckbk3xnCXr12b0KQ4BHcrtibWM.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28,
+            53
+        ],
+        "id": 112306,
+        "original_language": "ta",
+        "original_title": "திருடா திருடா",
+        "overview": "An Inspector is assigned to track down a large sum of stolen money. His investigations lead him to a couple of small time crooks, a village belle, a murder, an absconding suspect, and an international drug dealer.",
+        "popularity": 7.384,
+        "poster_path": "/9qnecMIRerHdKkuFTeCZXNNVU9z.jpg",
+        "release_date": "1993-11-13",
+        "title": "Thiruda Thiruda",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/42Ww1gJyaULIVWnUnUDMOmXnqKu.jpg",
+        "genre_ids": [
+            18,
+            53,
+            28,
+            80
+        ],
+        "id": 889821,
+        "original_language": "el",
+        "original_title": "Animal",
+        "overview": "Under the hot Greek sun, animators at an all-inclusive island resort prepare for the busy tourist season. Kalia is the group leader. Paper decorations, glossy costumes and dance shows fill the stage. As summer intensifies and the work pressure builds up, their nights become violent and Kalia's struggle is revealed in the darkness. But when the spotlights turn on again, the show must go on.",
+        "popularity": 7.223,
+        "poster_path": "/nLPuMb8og7zRgRfosKQET7b00PV.jpg",
+        "release_date": "2024-01-17",
+        "title": "Animal",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sevJA8SZ0a76sgyNFXJGtt1T8gv.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            27,
+            878
+        ],
+        "id": 42099,
+        "original_language": "ja",
+        "original_title": "FULL METAL 極道",
+        "overview": "After being brutally murdered in a gangster-style execution, Kensuke Hagane finds himself brought back to life by a mad scientist and rebuilt as a robot-human hybrid with a serious thirst for vengeance and the tools to carry it out.",
+        "popularity": 10.109,
+        "poster_path": "/wLYwjhB9cwUAD5j5jeBoT5DkNSW.jpg",
+        "release_date": "1997-12-05",
+        "title": "Full Metal Yakuza",
+        "video": false,
+        "vote_average": 5.922,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xWX5Do25HHAQq8atjDyO6NGioFx.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80,
+            10749,
+            9648,
+            35
+        ],
+        "id": 82572,
+        "original_language": "te",
+        "original_title": "స్టూడెంట్ నెం.1",
+        "overview": "At his father's request, Aditya attends a law college in the coastal metropolis of Visakhapatnam, although he actually wanted to become an engineer. On the first day he meets the beautiful Anjali. Over time, the female student slowly begins to become interested in the strange newcomer, who acts nice and friendly but doesn't seem to be interested in anything else. The college is notorious for its disobediently and disorderly students. It's not the professors who are in charge on campus, but rather the student leader Satya. He is also in love with Anjali and sees Aditya as a competitor who needs to be put in his place. So Aditya faces multiple problems as he tries to reform the unruly students while dealing with his terrible past that everyone doesn't know about.",
+        "popularity": 5.354,
+        "poster_path": "/5R3plOFdnoZyIVcXRKUcsHhI9RW.jpg",
+        "release_date": "2001-09-27",
+        "title": "Student No. 1",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rZWzv8kKJXqq0vYw3mhpCzmQCQQ.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 955231,
+        "original_language": "en",
+        "original_title": "Inside Information",
+        "overview": "A rookie cop and his girlfriend's uncle, a police captain, disagree on the methods that should be used to catch criminals.",
+        "popularity": 5.084,
+        "poster_path": "/bYB11qn2NyIrTRV83isSaXFwxRu.jpg",
+        "release_date": "1939-06-02",
+        "title": "Inside Information",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zuSgyj7c4lVgeo8qfhuE0WCRvT3.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            80
+        ],
+        "id": 290283,
+        "original_language": "en",
+        "original_title": "Honeytrap",
+        "overview": "Layla, a 15-year-old living in Brixton, London, becomes involved with a gang and must set up a boy to be killed.",
+        "popularity": 10.107,
+        "poster_path": "/ApKymKN7Ka3OZ8ML8mPzsM6o0Vm.jpg",
+        "release_date": "2015-05-08",
+        "title": "Honeytrap",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nGCcWZ8kW8mNI6TlYFlV5aQPHAM.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 174135,
+        "original_language": "en",
+        "original_title": "Spy Train",
+        "overview": "People on a train want what's in a Nazi spy bag, unaware it's a time bomb.",
+        "popularity": 6.834,
+        "poster_path": "/A8rDR9rpkgClHuFoZUJZahfmscU.jpg",
+        "release_date": "1943-07-09",
+        "title": "Spy Train",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 227702,
+        "original_language": "en",
+        "original_title": "Night Class",
+        "overview": "When Jake, a security guard in a small hotel, inadvertently helps out a beautiful burglar, he becomes a primary suspect and is quickly fired. Jake decides to track down the burglar himself and retrieve the stolen property.",
+        "popularity": 7.218,
+        "poster_path": "/vKPhs07DrQUTSB2YVJDm5jzO9ir.jpg",
+        "release_date": "2001-10-23",
+        "title": "Night Class",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 6
+    }
+]

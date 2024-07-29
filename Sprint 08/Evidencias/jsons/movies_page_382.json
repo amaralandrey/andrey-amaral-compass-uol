@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/56XGZCe4nWwUuscajwpNK2wSgOU.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1243427,
+        "original_language": "ja",
+        "original_title": "傘次郎・新子捕物日記 夫婦十手",
+        "overview": "A series of murders at Fukagawa lumberyard is tied to a grudge letter from the deceased Kansuke Tsukunamiya. Officer Kasajiro Sakane investigates the baffling case.",
+        "popularity": 8.603,
+        "poster_path": "/ahFmod1ksFnHNLjIQgq6cwfvfVr.jpg",
+        "release_date": "1982-06-04",
+        "title": "Kasajiro: Truncheon versus Sword",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mF1VMcO0pSjPVVfpHs4hLFmLYTV.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 72560,
+        "original_language": "pt",
+        "original_title": "Assalto ao Banco Central",
+        "overview": "\"The Baron\" wanted to commit the perfect heist involving 3 tons of money and no violence. For this he would need the right people willing to get 1 million dollars to take part in this job. Based on true events, in 2005, 168,000,000 Brazilian Real (almost 80,000,000 US dollars) were stolen from a Brazilian Central Bank (Federal Reserve), making it the biggest peace-time robbery in history. It was perhaps the most audacious bank heist ever.",
+        "popularity": 8.603,
+        "poster_path": "/sbUymWDX82csyNaTj3AmKGKqzrG.jpg",
+        "release_date": "2011-07-22",
+        "title": "Federal Bank Heist",
+        "video": false,
+        "vote_average": 6.306,
+        "vote_count": 134
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            10751
+        ],
+        "id": 33933,
+        "original_language": "da",
+        "original_title": "Familien Gyldenkål",
+        "overview": "The family Gyldenkål is actually called Iversen, but have changed their name, after numerous problems with the IRS, loan sharks and employers. Using clever scams, the family builds up a reputation as a wealthy and respectable part of society.",
+        "popularity": 8.603,
+        "poster_path": "/5DBHlDNfvBH14CAqd7bPXxml39H.jpg",
+        "release_date": "1975-01-01",
+        "title": "The Goldcabbage Family",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1u8PZKJGaB4E5mxPsWkq2fYbhRg.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 220887,
+        "original_language": "cn",
+        "original_title": "旺角的天空",
+        "overview": "Undercover cop Lok Hwa takes two years to become the trusted lieutenant of rising Hong Kong drug lord, Feng. The night of the big bust, Feng's flaming car crashes spectacularly into the sea; Feng is presumed dead. Hwa returns to the force and to June, his patient girl friend. Also, to save Feng's lover Yung from a life of crime, Hwa gives her his pager number and promises to be there for her. A year later, Feng reappears, asking Hwa's aid with one last task before he returns to the mainland forever. Feeling sentimental, Hwa agrees to help and finds himself set up to take the fall in a drug war. June is in danger, too, and death awaits as Yung realizes it's Hwa she loves.",
+        "popularity": 8.601,
+        "poster_path": "/dtUSUVJTdKG6xmvJ41EOMOgE45X.jpg",
+        "release_date": "1995-03-16",
+        "title": "Man Wanted",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dEqDBYsOnjyEZsIQJCoHwiGIU5a.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1060042,
+        "original_language": "ja",
+        "original_title": "Sin Clock",
+        "overview": "In order to turn their lives around, three taxi drivers living at the bottom rung of society hatch a plan to steal an invaluable art piece. Their plan was supposed to be perfect, but as coincidences pile up it becomes clear that nothing is going to go according to plan.",
+        "popularity": 8.599,
+        "poster_path": "/3QPjvfi3AOQPcMtawMKdEAxB8Qn.jpg",
+        "release_date": "2023-02-10",
+        "title": "Sin Clock",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            27
+        ],
+        "id": 291367,
+        "original_language": "en",
+        "original_title": "Listen",
+        "overview": "A young woman thinks one of her neighbors in her apartment building is a serial killer and begins to suspect both her current boyfriend and former girlfriend of being the killer.",
+        "popularity": 8.599,
+        "poster_path": "/3OjJsqZqVvuDtBChtiV1qfgBCK.jpg",
+        "release_date": "1996-09-27",
+        "title": "Listen",
+        "video": false,
+        "vote_average": 3.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8fGrRSJI7K3xHuKZVMCV2VU8xXW.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 381737,
+        "original_language": "en",
+        "original_title": "Manson's Lost Girls",
+        "overview": "Linda Kasabian falls prey to the hypnotic charms of Charles Manson and his self-proclaimed \"family\" during the drug-fueled summer of 1969.",
+        "popularity": 8.598,
+        "poster_path": "/cFgWHBAz5tAq9DkyLfeAomG5dLV.jpg",
+        "release_date": "2016-02-06",
+        "title": "Manson's Lost Girls",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dE41Yk3JmZHhfD1Eqbbp7nbRzGx.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 52113,
+        "original_language": "it",
+        "original_title": "Delitto sull'autostrada",
+        "overview": "Undercover cop Nico Giraldi is once again transformed, now as a trucker in a criminal gang.",
+        "popularity": 8.597,
+        "poster_path": "/hhfcvokNKrVWnws9zhXF60P9dlc.jpg",
+        "release_date": "1982-09-30",
+        "title": "Crime on the Highway",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q1gxXNrgK9BktFkBqK7W28sJ8xl.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 457265,
+        "original_language": "en",
+        "original_title": "Australia Day",
+        "overview": "On Australia's most controversial national holiday, the lives of three Australians from diverse cultural backgrounds will collide, illuminating contemporary issues of racial tension and national identity that simmer beneath the surface of modern Australia.",
+        "popularity": 8.596,
+        "poster_path": "/1e0kE8LVQ9WIxXj0fsMP8VYMG3c.jpg",
+        "release_date": "2017-06-12",
+        "title": "Australia Day",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80,
+            18,
+            9648,
+            10770
+        ],
+        "id": 118299,
+        "original_language": "en",
+        "original_title": "Try to Remember",
+        "overview": "Fifteen years after a murderer is convicted he is released and all the witnesses against him begin to be murdered.",
+        "popularity": 8.596,
+        "poster_path": "/lj42sEfzlX8sLVVxYjL4YaXG1VV.jpg",
+        "release_date": "2004-02-21",
+        "title": "Try to Remember",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ap79NSxUaEtfAtCdcUowiuCRdff.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 541011,
+        "original_language": "it",
+        "original_title": "Un nemico che ti vuole bene",
+        "overview": "professor saves the life of an injured hit man who, in return, promises to find and kill an enemy of his. Although the professor says not to have any enemy the killer goes for his mission and turns the professor's square life into chaos.",
+        "popularity": 8.595,
+        "poster_path": "/hzJcB7FNLTxNNlc6Rappk5KPIbe.jpg",
+        "release_date": "2018-10-04",
+        "title": "My Beloved Enemy",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oWsarGeEZ9x3VmfJGFAYoUvQpke.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18,
+            9648
+        ],
+        "id": 263116,
+        "original_language": "sv",
+        "original_title": "Beck 14 - Annonsmannen",
+        "overview": "A man is raping women after having met them through ads on public noticeboards. At first this seems like an easy crime to solve for Martin Beck and his colleagues but they soon discover that somebody's motivations are far more complex.",
+        "popularity": 8.595,
+        "poster_path": "/nglUrQeP5dNrJuVfrl8PMnj3yon.jpg",
+        "release_date": "2002-03-20",
+        "title": "Beck 14 - The Advertising Man",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 111986,
+        "original_language": "en",
+        "original_title": "Flipping",
+        "overview": "The story of Michael Moore, Shot, Hooker, Joey, and Dennis. Five gangsters who work for a man named Leo. They soon discover they could get more out of life if they could run the streets themselves. Tensions build and loyalty is tested as they plan a hit that could change all of their lives forever.",
+        "popularity": 8.595,
+        "poster_path": "/398mL3IB576GpJAPVchyTy0dKUL.jpg",
+        "release_date": "1997-03-07",
+        "title": "Flipping",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tv90jPsHtgVs1UvfGNVKdQRtLcJ.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 480420,
+        "original_language": "pt",
+        "original_title": "O Nome da Morte",
+        "overview": "The story of Júlio Santana, a professional killer who was responsible for almost 500 hundred murders in Brazil.",
+        "popularity": 8.593,
+        "poster_path": "/zuWq18b966YUhGf47jS9YjlZqOS.jpg",
+        "release_date": "2017-10-10",
+        "title": "492: A Man Called Death",
+        "video": false,
+        "vote_average": 6.99,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iVzN4SFiTdCvLNTHfZC5cMVraMf.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 188463,
+        "original_language": "en",
+        "original_title": "Journal of a Crime",
+        "overview": "A woman murders her husband's mistress and someone else gets accused of the crime.",
+        "popularity": 8.593,
+        "poster_path": "/qelKPaCQP5dEGqANxnsnlEqxt9X.jpg",
+        "release_date": "1934-03-10",
+        "title": "Journal of a Crime",
+        "video": false,
+        "vote_average": 5.692,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 105623,
+        "original_language": "ja",
+        "original_title": "十三人連続暴行魔",
+        "overview": "A chubby, bicycle-riding rapist/killer dispatches 13 people in a cold, bloody, detached rampage.",
+        "popularity": 8.593,
+        "poster_path": "/mUmIp5jItRM7AeP3OX9tFRb6ohS.jpg",
+        "release_date": "1978-07-01",
+        "title": "Serial Rapist",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cPOWeLFMPwHTEMyDayvAykz6oOh.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1073865,
+        "original_language": "pl",
+        "original_title": "Wyrwa",
+        "overview": "A mysterious car accident changes Maciek's life completely. His wife Janina dies in the incident. Most likely, the woman committed suicide. However, Maciej has no idea why the accident happened near Mragowo, since Janina said she was going on a business trip to Krakow. She made a mistake? Or was she lying? A distraught man embarks on a journey to solve the mystery of her death. Soon he finds himself on the trail of a certain Wojnar - an actor whom he suspects of having an affair with his late wife. From that moment, questions begin to multiply, and the tragedy turns into a complicated mystery. Maciej comes to the conclusion that perhaps he did not know the woman he married at all.",
+        "popularity": 8.589,
+        "poster_path": "/fbQxLKDZXBkW6kOA9TWntZCIwKr.jpg",
+        "release_date": "2023-03-17",
+        "title": "Wyrwa",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4cTJVlbSb96dh9FLjP75O8uluk4.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 91847,
+        "original_language": "ja",
+        "original_title": "女必殺五段拳",
+        "overview": "Kiku Nakakawa, the only daughter of an old kimono shop owner in Kyoto, is enthusiastic about karate. To help her friend Michi avenge her brother, she sneaks into a movie studio in Kyoto where a drug dealing syndicate is based.",
+        "popularity": 8.589,
+        "poster_path": "/ar6hPmDpBEBDfjcH5Rlu5uOfTp6.jpg",
+        "release_date": "1976-05-29",
+        "title": "Sister Street Fighter: Fifth Level Fist",
+        "video": false,
+        "vote_average": 5.667,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gJQ19oMF3t4KyrxwU7AkeKVUYUO.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 79053,
+        "original_language": "en",
+        "original_title": "100 Kilos",
+        "overview": "The rise and fall of the Freeway Boyz, These group of young men sold millions of dollars of drugs in the streets of South Central Los Angeles, and inadvertently financed a CIA private war in Nicaragua.",
+        "popularity": 8.589,
+        "poster_path": "/qtdKucyBQGcKjzCBMuloqd7AZQP.jpg",
+        "release_date": "2001-08-03",
+        "title": "100 Kilos",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wqA5gVd28VCGSCtMI0Cm4dDJhbO.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 1313243,
+        "original_language": "en",
+        "original_title": "The Shakedown",
+        "overview": "When his mistress threatens to expose the secret of their affair, a respected insurance broker seeks the help of his underworld brother to save his reputation.",
+        "popularity": 8.588,
+        "poster_path": "/qYWwnofrRiA3SrSuluhhX19lSAi.jpg",
+        "release_date": "2024-08-08",
+        "title": "The Shakedown",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

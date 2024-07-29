@@ -1,0 +1,396 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/tdmfu9MpDJTossDcDXakBvqzSkv.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18,
+            9648
+        ],
+        "id": 87901,
+        "original_language": "en",
+        "original_title": "Exiled",
+        "overview": "NYPD Detective Mike Logan, who was reassigned to Staten Island after punching a corrupt politician, takes on a grisly murder case. When the investigation leads him back to the 27th Precinct, Logan sees a chance to resurrect his flailing career and be reinstated as a homicide detective.",
+        "popularity": 12.138,
+        "poster_path": "/jG7fKOx1NsjaBmzZHmlYO1Y9h83.jpg",
+        "release_date": "1998-11-08",
+        "title": "Exiled",
+        "video": false,
+        "vote_average": 5.25,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rsAar1g5m8VCEkwFnfkmc3XoW7Z.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1037827,
+        "original_language": "fr",
+        "original_title": "Un Coup de dés",
+        "overview": "Mathieu owes everything to his friend Vincent : his house, his job, and even his life, ten years ago. With their wives, they are an inseparable quartet, and live the easy life on the French Riviera. But Mathieu discovers Vincent is cheating on his wife.",
+        "popularity": 12.134,
+        "poster_path": "/dWMEWwGHSrFe5wSkajweI0c1QIH.jpg",
+        "release_date": "2024-01-24",
+        "title": "Breaking Point",
+        "video": false,
+        "vote_average": 5.863,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jLz9I1zgW4hP4av5XRNQefICY8u.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 25501,
+        "original_language": "en",
+        "original_title": "After Dark, My Sweet",
+        "overview": "The intriguing relationship between three desperados, who try to kidnap a wealthy child in hope of turning their lives around.",
+        "popularity": 12.133,
+        "poster_path": "/6fWrEcIEoFuwYt4MUY4RtZwuMo9.jpg",
+        "release_date": "1990-08-24",
+        "title": "After Dark, My Sweet",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nmxn8ftTsF2bT6pSka6eTKrQ0xk.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 52979,
+        "original_language": "ja",
+        "original_title": "仁義なき戦い 頂上作戦",
+        "overview": "As Japan gears up for the 1964 Olympic games, the cops start to crack down on the gangs, under pressure from the public and the press, adding a new dimension in the war for power among the yakuza families of Hiroshima.",
+        "popularity": 12.131,
+        "poster_path": "/45MCl2zmDdLwqH6cDCqmJVigcKU.jpg",
+        "release_date": "1974-01-15",
+        "title": "Battles Without Honor and Humanity: Police Tactics",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bN8IsRxmRbltneliMi7UuYAdHk.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 917300,
+        "original_language": "en",
+        "original_title": "The Surprise Visit",
+        "overview": "When a young couple makes a surprise visit to Mom, they get an even bigger surprise themselves from an old family friend who plans to steal Mom’s valuable jewelry while she is out of town. But when the “easy peasy” robbery goes wrong, resulting in the accidental death of the daughter’s husband, it forces the two young drug addicts to make a difficult decision: to abandon ship, or do the unthinkable.",
+        "popularity": 12.13,
+        "poster_path": "/a3J0t376OE1Vk3jKN67viY31s5.jpg",
+        "release_date": "2022-01-14",
+        "title": "The Surprise Visit",
+        "video": false,
+        "vote_average": 4.667,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4bOy6bWjzqrEpp8AaEaCaEa60eF.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 29559,
+        "original_language": "en",
+        "original_title": "Murder-Set-Pieces",
+        "overview": "Set against Sin City, Las Vegas, a fashion photographer whose vocation is murder becomes a voyeuristic nightmare of blood, sex, and brutality.",
+        "popularity": 12.129,
+        "poster_path": "/nrr4kyNMYVKQXSOMOUBzMuBUYxN.jpg",
+        "release_date": "2004-12-04",
+        "title": "Murder-Set-Pieces",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 82
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8b2V7MC5RPVnJfaE1eQgZA7M7Ps.jpg",
+        "genre_ids": [
+            53,
+            80,
+            27
+        ],
+        "id": 60504,
+        "original_language": "en",
+        "original_title": "Bone Daddy",
+        "overview": "Doctor Palmer, a former pathologist, wrote a fictional book based on his real cases. In the book, the madman gets caught, but in reality he is still uncaught. After the book is released, Palmer's editor is kidnapped. Palmer soon is sent a present containing a page of his book, and a bone from his editor. Together with the police, Palmer tries to find his editor, who might still be alive. In addition, his own son becomes one of the main suspects. Written by Julian Reischl",
+        "popularity": 12.126,
+        "poster_path": "/pAtj1hZsbDvhkCrpR2KT1LUfMuF.jpg",
+        "release_date": "1998-07-19",
+        "title": "Bone Daddy",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s7yzWPek3OVUVUSuuhGWV1bknxI.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 475345,
+        "original_language": "en",
+        "original_title": "Heroin(e)",
+        "overview": "This documentary follows three women — a fire chief, a judge, and a street missionary — as they battle West Virginia's devastating opioid epidemic.",
+        "popularity": 12.125,
+        "poster_path": "/rweSROB7BEo8cI1EHcoTKBNw5m9.jpg",
+        "release_date": "2017-09-03",
+        "title": "Heroin(e)",
+        "video": false,
+        "vote_average": 6.938,
+        "vote_count": 121
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bNrMlFoMEHTLHAr5no8Ldc81bRX.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 69794,
+        "original_language": "en",
+        "original_title": "Small Town Murder Songs",
+        "overview": "Walter is the chief of police in a small Ontario town that has its first murder victim, an attractive young woman who is found naked on the shores of the nearby lake. The woman isn't local and while the Ontario Provincial Police have taken the lead in the investigation, Walter assists where he can. The town is mostly a close-knit Mennonite community and Walter has recently returned to his church. He is also trying to deal with his own temper that led to a violent incident some months before. As the young woman is identified, it becomes apparent that Walter's former love interest may be lying.",
+        "popularity": 12.124,
+        "poster_path": "/lGXjm0ikB4cZXiEU47UKxDfbNFI.jpg",
+        "release_date": "2010-09-14",
+        "title": "Small Town Murder Songs",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mR71UcYvygHyoeh3lkFSPqUAfGf.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27
+        ],
+        "id": 32449,
+        "original_language": "en",
+        "original_title": "Natural Enemy",
+        "overview": "A businessman (Donald Sutherland) has a hotshot young new partner (William McNamara). What he doesn't realize is that his new partner is the son of his second wife, adopted into an abusive family at birth and now a raving psychopath out to murder his natural mother for whom he blames the miseries of his lifetime.",
+        "popularity": 12.123,
+        "poster_path": "/h4n2MqhQ0WakX4QyCBNgRxEA0rS.jpg",
+        "release_date": "1996-12-31",
+        "title": "Natural Enemy",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8hccQO2B9asVcqgkQGPl31b7moJ.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 619067,
+        "original_language": "ja",
+        "original_title": "楽園",
+        "overview": "A girl is kidnapped and the perpetrator roams freely. When a similar case occurs along the same road and in similar circumstances a suspect is identified leading to the accused running away and going into hiding.",
+        "popularity": 12.121,
+        "poster_path": "/moS3S4ZDmW6e5AMMV14vpxPqMm5.jpg",
+        "release_date": "2019-10-18",
+        "title": "The Promised Land",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53,
+            80,
+            10770
+        ],
+        "id": 124169,
+        "original_language": "en",
+        "original_title": "Our Mother's Murder",
+        "overview": "Fact-based true crime story about the murder of publishing heiress Anne Scripps Douglas who, in 1989, married a young hunk who eventually killed her.",
+        "popularity": 12.12,
+        "poster_path": "/n4UyVPclhH7jx076klub86CmpdT.jpg",
+        "release_date": "1997-07-16",
+        "title": "Our Mother's Murder",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 51497,
+        "original_language": "en",
+        "original_title": "Fast Five",
+        "overview": "Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.",
+        "popularity": 12.116,
+        "poster_path": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+        "release_date": "2011-04-20",
+        "title": "Fast Five",
+        "video": false,
+        "vote_average": 7.247,
+        "vote_count": 8012
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2S1yCTJVTtexZ2NB2A2hUdSkp7S.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 1159242,
+        "original_language": "zh",
+        "original_title": "瞒天过海",
+        "overview": "A greedy police chief learns that a wealthy businesswoman has been wrongly accused of murder and strikes a deal with her – her freedom for a large sum of money. As the case progresses, a revelation that a sadistic politician and the businesswoman have a long standing relationship, the details of which will uncover the truth about the murder.",
+        "popularity": 12.115,
+        "poster_path": "/dpnXb8wQNTQzbWkMPOiEMITN5vB.jpg",
+        "release_date": "2023-12-08",
+        "title": "The Invisible Guest",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5oHtLtCzM2PfRdA9g5nMnXxiy7N.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 845611,
+        "original_language": "ja",
+        "original_title": "土竜の唄 FINAL",
+        "overview": "Reiji's final mission is to prevent the smuggling of 600 billion yen of drugs. For his mission, he gets on luxury passenger ship and he faces his strongest enemy to date.",
+        "popularity": 12.114,
+        "poster_path": "/7fqvNmTWiWR99DcRauwkkdXwvGh.jpg",
+        "release_date": "2021-11-19",
+        "title": "The Mole Song: Final",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oVx0FhUDayBBSVbuTbWxoLOVFAk.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 21502,
+        "original_language": "hi",
+        "original_title": "सत्या",
+        "overview": "A young man named Satya comes to Mumbai from South India in search of a job. Jailed for something he did not do, the once-honest young man meets an underworld boss, Bhiku Mhatre in jail and joins his gang.",
+        "popularity": 12.114,
+        "poster_path": "/wua2Fq5MLqRMNC2azapa74CZ2z2.jpg",
+        "release_date": "1998-07-03",
+        "title": "Satya",
+        "video": false,
+        "vote_average": 6.955,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5oFoJuYxQXoUqdbPl7htxZAsdse.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 19754,
+        "original_language": "en",
+        "original_title": "The Amy Fisher Story",
+        "overview": "The true story of the Long Island teen who shoots and wounds the wife of a man she called her lover.",
+        "popularity": 12.114,
+        "poster_path": "/v6GBfGEP2625aPq8eqBaUAk6OSa.jpg",
+        "release_date": "1993-01-03",
+        "title": "The Amy Fisher Story",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7OcI9fqPf2nIDng1q6lbMiM4lEC.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 517829,
+        "original_language": "es",
+        "original_title": "Pickpockets: maestros del robo",
+        "overview": "An aspiring teen thieves learn what it takes to be successful pickpockets on the streets of Bogotá",
+        "popularity": 12.106,
+        "poster_path": "/ja5zu3uTu8B7XKYXUSTvtHidTID.jpg",
+        "release_date": "2018-03-03",
+        "title": "Pickpockets",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 102
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sAu0iDTtpyPg3Uz5ymkeTkRSHCV.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 57286,
+        "original_language": "cn",
+        "original_title": "脂粉雙雄",
+        "overview": "Two policemen must pretend to be a gay couple in order to investigate the murders of homosexuals in Hong Kong.",
+        "popularity": 12.106,
+        "poster_path": "/ySErxIqAEKDtYtSdCLLb9cP4PQ.jpg",
+        "release_date": "1990-08-08",
+        "title": "Pantyhose Hero",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iQd0TE2L67MhlNuJKpDisXh4pzo.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 97038,
+        "original_language": "es",
+        "original_title": "La vendedora de rosas",
+        "overview": "Monica is 13 years old and has already created her own world, on the street, where she fights courageously to defend what little she has: her friends, her boyfriend, who sells drugs, and her dignity and pride that makes no concessions to anyone. On Christmas night, like every night, she sells roses to make a living. But life brings her a new appointment with loneliness, poverty, drugs and death.",
+        "popularity": 12.105,
+        "poster_path": "/uWh7BliQjSEA25ZtOfWB4h6Pbm.jpg",
+        "release_date": "1998-05-13",
+        "title": "The Rose Seller",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 122
+    }
+]

@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/d3pyIqXlKSJy8LfJ983PUhrYbC2.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 27523,
+        "original_language": "it",
+        "original_title": "Salvatore Giuliano",
+        "overview": "Sicilian bandit Salvatore Giuliano's bullet-riddled corpse is found facedown in a courtyard in Castelvetrano, a handgun and rifle by his side. Local and international press descend upon the scene, hoping to crack open the true story behind the death of this young man, who, at the age of twenty-seven, had already become Italy’s most wanted criminal and celebrated hero.",
+        "popularity": 20.63,
+        "poster_path": "/uaFTCD0y2MEccTFyHOHj6IrwyZ.jpg",
+        "release_date": "1962-03-01",
+        "title": "Salvatore Giuliano",
+        "video": false,
+        "vote_average": 7.485,
+        "vote_count": 101
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fQOFjdWCMDnYujXlDuGBmNhV4i1.jpg",
+        "genre_ids": [
+            80,
+            53,
+            27,
+            9648
+        ],
+        "id": 12487,
+        "original_language": "ja",
+        "original_title": "極道恐怖大劇場 牛頭 GOZU",
+        "overview": "Minami mistakenly kills a gangster associate of his named Brother. Almost as soon as the murder takes place, the body of the deceased man is gone, prompting Minami to conduct a search. While looking, he finds a mysterious isolated hotel where he decides to take a rest. Not only are the front desk clerks a bit strange, but even the ambiance feels unusual. Minami soon realizes he may have gotten more than he bargained for.",
+        "popularity": 20.618,
+        "poster_path": "/mo5L0XzMYmLhdsvgA40qlYiHhAF.jpg",
+        "release_date": "2003-07-11",
+        "title": "Gozu",
+        "video": false,
+        "vote_average": 6.799,
+        "vote_count": 201
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tjTEbBYyTW6WWdzzBWeRaHncjLC.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 180900,
+        "original_language": "ja",
+        "original_title": "藁の楯 わらのたて",
+        "overview": "Ninagawa is a powerful man in Japanese politics and with top economic connections.His granddaughter is then murdered. The suspect is Kunihide Kiyomaru. Kunihide Kiyomaru has a prior conviction for assaulting and killing a girl 8 years ago. The police could never apprehend the suspect in the prior killing.",
+        "popularity": 20.617,
+        "poster_path": "/eJMIv4PCNpUb1CvGXo94aVglC4l.jpg",
+        "release_date": "2013-04-25",
+        "title": "Shield of Straw",
+        "video": false,
+        "vote_average": 6.392,
+        "vote_count": 106
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cc7Nmid20lcfNh1eucWdLKidi7s.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 850018,
+        "original_language": "en",
+        "original_title": "Windfall",
+        "overview": "A man breaks into a tech billionaire's empty vacation home, but things go sideways when the arrogant mogul and his wife arrive for a last-minute getaway.",
+        "popularity": 20.616,
+        "poster_path": "/njBc0nNdl9QbsfMwyRqJkmW4NQO.jpg",
+        "release_date": "2022-03-11",
+        "title": "Windfall",
+        "video": false,
+        "vote_average": 5.389,
+        "vote_count": 395
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hqOlD3inB1U8GRIsAKQp5kDhj6H.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 12206,
+        "original_language": "de",
+        "original_title": "Das Testament des Dr. Mabuse",
+        "overview": "After a detective is assaulted by thugs and placed in an asylum run by Professor Baum, he observes the professor's preoccupation with another patient, the criminal genius Dr. Mabuse the hypnotist. When Mabuse's notes are found to be connected with a rash of recent crimes, Commissioner Lohmann must determine how Mabuse is communicating with the criminals, despite conflicting reports on the doctor's whereabouts, and capture him for good.",
+        "popularity": 20.616,
+        "poster_path": "/tc2ET7j6X066VCjdHblSwLr8sEz.jpg",
+        "release_date": "1933-04-21",
+        "title": "The Testament of Dr. Mabuse",
+        "video": false,
+        "vote_average": 7.624,
+        "vote_count": 241
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oaQeKZDAUCao3Vf633pbxxQKZ01.jpg",
+        "genre_ids": [
+            28,
+            53,
+            10770,
+            80
+        ],
+        "id": 72912,
+        "original_language": "en",
+        "original_title": "Carjacked",
+        "overview": "A single mom and her child are carjacked by a bank robber who has no intention of letting them go.",
+        "popularity": 20.602,
+        "poster_path": "/bPwccod1wNQrC0aqq6nxr9qC3Sm.jpg",
+        "release_date": "2011-11-22",
+        "title": "Carjacked",
+        "video": false,
+        "vote_average": 5.207,
+        "vote_count": 94
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3MWKCgI8dQGcWS1VL1fACItfWP5.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53,
+            80
+        ],
+        "id": 81390,
+        "original_language": "en",
+        "original_title": "A Lonely Place to Die",
+        "overview": "A group of five mountaineers are hiking and climbing in the Scottish Highlands when they discover a young Serbian girl buried in a small chamber in the wilderness. They become caught up in a terrifying game of cat and mouse with the kidnappers as they try to get the girl to safety.",
+        "popularity": 20.594,
+        "poster_path": "/k5mKx1l8hjKV52aB652cpxOzoYV.jpg",
+        "release_date": "2011-04-09",
+        "title": "A Lonely Place to Die",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 556
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xw4ffBqSFPIolJx286psPVvr55P.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 14550,
+        "original_language": "en",
+        "original_title": "The Dream Team",
+        "overview": "Four mental patients on a field trip in New York City must save their caring chaperone, who ends up being taken to a hospital in a coma after accidentally witnessing a murder, before the killers can find him and finish the job.",
+        "popularity": 20.574,
+        "poster_path": "/lBVjTP8Cb66GBabUBQaBUtV6OqD.jpg",
+        "release_date": "1989-04-07",
+        "title": "The Dream Team",
+        "video": false,
+        "vote_average": 6.129,
+        "vote_count": 214
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rp49ILheIhBwHWiQUvDfVH1fPfI.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1138749,
+        "original_language": "en",
+        "original_title": "The Island",
+        "overview": "When his brother is killed, LAPD officer Mark leaves the city to return to the island he grew up on. Seeking answers and ultimately vengeance, he soon finds himself in a bloody battle with the corrupt tycoon who's taken over the island paradise.",
+        "popularity": 20.573,
+        "poster_path": "/ajb1rMiorchfRemYHZCkbV9DBg6.jpg",
+        "release_date": "2023-07-21",
+        "title": "The Island",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3biBcohe172vLq243lFKreiEOwA.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 541,
+        "original_language": "en",
+        "original_title": "The Man with the Golden Arm",
+        "overview": "A junkie must face his true self to kick his drug addiction.",
+        "popularity": 20.563,
+        "poster_path": "/3TUOhZhM5GCYIbxwFO3chpZ0DHx.jpg",
+        "release_date": "1955-12-26",
+        "title": "The Man with the Golden Arm",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 215
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gSsTGqZ7wT0uGhLDpcUOe1jYsi6.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 660353,
+        "original_language": "en",
+        "original_title": "Ted K",
+        "overview": "The True Story of Ted Kaczynski, the infamous Unabomber, who wants to destroy modern technology to create a world for himself in the Montana wilderness.",
+        "popularity": 20.558,
+        "poster_path": "/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg",
+        "release_date": "2021-10-29",
+        "title": "Ted K",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 111
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gCOe0ZSGgfsHob7gdg2xQANwTAD.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            18
+        ],
+        "id": 925102,
+        "original_language": "fr",
+        "original_title": "La Nuit du 12",
+        "overview": "Young and ambitious Captain Vivés has just been appointed group leader at the Grenoble Criminal Squad when Clara's murder case lands on his desk. Vivés and his team investigate Clara's complex life and relations, but what starts as a professional and methodical immersion into the victim's life soon turns into a haunting obsession.",
+        "popularity": 20.546,
+        "poster_path": "/9IHnpje2aZ6TI6B385BqGfhcMuB.jpg",
+        "release_date": "2022-07-13",
+        "title": "The Night of the 12th",
+        "video": false,
+        "vote_average": 6.996,
+        "vote_count": 570
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/idczYlzuU2nwnLjiuIeTKXwseSB.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 32669,
+        "original_language": "en",
+        "original_title": "The Two Jakes",
+        "overview": "Real estate developer Jake Berman hires private investigator and war veteran Jake Gittes for some run-of-the-mill matrimonial work. After Berman shoots his wife's lover, who happens to be his business partner, Gittes is drawn into a web of conspiracy and deceit involving the oil reserves beneath Los Angeles. While investigating, Gittes hears a voice from his past that causes him to revisit a traumatic case in Chinatown.",
+        "popularity": 20.544,
+        "poster_path": "/5s4QSHgu3GvcBeZ4AqagMIULhyw.jpg",
+        "release_date": "1990-08-10",
+        "title": "The Two Jakes",
+        "video": false,
+        "vote_average": 5.942,
+        "vote_count": 224
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v4qLFzxjksTadTo2R13s8B0s2Y7.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 27936,
+        "original_language": "fr",
+        "original_title": "Micmacs à tire-larigot",
+        "overview": "While standing in the doorway of the video shop where he works, Bazil is inadvertently shot in the head. Now homeless and jobless, he is taken in by a troupe of misfits who live in a giant mound of trash. There Bazil begins his quest for revenge against the people who produced the gun that shot him.",
+        "popularity": 20.536,
+        "poster_path": "/tU5oKpfIjUlI2fYpG7RCNObfHwi.jpg",
+        "release_date": "2009-10-28",
+        "title": "Micmacs",
+        "video": false,
+        "vote_average": 6.616,
+        "vote_count": 574
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1WW94dBZmOf7LgvjTPqh9cA36KZ.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 21309,
+        "original_language": "en",
+        "original_title": "River's Edge",
+        "overview": "A group of high-school friends must come to terms with the fact that one of them, Samson, killed another, Jamie. Faced with the brutality of death, each must decide whether to turn their friend in to the police, or to help him escape the consequences of his dreadful deed.",
+        "popularity": 20.536,
+        "poster_path": "/bT68aKa9d7zDF7Z8MaskbWBRqzb.jpg",
+        "release_date": "1986-10-10",
+        "title": "River's Edge",
+        "video": false,
+        "vote_average": 6.519,
+        "vote_count": 262
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ezoZRyrP7c0XKc7CA0kPHeh87m3.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 681580,
+        "original_language": "es",
+        "original_title": "No matarás",
+        "overview": "A good-natured man has an unexpected deadly confrontation. Instincts kick in to clean up the mess caused in the name of self-defense but does one really get away free after killing someone?",
+        "popularity": 20.53,
+        "poster_path": "/pmHAw2vTYN3t5DezIAvIiZ7yJuZ.jpg",
+        "release_date": "2020-10-16",
+        "title": "Cross the Line",
+        "video": false,
+        "vote_average": 6.883,
+        "vote_count": 248
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a32g4bKukYVkfzZtddNeeLMyM50.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            35
+        ],
+        "id": 28796,
+        "original_language": "ja",
+        "original_title": "龍が如く 劇場版",
+        "overview": "Former yakuza underling Kazuma Kiryū has recently been released from prison after a lengthy incarceration and is trying to piece his life together and distance himself from his yakuza past. Unfortunately, Kiryū's problems slowly escalate as he is pursued by a former associate, the baseball-bat-wielding psycho Gorō Majima, who has a grudge to settle with Kiryū.",
+        "popularity": 20.525,
+        "poster_path": "/6C1PPnMnKxbqxBeM6iKx3D1AEZw.jpg",
+        "release_date": "2007-03-03",
+        "title": "Yakuza: Like a Dragon",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2yYrBdhPzsrHQlNqswFa90y6bZu.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 20506,
+        "original_language": "ja",
+        "original_title": "うなぎ",
+        "overview": "A businessman kills his adulterous wife and is sent to prison. After his release, he opens a barbershop and meets new people, talking  to almost no one except for an eel he befriended while in prison.",
+        "popularity": 20.522,
+        "poster_path": "/jM2FENCF3NNcw6htrqXglVueicb.jpg",
+        "release_date": "1997-05-12",
+        "title": "The Eel",
+        "video": false,
+        "vote_average": 6.932,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cSztWfASWpNVkWtu9Xm44EnxlWR.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 13058,
+        "original_language": "en",
+        "original_title": "Adulthood",
+        "overview": "After serving six years for killing his schoolmate, a young man learns that someone is out for revenge.",
+        "popularity": 20.501,
+        "poster_path": "/pKyfNRTkpY5MmoAOCvL2ZmPoPn1.jpg",
+        "release_date": "2008-06-16",
+        "title": "Adulthood",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 132
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wNnrNmZe3GBmZnCIroFXPWOMhL4.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 17317,
+        "original_language": "en",
+        "original_title": "Urban Justice",
+        "overview": "Seagal plays a man with a dark and violent past, who seeks revenge for the murder of his son.",
+        "popularity": 20.499,
+        "poster_path": "/owBmON7qbru3VvV6AaorgtXhMmF.jpg",
+        "release_date": "2007-10-21",
+        "title": "Urban Justice",
+        "video": false,
+        "vote_average": 5.034,
+        "vote_count": 104
+    }
+]

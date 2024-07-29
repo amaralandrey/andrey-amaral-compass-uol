@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/vXUX7Qi4rtOh2TxqA1eB2CU6QAo.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 647785,
+        "original_language": "en",
+        "original_title": "Debt Collectors",
+        "overview": "A pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin.",
+        "popularity": 24.245,
+        "poster_path": "/A8FWpw3WHUo9EvU1xMWZRjdRlN3.jpg",
+        "release_date": "2020-05-29",
+        "title": "Debt Collectors",
+        "video": false,
+        "vote_average": 6.192,
+        "vote_count": 221
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4tg7CSC51y3xUv56v1kTGe4xg9Y.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 898,
+        "original_language": "en",
+        "original_title": "Birdman of Alcatraz",
+        "overview": "After killing a prison guard, convict Robert Stroud faces life imprisonment in solitary confinement. Driven nearly mad by loneliness and despair, Stroud's life gains new meaning when he happens upon a helpless baby sparrow in the exercise yard and nurses it back to health. Despite having only a third grade education, Stroud goes on to become a renowned ornithologist and achieves a greater sense of freedom and purpose behind bars than most people find in the outside world.",
+        "popularity": 24.221,
+        "poster_path": "/6EODLN11HTX4l2cmakAhWIoJLF.jpg",
+        "release_date": "1962-07-04",
+        "title": "Birdman of Alcatraz",
+        "video": false,
+        "vote_average": 7.463,
+        "vote_count": 284
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s8EG13jrSk8iGWLo6H1YEP8yGiU.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 42741,
+        "original_language": "fr",
+        "original_title": "Un flic",
+        "overview": "A Parisian police chief has an affair, but unbeknownst to him, the boyfriend of the woman he’s having an affair with is a bank robber planning a heist.",
+        "popularity": 24.215,
+        "poster_path": "/gICgcF0VuxW13XeHeeUEKlAkyOE.jpg",
+        "release_date": "1972-10-01",
+        "title": "Un Flic",
+        "video": false,
+        "vote_average": 6.622,
+        "vote_count": 234
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5NWLgFDwDOsLXs5m0tTuyRm4SKa.jpg",
+        "genre_ids": [
+            80,
+            53,
+            27
+        ],
+        "id": 573,
+        "original_language": "en",
+        "original_title": "Frenzy",
+        "overview": "After a serial killer strangles several women with a necktie, London police identify a suspect—but he claims vehemently to be the wrong man.",
+        "popularity": 24.214,
+        "poster_path": "/4SFvqrlSigAt9tnhXFSMyKeJWQk.jpg",
+        "release_date": "1972-05-25",
+        "title": "Frenzy",
+        "video": false,
+        "vote_average": 7.106,
+        "vote_count": 869
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7FmaBXCV2CS6pQn6g6irigk5c6J.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 146227,
+        "original_language": "en",
+        "original_title": "Getaway",
+        "overview": "Former race car driver Brent Magna is pitted against the clock. Desperately trying to save the life of his kidnapped wife, Brent commandeers a custom Ford Shelby GT500 Super Snake, taking it and its unwitting owner on a high-speed race against time, at the command of the mysterious villain holding his wife hostage.",
+        "popularity": 24.209,
+        "poster_path": "/z4sEWm1ykf9WX5WJU4XMD4oI5sI.jpg",
+        "release_date": "2013-08-29",
+        "title": "Getaway",
+        "video": false,
+        "vote_average": 5.047,
+        "vote_count": 608
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ydI2j3kY84SbvIro7RKj3JcuxAR.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1117061,
+        "original_language": "tl",
+        "original_title": "Hugot",
+        "overview": "A basketball player, turns to drug peddling and gambling to earn more. When he realizes his path endangers not just his life but the people he loves, it's already too late.",
+        "popularity": 24.193,
+        "poster_path": "/uuxhFccZJvmQy5UDzoP3Wzjn7LU.jpg",
+        "release_date": "2023-06-30",
+        "title": "Hugot",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zUpfkp0xz3mXvFjdn7h7l7nvxQG.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 18060,
+        "original_language": "cn",
+        "original_title": "証人",
+        "overview": "Sergeant Tong is wracked with guilt after he unwittingly kills a young girl whilst capuring a criminal named Cheung. When the girl's sister is later kidnapped in a ploy to get Cheung released, Sergeant Tong vows to find and rescue her before she comes to harm.",
+        "popularity": 24.192,
+        "poster_path": "/hlaIVAyQc2Wo5AIpprYIkpbirAT.jpg",
+        "release_date": "2008-11-27",
+        "title": "Beast Stalker",
+        "video": false,
+        "vote_average": 6.741,
+        "vote_count": 79
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/niQy8JQ3YOioONryVEqi3F7IX4f.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 209764,
+        "original_language": "ko",
+        "original_title": "더 테러 라이브",
+        "overview": "A newsman discovers he's been rigged with a bomb after he has an exclusive interview with a terrorist who blew up a bridge.",
+        "popularity": 33.858,
+        "poster_path": "/9VFBtfMRKh5Yfd8jQ4kPhhD441D.jpg",
+        "release_date": "2013-07-31",
+        "title": "The Terror Live",
+        "video": false,
+        "vote_average": 7.104,
+        "vote_count": 230
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kMoziUWgpjGMPGaRY15JN3KDlhw.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 818422,
+        "original_language": "nl",
+        "original_title": "Ritueel",
+        "overview": "The discovery of a chopped-off hand in a Brussels canal forces Belgian police diver Kiki to face deep guilt from the past, her own and her country’s.  Based on the book ‘Ritual’ by Mo Hayder.",
+        "popularity": 24.159,
+        "poster_path": "/9i4v0kITWH4xVdTN0JgNjwKf3CY.jpg",
+        "release_date": "2022-09-07",
+        "title": "Ritual",
+        "video": false,
+        "vote_average": 6.466,
+        "vote_count": 73
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7D8De14MRwDCU6IWyR2xTUxV6pl.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 26606,
+        "original_language": "en",
+        "original_title": "Performance",
+        "overview": "In underworld terms, Chas Devlin is a 'performer,' a gangster with a talent for violence and intimidation. Turner is a reclusive rock superstar. When Chas and Turner meet, their worlds collide—and the impact is both exotic and explosive.",
+        "popularity": 24.153,
+        "poster_path": "/wfEY1Bz6bCJ49lmBg7mt2AmAaRq.jpg",
+        "release_date": "1970-08-03",
+        "title": "Performance",
+        "video": false,
+        "vote_average": 6.727,
+        "vote_count": 174
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pTntob09b9616xtluRPO5Wl8Y3B.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 757,
+        "original_language": "en",
+        "original_title": "Murder Most Foul",
+        "overview": "A murderer is brought to court and only Miss Marple is unconvinced of his innocence. Once again she begins her own investigation.",
+        "popularity": 24.136,
+        "poster_path": "/qTCKB5rxYzgdWUUH4UMgpRVH3GJ.jpg",
+        "release_date": "1964-03-01",
+        "title": "Murder Most Foul",
+        "video": false,
+        "vote_average": 6.969,
+        "vote_count": 143
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2Enmg9KVNty2rOPNtXU8XWUHQ0a.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 437626,
+        "original_language": "en",
+        "original_title": "Stockholm",
+        "overview": "Based on the extraordinary true story of the European city’s 1973 bank heist and hostage crisis that was documented in the 1974 New Yorker article “The Bank Drama” by Daniel Lang. The events grasped the world’s attention when the hostages bonded with their captors and turned against the authorities, giving rise to the psychological phenomenon known as “Stockholm Syndrome.”",
+        "popularity": 24.135,
+        "poster_path": "/ko3AS33BLNEBcp1CO4FvdRltTxr.jpg",
+        "release_date": "2019-04-12",
+        "title": "Stockholm",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 366
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yVo4T8WLBHvS2Cunv27KwZySJIw.jpg",
+        "genre_ids": [
+            37,
+            28,
+            53,
+            80
+        ],
+        "id": 20287,
+        "original_language": "en",
+        "original_title": "Extreme Prejudice",
+        "overview": "A Texas Ranger and a ruthless narcotics kingpin - they were childhood friends, now they are adversaries...",
+        "popularity": 24.134,
+        "poster_path": "/AhWYiWKdCm15LIEJrBzwA7Ig8ET.jpg",
+        "release_date": "1987-04-24",
+        "title": "Extreme Prejudice",
+        "video": false,
+        "vote_average": 6.144,
+        "vote_count": 156
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6BXP1XEWP31Tvm8wADiONAUs4uL.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 20853,
+        "original_language": "en",
+        "original_title": "Detective Story",
+        "overview": "Tells the story of one day in the lives of the various people who populate a police detective squad. An embittered cop, Det. Jim McLeod, leads a precinct of characters in their grim daily battle with the city's lowlife. The characters who pass through the precinct over the course of the day include a young petty embezzler, a pair of burglars, and a naive shoplifter.",
+        "popularity": 24.128,
+        "poster_path": "/uXfkupU1a0gePncfdEV7STgsYtU.jpg",
+        "release_date": "1951-11-01",
+        "title": "Detective Story",
+        "video": false,
+        "vote_average": 6.953,
+        "vote_count": 137
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mnJKjl0FwI81pIoRVlIqrb9Fal4.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80,
+            53
+        ],
+        "id": 430682,
+        "original_language": "en",
+        "original_title": "Gun Shy",
+        "overview": "A mega-platinum, aging rock star's supermodel wife is abducted by pirates while vacationing in Chile.",
+        "popularity": 24.126,
+        "poster_path": "/ugzaRtgrf2MBCUawgiE6xayXXIE.jpg",
+        "release_date": "2017-09-08",
+        "title": "Gun Shy",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 140
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eR9S6iMbk4ycV7DcqvVxFp8lNFV.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            53
+        ],
+        "id": 18671,
+        "original_language": "en",
+        "original_title": "Gun Crazy",
+        "overview": "Bart Tare is an ex-Army man who has a lifelong fixation with guns, he meets a kindred spirit in sharpshooter Annie Starr and goes to work at a carnival. After upsetting the carnival owner who lusts after Starr, they both get fired. Soon, on Starr's behest, they embark on a crime spree for cash.",
+        "popularity": 24.124,
+        "poster_path": "/kC1IIitCJTZLwZyuQnKw4zaOaXc.jpg",
+        "release_date": "1950-01-20",
+        "title": "Gun Crazy",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 265
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/80Rn2nJPouRhW4V9bdXrawdDPwz.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 662712,
+        "original_language": "en",
+        "original_title": "Flag Day",
+        "overview": "A father lives a double life as a counterfeiter, bank robber and con man in order to provide for his daughter.",
+        "popularity": 24.122,
+        "poster_path": "/zvDxMJy41RfsH35YFVDKw5mxahy.jpg",
+        "release_date": "2021-08-20",
+        "title": "Flag Day",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 146
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9ugGl7jpiIvKj3UTY331MKl4Bz4.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            18
+        ],
+        "id": 797457,
+        "original_language": "en",
+        "original_title": "Nitram",
+        "overview": "Based on true events, \"Nitram\" lives with his parents in suburban Australia in the mid-90s. He lives a life of isolation and frustration at never fitting in. As his anger grows, he begins a slow descent into a nightmare that culminates in the most heinous of acts.",
+        "popularity": 24.121,
+        "poster_path": "/qOmOMMgqZj7vooTDEqzOUF4jzX0.jpg",
+        "release_date": "2021-09-30",
+        "title": "Nitram",
+        "video": false,
+        "vote_average": 6.959,
+        "vote_count": 160
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q8CuhbuHjm5YzfV45z4oEC4X8gO.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 41586,
+        "original_language": "en",
+        "original_title": "K-911",
+        "overview": "LAPD detective Mike Dooley and his dog, the German Shepherd Jerry Lee, have been successfully partnered for ten years, but Jerry’s advancing age has Dooley’s superiors suggesting retirement and  they are forced to work with a younger K-9 team: female cop Sergeant Welles and her disciplined Doberman Zeus.",
+        "popularity": 24.118,
+        "poster_path": "/eYi2Kje8rfuoHzm5zkqa9nX5q8L.jpg",
+        "release_date": "1999-12-07",
+        "title": "K-911",
+        "video": false,
+        "vote_average": 5.616,
+        "vote_count": 234
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9dC7VSLQ1FZ7EWTNiWnvO98OSAf.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 390433,
+        "original_language": "ko",
+        "original_title": "널 기다리며",
+        "overview": "A girl who lost her father to a serial killer, a detective and a killer are intertwined in a chaotic relationship and are met with an unprecedented series of events.",
+        "popularity": 24.112,
+        "poster_path": "/35nNArRlsLCN7dYihQdl83IRDzD.jpg",
+        "release_date": "2016-03-10",
+        "title": "Missing You",
+        "video": false,
+        "vote_average": 7.127,
+        "vote_count": 59
+    }
+]

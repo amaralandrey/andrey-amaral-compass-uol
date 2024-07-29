@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/xqgSXgSIkTvyU9vfUcBOd6GYflJ.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            14,
+            18
+        ],
+        "id": 8285,
+        "original_language": "en",
+        "original_title": "The Spirit",
+        "overview": "A Rookie cop named Denny Colt returns from the beyond as The Spirit, a hero whose mission is to fight against the bad forces from the shadows of Central City.  The Octopus, who kills anyone unfortunate enough to see his face, has other plans; he is going to wipe out the entire city.",
+        "popularity": 30.168,
+        "poster_path": "/g9qawfzR3LWRC8r8YZ9w2yaQi5W.jpg",
+        "release_date": "2008-12-25",
+        "title": "The Spirit",
+        "video": false,
+        "vote_average": 4.732,
+        "vote_count": 943
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jJYpZPEZazrJ1nDv6Q3wRPtmQuC.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 1568,
+        "original_language": "fr",
+        "original_title": "Carne",
+        "overview": "After a dreadful incident coupled with an ungovernable paroxysm of violence, a butcher will fall into a downward spiral that will burn to the ground whatever dignity still remained in him.",
+        "popularity": 30.152,
+        "poster_path": "/8xMHL9wHq9HXVvYE6sP0K3viySF.jpg",
+        "release_date": "1991-05-01",
+        "title": "Carne",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 212
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4Fj9CxfVXgPCZXLYL2u9sPgoRk6.jpg",
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 140378,
+        "original_language": "cn",
+        "original_title": "血戀II",
+        "overview": "The second part of the \"Trilogy of Lust\"-series tells the story about a woman who suffers from a childhood trauma when she was brutally raped by her uncle and his stinky booze companions. Now as an adult she leads two different lives: during the day she´s the upright manager of a firm, but at night she goes on murderous sprees, dressed in sexy rubber and latex costumes, to have sex with unsuspecting men. After the sexual intercourse she kills them violently and collects body parts like ears or noses as her trophies..",
+        "popularity": 30.137,
+        "poster_path": "/sMJPhKwdllETX9pmzpf5opBPMKT.jpg",
+        "release_date": "1996-10-29",
+        "title": "Trilogy of Lust II",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vDSDu2okecJy1gcmPf26bJBMhhV.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 348668,
+        "original_language": "da",
+        "original_title": "Flaskepost fra P",
+        "overview": "Denmark, 2016. A blurred note is found in a bottle that has traveled across the ocean for a long time. After deciphering the cryptic note, Department Q follow a sinister trail that leads them to investigate a case that occurred in 2008. At the same time, new tragic events take place that test their faith and deepest beliefs.",
+        "popularity": 30.135,
+        "poster_path": "/7Zy0vGrmoe2avb9Ucz72PCrFo1M.jpg",
+        "release_date": "2016-03-03",
+        "title": "A Conspiracy of Faith",
+        "video": false,
+        "vote_average": 6.991,
+        "vote_count": 549
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/43FpZytJjlReDAPrByR77i81mnr.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 14943,
+        "original_language": "ja",
+        "original_title": "クローズZERO",
+        "overview": "The students of Suzuran High compete for the King of School title. An ex-graduate yakuza is sent to kill the son of a criminal group, but he can't make himself do it as he reminds him of his youth.",
+        "popularity": 30.098,
+        "poster_path": "/so1E9wUAXJi9hqGRNPgoVQd7HaX.jpg",
+        "release_date": "2007-10-26",
+        "title": "Crows Zero",
+        "video": false,
+        "vote_average": 7.039,
+        "vote_count": 332
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kv20JYfmzLyYi1vV0ocryyju3zl.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            18
+        ],
+        "id": 4193,
+        "original_language": "en",
+        "original_title": "Evil Under the Sun",
+        "overview": "An opulent beach resort provides a scenic background to this amusing whodunit as Poirot attempts to uncover the nefarious evildoer behind the strangling of a notorious stage star.",
+        "popularity": 30.097,
+        "poster_path": "/rQNMZoVVURf9YyYiBTsrOTEKALH.jpg",
+        "release_date": "1982-03-05",
+        "title": "Evil Under the Sun",
+        "video": false,
+        "vote_average": 6.899,
+        "vote_count": 412
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dALQsHqbcySpACOq2qXQwsasVBx.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            80
+        ],
+        "id": 1389,
+        "original_language": "en",
+        "original_title": "Out of Sight",
+        "overview": "Meet Jack Foley, a smooth criminal who bends the law and is determined to make one last heist. Karen Sisco is a federal marshal who chooses all the right moves … and all the wrong guys. Now they're willing to risk it all to find out if there's more between them than just the law.",
+        "popularity": 30.097,
+        "poster_path": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+        "release_date": "1998-06-26",
+        "title": "Out of Sight",
+        "video": false,
+        "vote_average": 6.681,
+        "vote_count": 1220
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/72Cz99QcfnlcyUy7PePQZISVxxr.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1073337,
+        "original_language": "tr",
+        "original_title": "İyi Adamın 10 Günü",
+        "overview": "A lawyer turned private investigator takes on a missing person case, propelling him on an unexpected and life-altering quest.",
+        "popularity": 30.091,
+        "poster_path": "/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg",
+        "release_date": "2023-02-10",
+        "title": "10 Days of a Good Man",
+        "video": false,
+        "vote_average": 6.633,
+        "vote_count": 79
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vBmmJYv5asJpdJZsyPPc4MMpfBe.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1018228,
+        "original_language": "hi",
+        "original_title": "चोर निकल के भागा",
+        "overview": "A flight attendant and her boyfriend must steal a cache of diamonds to clear an old debt — but the plan spins into a mayhem when the plane gets hijacked.",
+        "popularity": 30.089,
+        "poster_path": "/1MIDERaEUMw1rYDM99tGZPY80Ap.jpg",
+        "release_date": "2023-03-24",
+        "title": "Chor Nikal Ke Bhaga",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eY9Fv5KcqC5gg9vhkjLSbG77JHA.jpg",
+        "genre_ids": [
+            80,
+            35,
+            18
+        ],
+        "id": 509874,
+        "original_language": "en",
+        "original_title": "Lying and Stealing",
+        "overview": "Hoping to leave his criminal lifestyle behind him, a successful art thief teams up with a sexy con woman to pull off the ultimate heist and set himself free.",
+        "popularity": 30.084,
+        "poster_path": "/4YrVrPfMEqtFsLmN4HdzERjbveo.jpg",
+        "release_date": "2019-07-12",
+        "title": "Lying and Stealing",
+        "video": false,
+        "vote_average": 5.849,
+        "vote_count": 345
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vzAOHT5z3J6xL5UebQPEnjqLpxD.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 209247,
+        "original_language": "en",
+        "original_title": "The Art of the Steal",
+        "overview": "Crunch Calhoun, a third-rate motorcycle daredevil and part-time art thief, teams up with his snaky brother to steal one of the most valuable books in the world. But it's not just about the book for Crunch — he's keen to rewrite some chapters of his own past as well.",
+        "popularity": 30.081,
+        "poster_path": "/4R6ojBfyO8fj3WszLE9rog5qR4W.jpg",
+        "release_date": "2013-09-20",
+        "title": "The Art of the Steal",
+        "video": false,
+        "vote_average": 6.159,
+        "vote_count": 541
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ahiyCLIyFQ57xNuDQaxqQQ48X9u.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            80
+        ],
+        "id": 25673,
+        "original_language": "en",
+        "original_title": "A Place in the Sun",
+        "overview": "A young social climber wins the heart of a beautiful heiress but his former girlfriend's pregnancy stands in the way of his ambition.",
+        "popularity": 30.06,
+        "poster_path": "/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg",
+        "release_date": "1951-06-12",
+        "title": "A Place in the Sun",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 373
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pEZ2w4DGCJD4DoK7ifQZLUDT7oK.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 23397,
+        "original_language": "en",
+        "original_title": "Straight Time",
+        "overview": "After being released on parole, a burglar attempts to go straight, get a regular job, and just go by the rules. He soon finds himself back in jail at the hands of a power-hungry parole officer.",
+        "popularity": 30.056,
+        "poster_path": "/jFQ5RFiv5xTasWkQzZ7SWWudTCe.jpg",
+        "release_date": "1978-03-18",
+        "title": "Straight Time",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 169
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ezqMGAZNg1y2b3TPU9jWKUL8rKM.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 12395,
+        "original_language": "en",
+        "original_title": "Thunderheart",
+        "overview": "An FBI man with Sioux background is sent to a reservation to help with a murder investigation, where he has to come to terms with his heritage.",
+        "popularity": 30.053,
+        "poster_path": "/rKHnBNTQxEpaprx2oDYHvO4lOJz.jpg",
+        "release_date": "1992-04-03",
+        "title": "Thunderheart",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 260
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eerEil7EcnXbtbcwf3lUJpg7O3P.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28,
+            18
+        ],
+        "id": 9546,
+        "original_language": "en",
+        "original_title": "Ricochet",
+        "overview": "An attorney is terrorized by the criminal he put away years ago when he was a cop.",
+        "popularity": 30.047,
+        "poster_path": "/5isHYEcUY0nE90uMhkGrs1nnal.jpg",
+        "release_date": "1991-10-04",
+        "title": "Ricochet",
+        "video": false,
+        "vote_average": 6.089,
+        "vote_count": 302
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k457q5N1coXM6zfPAkNxsZu4KFD.jpg",
+        "genre_ids": [
+            16,
+            28,
+            80,
+            18
+        ],
+        "id": 456611,
+        "original_language": "ja",
+        "original_title": "LUPIN THE IIIRD 血煙の石川五ェ門",
+        "overview": "A yakuza boss hires Goemon Ishikawa, a modern day samurai, to protect him aboard his cruise ship casino. Everything goes sideways when the famous thief, Lupin the Third, tries to rob the vessel. Lupin's being hunted by a powerful and mysterious man: the so called “Ghost of Bermuda.” With Goemon's employer dead in the ensuing chaos, his honor is at stake, and the only way to preserve it is with blood. But this opponent is like no other, and to make things right, Goemon may need to sharpen not only his sword, but himself as well!",
+        "popularity": 30.046,
+        "poster_path": "/AeF2oitbvWfsuyz2FUs9Ohlqx6N.jpg",
+        "release_date": "2017-02-04",
+        "title": "Lupin the Third: Goemon's Blood Spray",
+        "video": false,
+        "vote_average": 7.858,
+        "vote_count": 151
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kT8VRai0b8WaEx6WLpE8RvC0bBe.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 37495,
+        "original_language": "en",
+        "original_title": "Four Lions",
+        "overview": "Four Lions tells the story of a group of British jihadists who push their abstract dreams of glory to the breaking point. As the wheels fly off, and their competing ideologies clash, what emerges is an emotionally engaging (and entirely plausible) farce.",
+        "popularity": 29.986,
+        "poster_path": "/x4JzaRPXBs9wiHCe3e3ymXWuwfd.jpg",
+        "release_date": "2010-05-07",
+        "title": "Four Lions",
+        "video": false,
+        "vote_average": 6.953,
+        "vote_count": 1098
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6x7yvYQjVvqGHf9fkLUUlHAFo9R.jpg",
+        "genre_ids": [
+            53,
+            28,
+            35,
+            80,
+            18
+        ],
+        "id": 11595,
+        "original_language": "en",
+        "original_title": "Another 48 Hrs.",
+        "overview": "For the past four years, San Francisco cop Jack Cates has been after an unidentified drug kingpin who calls himself the Ice Man. Jack finds a picture that proves that the Ice Man has put a price on the head of Reggie Hammond, who is scheduled to be released from prison on the next day.",
+        "popularity": 29.979,
+        "poster_path": "/ixeygHHDsuzsg67H1IPTc3Qp8cR.jpg",
+        "release_date": "1990-06-08",
+        "title": "Another 48 Hrs.",
+        "video": false,
+        "vote_average": 5.973,
+        "vote_count": 840
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wk58aoyWpMTVkKkdjw889XfWGdL.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 646593,
+        "original_language": "en",
+        "original_title": "Wander",
+        "overview": "After getting hired to probe a suspicious death in the small town of Wander, a mentally unstable private investigator becomes convinced the case is linked to the same 'conspiracy cover up' that caused the death of his daughter.",
+        "popularity": 29.978,
+        "poster_path": "/2AwPvNHphpZBJDqjZKVuMAbvS0v.jpg",
+        "release_date": "2020-12-04",
+        "title": "Wander",
+        "video": false,
+        "vote_average": 5.276,
+        "vote_count": 279
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fiRs0tMsgYoOg8EVOvzjTFghfTN.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 20714,
+        "original_language": "ru",
+        "original_title": "12",
+        "overview": "A loose remake of “12 Angry Men”, “12” is set in contemporary Moscow where 12 very different men must unanimously decide the fate of a young Chechen accused of murdering his step-father, a Russian army officer. Consigned to a makeshift jury room in a school gymnasium, one by one each man takes center stage to confront, connect, and confess while the accused awaits a verdict and revisits his heartbreaking journey through war in flashbacks.",
+        "popularity": 29.96,
+        "poster_path": "/7bl0aH8u7oBcd4QK9Fml01IN8KU.jpg",
+        "release_date": "2007-06-06",
+        "title": "12",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 355
+    }
+]

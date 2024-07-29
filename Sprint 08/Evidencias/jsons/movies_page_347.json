@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/exWtR3HcMVaViBPaFVfpw3mtL9E.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            10770
+        ],
+        "id": 1169368,
+        "original_language": "en",
+        "original_title": "Safehouse",
+        "overview": "After Carla’s brother is murdered, she goes on the run and becomes trapped in a cat-and-mouse game with the CIA, the government, and the cartel.",
+        "popularity": 9.307,
+        "poster_path": "/kZiBt1iw53LhQ2v2TCiGp0WHqQD.jpg",
+        "release_date": "2023-09-28",
+        "title": "Safehouse",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g5KHHtOd2jSFh7j64C7S05hrvCH.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 266425,
+        "original_language": "en",
+        "original_title": "Sand Castles",
+        "overview": "In rural Indiana, Noah and his impoverished family wrestle with the mysterious return of his now mute sister, Lauren, who was kidnapped and held captive for over a decade.",
+        "popularity": 9.307,
+        "poster_path": "/pe2vpFDaFCpew23DFuTg7eOAVSk.jpg",
+        "release_date": "2016-02-16",
+        "title": "Sand Castles",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uTxl8684USWoeWvbCTYH9ZlHDVw.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            18,
+            53
+        ],
+        "id": 1083792,
+        "original_language": "zh",
+        "original_title": "鹦鹉杀",
+        "overview": "Following a woman’s search for truth after being cheated in a romance scam.",
+        "popularity": 9.305,
+        "poster_path": "/3Gzi2aqgnSYIwasdIKoKfPCONM1.jpg",
+        "release_date": "2023-09-15",
+        "title": "Tainted Love",
+        "video": false,
+        "vote_average": 5.875,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2lUwdbnaPEFjcbyYOuZ1QEGDt9t.jpg",
+        "genre_ids": [
+            80,
+            53,
+            35
+        ],
+        "id": 333252,
+        "original_language": "fr",
+        "original_title": "Le Monocle noir",
+        "overview": "The Marquis de Villemaur reunite strange visitors in his Castle, to meet a survivor of the Third Reich. There is an Italian fascist, Heinrich; a German, Matthias; a Russian; and Dromard, a blind French war hero with a black monocle. - from IMDB",
+        "popularity": 9.303,
+        "poster_path": "/udVSYzSvH6O3LLFhFWCgmnY0syr.jpg",
+        "release_date": "1961-08-29",
+        "title": "The Black Monocle",
+        "video": false,
+        "vote_average": 5.925,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n8zyMFJWmG54KaLgLnKrsmVP4jW.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 265351,
+        "original_language": "tr",
+        "original_title": "İtirazım Var",
+        "overview": "Selman is a former boxer who once was interested in anthropology, an extraordinary imam who now works in a mosque. One day, while praying in the mosque, gunshots are echoed. One of the people inside collapses and dies. The police come to the scene and collect the first evidence and start the investigation process. He takes action after this event and decides to resolve the case through some people and circumstances he suspects. Every clue leads to an unexpected point and the events become increasingly mysterious.",
+        "popularity": 9.303,
+        "poster_path": "/9wHzaqJfKKUTfVFws6qIndBpS47.jpg",
+        "release_date": "2014-04-18",
+        "title": "Let's Sin",
+        "video": false,
+        "vote_average": 7.152,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AwxZYRt2dlCM8nHy1roufBBPOZe.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 91475,
+        "original_language": "en",
+        "original_title": "Mean Johnny Barrows",
+        "overview": "A Vietnam veteran gets caught in a mob war with a couple of double-crossers.",
+        "popularity": 9.303,
+        "poster_path": "/fFg0bm8UOhgkk7LZJKeH73KXmVG.jpg",
+        "release_date": "1975-11-27",
+        "title": "Mean Johnny Barrows",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 484523,
+        "original_language": "cn",
+        "original_title": "地下賭王",
+        "overview": "Chen Chun (Max Mok) and San (Roy Cheung) are two low-level mainland gangsters who open their own gambling outfit. When Chen Chun winds up killing the owner of a rival parlor, he flees to Hong Kong where he soon falls in with a heroin-addicted hooker named Fang (Lee Suet Man). They inevitably fall in love, but soon their bliss is shattered with the news that Chen's gambling venture has been taken over by a notorious gangster called Bolo Guy (Jimmy Lung Fong) and his mainland girlfriend Melia (Jacqueline Ng) who has been killed. Chen goes back over the border looking to set things right.",
+        "popularity": 9.3,
+        "poster_path": "/611gNsNyo9ZbvVdXOdBRg0DVzxJ.jpg",
+        "release_date": "1994-11-03",
+        "title": "Gambling Baron",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r4qqjIz5ptMVUCuEpjba0HlXrS1.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 493594,
+        "original_language": "sv",
+        "original_title": "Beck 35 - Ditt eget blod",
+        "overview": "A man is beaten to death in the Middle East. In Stockholm, a young woman disappears on her way home from work. These two events will prove to be related. Since Martin Beck has quit, Steinar Hovland leads the search for the missing girl. But Martin is drawn into the case when he decides to help the national Security Police investigate a suspected terrorist. They soon realize that they are in a race against time to stop a catastrophe.",
+        "popularity": 9.299,
+        "poster_path": "/kCvr5ydO1TzIVUgRFOfHkHdcQvW.jpg",
+        "release_date": "2018-01-01",
+        "title": "Beck 35 - Your Own Blood",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b2wbA07B4HeHC89Lb8P1sSS5D12.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 388224,
+        "original_language": "en",
+        "original_title": "Sabotage Squad",
+        "overview": "A police lieutenant and a patriotic professional gambler, rivals in life and love, combine efforts to corner a gang of Nazi saboteurs operating out of a barber shop, in which their mutual girlfriend works, and unmask its secret leader.",
+        "popularity": 9.299,
+        "poster_path": "/jLZ8cUAfNEWMmcUzcNOqagOD9BF.jpg",
+        "release_date": "1942-08-27",
+        "title": "Sabotage Squad",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nTvdC9YGE7CMgsgoj5JCQayHeIW.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 114638,
+        "original_language": "en",
+        "original_title": "True Confession",
+        "overview": "A writer takes a job as a secretary because her scrupulous husband isn't bringing in the dough as an attorney. When her new employer is murdered, she can't seem to make up her mind as to whether she \"dunnit\" or not.",
+        "popularity": 9.298,
+        "poster_path": "/t80JoyYUBJwNJxT3pgGfvTNyOwq.jpg",
+        "release_date": "1937-12-24",
+        "title": "True Confession",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1SYWn99HC0XjRIT4h56879wEX3O.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 40107,
+        "original_language": "cn",
+        "original_title": "虎猛威龍",
+        "overview": "A group of terrorists murder the captain of a cruise ship and take everyone hostage. Their plan is to steal the uranium being stored in the ship's safe. It's up to a security officer and a pickpocketing cocktail waitress to stop them.",
+        "popularity": 9.296,
+        "poster_path": "/bAtP57ZJR3KN4AwFJreShMaarCm.jpg",
+        "release_date": "1995-05-18",
+        "title": "The Red Wolf",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h9JnKEVGxoC73WtA89vOIPyq3eF.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 828407,
+        "original_language": "ja",
+        "original_title": "ミッドナイト・ジャーナル 消えた誘拐犯を追え",
+        "overview": "",
+        "popularity": 9.295,
+        "poster_path": "/iYwunTuFoWfnYDpMymqbotxX03M.jpg",
+        "release_date": "2018-03-30",
+        "title": "ミッドナイト・ジャーナル 消えた誘拐犯を追え",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r0tdp7JyOBYfDnY7NJDm1gwboei.jpg",
+        "genre_ids": [
+            80,
+            28,
+            12
+        ],
+        "id": 164304,
+        "original_language": "en",
+        "original_title": "Corruption",
+        "overview": "A young lawyer is elected mayor of the city and promises to rid it of the corruption it's famous for. The problem is that most of the corruption he's vowed to eliminate is caused by the crooked political machine that helped elect him.",
+        "popularity": 9.294,
+        "poster_path": "/lF7wV0wG6l7TwBXw1ZghfsB9izU.jpg",
+        "release_date": "1933-06-18",
+        "title": "Corruption",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mH2HMym617G9qT8nR4YarzO3ol8.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 161322,
+        "original_language": "en",
+        "original_title": "Angel 4: Undercover",
+        "overview": "Former prostitute Molly Stewart works as a police photographer. When an old friend, a groupie in pursuit of the lead singer of a rock band, is found murdered with a guitar string, she goes undercover as Angel to find the killer.",
+        "popularity": 9.294,
+        "poster_path": "/sgpkwI0CWFIlEas4gMxQFLxvmtI.jpg",
+        "release_date": "1994-07-26",
+        "title": "Angel 4: Undercover",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hwk33mS9gdl1GIoRk4cvZVoDuIu.jpg",
+        "genre_ids": [
+            53,
+            10770,
+            80,
+            18
+        ],
+        "id": 75553,
+        "original_language": "en",
+        "original_title": "83 Hours 'Til Dawn",
+        "overview": "A wealthy man's daughter is kidnapped and placed in a box with air for only 83 hours.",
+        "popularity": 9.294,
+        "poster_path": "/aGDYQ9n0l8EV0Yv2h1AdVoZ1kaH.jpg",
+        "release_date": "1990-11-04",
+        "title": "83 Hours 'Til Dawn",
+        "video": false,
+        "vote_average": 6.722,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xWAIBA6ir13qxYALbd4BOI6joU8.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 44895,
+        "original_language": "en",
+        "original_title": "Poor White Trash",
+        "overview": "Mike and Lenny are two buddies who dream of getting out of the trailer park. Out of desperation they resort to burglary as a means of financing Mike's college education. Their dream is jeopardized one summer day when their ploy to shoplift Near Beer begins a crime spree and a series of mishaps during which they are threatened with jail.",
+        "popularity": 9.293,
+        "poster_path": "/7Z7INNk3XqkjmVZGN7JgnyhAXJ9.jpg",
+        "release_date": "2000-12-01",
+        "title": "Poor White Trash",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            80,
+            18,
+            35,
+            28
+        ],
+        "id": 711609,
+        "original_language": "en",
+        "original_title": "Nightside",
+        "overview": "Danny Dandoy is a good-humored, streetwise cop working the dusk-to-dawn shift in Los Angeles with his somewhat naive new partner, Macey, in this proposed pilot for a new TV series.",
+        "popularity": 9.292,
+        "poster_path": "/tUcuNKOW68PYjtl4Y3qpD9kCAXy.jpg",
+        "release_date": "1980-06-08",
+        "title": "Nightside",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mXGQoKrkUFiOJsfrZMNoZG7xKFU.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 215015,
+        "original_language": "ml",
+        "original_title": "ആഗസ്റ്റ്‌ 15",
+        "overview": "The film is a sequel to the 1988 film August 1, which was directed by Sibi Malayil, and written by S. N. Swamy.  Following from August 1, Mammootty plays the character of the Crime Branch officer Perumal who investigates into an attempt of assassination on the chief minister of Kerala on the 15th of August, the Independence Day of India.",
+        "popularity": 9.292,
+        "poster_path": "/o44qg3SaA3avuaLjX4YKBzh3OnU.jpg",
+        "release_date": "2011-03-24",
+        "title": "August 15",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            80
+        ],
+        "id": 68537,
+        "original_language": "ja",
+        "original_title": "こちら葛飾区亀有公園前派出所 THE MOVIE",
+        "overview": "Officer Ryotsu is ordered to team up with FBI agent Lisa Hoshino to find a terrorist who is currently in Tokyo. For an unknown reason, only buildings from the Shinatora corporation seem to be targeted by the mysterious Benten.",
+        "popularity": 9.292,
+        "poster_path": "/iRdOWhVjqaTpbWdE7i3CHNmXCM5.jpg",
+        "release_date": "1999-12-23",
+        "title": "KochiKame: The Movie",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ykcC5PtCSQ1c1YTyh7SLr9L06Xd.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 499823,
+        "original_language": "ja",
+        "original_title": "唐獅子警察",
+        "overview": "With a Kansai syndicate vying for Tokyo, one man reunites with his roguish half-brother in the midst of negotiations, when all hell breaks loose.",
+        "popularity": 9.29,
+        "poster_path": "/xqv26igdUMfJhhcIKjUL4ZVsg9w.jpg",
+        "release_date": "1974-06-01",
+        "title": "The Maizuru Showdown between The Yakuza Brothers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

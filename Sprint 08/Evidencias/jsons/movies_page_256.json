@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/3rDwifNYQwtyvAAMN88mzcRjNOm.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 21040,
+        "original_language": "sv",
+        "original_title": "Livvakterna",
+        "overview": "After causing a commotion with his last assignment, Falk has been given a desk job, which hardly agrees with his personality, and he ends up accepting an offer from an old friend to buy into a private investigation agency. Another friend of Falk's, Sven, purchased a business in Estonia, and when local gangsters attempted to pressure him into paying protection money, Sven retained the services of Nikolaus Lehmann, a burly private eye, to throw them off his trail. However, Lehmann does his job all too well, murdering the racketeers, and then threatening Sven and his family. With no where else to turn, Sven asks Falk to help him deal with the crazed Lehmann; Falk agrees, but soon realizes he's dealing with a more dangerous man than he imagined when Lehmann kidnaps Falk's wife Jeanette, and then releases her with a time bomb locked around her neck, demanding that Falk hand over ownership of his detective agency to Lehmann.",
+        "popularity": 11.956,
+        "poster_path": "/qnLVCqgSg9tEpB3QSmtpyMiwOVC.jpg",
+        "release_date": "2001-08-17",
+        "title": "Executive Protection",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mUl0CV4MBqt0QeojLKMr5cEczes.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 294368,
+        "original_language": "en",
+        "original_title": "An Open Secret",
+        "overview": "An investigation into accusations of teenagers being sexually abused within the film industry.",
+        "popularity": 11.953,
+        "poster_path": "/qYaoQIfOpF6aRLfAtioPQhk4iXT.jpg",
+        "release_date": "2014-11-14",
+        "title": "An Open Secret",
+        "video": false,
+        "vote_average": 6.933,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1paN9XayTNig1lVkVEcPL7luKhy.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 35689,
+        "original_language": "en",
+        "original_title": "Don McKay",
+        "overview": "Everything appears off-kilter when a man returns to his hometown after 25 years to visit his former lover.",
+        "popularity": 11.952,
+        "poster_path": "/pkziSZ6vmwFnhybgBAM96Q6xKMr.jpg",
+        "release_date": "2009-04-24",
+        "title": "Don McKay",
+        "video": false,
+        "vote_average": 5.064,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kijcZNkZ4SSlTs0FZlMqkLcYILQ.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 261293,
+        "original_language": "cn",
+        "original_title": "我是一個賊",
+        "overview": "When an honest company employee is falsely accused of being an accomplice to a robbery, and his wife dies through police incompetence, he seeks revenge by launching a one-man crime spree, starting with the abduction of his former boss's spoiled daughter. But she soon begins to understand his motives, and becomes his lover and willing accomplice.",
+        "popularity": 11.951,
+        "poster_path": "/hdSnWvFZt1aKyizc5ojBJ16IEhH.jpg",
+        "release_date": "1995-09-14",
+        "title": "Legendary Couple",
+        "video": false,
+        "vote_average": 6.333,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4NpeO8Nq2whwZXs1tSb3m4LWSXf.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "id": 29589,
+        "original_language": "en",
+        "original_title": "Green for Danger",
+        "overview": "In the midst of Nazi air raids, a postman dies on the operating table at a rural hospital. But was the death accidental?",
+        "popularity": 11.949,
+        "poster_path": "/CEVEZ7FmfEgD99IKQbNLpeCCmB.jpg",
+        "release_date": "1946-12-07",
+        "title": "Green for Danger",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 82
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s1pD2ap6cqTscy1EQ1xrIsgqlA7.jpg",
+        "genre_ids": [
+            10749,
+            80
+        ],
+        "id": 294118,
+        "original_language": "ko",
+        "original_title": "약속",
+        "overview": "When she met him at the first time, he was a wounded person. However, she saw him through his clear eyes hidden in the bandage. She, Chae Hi-Ju, is a doctor and he, Kong Sang-Du, is a boss of a bandit. The pair seemed not to love each other in terms of their position, but they were closed to each other giving up their own world. However, he was not a common man...",
+        "popularity": 11.948,
+        "poster_path": "/v7KZlNAvELz2gfdvwPJOmqvYjoT.jpg",
+        "release_date": "1998-11-14",
+        "title": "A Promise",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3brv5EpHePVvqt89pL27ar2GMZR.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 240607,
+        "original_language": "it",
+        "original_title": "Afyon oppio",
+        "overview": "A small time hood smuggles drugs from Turkey to Italy in an effort to make it into the big time, but along the way everyone has to have their cut.",
+        "popularity": 11.948,
+        "poster_path": "/6iesddLTvBE7KbogIu6xhlCNcPE.jpg",
+        "release_date": "1972-12-21",
+        "title": "The Sicilian Connection",
+        "video": false,
+        "vote_average": 5.95,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k37cLLE0xPVWbfBjyF33JKqDQo8.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 37822,
+        "original_language": "hi",
+        "original_title": "बदमाश कंपनी",
+        "overview": "Four young friends decide to work together when one of them comes up with an innovative and lucrative business plan. But their lives begin to deteriorate when their personal issues surface.",
+        "popularity": 11.947,
+        "poster_path": "/bz1nDlkhUN1XB9rERhN1jYRe4ka.jpg",
+        "release_date": "2010-05-07",
+        "title": "Badmaash Company",
+        "video": false,
+        "vote_average": 5.802,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rc9cOb61uD8PiruWCMwegC0V4tq.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            9648,
+            53
+        ],
+        "id": 699046,
+        "original_language": "en",
+        "original_title": "A Perfect Plan",
+        "overview": "Four notorious thieves wake up in a fortified warehouse and are forced by a cunning master thief to plan and commit an extraordinary diamond heist.",
+        "popularity": 11.944,
+        "poster_path": "/wah4b3hDb3ueVNuwNxdplUE8ppQ.jpg",
+        "release_date": "2020-05-01",
+        "title": "A Perfect Plan",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bbYYjGbBDV8tcUjHsYPcKl5R2rd.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 189999,
+        "original_language": "ja",
+        "original_title": "昭和残侠伝",
+        "overview": "After World War II, their town was a pile of rubble. Gennosuke, the second generation boss of the Kamizu Group was upholding yakuza chivalry by keeping black-market and illegal items out of their open-air market. Taking advantage of the mess, Iwasa and his gang take hold of goods from the US military, black-market and controlled items in order to become the most powerful group in Enko area.",
+        "popularity": 11.937,
+        "poster_path": "/he8vP6BjE74YxybsoBO8bmpWe8f.jpg",
+        "release_date": "1965-10-01",
+        "title": "Brutal Tales of Chivalry",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1RJQiwro4J8BO8kaNVHdAJWdsoY.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28,
+            10749
+        ],
+        "id": 49203,
+        "original_language": "ko",
+        "original_title": "가문의 위기",
+        "overview": "The oldest son of the White Tiger Gang is pressured by his family to settle down and get married; but when he finds the perfect girl, she turns out to be a state prosecutor for crimes of violence, specifically gangster related. The district attorney is a look-a-like of the gangster's former fiancee who died getting hit by a truck. Their feelings develop for each other but her co-worker turns out to like her as well. She does not like him so the latter turns to the darker side of the law, by conspiring with the rival Axe Gang. Unfortunately for him, the mafia son has more that a few tricks up his sleeve and gets support from his dim-witted brothers and henchman.",
+        "popularity": 11.935,
+        "poster_path": "/o1utAWEmCuwtnnHXYpXZdQ2kCcq.jpg",
+        "release_date": "2005-09-07",
+        "title": "Marrying the Mafia 2",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lRb0rSw7gJzn0PAZYhLJ4jYpXg4.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 24667,
+        "original_language": "no",
+        "original_title": "Olsen-banden",
+        "overview": "Egon Olsen is the leader of the Olsen Gang. While he was in the slammer, he planned how he would steal the fantastic golden figure Keizeroppzatsen.",
+        "popularity": 11.933,
+        "poster_path": "/eB52gzj3qEk7VnHJI5vm9PD24W5.jpg",
+        "release_date": "1969-08-11",
+        "title": "The Olsen Gang",
+        "video": false,
+        "vote_average": 7.526,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wGhmpSHOqWzJsKjhK6lxvX6GdMn.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 129302,
+        "original_language": "en",
+        "original_title": "The Annihilators",
+        "overview": "Upon his return from Vietnam, an ex-soldier finds his neighborhood has deteriorated badly, and is being terrorized by a vicious street gang. He calls some of his GI buddies, and together they hatch a plan to get rid of the gang.",
+        "popularity": 11.931,
+        "poster_path": "/jGWXT7z5m2oA6SOLZ7GPkgo4YYa.jpg",
+        "release_date": "1985-01-01",
+        "title": "The Annihilators",
+        "video": false,
+        "vote_average": 5.159,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yqQpl4vD4LqqoClWsbgG14g98US.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10752
+        ],
+        "id": 124963,
+        "original_language": "en",
+        "original_title": "Monsignor",
+        "overview": "The vows of an ambitious young American priest are tested during World War II. Not only does Father John Flaherty get involved with the black market to raise money for the Vatican, he also falls in love with a young French nun.",
+        "popularity": 11.93,
+        "poster_path": "/pIXBDXxLK7Kl4Sb8mRyiUfIywzx.jpg",
+        "release_date": "1982-10-22",
+        "title": "Monsignor",
+        "video": false,
+        "vote_average": 4.286,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qCmqcMgeDKEB8g4D2k8PDbxkEjG.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 142096,
+        "original_language": "fr",
+        "original_title": "Mains armées",
+        "overview": "Lucas and his team are after a gang of Serbian criminals using NATO-issued weapons. As the investigation leads him to Paris, Lucas attempts to reconnect with his estranged daughter, a young narc officer.",
+        "popularity": 11.928,
+        "poster_path": "/ooIOIt5XkAx5pZ3iuE9KeYL4nB6.jpg",
+        "release_date": "2012-07-11",
+        "title": "Armed Hands",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e9CCHkt0Kz8YJrHf3JU3PHaq67P.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 34282,
+        "original_language": "en",
+        "original_title": "Whistle Down the Wind",
+        "overview": "When an injured wife-murderer takes refuge on a remote Lancashire farm, the farmer’s three children mistakenly believe him to be the Second Coming of Christ.",
+        "popularity": 11.927,
+        "poster_path": "/2Q8wpOJCmhE9B03HoifIcvrPzXz.jpg",
+        "release_date": "1961-07-25",
+        "title": "Whistle Down the Wind",
+        "video": false,
+        "vote_average": 7.073,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rDmo4WYvvSbF6vy4DYBuXfRdXz4.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 1066383,
+        "original_language": "en",
+        "original_title": "AMP House Massacre",
+        "overview": "A group of social media influencers sharing a mansion in the Hollywood Hills find themselves caught in a life and death game of survival as a killer reveals their deepest secrets before killing them off one by one.",
+        "popularity": 11.926,
+        "poster_path": "/fItbeJ4usriWIYMugnxjUywlpBG.jpg",
+        "release_date": "2024-11-20",
+        "title": "AMP House Massacre",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ep9tXE2WSpapyAB07CGHBfWvByi.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            9648
+        ],
+        "id": 493,
+        "original_language": "en",
+        "original_title": "Shaft's Big Score!",
+        "overview": "John Shaft is back as the lady-loved black detective cop on the search for the murderer of a client.",
+        "popularity": 11.922,
+        "poster_path": "/83fsS2lnIOGardL1SOVVYYxp0at.jpg",
+        "release_date": "1972-06-08",
+        "title": "Shaft's Big Score!",
+        "video": false,
+        "vote_average": 5.96,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lB6gUTrssAP78BjZF4g5IjZXW4J.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 40990,
+        "original_language": "en",
+        "original_title": "The Keeper",
+        "overview": "When an apparently exemplary cop abducts and secretly imprisons a beautiful dancer, a deadly battle of wills between captor and captive ensues.",
+        "popularity": 11.92,
+        "poster_path": "/jlI5rlh0qHllple4rslbKg3FoKz.jpg",
+        "release_date": "2004-05-14",
+        "title": "The Keeper",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4vRFZeIcstzgRKLdhwxpbjD2ZHC.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 28663,
+        "original_language": "en",
+        "original_title": "Woman on the Run",
+        "overview": "Frank Johnson, a sole witness to a gangland murder, goes into hiding and is trailed by Police Inspector Ferris, on the theory that Frank is trying to escape from possible retaliation. Frank's wife, Eleanor, suspects he is actually running away from their unsuccessful marriage. Aided by a newspaperman, Danny Leggett, Eleanor sets out to locate her husband. The killer is also looking for him, and keeps close tabs on Eleanor.",
+        "popularity": 11.92,
+        "poster_path": "/6wp0FpyQvYVphtUSvANiCarawop.jpg",
+        "release_date": "1950-11-10",
+        "title": "Woman on the Run",
+        "video": false,
+        "vote_average": 6.793,
+        "vote_count": 92
+    }
+]

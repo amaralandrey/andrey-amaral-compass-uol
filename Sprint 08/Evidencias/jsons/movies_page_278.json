@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/tZ3yWC0H3HUtIBkxeqyQhaw9EOz.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 1115239,
+        "original_language": "ta",
+        "original_title": "போர் தொழில்",
+        "overview": "Loganathan, a senior cop is asked to mentor Prakash, an academically bright but faint-hearted and needs to overcome his fears in order to succeed.  The unlikely duo, team up to investigate a series of murder cases, and realize all of them are interlinked and that a psychopath serial killer is on the run. Can they get hold of him before it's too late?",
+        "popularity": 11.125,
+        "poster_path": "/lZ2BbjGBDRW5Q5Q9jgEknuiEQ0f.jpg",
+        "release_date": "2023-06-09",
+        "title": "Por Thozhil",
+        "video": false,
+        "vote_average": 7.69,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fsD5yYICjnXwG8TKesuJHzkjMAh.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 160242,
+        "original_language": "hi",
+        "original_title": "राम जाने",
+        "overview": "A street hustler, who has spent several years in and out of prison, decides to reform his life, as he teaches street kids to stay away from crime, but has trouble maintaining these ideals in his own life.",
+        "popularity": 11.123,
+        "poster_path": "/3xBLu6PZK6XeyUdRGlHOkONALlr.jpg",
+        "release_date": "1995-11-29",
+        "title": "Ram Jaane",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6VclCsTqwxa12gAUnA3K2eF2U0e.jpg",
+        "genre_ids": [
+            80,
+            28,
+            12,
+            53
+        ],
+        "id": 857598,
+        "original_language": "te",
+        "original_title": "పుష్పా 2 - The Rule",
+        "overview": "",
+        "popularity": 11.121,
+        "poster_path": "/1T21FblunT0y8fz7YaW8JMYgUKm.jpg",
+        "release_date": "2024-12-06",
+        "title": "Pushpa 2 - The Rule",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l1Ok75V4Cu8qo6VMzRyi2JGgUiV.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            10770,
+            80
+        ],
+        "id": 360627,
+        "original_language": "en",
+        "original_title": "Ransom for a Dead Man",
+        "overview": "A brilliant attorney gets rid of her boring husband by faking his kidnapping and keeping the ransom. The FBI may be fooled, but not Columbo.",
+        "popularity": 11.121,
+        "poster_path": "/wxiOUKGqkfH9CsTOU2FfEa1qSkQ.jpg",
+        "release_date": "1972-10-09",
+        "title": "Ransom for a Dead Man",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tjsurGOYz7YJPxQvMiqHFEkmUAp.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53,
+            80
+        ],
+        "id": 888683,
+        "original_language": "th",
+        "original_title": "4 Kings",
+        "overview": "Inspired by the real story of the conflict between the student from four different technician colleges in the 90s, where violence can be used to build friendships and enemies at the same time.",
+        "popularity": 11.12,
+        "poster_path": "/cihmgtfqzqRxttOqqFLklr1yx5j.jpg",
+        "release_date": "2021-12-09",
+        "title": "4 Kings",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/odSvWtn22HynOxFEwJuGlR9uUKj.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 69492,
+        "original_language": "en",
+        "original_title": "Borderline",
+        "overview": "Psychiatrist Dr. Lila Colleti is divorcing her husband and is devastated when he wins custody of their two little girls, whom he gets largely because Lila's job, being a psychiatrist for the criminally insane at the local prison, is a potentially dangerous one that forces her to keep long, erratic hours. When one of Lila's patients, Ed Baikman, is released into a half-way house, he decides under the delusional influence of his psychosis to help her out by murdering her ex-husband and his girlfriend, and then threatening to tell the cops they'd planned it together when she refuses to become romantically involved with him. Though Lila's lover, police detective Macy Kobacek, stands by her loyally, Baikman does such an ingenious job of implicating Lila in the crime that even Macy begins to have his doubts about Lila's innocence",
+        "popularity": 11.12,
+        "poster_path": "/jVe5Uf85ZToJxR5KLaMqH4Dsjpa.jpg",
+        "release_date": "2002-11-15",
+        "title": "Borderline",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s7E7qh8PmhQBaKQVVyH7dbAEETZ.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 1175343,
+        "original_language": "es",
+        "original_title": "Temporada de huracanes",
+        "overview": "When a group of teens finds a corpse floating in a canal, the brutal reality behind the perverse crime unravels a town's hidden secrets.",
+        "popularity": 11.117,
+        "poster_path": "/DyCTyS7NdbGCp6zWoAkVGM8p9j.jpg",
+        "release_date": "2023-11-01",
+        "title": "Hurricane Season",
+        "video": false,
+        "vote_average": 7.375,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/98YsPoIFsYcI1gO759tawz0LMph.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 27721,
+        "original_language": "tr",
+        "original_title": "Barda",
+        "overview": "A group of drug-influenced lumpen teenagers from the suburbs of the city descends into the center where they do not belong, where they are excluded. They adopted a brutal method to seize rights that were not granted to them. Unaware of what will happen to them, cheerful and well-to-do university students are helpless in the face of this gun-wielding mob that suddenly raids the bar where they are having fun.",
+        "popularity": 11.116,
+        "poster_path": "/2M0JLIHlVeoPSv9EflDTRAzvj4f.jpg",
+        "release_date": "2007-02-02",
+        "title": "At the Bar",
+        "video": false,
+        "vote_average": 6.304,
+        "vote_count": 74
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rCQV72xJ90ZmG8tiXeJiOJEBzm7.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 21265,
+        "original_language": "hi",
+        "original_title": "मक़बूल",
+        "overview": "The Scottish tragedy 'Macbeth' set in the contemporary underworld of India's commercial capital; two corrupt, fortune telling policemen take the roles of the weird sisters, and \"Duncan\" is Abbaji, the head of a crime family.",
+        "popularity": 11.114,
+        "poster_path": "/xcPtZ0SYQSAG5vPu49sUMnuQ18t.jpg",
+        "release_date": "2003-01-30",
+        "title": "Maqbool",
+        "video": false,
+        "vote_average": 7.019,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2iclFKkwr5yeOTlbpW6VmBWml00.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            27
+        ],
+        "id": 136898,
+        "original_language": "en",
+        "original_title": "The Playbirds",
+        "overview": "In order to unmask a pathological killer who is targeting the beautiful centrefolds of Playbirds magazine, a sexy policewoman Lucy Sheridan puts her life and reputation on the line by sleeping with millionaire publisher Harry Dougan. The Chief Superintendant and Police Commissioner are keeping a close eye on her, but time is running out fast.",
+        "popularity": 11.113,
+        "poster_path": "/1JarjxZfoXOFEoqrYd79bOaTtaW.jpg",
+        "release_date": "1978-07-06",
+        "title": "The Playbirds",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/910QrVXTP73VZ0hl1vtntheMCez.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 93181,
+        "original_language": "en",
+        "original_title": "Violent Playground",
+        "overview": "A Liverpool juvenile liaison officer struggles with a young and dangerous pyromaniac.",
+        "popularity": 11.108,
+        "poster_path": "/hvMTFWMYu06OCl6NLHtenx53aQf.jpg",
+        "release_date": "1958-01-14",
+        "title": "Violent Playground",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AbhiNyd1f3k2gXhPSMZ0ikThKit.jpg",
+        "genre_ids": [
+            53,
+            27,
+            80
+        ],
+        "id": 126243,
+        "original_language": "it",
+        "original_title": "La morte ha fatto l'uovo",
+        "overview": "A love triangle develops between three people who run a high tech chicken farm. It involves Anna (who owns the farm), her husband Marco (who kills prostitutes in his spare time) and Gabriella (the very beautiful secretary). Marco continues to kill as jealousy becomes more prevalent on the farm.",
+        "popularity": 11.107,
+        "poster_path": "/mTNQrflCUiyQSCFQegeVGeRPVi2.jpg",
+        "release_date": "1968-01-09",
+        "title": "Death Laid an Egg",
+        "video": false,
+        "vote_average": 5.734,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mYouGsltSp0So2iSoWzoPIs0WUt.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 328899,
+        "original_language": "en",
+        "original_title": "Dixieland",
+        "overview": "A young, recently-released and unpredictable ex-con with bad luck, and a sexy, listless girl-next-door with a troubled family, become trapped in a downward spiral of crime and obsessive love, as they try to ditch their dead-end town for a better life.",
+        "popularity": 11.106,
+        "poster_path": "/nClZcF8o8xT9ZuRaEa0QlJCbp7J.jpg",
+        "release_date": "2015-12-11",
+        "title": "Dixieland",
+        "video": false,
+        "vote_average": 4.974,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3aE6LRP5ig3TrROHl5zMEwJpN0A.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            80,
+            10770
+        ],
+        "id": 252230,
+        "original_language": "en",
+        "original_title": "Casualties of Love: The Long Island Lolita Story",
+        "overview": "Joey Buttafuoco's story, of how a sexy, possessive young girl destroyed his life by telling her friends the two are lovers, and then shooting his wife.",
+        "popularity": 11.106,
+        "poster_path": "/fMtjQMdl0XHz8lGy5qnR9pSvZEL.jpg",
+        "release_date": "1993-01-03",
+        "title": "Casualties of Love: The Long Island Lolita Story",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gdybqFlwH2Z9g7GTwhM24JKgbUQ.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 4338,
+        "original_language": "en",
+        "original_title": "I Woke Up Early the Day I Died",
+        "overview": "A mental patient escapes from the looney bin in drag, robs a bank, and goes on the lam!",
+        "popularity": 11.105,
+        "poster_path": "/bFwcwEXrkAzzy9n2vzQiwdArZ4M.jpg",
+        "release_date": "1998-09-13",
+        "title": "I Woke Up Early the Day I Died",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zDtoAya6AY8YYBcOMOjbNDwX3WX.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 551499,
+        "original_language": "es",
+        "original_title": "70 Binladens",
+        "overview": "Raquel is desperate: a series of unfortunate events have led to her daughter being taken and she needs a large amount of money to get her back, and fast. After a desperate plea to the bank, she manages to secure the loan she needs. The problem is that precisely at that moment, a peculiar couple of robbers enter the branch: the drug-addicted Jonan and his partner Lola, who is a deadly combination of smart and psychotic. But Raquel’s stakes are too high, and she knows she must think carefully to outsmart them, save herself and get her money.",
+        "popularity": 11.103,
+        "poster_path": "/4gcLReyZd83sPuEPvW6JJwEaaYt.jpg",
+        "release_date": "2019-03-08",
+        "title": "70 Big Ones",
+        "video": false,
+        "vote_average": 5.678,
+        "vote_count": 77
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lRBd0Fa0eRtOHZssIuNHehqM3V1.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 20362,
+        "original_language": "en",
+        "original_title": "Cry of the City",
+        "overview": "Petty crook and cop-killer Martin Rome, in bad shape from wounds in the hospital prison ward, still refuses to help slimy lawyer Niles clear his client by confessing to another crime. Police Lt. Candella must check Niles' allegation; a friend of the Rome family, he walks a tightrope between sentiment and cynicism. When Martin fears Candella will implicate his girlfriend Teena, he'll do anything to protect her. How many others will he drag down to disaster with him?",
+        "popularity": 11.103,
+        "poster_path": "/cm3VlM8xw0LPDiZsNBHrfEQLiEW.jpg",
+        "release_date": "1948-09-29",
+        "title": "Cry of the City",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xoUciFLRXkoiEA8ben5BFEA2JMS.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 431582,
+        "original_language": "hi",
+        "original_title": "Line of Descent",
+        "overview": "A classic crime narrative in the backdrop of Delhi merges a dysfunctional, mafia family at war with each other as an undercover officer fights his demons by assisting in their downfall.",
+        "popularity": 11.102,
+        "poster_path": "/dhUDMDeZAGMx1gW58fssyzptbnO.jpg",
+        "release_date": "2019-12-13",
+        "title": "Line of Descent",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gyHiN8D6d5N4oykRXfqpL0oRuo9.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 4791,
+        "original_language": "it",
+        "original_title": "I Guappi",
+        "overview": "Set in Naples at the end of the 19th century, I Guappi tells the story of a strange friendship between the powerful and charismatic Camorra boss, Don Gaetano (Fabio Testi), and one of the many scugnizzi who grew up on the streets, Nicola Bellizzi (Franco Nero). Nicola, thanks to Don Gaetano's protection, becomes first an honoured picciotto of the Camorra and then a lawyer. He tries to break away from his 'family', but falls back into a life of crime and violence.",
+        "popularity": 11.101,
+        "poster_path": "/3fkmnxHdl5wvnq6873qac4RvLJu.jpg",
+        "release_date": "1974-02-23",
+        "title": "Blood Brothers",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 313735,
+        "original_language": "cn",
+        "original_title": "賊公子",
+        "overview": "Yau, Yeung, and Wong are professionals who steal expensive cars, using technology so advanced that even the police cannot get any clues. A covert detective, Raymond, is assigned to investigate the case. He successfully wins the trust of Yau and also falls in love with his sister. Yau, Yeung and Wong have a conflict of interest, and as a result, their latest operation fails after police close in. During the raid, Raymond makes a terrible mistake...",
+        "popularity": 11.1,
+        "poster_path": "/7yRzwCUdk9i6ijngblHLIrXNuAK.jpg",
+        "release_date": "2000-01-20",
+        "title": "Super Car Criminals",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 5
+    }
+]

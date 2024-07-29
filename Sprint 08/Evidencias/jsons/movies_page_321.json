@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/6w101LGjadxjWjqVBvFFrFjyawo.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1142216,
+        "original_language": "es",
+        "original_title": "La Dama del Silencio: El caso Mataviejitas",
+        "overview": "Between 1998 and 2005, a wave of murders targeting elderly women hit Mexico City, triggering the hunt for — and capture — of a most unlikely suspect.",
+        "popularity": 9.909,
+        "poster_path": "/wB6ez9v9HzSLplIy6m00SPIkuH7.jpg",
+        "release_date": "2023-07-27",
+        "title": "The Lady of Silence: The Mataviejitas Murders",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zicVG7dd0hM5wYYKSqCGxXNuEyk.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            27
+        ],
+        "id": 1223050,
+        "original_language": "en",
+        "original_title": "Roadkill",
+        "overview": "Vengeance rides the open road when a young woman, traveling alone, encounters a renegade drifter and ends up in a fight for her life.",
+        "popularity": 9.906,
+        "poster_path": "/txDIiggyiFNbwa6TrZvBRfw6E54.jpg",
+        "release_date": "2024-01-05",
+        "title": "Roadkill",
+        "video": false,
+        "vote_average": 4.767,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            10770
+        ],
+        "id": 560654,
+        "original_language": "en",
+        "original_title": "Lookwell",
+        "overview": "The former star of a cancelled cop TV show solves crimes. The pilot was broadcast on NBC in July 1991 but was not picked up as a series despite being a \"personal favorite\" of NBC chairman Brandon Tartikoff.",
+        "popularity": 9.905,
+        "poster_path": "/qYNlOThECtPHxxKvrv38WvgEJlN.jpg",
+        "release_date": "1991-05-10",
+        "title": "Lookwell",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 510637,
+        "original_language": "en",
+        "original_title": "Cry Cry",
+        "overview": "Eunjung and Qri star as a pair of delinquent thieves who wind up in a huge mess when the bag they lifted from a club turns out to have been stuffed with drugs. A flashback sequence reveals that Qri originally was Jiyeon, but after a run-in with a couple of gangsters, they mauled her face and she ends up with plastic surgery leaving her looking like Qri, and unrecognizable to the man played by Cha Seung Won, whom she once loved.",
+        "popularity": 9.905,
+        "poster_path": "/6yW9kedWDMWhZ9IwQN9SnmuHgYI.jpg",
+        "release_date": "2011-11-08",
+        "title": "Cry Cry",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kNOJqlGJzE64D0igldBWrQgqNFQ.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 31960,
+        "original_language": "en",
+        "original_title": "Art Heist",
+        "overview": "An art expert assists an investigation into a stolen painting in Barcelona; as more paintings are being stolen, she learns she is being framed for the crimes. She must solve the crimes and clear her name with the assistance of her estranged New York cop husband.",
+        "popularity": 9.905,
+        "poster_path": "/nk6WrLpyCFfFIcWjHI70P8UqAho.jpg",
+        "release_date": "2004-01-01",
+        "title": "Art Heist",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tIX0YNixs2vn2ePmHbamrH6CFgi.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 255453,
+        "original_language": "ko",
+        "original_title": "창수",
+        "overview": "Changsu does not have any family, friends or lover living in prison as a substitute prisoner for the others. After 3 years in prison, he came back to his normal life with gambling and drinking. One day, Miyeon, appears to him, and everything changes. She enlightens his life for the first time. Changsu bets his everything to save this woman for the first, and for the last time in his life.",
+        "popularity": 9.904,
+        "poster_path": "/clChDeLICTbr3hLO1YF1KaPwKmo.jpg",
+        "release_date": "2013-11-28",
+        "title": "Tumbleweed",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/duo6SF2GpG9bz3ymoyInyRl5CLO.jpg",
+        "genre_ids": [
+            10770,
+            53,
+            80,
+            18
+        ],
+        "id": 969584,
+        "original_language": "en",
+        "original_title": "Bad Influence",
+        "overview": "A single mom is overjoyed when her daughter finally makes friends at her new high school. Soon, however, it becomes clear that this group of students follows their own moral code that’s strange, self-centered, and possibly dangerous.",
+        "popularity": 9.903,
+        "poster_path": "/cM1LwTThM1e32wFefYkWSzf6jpK.jpg",
+        "release_date": "2022-05-20",
+        "title": "Bad Influence",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pqJgrqW7QpLUKYAnAYr22zbJ5s5.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 383906,
+        "original_language": "it",
+        "original_title": "Donne armate",
+        "overview": "",
+        "popularity": 9.903,
+        "poster_path": "/zn3H5GtpidbwcRZDMZPvHFaVJ09.jpg",
+        "release_date": "1991-01-09",
+        "title": "Women in Arms",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uBBNmAMuLhAmkPomsoUiLJG5Lrr.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1175895,
+        "original_language": "ja",
+        "original_title": "鬼平外伝 最終章 四度目の女房",
+        "overview": "Inomatsu, a carpenter with a reputation as a skilled craftsman, has a wife named Oritsu. Oritsu is deeply in love with Inomatsu and believes that the purpose of her life is to devote herself to her husband day and night. However, Oritsu is Inomatsu's fourth wife. In fact, he is a robber and thief. As a carpenter, Inomatsu usually sneaked into merchants' houses and carried out robberies. For him, wives are just a tool to deceive the public...",
+        "popularity": 9.902,
+        "poster_path": "/fQKdRVjVtqreQdCMikdOioWvLzA.jpg",
+        "release_date": "2016-10-09",
+        "title": "Onihei side story: The Final Chapter - The Fourth Wife",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lv7FLZalKKVA7ECYIWLNB2KCqAB.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 150230,
+        "original_language": "en",
+        "original_title": "Kill 'em All",
+        "overview": "Captured international assassins are locked up inside a high-tech bunker known as the Killing Chamber. To break out of this concrete hell they must duel each other, fight deadly ninjas and battle against gangs of masked maniacs. And... if they survive this, they will have to confront Snakehead: the lethal, deranged top dog who will stop at nothing to kill 'em all!",
+        "popularity": 9.899,
+        "poster_path": "/bT0Zq14exMAn8OKrdqQUF0kPm8C.jpg",
+        "release_date": "2012-12-11",
+        "title": "Kill 'em All",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kNyILQ4iM7pihZtm5ctLihVdFIe.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 47623,
+        "original_language": "en",
+        "original_title": "I Wouldn't Be in Your Shoes",
+        "overview": "An innocent dancer is accused of murder after his shoe prints are found at the scene, but his wife follows the trail of clues to find the real perpetrator.",
+        "popularity": 9.899,
+        "poster_path": "/nxGZAyPUwfjy89CdR1I1cwYteRW.jpg",
+        "release_date": "1948-05-23",
+        "title": "I Wouldn't Be in Your Shoes",
+        "video": false,
+        "vote_average": 5.375,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qOg1Ep5SZgOWpsCG77I6TQOPT9K.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 32695,
+        "original_language": "es",
+        "original_title": "Sólo quiero caminar",
+        "overview": "Frantic to be free of Felix, her wealthy but drunken and violent drug-lord husband, Ana tricks her fresh-from-prison sister, Aurora, and two other ex-partners in crime into coming to her aid. Now that their crew is reassembled, the women begin planning a heist that will rid Ana of Felix and net them enough cash to be set for life.",
+        "popularity": 9.899,
+        "poster_path": "/s5XgSslUhaEhs8LPefLUlja3tob.jpg",
+        "release_date": "2008-10-31",
+        "title": "Walking Vengeance",
+        "video": false,
+        "vote_average": 5.29,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6tzyYR5a88KhHqebXKs0GRyXdwG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 27061,
+        "original_language": "fr",
+        "original_title": "Deux hommes dans Manhattan",
+        "overview": "Two French journalists become embroiled in a criminal plot in New York City involving a disappeared United Nations diplomat.",
+        "popularity": 9.899,
+        "poster_path": "/oiLXcwYmKIMDBtDw3vNRK1LzDy6.jpg",
+        "release_date": "1959-10-16",
+        "title": "Two Men in Manhattan",
+        "video": false,
+        "vote_average": 6.41,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 318214,
+        "original_language": "en",
+        "original_title": "The Waiter",
+        "overview": "A man travels through corporate corruption and his own sin to find his soul.",
+        "popularity": 9.898,
+        "poster_path": "/z4Rjgc8IJ2tm4RLb60dkjxBX6CS.jpg",
+        "release_date": "2010-03-14",
+        "title": "The Waiter",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hADrdkGx07F6x3ptGDlWvDXKhQX.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 26657,
+        "original_language": "en",
+        "original_title": "Nobody Lives Forever",
+        "overview": "A con artist falls for the rich widow he's trying to fleece.",
+        "popularity": 9.897,
+        "poster_path": "/lGLCffscz773pjEjcUymynHWTJM.jpg",
+        "release_date": "1946-11-01",
+        "title": "Nobody Lives Forever",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/snWKZlyQGVN8rJrRJu7Vktr5HCF.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 57342,
+        "original_language": "it",
+        "original_title": "Amnèsia",
+        "overview": "In the Spanish island of Ibiza, porn filmmaker Sandro and Angelino, the manager of a beachside watering hole, find their very different lives overlapping. Meanwhile, the island police chief, who is currently at odds with his rebellious son Jorge, is investigating the death of a drug dealer (which was accidentally brought on by Angelino). Jorge's plans to move to America have so far been thwarted by his father, but when he finds out about the affair his dad had been having with a male nightclub dancer, he uses it as blackmail fodder.",
+        "popularity": 9.896,
+        "poster_path": "/kQCwWatKqoY404wgvG0lCOzKyHb.jpg",
+        "release_date": "2002-03-15",
+        "title": "Amnèsia",
+        "video": false,
+        "vote_average": 5.754,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mQ4lYhaLZPoqI1xrn82XsHNQECd.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 11958,
+        "original_language": "fr",
+        "original_title": "Ni pour, ni contre (bien au contraire)",
+        "overview": "\"Ni Pour, Ni Contre\" tracks the fall of a young TV camerawoman, Caty, after she becomes involved with a group of petty criminals and their enigmatic leader, Jean. The gang lives hand-to-mouth until the day Jean plans a daring bank robbery. Although other gang members feel out of their league, Jean persuades them to take part and Caty finds herself in a hellish world of betrayal, violence and murder.",
+        "popularity": 9.896,
+        "poster_path": "/rgd2DStNLE8zblUPJcez6r3Y3b5.jpg",
+        "release_date": "2003-03-05",
+        "title": "Not For, or Against (Quite the Contrary)",
+        "video": false,
+        "vote_average": 5.969,
+        "vote_count": 65
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ysTY7tDhmvkqZuVQvG25tbwXSiZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 839065,
+        "original_language": "de",
+        "original_title": "Flammenmädchen",
+        "overview": "First barns burn, then an old house burns. A fire brigade goes around. A corpse burned beyond recognition is found in the old house. Intention or amazing coincidence? Franzi Heilmayr and Martin Merana believe in coincidence - until the evidence suddenly points in a completely different direction. And deadly danger still emanates from there.",
+        "popularity": 9.895,
+        "poster_path": "/w3ApMXeeezylo7IpynaGOc8WNFR.jpg",
+        "release_date": "2021-06-10",
+        "title": "Flames of Fury",
+        "video": false,
+        "vote_average": 7.222,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wKRHyL1TgPXRQpTvPeUatp833vz.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 312113,
+        "original_language": "en",
+        "original_title": "Black November",
+        "overview": "A volatile, oil-rich Nigerian community wages war against their corrupt government and a multi-national oil corporation to protect their land from being destroyed by excessive drilling and spills.  To seek justice, a rebel organization kidnaps an American oil executive and demands that his corporation end the destruction and pollution.  Inspired by true events, Black November is the gripping story of how a community rises up and takes drastic measures to make sure their voices are heard.",
+        "popularity": 9.895,
+        "poster_path": "/onBy6iJt3BX8MSc7GjzIRgE07oV.jpg",
+        "release_date": "2012-12-07",
+        "title": "Black November",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 446619,
+        "original_language": "ja",
+        "original_title": "絆",
+        "overview": "Tetsuro Haga is a troubled gangster, living under the assumed identity Ise for ten years, to escape jail for gunning down his cruel adoptive father. His life begins to unravel when a journalist following him takes an interest in the wife of a boyhood chum, and the wife of another close friend takes an interest in Ise. A couple of murders later, Ise/Haga goes on the run and also sets out for revenge.",
+        "popularity": 9.894,
+        "poster_path": "/o9qsBlllPvWB1HiRfPVQaCmzfqD.jpg",
+        "release_date": "1998-06-06",
+        "title": "Bonds",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 4
+    }
+]

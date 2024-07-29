@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/25qWbKlztmx4dF9Zow8iwzYB32U.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 742160,
+        "original_language": "ja",
+        "original_title": "悪の親衛隊",
+        "overview": "A disgraced yakuza member, framed for the murder of his boss, emerges from prison eight years later with revenge on his mind.",
+        "popularity": 7.616,
+        "poster_path": "/2lP2VbQssPKACVhELVXYQYMQB2c.jpg",
+        "release_date": "1971-11-10",
+        "title": "Troops of Darkness",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fSvJMAOiZdIBalsXo287Jqfreyn.jpg",
+        "genre_ids": [
+            80,
+            27,
+            10749
+        ],
+        "id": 115609,
+        "original_language": "en",
+        "original_title": "The Son of Dr. Jekyll",
+        "overview": "The son of the notorious Dr. Henry Jekyll is determined to prove that his father's reputation has been unjustly deserved. He sets out to develop his father's formula in order to prove that he was a brilliant scientist rather than a murderous monster.",
+        "popularity": 7.616,
+        "poster_path": "/7FP9FwucgIzWpEgpmtEZy5KWcDh.jpg",
+        "release_date": "1951-10-31",
+        "title": "The Son of Dr. Jekyll",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bVyfnehUDyC0eILkXro2aGyFWJT.jpg",
+        "genre_ids": [
+            12,
+            80
+        ],
+        "id": 12111,
+        "original_language": "fr",
+        "original_title": "Les Spécialistes",
+        "overview": "While being transferred to another prison, two convicts - Stéphane Carella and Paul Brandon - effect a miraculous escape. They are pursued across the Verdon Gorge before arriving at an isolated farmhouse whose owner, Laura, offers them sanctuary. Since the death of her husband, Laura has longed to get her own back on the police and she agrees to help Carella and Brandon in their scheme to rob a casino in Nice. After a shoot out with the casino’s owners, Carella realises that not everything is what it seems. Brandon is not what he appears...",
+        "popularity": 7.614,
+        "poster_path": "/eBDoIW0WWIwbLA6fpYsISEfOtjP.jpg",
+        "release_date": "1985-03-13",
+        "title": "The Specialists",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 90
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zjnctpKe4Unjf1edDi2uLjQYrKI.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1255020,
+        "original_language": "zh",
+        "original_title": "裂战",
+        "overview": "Yan Xin, a female scientist at Hainan Xingye Torch Company, used gene editing technology to cultivate super rubber seeds and went to Yinfan Island overseas for trial planting, hoping to turn it into a rich new world. Lin Xiang of the International Security Company personally led the team to this crisis-ridden land in order to protect his still beloved ex-wife Yan Xin. Since their arrival, conflicts and conspiracies have been taking turns, with the figure of local drug lord Li Wenyao looming behind them. Unknown dangers, the ultimate showdown, the two people opposing good and evil cannot escape the destined battle.",
+        "popularity": 7.613,
+        "poster_path": "/AiB6C4ykGUKGFYZqceQo3fK9tHt.jpg",
+        "release_date": "2024-03-06",
+        "title": "Cruel War",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ybFXjxjEAtlfdNdr9cuIOnb5iLb.jpg",
+        "genre_ids": [
+            35,
+            10749,
+            80
+        ],
+        "id": 577154,
+        "original_language": "es",
+        "original_title": "¡He matado a mi marido!",
+        "overview": "A desperate woman accidentally murders her unfaithful husband the morning of a big party honoring his recent Pritzker Prize, now she must survive the pain of heartbreak and a night of celebration, without being found out.",
+        "popularity": 7.613,
+        "poster_path": "/3A5jolVYMkQyYnrVYEnNkWWENKL.jpg",
+        "release_date": "2018-04-13",
+        "title": "¡He matado a mi marido!",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yHIozpJY1ucEwjaMuLJOHZLTCpr.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            80
+        ],
+        "id": 1119257,
+        "original_language": "en",
+        "original_title": "Lucky Louie",
+        "overview": "A retired cop teams up with four ex-convicts and a behavioral science student to solve a fifty year old bank robbery.",
+        "popularity": 7.612,
+        "poster_path": "/xy0Zuq3MBxSKK5VdDcFj4MYeymG.jpg",
+        "release_date": "2023-05-02",
+        "title": "Lucky Louie",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2zJPgWGjtAt1Kz08w2O2sec9JJE.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 195382,
+        "original_language": "it",
+        "original_title": "In nome della legge",
+        "overview": "A young, by-the-book judge is appointed to a Sicilian village controlled by corrupt leaders and the mafia.",
+        "popularity": 7.611,
+        "poster_path": "/zJivgprws3TOLTZSDh2qXfnIeZt.jpg",
+        "release_date": "1949-03-13",
+        "title": "In the Name of the Law",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            80,
+            18
+        ],
+        "id": 164294,
+        "original_language": "en",
+        "original_title": "Jungle Bride",
+        "overview": "Four survivors of a ship wreck are stranded on a deserted island, including a woman and the man she believes is responsible for the murder which her brother is in prison for.",
+        "popularity": 7.611,
+        "poster_path": "/rlu7mJRutDhAVZHQPpaZHc5bgqw.jpg",
+        "release_date": "1933-01-09",
+        "title": "Jungle Bride",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wdPBBIOMl3NmNsWMIOPcM9O6q6Q.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 1202628,
+        "original_language": "ja",
+        "original_title": "劇場版 山崎一門～日本統一～",
+        "overview": "Himuro (Yasukaze Motomiya), Captain of the Kyowa Clan and Tamura (Yoshiyuki Yamaguchi), the Chief of Headquarters, are arrested on suspicion of assault. Sakaguchi (Takashi Kitadai), the fourth leader in the Yamazaki Family, and other members of the group scramble to prove their innocence. In doing so, they discover the existence of a gold smuggling ring and an international espionage organization behind the case.",
+        "popularity": 7.61,
+        "poster_path": "/yV66sI7CHbAXQbdMfHVkMVJXR3C.jpg",
+        "release_date": "2022-10-21",
+        "title": "The Y-Team",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 206167,
+        "original_language": "ml",
+        "original_title": "Left Right Left",
+        "overview": "Roy and his friends expose the misdeeds of Sahadevan, a corrupt politician, and soon the friends are found murdered. Later, when Roy dies of an illness, Jayan discovers Roy and Sahadevan's past.",
+        "popularity": 7.61,
+        "poster_path": "/7GGP0ZQLeuT0Fm2yjR4LARTP99c.jpg",
+        "release_date": "2013-06-14",
+        "title": "Left Right Left",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7dgMnjdRsxvzoZYejz9WiDsSJYs.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80,
+            10752
+        ],
+        "id": 62330,
+        "original_language": "en",
+        "original_title": "The Spook Who Sat by the Door",
+        "overview": "A black man plays Uncle Tom in order to gain access to CIA training, then uses that knowledge to plot a new American Revolution.",
+        "popularity": 7.609,
+        "poster_path": "/tWu5IK8Yy0O4ol4KIBbQfetMtuz.jpg",
+        "release_date": "1973-09-21",
+        "title": "The Spook Who Sat by the Door",
+        "video": false,
+        "vote_average": 6.261,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cigrB7PKEUJMwmgLmQUdUsfU2ma.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 980970,
+        "original_language": "cn",
+        "original_title": "逃獄兄弟3",
+        "overview": "Former warden Tang is imprisoned for accepting bribes, while Jun who failed to escape from prison returns to prison to continue serving his sentence. Jun sees that Tang is familiar with the prison and lures him into cooperating in the breakout plan. The two hit it off, and even tried to create trouble and blame it on Big Roller. Jun soon discovers that Tang has other tricks, forcing him to team up again with Big Roller, Mak and new warden Ma to crack Tang`s conspiracy.",
+        "popularity": 7.608,
+        "poster_path": "/5L1Qx40k5nqDN3qF1yE6dgrG6dh.jpg",
+        "release_date": "2022-06-02",
+        "title": "Breakout Brothers 3",
+        "video": false,
+        "vote_average": 4.375,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            10770
+        ],
+        "id": 415441,
+        "original_language": "en",
+        "original_title": "The Lady in Question",
+        "overview": "In 1938, Jewish-rights activist Emma Sachs is targeted by the Nazis. When she dies, foul play is suspected. But was it the Nazis, or was it someone else? Det. Tony Rossini investigates, along with Larry \"Cash\" Carter, a theatre director connected to Mrs. Sachs and her family.",
+        "popularity": 7.608,
+        "poster_path": "/4K2ITBT8NUu7QjWadNHxGO3irT9.jpg",
+        "release_date": "1999-12-12",
+        "title": "The Lady in Question",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aix8Muy0qXxFs2g9Jw2ujCWhmyA.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 362293,
+        "original_language": "ja",
+        "original_title": "影なき声",
+        "overview": "Asako, a former telephone operator once heard the voice of a murder suspect which has continued to haunt her. Years later her husband invites his boss, Hamazaki, over for dinner and she realises his voice is suspiciously like that of the killer. Before she can investigate further, Hamazaki is found dead and her husband becomes the prime suspect.",
+        "popularity": 7.608,
+        "poster_path": "/vrL8SGEGYsDfbqVsImQeGxjNkRd.jpg",
+        "release_date": "1958-10-22",
+        "title": "Voice Without a Shadow",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 320275,
+        "original_language": "pt",
+        "original_title": "Mãos Sangrentas",
+        "overview": "Maos Sangrentas translates to Bloody Hands in English, and that's just what this gruesome Brazilian melodrama delivers. The story begins when a gang of dangerous convicts escape from a penal colony. With the police in hot pursuit, the escapees cut a gory swath through the countryside. As his comrades are killed off one by one, the leader of the group descends into gibbering madness. In contrast to this, a subplot develops involving the least dangerous of the escapees, who murdered his wife in a peak of self-righteous rage and is now seriously in doubt about the wisdom of his deed.  Principal scenes reworked in 1962 to make the film The Violent and the Damned (q.v.).",
+        "popularity": 7.608,
+        "poster_path": "/e1gHH5kt7yOjW82btQzXY8OCR1f.jpg",
+        "release_date": "1955-08-05",
+        "title": "Bloody Hands",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/reQH3DULLA9cEJbRwofnsccntA9.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 88176,
+        "original_language": "de",
+        "original_title": "Der Verlorene",
+        "overview": "A German scientist murders his fiancée during World War II when he learns that she has been selling the results of his secret research to the enemy.",
+        "popularity": 7.608,
+        "poster_path": "/rTjLxVby8Y4jvkyEpW6g08iBttC.jpg",
+        "release_date": "1951-09-07",
+        "title": "The Lost One",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8G34ZBMErj2dQv16awpSgYOB95m.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1175086,
+        "original_language": "de",
+        "original_title": "Steirerschuld",
+        "overview": "In this case, Sascha Bergmann from LKA Graz and his colleague Anni Sulmtaler investigate the death of a young woman who is found by the novice Clemens at the foot of a staircase in the monastery library.",
+        "popularity": 7.605,
+        "poster_path": "/4CvEyDWe9DwXW82gzLPOnDENSwn.jpg",
+        "release_date": "2023-09-19",
+        "title": "Steirerschuld",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7NBy0S6vBHju5n5OK1qhA47NLR4.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 94822,
+        "original_language": "en",
+        "original_title": "Villa Captive",
+        "overview": "A young actress seeking a life away from adult movies moves to Florida insearch of a new identity. Her newfound peace is shattered when local thugsrecognize her.",
+        "popularity": 7.605,
+        "poster_path": "/dFceCIaMCJIG1VGa873s4S0uuOp.jpg",
+        "release_date": "2011-01-01",
+        "title": "Villa Captive",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9ExM1BIAZ166ThhPjLwdmsf1Ks4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10749
+        ],
+        "id": 62722,
+        "original_language": "en",
+        "original_title": "The Green Glove",
+        "overview": "In World War II France, American soldier Michael Blake captures, then loses Nazi-collaborator art thief Paul Rona, who leaves behind a gem studded gauntlet (a stolen religious relic). Years later, financial reverses lead Mike to return in search of the object. In Paris, he must dodge mysterious followers and a corpse that's hard to explain; so he and attractive tour guide Christine decamp on a cross-country pursuit that becomes love on the run...then takes yet another turn.",
+        "popularity": 7.605,
+        "poster_path": "/xPeBA9EbyNyZA5el0pjp914dGAy.jpg",
+        "release_date": "1952-02-28",
+        "title": "The Green Glove",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/veNy3JA31ZX5lbDiUGnCczTbhxf.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 80167,
+        "original_language": "en",
+        "original_title": "Paper Bullets",
+        "overview": "Circumstances force naive Rita Adams into serving an unjust prison term, but she emerges from it a cynical criminal who rises to power in the local crime organization.",
+        "popularity": 7.604,
+        "poster_path": "/uOH5LylMurBDxTIDCQWIs95aEqr.jpg",
+        "release_date": "1941-06-13",
+        "title": "Gangs Inc.",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 6
+    }
+]

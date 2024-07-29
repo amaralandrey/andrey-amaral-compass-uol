@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 99041,
+        "original_language": "ja",
+        "original_title": "ハサミ男",
+        "overview": "The Man Behind the Scissors centers around two serial killers: mastermind Yasunaga and helper Chinatsu. The two risk being found out when the police question them as witnesses to a gruesome murder they themselves may have committed. A quirky and perplexing police thriller centered around two murderers who thrive on slicing up schoolgirls. Calculated serial psycho Yasunaga (Tokokawa) and Chinatsu (Aso), his sweet female sidekick, find themselves being questioned as witnesses to a murder when their next potential victim turns up dead...with their M.O.",
+        "popularity": 7.922,
+        "poster_path": "/2At6vXOCfxYGEDntQTAgt8uxLJe.jpg",
+        "release_date": "2005-03-19",
+        "title": "The Man Behind the Scissors",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            10402,
+            35
+        ],
+        "id": 1156662,
+        "original_language": "en",
+        "original_title": "CHAAW: Chapter 1",
+        "overview": "A Celebration of Hip Hop through beatboxing and unique storytelling by the Legendary Biz Markie who rhymes while telling the stories of victims of injustice. CHAAW - Five interconnected stories highlighting victims of injustice. China, Hector, Africa, Ardnas and Wesley.(CHAAW) These are the stories of victims of Injustice in America. The effect of injustice not only impacts the individuals but also their families and community.",
+        "popularity": 7.921,
+        "poster_path": "/joGFe92tpp5DWoP8SsLKCNC79Fa.jpg",
+        "release_date": "2023-08-11",
+        "title": "CHAAW: Chapter 1",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iNh6KDgwm1N934a4modo4epz2iB.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 334658,
+        "original_language": "it",
+        "original_title": "Ganja Fiction",
+        "overview": "In order to raise money and win the love of Bianca, the owner of the funeral parlour accepts his friend's proposal to take part in a Texas hold 'em tournament. However, the pair need a loan.",
+        "popularity": 7.921,
+        "poster_path": "/isQgNqvzUJx3BSQkzQyq8SlXxt5.jpg",
+        "release_date": "2015-04-06",
+        "title": "Ganja Fiction",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1tcHHrn0QCsCxIW7eVlFPE4Y3M.jpg",
+        "genre_ids": [
+            99,
+            80,
+            36
+        ],
+        "id": 79042,
+        "original_language": "en",
+        "original_title": "If a Tree Falls: A Story of the Earth Liberation Front",
+        "overview": "Filmmaker Marshall Curry explores the inner workings of the Earth Liberation Front, a revolutionary movement devoted to crippling facilities involved in deforestation, while simultaneously offering a profile of Oregon ELF member Daniel McGowan, who was brought up on terrorism charges for his involvement with the radical group.",
+        "popularity": 7.921,
+        "poster_path": "/mNZbF5lls0Al6Qxk0rw6bhQ26dU.jpg",
+        "release_date": "2011-06-22",
+        "title": "If a Tree Falls: A Story of the Earth Liberation Front",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h5k7cS1KLPTGOrzRW6Ulqb0jszi.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 501192,
+        "original_language": "hi",
+        "original_title": "Hate Story IV",
+        "overview": "Tasha, who aspires to make it big in life, catches the eye of two womanising brothers, who promise to make her a star. Yet her hidden intentions may prove deadly for the duo.",
+        "popularity": 7.92,
+        "poster_path": "/7mI6YgCVFfKDSlSDN8MuSY8oCFJ.jpg",
+        "release_date": "2018-03-09",
+        "title": "Hate Story IV",
+        "video": false,
+        "vote_average": 5.643,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yimcoolCN431qkjtIgxF1uCvTHg.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 422727,
+        "original_language": "en",
+        "original_title": "Mississippi Murder",
+        "overview": "An amazing murder mystery taking place in a setting that no one would expect the coast of Mississippi. A young woman tried to live a normal life despite a horrible upbringing. But she will learn her past will haunt her once more.",
+        "popularity": 7.919,
+        "poster_path": "/gfZynwGaJFvbxjEResWj4qV6pZy.jpg",
+        "release_date": "2017-01-03",
+        "title": "Mississippi Murder",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            35
+        ],
+        "id": 522457,
+        "original_language": "en",
+        "original_title": "Clue",
+        "overview": "Based on the Hasbro board game, a band of strangers frantically try to figure out who is the murderer among them.",
+        "popularity": 7.918,
+        "poster_path": "/b2Jasug0vSghR0yLJSkSAJD68U8.jpg",
+        "release_date": "",
+        "title": "Clue",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/brrU0PJcvaFPuaJLopcQLXCnUi.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 265087,
+        "original_language": "es",
+        "original_title": "Ratas, ratones, rateros",
+        "overview": "The world of Salvador, a young and naive petty thief is changed by the arrival of his cousin Angel, an ex-convict in search of easy money, and with a hideout. Salvador gets wrapped up in Angel's twisted dealings in an attempt to escape from his suffocating family, dragging along his family and friends, in his criminal path. Where will this all lead?",
+        "popularity": 7.918,
+        "poster_path": "/327s87WVi7RFfecCDmim4W6kqnY.jpg",
+        "release_date": "1999-09-12",
+        "title": "Rodents",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ayHnLH5QO2wTC5iPwfPmWPA0f7n.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 43598,
+        "original_language": "en",
+        "original_title": "Ladies They Talk About",
+        "overview": "A moll, imprisoned after participating in a bank robbery, helps with a breakout plot.",
+        "popularity": 7.916,
+        "poster_path": "/hV0QKIw6PR9tLlao60WvVVxAD8I.jpg",
+        "release_date": "1933-02-04",
+        "title": "Ladies They Talk About",
+        "video": false,
+        "vote_average": 6.118,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4omCkRyz0vCeMdOFPopJQjrNbHh.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1095706,
+        "original_language": "fr",
+        "original_title": "La Mort viendra",
+        "overview": "Tez kills for money. Charles Mahr, a legendary gangster, hires her to avenge the murder of one of his couriers. Once in Brussels, she gets caught up in the thicket of an intrigue in which she herself becomes the prey. Tez has to decide whose instrument she wants to be.",
+        "popularity": 7.915,
+        "poster_path": "/9Re2tjEEd89b4IM6zd7AeJspXYq.jpg",
+        "release_date": "2024-08-08",
+        "title": "Death Will Come",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eAjUAUlkhvlhPRcDksqasXtoARI.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 890338,
+        "original_language": "es",
+        "original_title": "Fragmentada",
+        "overview": "A policewoman returns with her young daughter to her hometown to care for her dying mother. The murder of a young girl will keep her there longer than expected. She will try to solve a case that no one seems to care about, risking everything on the path.",
+        "popularity": 7.914,
+        "poster_path": "/AgcB8prE7NbNCeUhZHFbdkDPhYi.jpg",
+        "release_date": "2023-08-03",
+        "title": "Broken",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            53,
+            9648,
+            80
+        ],
+        "id": 421875,
+        "original_language": "en",
+        "original_title": "Who Killed My Husband",
+        "overview": "Sophie's husband is killed in the line of duty as a police officer, now she goes undercover to solve his last case as she deals with her gravely ill daughter.",
+        "popularity": 7.913,
+        "poster_path": "/steMYerYTjPNAo5nF1bAtkWD44p.jpg",
+        "release_date": "2016-03-01",
+        "title": "Who Killed My Husband",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a4h7Si9vmBpxSe2i1kaGhl9fKaM.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 226838,
+        "original_language": "en",
+        "original_title": "The Vintage",
+        "overview": "A young Italian fugitive and his older protective brother hide among the grape pickers at a vineyard in Provence.",
+        "popularity": 7.913,
+        "poster_path": "/t96ChwDs6Ckisa2yDqd9dJEYxEl.jpg",
+        "release_date": "1957-05-08",
+        "title": "The Vintage",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/264gO7ZxUHh0jX2Ma7tfD6g7GUF.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 1287603,
+        "original_language": "te",
+        "original_title": "S.I.T Special Investigation Team",
+        "overview": "ACP Partha Saradhi investigates the murder of a billionaire's wife, Navya and arrests her husband, Rahul. Soon, the case takes a turn when secrets about Navya's past and family are revealed.",
+        "popularity": 7.911,
+        "poster_path": "/8uVuJEmwDivk059pqOHdbkXiRGW.jpg",
+        "release_date": "2024-05-10",
+        "title": "S.I.T Special Investigation Team",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rDwIPbgDlqxsDoUtZg7d1gcCjYz.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 386805,
+        "original_language": "sk",
+        "original_title": "Červený kapitán",
+        "overview": "Three years after the fall of the Berlin Wall; six months before the split of Czechoslovakia. Despite all warnings, a young homicide detective sets on investigating a convoluted case that involves Catholic clerical elite and high-ranked agents of the former secret service.",
+        "popularity": 7.911,
+        "poster_path": "/mA4Zf4loEPcjLgmkRzWwzYCjGLf.jpg",
+        "release_date": "2016-03-10",
+        "title": "Červený kapitán",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 235654,
+        "original_language": "en",
+        "original_title": "Drunk Driving",
+        "overview": "In this Crime Does Not Pay series entry, John Jones is an up and coming businessman who drinks too much but denies he has a problem. One day he mixes drinking and driving, and the tragic consequences hit very close to home.",
+        "popularity": 7.911,
+        "poster_path": "/3NL8lAoZm3A8W5DPv35wV3YR9nZ.jpg",
+        "release_date": "1939-10-28",
+        "title": "Drunk Driving",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/94G3s3tvLkYcDgEdfJFQwOwOPHt.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 222245,
+        "original_language": "cn",
+        "original_title": "硬漢",
+        "overview": "An eastern by Joseph Velasco. Two undercover agents must smash a smuggling racket that is terrorizing a small port town. One of the agents, Chin Chang, has an evil grip that can crush a skull in seconds. The thugs are killers but this agent is a killer in kung fu!",
+        "popularity": 7.91,
+        "poster_path": "/2L6Xj09E7Wp0itz3HmkHFni1dYz.jpg",
+        "release_date": "1972-10-19",
+        "title": "Revenge of the Dragon",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xgkKoCXbgt7oJqbhL18229Vmwtk.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 36893,
+        "original_language": "en",
+        "original_title": "It's Not Just You, Murray!",
+        "overview": "Now middle-aged, mobster Murray looks back at his humble beginnings as a bootlegger and his rise to becoming wealthy and highly influential. Through it he talks about how much of his success and happiness is due to the support of his \"friend\" Joe. Unfortunately the only one who blindly believes Joe is anything close to a friend is Murray, because it's obvious to everyone that Joe back-stabs him at every chance and is sleeping with his wife.",
+        "popularity": 7.908,
+        "poster_path": "/2mzXZr8TYwqzEZXJnq3HxQYDGu.jpg",
+        "release_date": "1964-01-13",
+        "title": "It's Not Just You, Murray!",
+        "video": false,
+        "vote_average": 5.875,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p3zfk0OPhWOvQgjvprOhrPrW6P7.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 641705,
+        "original_language": "cn",
+        "original_title": "墮落花",
+        "overview": "After years of running away avoiding her drug kingpin father and family, she returns to assume her position in the family. A mysterious woman appears claiming she is also a sister of the family. A prodigal daughter who came back to settle a score for something that has happened two decades ago.",
+        "popularity": 7.904,
+        "poster_path": "/dJcj30ZDquSmV0tNGmj99zcxnVN.jpg",
+        "release_date": "2019-10-30",
+        "title": "The Fallen",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 51021,
+        "original_language": "en",
+        "original_title": "A Lure: Teen Fight Club",
+        "overview": "A community is under siege as three Belmont Highschool coed students go missing with no trace of their whereabouts. The pressure is on the police to capture the culprits responsible. Scouring the school hallways in search of clues, undercover female detective Maggie Rawdon (Jessica Sonnerborn) enters Belmont High as a transfer student in an attempt to solve the hideous disappearance of the students. Maggie makes a few new friends, and gets invited to a private rave in the country. Just as the group begins to suspect that they've taken a wrong turn, however, the trap is sprung and Maggie finds out firsthand what fate has befallen the missing girls.",
+        "popularity": 7.904,
+        "poster_path": "/ipl6NdM0LwyakzLH9gKBDn8YhmZ.jpg",
+        "release_date": "2010-11-16",
+        "title": "A Lure: Teen Fight Club",
+        "video": false,
+        "vote_average": 7.174,
+        "vote_count": 23
+    }
+]

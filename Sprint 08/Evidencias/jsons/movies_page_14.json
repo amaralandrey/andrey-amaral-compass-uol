@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 524,
+        "original_language": "en",
+        "original_title": "Casino",
+        "overview": "In early-1970s Las Vegas, Sam \"Ace\" Rothstein gets tapped by his bosses to head the Tangiers Casino. At first, he's a great success in the job, but over the years, problems with his loose-cannon enforcer Nicky Santoro, his ex-hustler wife Ginger, her con-artist ex Lester Diamond and a handful of corrupt politicians put Sam in ever-increasing danger.",
+        "popularity": 61.464,
+        "poster_path": "/4TS5O1IP42bY2BvgMxL156EENy.jpg",
+        "release_date": "1995-11-22",
+        "title": "Casino",
+        "video": false,
+        "vote_average": 8.009,
+        "vote_count": 5665
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eHT36hVNslbJXCY3SXgtzxPE3cl.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            53
+        ],
+        "id": 8643,
+        "original_language": "en",
+        "original_title": "The Exorcism of Emily Rose",
+        "overview": "When a younger girl called Emily Rose dies, everyone puts blame on the exorcism which was performed on her by Father Moore prior to her death. The priest is arrested on suspicion of murder. The trial begins with lawyer Erin Bruner representing Moore, but it is not going to be easy, as no one wants to believe what Father Moore says is true.",
+        "popularity": 61.399,
+        "poster_path": "/qMN0HIP34f736kkQcfvTfmL9TP3.jpg",
+        "release_date": "2005-09-09",
+        "title": "The Exorcism of Emily Rose",
+        "video": false,
+        "vote_average": 6.583,
+        "vote_count": 2702
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/haIHcieOlTlyAUr9cWukqyK5SaU.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 9654,
+        "original_language": "en",
+        "original_title": "The Italian Job",
+        "overview": "Charlie Croker pulled off the crime of a lifetime. The one thing that he didn't plan on was being double-crossed. Along with a drop-dead gorgeous safecracker, Croker and his team take off to re-steal the loot and end up in a pulse-pounding, pedal-to-the-metal chase that careens up, down, above and below the streets of Los Angeles.",
+        "popularity": 61.383,
+        "poster_path": "/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
+        "release_date": "2003-05-30",
+        "title": "The Italian Job",
+        "video": false,
+        "vote_average": 6.772,
+        "vote_count": 5392
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xord8lZ7mK8ctki6FBgNYrbpWCO.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 479718,
+        "original_language": "ko",
+        "original_title": "범죄도시",
+        "overview": "In Chinatown, law and order is turned upside down when a trio of feral Chinese gangsters arrive, start terrorizing civilians, and usurping territory. The beleaguered local gangsters team up with the police, lead by the badass loose cannon Ma Seok-do, to bring them down. Based on a true story.",
+        "popularity": 61.339,
+        "poster_path": "/pUd1FYQb5r55RqXpx08dnCbP1fs.jpg",
+        "release_date": "2017-10-03",
+        "title": "The Outlaws",
+        "video": false,
+        "vote_average": 7.745,
+        "vote_count": 383
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qA5fVV7a2kWZp1GXriD4kT5cE7z.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 504,
+        "original_language": "en",
+        "original_title": "Monster",
+        "overview": "An emotionally scarred highway drifter shoots a sadistic trick who rapes her, and ultimately becomes America's first female serial killer.",
+        "popularity": 61.18,
+        "poster_path": "/aevmNtJCNG4ZlfEeEGZ79frMUes.jpg",
+        "release_date": "2003-12-24",
+        "title": "Monster",
+        "video": false,
+        "vote_average": 7.223,
+        "vote_count": 2248
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9TW4zKd2FFZgqR8k5vf4oZofPMR.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 602269,
+        "original_language": "en",
+        "original_title": "The Little Things",
+        "overview": "Deputy Sheriff Joe \"Deke\" Deacon joins forces with Sgt. Jim Baxter to search for a serial killer who's terrorizing Los Angeles. As they track the culprit, Baxter is unaware that the investigation is dredging up echoes of Deke's past, uncovering disturbing secrets that could threaten more than his case.",
+        "popularity": 61.037,
+        "poster_path": "/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg",
+        "release_date": "2021-01-28",
+        "title": "The Little Things",
+        "video": false,
+        "vote_average": 6.329,
+        "vote_count": 2395
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oFS0DgInCdvYRwaPkl3BLpmIuq5.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            9648,
+            878,
+            53
+        ],
+        "id": 1013240,
+        "original_language": "id",
+        "original_title": "24 Jam Bersama Gaspar",
+        "overview": "With only 24 hours left to live, a private investigator follows a trail of confounding clues to uncover the disappearance of his childhood friend.",
+        "popularity": 60.921,
+        "poster_path": "/8jJKM0ZR3GQo6E3CUkMKKVa4S8B.jpg",
+        "release_date": "2023-10-06",
+        "title": "24 Hours with Gaspar",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 51
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4hCDuBCG1oSKFfr4TKLOJG30JzV.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 59859,
+        "original_language": "en",
+        "original_title": "Kick-Ass 2",
+        "overview": "After Kick-Ass’ insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist — reborn as The Mother Fucker — only the blade-wielding Hit-Girl can prevent their annihilation.",
+        "popularity": 60.908,
+        "poster_path": "/1go2A3gdQjaMuHWquybgoJlQRcX.jpg",
+        "release_date": "2013-07-17",
+        "title": "Kick-Ass 2",
+        "video": false,
+        "vote_average": 6.398,
+        "vote_count": 6043
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5C6njaciKvyZlKWUrQX7mjdl4D1.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            28
+        ],
+        "id": 2043,
+        "original_language": "en",
+        "original_title": "Along Came a Spider",
+        "overview": "After the harrowing death of his partner, forensic psychologist and best-selling author Alex Cross cannot forgive himself and has retreated to the peace of retirement. But when a brilliant criminal kidnaps a senator's young daughter, he is lured back into action as the kidnapper wants to deal with Alex personally. Teamed with Jezzie Flanigan, the Secret Service agent assigned to protect the missing girl, Alex follows a serpentine trail of clues that leads him to a stunning discovery - the kidnapper wants more than just ransom.",
+        "popularity": 60.729,
+        "poster_path": "/vipRsbIpwUNf1gjfOcVNizQ1o3c.jpg",
+        "release_date": "2001-04-06",
+        "title": "Along Came a Spider",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 1798
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/phiRQhfwZZeMMn3osvQUmGYmJbp.jpg",
+        "genre_ids": [
+            27,
+            28,
+            53,
+            80
+        ],
+        "id": 755,
+        "original_language": "en",
+        "original_title": "From Dusk Till Dawn",
+        "overview": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
+        "popularity": 60.716,
+        "poster_path": "/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+        "release_date": "1996-01-19",
+        "title": "From Dusk Till Dawn",
+        "video": false,
+        "vote_average": 7.027,
+        "vote_count": 5755
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lt1rGQSqhk2T2T4lHo6CTQYvoWP.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 187,
+        "original_language": "en",
+        "original_title": "Sin City",
+        "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+        "popularity": 60.51,
+        "poster_path": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+        "release_date": "2005-04-01",
+        "title": "Sin City",
+        "video": false,
+        "vote_average": 7.458,
+        "vote_count": 7940
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/54yOImQgj8i85u9hxxnaIQBRUuo.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 539885,
+        "original_language": "en",
+        "original_title": "Ava",
+        "overview": "A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.",
+        "popularity": 60.299,
+        "poster_path": "/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+        "release_date": "2020-07-02",
+        "title": "Ava",
+        "video": false,
+        "vote_average": 5.822,
+        "vote_count": 2516
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fD4Q03vX0xqumc6iuDt6SujrlxI.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 244761,
+        "original_language": "en",
+        "original_title": "The Captive",
+        "overview": "Eight years after the disappearance of Cassandra, some disturbing incidents seem to indicate that she's still alive. Police, parents and Cassandra herself, will try to unravel the mystery of her disappearance.",
+        "popularity": 60.153,
+        "poster_path": "/wLoFxTZFEfAzFLk2qSoPbcz58Jb.jpg",
+        "release_date": "2014-09-05",
+        "title": "The Captive",
+        "video": false,
+        "vote_average": 5.833,
+        "vote_count": 1067
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hpzbQDjl2yzf6MwrYOrbDJCmojc.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 227,
+        "original_language": "en",
+        "original_title": "The Outsiders",
+        "overview": "When two poor Greasers, Johnny and Ponyboy, are assaulted by a vicious gang, the Socs, and Johnny kills one of the attackers, tension begins to mount between the two rival gangs, setting off a turbulent chain of events.",
+        "popularity": 60.143,
+        "poster_path": "/iwbbE0xiOuflxE99gESWC2b5Ohc.jpg",
+        "release_date": "1983-03-25",
+        "title": "The Outsiders",
+        "video": false,
+        "vote_average": 7.218,
+        "vote_count": 1314
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2icKUFNIs67FljWFDb58OW1zP5x.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 8065,
+        "original_language": "en",
+        "original_title": "21",
+        "overview": "Ben Campbell is a young, highly intelligent student at M.I.T. who strives to succeed. Wanting a scholarship to transfer to Harvard School of Medicine to become a doctor, Ben learns that he cannot afford the $300,000 tuition as he comes from a poor, working-class background. But one evening, Ben is introduced by his unorthodox math professor to a small but secretive club of five students, Jill, Choi, Kianna, and Fisher, who are being trained by Professor Rosa to count cards at blackjack.",
+        "popularity": 60.011,
+        "poster_path": "/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
+        "release_date": "2008-03-27",
+        "title": "21",
+        "video": false,
+        "vote_average": 6.699,
+        "vote_count": 4536
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5YCcm68J0WfRkaT8qJ4EuLtAll6.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 904629,
+        "original_language": "en",
+        "original_title": "The King of Bloody Fookin' Britain",
+        "overview": "An action crime comedy about a working class Brit named \"Roger\" who wants to be King- Literally. The likes of a Turtleneck Philosopher, a Jawbreaker-Eating Sleaze-Bag, and a Homosexual Psychic throw Roger's world into chaos when he and his gang of misfits decide it'd be \"quite alright\" to rip off the most vicious man in London.",
+        "popularity": 59.956,
+        "poster_path": "/l3PVT2qj9lJ2DFSYpIO9V8sDol7.jpg",
+        "release_date": "2024-03-15",
+        "title": "The King of Bloody Fookin' Britain",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c0V8KAiuoWLXf7TfvwHK4yhIfb9.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 136795,
+        "original_language": "en",
+        "original_title": "The Heat",
+        "overview": "Uptight and straight-laced, FBI Special Agent Sarah Ashburn is a methodical investigator with a reputation for excellence--and hyper-arrogance. Shannon Mullins, one of Boston P.D.'s \"finest,\" is foul-mouthed and has a very short fuse, and uses her gut instinct and street smarts to catch the most elusive criminals. Neither has ever had a partner, or a friend for that matter. When these two wildly incompatible law officers join forces to bring down a ruthless drug lord, they become the last thing anyone expected: buddies.",
+        "popularity": 59.864,
+        "poster_path": "/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg",
+        "release_date": "2013-06-27",
+        "title": "The Heat",
+        "video": false,
+        "vote_average": 6.598,
+        "vote_count": 3845
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7SyXKnL76PqHtIcGdUWnrOgdEkm.jpg",
+        "genre_ids": [
+            18,
+            80,
+            27
+        ],
+        "id": 59068,
+        "original_language": "it",
+        "original_title": "Suor Emanuelle",
+        "overview": "Sister Emanuelle and Sister Nanà go to meet Mr. Cazzabriga, who has a problem: his wild-child daughter, Monica, who he wants to send to a Catholic school to remove her from temptations around the house.",
+        "popularity": 59.84,
+        "poster_path": "/eRmBJGmljHY9o7OHpcmPfdMKqQg.jpg",
+        "release_date": "1977-08-10",
+        "title": "Sister Emanuelle",
+        "video": false,
+        "vote_average": 5.193,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xTy65p0l6TlvxLEGETFMNL4Xqve.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 736732,
+        "original_language": "ko",
+        "original_title": "브로커",
+        "overview": "Sang-hyun is always struggling from debt, and Dong-soo works at a baby box facility. On a rainy night, they steal the baby Woo-sung, who was left in the baby box, to sell him at a good price. Meanwhile, detectives were watching, and they quietly track them down to capture the crucial evidence.",
+        "popularity": 59.791,
+        "poster_path": "/x86xaUnxU31JYiwlO35corDEV1i.jpg",
+        "release_date": "2022-06-08",
+        "title": "Broker",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 419
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zONM403tEJuSi0kZhA3TxkUoS22.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1535,
+        "original_language": "en",
+        "original_title": "Spy Game",
+        "overview": "On the day of his retirement, a veteran CIA agent learns that his former protégé has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.",
+        "popularity": 59.736,
+        "poster_path": "/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg",
+        "release_date": "2001-11-18",
+        "title": "Spy Game",
+        "video": false,
+        "vote_average": 6.915,
+        "vote_count": 2026
+    }
+]

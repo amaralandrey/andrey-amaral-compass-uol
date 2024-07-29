@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/3zxybblhK306rcOl5QBlGG4P3JV.jpg",
+        "genre_ids": [
+            80,
+            53,
+            35
+        ],
+        "id": 682376,
+        "original_language": "en",
+        "original_title": "Habit",
+        "overview": "The story of a streetwise party girl who gets mixed up in a violent drug deal and finds a possible way out - by masquerading as a Catholic nun.",
+        "popularity": 20.917,
+        "poster_path": "/piDplaWgc73jAuOohiFhTucBSYN.jpg",
+        "release_date": "2021-08-20",
+        "title": "Habit",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8N5ryumaXkftZtiPsCn0bXetxel.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 71881,
+        "original_language": "en",
+        "original_title": "Five Corners",
+        "overview": "A psychotic young man returns to his old neighborhood after release from prison. He seeks out the woman he previously tried to rape and the man who protected her, with twisted ideas of love for her and hate for him.",
+        "popularity": 20.916,
+        "poster_path": "/sjCavnds8Yfk57fG5GGtBhnNjrt.jpg",
+        "release_date": "1987-09-11",
+        "title": "Five Corners",
+        "video": false,
+        "vote_average": 5.745,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 118465,
+        "original_language": "cn",
+        "original_title": "花街狂奔",
+        "overview": "Hung and Ann are down-on-their luck prostitutes trapped in Hong Kong. Pauline's boyfriend, Sam, back in China, who is under the impression that she is away working at a factory, is double-crossed by Billy Chow, and while looking to escape; flees for Hong Kong and winds up at the Brothel where Pauline is employed. He is crushed when he finds out the truth, but by this point, everyone involved on all sides is too deeply involved to turn back. This is the type of movie that could only come from HK. It combines plenty of gory fighting, romance, violent A great scenes and comedy, all into one. A grand finale, where those who haven't already been killed fight it out on a construction site. In summary; heaps of sex and violence-has a few great bits, but not recommended for the weak-hearted.",
+        "popularity": 20.91,
+        "poster_path": "/jUlSUNktkuQdpvTBr2MVRVh44ek.jpg",
+        "release_date": "1992-02-29",
+        "title": "Escape from Brothel",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4FHop0FiVWf4Nat3OEoWEAWFO1Q.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80
+        ],
+        "id": 790646,
+        "original_language": "en",
+        "original_title": "The Toll",
+        "overview": "Brendan works solo shifts in the quietest toll booth in Wales, hiding from a criminal past where nobody would ever look. When he finally gets rumbled, word of his whereabouts gets out and his enemies head west for revenge. Meanwhile, local traffic cop Catrin’s investigation into a simple robbery finds her heading for the booth at exactly the wrong time.",
+        "popularity": 20.904,
+        "poster_path": "/2BTbYZ1zdNrpFRvLFEkRUP5vCJd.jpg",
+        "release_date": "2021-08-05",
+        "title": "The Toll",
+        "video": false,
+        "vote_average": 5.528,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gQP5eRO2h2PZCzDRiP7pQlQwwwU.jpg",
+        "genre_ids": [
+            35,
+            27,
+            28,
+            80
+        ],
+        "id": 489939,
+        "original_language": "en",
+        "original_title": "Daphne & Velma",
+        "overview": "Before their eventual team-up with Scooby and the gang, bright and optimistic Daphne and whip-smart and analytical Velma are both mystery-solving teens who are best friends but have only met online - until now. Daphne has just transferred to Velma's school, Ridge Valley High, an incredible tech-savvy institute with all the latest gadgets provided by the school's benefactor, tech billionaire Tobias Bloom. And while competition is fierce among the students for a coveted internship at Bloom Innovative, Daphne and Velma dig beyond all the gadgets and tech to investigate what is causing some of the brightest students in school to disappear - only to emerge again in a zombie-fied state.",
+        "popularity": 20.902,
+        "poster_path": "/zG2DHbo2GNxSmcFWqGkAPgS6hC8.jpg",
+        "release_date": "2018-05-22",
+        "title": "Daphne & Velma",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 236
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vEBGkO0D8Feh7jpwZGZ4UqEZZxQ.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 19092,
+        "original_language": "en",
+        "original_title": "Above the Rim",
+        "overview": "Story of a promising high school basketball star and his relationships with two brothers, one a drug dealer and the other a former basketball star fallen on hard times and now employed as a security guard.",
+        "popularity": 20.892,
+        "poster_path": "/q7CCx8aj8uME1fBa4KzTMdeWxXu.jpg",
+        "release_date": "1994-03-23",
+        "title": "Above the Rim",
+        "video": false,
+        "vote_average": 6.923,
+        "vote_count": 188
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3uj6x0mN9NKzSlY73dK4WCJzSQY.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 48940,
+        "original_language": "cn",
+        "original_title": "古惑仔之隻手遮天",
+        "overview": "This time taking on the rival Tung Sing triad, who is attempting to usurp Hung Hing influence in Hong Kong by having Tung Sing member Crow frame Ho Nam for the murder of Hung Hing Chairman Chiang Tin Sang. On the plus side, Chicken finds a new love interest in Wasabi, the daughter of the comedic priest, Father Lethal Weapon Lam.",
+        "popularity": 20.886,
+        "poster_path": "/nx4COZ81XFPWAZ7H8h0GyZNCnHn.jpg",
+        "release_date": "1996-06-29",
+        "title": "Young and Dangerous 3",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fLKf9EonnbNxreP6P6Jd9McsS8X.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 1071662,
+        "original_language": "ko",
+        "original_title": "사채소년",
+        "overview": "With each day feeling hopeless and bleak, Kang Jin's life takes a dramatic turn when he stumbles upon a lost envelope of money belonging to Rang. Using this newfound wealth, he takes a stand against Nam Young's girlfriend Da-young. But when Nam-young discovers Kang-jin's actions, he strikes back by stealing his money and issuing dangerous threats. With nowhere to turn, Kang-jin confides in Rang, who reveals a secret knowledge of the debt-collecting world. Together, they embark on a thrilling journey of power and control, as Kang-jin takes his first steps into the world of loan sharks.",
+        "popularity": 20.882,
+        "poster_path": "/xEdKpznv99JhCEpgF5md7ynrLwi.jpg",
+        "release_date": "2023-11-22",
+        "title": "Usury Academy",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zOIEOx4QP972GPi04vzFgQrI5ee.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 20567,
+        "original_language": "ja",
+        "original_title": "不良姐御伝 猪の鹿お蝶",
+        "overview": "Sex & Fury chronicles Ocho's exploits as she searches for her father's killers, each identified by unique tattoos on their backs (a deer, a boar, and a butterfly). Along the way, she also crosses paths with Shonusuke, a radical set on murdering prominent politician Kurokawa and Christina, an American spy posing as a gambler.",
+        "popularity": 20.87,
+        "poster_path": "/xwpUaiUT5qk34oAAi6d5aZLlH8e.jpg",
+        "release_date": "1973-02-17",
+        "title": "Sex and Fury",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 82
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bb36aEZwEvK2L01mgWQuC506CZg.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 13696,
+        "original_language": "en",
+        "original_title": "Angels with Dirty Faces",
+        "overview": "Childhood chums Rocky Sullivan and Jerry Connelly grow up on opposite sides of the fence: Rocky matures into a prominent gangster, while Jerry becomes a priest, tending to the needs of his old tenement neighborhood.",
+        "popularity": 20.866,
+        "poster_path": "/k23E4UAcow8eczLRmVCMdukL4Mx.jpg",
+        "release_date": "1938-11-26",
+        "title": "Angels with Dirty Faces",
+        "video": false,
+        "vote_average": 7.562,
+        "vote_count": 305
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kA28hzGAais4Rlk0RG6PsQzTqU4.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 9672,
+        "original_language": "en",
+        "original_title": "Infamous",
+        "overview": "While researching his book In Cold Blood, writer Truman Capote develops a close relationship with convicted murderers Dick Hickock and Perry Smith.",
+        "popularity": 20.859,
+        "poster_path": "/cIQUn20lUQpi70W0Z7ixezQJ7gj.jpg",
+        "release_date": "2006-10-13",
+        "title": "Infamous",
+        "video": false,
+        "vote_average": 6.464,
+        "vote_count": 192
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zfJ5hWSgVbkaBl7BugNViadJ69m.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            53
+        ],
+        "id": 65337,
+        "original_language": "ko",
+        "original_title": "공공의 적 1-1: 강철중",
+        "overview": "Kang Chul-jung has been a detective fighting crime for 15 years and is at it again against a mob boss who recruits young kids to do his dirty work.",
+        "popularity": 20.853,
+        "poster_path": "/wr7CWangsK7jI6KQYxfDpcVsisO.jpg",
+        "release_date": "2008-06-19",
+        "title": "Public Enemy Returns",
+        "video": false,
+        "vote_average": 6.36,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ajs3hya6o4ELDMHEcEgySm41AAF.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 71138,
+        "original_language": "ja",
+        "original_title": "女囚７０１号さそり",
+        "overview": "After being cruelly set up and deceived by Sugimi, a detective in cohorts with the mob with whom she was whole-heartedly in love, Matsushima’s desire for revenge knows no bounds.",
+        "popularity": 20.846,
+        "poster_path": "/Q3A9Mow4kSC7xpoiaBTuCOaIRl.jpg",
+        "release_date": "1972-08-25",
+        "title": "Female Prisoner #701: Scorpion",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 147
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/71oqZMM6dgKvi1WQztOoUHSzDdZ.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 32040,
+        "original_language": "en",
+        "original_title": "The Killing of a Chinese Bookie",
+        "overview": "Cosmo Vittelli, the proprietor of a sleazy, low-rent Hollywood cabaret, has a real affection for the women who strip in his peepshows and the staff who keep up his dingy establishment. He also has a major gambling problem that has gotten him in trouble before. When Cosmo loses big-time at an underground casino run by mobster Mort, he isn't able to pay up. Mort then offers Cosmo the chance to pay back his debt by knocking off a pesky, Mafia-protected bookie.",
+        "popularity": 20.84,
+        "poster_path": "/clQgmbmBOxvA2NepvijoL7YUCvr.jpg",
+        "release_date": "1976-02-15",
+        "title": "The Killing of a Chinese Bookie",
+        "video": false,
+        "vote_average": 7.116,
+        "vote_count": 246
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mBOl4RHVpIxIXaPapG6RIr3qH1Q.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 31659,
+        "original_language": "en",
+        "original_title": "Wise Guys",
+        "overview": "Harry Valentini and Moe Dickstein are both errand boys for the Mob. When they lose $250,000, they are set up to kill each other. But they run off to Atlantic City and comedy follows.",
+        "popularity": 20.838,
+        "poster_path": "/oN4xnH6SqigBlyTlOnOkZ2tdWAB.jpg",
+        "release_date": "1986-04-17",
+        "title": "Wise Guys",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 102
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kopv9YXvv06mhxkSs0C2tuTisyN.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 61139,
+        "original_language": "ru",
+        "original_title": "Бумер. Фильм второй",
+        "overview": "The film takes place a few years after the events shown in Bummer. Kostyan \"Kot\", who lost all his friends, the woman he loved and was nearly killed in the first installment of the film tries to begin a new, peaceful life. But is it possible to do? Has Russia changed and do \"bratki\" on black \"bummers\" no longer control business? Can he escape his past?",
+        "popularity": 20.836,
+        "poster_path": "/gMRZxmT6LZx9DWZjxN1i6PRrsKM.jpg",
+        "release_date": "2006-03-07",
+        "title": "Bummer 2",
+        "video": false,
+        "vote_average": 6.032,
+        "vote_count": 77
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j1mVOt9GRg1LcsEVcXFG3Ab1otb.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 610321,
+        "original_language": "ko",
+        "original_title": "경관의 피",
+        "overview": "A by-the-book police officer is assigned to secretly investigate a team leader who believes that the rules shouldn't stop an investigation. As the officer investigates further, his own attitudes begin to mirror the team leader's.",
+        "popularity": 20.814,
+        "poster_path": "/xHlGNVO7xDQrJMOv38UMLawajKP.jpg",
+        "release_date": "2022-01-05",
+        "title": "The Policeman's Lineage",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b5bGObHquFYVkw2HllIXthpxPYI.jpg",
+        "genre_ids": [
+            35,
+            28,
+            12,
+            80,
+            10749
+        ],
+        "id": 54555,
+        "original_language": "ko",
+        "original_title": "잠복근무",
+        "overview": "A boisterous detective goes undercover in a high school in order to befriend the teenage daughter of a notorious gangster.",
+        "popularity": 20.812,
+        "poster_path": "/wFdnARZK8aFXasUvdwVWv4LcYef.jpg",
+        "release_date": "2005-03-17",
+        "title": "She's on Duty",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xMm9Bb8EqJuceDYkEWRjJlZElVI.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 20408,
+        "original_language": "en",
+        "original_title": "Terror by Night",
+        "overview": "Holmes and Watson board a passenger train bound from London to Edinburgh, to guard the Star of Rhodesia, an enormous diamond worth a fortune belonging to an elderly woman of wealth; but within the first hour of the trip, the woman's son is murdered and the diamond stolen and any of the passengers in their car could be the killer thief.",
+        "popularity": 20.811,
+        "poster_path": "/cjGgLJ2GViKy0bla8OfaAhOBAJw.jpg",
+        "release_date": "1946-02-01",
+        "title": "Terror by Night",
+        "video": false,
+        "vote_average": 6.632,
+        "vote_count": 118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fWuOFLP57Zapja5AqInxjDezdT2.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 2047,
+        "original_language": "en",
+        "original_title": "The Real McCoy",
+        "overview": "Karen McCoy is released from prison with nothing but the clothes on her back. Before being incarcerated Karen was the bank robber of her time, but now she wishes for nothing more than to settle down and start a new life. Unfortunately between a dirty parole officer, old business partners, and an idiot ex-husband she will have to do the unthinkable in order to save her son.",
+        "popularity": 20.799,
+        "poster_path": "/6sZTcKhLRNp07cVoqgcMZoK9Noo.jpg",
+        "release_date": "1993-09-10",
+        "title": "The Real McCoy",
+        "video": false,
+        "vote_average": 5.63,
+        "vote_count": 231
+    }
+]

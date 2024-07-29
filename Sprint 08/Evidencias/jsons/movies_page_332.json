@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/8NBmKKXAVLPttlBZxwCer1xrwM4.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 85644,
+        "original_language": "en",
+        "original_title": "Riot",
+        "overview": "A riot in a state prison is staged to cover up an escape attempt, during which many inmates and guards are killed. Shot on location at Arizona State Prison.",
+        "popularity": 9.669,
+        "poster_path": "/a2HsD6H3lEXtU9k1ua7cx8wXQZW.jpg",
+        "release_date": "1969-01-15",
+        "title": "Riot",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dPLrBGjGGf0YUD8wpSIDu42Woqw.jpg",
+        "genre_ids": [
+            80,
+            53,
+            35
+        ],
+        "id": 80067,
+        "original_language": "it",
+        "original_title": "Morte sospetta di una minorenne",
+        "overview": "Police detective Paolo Germi and the mysterious Marisa meet each other at a dance hall. Germi is unsuspecting of the secret Marisa is carrying with her: adverse conditions forced her into prostitution. As Germi finds the young girl brutally murdered, he decides to go after her killers. During his investigation, he enters a world of intrigue and obfuscation that leave an endless trail of blood.",
+        "popularity": 9.669,
+        "poster_path": "/xqEbdB77oZ9k53WVhj3gaKuY2Uj.jpg",
+        "release_date": "1975-08-12",
+        "title": "The Suspicious Death of a Minor",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sovFoOmEeC1hVgCgjUhDWnoQ8vI.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648,
+            10770
+        ],
+        "id": 299709,
+        "original_language": "en",
+        "original_title": "Everything She Ever Wanted",
+        "overview": "Based on the Ann Rule novel, about a woman who for decades killed family members who dared to cross her.",
+        "popularity": 9.668,
+        "poster_path": "/uB4T4T0C34wqyEcu00Q8G3QXzh4.jpg",
+        "release_date": "2009-11-14",
+        "title": "Everything She Ever Wanted",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wW5YjllCunTV8Jkop0dWCdswI0V.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            35
+        ],
+        "id": 173847,
+        "original_language": "it",
+        "original_title": "Amiche da morire",
+        "overview": "Three very different women who are hiding a secret are forced to work together to save their own skin.",
+        "popularity": 9.668,
+        "poster_path": "/4rD3eOOyyzVmEPfk1dBadNMcRGN.jpg",
+        "release_date": "2013-03-07",
+        "title": "Amiche da morire",
+        "video": false,
+        "vote_average": 6.436,
+        "vote_count": 249
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tnPf8K6li0tAQajKmUidnBeG452.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 1276674,
+        "original_language": "ja",
+        "original_title": "夏目アラタの結婚",
+        "overview": "The perverted serial killer who shook the world, \"Shinagawa Piero,\" has been arrested. The killer turns out to be a 20-year-old woman! A boy, seeking to find his murdered father's missing head, writes a letter to her in prison under the name of Arata, a child welfare center worker who was counseling him. To fulfill the boy's request, Arata meets her, but when she realizes Arata did not write the letter, he abruptly proposes marriage to her to capture her interest.",
+        "popularity": 9.665,
+        "poster_path": "/ic7sxg5BhSgw7nu10wTWK1Il2Vc.jpg",
+        "release_date": "2024-09-06",
+        "title": "A Conviction of Marriage",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9mqWtGVpeup7937DBuIyhBVKNO6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 399706,
+        "original_language": "ja",
+        "original_title": "神戸国際ギャング",
+        "overview": "In 1947, in Kobe, Japan, a local street gang fights for their survival when its turf is overrun by United States occupation forces and international gangs.",
+        "popularity": 9.663,
+        "poster_path": "/rCQRdAkFw6lXP6NiuGCK5gzUVS.jpg",
+        "release_date": "1975-10-14",
+        "title": "The International Gang of Kobe",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hdWExtkjIxA3j6r8GdWgRKXuNm9.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 253046,
+        "original_language": "en",
+        "original_title": "Jailbait",
+        "overview": "A gritty coming of age thriller about a young girl sent to juvenile prison for the murder of her abusive step father. The film follows Anna Nix's journey into the dark world of an all girls jail where she discovers complex relationships, drugs, mental illness and her eventual search for redemption.",
+        "popularity": 9.662,
+        "poster_path": "/bNaKWcYARKnvDBCFEIc0uOQxX2v.jpg",
+        "release_date": "2014-02-14",
+        "title": "Jailbait",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 125
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 489164,
+        "original_language": "en",
+        "original_title": "The Firechasers",
+        "overview": "Insurance investigator must find out who is setting fires. Along the way he meets and works with a beautiful newspaper reporter and falls in love.",
+        "popularity": 9.66,
+        "poster_path": "/Ah21tFfWnCzhJhnkUHf6X7tLMAo.jpg",
+        "release_date": "1971-01-01",
+        "title": "The Firechasers",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 271327,
+        "original_language": "en",
+        "original_title": "Mr. Reliable",
+        "overview": "All Wally Mellish, an ex-convict in 1960s Australia, wants to do is live a quiet life with his girlfriend Beryl. Unfortunately when two police officers come around to disturb this, a misunderstanding quickly becomes out of control, resulting Wally, Beryl and her child being trapped in their house, surrounded by armed police under the impression that Wally is holding everyone hostage. Events quickly spiral into a media circus as, through the siege, Wally - inadvertently - manages to become a symbol for the anti-war movement.",
+        "popularity": 9.66,
+        "poster_path": "/7Bk9HRwcRHZvlM6YH2UVSLlOwDM.jpg",
+        "release_date": "1996-11-22",
+        "title": "Mr. Reliable",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9z0lv4NBV3ocfl5Q5SEa21apM5y.jpg",
+        "genre_ids": [
+            10770,
+            35,
+            10749,
+            80
+        ],
+        "id": 874238,
+        "original_language": "en",
+        "original_title": "The Santa Stakeout",
+        "overview": "Tanya is a police detective who is reluctantly partnered with fellow detective Ryan to solve a recent string of heists taking place during high-profile holiday parties around town.",
+        "popularity": 9.656,
+        "poster_path": "/g7H4cvUmGC4dQ60ViOrELatrrFW.jpg",
+        "release_date": "2021-10-24",
+        "title": "The Santa Stakeout",
+        "video": false,
+        "vote_average": 6.382,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/azq85nu6CrAUNL9SnOlDofFjVHg.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 44128,
+        "original_language": "en",
+        "original_title": "Charlie Valentine",
+        "overview": "The film chronicles the exploits of the title character, Charlie, played by Raymond J. Barry (Training Day) a career criminal intent on scoring one last big pay day. When his \"perfect crime\" goes bad, Charlie flees to Los Angeles to hide out with his estranged son, Danny, played by Michael Weatherly. What ensues reveals the true nature of some of the most unsavory of characters.",
+        "popularity": 9.656,
+        "poster_path": "/e6uWgDKpycIWb1AqHwRt8RGQzal.jpg",
+        "release_date": "2009-03-01",
+        "title": "Charlie Valentine",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mnVi05XpDokzQweafXyLv7gvBkS.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 120798,
+        "original_language": "en",
+        "original_title": "The Hot Potato",
+        "overview": "The 'Hot Potato' is an exciting new British period ‘caper movie’, in the spirit of ‘The Italian Job’ and ‘Two Way Stretch’ and is based on real events which took place at the end of the 1960s in London’s East End.",
+        "popularity": 9.655,
+        "poster_path": "/1dUhHRUBU2ce98lVFpKGxOBBa0t.jpg",
+        "release_date": "2011-01-01",
+        "title": "The Hot Potato",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9uZOi7iMngcRJbrI1iyI6TBOdwT.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 386465,
+        "original_language": "en",
+        "original_title": "Newcomer",
+        "overview": "When a rookie operative's mistake costs the lives of his entire team, he's forced on the run and must piece together the truth by re-creating the events of the ill-fated mission with only the audio recording to guide him.",
+        "popularity": 9.654,
+        "poster_path": "/4y76xaimxZa6NNosqysVK81Cq9q.jpg",
+        "release_date": "2015-10-30",
+        "title": "Newcomer",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3ty1Whni0RiGt4nBnFr3a5A91J0.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 29260,
+        "original_language": "en",
+        "original_title": "Trapped",
+        "overview": "Secret Service agents make a deal with a counterfeiting inmate to be released on early parole if he will help them recover some bogus moneymaking plates, but he plans to double-cross them.",
+        "popularity": 9.654,
+        "poster_path": "/ylqAsFE9pfpBgdfsie2FABD2VYW.jpg",
+        "release_date": "1949-09-27",
+        "title": "Trapped",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wGQ6P8DJdCn3is4ZpDSwr0dpiDW.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            9648,
+            10749
+        ],
+        "id": 47331,
+        "original_language": "ja",
+        "original_title": "ブラックキス",
+        "overview": "Asuka is an aspiring model who moves to Tokyo to pursue her career. She moves into a small apartment with a friend of a friend, Kasumi. A bizarre murder occurs in the hotel across the street. The body was mutilated and repositioned into a lurid work of art. After this, a string of murders start happening all around the two girls, as if some crazed serial killer was following them. At the scene of each crime, the perpetrator leaves a black lip print, and is subsequently dubbed \"The Black Kiss.",
+        "popularity": 9.653,
+        "poster_path": "/1XDNIeQS6T3jxptmzvHzOx0w1W1.jpg",
+        "release_date": "2004-10-01",
+        "title": "Black Kiss",
+        "video": false,
+        "vote_average": 5.333,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ejYCVTGnTKtB9wv8xgoFtuJDsds.jpg",
+        "genre_ids": [
+            10770,
+            28,
+            80,
+            9648
+        ],
+        "id": 27339,
+        "original_language": "en",
+        "original_title": "The Pretender: Island of the Haunted",
+        "overview": "Jarod takes a keen interest in an ancient symbol that may unlock secrets about his family. But Miss Parker is hot on Jarod's trail and about to make discoveries of her own. Their investigation leads to a remote Island off the Scottish coast, where a set of sacred scrolls, vital to the Centre, have been hidden – and protected – for centuries.",
+        "popularity": 9.652,
+        "poster_path": "/6MBCzZhvfGTiH7LZIN5Xjzd1f0i.jpg",
+        "release_date": "2001-12-10",
+        "title": "The Pretender: Island of the Haunted",
+        "video": false,
+        "vote_average": 6.85,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uwkPQSwFLrUgB4OOVmMSLzeYcZt.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 76983,
+        "original_language": "cn",
+        "original_title": "三狼奇案",
+        "overview": "After being fired by his penny-pinching boss, Wai and his two life-long friends decide to kidnap and ransom his son. The situation spirals out of control after the boy is accidentally killed as a result. Based on a true story.",
+        "popularity": 9.647,
+        "poster_path": "/cPJRqYnm1ytUCZlwrxIh5p6q91N.jpg",
+        "release_date": "1989-11-02",
+        "title": "Sentenced to Hang",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gGmVtVlVWM2J58IVKtV0YliUFm6.jpg",
+        "genre_ids": [
+            27,
+            28,
+            53,
+            80,
+            878
+        ],
+        "id": 88377,
+        "original_language": "en",
+        "original_title": "Robo Vampire",
+        "overview": "Narcotics agent Tom Wilde is given a second chance at life after being shot and killed. In a futuristic experiment, agent Wilde is returned to life as an Android Robot. He is sent on a very dangerous mission into the depths of the golden Triangle to rescue Sophie, a beautiful undercover agent who has been captured by the evil drug warlord Mr. Young and his inhuman creation the Vampire Beast.",
+        "popularity": 9.646,
+        "poster_path": "/aOCqnXdg2J32pphIZZlSOnlVoV0.jpg",
+        "release_date": "1988-10-22",
+        "title": "Robo Vampire",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pM10KB3B9yPkfTgFy8GhLojw10M.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 91463,
+        "original_language": "cn",
+        "original_title": "旺角揸Fit人",
+        "overview": "This first spin-off movie focuses on Ugly Kwan, played by Francis Ng.",
+        "popularity": 9.645,
+        "poster_path": "/2cXQnBieJwncC3qQ1ssdnzNZUsr.jpg",
+        "release_date": "1996-05-23",
+        "title": "Once Upon a Time in Triad Society",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/thZA67NFdWDhxflM3QBdBhBI1f1.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 46542,
+        "original_language": "en",
+        "original_title": "The Falcon and the Co-Eds",
+        "overview": "The Falcon is called to a young woman's school to investigate a murder. When he arrives, another victim is discovered.",
+        "popularity": 9.644,
+        "poster_path": "/2ydAEscxnKXPTtgFd8f4jJ8lWCO.jpg",
+        "release_date": "1943-11-10",
+        "title": "The Falcon and the Co-Eds",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 14
+    }
+]

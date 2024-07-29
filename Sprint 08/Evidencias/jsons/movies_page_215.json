@@ -1,0 +1,406 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/cNogdBHu9qY9DQDMlXhJiW5tnD2.jpg",
+        "genre_ids": [
+            80,
+            99,
+            9648,
+            27
+        ],
+        "id": 56811,
+        "original_language": "en",
+        "original_title": "Cropsey",
+        "overview": "Realizing the urban legend of their youth has actually come true, two filmmakers delve into the mystery surrounding five missing children and the real-life boogeyman linked to their disappearances.",
+        "popularity": 13.762,
+        "poster_path": "/mcmJj11lX8v518rvzYb22LlCjAz.jpg",
+        "release_date": "2009-04-25",
+        "title": "Cropsey",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 155
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qsWK8QU6C4Fw9EBIUhm0oCuF58N.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 250608,
+        "original_language": "en",
+        "original_title": "Concrete Blondes",
+        "overview": "Three down-on-their-luck, twenty-something female roommates are living paycheck to paycheck in a rundown apartment, when one night they stumble across $3 million dollars in a suitcase amidst the bloody aftermath of a drug shootout. Despite wanting to keep the money and smuggle it out of the country, the girls are forced into a final showdown and must face off against seasoned criminals who want the cash for themselves.",
+        "popularity": 13.758,
+        "poster_path": "/cwwx7sqEvmlNCFzLMTQduScWymj.jpg",
+        "release_date": "2013-05-02",
+        "title": "Concrete Blondes",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vuKiF3NzwGqRIlg69gqwiLwGYp8.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 53654,
+        "original_language": "en",
+        "original_title": "The Brotherhood",
+        "overview": "The son of a powerful Mafia don comes home from his army service in Vietnam and wants to lead his own life, but family tradition, intrigues and powerplays involving his older brother dictate otherwise, and he finds himself being slowly drawn back into that world.",
+        "popularity": 13.758,
+        "poster_path": "/3w6hBkhRS4G2uMui2S8gaji02JV.jpg",
+        "release_date": "1968-12-01",
+        "title": "The Brotherhood",
+        "video": false,
+        "vote_average": 5.789,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pz1JgMO5E1SU5OSL6aT5lN0fIvW.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 193385,
+        "original_language": "en",
+        "original_title": "Ironheart",
+        "overview": "An L.A. cop goes after a gang of murderous drug dealers.",
+        "popularity": 13.756,
+        "poster_path": "/wxW81qeuaxwtNlBqKP1jBpgI4gW.jpg",
+        "release_date": "1992-11-25",
+        "title": "Ironheart",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lZB9aHehXOcoHxlPyuH3pjncnPZ.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 59434,
+        "original_language": "fr",
+        "original_title": "Le cave se rebiffe",
+        "overview": "\"Le Dabe\" retired many years ago and now he lives in the Tropics where he owns stables and horses. He is a very rich man. He was the king of all money counterfeiters. He is contacted from Paris to organize a new job. He says no. But when he finds out the the currency that should be counterfeited is the Dutch florin, he accepts immediately. He retired after having counterfeited 100 florin notes just before the Queen Wilhelmina retired them from circulation. He flies to Paris. But the gang is not to be trusted, at least not all of them.",
+        "popularity": 13.754,
+        "poster_path": "/h8yMOVojgPug4zYQZqHedZKGN6C.jpg",
+        "release_date": "1961-09-27",
+        "title": "The Counterfeiters of Paris",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 96
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lzq2B01WiKCF1oXjxCaIGhomTxd.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 52770,
+        "original_language": "en",
+        "original_title": "Things Change",
+        "overview": "Jerry, a misfit Mafia henchman, is assigned the low-level job of keeping an eye on Gino, a shoe repairman fingered by the Mob to confess to a murder he didn't commit. But Gino's mistaken for a Mafia boss, and the two are suddenly catapulted to the highest levels of mobster status. Only friendship will see them through this dangerous adventure alive!",
+        "popularity": 13.748,
+        "poster_path": "/xKjGI2AAg5UHaBvVVR7oI865Zth.jpg",
+        "release_date": "1988-10-21",
+        "title": "Things Change",
+        "video": false,
+        "vote_average": 6.189,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n1d72dX1ZC00MabxftWnqqhPQEp.jpg",
+        "genre_ids": [
+            35,
+            27,
+            28,
+            80,
+            14
+        ],
+        "id": 94603,
+        "original_language": "en",
+        "original_title": "Strippers vs. Werewolves",
+        "overview": "Mickey, who happens to be a werewolf and a crime boss, gets all worked up and hairy during a private dance at a strip club. Justice, the dancer, grabs the nearest weapon and lands a fatal blow: her silver fountain pen right through Mickey's wolfed-out eye. This ignites a small-scale war between Mickey's group of werewolf mobsters and the sultry strippers of Vixens.",
+        "popularity": 13.742,
+        "poster_path": "/5YwXTgiLkvRvZGExV2lb48AFfGQ.jpg",
+        "release_date": "2012-04-27",
+        "title": "Strippers vs. Werewolves",
+        "video": false,
+        "vote_average": 3.99,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5d0bSvsQaHm7lOMcEnbSLzjYirn.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 96398,
+        "original_language": "hi",
+        "original_title": "पान सिंह तोमर",
+        "overview": "Paan Singh Tomar goes from celebrated runner to star brigand and rebel when life after sports fails to unfold as planned.",
+        "popularity": 13.732,
+        "poster_path": "/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg",
+        "release_date": "2012-03-02",
+        "title": "Paan Singh Tomar",
+        "video": false,
+        "vote_average": 7.318,
+        "vote_count": 118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mOSBM2h6q0Ky4ZMPwuU4SmlbdXv.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18,
+            10770
+        ],
+        "id": 494467,
+        "original_language": "en",
+        "original_title": "Past Malice: An Emma Fielding Mystery",
+        "overview": "Archaeologist Emma Fielding is hired to consult on the acquisition of a castle-like estate that local legend states is cursed. But she finds herself in the middle of a murder case after discovering the body of the archaeologist she was hired to shadow in a secret chamber in the bowels of the huge building. Assisted by her friend, FBI special agent Jim Conner, Fielding must sift through clues and a long list of suspects, each of whom has their own reason for wanting the man dead, to determine who is the killer.",
+        "popularity": 13.723,
+        "poster_path": "/jLex3GzVQ7VJBZkVOZfI3rPGBJn.jpg",
+        "release_date": "2018-01-14",
+        "title": "Past Malice: An Emma Fielding Mystery",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sVUIt9Jo6XxTLE8ORbqAJvY8J0A.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 35907,
+        "original_language": "hi",
+        "original_title": "कांटे",
+        "overview": "After being wrongfully detained and humiliated, six men meet in a lock-up. In a quest to seek revenge, they make the perfect plan of robbing the bank where all the police officers' salaries get deposited.",
+        "popularity": 13.723,
+        "poster_path": "/ekNwKxMMXy5pWauS9FqnuzhXAE9.jpg",
+        "release_date": "2002-12-20",
+        "title": "Kaante",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 146761,
+        "original_language": "en",
+        "original_title": "Lethal Vows",
+        "overview": "A seemingly upstanding, caring husband and father is accused of foul play by his ex-wife regarding the mysterious death of his second wife.",
+        "popularity": 13.722,
+        "poster_path": "/oGX1TkWehn0uPLqdZPhOAoW3073.jpg",
+        "release_date": "1999-10-13",
+        "title": "Lethal Vows",
+        "video": false,
+        "vote_average": 5.45,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7tHc2p9MvAzftlDu9E7qJrzb6kq.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 265727,
+        "original_language": "ko",
+        "original_title": "강적",
+        "overview": "Desperate to discover who framed him for murder, criminal Su-hyun escapes from police custody and crosses path with cop Sung-woo. After realizing they have a mutual enemy, the two form an unlikely alliance and together go looking for payback.",
+        "popularity": 13.719,
+        "poster_path": "/z680E2rreF17J2xA54HVaBxm07s.jpg",
+        "release_date": "2006-06-22",
+        "title": "Les Formidables",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tuQ5HuQd95xlaE9uygvv4OJrXr2.jpg",
+        "genre_ids": [
+            18,
+            28,
+            10770,
+            80,
+            53
+        ],
+        "id": 98134,
+        "original_language": "en",
+        "original_title": "Nightmare in Badham County",
+        "overview": "Two UCLA coeds have engine trouble in small Southern town. When they spurn the local sheriff's advances he arranges for them to be taken to the women's prison on trivial charges (the judge is a cousin), where they must endure atrocities at the hands of the administrators of the prison and the prison guards.",
+        "popularity": 13.701,
+        "poster_path": "/c1xnZmU1NgIAAdIOlEJ49rPK9p8.jpg",
+        "release_date": "1976-11-05",
+        "title": "Nightmare in Badham County",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8QnTXOxN6X6qegWIWZ4c2sDAJmB.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            9648,
+            10770
+        ],
+        "id": 80809,
+        "original_language": "en",
+        "original_title": "Perry Mason Returns",
+        "overview": "When his former secretary is accused of a murder, Perry Mason gives up a judgeship to defend her.",
+        "popularity": 13.701,
+        "poster_path": "/lUQelsiak3BPLXfxNpVYlkLjWV2.jpg",
+        "release_date": "1985-12-01",
+        "title": "Perry Mason Returns",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9uFAyoe3hCdX7uo944ZzpvcVBHG.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1126608,
+        "original_language": "zh",
+        "original_title": "绝地追击",
+        "overview": "In the 1990s, an armed police team in the south-western border of China encounter floods and drug traffickers while on a mission, resulting in heavy casualties. In order to avenge their dead comrades, the survivors launched a final confrontation against the drug dealers.",
+        "popularity": 13.695,
+        "poster_path": "/1VSuB0kB5wtLfs9wLpUieRa6vvK.jpg",
+        "release_date": "2023-08-25",
+        "title": "Raid On The Lethal Zone",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1RScmQijvfigDuefhTRIzipg59q.jpg",
+        "genre_ids": [
+            28,
+            12,
+            16,
+            80,
+            878
+        ],
+        "id": 476294,
+        "original_language": "ja",
+        "original_title": "劇場版Infini-T Force／ガッチャマン さらば友よ",
+        "overview": "Gatchaman, Polymar, Tekkaman and Casshern join forces for a new fight. This time, Joe Asakura also returns. Is he a friend or a foe?",
+        "popularity": 13.689,
+        "poster_path": "/h3CUPemvU0ppcmsoEXtXOSSrfbZ.jpg",
+        "release_date": "2018-02-24",
+        "title": "Infini-T Force the Movie: Farewell Gatchaman My Friend",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/txnNf3NyPG5xf5ro96y2Bq9AHmr.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 44321,
+        "original_language": "es",
+        "original_title": "La virgen de los sicarios",
+        "overview": "World-weary author Fernando has returned to his native Colombia to live out his days in peace.  But Fernando's once-quiet hometown has become a hotbed of violence, drugs, and corruption.  On the brink of despair, Fernando meets Alexis, a beautiful but hardened street kid who lives by the rule of the gun.  Together, they forge an unlikely relationship.",
+        "popularity": 13.689,
+        "poster_path": "/q5jT6BBCIWIysr712UIZY7BOGje.jpg",
+        "release_date": "2000-09-01",
+        "title": "Our Lady of the Assassins",
+        "video": false,
+        "vote_average": 7.273,
+        "vote_count": 176
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dJnqIp8OCffHYpz3jWORv9MVU3K.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 341397,
+        "original_language": "ja",
+        "original_title": "真夜中まで",
+        "overview": "Koji, a jazz musician, takes a cigarette break in between sets at a Tokyo nightclub. He witnesses a murder and runs into a girl, Linda, who is being pursued by the killers. For the next two hours, Koji and Linda are running from both the hitmen and the police. Mistakenly identified as prime suspects, they have to solve the crime but time is running out: Koji has to be back to perform in his club by midnight, as a very special guest will be attending.",
+        "popularity": 13.685,
+        "poster_path": "/a731XTWiMHOwzxyKPNmlx1PZn5z.jpg",
+        "release_date": "1999-11-06",
+        "title": "Round About Midnight",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w2ZV3U6DQm4RXf6TU3g7uHlD5cJ.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 42842,
+        "original_language": "cn",
+        "original_title": "高度戒備",
+        "overview": "A police inspector becomes obsessed with apprehending a criminal planning a major heist at the Hong Kong Jockey Club in the weeks leading up to Hong Kong's return to China.",
+        "popularity": 13.678,
+        "poster_path": "/fiRDv0It48AthPrzPbipYNfmPyl.jpg",
+        "release_date": "1997-07-18",
+        "title": "Full Alert",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4hCropdQDPSDXeSpyI7kidyNQWF.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 80287,
+        "original_language": "en",
+        "original_title": "Rent-a-Cop",
+        "overview": "Detective Tony Church is forced to retire and become a store rent-a-cop when his drug sting operation comes to a tragic end by a masked killer. He joins forces with a prostitute, the only one able to identify the killer, to bring him to justice.",
+        "popularity": 13.674,
+        "poster_path": "/mo76XEkMKR7nniJOdDIe9UVoaOj.jpg",
+        "release_date": "1987-11-28",
+        "title": "Rent-a-Cop",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 34
+    }
+]

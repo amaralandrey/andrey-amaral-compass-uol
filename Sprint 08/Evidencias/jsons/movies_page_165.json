@@ -1,0 +1,395 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/nnHnrPM0z9PNpavva6U5jhctNsE.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 362202,
+        "original_language": "en",
+        "original_title": "The Crash",
+        "overview": "In the not so distant future, a team of white collar criminals are enlisted by the Federal government to thwart a cyber-attack that threatens to bankrupt the United States of America.",
+        "popularity": 13.979,
+        "poster_path": "/xEu4OsF4Ol0kkB94AMRyEHfvTVf.jpg",
+        "release_date": "2017-01-13",
+        "title": "The Crash",
+        "video": false,
+        "vote_average": 4.553,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/XyfTwRqEpWQ7Q8I4aZ9d6wzlo.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 382572,
+        "original_language": "zh",
+        "original_title": "罗曼蒂克消亡史",
+        "overview": "Shanghai gangsters grapple with lust and loyalty on the eve of war with Japan as they try to navigate an alliance with the enemy's army.",
+        "popularity": 18.299,
+        "poster_path": "/vQm1jnqrQQoDxBRYFKQ9uq8Rbm7.jpg",
+        "release_date": "2016-12-16",
+        "title": "The Wasted Times",
+        "video": false,
+        "vote_average": 6.951,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sLQUCTUjnDVut0741VQVJ1VbWhh.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 38191,
+        "original_language": "en",
+        "original_title": "The Sunchaser",
+        "overview": "A young half-Navajo convict dying of cancer forces a yuppie doctor to drive him to a magic healing lake.",
+        "popularity": 19.613,
+        "poster_path": "/yzS07UnDsWGrdfsAgg75goZFOWa.jpg",
+        "release_date": "1996-05-29",
+        "title": "The Sunchaser",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 85
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ll1BtZ7R84UZfZppK3l7rCi0TBu.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 2923,
+        "original_language": "en",
+        "original_title": "B. Monkey",
+        "overview": "When wistful introvert Alan Furnace meets quick-witted bombshell Beatrice, he has no idea of her secret life as \"B. Monkey\" -- the top thief-for-hire in London's criminal underworld. Charmed by Furnace's innocent and chivalrous ways, Beatrice resolves to reform. But to cash in on her first chance at real love, she must escape her former partner in crime, the ruthless Paul Neville -- and a dark past that seems to haunt her every step.",
+        "popularity": 16.333,
+        "poster_path": "/80bQjfpH14P5p2TDnfWUukEkM55.jpg",
+        "release_date": "1999-07-15",
+        "title": "B. Monkey",
+        "video": false,
+        "vote_average": 5.881,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2YmxAt5XtWgl0BzoDrS51aWNAds.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 962697,
+        "original_language": "en",
+        "original_title": "Our Father",
+        "overview": "After a woman's at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.",
+        "popularity": 16.335,
+        "poster_path": "/maG75HDZbOwywDFd1h195CA8I36.jpg",
+        "release_date": "2022-05-11",
+        "title": "Our Father",
+        "video": false,
+        "vote_average": 6.579,
+        "vote_count": 178
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xTsQZnwmrUAvC2QABKpIYpqRO1I.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            14
+        ],
+        "id": 474647,
+        "original_language": "ja",
+        "original_title": "不能犯",
+        "overview": "At a certain park, there is a mysterious man, who has red eyes and a black suit, that people can go to and request him to kill someone. His assassinations can never be blamed on him because he takes no illegal action. His strength is in the power of suggestion and the arrangement of events. He accepts these requests, all the while privately mocking the foolishness of those whose unwise wishes he grants.",
+        "popularity": 14.899,
+        "poster_path": "/dEsK36fG7VGf6HNU9wVTxqP9nKa.jpg",
+        "release_date": "2018-02-01",
+        "title": "IMPOSSIBILITY DEFENSE",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1geGYUKUNKV3RZJMncJFLckaAxI.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80,
+            10749,
+            10402
+        ],
+        "id": 17952,
+        "original_language": "en",
+        "original_title": "In The Mix",
+        "overview": "A successful DJ named Darrel (Usher), managed to rescue a powerful mobster one night. In order to repay Darrell, the mobster, Frank Pacelli, gives him the task of protecting his daughter, Dolly (Chriqui)",
+        "popularity": 16.562,
+        "poster_path": "/xtsT8pOGo5VZhQobpsVsPHRE0dz.jpg",
+        "release_date": "2005-11-23",
+        "title": "In The Mix",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 267
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o85Xk5nCcx4NWlYKLm9ebrQaqMI.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 250658,
+        "original_language": "en",
+        "original_title": "The Internet's Own Boy: The Story of Aaron Swartz",
+        "overview": "Programming prodigy and information activist Aaron Swartz achieved groundbreaking work in social justice and political organizing. His passion for open access ensnared him in a legal nightmare that ended with the taking of his own life at the age of 26.",
+        "popularity": 17.814,
+        "poster_path": "/s8qznCAjPRcRwQkvGU6rRdF7mxb.jpg",
+        "release_date": "2014-06-27",
+        "title": "The Internet's Own Boy: The Story of Aaron Swartz",
+        "video": false,
+        "vote_average": 7.876,
+        "vote_count": 418
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bO3L7mVhMCeSjWpYtbkvCRs4qcP.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 48775,
+        "original_language": "ru",
+        "original_title": "Убийцы",
+        "overview": "The Killers is a 1956 student film by the Soviet and Russian film director Andrei Tarkovsky and his fellow students Marika Beiku and Aleksandr Gordon. The film is based on the short story \"The Killers\" by Ernest Hemingway, written in 1927. It was Tarkovsky's first film, produced when he was a student at the State Institute of Cinematography.",
+        "popularity": 14.671,
+        "poster_path": "/4oOz7UIQpz9d7rshhEEnukPgsw2.jpg",
+        "release_date": "1956-01-01",
+        "title": "The Killers",
+        "video": false,
+        "vote_average": 6.069,
+        "vote_count": 87
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n1HP3A7MAXZ2ZU7gOkxyIERPMKD.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 21256,
+        "original_language": "en",
+        "original_title": "Born to Win",
+        "overview": "A smart-mouthed junkie and a former hairdresser spends his days looking for just \"one more fix\".",
+        "popularity": 12.61,
+        "poster_path": "/rlTYAuaBN753j9tZYjROusaNCUj.jpg",
+        "release_date": "1971-12-01",
+        "title": "Born to Win",
+        "video": false,
+        "vote_average": 5.382,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q0q0nISnX4Z8V2wIfhIYfzaVX3b.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 301325,
+        "original_language": "en",
+        "original_title": "#Horror",
+        "overview": "Inspired by actual events, a group of 12 year old girls face a night of horror when the compulsive addiction of an online social media game turns a moment of cyber bullying into a night of insanity.",
+        "popularity": 21.553,
+        "poster_path": "/v9pTHwhpSWmPHU8i1pEt9VIG9Kg.jpg",
+        "release_date": "2015-11-20",
+        "title": "#Horror",
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 187
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pE7XVUxxQ9qdCQKhBWalYNA57I8.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 35797,
+        "original_language": "fr",
+        "original_title": "Coup de torchon",
+        "overview": "A pathetic police chief, humiliated by everyone around him, suddenly wants a clean slate in life, and resorts to drastic means to achieve it.",
+        "popularity": 15.309,
+        "poster_path": "/sYlANrZi5vxaHhmPaktuPlsO2Wz.jpg",
+        "release_date": "1981-11-04",
+        "title": "Coup de Torchon",
+        "video": false,
+        "vote_average": 7.055,
+        "vote_count": 183
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/TO0F2pIiMsb9r27aU3Wj9CT84n.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1147964,
+        "original_language": "pt",
+        "original_title": "Angela",
+        "overview": "In this biopic about the life and death of Ângela Diniz, Angela meets Raul and believes she has found someone who loves her free spirit as much as she does. The overwhelming attraction makes the couple drop everything and live the dream of rebuilding their lives on the beach. But the relationship declines into abuse and violence, giving rise to one of the most remembered murders in Brazil.",
+        "popularity": 13.328,
+        "poster_path": "/1sRxjAw0LwV7GvwUHqb7YnyDp3D.jpg",
+        "release_date": "2023-09-07",
+        "title": "Angela",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ydJ8u4dPGAJI8WsoPZuFh8jdgGM.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 25728,
+        "original_language": "en",
+        "original_title": "The Mob",
+        "overview": "An undercover officer tracks waterfront corruption from California to New Orleans and back.",
+        "popularity": 15.909,
+        "poster_path": "/4nUuKmATbLpECcwzzl1ONwTVoCW.jpg",
+        "release_date": "1951-09-07",
+        "title": "The Mob",
+        "video": false,
+        "vote_average": 6.625,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1fQ3xZ0kAnAhGK6TpGwUN0eG66A.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 216541,
+        "original_language": "en",
+        "original_title": "Ambushed",
+        "overview": "In the frenetic underbelly of Los Angeles, Agent Maxwell closes in on an international cocaine smuggling operation run by criminal mastermind Vincent Camastra. When Agent Beverly Royce goes undercover with the drug dealers and finds herself deeper then she can handle - the case becomes personal for Maxwell who has to combat ruthless killers and dirty cops in an all-out action filled finale to bring the criminals to justice.",
+        "popularity": 21.536,
+        "poster_path": "/r7BKxa5auOnvbEMD1SNaQObQ5Nn.jpg",
+        "release_date": "2013-09-21",
+        "title": "Ambushed",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Nb6eUFJ1pxwT8MHAeSSyLypvQb.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 506815,
+        "original_language": "en",
+        "original_title": "A Violent Separation",
+        "overview": "1983. In a quiet Midwestern town, a young deputy covers up a murder at the hands of his brother triggering a series of events that sends them and the victim's family towards a shattering climax.",
+        "popularity": 18.026,
+        "poster_path": "/yNlLMfrfPExwqLZSOFbqmkawIpg.jpg",
+        "release_date": "2019-05-17",
+        "title": "A Violent Separation",
+        "video": false,
+        "vote_average": 7.024,
+        "vote_count": 82
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5iVIEGalV8LJQIcqzJITlwx5YIn.jpg",
+        "genre_ids": [
+            99,
+            80,
+            18
+        ],
+        "id": 799555,
+        "original_language": "en",
+        "original_title": "Operation Varsity Blues: The College Admissions Scandal",
+        "overview": "An examination that goes beyond the celebrity-driven headlines and dives into the methods used by Rick Singer, the man at the center of the shocking 2019 college admissions scandal, to persuade his wealthy clients to cheat an educational system already designed to benefit the privileged.",
+        "popularity": 14.821,
+        "poster_path": "/qZJuctnatinO0OpnruGOWaT4Bga.jpg",
+        "release_date": "2021-03-17",
+        "title": "Operation Varsity Blues: The College Admissions Scandal",
+        "video": false,
+        "vote_average": 6.872,
+        "vote_count": 128
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l3N6BtcVwXp6rJAUOpcb8ooyE9c.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 690,
+        "original_language": "fr",
+        "original_title": "Pickpocket",
+        "overview": "Michel takes up pickpocketing on a lark and is arrested soon after. His mother dies shortly after his release, and despite the objections of his only friend, Jacques, and his mother's neighbor Jeanne, Michel teams up with a couple of petty thieves in order to improve his craft. With a police inspector keeping an eye on him, Michel also tries to get a straight job, but the temptation to steal is hard to resist.",
+        "popularity": 19.557,
+        "poster_path": "/kxpvceDv9fhFc4OAs82fmdzu17Y.jpg",
+        "release_date": "1959-12-16",
+        "title": "Pickpocket",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 489
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sQRa1vjE2mmak8GwlXQc5cRn232.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 58404,
+        "original_language": "it",
+        "original_title": "Operazione San Gennaro",
+        "overview": "A pair of Americans want to perform the greatest robbery: the treasure of San Genaro, in Napoli.",
+        "popularity": 13.306,
+        "poster_path": "/wAj2GiU25Xh8zgkEG7VC5zMj6cq.jpg",
+        "release_date": "1966-11-25",
+        "title": "The Treasure of San Gennaro",
+        "video": false,
+        "vote_average": 7.386,
+        "vote_count": 175
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9U15pABdYbqDRQrlJNtnjeleCR7.jpg",
+        "genre_ids": [
+            80,
+            35,
+            53
+        ],
+        "id": 253272,
+        "original_language": "en",
+        "original_title": "The Mule",
+        "overview": "In 1983, a naive man is detained by Australian Federal Police with lethal narcotics hidden in his stomach. After being apprehended, ‘The Mule’ makes a desperate choice... to defy his bodily functions and withhold the evidence – literally.",
+        "popularity": 21.308,
+        "poster_path": "/qwMZYSkLofFC27oBeZ1hZWgliXw.jpg",
+        "release_date": "2014-03-10",
+        "title": "The Mule",
+        "video": false,
+        "vote_average": 6.256,
+        "vote_count": 129
+    }
+]

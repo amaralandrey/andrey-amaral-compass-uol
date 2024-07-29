@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/mLTGUYWLy2YTmu6upHwoNyvGjaH.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 431891,
+        "original_language": "ml",
+        "original_title": "10 കല്പനകൾ",
+        "overview": "Shadiya Akbar IPS, a renowned police officer, addresses a group of trainees by narrating a memorable instance from her career. The episode and the characters of the case offer her a valuable lesson in a current case, that extends beyond the litigation.",
+        "popularity": 6.982,
+        "poster_path": "/ehNQksZJFQk6f6TfaqwOAZFo70.jpg",
+        "release_date": "2016-11-25",
+        "title": "10 Kalpanakal",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mNA87Y2lRd0b6HaCEHhaQhMpFvk.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 263782,
+        "original_language": "en",
+        "original_title": "The Lindbergh Kidnapping Case",
+        "overview": "Fact-based story of the kidnapping of Charles Lindbergh Jr., son and namesake of the famed pilot, and ensuing trial of accused and convicted killer, Bruno Hauptmann.",
+        "popularity": 6.982,
+        "poster_path": "/mUHpWB6iHUXTYsZNSEhKjpOhAvO.jpg",
+        "release_date": "1976-02-26",
+        "title": "The Lindbergh Kidnapping Case",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rSsDTKDkdBkrOMwoDw80SSJuBqL.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1014156,
+        "original_language": "ja",
+        "original_title": "現代任侠道 兄弟分",
+        "overview": "After the enactment of the Anti-Prostitution Law, the red-light district in Shinjuku lost its allure. Even the gambling den of the Ryūzaki family was always deserted. Ryūzaki, the boss, declared his retirement in response to the changing times. It was thought that Igarashi, who valued righteousness and principles and had the respect of others, would become the second-in-command. However, he was an annoying presence to Ryūzaki...",
+        "popularity": 6.981,
+        "poster_path": "/2U552YCxDasSKo1ISm8Zm72D6fx.jpg",
+        "release_date": "1970-01-20",
+        "title": "Modern Chivarly: Sworn Brothers",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/skDx1f752Is8XeEeUfR94idMva5.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 19814,
+        "original_language": "da",
+        "original_title": "Pistoleros",
+        "overview": "In this modern-day western, rumor has it that notorious gangster Frank Lowies hid millions in cash before getting tossed in the slammer. Going on little more than cryptic tattoos on a sexy stripper's body, every gunslinging scoundrel in the desert hot town of Copenhagen is on the hunt, their brows dripping with sweat and blood, and their pistols blazing in unflinchingly graphic showdowns -- but where the hell is the money?",
+        "popularity": 6.981,
+        "poster_path": "/2Oq8ZJcjC2TYZvttSyL5agcuSFH.jpg",
+        "release_date": "2007-02-01",
+        "title": "Pistoleros",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tj8Tw9GScE4RsbInQ0y2FTsA9TG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 110379,
+        "original_language": "hu",
+        "original_title": "Szürkület",
+        "overview": "In the dense and murky woodlands of provincial Hungary, the search for a child murderer drags a once-respected detective into an all-consuming obsession enshrouded by irresolution and despair, even long after he has been taken off the case. What emerges is not a crime story, but a harrowing venture through the darkness of the human soul.",
+        "popularity": 6.98,
+        "poster_path": "/7gwAZ38t4VXgafdq9hJfkE6BBBP.jpg",
+        "release_date": "1990-09-28",
+        "title": "Twilight",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vdEG0Ge4ArZp9J8LbwtfwsQiRvk.jpg",
+        "genre_ids": [
+            53,
+            27,
+            9648,
+            80
+        ],
+        "id": 39023,
+        "original_language": "id",
+        "original_title": "Kala",
+        "overview": "A police and a journalist uncover series of murders that lead into one problem: A treasure many parties were fighting for and caused many casualties.",
+        "popularity": 6.98,
+        "poster_path": "/ueovr7fsG4LiBHj46KK5L5nFdoH.jpg",
+        "release_date": "2007-04-19",
+        "title": "Dead Time",
+        "video": false,
+        "vote_average": 6.769,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pv7nUg9P8iFsX5eygz01fX1sjPN.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1010017,
+        "original_language": "ja",
+        "original_title": "待っていた極道",
+        "overview": "Forth film in the Gokudo series with Tomisaburô Wakayama",
+        "popularity": 6.979,
+        "poster_path": "/vxwaYsnXOfbgcQapzMZyMASt3U.jpg",
+        "release_date": "1969-01-09",
+        "title": "The Yakuza Awaits",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 346493,
+        "original_language": "es",
+        "original_title": "Reclusorio",
+        "overview": "The human and divine justice are exposed through five real life stories related to the legal processes of a prison. The cases presented are: \"I want to stay in jail\", \"Blood between women\", \"The raped prostitute\", \"The kidnapped policeman\", and \"Euthanasia or murder?\"",
+        "popularity": 6.979,
+        "poster_path": "/mkU1U0Z7bv9geP2wONwqVKKVIme.jpg",
+        "release_date": "1997-09-19",
+        "title": "Reclusorio",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6OwP1fm682gEoqdCUsBnzPiBdK7.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 938458,
+        "original_language": "zh",
+        "original_title": "爷们信条",
+        "overview": "This is a tough-guy drama focusing on the drug trade. It tells the thrilling story of a father who has retired for more than 20 years and returns to the arena in order to find his lost relatives. In the movie, Ren Dahua and Zhang Lanxin's sincere and in-depth performances interpret the touching theme of the film \"giving everything for the family\"",
+        "popularity": 6.977,
+        "poster_path": "/1ozVHJnIuUIDP8xUcsLiZKQ8fLX.jpg",
+        "release_date": "2022-02-16",
+        "title": "Man's Creed",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wCJwbW5nbXoArzGXCREY0jI2CfL.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 602400,
+        "original_language": "fr",
+        "original_title": "Les Ombres de Lisieux",
+        "overview": "",
+        "popularity": 6.976,
+        "poster_path": "/iFsJfgwfzrjCq8mUc18Oi4fFf5s.jpg",
+        "release_date": "2019-04-21",
+        "title": "Les Ombres de Lisieux",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s87lAjXVPrDlDX0csQlUgYFrM1Z.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 30364,
+        "original_language": "en",
+        "original_title": "Tread Softly Stranger",
+        "overview": "Unable to pay his bookie, a man returns to his hometown where his embezzler brother and girlfriend plot a robbery that ends in tragedy.",
+        "popularity": 6.975,
+        "poster_path": "/rmWbX37lOFB8nJBVtkivrCfrol0.jpg",
+        "release_date": "1958-08-15",
+        "title": "Tread Softly Stranger",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 263669,
+        "original_language": "zh",
+        "original_title": "白米炸彈客",
+        "overview": "Based on a true social event, The Rice Bomber depicts a series of bombing events in Taiwan a decade ago. It is a time when the agriculture is struggling to survive. A man strives to arouse the government’s attention and to revive its conscience by making 17 rice bombs.",
+        "popularity": 6.974,
+        "poster_path": "/mCGhdtgGbgw1YbqVhBqsqDG2Sks.jpg",
+        "release_date": "2014-04-04",
+        "title": "The Rice Bomber",
+        "video": false,
+        "vote_average": 5.167,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gNeLNxYUe7Xyw42ifdXzGgobyhv.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 105848,
+        "original_language": "it",
+        "original_title": "Paura in città",
+        "overview": "The film focuses on Murri; the token maverick cop. He is called in after a bunch of criminals pull off a successful prison break and spend the night picking off various informers and people they don't like. Murri investigates; hooking up with one of the criminal's nieces along the way. He uses his own methods; which mostly involve breaking all the rules, and thus comes under a lot of scrutiny from his superiors who don't take too kindly to the cop's way of working.",
+        "popularity": 6.974,
+        "poster_path": "/dxXBhwpW3kOdkeHVxCkBZ1We5nw.jpg",
+        "release_date": "1976-09-14",
+        "title": "Fear in the City",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o97jmi3KhqeYX4cW7QM1850qFA3.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 187969,
+        "original_language": "en",
+        "original_title": "Abstraction",
+        "overview": "Tommy and Gary are criminals engaging in grand thefts in order to make ends meet. They are opportunists and have no fear. After a routine robbery goes awry, the friends are forced to put their criminal activity behind them. As Tommy's relationship flourishes with his new girlfriend Scarlet, his economic hardships become obvious. Scarlet soon proposes a notion that will make all their money troubles vanish - the heist of a half a million dollar painting. With just a short window of opportunity, Tommy and Gary design an ambitious plan, one that will ultimately determine their fate.",
+        "popularity": 6.973,
+        "poster_path": "/gLEk6g2eGWg4LRLP5w0E7fU7xWE.jpg",
+        "release_date": "2013-09-08",
+        "title": "Abstraction",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 418913,
+        "original_language": "en",
+        "original_title": "Occasional, Strong",
+        "overview": "A man signs up as a driver for a group of criminals on a dangerous job. On the way to the hit the man hears the lottery numbers and realises he's got the winning ticket on him. However the job goes badly and the lottery ticket is collected as litter by a street cleaner. The leader of the gang goes after the cleaner while on a picnic with his daughter to get the ticket back.",
+        "popularity": 6.972,
+        "poster_path": null,
+        "release_date": "2002-12-12",
+        "title": "Occasional, Strong",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fu9jAg0Kwn74iEkA05GrD3pxOLL.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 129072,
+        "original_language": "en",
+        "original_title": "Headline",
+        "overview": "A crime reporter begins to investigate the disappearance of his bosses wife who had witnessed a murder.",
+        "popularity": 6.972,
+        "poster_path": "/yR4tCZnekx1R9lArG4sq1XEqJuH.jpg",
+        "release_date": "1943-11-16",
+        "title": "Headline",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bJYu5DhptbfG8OsmAVaGUCpnNOh.jpg",
+        "genre_ids": [
+            35,
+            53,
+            10749,
+            18,
+            80
+        ],
+        "id": 85232,
+        "original_language": "en",
+        "original_title": "The Lone Wolf Strikes",
+        "overview": "Delia Jordan's father is murdered and some very valuable jewelry stolen. She hires The Lone Wolf.",
+        "popularity": 6.972,
+        "poster_path": "/koS4cyNvXFZZBo80TaCPLUmrOyv.jpg",
+        "release_date": "1940-01-26",
+        "title": "The Lone Wolf Strikes",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 33625,
+        "original_language": "en",
+        "original_title": "Emmett's Mark",
+        "overview": "In the Philadelphia police department, Emmett Young is a hotshot, a workaholic newly promoted to homicide. He learns he has a disease that will soon kill him painfully, so he hires a stranger to arrange his own death. With one eye on the calendar (he's allowed a few days' grace before his murder), he pursues a final case, the serial killing of young women. Emmett develops a profile of the assailant. Meanwhile, his fixer hires an ex-cop to kill Emmett, a lonely security guard whom the fixer taunts and belittles. In this limited time, can Emmett sort out what's important?",
+        "popularity": 6.971,
+        "poster_path": "/z33ANbYqbxQWqQ4bsMFSl8dRIHl.jpg",
+        "release_date": "2002-04-13",
+        "title": "Killing Emmett Young",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            35,
+            53
+        ],
+        "id": 33392,
+        "original_language": "en",
+        "original_title": "Charlie Chan in Honolulu",
+        "overview": "While Charlie is distracted with the birth of his first grandchild, son Jimmy impersonates his father in order to investigate a murder aboard a freighter in the harbor.",
+        "popularity": 6.97,
+        "poster_path": "/53VOY3Pm0YEgET5npYUTeHQq74w.jpg",
+        "release_date": "1938-12-30",
+        "title": "Charlie Chan in Honolulu",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2qAbgAnUKRrAcgVsfRJI0wlWBP4.jpg",
+        "genre_ids": [
+            37,
+            878,
+            80,
+            10749
+        ],
+        "id": 213680,
+        "original_language": "en",
+        "original_title": "Ghost Patrol",
+        "overview": "A Professor has an invention that will bring down planes causing them to crash and Dawson is forcing him to use it on those carrying money. When Tim arrives to investigate he is mistaken for a noted outlaw. So he assumes that identity to force Dawson to make him a partner. But just as a plane bringing Tim help is arriving, his true identity is revealed and while he is a prisoner, Dawson forces the Professor to start his machine.",
+        "popularity": 6.969,
+        "poster_path": "/xoiRCTOkfPuCcJl864IixpfxcK8.jpg",
+        "release_date": "1936-08-02",
+        "title": "Ghost Patrol",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 8
+    }
+]

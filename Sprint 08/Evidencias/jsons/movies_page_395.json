@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 123182,
+        "original_language": "en",
+        "original_title": "Coastlines",
+        "overview": "An ex-con returns to his Florida hometown after three years and becomes involved with the wife of his best friend, the local sheriff.",
+        "popularity": 8.367,
+        "poster_path": "/hxY6AD2lVanbDHtcwiCXZKOfuge.jpg",
+        "release_date": "2002-01-15",
+        "title": "Coastlines",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 324341,
+        "original_language": "en",
+        "original_title": "The Long Island Incident",
+        "overview": "On December 7, 1993, a gunman opened fire in a crowded commuter train on Long Island. This fact-based story focuses on the events that swell around Carolyn McCarthy, a woman whose husband is killed and her 26 year old son is severely wounded in the massacre. The result is she is forced out of her comfortable suburban existence and she becomes an out-spoken crusader against assault weapons. The film shifts from her perspective to the mind of the killer and finally to the media frenzy that surrounds both.",
+        "popularity": 8.364,
+        "poster_path": "/fufcwa2oZafCAeGixIsVSEUmJE7.jpg",
+        "release_date": "1998-05-03",
+        "title": "The Long Island Incident",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dJjEyJutYsHyqYaTmgW6Z1xLfqQ.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 203014,
+        "original_language": "en",
+        "original_title": "The Day of the Wolves",
+        "overview": "A group of six thieves selected from different areas are sent a letter that promises them a minimum of $50,000 and includes a plane ticket. The letter instructs them to grow a beard. After being given a blindfolded ride from the airport, they arrive at a ghost town and meet with the boss (Number #1, Jan Murray). All of the \"Wolves\" are assigned a number, wear identical overalls and instructed never to take off the gloves that they are given. They are only to address eachother by their numbers; in that way, if one is caught, he can't rat-out the others. Number #1 reveals to them that they will take over a town, and clean it out. Using the ghost town for training, they develop their tactics to fleece the town.",
+        "popularity": 8.364,
+        "poster_path": "/sPO4R6fZgBWlL9ZIeCRw7rWprmO.jpg",
+        "release_date": "1971-11-01",
+        "title": "The Day of the Wolves",
+        "video": false,
+        "vote_average": 6.714,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6Jl26LAmWTIdz2tfktJ9iENs1gv.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 245904,
+        "original_language": "fr",
+        "original_title": "La Perruche et le Poulet",
+        "overview": "",
+        "popularity": 8.363,
+        "poster_path": "/yLUZOFOiLoG9E5l53ISEScXypxE.jpg",
+        "release_date": "1969-06-07",
+        "title": "La Perruche et le Poulet",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 14076,
+        "original_language": "en",
+        "original_title": "Shoot on Sight",
+        "overview": "Tariq Ali, a Muslim police officer of Scotland Yard, is asked to hunt-down suspected suicide-bombers against the backdrop of July 7 bombings in London. Tariq's task gets complicated as an innocent Muslim is killed by the commando shooters of Scotland Yard. On the other hand, Tariq - a British citizen is himself a suspect in the eyes of his boss, despite his long service in the Scotland Yard",
+        "popularity": 8.362,
+        "poster_path": "/sf3mAhPe2FOCfbVaLH7tV8v2Qtq.jpg",
+        "release_date": "2008-08-22",
+        "title": "Shoot on Sight",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 900172,
+        "original_language": "ru",
+        "original_title": "Один день",
+        "overview": "",
+        "popularity": 8.361,
+        "poster_path": "/rxVSzZUcSzoB4YN4gGjQPua7rCl.jpg",
+        "release_date": "2008-05-08",
+        "title": "Один день",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            36,
+            10770
+        ],
+        "id": 485220,
+        "original_language": "en",
+        "original_title": "The Happy Valley",
+        "overview": "In 1940 Kenya as their country prepares for war, the local aristocratic social set lives a decadent, self-indulgent lifestyle, that leads to murder.  The same events were also dramatised in the feature film White Mischief, which was released seven months after the first transmission of The Happy Valley.",
+        "popularity": 8.361,
+        "poster_path": "/vn2Az5u2Xx3TEOzBjbPQVoFxTxL.jpg",
+        "release_date": "1987-09-06",
+        "title": "The Happy Valley",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ayFRxfwvHFV5aFTYTRxkcpili6A.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 316062,
+        "original_language": "fr",
+        "original_title": "Valentin Valentin",
+        "overview": "In a small Parisian building, a diverse group of people crosses paths, likes and observes each other, without always seeing each other.",
+        "popularity": 8.361,
+        "poster_path": "/zfCzhEBE895m9A8X0f94bZ6vCuR.jpg",
+        "release_date": "2015-01-07",
+        "title": "Valentin Valentin",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pWGvxCLHUwtoJssLrTuwuWyaQPD.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 91183,
+        "original_language": "en",
+        "original_title": "Uncaged",
+        "overview": "Miki and her younger brother Robby flee their destructive home and find themselves in the towering metropolis of Los Angeles. There, they meet Sharkey, a pimp. Miki becomes infatuated with Sharkey and starts to work for him. Miki finds herself trapped in Sharkey's dominating world and must find a way to escape the nightmare.",
+        "popularity": 8.361,
+        "poster_path": "/lYcHLJILKsD8bRI3FGy2bVUnjTB.jpg",
+        "release_date": "1991-04-05",
+        "title": "Uncaged",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tQgDC64awH1GGhsesS41GS0I2vo.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 19839,
+        "original_language": "en",
+        "original_title": "The Ringer",
+        "overview": "An underhand solicitor receives threatening notes, and the police are called in to protect him.",
+        "popularity": 8.361,
+        "poster_path": "/bbVNswFPEjtJV1qcKxexxyMjFzN.jpg",
+        "release_date": "1952-11-24",
+        "title": "The Ringer",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m0SwOSg8w5wVX8CoUsDfeVvowKE.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 76018,
+        "original_language": "en",
+        "original_title": "The Happening",
+        "overview": "A group of young drifters kidnap wealthy businessman Roc Delmonico just for kicks. They keep him captive, demanding a ransom for his safe release. However there is no one - wife, Mafia associates or mother - willing to part with the $200,000 ransom. Demonico is dismayed that no one appears unduly concerned about his fate and joins forces with the kidnappers to plot his revenge, blackmailing his once nearest and dearest into parting with $3,000,000 in hush money.",
+        "popularity": 8.359,
+        "poster_path": "/ubydN7FhGizgqSpBhXyRanFBxpR.jpg",
+        "release_date": "1967-05-17",
+        "title": "The Happening",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k2lnVVeFIgiymiI4Xd8LhzQEDXr.jpg",
+        "genre_ids": [
+            18,
+            80,
+            28
+        ],
+        "id": 64726,
+        "original_language": "ja",
+        "original_title": "女番長ブルース 牝蜂の逆襲",
+        "overview": "In the 1970s, the Japanese youth emancipation also found its way into the yakuza (crime) societies. A Girl Boss may have a choice between bikes, and between boyfriends. But she has to defend her choices the hard way, as her triumph and power over the girls' gang is questioned by her female rivals, and the all powerful Yakuza Boss. She inspires loyalty to her girls, and to men to the extent of many of them literally giving their lives for her - in a world of knife and gun fighting, bike and car chasing, and violent death.",
+        "popularity": 8.359,
+        "poster_path": "/7eBDsgCEzA8lsDTC04SvtuYoCqy.jpg",
+        "release_date": "1971-10-27",
+        "title": "Girl Boss Blues: Queen Bee's Counterattack",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m2jkYEBeN4O7IOEWd53GfmcGX0F.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            9648
+        ],
+        "id": 44870,
+        "original_language": "en",
+        "original_title": "Action of the Tiger",
+        "overview": "A woman hires soldier-of-fortune Carson to smuggle her into Albania by way of Greece. Their trouble is just beginning when they get there.",
+        "popularity": 8.359,
+        "poster_path": "/lR9crRlVqZUti3EPMyUyox24bsJ.jpg",
+        "release_date": "1957-08-22",
+        "title": "Action of the Tiger",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j6jTAXID9G6pcRbW3qCgCmXzl7s.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1217392,
+        "original_language": "ml",
+        "original_title": "Curry & Cyanide: The Jolly Joseph Case",
+        "overview": "This true-crime documentary investigates six shocking deaths in the same family and the woman at the center of the unbelievable case: Jolly Joseph.",
+        "popularity": 8.358,
+        "poster_path": "/sdXu8YeDqg1qxEP9LJuTIFBtR5L.jpg",
+        "release_date": "2023-12-22",
+        "title": "Curry & Cyanide: The Jolly Joseph Case",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wFh7KayyX2c0QM90ChP38P30G5E.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 77502,
+        "original_language": "en",
+        "original_title": "Temptation Harbour",
+        "overview": "The story of a harbor signalman who retrieves a suitcase full of money after witnessing a murder, fails to report it to the police, and finds himself the object of murderous and mercenary interest.",
+        "popularity": 8.358,
+        "poster_path": "/e22xeDxxldwcyp13QCzGZOUvu8y.jpg",
+        "release_date": "1947-02-27",
+        "title": "Temptation Harbour",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xAP1oRSgrTsi33ijsa5G3zkE8pn.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 109001,
+        "original_language": "hi",
+        "original_title": "शिवा",
+        "overview": "Shiva, a fresher at VAC College, is forced to stand up against the students' union president and a group of gangsters who have made the college environment increasingly violent.",
+        "popularity": 8.357,
+        "poster_path": "/4jWEsHBD1gaGn5Aa0CHHfPmJCQh.jpg",
+        "release_date": "1990-12-07",
+        "title": "Shiva",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pYGZ1JIi6RERtPgISl1i3M3yeUK.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 896166,
+        "original_language": "ml",
+        "original_title": "Monster",
+        "overview": "On their first wedding anniversary, Lucky Singh, an entrepreneur from Punjab walks into the lives of Anil Chandra and Bhamini. Little do they know that this man will change their future. Playing along with LGBT support.",
+        "popularity": 8.356,
+        "poster_path": "/eorz05QeNzVp8fm10pIQb3lBKwp.jpg",
+        "release_date": "2022-10-21",
+        "title": "Monster",
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 412044,
+        "original_language": "en",
+        "original_title": "Keeper of the City",
+        "overview": "A vigilante killer becomes a celebrity by gunning down Chicago mobsters, but nobody except a police detective and a local journalist seems eager to catch him.",
+        "popularity": 8.355,
+        "poster_path": "/n6J7v8z4fFS4U6WJ5jSXJCYuPul.jpg",
+        "release_date": "1991-12-20",
+        "title": "Keeper of the City",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5oOltHxfBpYcfXoSaoygCaiEkFo.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 192339,
+        "original_language": "hi",
+        "original_title": "Big Brother",
+        "overview": "Big Brother is a story set in modern India which revolves around a small middle-class family composed of Dev Sharma Sunny Deol, his wife Aarti Priyanka Chopra, his mother Farida Jalal, brother Imran Khan and sister Prachi. Although they lead a simple and peaceful lifestyle, an incident occurs that changes their lives forever. The family is left with no choice but to leave Delhi and move to Mumbai in disguise. They start life afresh and all seems well until the ghosts of the past surface again.  Things reach a point when Dev Sharma is prodded by his mother to take a course of action which not only avenges their plight but also take on the cause of the aggrieved in the country as a whole. The movement so created gets the support of the woman at large and the infirm who proudly proclaim him to be their Big Brother.",
+        "popularity": 8.355,
+        "poster_path": "/j7Kt4Yc4Do58YhgEW38EY9RSBvr.jpg",
+        "release_date": "2007-04-13",
+        "title": "Big Brother",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9bCK1QxgFOKoLsiYkpB88i0kMgQ.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 127099,
+        "original_language": "en",
+        "original_title": "Living To Die",
+        "overview": "A burned-out private detective in Las Vegas gets involved in blackmail and murder.",
+        "popularity": 8.355,
+        "poster_path": "/ual7p9LcUcFAK8G2DyCq2RuxSbl.jpg",
+        "release_date": "1990-12-08",
+        "title": "Living To Die",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    }
+]

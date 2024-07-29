@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/2pITFeesu6aikrEknoH6bNXOdhk.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 8292,
+        "original_language": "en",
+        "original_title": "Four Brothers",
+        "overview": "Four adopted brothers return to their Detroit hometown when their mother is murdered and vow to exact revenge on the killers.",
+        "popularity": 40.116,
+        "poster_path": "/8cO39cnWSZQi2ncPG5TxL3YRzKc.jpg",
+        "release_date": "2005-08-11",
+        "title": "Four Brothers",
+        "video": false,
+        "vote_average": 6.753,
+        "vote_count": 2043
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4Y0eLVkUwThX9pt1uqVoWoCtvcl.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 438808,
+        "original_language": "en",
+        "original_title": "White Boy Rick",
+        "overview": "The story of Richard Wershe Jr., a teenager who became an undercover informant for the police during the 1980s, and was ultimately arrested for drug trafficking and sentenced to life in prison.",
+        "popularity": 40.082,
+        "poster_path": "/xjW2wgrC2ey0APDELP6NMD8tAq7.jpg",
+        "release_date": "2018-09-14",
+        "title": "White Boy Rick",
+        "video": false,
+        "vote_average": 6.33,
+        "vote_count": 1035
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c88YI18SU27Ep6mdbxrGNCiqgjP.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1632,
+        "original_language": "en",
+        "original_title": "Mississippi Burning",
+        "overview": "Two FBI agents investigating the murder of civil rights workers during the 60s seek to breach the conspiracy of silence in a small Southern town where segregation divides black and white. The younger agent trained in FBI school runs up against the small town ways of his partner, a former sheriff.",
+        "popularity": 40.053,
+        "poster_path": "/otzHnhXba5XsE6Gozl3Gzks0z8L.jpg",
+        "release_date": "1988-12-08",
+        "title": "Mississippi Burning",
+        "video": false,
+        "vote_average": 7.674,
+        "vote_count": 1594
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gb3TVVZNNxVGNfS1NxGaiWZfwnW.jpg",
+        "genre_ids": [
+            53,
+            18,
+            9648,
+            80
+        ],
+        "id": 446021,
+        "original_language": "en",
+        "original_title": "Bad Times at the El Royale",
+        "overview": "Lake Tahoe, 1969. Seven strangers, each one with a secret to bury, meet at El Royale, a decadent motel with a dark past. In the course of a fateful night, everyone will have one last shot at redemption.",
+        "popularity": 40.034,
+        "poster_path": "/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg",
+        "release_date": "2018-10-04",
+        "title": "Bad Times at the El Royale",
+        "video": false,
+        "vote_average": 6.839,
+        "vote_count": 3473
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7GWDrjxeBsh5onaYf5XHjIM9BA1.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 578189,
+        "original_language": "en",
+        "original_title": "Black and Blue",
+        "overview": "A rookie cop inadvertently captures the murder of a young drug dealer on her body cam. After realizing that the murder was committed by corrupt cops, she teams up with the one person from her community who is willing to help her as she tries to escape both the criminals out for revenge and the police who are desperate to destroy the incriminating footage.",
+        "popularity": 40.027,
+        "poster_path": "/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg",
+        "release_date": "2019-10-25",
+        "title": "Black and Blue",
+        "video": false,
+        "vote_average": 6.788,
+        "vote_count": 832
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cMgR7kJuHlVfVcfXm7In5zhAf6Z.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 4997,
+        "original_language": "en",
+        "original_title": "Wonderland",
+        "overview": "On the afternoon of July 1, 1981, Los Angeles police responded to a distress call on Wonderland Avenue and discovered a grisly quadruple homicide. The police investigation that followed uncovered two versions of the events leading up to the brutal murders - both involving legendary porn actor John Holmes.",
+        "popularity": 39.891,
+        "poster_path": "/mfG8S7D4rYeVqvTzjc3D36PAK3R.jpg",
+        "release_date": "2003-10-23",
+        "title": "Wonderland",
+        "video": false,
+        "vote_average": 6.059,
+        "vote_count": 253
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w2pGoOHNVESZwlSI3xYk4OdEb91.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 413362,
+        "original_language": "en",
+        "original_title": "Roman J. Israel, Esq.",
+        "overview": "Hard-nosed liberal lawyer Roman J. Israel has been fighting the good fight forever while others take the credit. When his partner – the firm's frontman – has a heart attack, Israel suddenly takes on that role. He soon discovers some unsettling truths about the firm – truths that conflict with his values of helping the poor and dispossessed – and finds himself in an existential crisis that leads to extreme actions.",
+        "popularity": 39.864,
+        "poster_path": "/epTCHVcyLkT8Aqt08Ki3PWC2sUh.jpg",
+        "release_date": "2017-11-17",
+        "title": "Roman J. Israel, Esq.",
+        "video": false,
+        "vote_average": 6.332,
+        "vote_count": 1231
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xLW4UQ4zYf7fHrei9pqx4fJsfKy.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 199373,
+        "original_language": "en",
+        "original_title": "The Frozen Ground",
+        "overview": "An Alaska State Trooper partners with a young woman who escaped the clutches of serial killer Robert Hansen to bring the murderer to justice. Based on actual events.",
+        "popularity": 42.731,
+        "poster_path": "/hHDj1h3lJvYd9Cervoswz9crhWg.jpg",
+        "release_date": "2013-07-11",
+        "title": "The Frozen Ground",
+        "video": false,
+        "vote_average": 6.277,
+        "vote_count": 1418
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tGb044NgQYQJr58fta5O3OB6SpQ.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 7347,
+        "original_language": "pt",
+        "original_title": "Tropa de Elite",
+        "overview": "In 1997, before the visit of the pope to Rio de Janeiro, Captain Nascimento from BOPE (Special Police Operations Battalion) is assigned to eliminate the risks of the drug dealers in a dangerous slum nearby where the pope intends to be lodged.",
+        "popularity": 39.745,
+        "poster_path": "/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+        "release_date": "2007-10-12",
+        "title": "Elite Squad",
+        "video": false,
+        "vote_average": 8.053,
+        "vote_count": 2353
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/44nIaOvDWJ04EGFEMGrU1gO3im7.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 26877,
+        "original_language": "cn",
+        "original_title": "赤裸羔羊",
+        "overview": "A young woman is trained by a martial arts specialist to become a professional assassin.",
+        "popularity": 39.733,
+        "poster_path": "/d9V3lIqF0fyQfMe4CUl86N0nQfJ.jpg",
+        "release_date": "1992-12-03",
+        "title": "Naked Killer",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AdRO1ZGa8Or4inBr8Bb557NV0Ba.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            10749
+        ],
+        "id": 172226,
+        "original_language": "en",
+        "original_title": "In Secret",
+        "overview": "In 1860s Paris, a young woman, Therese, is trapped in a loveless marriage to the sickly Camille by her domineering aunt, Madame Raquin. She spends her days behind the counter of a small shop and her evenings watching Madame play dominos with an eclectic group. After she meets her husband’s alluring friend, Laurent, she embarks on an illicit affair that leads to tragic consequences. Based on Emile Zola’s novel, Thérèse Raquin.",
+        "popularity": 34.962,
+        "poster_path": "/VkxiXAt1zl3aw2cID8Xpgl643T.jpg",
+        "release_date": "2013-09-17",
+        "title": "In Secret",
+        "video": false,
+        "vote_average": 6.174,
+        "vote_count": 213
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kGmhoZY2aagrWfykI6HEq2ozVr4.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 809787,
+        "original_language": "en",
+        "original_title": "Mafia Mamma",
+        "overview": "A suburban American woman inherits her grandfather’s Mafia empire and, guided by the Firm’s trusted consigliere, defies everyone’s expectations, including her own, as the new head of the family business.",
+        "popularity": 39.701,
+        "poster_path": "/x83FFyGGux31l7OiF9NZHeq6ZWv.jpg",
+        "release_date": "2023-04-13",
+        "title": "Mafia Mamma",
+        "video": false,
+        "vote_average": 6.056,
+        "vote_count": 234
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ikSJWKUZEgXYsB1UMAYlNxqzXwT.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 455236,
+        "original_language": "en",
+        "original_title": "Accident Man",
+        "overview": "Mike Fallon, the Accident Man, is a stone cold killer.  When a loved one is murdered by his own crew, Fallon is forced to avenge the one person who actually meant something to him.",
+        "popularity": 39.684,
+        "poster_path": "/bHFKej3Dbr8kGRSRHpkoFHq9TJQ.jpg",
+        "release_date": "2018-02-06",
+        "title": "Accident Man",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 484
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9oE1dqocQou2tdmt0Rne7uv4jSi.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 12143,
+        "original_language": "en",
+        "original_title": "Bad Lieutenant",
+        "overview": "While investigating a young nun's rape, a corrupt New York City police detective, with a serious drug and gambling addiction, tries to change his ways and find forgiveness.",
+        "popularity": 39.619,
+        "poster_path": "/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg",
+        "release_date": "1992-11-20",
+        "title": "Bad Lieutenant",
+        "video": false,
+        "vote_average": 7.016,
+        "vote_count": 828
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/CyM5FBycEDeIDZi22EkM67ByNy.jpg",
+        "genre_ids": [
+            14,
+            35,
+            80
+        ],
+        "id": 1122634,
+        "original_language": "ja",
+        "original_title": "赤ずきん、旅の途中で死体と出会う。",
+        "overview": "While at the royal ball with Cinderella, Little Red Riding Hood finds herself in the middle of a mystery. Can she solve the case before midnight strikes?",
+        "popularity": 39.618,
+        "poster_path": "/5FFpXoNpHdmx4hYEQOjtgotOH4b.jpg",
+        "release_date": "2023-09-13",
+        "title": "Once Upon a Crime",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 114
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6o6XqTAZyHHuQiLiZIzvoa1Wwu0.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 10753,
+        "original_language": "cn",
+        "original_title": "警察故事續集",
+        "overview": "The Hong Kong super-cop must stop a group of blackmailing bombers at the same time that the villains of the first Police Story are out for revenge.",
+        "popularity": 39.613,
+        "poster_path": "/qlzPyyOXmLGMGYludinZrGhVFti.jpg",
+        "release_date": "1988-08-13",
+        "title": "Police Story 2",
+        "video": false,
+        "vote_average": 6.989,
+        "vote_count": 512
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7aWpb0sfGteTomS9DP5NWDeD7DL.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 9366,
+        "original_language": "en",
+        "original_title": "Donnie Brasco",
+        "overview": "An FBI undercover agent infiltrates the mob and identifies more with the mafia life at the expense of his regular one.",
+        "popularity": 39.564,
+        "poster_path": "/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+        "release_date": "1997-02-27",
+        "title": "Donnie Brasco",
+        "video": false,
+        "vote_average": 7.541,
+        "vote_count": 4315
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hn7oqr6RVqr3u6dcGoPRPi4jj1m.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 567646,
+        "original_language": "ko",
+        "original_title": "극한직업",
+        "overview": "A drug squad attempts to take down a criminal organization and they must go undercover to do so, so they begin working at a chicken restaurant, that becomes famous for its delicious chicken. Due to the unexpected popularity, the detectives find themselves in a situation they never expected.",
+        "popularity": 39.553,
+        "poster_path": "/52oLgq2gEiZyDjpJ7tgkGruoQI0.jpg",
+        "release_date": "2019-01-23",
+        "title": "Extreme Job",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 264
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iLc6QXt9EFf093SyAR1QlV9qUdH.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 2084,
+        "original_language": "en",
+        "original_title": "Birthday Girl",
+        "overview": "John is a mild-mannered banker who has never been lucky in love. Fed up with waiting for the right girl to come along, John takes a chance on a Russian mail-order bride arranged via the Internet, where he is introduced to Nadia. John's fondness for Nadia grows... until the sudden arrival of Nadia's gregarious cousins makes John realize that he's in over his head.",
+        "popularity": 39.553,
+        "poster_path": "/jrwCiqQjEm3WqxHXxvAoW4gOsUd.jpg",
+        "release_date": "2001-09-06",
+        "title": "Birthday Girl",
+        "video": false,
+        "vote_average": 5.886,
+        "vote_count": 386
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y8HaV1Ntr6nHmKxZ29B7DwxwvNU.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 623,
+        "original_language": "en",
+        "original_title": "A Fish Called Wanda",
+        "overview": "While a diamond advocate attempts to steal a collection of diamonds, troubles arise when he realises he’s not the only one after the collection.",
+        "popularity": 39.516,
+        "poster_path": "/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg",
+        "release_date": "1988-07-15",
+        "title": "A Fish Called Wanda",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 2109
+    }
+]

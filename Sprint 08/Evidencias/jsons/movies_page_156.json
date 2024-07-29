@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/cWJvFS5UAoGCLDFyYNUSfVqf6XB.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 479309,
+        "original_language": "en",
+        "original_title": "The Lost Wife of Robert Durst",
+        "overview": "Young and wide-eyed, Kathie falls in love with charming yet quirky real estate scion Robert Durst, only to find their marriage turning stranger, darker and more disturbing as time passes.",
+        "popularity": 17.574,
+        "poster_path": "/tYxfo1AvRkeuu4nlKdcNae8MMib.jpg",
+        "release_date": "2017-11-04",
+        "title": "The Lost Wife of Robert Durst",
+        "video": false,
+        "vote_average": 5.917,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aAfbJSBurNFgPIPsqsI4H3qinmZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10770
+        ],
+        "id": 129694,
+        "original_language": "ja",
+        "original_title": "理由",
+        "overview": "Four people are discovered brutally murdered in an up-scale high-rise apartment. All the victims appear to be family, but as the investigation deepens it is discovered that one of the victims isn't related to the family.",
+        "popularity": 17.573,
+        "poster_path": "/A0sAe7HCodV7el6L77v5xF6PR6h.jpg",
+        "release_date": "2004-12-18",
+        "title": "The Motive",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z62jM98utLImVTCHVwhBESj4yzc.jpg",
+        "genre_ids": [
+            28,
+            16,
+            35,
+            80
+        ],
+        "id": 38952,
+        "original_language": "ja",
+        "original_title": "シティーハンタースペシャル ザ・シークレット・サービス",
+        "overview": "City Hunter, the globally adored hero, becomes embroiled in an adventure that takes him deep into the political intrigue of a Third World country and into the pain and anguish of one man's tortured past. James McGuire's life is so dangerous he has to hire bodyguards for his Secret Service agents. It doesn't help that his chief agent is actually his long-lost daughter. Luckily for him, City Hunter and Kaori are behind on the rent and need the work. But a dark secret from McGuire's past threatens to destroy him and his lonely daughter Anna. Will he live to rescue his country? Will his resentful daughter learn to love him again? Will City Hunter finally get some action?",
+        "popularity": 17.556,
+        "poster_path": "/r6X9pDS3rGsp5ZyfZKjvPSsZXzY.jpg",
+        "release_date": "1996-01-05",
+        "title": "City Hunter Special: The Secret Service",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oteKii22BdK9Q7zrTKLFBsnmVvB.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 31581,
+        "original_language": "en",
+        "original_title": "Bloody Mama",
+        "overview": "Sexually abused as a young girl, Kate \"Ma\" Barker grows into a violent and powerful woman by the 1930s. She lovingly dominates her grown sons and grooms them into a pack of tough crooks. The boys include the cruel Herman, who still shares a bed with Ma; Fred, an ex-con who fell in love with a fellow prisoner; and Lloyd, who gets high on whatever's handy. Together they form a deadly, bizarre family of Depression-era bandits.",
+        "popularity": 17.556,
+        "poster_path": "/nC3hrqu28L6eEC88MIN4hccARod.jpg",
+        "release_date": "1970-03-24",
+        "title": "Bloody Mama",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 83
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/78oscYBIdDCVAnqoEkUVMTaBCmr.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 41938,
+        "original_language": "en",
+        "original_title": "Physical Evidence",
+        "overview": "A police officer suspended and now accused of murder is forced to join forces with his court-appointed attorney to assemble the pieces of a deadly puzzle to find the missing link before time runs out.",
+        "popularity": 17.549,
+        "poster_path": "/3tBOiYvoDKlimXBrK5MCXXKkyHe.jpg",
+        "release_date": "1989-01-27",
+        "title": "Physical Evidence",
+        "video": false,
+        "vote_average": 5.184,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bnz1CfI24iRemJUcmTd9n4K8CKz.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 31004,
+        "original_language": "en",
+        "original_title": "The Mighty Quinn",
+        "overview": "Police chief Xavier Quinn investigates the gruesome murder of Donald Pater, one of the wealthiest residents on a Caribbean island. He was found decapitated in his Jacuzzi. Although the local political establishment, especially crooked Governor Chalk, insists that small-time thief Maubee is responsible, Xavier has his doubts. This view is complicated by the police chief's personal history with Maubee: The men have been friends since childhood.",
+        "popularity": 17.546,
+        "poster_path": "/ld2FrKya5cPm8z3enXt8gOFxokJ.jpg",
+        "release_date": "1989-02-17",
+        "title": "The Mighty Quinn",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 107
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r1JohLhkZDLEooSJugqMl9A9MZh.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 479272,
+        "original_language": "cn",
+        "original_title": "黑白迷宮",
+        "overview": "Da Hua, Ah Chun and a few others find themselves involved in wild and dangerous adventures when they get caught in a showdown between the China Mainland Police and Hong Kong bandits.",
+        "popularity": 17.543,
+        "poster_path": "/6B2wWM8ePY5ZfiCyXWyqb4SBAuX.jpg",
+        "release_date": "2017-08-31",
+        "title": "Colour of the Game",
+        "video": false,
+        "vote_average": 6.278,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wvbrMf8tg2HXLGfIb0tYWgkdkuE.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 72655,
+        "original_language": "fr",
+        "original_title": "Le Solitaire",
+        "overview": "In Paris , Commissioner Stan Jalard  and Inspector Simon Lecache plan to quit the police to go and enjoy a more peaceful life in the West Indies. In a nightclub, during a routine visit, they spot Schneider, a dreaded gangster and public enemy. At the time of his arrest, Simon is killed at close range by the criminal. Stan then decides to stay in the police to avenge Simon. Being the godfather of Christian, Simon's son, who sometimes lives in a boarding school, sometimes at home, he takes charge of his education. Two years later, Stan has been promoted, and he's told that Schneider had resurfaced in the capital. A long hunt begins.",
+        "popularity": 17.543,
+        "poster_path": "/2He4IwsJF6bjr7kjDeE5ngJbym0.jpg",
+        "release_date": "1987-03-18",
+        "title": "The Loner",
+        "video": false,
+        "vote_average": 6.027,
+        "vote_count": 94
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bwLQIVj9KVnFFiWyamF2FHNszvV.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            18,
+            80
+        ],
+        "id": 920654,
+        "original_language": "en",
+        "original_title": "Devil's Peak",
+        "overview": "In North Carolina's Appalachian Mountains, eighteen-year-old Jacob McNeely is torn between appeasing his meth-dealing kingpin father and leaving the mountains forever with the girl he loves.",
+        "popularity": 17.54,
+        "poster_path": "/rtlxPYO9zSSz5cv9a1UEna2RtQA.jpg",
+        "release_date": "2023-02-17",
+        "title": "Devil's Peak",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s7XjGIy8cCYpMHDGNFMbP2zE7uq.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 656113,
+        "original_language": "ta",
+        "original_title": "ஜகமே தந்திரம்",
+        "overview": "When a clever, carefree gangster is recruited to help an overseas crime lord take down a rival, he is caught off guard by the moral dilemmas that follow.",
+        "popularity": 17.535,
+        "poster_path": "/43rAKDBy9rGqSZuqoG69YUrKAXX.jpg",
+        "release_date": "2021-06-18",
+        "title": "Jagame Thandhiram",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v0WmN2NsVMB7cXzUcdpWsV1MOtT.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 36681,
+        "original_language": "ko",
+        "original_title": "시크릿",
+        "overview": "A detective suspects that his wife murdered a gangster's brother. As he tries to misdirect the police and the bloodthirsty gangster while independently investigating his wife, terrible secrets slowly begin to surface.",
+        "popularity": 17.532,
+        "poster_path": "/fiuTCP0XDjUBT3HeR6pjmi6uDXl.jpg",
+        "release_date": "2009-12-03",
+        "title": "Secret",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r7jtS16I3vgVvqapgCa7RMkZnvj.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11898,
+        "original_language": "en",
+        "original_title": "Kind Hearts and Coronets",
+        "overview": "When his mother eloped with an Italian opera singer, Louis Mazzini was cut off from her aristocratic family. After the family refuses to let her be buried in the family mausoleum, Louis avenges his mother's death by attempting to murder every family member who stands between himself and the family fortune. But when he finds himself torn between his longtime love and the widow of one of his victims, his plans go awry.",
+        "popularity": 17.527,
+        "poster_path": "/s5YYPhgxBITADZQ3IGC6jJq6FhR.jpg",
+        "release_date": "1949-06-21",
+        "title": "Kind Hearts and Coronets",
+        "video": false,
+        "vote_average": 7.676,
+        "vote_count": 522
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4rd9SUlamdxZlLkCBl6A1z24L4e.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 16933,
+        "original_language": "en",
+        "original_title": "They Drive by Night",
+        "overview": "Joe and Paul Fabrini are Wildcat, or independent, truck drivers who have their own small one-truck business. The Fabrini boys constantly battle distributors, rivals and loan collectors, while trying to make a success of their transport company.",
+        "popularity": 17.526,
+        "poster_path": "/uF0X3IMhPIFgbwzlbayUsj4I6Tc.jpg",
+        "release_date": "1940-07-26",
+        "title": "They Drive by Night",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8GWdj2JTmUmHuuUXp30WyEmo5hJ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 417161,
+        "original_language": "en",
+        "original_title": "Miss Marple: The Mirror Crack'd from Side to Side",
+        "overview": "A town busybody is poisoned at a busy reception in the home of famous film star Marina Gregg. The poisoned drink seemed intended for Marina, but Miss Marple is not so sure. She sets out to discover the true identity of the killer before he or she can strike again.",
+        "popularity": 17.523,
+        "poster_path": "/y5yPiLTH4ZxMIkS2VxYqXxmfGx2.jpg",
+        "release_date": "1992-12-27",
+        "title": "Miss Marple: The Mirror Crack'd from Side to Side",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u0gVcbbN1zZJ1FmQTsdrCfpOCwQ.jpg",
+        "genre_ids": [
+            35,
+            10749,
+            80
+        ],
+        "id": 1016392,
+        "original_language": "zh",
+        "original_title": "請問，還有哪裡需要加強",
+        "overview": "A hair salon apprentice accidentally saves a gangster's life — an act that helps bring in new clientele and drops her into a world of chaos.",
+        "popularity": 17.521,
+        "poster_path": "/cEchXQKoxn0487Onhkxq0q63c06.jpg",
+        "release_date": "2023-07-28",
+        "title": "Miss Shampoo",
+        "video": false,
+        "vote_average": 5.125,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y8sdCvHGhOnXvZXvwSbyowdPFHs.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 12241,
+        "original_language": "en",
+        "original_title": "Curdled",
+        "overview": "Gabriela, a Colombian immigrant, is obsessed with understanding violent crime. The current string of murders by \"The Blue Blood Killer\" of affluent Miami socialites provides her with fodder for her scrapbook of death. She lands a job with a post-murder cleaning service and during a Blue-Blood clean-up job, discovers evidence that police have overlooked.",
+        "popularity": 17.512,
+        "poster_path": "/a8GtmDKoifFkcyqeqcjQjLVIOVc.jpg",
+        "release_date": "1996-09-06",
+        "title": "Curdled",
+        "video": false,
+        "vote_average": 5.862,
+        "vote_count": 116
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nWuMujweJPPuvwakC5Y6wyrZmfp.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            80
+        ],
+        "id": 2075,
+        "original_language": "en",
+        "original_title": "Prizzi's Honor",
+        "overview": "Charley Partanna is a hitman who works for the Prizzis, one of the richest crime families in the US. When he sees Irene Walker, it's love at first sight. But he soon finds that she, too, is a killer for hire. Charley can overlook his suspicions, but he can't turn off his heart. And the couple must remember that even if they love each other, the Prizzis love only money.",
+        "popularity": 17.509,
+        "poster_path": "/5azGfZXuUFYjYfz6etYOdlyLXwL.jpg",
+        "release_date": "1985-06-14",
+        "title": "Prizzi's Honor",
+        "video": false,
+        "vote_average": 6.358,
+        "vote_count": 365
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oLPhWMpwURI0wOGJDKS7Cvv5Akb.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 629919,
+        "original_language": "cn",
+        "original_title": "犯罪現場",
+        "overview": "In this classic whodunit, a police detective must rely on the only witness - a parrot, to catch the killer of an armed robber.",
+        "popularity": 17.506,
+        "poster_path": "/wJWRVzcDYiWZPBqqxloGjr0R4pT.jpg",
+        "release_date": "2019-10-12",
+        "title": "A Witness Out of the Blue",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pVoegvd3t6xwfrLoNnixyrCpWA9.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            18,
+            80
+        ],
+        "id": 455034,
+        "original_language": "en",
+        "original_title": "A Bundle of Trouble: An Aurora Teagarden Mystery",
+        "overview": "Aurora Teagarden and her boyfriend Martin are thrilled when they get an unexpected visit from his niece and her new baby. Their excitement is short lived when his niece disappears and the baby is left behind. Once again, Aurora finds herself drawn into a deadly investigation as she risks it all to help Martin reunite with his family.",
+        "popularity": 17.498,
+        "poster_path": "/5855wwOnhlfK2cBHwA46KCwVFva.jpg",
+        "release_date": "2017-05-21",
+        "title": "A Bundle of Trouble: An Aurora Teagarden Mystery",
+        "video": false,
+        "vote_average": 6.878,
+        "vote_count": 94
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gTNCO9iTeOq9m4pyUZwNoMCvdGf.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 565383,
+        "original_language": "en",
+        "original_title": "The Death of Dick Long",
+        "overview": "Dick died last night, and Zeke and Earl don’t want anybody finding out how. That’s too bad though, cause news travels fast in small-town Alabama.",
+        "popularity": 17.494,
+        "poster_path": "/vURitOcmtcH8Dr1bWryTvfkeyJX.jpg",
+        "release_date": "2019-09-27",
+        "title": "The Death of Dick Long",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 140
+    }
+]

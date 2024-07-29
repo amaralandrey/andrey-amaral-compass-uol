@@ -1,0 +1,412 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/3hKlH4Z8eNJDQ01PYLCEySsJLlR.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35,
+            18,
+            12,
+            10749
+        ],
+        "id": 1092622,
+        "original_language": "id",
+        "original_title": "Ali Topan",
+        "overview": "Ali Topan who is a hooligan with a motorbike who always roams the streets. His motivation that needs money for his life makes him ready to do work without much talk. Until he works as a private detective, journalist until he is ready to solve cases.",
+        "popularity": 12.462,
+        "poster_path": "/1aq5NDNtKejONce1QwaDdTYntby.jpg",
+        "release_date": "2024-02-14",
+        "title": "Ali Topan",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jfKPmIHS8LsKwXzpRzYvkN22dSP.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            10402
+        ],
+        "id": 47985,
+        "original_language": "ru",
+        "original_title": "Асса",
+        "overview": "ASSA is set in Crimea during the winter in the mid eighties. A young musician (Bananan) falls for mobster's (Krymov) young mistress (Alika). The parallel story line involves an 18th century assassination plot.",
+        "popularity": 12.457,
+        "poster_path": "/zThsEWVPTbHFSGBAprDQPHab3Ix.jpg",
+        "release_date": "1987-11-01",
+        "title": "Assa",
+        "video": false,
+        "vote_average": 7.074,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pdnJNe9AqQHeGY8k2i5KdqV5h9G.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            53
+        ],
+        "id": 115565,
+        "original_language": "en",
+        "original_title": "Equinox",
+        "overview": "Henry Petosa and Freddy Ace are twins who were separated being babies, and they do not know each other. Henry was adopted by a honest man, while Freddy becomes a gangster. Henry is very shy and has a lot of mental troubles. The film melts the two stories by a young writer who discovers that they were sons of an european noble and they own a large inheritance.",
+        "popularity": 12.456,
+        "poster_path": "/lVmZkiDbTJ1GUYMxUDqdkrAQkFp.jpg",
+        "release_date": "1992-09-18",
+        "title": "Equinox",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zIvwweHc0mx8d5r01x7J2moFGpA.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            80,
+            18
+        ],
+        "id": 91902,
+        "original_language": "en",
+        "original_title": "Ecstasy",
+        "overview": "ECSTASY is a dark romantic comedy, based on the controversial book, “Ecstasy”, by Irvine Welsh. “Ecstasy”, was translated into 20 languages and was a number one bestseller in over 20 countries. Mr. Welsh’s first book, “Trainspotting”, published in 1993, (and voted by Waterstone, Europe’s largest bookstore chain, as one of the Ten Best Books of the Century), sold over 1 million copies in the UK alone, and has its own Cinematic Cinderella success story.",
+        "popularity": 12.455,
+        "poster_path": "/sjWrxGy3Q8oj4ij5jJY414BddIS.jpg",
+        "release_date": "2011-09-10",
+        "title": "Ecstasy",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/slrJJhcNXL8NmibYdejsP5wHKq.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 49943,
+        "original_language": "ru",
+        "original_title": "Сёстры",
+        "overview": "A movie about two sisters - thirteen year old Sveta, poor and abandoned by her father, who longs to go off and be a sniper in the army, and spoilt eight-year old Dina, doted on by her gangster father...",
+        "popularity": 12.455,
+        "poster_path": "/8FP5YGUFTUhuVnJeUYOeIspi4Xe.jpg",
+        "release_date": "2001-05-10",
+        "title": "Sisters",
+        "video": false,
+        "vote_average": 6.994,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vrUB92EdhVprP0sICAzxHSISXWR.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 39088,
+        "original_language": "ru",
+        "original_title": "Олигарх",
+        "overview": "During the Gorbachev years, Platon Makovski and his four buddies are university students who jump on the private capitalism movement. Fast-forward 20 years, Platon finds himself the richest man in Russia, having sacrificed his friends to get to the top. But with this cynical rise, comes a brutal fall.",
+        "popularity": 12.454,
+        "poster_path": "/nWZncYsVgTNMdJiFm4BDoYvIQjv.jpg",
+        "release_date": "2002-06-06",
+        "title": "Tycoon",
+        "video": false,
+        "vote_average": 5.513,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oRXDb7wH1vqfH4wupI8qOvalPwM.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            53,
+            80
+        ],
+        "id": 25300,
+        "original_language": "it",
+        "original_title": "Io non ho paura",
+        "overview": "While playing outside one day, nine-year-old Michele discovers Filippo, who is chained to the ground at the bottom of a hole. Michele witnesses town baddie Felice nearby and suspects something bad is happening. Michele is unsure whom he should tell about his discovery, eventually spilling the beans to his closest friend. Michele's parents learn of his discovery and warn him to forget what he saw",
+        "popularity": 12.453,
+        "poster_path": "/vTf4qR0OSuV4qBT8As4QoWxSJSq.jpg",
+        "release_date": "2003-02-08",
+        "title": "I'm Not Scared",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 924
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4xcZkjdkPZ0iJ53AyBJ9b9SdSDD.jpg",
+        "genre_ids": [
+            10402,
+            35,
+            10749,
+            80
+        ],
+        "id": 468302,
+        "original_language": "it",
+        "original_title": "Ammore e malavita",
+        "overview": "A Camorra boss fakes his own death in order to start a new life elsewhere with his family, but a nurse happens to see him alive and well after the funeral. A hitman is promptly sent to get rid of her, only to find out that she's his first and unforgotten love. He decides to protect her, becoming himself a target.",
+        "popularity": 12.452,
+        "poster_path": "/gjgTPRxVWpqHBa1dNRSfaiVDxWp.jpg",
+        "release_date": "2017-08-01",
+        "title": "Love and Bullets",
+        "video": false,
+        "vote_average": 6.572,
+        "vote_count": 251
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kMw4d763HTd6ZsKpU76Et4pLqD0.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            53
+        ],
+        "id": 49060,
+        "original_language": "en",
+        "original_title": "Tempo",
+        "overview": "Jenny, a young American woman, moves to Paris and gets involved with Jack, who is seemingly the man of her dreams. However, he has a lot to hide and Jenny quickly gets entangled his dangerous lifestyle.",
+        "popularity": 12.45,
+        "poster_path": "/w5UglWy6kBo4N2xDbqOf0ENNO8H.jpg",
+        "release_date": "2003-06-17",
+        "title": "Tempo",
+        "video": false,
+        "vote_average": 4.375,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2I0pJ1IEoPTlB1K807CSTw7SQ5w.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 341,
+        "original_language": "en",
+        "original_title": "A Crime",
+        "overview": "Vincent's life is on hold until he finds his wife's killer. Alice, his neighbor, is convinced she can make him happy. She decides to invent a culprit, so that Vincent can find revenge and leave the past behind. But there is no ideal culprit and no perfect crime.",
+        "popularity": 12.447,
+        "poster_path": "/ms5tA7A2xc1EOqc2mVvcFrnH6gO.jpg",
+        "release_date": "2006-09-11",
+        "title": "A Crime",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6IvBsWv9ilAL28DZghUy11AAgXg.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            27
+        ],
+        "id": 163545,
+        "original_language": "en",
+        "original_title": "The Surrogate",
+        "overview": "Frank and Lee have marital problems: he's been impotent for 18 months, she alternates between sympathy and criticism. His temper gets the best of him, so he's seeing a psychotherapist who finds the anger and the impotence related. She recommends that Frank and Lee hire a mysterious European woman to lead them through fantasies intended to unlock passion and help them heal. At the same time this is going on, the police are investigating a series of stabbings: as corpses pile up, we wonder if Frank's temper may be behind this; or perhaps it's Eric, a cross-dressing neighbor and friend of Lee's; it may even be the European woman, who keeps popping up with new fantasies.",
+        "popularity": 12.445,
+        "poster_path": "/88SkTfSYVrAYvhsoAHW4ZANabIZ.jpg",
+        "release_date": "1984-10-15",
+        "title": "The Surrogate",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zGV98SZn4j1lWMAaaa3NAO1uR5P.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            53
+        ],
+        "id": 6173,
+        "original_language": "fr",
+        "original_title": "Sur mes lèvres",
+        "overview": "She is almost deaf and she lip-reads. He is an ex-convict. She wants to help him. He thinks no one can help except himself.",
+        "popularity": 12.442,
+        "poster_path": "/1YIkOan9JzbBVAQRvq5fIjHHBAP.jpg",
+        "release_date": "2001-10-17",
+        "title": "Read My Lips",
+        "video": false,
+        "vote_average": 7.148,
+        "vote_count": 311
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uJpfm495dkaXWPsdZvTeYUbXyqy.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 751820,
+        "original_language": "zh",
+        "original_title": "除暴",
+        "overview": "A detective tracks down a gang of criminals ten years after they initially evaded arrest.",
+        "popularity": 12.439,
+        "poster_path": "/ikRoKb433FgJtd6KvdQGrMuUwKM.jpg",
+        "release_date": "2020-11-27",
+        "title": "Caught in Time",
+        "video": false,
+        "vote_average": 6.412,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nuST1nEEdHoJMNbEgOIdTShq44t.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 291492,
+        "original_language": "ja",
+        "original_title": "ある優しき殺人者の記録",
+        "overview": "Sang-joon has recently escaped from a mental institution and managed to amass a kill count in the high teens, all while spewing nonsense about “the power of love”.",
+        "popularity": 12.434,
+        "poster_path": "/ejxnxzs225tCt9oZVBRlywptEms.jpg",
+        "release_date": "2014-09-06",
+        "title": "A Record of Sweet Murder",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/msoJ7Jj7G09KFENGKWolQW31neo.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 3481,
+        "original_language": "en",
+        "original_title": "The Face of Fu Manchu",
+        "overview": "Grisly strangulations in London alert Nayland Smith of Scotland Yard to the possibility that fiendish Fu Manchu may not after all be dead, even though Smith witnessed his execution. A killer spray made from Tibetan berries seems to be involved and clues keep leading back to the Thames.",
+        "popularity": 12.431,
+        "poster_path": "/sOsKQovokQUKW4fqGdbxBmpvxak.jpg",
+        "release_date": "1965-08-06",
+        "title": "The Face of Fu Manchu",
+        "video": false,
+        "vote_average": 6.09,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xVHu86MkmtfsgKzLOaG7nCbeZpP.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            27,
+            80,
+            18
+        ],
+        "id": 795518,
+        "original_language": "en",
+        "original_title": "Broadcast Signal Intrusion",
+        "overview": "In the late 90s, a video archivist unearths a series of sinister pirate broadcasts and becomes obsessed with uncovering the dark conspiracy behind them.",
+        "popularity": 12.43,
+        "poster_path": "/hMv5Fgm718QB8anCBpJZIKj17hX.jpg",
+        "release_date": "2021-10-22",
+        "title": "Broadcast Signal Intrusion",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pJ3m234HaUOCRlcOSM9BhfNKrEd.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36
+        ],
+        "id": 31525,
+        "original_language": "hi",
+        "original_title": "द लीज़ेंड ऑफ़ भगत सिंह",
+        "overview": "Born in British India, Bhagat Singh witnesses numerous atrocities during his childhood and grows up to become one of the most fearless freedom fighters in the country.",
+        "popularity": 12.429,
+        "poster_path": "/pOd8woHbZUDn9HheKTkSQHFNTZ2.jpg",
+        "release_date": "2002-06-07",
+        "title": "The Legend of Bhagat Singh",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ploaDvUAzQGBlTFm8Cv8w5F3N4m.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            10770
+        ],
+        "id": 516306,
+        "original_language": "ja",
+        "original_title": "アガサ・クリスティ　二夜連続ドラマスペシャル「パディントン発4時50分」",
+        "overview": "Toko Amano worked as a detective, but to take care of her sick husband she quit her job. After her husband passed away, Toko Amano now works as a crisis management expert.  3 days ago, Toko Amano's former mother-in-law rode on an express train with beds. She witnessed a man strangling a woman and told the train conductor, but he thought she imagined it. The police later searched for the woman's body, but could not find her.  Toko Amano boards the same express train that her former mother-in-law rode. She looks for the dead body.",
+        "popularity": 12.428,
+        "poster_path": "/nbUYGIbifs9jAtNbbSoNMGKr3n5.jpg",
+        "release_date": "2018-03-24",
+        "title": "4.50 from Paddington",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9KTwQvWlXQisEDYDHbNI6OpMXmt.jpg",
+        "genre_ids": [
+            12,
+            35,
+            9648,
+            80
+        ],
+        "id": 50761,
+        "original_language": "en",
+        "original_title": "Our Man in Marrakesh",
+        "overview": "One of six travelers who catch the bus from Casablanca airport to Marrakesh is carrying $2 million to pay a local operator to fix United Nations votes. But which one?",
+        "popularity": 12.428,
+        "poster_path": "/oQJ5P1VNM8F7vjBPxBcZh4pLQDO.jpg",
+        "release_date": "1966-05-05",
+        "title": "Our Man in Marrakesh",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oyRNZ5SBH6YCwbbls6iSskeVzpE.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 40066,
+        "original_language": "cn",
+        "original_title": "烏鼠機密檔案",
+        "overview": "A man returns home to find his wife with another man. He goes to a bar and begins to drink, waking up the next day to find that he owes a mafioso money for killing his wife.",
+        "popularity": 12.427,
+        "poster_path": "/ir9gPMZrUFzxNOUFSipXghcsBUq.jpg",
+        "release_date": "1993-02-27",
+        "title": "Run and Kill",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 21
+    }
+]

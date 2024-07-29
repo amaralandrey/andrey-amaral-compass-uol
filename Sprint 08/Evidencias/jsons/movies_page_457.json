@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/fkcwQGCr4YEnCG9QSbuzm1P6ih3.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 104261,
+        "original_language": "it",
+        "original_title": "Quelli che contano",
+        "overview": "The gangster Tony Aniante in the middle of a feud between two mafia families. He manipulates both families into believing he is on their side and are just waiting for the right moment to take the initiative...",
+        "popularity": 7.169,
+        "poster_path": "/qpgnzUO7BxfSVExUKO58XUoDBE1.jpg",
+        "release_date": "1974-04-04",
+        "title": "Cry of a Prostitute",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s1t2hI4qTQdYJiIdLY7ji6bIsw8.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 505879,
+        "original_language": "ta",
+        "original_title": "வஞ்சகர் உலகம்",
+        "overview": "A woman is murdered and her neighbour is picked up as a suspect. Meanwhile, a journalist believes he can use this murder to lure an elusive gangster, with help from the guy’s former accomplice.",
+        "popularity": 5.947,
+        "poster_path": "/dQ0DleLeAMWfvP1eySo461L2KtM.jpg",
+        "release_date": "2018-09-07",
+        "title": "Vanjagar Ulagam",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cWXio7pLpHsVvLRGJc2ZUkySXfw.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 255608,
+        "original_language": "en",
+        "original_title": "Mandrake the Magician",
+        "overview": "Mandrake and his team attempt to prevent \"The Wasp\" from stealing and using a new Radium invention.",
+        "popularity": 7.126,
+        "poster_path": "/4Vr6GSOVQ3F8WSPBHgfhliesvlu.jpg",
+        "release_date": "1939-05-06",
+        "title": "Mandrake the Magician",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4FJCHjnP6X4yNSUnglCCIXlpN11.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 28318,
+        "original_language": "it",
+        "original_title": "Paura nel buio",
+        "overview": "A sick young man drives around in his daddy's camper, looking for lone stray females to kidnap, torture, rape and murder.",
+        "popularity": 7.125,
+        "poster_path": "/5EvkUDS2Epdqbx7j8KsUw7jYx7w.jpg",
+        "release_date": "1989-01-01",
+        "title": "Hitcher in the Dark",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 892355,
+        "original_language": "en",
+        "original_title": "Second Sight: Kingdom of the Blind",
+        "overview": "While hiding his own rapidly deteriorating eyesight, a detective investigates the murder of a black youth leader.",
+        "popularity": 7.123,
+        "poster_path": null,
+        "release_date": "2001-02-05",
+        "title": "Second Sight: Kingdom of the Blind",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nT5J78WCeEiP7Ab99CmwyZBKSUY.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 415787,
+        "original_language": "ja",
+        "original_title": "脱走遊戯",
+        "overview": "Kamiki (Sonny Chiba) is a career criminal who is given the chance to break out of prison for the 33rd time. Afterwards Kaimiki teams up with a bunch of thugs that engineer prison escapes for money.",
+        "popularity": 7.123,
+        "poster_path": "/ktzSoGnxH01eJb8jgGr8zQc3OeN.jpg",
+        "release_date": "1976-06-19",
+        "title": "Jail Breakers",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1Jn1NYJwbFeWfIhheW0ctIttcmF.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 320675,
+        "original_language": "en",
+        "original_title": "Prison Farm",
+        "overview": "Shirley Ross plays an innocent young girl convicted for complicity in a crime committed by her boy friend (Lloyd Nolan). The male crook is sentence to six months on a prison farm populated by both men and women (segregated, of course). Ross is also incarcerated, suffering the cruelties of the sadistic male and female guards (including J. Carroll Naish and future \"Ma Kettle\" Marjorie Main!)",
+        "popularity": 7.123,
+        "poster_path": "/qXu7GyiP1VT3AJfy7ro9Pv1xX3i.jpg",
+        "release_date": "1938-06-17",
+        "title": "Prison Farm",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aHtZFBjUCSpghKWl2rU7zP6FhRQ.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 811945,
+        "original_language": "te",
+        "original_title": "HIT: The 2nd Case",
+        "overview": "Krishna Dev aka KD, a laidback cop working in Andhra Pradesh State HIT, takes on a gruesome murder case. As KD unravels the layers of the crime, the stakes rise unbelievably high and the threat comes unusually close.",
+        "popularity": 7.122,
+        "poster_path": "/eKSZoi8Rn3sgkLGnLJogYWfQLrl.jpg",
+        "release_date": "2022-12-02",
+        "title": "HIT: The 2nd Case",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lie8KItLB7Ggkm5KyTydMOgUjld.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 47149,
+        "original_language": "en",
+        "original_title": "Highway Dragnet",
+        "overview": "An ex-Marine, on the lam from a murder charge, hitches a ride with a glamour-magazine photographer, who is travelling cross-country with her principal model. Tensions rise when the women realize the man with them may be a killer.",
+        "popularity": 7.121,
+        "poster_path": "/jbxYwIAkWZXwgzTTRJpyXwFhHYT.jpg",
+        "release_date": "1954-01-20",
+        "title": "Highway Dragnet",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/srahzmTqCA2GyyBcrpVQl2jDP4K.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            9648
+        ],
+        "id": 728716,
+        "original_language": "ja",
+        "original_title": "ストロベリーナイト アフター・ザ・インビジブル・レイン",
+        "overview": "",
+        "popularity": 7.12,
+        "poster_path": "/x4VausGuBGi7g98VB4GHaBRA3rN.jpg",
+        "release_date": "2013-01-26",
+        "title": "Strawberry Night: After the Invisible Rain",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 426496,
+        "original_language": "en",
+        "original_title": "Tough Love",
+        "overview": "DC Lenny Milton (Winstone) is not as ambitious as his best friend and popular boss DCI Michael Love (Dunbar), but the pair are drinking partners and their wives and children are close. However, this goes very wrong over the space of 7 days, when Milton is approached by the police complaints division asking him to go undercover and investigate allegations of corruption against his friend. Milton finds this difficult at first and tries to dismiss the evidence building up. But as his suspicions begin to take shape his position appears to be in danger.",
+        "popularity": 7.12,
+        "poster_path": null,
+        "release_date": "2000-10-01",
+        "title": "Tough Love",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            10770,
+            18
+        ],
+        "id": 721165,
+        "original_language": "en",
+        "original_title": "Nashville Beat",
+        "overview": "A Los Angeles police officer named Mike Delaney transfers to Nashville joining his former partner. Together they battle gangs and get to know each other again. This is also a unofficial reunion film to the TV series Adam-12 which shared this TV movies two leads, Kent McCord and Martin Milner.",
+        "popularity": 7.119,
+        "poster_path": "/AjzIhWxG4P0ylB0jvEXDOUZAZ2I.jpg",
+        "release_date": "1989-10-21",
+        "title": "Nashville Beat",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aTIZZfLtD0rB6fajMFf2rwhQn7o.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            878
+        ],
+        "id": 199603,
+        "original_language": "en",
+        "original_title": "International Crime",
+        "overview": "The second and final Grand National Pictures film to feature The Shadow, played again by Rod La Rocque. In this version, Lamont Cranston is an amateur detective and host of a radio show with his assistant Phoebe (not Margo) Lane. Cabbie Moe Shrevnitz and Commissioner Weston also appear.",
+        "popularity": 7.119,
+        "poster_path": "/mlHfoSbfaNE6gsXgNMnBde2lc8c.jpg",
+        "release_date": "1938-04-23",
+        "title": "International Crime",
+        "video": false,
+        "vote_average": 5.45,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wtBlucUlk72kgeYawsGElQa1moa.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 511468,
+        "original_language": "tr",
+        "original_title": "Who Killed Lady Winsley",
+        "overview": "When Lady Winsley, the famous American novelist, is discovered dead on the remote Turkish island of Büyükada, the great detective Fergün is sent from Istanbul to solve the murder case. With the help of Azra, the beautiful local hotel tenant, he must confront stubborn members of the island community to untangle well-guarded family secrets and discover who the murderer is.",
+        "popularity": 7.506,
+        "poster_path": "/cVvIHtrpst1H5mXOANrM5VG5Ltl.jpg",
+        "release_date": "2019-01-02",
+        "title": "Who Killed Lady Winsley?",
+        "video": false,
+        "vote_average": 6.274,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5SDLxM9rxBvxWWJzCrHnhp6O9DF.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 88573,
+        "original_language": "th",
+        "original_title": "ฝนตกขึ้นฟ้า",
+        "overview": "A hitman named Tul is shot in the head during an assignment. When he wakes up from a two month coma Tul discovers that he literally sees everything upside down.",
+        "popularity": 8.451,
+        "poster_path": "/wuZ6uVkuaKfehCSKMKb5SznEkpc.jpg",
+        "release_date": "2011-11-24",
+        "title": "Headshot",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hrRHACwsmi6HinND2Px7yeuzeWA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            878
+        ],
+        "id": 709501,
+        "original_language": "ja",
+        "original_title": "仮面ライダーゼロワン: シューティング・スペシャル",
+        "overview": "Fuwa has been told that his true past, the one that hadn't been falsified, has been \"boring and uninteresting\", as Yua overhears and notices that Fuwa cannot hide the look of disappointment on his face. \"You are Vulcan! Engrave it in your head!\" In order to regain his confidence, Isamu Fuwa looks back at his life and battles as a Kamen Rider! However, this plan of his starts to head in an unexpected direction...!",
+        "popularity": 7.115,
+        "poster_path": "/5QmZnglBRX0BVHytFAyUuFHWujM.jpg",
+        "release_date": "2020-05-31",
+        "title": "Kamen Rider Zero-One: Shooting Special",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            10770
+        ],
+        "id": 370946,
+        "original_language": "en",
+        "original_title": "Deadly Whispers",
+        "overview": "Tom Acton: a strict but loving father whose only wish is for a safe, kind world for his family. His main worry: his l9·year old daughter, Kathy, a pretty and flirtatious girl who thinks nothing of having an affair with a married man. Even worse, she suspects that an old boyfriend is stalking her. Then one day, Kathy goes missing. Tom and his wife, Carol, are convinced that Kathy has been abducted and are devastated when the police find a body, shot to death and horribly mutilated. The Actons refuse to believe it could be Kathy, but as the police detective assigned to the case begins to dig deeper, he confronts Carol with a terrible possibility, that the truth behind the killing could lie very close to home.",
+        "popularity": 9.961,
+        "poster_path": "/3dVTAmIqV0srFITakiagJQsFyJ2.jpg",
+        "release_date": "1995-05-10",
+        "title": "Deadly Whispers",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nBd8zP7puLnJzLaKbEZrmPwehri.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 21460,
+        "original_language": "hi",
+        "original_title": "माचिस",
+        "overview": "A realistic, hard-hitting portrayal of terrorism and youth in the Punjab after the 1984 riots.",
+        "popularity": 7.114,
+        "poster_path": "/1gDubagNmgdSY98PMzU7PbAGUrJ.jpg",
+        "release_date": "1996-10-25",
+        "title": "Maachis",
+        "video": false,
+        "vote_average": 6.667,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            36,
+            9648,
+            10752
+        ],
+        "id": 622066,
+        "original_language": "ja",
+        "original_title": "闇の歯車",
+        "overview": "",
+        "popularity": 7.113,
+        "poster_path": "/ySDB3wotUcTL6COIwdemth8xZBM.jpg",
+        "release_date": "2019-01-19",
+        "title": "The Fox Dancing in the Dusk",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 261191,
+        "original_language": "cn",
+        "original_title": "勝者為王",
+        "overview": "Shila and Feng have playing against each other since childhood. Shila grows up to run her family's casino and, for a time, seems not to be tough enough to make the grade. Feng gains control of her casino. Will there be revenge ? You can bet on it !",
+        "popularity": 7.113,
+        "poster_path": "/2NqFFEQCmzaevUvnrLBGtVFKq6I.jpg",
+        "release_date": "1992-01-01",
+        "title": "The Mighty Gambler",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    }
+]

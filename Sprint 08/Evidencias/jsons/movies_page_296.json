@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/zNnQ6nCCnxdcgdaUG7GjeIAkFA8.jpg",
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 295482,
+        "original_language": "cn",
+        "original_title": "溶屍奇案",
+        "overview": "Based on a true story. A female bible student corresponds with a couple that is sent to prison after a goopy body is found in their apartment in a trunk filled with acid. After visiting the Wife, then the husband, she (Cecilia Yip) falls for him (Francis Ng) and begins to think that he is innocent. So she arranges for a defense team (with help from a catholic Church) to get him acquitted of the charges. Meanwhile a hard working detective (Anthony Wong) tries to convince the woman that he's guilty as hell. But he arranges to have a prison divorce and wedding behind bars. When she finds out the awful truth, how will she handle it?",
+        "popularity": 10.576,
+        "poster_path": "/pS1nWRh7D91Vuym15THTNdDSAsH.jpg",
+        "release_date": "1993-06-12",
+        "title": "Legal Innocence",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sy5ABckvrfsMvAd1AGeWMHJH9yj.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 42669,
+        "original_language": "en",
+        "original_title": "Five Star Final",
+        "overview": "Searching for headlines at any cost, an unscrupulous newspaper owner forces his editor to print a serial based on a past murder, tormenting a woman involved.",
+        "popularity": 10.576,
+        "poster_path": "/1DZF4buRoDNsnAtkQZd8fIYVCCV.jpg",
+        "release_date": "1931-09-26",
+        "title": "Five Star Final",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zPATOBJBItefuQ9yJgZMdZD1drP.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            27,
+            53
+        ],
+        "id": 651879,
+        "original_language": "ja",
+        "original_title": "屍人荘の殺人",
+        "overview": "Yuzuru Hamura (Ryunosuke Kamiki) is a university student and a fan of mystery novels. Against his will, he was forced to join the school's mystery club. The club is led by Kyosuke Akechi (Tomoya Nakamura). Meanwhile, Hiruko Kenzaki (Minami Hamabe) appears in front of them. She attends the same university and she is also a private detective. These 3 people attend a summer camp and stay at Shijinso pension in the mountains. On their first day there, they must barricade themselves in the pension. The next morning, they discover a murder has taken place in the pension.",
+        "popularity": 10.573,
+        "poster_path": "/1YEamCg1OUHRG0gFXfp9Bz96BHW.jpg",
+        "release_date": "2019-12-13",
+        "title": "Murders at the House of Death",
+        "video": false,
+        "vote_average": 6.545,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9KkWuDfHgcLyAH5gj9JXiazApUQ.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 385692,
+        "original_language": "ja",
+        "original_title": "激動の1750日",
+        "overview": "After the death of previous Boss, a gang war lasts for more than four years.",
+        "popularity": 10.573,
+        "poster_path": "/tvTik9ygM5aB4wiC72vXiSWfcjT.jpg",
+        "release_date": "1990-09-15",
+        "title": "1750 Days of Turbulence",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/32dV92olhvfQJTWVwa7h4pvyR8N.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 188631,
+        "original_language": "en",
+        "original_title": "Escape!",
+        "overview": "When Matt Denant (Gerald de Maurier) finds himself wrongly imprisoned for manslaughter, he takes an opportunity to escape from jail during a foggy day and is forced to rely on the goodwill of local people to remain a fugitive of the law.",
+        "popularity": 10.573,
+        "poster_path": "/kiV7GHi7XU2UxuAXyzZzPeKPwzm.jpg",
+        "release_date": "1930-08-28",
+        "title": "Escape!",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/euEt48A28PHWHVZQUn4r0WBQ8MM.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 37087,
+        "original_language": "en",
+        "original_title": "711 Ocean Drive",
+        "overview": "The Horatio Alger parable gets the film noir treatment with the redoubtable Edmund O’Brien as a whip-smart telephone technician who moves up the ladder of a Syndicate gambling empire in Southern California until distracted by an inconveniently married Joanne Dru and his own greed. Ripped from the headlines of the 1950 Kevaufer Organized Crime Hearings, this fast-moving picture is laden with location sequences shot in Los Angeles, the Hoover Dam and Palm Springs including the famous Doll House watering hole on North Palm Canyon Drive!",
+        "popularity": 10.572,
+        "poster_path": "/nRTfhyRPFW2f3RPi8PgjQE9t3Pt.jpg",
+        "release_date": "1950-07-01",
+        "title": "711 Ocean Drive",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vrvLXIyLBDyHomLqMbX4gI7YJRT.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 101929,
+        "original_language": "ja",
+        "original_title": "黒い河",
+        "overview": "A university student moves into an apartment building and becomes involved with a waitress. The landlord then attempts to evict the tenants and sell the building through illicit means.",
+        "popularity": 10.571,
+        "poster_path": "/ngqkpjfP2fU3bAXElKSbfSXlTVv.jpg",
+        "release_date": "1957-10-23",
+        "title": "Black River",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zAruyEXJ4Egwm3y8X2JUR9ODt3p.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1147049,
+        "original_language": "en",
+        "original_title": "Big Nunu's Little Heist",
+        "overview": "An ex-soldier turned deliveryman is dragged into a local kingpin's bumbling gang to pull off a daring heist in an infamous South African township.",
+        "popularity": 10.569,
+        "poster_path": "/lCMnAVZkOObw1W26Old1V0ONEzF.jpg",
+        "release_date": "2023-07-28",
+        "title": "Big Nunu's Little Heist",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kYB543U7GLStsLl4xJsrU4Lowar.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 52913,
+        "original_language": "it",
+        "original_title": "Squadra antimafia",
+        "overview": "Undercover cop Nico Giraldi travels to New York and Las Vegas to find a crooked cop who gave his squadron back in Italy a bad name.",
+        "popularity": 10.569,
+        "poster_path": "/nv1lUqgW3MD0PYmDBnahZ6Wm8Ze.jpg",
+        "release_date": "1978-10-10",
+        "title": "Little Italy",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 95429,
+        "original_language": "en",
+        "original_title": "Quick",
+        "overview": "A female assassin named \"Quick\" is hired to bring in a Mafia accountant, who is under police protection. Double crossed by the mafia, she takes her hostage to California to retrieve $3M that he took before running. The mafia and Quick's untrustworthy boyfriend are on the trail.",
+        "popularity": 10.568,
+        "poster_path": "/5VWchxh33TbUnsvRekTKsLkWI4r.jpg",
+        "release_date": "1993-08-30",
+        "title": "Quick",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5vgamHn13iKvT4narVlTEZukaRi.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 492402,
+        "original_language": "en",
+        "original_title": "Cops and Robbers",
+        "overview": "A police hostage negotiator plays a dangerous game of cat and mouse with a cornered bank robber who is hell bent on getting out of the bank and humiliating his brother, the police hostage negotiator, in the process.",
+        "popularity": 10.567,
+        "poster_path": "/jtcEfJs4pKuJBEcTjnk3H9KCo0E.jpg",
+        "release_date": "2017-12-12",
+        "title": "Cops and Robbers",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wVlw33hvjqI38mRfz5QnfNw1Ysu.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53,
+            80
+        ],
+        "id": 41209,
+        "original_language": "en",
+        "original_title": "WiseGirls",
+        "overview": "Meg, Raychel and Kate are three waitresses at a restaurant frequented by mob bosses. Their lives become complicated when one of the women witnesses a crime, and the three friends suddenly find themselves entangled in their customers’ dangerous world.",
+        "popularity": 10.566,
+        "poster_path": "/fFeHLfG4e99gZofpMZ8W6pyJmND.jpg",
+        "release_date": "2002-12-06",
+        "title": "WiseGirls",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/YalZWRTQY7oORGKXSHYAd4Uph1.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80,
+            53
+        ],
+        "id": 4968,
+        "original_language": "en",
+        "original_title": "The Piano Player",
+        "overview": "A tale about the relationship between a businessman who launders money for a Mafia figure and his gangster bodyguard.",
+        "popularity": 10.566,
+        "poster_path": "/ygiNCXYShuQAFf5yFXyma4xq0Ve.jpg",
+        "release_date": "2002-10-06",
+        "title": "The Piano Player",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u0H2ve47SwHC8hVGYn7bis6UYOk.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 134028,
+        "original_language": "ru",
+        "original_title": "24 часа",
+        "overview": "Feliks, professional killer, has only 24 hours to get to the distant island, where his beloved woman and the money for the custom made is waiting for him. Lyova Shalamov and his brother Garik have also 24 hours to find and to kill Feliks.",
+        "popularity": 10.565,
+        "poster_path": "/nDxJRwCKYcQp6IP2eG4rVcxVbhI.jpg",
+        "release_date": "2000-11-03",
+        "title": "24 Hours",
+        "video": false,
+        "vote_average": 3.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xcXUN0iRoZfDyXj29tbRFFPhMf7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 33813,
+        "original_language": "en",
+        "original_title": "Born to Kill",
+        "overview": "Helen Brent has just received a Reno divorce. That night, she discovers her neighbor Laury Palmer and a gentleman caller murdered in Palmer's home. The killer is her neighbor's other boyfriend Sam Wilde, an insanely jealous man who won't abide anyone \"cutting in\" on him.",
+        "popularity": 10.565,
+        "poster_path": "/fFq23ToiVg8sWiMnD4f3Fj37UHD.jpg",
+        "release_date": "1947-04-30",
+        "title": "Born to Kill",
+        "video": false,
+        "vote_average": 6.677,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8YJvr8sFhJWYDedzIu1gTDtxwW8.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 1138510,
+        "original_language": "zh",
+        "original_title": "狄仁杰之雷火玄龙",
+        "overview": "",
+        "popularity": 10.564,
+        "poster_path": "/yXypFcN2E0SZJj1uaVdjJ2GHReJ.jpg",
+        "release_date": "2023-06-10",
+        "title": "Detective Dee and The Dragon of Fire",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9SV8MmQ7TOsjNqDPHScyRadfSQf.jpg",
+        "genre_ids": [
+            53,
+            10770,
+            80,
+            18
+        ],
+        "id": 68666,
+        "original_language": "en",
+        "original_title": "The Kidnapping",
+        "overview": "Amy Carlson is the woman in charge of a bank's security system. Two dirty cops (played by the slightly washed-up duo of Judd Nelson and Thomas Ian Griffith) kidnap her daughter and a friend to force her to open the safety deposit box of one of her bank's clients and give to them its content.",
+        "popularity": 10.561,
+        "poster_path": "/5mj9bhKqtaIEuajpd93daYs3ebW.jpg",
+        "release_date": "2007-10-30",
+        "title": "Black Friday",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nH0AnUZaEJeN5dmTvWxegaH5VO4.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 707412,
+        "original_language": "af",
+        "original_title": "Griekwastad",
+        "overview": "In 2012, Deon Steenkamp was murdered along with his wife Christel and their teenage daughter Marthella on their farm Naauwhoek. GRIEKWASTAD, based on the bestselling true crime novel by Jacques Steenkamp, tells the tale of the search to find the truth around these murders, however difficult and upsetting it may be.",
+        "popularity": 10.56,
+        "poster_path": "/2JqYImXTQJ90BWYzMSbhMrnufcC.jpg",
+        "release_date": "2020-06-05",
+        "title": "Griekwastad",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iKAIldWi9AYHauOhx555VkZ51f8.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 261288,
+        "original_language": "cn",
+        "original_title": "天與地",
+        "overview": "Cheung Ye Pang (Andy Lau) is a Cantonese detective out to combat opium sellers. Encountering high-level corruption along with close friends being murdered, Pang sets out to stop the dealers.",
+        "popularity": 10.56,
+        "poster_path": "/wRGN5bAkH5KvFGQzsgAvPpqrlU.jpg",
+        "release_date": "1994-07-21",
+        "title": "Heaven and Earth",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lERFumpuSUNPUYl4fo53cC8BN0I.jpg",
+        "genre_ids": [
+            80,
+            28,
+            10770
+        ],
+        "id": 237802,
+        "original_language": "en",
+        "original_title": "Concrete Cowboys",
+        "overview": "Two Montana saddletramps head to Nashville to open up a detective agency. At first, the agency begins on a lark but, soon, they get involved in a case involving a kidnapped singer and an intricate blackmail scheme.",
+        "popularity": 10.559,
+        "poster_path": "/roFcLeJERGAHqxqqpoRB7EYVtk8.jpg",
+        "release_date": "1979-10-17",
+        "title": "Concrete Cowboys",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 10
+    }
+]

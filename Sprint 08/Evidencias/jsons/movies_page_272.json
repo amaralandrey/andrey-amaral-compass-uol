@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/oprtsBXkDJULlZGbswnjdA4aS1j.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 29113,
+        "original_language": "en",
+        "original_title": "The Web",
+        "overview": "A brash young lawyer takes a short-term, high-paying job as bodyguard for a slick business exec being threatened by a former partner, and quickly realizes he may be in over his head.",
+        "popularity": 11.328,
+        "poster_path": "/zYlaxnJYYwTYfh9JIqGD90Qf70h.jpg",
+        "release_date": "1947-06-04",
+        "title": "The Web",
+        "video": false,
+        "vote_average": 7.049,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            9648,
+            80
+        ],
+        "id": 263127,
+        "original_language": "ja",
+        "original_title": "マークスの山",
+        "overview": "Assistant police inspector Aida is assigned to investigate the murder of a former gang member. When a justice ministry official is killed days later in a similar manner, he begins to suspect that something bigger is going on...",
+        "popularity": 11.327,
+        "poster_path": "/2kAzaGKOx3nLXApLtpwGhmHRWmU.jpg",
+        "release_date": "1995-04-22",
+        "title": "MARKS",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fnWKgGGImCrcxQny9bFif0IikpL.jpg",
+        "genre_ids": [
+            12,
+            80,
+            53
+        ],
+        "id": 42716,
+        "original_language": "en",
+        "original_title": "Assault on a Queen",
+        "overview": "A group of adventurers refloat a WWII German submarine and prepare to use it to pull a very large heist; The Queen Mary which they plan to rob on the high seas.",
+        "popularity": 11.326,
+        "poster_path": "/njPVhwl192zIJOpy5agbzY7XCEj.jpg",
+        "release_date": "1966-06-15",
+        "title": "Assault on a Queen",
+        "video": false,
+        "vote_average": 5.457,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3KdCN3eOS7UqQnCL0T8aB5Xqc3A.jpg",
+        "genre_ids": [
+            28,
+            80,
+            878
+        ],
+        "id": 161987,
+        "original_language": "en",
+        "original_title": "The Shadow",
+        "overview": "The Shadow battles a villain known as The Black Tiger, who has the power to make himself invisible and is trying to take over the world with his death ray.",
+        "popularity": 11.32,
+        "poster_path": "/ss2sHBgf6Ft6NHrJKbpfuQPXwH3.jpg",
+        "release_date": "1940-01-05",
+        "title": "The Shadow",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lk5N1OeLbugeAnabhRccUc6865e.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 98092,
+        "original_language": "en",
+        "original_title": "Island of Doomed Men",
+        "overview": "An undercover agent wrongly punished for murder is paroled to a remote tropical island with a diamond mine slave labor run by a sadistic foreigner.",
+        "popularity": 11.32,
+        "poster_path": "/hm263P1rFxzMyuFnn9QlnEy7hsT.jpg",
+        "release_date": "1940-05-20",
+        "title": "Island of Doomed Men",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aO3mV8xlJdgygSTg1J3J5CN5oBm.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 55766,
+        "original_language": "en",
+        "original_title": "Sweeney 2",
+        "overview": "The plot is set on a group of bank robbers, who are both violent and successful, strangely getting away each time with an amount around the £60,000 mark, and often leaving behind cash in excess of this sum. The robbers are willing to kill their own team, to get away. As Jack Regan himself puts it after the first raid in the film: \"I've never seen so many dead people\". Armed with gold-plated Purdey shotguns, they evaded Regan and the Flying Squad for quite some time, before Regan finds encouragement from his Detective Chief Superintendent who was sent down for corruption because Jack wouldn't testify in court for him.",
+        "popularity": 11.32,
+        "poster_path": "/3cNQxY9P6sF21pUZ1O4WAMLwr8t.jpg",
+        "release_date": "1978-03-30",
+        "title": "Sweeney 2",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 1249415,
+        "original_language": "ko",
+        "original_title": "범죄도시 5",
+        "overview": "",
+        "popularity": 11.319,
+        "poster_path": null,
+        "release_date": "",
+        "title": "The Roundup 5",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sozxwWjKzr9li7Bq0WXTj8OhBH2.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 396450,
+        "original_language": "cn",
+        "original_title": "血洗洪花亭",
+        "overview": "When Fung's cop boyfriend Tats (Wilson Lam) puts her supposedly reformed triad father (Foo Wang-tat) behind bars, her daughter Fung (Joey Wong) aims to rid the organization of it's dirty ties, but one of Fung's father chief goons Cheong (Jimmy Lung Fong) in a deliciously over-the-top portrait of plans for a very hostile takeover. To ensure her cooperation, he rapes her, videotapes her naked the deed, and sells copies to his pals when he's whipping her, insulting her, killing her relatives, making her watch him have sex with hookers and reveling in her utter defenselessness but hotheaded partner Max Mok whose unrequited love for Fung, but doesn't fare much better when he goes above the law to get things done.",
+        "popularity": 11.319,
+        "poster_path": "/b4t4uyakjrlsuHxMWTbpVzxfxcO.jpg",
+        "release_date": "1990-05-10",
+        "title": "An Eye for an Eye",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8JxKQ36sbKh4nVcSqwc37TNJYnA.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 114941,
+        "original_language": "ja",
+        "original_title": "陽炎",
+        "overview": "Rin Jyoshima lost her father to death-by-gambling; years later, she's grown up in the Kosugi household and has fallen victim to gambling herself.",
+        "popularity": 11.319,
+        "poster_path": "/58wYgSBgnfWnUAI3ah8pWCCnkdH.jpg",
+        "release_date": "1991-02-09",
+        "title": "Heat Wave",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aZY2lxtSzAb4Hr5QajjGTOZus17.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 37911,
+        "original_language": "en",
+        "original_title": "5 Against the House",
+        "overview": "Former war-time Army buddies now students in college decide to rip off a Reno casino.",
+        "popularity": 11.317,
+        "poster_path": "/8klUn5eJqWl2cm2gKYnrRpJtpRJ.jpg",
+        "release_date": "1955-06-10",
+        "title": "5 Against the House",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dMNGf2gN9UXZFTlTvsTP4s50vOU.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 203264,
+        "original_language": "en",
+        "original_title": "Percentage",
+        "overview": "After a drug deal gone wrong, two New York City hustlers relocate to Miami, where they set up a lucrative credit card fraud operation. Unfortunately, their new business not only attracts the police, but the city's top criminals -- and both want a percentage of the take.",
+        "popularity": 11.316,
+        "poster_path": "/29XbWNchwireAfDJ7IKXF6ScnZY.jpg",
+        "release_date": "2013-04-24",
+        "title": "Percentage",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r81JCwPSx5NnnV9iu2SevAeVyTx.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            27
+        ],
+        "id": 57309,
+        "original_language": "th",
+        "original_title": "เฉือน",
+        "overview": "A serial killer is on the loose. There have been gruesome murders, with victims being ghastly dismembered and their severed body parts dumped in various locations. As the bodies keep piling up, the police remain in the dark without a single clue.",
+        "popularity": 11.312,
+        "poster_path": "/uMc8v7EPuDXwY1qrcVeKB3KDWzO.jpg",
+        "release_date": "2009-10-22",
+        "title": "Slice",
+        "video": false,
+        "vote_average": 6.467,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m4zDT489Soyhv5XPqej3wCqdqCc.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 14252,
+        "original_language": "en",
+        "original_title": "Vice",
+        "overview": "Max Walker, a down-and-out cop, becomes the target of a bloodthirsty drug cartel after he leads a narcotics bust to intercept a large shipment of heroin. When someone starts picking off his team members - and the drugs seized in the raid suddenly disappear - Walker pairs up with one of his detectives to uncover a conspiracy that may go straight up the chain of command.",
+        "popularity": 11.312,
+        "poster_path": "/mlZG7xFABzmfTOJhYKreO5efxr7.jpg",
+        "release_date": "2008-05-09",
+        "title": "Vice",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5LQk5zwXFZMl52ThvgEENtALSpH.jpg",
+        "genre_ids": [
+            53,
+            80,
+            27
+        ],
+        "id": 138223,
+        "original_language": "en",
+        "original_title": "Forced Entry",
+        "overview": "A disturbed mechanic stalks, rapes, and murders young women as retaliation for the childhood abuse inflicted by his mother. He becomes infatuated with a beautiful housewife who he intends to make his next victim.",
+        "popularity": 11.309,
+        "poster_path": "/3jS0tmv8WL5U49FdNjuanDbepbP.jpg",
+        "release_date": "1975-10-10",
+        "title": "Forced Entry",
+        "video": false,
+        "vote_average": 4.353,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ogTlvoDlAnGm9Ysbk0gKwJsktui.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53,
+            10770
+        ],
+        "id": 24135,
+        "original_language": "en",
+        "original_title": "Sex and Lies in Sin City",
+        "overview": "Star-studded thriller about the sordid murder of reckless Las Vegas casino mogul Ted Binion. This gritty film delves into the twisted world of Binion's beauty-queen-turned-stripper girlfriend, Sandy, and her secret lover. When Binion turns up dead of an overdose, all fingers point to Sandy, the beneficiary of his millions. A shockingly true tale of love gone sour and greed gone wild on the dark side of Las Vegas.",
+        "popularity": 11.305,
+        "poster_path": "/8qv5igelG6a2OGA4OIDKyYvWiir.jpg",
+        "release_date": "2008-10-25",
+        "title": "Sex and Lies in Sin City",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yrLRECC4TJZogZDcKGUuAx64rmI.jpg",
+        "genre_ids": [
+            10752,
+            18,
+            35,
+            80
+        ],
+        "id": 51022,
+        "original_language": "sr",
+        "original_title": "Ране",
+        "overview": "This film follows two Belgrade youths on their rise to gangster legends in a decaying society.",
+        "popularity": 11.304,
+        "poster_path": "/w2BCsgIdGbSGegwWHLlLD24ZiB4.jpg",
+        "release_date": "1998-05-27",
+        "title": "The Wounds",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 259935,
+        "original_language": "en",
+        "original_title": "Pendulum",
+        "overview": "The nature and lure of power: in Dallas, a councilman is on trial for corruption, the D.A. is running for the US Senate, a serial killer is slashing prostitutes, and a professor is murdered. Amanda Reeve is assigned to investigate the law-school killing. She hears rumors that the dead man offered women students good grades in exchange for sex. The trail leads her to two wealthy, beautiful students whose alibi is provided by a librarian. At the same time, the cops close in on the slasher. Meanwhile, Amanda misses her former lover, next in line to become D.A., and a reporter is fired for getting close to the truth about the Senate candidate. Is a cover-up or conspiracy in the works?",
+        "popularity": 11.302,
+        "poster_path": "/e4LM2UliERQDoSfW2iCR7EcpkO9.jpg",
+        "release_date": "2001-11-16",
+        "title": "Pendulum",
+        "video": false,
+        "vote_average": 1.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AhHQivhVyuaz1oXJPaMh9el6uPi.jpg",
+        "genre_ids": [
+            10770,
+            80
+        ],
+        "id": 37055,
+        "original_language": "en",
+        "original_title": "Elephant",
+        "overview": "A depiction of a series of violent killings in Northern Ireland.",
+        "popularity": 11.302,
+        "poster_path": "/wznG0m1gY5lqEU7A14H2WESsqJX.jpg",
+        "release_date": "1989-01-25",
+        "title": "Elephant",
+        "video": false,
+        "vote_average": 6.528,
+        "vote_count": 88
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kCHImXJGEzD3ACuiNSRHsfKg6T0.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 886755,
+        "original_language": "es",
+        "original_title": "El suplente",
+        "overview": "Lucio, a prestigious university professor, takes the position of substitute teacher at a high school in the suburbs of Buenos Aires, where he grew up. Through tales, novels and poetry, he tries to distract his class from the harsh reality of their everyday lives. But soon, he must step out of his professional duties when Dilan, one of his students, is threatened by a local drug kingpin.",
+        "popularity": 11.299,
+        "poster_path": "/iy1Q3aT2URQWhX1YeEB243FHizV.jpg",
+        "release_date": "2022-10-20",
+        "title": "The Substitute",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 542624,
+        "original_language": "en",
+        "original_title": "Dark Web",
+        "overview": "The true story of a 29-year-old idealist named Ross William Ulbricht (aka Dread Pirate Roberts) who built an online illegal-drug marketplace called \"The Silk Road\" and along the way allegedly became a murderous kingpin.",
+        "popularity": 11.299,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Dark Web",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

@@ -1,0 +1,396 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/81y724V7eakOT5MeI2Saju8egfX.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            10749
+        ],
+        "id": 72246,
+        "original_language": "es",
+        "original_title": "Sexo, mentiras y muertos",
+        "overview": "Viviana  and Alicia have never met, but they're about to get intimately acquainted. One day, while tipping drinks back in a bar, the two women strike up a conversation that quickly turns personal, Viviana is locked in an abusive marriage, and Alicia's female lover, Lorena, has recently fallen for another woman. As the two women strangers find common ground in their lives, they enter into a secret pact to kill the people who have made their lives a living hell. Seductive, bloody and shocking events send them both plummeting down a destructive path from which there is no escape.",
+        "popularity": 8.427,
+        "poster_path": "/ndZszj3IQPIaMHqpjRxRBzcGsyp.jpg",
+        "release_date": "2011-01-01",
+        "title": "Sex, Lies and Death",
+        "video": false,
+        "vote_average": 6.424,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hiiPcEFerO0jnHjZ5mBaorhNdZs.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1159496,
+        "original_language": "ja",
+        "original_title": "日本統一27",
+        "overview": "Tension continues at the Kyowakai headquarters. Kawatani, Himuro, and Tamura are unable to hide their anger and confusion at the events that occur one after another, such as Shibuya's death and a series of absentees from meetings. Meanwhile, in Kobe, a new anti-chivalry group is starting to move. However, Baba, who plays the role of chairman and does not know about Shibuya's death, postpones the official raising of the company.",
+        "popularity": 8.425,
+        "poster_path": "/wPunHHMwtxT9zSDPOEftqm6sL3D.jpg",
+        "release_date": "2018-03-25",
+        "title": "Unification of Japan 27",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nrttRPdsfoCB0RsxR9G2Aa4bFY7.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 17584,
+        "original_language": "en",
+        "original_title": "Blue Hill Avenue",
+        "overview": "A child of a middle class home with solid moral values is lured into a world of crime and corruption.",
+        "popularity": 8.424,
+        "poster_path": "/njLTR6gnsCcOnEs3dXlgMVcZPQf.jpg",
+        "release_date": "2001-08-03",
+        "title": "Blue Hill Avenue",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sIPH9y5yDO9FcOsAck2hmhYoXFu.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10770
+        ],
+        "id": 559829,
+        "original_language": "fr",
+        "original_title": "Les Fantômes du Havre",
+        "overview": "A mummified corpse has been found by workers who were knocking down a wall. Ariane Sallès and Gaspard Lesage are in charge of the investigation.",
+        "popularity": 8.423,
+        "poster_path": "/ncl5LPdlUqxQCNVvqlB434h417M.jpg",
+        "release_date": "2018-09-14",
+        "title": "Murder in Le Havre",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 988575,
+        "original_language": "ja",
+        "original_title": "超極道",
+        "overview": "Togashi, the leader of Togashi-gumi, boasts enormous power. The leader of the Ryuokai is sent to prison because he distrusts him who controls the town, and a mysterious man who calls himself Takishima appears in front of Shinshiro who becomes the leader of the group.",
+        "popularity": 8.422,
+        "poster_path": "/gTd95zwOPvRJK84LwPSxDJI9cQJ.jpg",
+        "release_date": "2001-01-01",
+        "title": "Chogokudo",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jJd1B5aYPqyueVMTnQAhPKUAbRE.jpg",
+        "genre_ids": [
+            27,
+            18,
+            80
+        ],
+        "id": 104366,
+        "original_language": "ja",
+        "original_title": "処女ゲバゲバ",
+        "overview": "A bunch of young hipsters kidnaps a loving couple and keeps them trapped in a barren landscape. To the sounds of free jazz they are performing various experiments with the couple. In the distance is a yakuza gang keeping track of the youths. Who are really experimenting with whom?",
+        "popularity": 8.421,
+        "poster_path": "/q0EOKEQENFOGVkz0YofRvXdWsQn.jpg",
+        "release_date": "1969-04-01",
+        "title": "Violent Virgin",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8FteA5zZgnbcnROjjN5rYR1usNP.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10770
+        ],
+        "id": 549253,
+        "original_language": "en",
+        "original_title": "Family Vanished",
+        "overview": "A happy family returns from a vacation to find their home invaded by a criminal family and must fight for survival.",
+        "popularity": 8.419,
+        "poster_path": "/1FmKeogulCjH15aEQ0kp3JzwtdW.jpg",
+        "release_date": "2018-07-06",
+        "title": "Family Vanished",
+        "video": false,
+        "vote_average": 4.737,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qLoKQ4nqutqlcaMym6OpLxzMM2Y.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 500220,
+        "original_language": "ja",
+        "original_title": "総長の首",
+        "overview": "In pre-war Japan, two members of a large yakuza syndicate instigate a turf war that embroils the highest echelons of Tokyo's underworld.",
+        "popularity": 8.419,
+        "poster_path": "/wntOCrTva1ItnNW72vSjjOmhckE.jpg",
+        "release_date": "1979-03-24",
+        "title": "Down with The Big Boss",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hxMrZvT66jxwiUBLdTrscmGyBoA.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 401136,
+        "original_language": "ja",
+        "original_title": "沙耶のいる透視図",
+        "overview": "Erotic thriller about a porn photographer who has to deal with a psychopath.",
+        "popularity": 8.418,
+        "poster_path": "/cqtxwJvnIt5JDlzTp3xP6Y6Olgs.jpg",
+        "release_date": "1986-10-17",
+        "title": "Saya: Perspective in Love",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 451767,
+        "original_language": "ja",
+        "original_title": "ＯＬ連続レイプ　巨乳むさぼる",
+        "overview": "Following cosmetic surgery to enhance her breasts, an office worker is raped. The rapist's son, after setting his distinctly Oedipal gaze on his father's busty victim, locates her and they begin an ill-fated sadomasochistic affair that leads to a bloody killing spree.",
+        "popularity": 8.417,
+        "poster_path": "/6YBko8Ty3THFoJZI1Y7At8QSDgJ.jpg",
+        "release_date": "1990-08-31",
+        "title": "OL renzoku rape: Kyonyû musaboru",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uD4CQUF1LFX6T8xZKfvNZfFKTsg.jpg",
+        "genre_ids": [
+            80,
+            28,
+            35,
+            53
+        ],
+        "id": 138336,
+        "original_language": "en",
+        "original_title": "Dick Tracy",
+        "overview": "Dick Tracy's foe for this serial is the crime boss and Masked Mystery Villain The Spider/The Lame One and his Spider Ring. In the process of various crimes, including using his Flying wing and sound weapon to destroy the Bay Bridge in San Francisco and stealing an experimental \"Speed Plane\", the Spider captures Dick Tracy's brother, Gordon. The Spider's minion, Dr. Moloch, performs a brain operation on Gordon Tracy to turn him evil, making him secretly part of the Spider Ring and so turning brother against brother.",
+        "popularity": 8.416,
+        "poster_path": "/74BXvAwd3XstKnpWuuwtN2ytYJG.jpg",
+        "release_date": "1937-02-20",
+        "title": "Dick Tracy",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aS9vMVxK71dlEfProcCDGmxXSNl.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 173891,
+        "original_language": "en",
+        "original_title": "Kind Lady",
+        "overview": "Mary, a woman with good intentions, takes pity on Henry, an artist with no home. What begins as a simple offer to come inside from the cold for tea gradually turns into more. Before the unsuspecting woman knows it, Henry, his family, and his friends con their way into her home. Eventually, Mary creates a ruse to rid herself of the parasites, but they have a different plan.",
+        "popularity": 8.415,
+        "poster_path": "/w8WW6QaY0EZLQDigdGJ6eOPFQRN.jpg",
+        "release_date": "1935-12-06",
+        "title": "Kind Lady",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zhmGloJIvZGughKaGAJc52LB3dF.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            27,
+            53
+        ],
+        "id": 117429,
+        "original_language": "en",
+        "original_title": "Jack the Ripper",
+        "overview": "A serial killer is murdering women in the Whitechapel district of London. An American policeman is brought in to help Scotland Yard solve the case.",
+        "popularity": 8.415,
+        "poster_path": "/w6W9oxi8Lij8r7kYVQxlVgg64JO.jpg",
+        "release_date": "1959-05-28",
+        "title": "Jack the Ripper",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7FPoduvFxQrdBpbaMO2ibvjZHhK.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27
+        ],
+        "id": 66765,
+        "original_language": "en",
+        "original_title": "Act of Vengeance",
+        "overview": "A woman is sexually assaulted by a serial rapist wearing a hockey mask. She and other victims form a squad that targets would-be rapists, all the while searching for the mask wearing maniac that raped them all.",
+        "popularity": 8.414,
+        "poster_path": "/4d2VnVngzzkSdO0ID1irc4tUjLt.jpg",
+        "release_date": "1974-01-02",
+        "title": "Act of Vengeance",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3QpwJ3kKba1EQw8vN0iOcIsxxdI.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 539036,
+        "original_language": "hi",
+        "original_title": "Soni",
+        "overview": "Soni, a young policewoman in Delhi, and her superintendent, Kalpana, have collectively taken on a growing crisis of violent crimes against women. However, their alliance suffers a major setback when Soni is transferred out for alleged misconduct on duty.",
+        "popularity": 8.412,
+        "poster_path": "/gUczyiHIfi9kxme98T7yyIdyHFT.jpg",
+        "release_date": "2019-01-18",
+        "title": "Soni",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9uFnjG1wt8EZdzzjryQtLYIxtRz.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 368196,
+        "original_language": "ja",
+        "original_title": "東京－ソウル－バンコック　実録麻薬地帯",
+        "overview": "A truck driver arrives in Seoul to receive his dead sister's ashes. While there, he discovers the death may not have been an accident after all, and has something to do with international drug smuggling.",
+        "popularity": 8.41,
+        "poster_path": "/7LDnwAKJnMpa9W91QzOTqwp70gv.jpg",
+        "release_date": "1973-09-15",
+        "title": "Tokyo-Seoul-Bangkok Drug Triangle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 583500,
+        "original_language": "tl",
+        "original_title": "Persons of Interest",
+        "overview": "A story of  a man with two different personalities. One is a blind cook accused of mass poisoning that killed his older lover, and the other is the smart, jolly imaginary friend of his six-year-old son.",
+        "popularity": 8.408,
+        "poster_path": "/rubOOd4wc9h5rm8DPbDY7Sf6swV.jpg",
+        "release_date": "2019-04-04",
+        "title": "Persons of Interest",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4mh5VeZpRIJll1e71FaaECSyDRj.jpg",
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 291308,
+        "original_language": "en",
+        "original_title": "The Last Innocent Man",
+        "overview": "A retired criminal lawyer is persuaded to take on one more case and becomes involved with his client's wife.",
+        "popularity": 8.407,
+        "poster_path": "/ji4K8yZZU06ovhFkXCQUVaBKXhd.jpg",
+        "release_date": "1987-04-19",
+        "title": "The Last Innocent Man",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bkxfHyYs7N8IQvRsgbANovmrJH3.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            18
+        ],
+        "id": 83972,
+        "original_language": "en",
+        "original_title": "Deadly Hero",
+        "overview": "Officer Lacy is an 18-year veteran of the New York Police Department who finds himself demoted from detective back to patrol duty for his violent tendencies and trigger-happy behavior.",
+        "popularity": 8.404,
+        "poster_path": "/gsaSxUhPUyYqDPr4M4xLj2Z2JO0.jpg",
+        "release_date": "1975-12-14",
+        "title": "Deadly Hero",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kMirD6pctUGsbenNdnwJGVLesnR.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 475706,
+        "original_language": "ja",
+        "original_title": "極道の妻たち　決着",
+        "overview": "Kasuga’s husband gets arrested for a murder of his beloved protégé. She and her family investigate and find out he was trapped by greedy Nagoshi, the boss of their rival yakuza family. She has to make a decision to revenge Nagoshi.",
+        "popularity": 8.403,
+        "poster_path": "/bcAx9fmElq0naDOZ9RGabfbx2JV.jpg",
+        "release_date": "1998-01-17",
+        "title": "Yakuza Ladies: Decision",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

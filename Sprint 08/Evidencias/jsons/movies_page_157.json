@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/yp1zS9DyLt0V4UmRXk3SEQs3QUA.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 848298,
+        "original_language": "ja",
+        "original_title": "ノイズ",
+        "overview": "Shishikari is a remote island, which is behind the times. The island suffers from a decreasing population and declining industries. Keita Izumi (Tatsuya Fujiwara) begins to produce black fig on Shishikari Island. Because of his well received product, the island is close to receiving a 5 billion yen grant from the government, which is part of the goverment's policy to reinvigorate rural economy. The residents of the island are excited, but their peaceful days changes by the appearance of Mutsuo Komisaka.  Keita Izumi and his friends Jun Tanabe (Kenichi Matsuyama) and Rookie Police Officer Shinichiro Moriya are suspicious about him. One night, Keita Izumi's daughter goes missing. Due to that, Keita Izumi, Jun Tanabe and Shinichiro Moriya happen to kill Mutsuo Komisaka. They decide to hide Mutsuo Komisaka’s murder to protect the future of the island and their families. It turns out Mutsuo Komisaka was a psycho killer. Police officers come to Shishikari Island to catch Mutsuo Komisaka.",
+        "popularity": 17.486,
+        "poster_path": "/CwJUOPZwJAB5fpKplEjR2SAU8l.jpg",
+        "release_date": "2022-01-27",
+        "title": "Noise",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gygNkDF0mTdVaaRO8nTeXvJwjFA.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 25251,
+        "original_language": "fr",
+        "original_title": "Borsalino",
+        "overview": "In 1930 Marseilles two small-time crooks join forces when they meet brawling over a woman. Starting with fixed horse races and fights, they start to find themselves doing jobs for the local gangster bosses. When they decide to go into the business for themselves, their easy-going approach to crime starts to change.",
+        "popularity": 17.484,
+        "poster_path": "/xOOhWoonogJ7zUceq8vdcU33GUA.jpg",
+        "release_date": "1970-05-19",
+        "title": "Borsalino",
+        "video": false,
+        "vote_average": 6.879,
+        "vote_count": 202
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9b6gzDq3B0TrWxt0lwG5xrfjhyA.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 492613,
+        "original_language": "en",
+        "original_title": "The Parts You Lose",
+        "overview": "An unlikely friendship unfolds between a young deaf boy, Wesley, and a fugitive criminal who takes refuge in an abandoned barn on the family’s rural North Dakota farm.",
+        "popularity": 17.483,
+        "poster_path": "/mnlxl7Vp5Y711rAe14gMlEfKbvn.jpg",
+        "release_date": "2019-03-14",
+        "title": "The Parts You Lose",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 111
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qCFmCPCRrOvAJc77AHcQpaMIfCl.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 96163,
+        "original_language": "en",
+        "original_title": "Ratboy",
+        "overview": "A failed window dresser exploits a being with rat-like features in an effort to make money.",
+        "popularity": 17.481,
+        "poster_path": "/nJkzYCGZBvxBLpI0ILfrU6IIai7.jpg",
+        "release_date": "1986-10-17",
+        "title": "Ratboy",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2caylxaVkTLihX7zqTQlicQHdeA.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 29101,
+        "original_language": "nl",
+        "original_title": "Vet Hard",
+        "overview": "Bennie, a clumsy criminal who's touchy about his weight, teams up with his adoptive father's biological (serial killer) son, his employees who in his absence turned his snack-bar into a quiche bakery, a suicidal manic-depressive woman and a Yugoslavian who keeps blowing things up unintended. They need to get 300000 Euro to get Bennies father a new liver.",
+        "popularity": 17.481,
+        "poster_path": "/cdll0WQH5fyWXaKRKSjm2AUZzVY.jpg",
+        "release_date": "2005-02-03",
+        "title": "Too Fat Too Furious",
+        "video": false,
+        "vote_average": 5.859,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wG3I6DiYeZquWvdtBkm38dW2QJy.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 84209,
+        "original_language": "en",
+        "original_title": "Busting",
+        "overview": "Defying orders to lay-off the case, two Los Angeles vice-squad cops go after a local mobster and use unorthodox methods to achieve results.",
+        "popularity": 17.48,
+        "poster_path": "/wH9gu01WChj5eoTWb9eumn5MEl5.jpg",
+        "release_date": "1974-02-27",
+        "title": "Busting",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/94DkCX8jbVeJuC98oCGeJufn9P7.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 857497,
+        "original_language": "en",
+        "original_title": "Untold: Malice at the Palace",
+        "overview": "Key figures from an infamous 2004 incident between players and fans at an NBA game in Michigan discuss the fight, its fallout, and its lasting legacy.",
+        "popularity": 17.478,
+        "poster_path": "/bjvxSGfghSNTgfVDf3nQ4sJCVJX.jpg",
+        "release_date": "2021-08-10",
+        "title": "Untold: Malice at the Palace",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 95
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9xXsNXHYDHv1Ma6I0LOiuP0Vq0z.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 45447,
+        "original_language": "cn",
+        "original_title": "皇家女將",
+        "overview": "Hong Kong police officer Mina Kao marries Huang Tsung-Pao, who is a member of a law enforcement dynasty. His father and his many sisters are also officers, and the eldest sister Chia-Ling is one of the highest ranking women in the police department. When a Vietnamese gang begins a rampage through the city, the women must overcome their suspicion of one another to bring the criminals to justice.",
+        "popularity": 17.476,
+        "poster_path": "/7XumtdPXkoKZ2mXhSxyPcAPkGm.jpg",
+        "release_date": "1990-04-07",
+        "title": "She Shoots Straight",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4ZfPXJo3r1m2tkzNyUAkCO4SBjz.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 629040,
+        "original_language": "ar",
+        "original_title": "ولاد رزق ٣",
+        "overview": "Years have passed since the brothers have separated in their different ways of life. But one day, a ghost from the past returns to cast a shadow over the sons of Rizk, forcing them to return to a life of crime and theft once again in order to save themselves, in a fateful operation that is the largest, most dangerous, and most important in the history of the sons of Rizk.",
+        "popularity": 17.47,
+        "poster_path": "/yJkNPNzDuAgAADFTcTs95zKslQW.jpg",
+        "release_date": "2024-06-12",
+        "title": "Sons of Rizk 3",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ttDanzwS7klsTmmJFFdCifCVvdH.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 37454,
+        "original_language": "fr",
+        "original_title": "Maigret tend un piège",
+        "overview": "Four women were murdered, each was knifed and, though they had their clothes torn, they weren't molested. As the famed police inspector Jules Maigret pieces the clues together, he comes to realize that for the elusive man that he suspects to be unmasked, he has to set him a trap.",
+        "popularity": 17.467,
+        "poster_path": "/71pYPAf00xoaQ5cmH7lSbWbSOwl.jpg",
+        "release_date": "1958-01-29",
+        "title": "Maigret Sets a Trap",
+        "video": false,
+        "vote_average": 6.953,
+        "vote_count": 86
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dxY5PYsKSu99JkxKOv6iACui7Mw.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 29231,
+        "original_language": "en",
+        "original_title": "The Immortals",
+        "overview": "An elaborate heist unites 8 strangers in a simultaneous assault on targets all over the city- and explodes in a hailstorm of gunfire and high-speed chases in this powerful action-thriller.  Recruited by a Mafia nightclub owner (Eric Roberts), 4 teams launch a brutal cross-town attack to retrieve suitcases full of cash.  But as the violence escalates, the team members discover just who their real target has been all along - and the shocking truth they have in common.",
+        "popularity": 17.464,
+        "poster_path": "/rShuJsXmzT4pzUm6aBO5NIpq1uw.jpg",
+        "release_date": "1995-10-05",
+        "title": "The Immortals",
+        "video": false,
+        "vote_average": 5.685,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/46GDkiMoB0nIsSZpLtaoLbCwaks.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 322766,
+        "original_language": "en",
+        "original_title": "Beautiful & Twisted",
+        "overview": "Following the murder of hotel heir Ben Novack Jr., police focus their investigation on his wife, Narcy.",
+        "popularity": 17.459,
+        "poster_path": "/97MjYAwQDVDNGZ0Ho0efZWgKSdO.jpg",
+        "release_date": "2015-06-08",
+        "title": "Beautiful & Twisted",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jyd9vs7XZRhhiBObO4P7drdWpMI.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            53,
+            80
+        ],
+        "id": 35813,
+        "original_language": "en",
+        "original_title": "The Bat",
+        "overview": "Mystery writer Cornelia Van Gorder has rented a country house called \"The Oaks\", which not long ago was the scene of some murders committed by a strange and violent criminal known as \"The Bat\". Meanwhile, the house's owner, bank president John Fleming, has recently embezzled one million dollars in securities and has hidden the proceeds in the house, but is killed before he can retrieve it.",
+        "popularity": 17.458,
+        "poster_path": "/3OIQMXttT2h3nvvD0RnJlJhqIZC.jpg",
+        "release_date": "1959-08-09",
+        "title": "The Bat",
+        "video": false,
+        "vote_average": 5.884,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6z8V8afoISvsJNMbbffHPRAD6yJ.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 602661,
+        "original_language": "cn",
+        "original_title": "追龍II：賊王",
+        "overview": "Based on real-life crimes that terrorized Hong Kong in the 1990s, Logan (Tony Leung Ka-Fai) is the head of leading a notorious human trafficking gang, abducting the children of Hong Kong's elite. Police forces decide to send in Sky (Louis Koo), a Hong Kong undercover agent whose mission is to infiltrate and save the hostages, all while bringing the gang and their leader to justice.",
+        "popularity": 17.455,
+        "poster_path": "/orDhf1o1bBFWcjuKhI4x0RG1oix.jpg",
+        "release_date": "2019-06-06",
+        "title": "Chasing the Dragon II: Wild Wild Bunch",
+        "video": false,
+        "vote_average": 5.708,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h8GqCYfxXtGsvl1St9svrnbwiFZ.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 776717,
+        "original_language": "da",
+        "original_title": "Vildmænd",
+        "overview": "Armed only with a bow and an ensemble of animal skins, Martin sets off into the forest in a misguided attempt to overcome his midlife crisis. A chance meeting with a fugitive named Musa leads to a twisted trip through the fjords with police, drug runners, and Martin's family not far behind. As an unlikely friendship develops and wildly original set-pieces unfold, Martin's quest for manhood leads to deep and hilariously uncomfortable realizations about the presumed masculine ideal.",
+        "popularity": 17.45,
+        "poster_path": "/jbnCh0al5gaWQozLBbt9ncuC2ya.jpg",
+        "release_date": "2022-02-03",
+        "title": "Wild Men",
+        "video": false,
+        "vote_average": 6.088,
+        "vote_count": 74
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8WXGl3bMf363K3CZhy1nVsuAEiB.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53,
+            10749
+        ],
+        "id": 8141,
+        "original_language": "en",
+        "original_title": "You Kill Me",
+        "overview": "While drying out on the West Coast, an alcoholic hit man befriends a tart-tongued woman who might just come in handy when it's time for him to return to Buffalo and settle some old scores.",
+        "popularity": 17.442,
+        "poster_path": "/4C5VQVdE2YRBPhpZLnExk1XUzDZ.jpg",
+        "release_date": "2007-02-09",
+        "title": "You Kill Me",
+        "video": false,
+        "vote_average": 6.163,
+        "vote_count": 258
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cHpV5bQbMm52gKjI9mJ6KyyRph5.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 802194,
+        "original_language": "en",
+        "original_title": "Downeast",
+        "overview": "Dives into the often ignored seedy underbelly of Maine and it follows Emma Maddox as she returns to her hometown years following the mysterious death of her brother, Mikey. As she reconnects with his best friend Tommy, the two rekindle their flame and Emma begins to uncover the web of lies the town has been keeping.",
+        "popularity": 17.437,
+        "poster_path": "/s2JZkkFnIZjXfEztl5CBr6Hjr6Z.jpg",
+        "release_date": "2021-03-31",
+        "title": "Downeast",
+        "video": false,
+        "vote_average": 6.955,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dIYvcjuws7GOG3leY9VAAuHNc5Y.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 175682,
+        "original_language": "en",
+        "original_title": "Martial Outlaw",
+        "overview": "A DEA agent and his brother, a Los Angeles cop, battle the Russian mafia.",
+        "popularity": 17.435,
+        "poster_path": "/7NYQlhYJmSjdpl1r42uQY2CAMnt.jpg",
+        "release_date": "1993-11-16",
+        "title": "Martial Outlaw",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6KUNcsjzLUmRwahwzNr5876HcIJ.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            35
+        ],
+        "id": 32059,
+        "original_language": "en",
+        "original_title": "The January Man",
+        "overview": "Nick and Frank Starkey were both policemen. A scandal forced Nick to leave the force, now a serial killer has driven the police to take him back. A web that includes Frank's wife, bribery, and corruption all are in the background as Nick tries to uncover the secret of where the killer will strike next, and finally must lay a trap without the police.",
+        "popularity": 17.435,
+        "poster_path": "/5CZznrNvFLacr0mb4CYmlpJ4Tsw.jpg",
+        "release_date": "1989-01-13",
+        "title": "The January Man",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 131
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yU6oCgM4xGF7ZokINvCKjkMo8ex.jpg",
+        "genre_ids": [
+            16,
+            80,
+            9648,
+            28
+        ],
+        "id": 493006,
+        "original_language": "ja",
+        "original_title": "名探偵コナン ゼロの執行人",
+        "overview": "After a sudden explosion at Edge of Ocean island in Tokyo, Tōru Amuro, codename Zero, begins to investigate. Meanwhile, private eye Kogorō is arrested as a suspect, so Conan Edogawa conducts his own investigation to prove his innocence, but Amuro stands in his way.",
+        "popularity": 17.433,
+        "poster_path": "/w4nyOBnP7q0qlVfHAn0j49rs76d.jpg",
+        "release_date": "2018-04-13",
+        "title": "Case Closed: Zero the Enforcer",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 151
+    }
+]

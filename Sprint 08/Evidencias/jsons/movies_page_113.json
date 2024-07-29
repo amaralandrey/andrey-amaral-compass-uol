@@ -1,0 +1,409 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/idiObYae7RaWeQv3waFl8dgHewt.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            28
+        ],
+        "id": 56821,
+        "original_language": "en",
+        "original_title": "Lassiter",
+        "overview": "Scotland Yard and the FBI force a thief and his girlfriend to steal Nazi diamonds from a German countess.",
+        "popularity": 19.994,
+        "poster_path": "/2VUCOHBd6YwtzJpZrYx25R1bCNZ.jpg",
+        "release_date": "1984-02-17",
+        "title": "Lassiter",
+        "video": false,
+        "vote_average": 5.288,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h02PKNxjnklbZhK8sqhNvO2Yg3q.jpg",
+        "genre_ids": [
+            18,
+            35,
+            10752,
+            80,
+            53
+        ],
+        "id": 9104,
+        "original_language": "en",
+        "original_title": "Buffalo Soldiers",
+        "overview": "A criminal subculture operates among U.S. soldiers stationed in West Germany just before the fall of the Berlin wall.",
+        "popularity": 24.255,
+        "poster_path": "/qNl4T8xxC0xDeX8JFJVCBzH4Kg8.jpg",
+        "release_date": "2002-10-31",
+        "title": "Buffalo Soldiers",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 300
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5Xb2e63jvhJqL6IUO2SqtuRIJRG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 4787,
+        "original_language": "en",
+        "original_title": "Cassandra's Dream",
+        "overview": "The tale of two brothers with serious financial woes. When a third party proposes they turn to crime, things go bad and the two become enemies.",
+        "popularity": 25.506,
+        "poster_path": "/9Cu2XA9TSHm4T1n7JBE5DEL60U3.jpg",
+        "release_date": "2007-06-18",
+        "title": "Cassandra's Dream",
+        "video": false,
+        "vote_average": 6.278,
+        "vote_count": 758
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jtlItXJ2zo3R0CJY4biVfnczye9.jpg",
+        "genre_ids": [
+            35,
+            80,
+            27,
+            53
+        ],
+        "id": 17153,
+        "original_language": "en",
+        "original_title": "Botched",
+        "overview": "Ritchie Donovan is a professional thief whose luck has just run out. The only survivor from a heist that goes terribly wrong, Ritchie is forced to take the rap and is sent to Russia to steal a priceless antique cross locked in a safe on the penthouse floor of a Moscow skyscraper.",
+        "popularity": 21.504,
+        "poster_path": "/cWW38LAxTGKBeIv9ov1fvSfcYe6.jpg",
+        "release_date": "2007-10-04",
+        "title": "Botched",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 117
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dsWxCsAdsocMNQFbhe39ynAOhBa.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1049233,
+        "original_language": "pl",
+        "original_title": "Plan lekcji",
+        "overview": "After a teacher dies, his best friend — a former cop — takes a job at the school where he worked to confront the gang he thinks was responsible.",
+        "popularity": 24.782,
+        "poster_path": "/wawP3mOUeRBrAtnbPwWK5eFaMdV.jpg",
+        "release_date": "2022-11-23",
+        "title": "Lesson Plan",
+        "video": false,
+        "vote_average": 6.171,
+        "vote_count": 158
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/98Iyzpm7h6h93q1tW1z7wWptJJY.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 15676,
+        "original_language": "en",
+        "original_title": "Nobel Son",
+        "overview": "Soon after his insufferably arrogant father wins the Nobel Prize for chemistry, Barkley Michaelson is kidnapped by Thaddeus James, a young genius who claims to be Barkley's illegitimate half-brother. Motivated not so much by money as revenge, Thaddeus tries to convince Barkley to help him carry out a multimillion-dollar extortion plot against their patriarch.",
+        "popularity": 23.002,
+        "poster_path": "/oiWgSAHI1m2kQtcVuAchgWPb5hw.jpg",
+        "release_date": "2007-04-28",
+        "title": "Nobel Son",
+        "video": false,
+        "vote_average": 6.05,
+        "vote_count": 120
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y6cZEbWNtdUD6TW7H2M2ShuZcAs.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 16148,
+        "original_language": "en",
+        "original_title": "Zero Effect",
+        "overview": "Daryl Zero is a private investigator and—along with his assistant, Steve Arlo—he solves impossible crimes and puzzles. Although Daryl's a master investigator, he doesn't know what to do with himself when he's not working; he has no social skills, writes bad music and drives Steve crazy.",
+        "popularity": 19.996,
+        "poster_path": "/yFALvZFwqnh5ESarNoVd5KtizCo.jpg",
+        "release_date": "1998-01-30",
+        "title": "Zero Effect",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 170
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xrsqHuS402Msz8yhWbwre2QQYWd.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 45706,
+        "original_language": "ja",
+        "original_title": "東京流れ者",
+        "overview": "After yakuza boss Kurata dissolves his own criminal empire, a rival kingpin offers a position to Kurata's top operative, Tetsuya \"Phoenix Tetsu\" Hondo. When the fiercely loyal Tetsu declines, Otsuka taps unstoppable Tatsuzo the \"Viper\", a ruthless gun-for-hire, to assassinate him. As the Viper trails his target through the countryside, the agile Phoenix Tetsu grows concerned that one of his former associates has betrayed him.",
+        "popularity": 21.0,
+        "poster_path": "/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
+        "release_date": "1966-04-10",
+        "title": "Tokyo Drifter",
+        "video": false,
+        "vote_average": 7.112,
+        "vote_count": 178
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gaCrwIiqB2S0w6xDOSa76NUIawU.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 12877,
+        "original_language": "en",
+        "original_title": "Dead Man's Shoes",
+        "overview": "A soldier returns to his small town and exacts a deadly revenge on the thugs who tormented his disabled brother while he was away.",
+        "popularity": 17.997,
+        "poster_path": "/78TBKzEZ2cNdeLNrgcPiJTggiNd.jpg",
+        "release_date": "2004-09-29",
+        "title": "Dead Man's Shoes",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 525
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6OdAJJZBkOMSBw8hzHX9Mzkwa17.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            27
+        ],
+        "id": 658497,
+        "original_language": "ja",
+        "original_title": "ホームジャック カルテット",
+        "overview": "\"Jack\" targets a fashion model and her photographer, while the photographer's ex-wife and her new boyfriend are also drawn into the action.",
+        "popularity": 23.404,
+        "poster_path": "/tjbecwsLnAZLoG55RvlUDBpQFeF.jpg",
+        "release_date": "2018-11-02",
+        "title": "Homejack Quartet",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ooXpv2GAIvBaYA48K3ZOLJlBnRt.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 20794,
+        "original_language": "en",
+        "original_title": "Novocaine",
+        "overview": "A dentist finds himself a murder suspect after a sexy patient seduces him into prescribing her drugs.",
+        "popularity": 27.947,
+        "poster_path": "/6ZVFepWKzYho4DLhyFVuRk7klZ1.jpg",
+        "release_date": "2001-11-23",
+        "title": "Novocaine",
+        "video": false,
+        "vote_average": 5.951,
+        "vote_count": 132
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i4h4VEI768DHcfO6eJGzI3XBcQE.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            80
+        ],
+        "id": 74544,
+        "original_language": "en",
+        "original_title": "Accident",
+        "overview": "Stephen is a professor at Oxford University who is caught in a rut and feels trapped by his life in both academia and marriage. One of his students, William, is engaged to the beautiful Anna, and Stephen becomes enamored of the younger woman. These three people become linked together by a horrible car crash, with flashbacks providing details into the lives of each person and their connection to the others in this brooding English drama.",
+        "popularity": 25.495,
+        "poster_path": "/gttNRLWBDJXwOdoNCKQFgxSGUh8.jpg",
+        "release_date": "1967-02-09",
+        "title": "Accident",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i72JysXqxwdDX7vgZDQwsAbI3QK.jpg",
+        "genre_ids": [
+            18,
+            28,
+            35,
+            53,
+            80
+        ],
+        "id": 17133,
+        "original_language": "en",
+        "original_title": "Homegrown",
+        "overview": "Three laborers on a Northern California marijuana plantation become increasingly paranoid when they learn that their boss has been murdered. They know enough to run, taking with them enough of the crop to pay them for services rendered. Hooking up with go-between Lucy in the next town, they plot their next move.",
+        "popularity": 22.023,
+        "poster_path": "/feQeYHriKLCjzkUEjg4D81ggyYs.jpg",
+        "release_date": "1998-04-17",
+        "title": "Homegrown",
+        "video": false,
+        "vote_average": 5.686,
+        "vote_count": 51
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t93doi7EzoqLFckidrGGnukFPwd.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 339095,
+        "original_language": "en",
+        "original_title": "The Last Days of American Crime",
+        "overview": "In the not-too-distant future, as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.",
+        "popularity": 20.753,
+        "poster_path": "/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg",
+        "release_date": "2020-06-05",
+        "title": "The Last Days of American Crime",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 807
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dnWUAYVMpsqZnvIthuYMhvRH5cQ.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 28270,
+        "original_language": "en",
+        "original_title": "Gambit",
+        "overview": "Harry Dean is a career burglar set on stealing a piece of priceless art from the world's wealthiest man, Mr. Shahbandar. With the help of exotic showgirl Nicole Chang, he concocts the perfect scheme for how the robbery should go and lays it out point by point. However, when the team tries to execute the plan, perfection and reality don't quite match up, and Harry's vision begins to unravel in this twisty tale of a heist gone wrong.",
+        "popularity": 14.992,
+        "poster_path": "/1MchaxoMtROoioSAwjLd5FEp6D.jpg",
+        "release_date": "1966-12-21",
+        "title": "Gambit",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 140
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vwHwnOwnnFsRdNSi1Zl5QOMY7z4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 92000,
+        "original_language": "en",
+        "original_title": "Columbus Circle",
+        "overview": "An heiress who's been shut inside her apartment building for nearly two decades is forced to confront her fears after one of her neighbors is killed and a detective arrives to begin the investigation.",
+        "popularity": 17.743,
+        "poster_path": "/78vEPvktr8AvRfovH9yWzWD7aje.jpg",
+        "release_date": "2012-03-05",
+        "title": "Columbus Circle",
+        "video": false,
+        "vote_average": 5.716,
+        "vote_count": 221
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bsiZ517o4ao10ysrSXEDjDbyPmw.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 273238,
+        "original_language": "en",
+        "original_title": "Zero Tolerance",
+        "overview": "Johnny and Peter, former paramilitary operatives, search Bangkok - leaving carnage in their wake - to find the men who killed Johnny's daughter, Angel.",
+        "popularity": 16.294,
+        "poster_path": "/bjXxFoQ36m6E5zSWzY6pB09qejh.jpg",
+        "release_date": "2015-09-01",
+        "title": "Zero Tolerance",
+        "video": false,
+        "vote_average": 4.733,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/asi4QVM9QSdSAZUo5mpMZVxNaxl.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 9959,
+        "original_language": "en",
+        "original_title": "Freedomland",
+        "overview": "A black police detective must solve a strange case of a kidnapped boy and deal with a big racial protest.",
+        "popularity": 27.895,
+        "poster_path": "/fM9MYcI7BHJ2YqEtcr8JKPE8nDB.jpg",
+        "release_date": "2006-02-17",
+        "title": "Freedomland",
+        "video": false,
+        "vote_average": 5.188,
+        "vote_count": 319
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tCIucJm74pK8hRGjf9jfH3jNBc4.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 8194,
+        "original_language": "en",
+        "original_title": "A Guide to Recognizing Your Saints",
+        "overview": "Dito Montiel, a successful author, receives a call from his long-suffering mother, asking him to return home and visit his ailing father. Dito recalls his childhood growing up in a violent neighborhood in Queens, N.Y., with friends Antonio, Giuseppe, Nerf and Mike.",
+        "popularity": 20.239,
+        "poster_path": "/bGmqGYglMDNN15uGPpeTMWNml1s.jpg",
+        "release_date": "2006-09-29",
+        "title": "A Guide to Recognizing Your Saints",
+        "video": false,
+        "vote_average": 6.456,
+        "vote_count": 298
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qwpkykpdPFycZBhjOQvA0xYluCT.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            27
+        ],
+        "id": 8332,
+        "original_language": "de",
+        "original_title": "Antikörper",
+        "overview": "When a notorious German serial killer is captured after committing some of the most heinous acts against humanity ever imaginable, a farmer and police officer from a sleepy rural community on the outskirts of Berlin is drawn into the case as he searches for the answers to a murder that has shaken his tight-knit community.",
+        "popularity": 18.988,
+        "poster_path": "/wIQP8C3yz8E4J1La9ehIy4Yta6e.jpg",
+        "release_date": "2005-04-24",
+        "title": "Antibodies",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 171
+    }
+]

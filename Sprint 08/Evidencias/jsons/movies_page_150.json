@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/uEnOR1sA0B8AMrMl4J6MHLFvRvS.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 24109,
+        "original_language": "en",
+        "original_title": "Fun with Dick and Jane",
+        "overview": "When an upwardly mobile couple find themselves unemployed and in debt, they turn to armed robbery in desperation.",
+        "popularity": 18.036,
+        "poster_path": "/obBXkCU29eRzbVX5erjrAxugOpN.jpg",
+        "release_date": "1977-03-18",
+        "title": "Fun with Dick and Jane",
+        "video": false,
+        "vote_average": 6.508,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Nb6eUFJ1pxwT8MHAeSSyLypvQb.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 506815,
+        "original_language": "en",
+        "original_title": "A Violent Separation",
+        "overview": "1983. In a quiet Midwestern town, a young deputy covers up a murder at the hands of his brother triggering a series of events that sends them and the victim's family towards a shattering climax.",
+        "popularity": 18.026,
+        "poster_path": "/yNlLMfrfPExwqLZSOFbqmkawIpg.jpg",
+        "release_date": "2019-05-17",
+        "title": "A Violent Separation",
+        "video": false,
+        "vote_average": 7.024,
+        "vote_count": 82
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4H7QiNpacRNuSBYXR5yvGne5fEx.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 23847,
+        "original_language": "en",
+        "original_title": "Across 110th Street",
+        "overview": "In a daring robbery, some $300,000 is taken from the Italian mob. Several mafiosi are killed, as are two policemen. Lt. Pope and Capt. Mattelli are two New York City cops trying to break the case. Three small-time criminals are on the run with the money. Will the mafia catch them first, or will the police?",
+        "popularity": 18.02,
+        "poster_path": "/e8RoE4f8Z2vvyQKoQrOotu5MtAA.jpg",
+        "release_date": "1972-12-19",
+        "title": "Across 110th Street",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 106
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hhxrMW0WY30ulaCGMu5mVezktHQ.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 9442,
+        "original_language": "en",
+        "original_title": "Dead Men Don't Wear Plaid",
+        "overview": "Juliet Forrest is convinced that the reported death of her father in a mountain car crash was no accident. Her father was a prominent cheese scientist working on a secret recipe. To prove it was murder, she enlists the services of private eye Rigby Reardon. He finds a slip of paper containing a list of people who are 'The Friends and Enemies of Carlotta'.",
+        "popularity": 18.016,
+        "poster_path": "/cwYwZBEE73PakUWzbICzxYKlXAz.jpg",
+        "release_date": "1982-05-21",
+        "title": "Dead Men Don't Wear Plaid",
+        "video": false,
+        "vote_average": 6.627,
+        "vote_count": 371
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eQsHkIQ4eYwrxazqJyE3oxttRzQ.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 1057872,
+        "original_language": "ja",
+        "original_title": "東京リベンジャーズ2 血のハロウィン編 -運命-",
+        "overview": "Hinata is murdered again by the Tokyo Manjikai Gang in front of Takemichi. In order to save Hinata, Takemichi travels 10 years back in time again. Takemichi has to change a key case that can save Hinata. The key case involves a sad incident that occurred to 6 men, who later formed the Tokyo Manjikai Gang.",
+        "popularity": 18.014,
+        "poster_path": "/y0ff6LqAqzD3Ecdy6xPSJJj8TRb.jpg",
+        "release_date": "2023-04-21",
+        "title": "Tokyo Revengers 2 Part 1: Bloody Halloween - Destiny",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9At1BV9rUghiKctXQXq2uaer24Y.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 128113,
+        "original_language": "ja",
+        "original_title": "鍵泥棒のメソッド",
+        "overview": "A failed actor switches identities with a stranger at a bath house thinking it is his way out of his life of misery but only to find himself filling the shoes of an elite assassin.",
+        "popularity": 18.013,
+        "poster_path": "/50us72JJHDd0g8EkxDFzJsZ92J5.jpg",
+        "release_date": "2012-09-16",
+        "title": "Key of Life",
+        "video": false,
+        "vote_average": 7.217,
+        "vote_count": 83
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4DqVwP2jA5fcdGXLY84pczdoXEM.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 925943,
+        "original_language": "fr",
+        "original_title": "Saint Omer",
+        "overview": "A novelist attends the trial of a woman accused of killing her 15-month-old daughter by abandoning her to the rising tide on a beach in northern France. But as the trial continues, her own family history, doubts, and fears about motherhood are steadily dislodged as the life story of the accused is gradually revealed.",
+        "popularity": 18.011,
+        "poster_path": "/ekr25uuxlH7kg3KLhLLZcDZ15xd.jpg",
+        "release_date": "2022-11-23",
+        "title": "Saint Omer",
+        "video": false,
+        "vote_average": 6.312,
+        "vote_count": 154
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qcxXFE9XEfnyUmAdbvtJqXYtAqc.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 31945,
+        "original_language": "en",
+        "original_title": "The Sicilian",
+        "overview": "Egocentric bandit Salvatore Giuliano fights the Church, the Mafia, and the landed gentry while leading a populist movement for Sicilian independence.",
+        "popularity": 18.011,
+        "poster_path": "/xELW4DMiLaHomcXU1FZNQkAFfGi.jpg",
+        "release_date": "1987-10-07",
+        "title": "The Sicilian",
+        "video": false,
+        "vote_average": 5.106,
+        "vote_count": 123
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cBlQCu4QQPa7Lz8IXEhMNB10jEg.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 74639,
+        "original_language": "cn",
+        "original_title": "竊聽風雲 2",
+        "overview": "Manson Law, a celebrated stockbroker in Hong Kong, is injured in a car accident. The police, led by Inspector Jack Ho, discovers a military surveillance device in the car wreck. Meanwhile, the wiretapper Joe Szema is unveiling his extensive plan that targets the mysterious financial conglomerate, the Landlord Club. The fate of these three men soon intertwines in the cat-and-mouse game that may bring down the entire stock market.",
+        "popularity": 18.01,
+        "poster_path": "/bnQkYQMS1KduqbPNb46JWRtV9Bo.jpg",
+        "release_date": "2011-08-18",
+        "title": "Overheard 2",
+        "video": false,
+        "vote_average": 6.528,
+        "vote_count": 71
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4COZh2O6Xn2ISWrgagxBpnLpZsu.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            35
+        ],
+        "id": 449998,
+        "original_language": "zh",
+        "original_title": "九龍不敗",
+        "overview": "The undercover agent with dragon tattoo Kowloon continually helped the police to solve mysterious cases, which made him known as a rising star. However, his impulsive personality dragged him into endless troubles. He got himself into fights with the Macau detective, as well as an American Army veteran Alexander who has a secret linkage to Kowloon’s background…",
+        "popularity": 18.008,
+        "poster_path": "/15GQh5pUXzPSvZ0GmqsYeUSlhUw.jpg",
+        "release_date": "2019-06-20",
+        "title": "The Invincible Dragon",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/omalLKaiwcLE1H9K22T6rLXmxtg.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 13054,
+        "original_language": "en",
+        "original_title": "Rise of the Footsoldier",
+        "overview": "Rise of the Footsoldier follows the inexorable rise of Carlton Leach from one of the most feared generals of the football terraces to becoming a member of a notorious gang of criminals who rampaged their way through London and Essex in the late eighties and early nineties.",
+        "popularity": 18.001,
+        "poster_path": "/k8lbsM0Nl0c1Qp7NnARWjS6TTRA.jpg",
+        "release_date": "2007-09-07",
+        "title": "Rise of the Footsoldier",
+        "video": false,
+        "vote_average": 6.32,
+        "vote_count": 206
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aHSBLLzeNu9HxTNGMuaMNrgjfY3.jpg",
+        "genre_ids": [
+            35,
+            18,
+            28,
+            80,
+            10749
+        ],
+        "id": 33379,
+        "original_language": "en",
+        "original_title": "Greenfingers",
+        "overview": "Clive Owen stars as a prison inmate who goes into an experimental \"open\" prison where the inmates walk around freely and get job training for their impending releases. While there, he discovers he has a talent for growing flowers. His talent is recognized by a gardening guru who encourages him and four other inmates to enter a national gardening competition",
+        "popularity": 17.999,
+        "poster_path": "/sfxPTc01UZ3zcv276MefaQGmbez.jpg",
+        "release_date": "2001-07-27",
+        "title": "Greenfingers",
+        "video": false,
+        "vote_average": 6.311,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jKikRF6rn9KNjAyVas4uKd3L7x5.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 26203,
+        "original_language": "en",
+        "original_title": "Blink",
+        "overview": "Emma is an attractive girl in her 20s who has been blind for 20 years. A new type of eye operation partially restores her sight, but she is having problems: sometimes she doesn't \"remember\" what she's seen until later. One night she is awakened by a commotion upstairs. Peering out of her door, she sees a shadowy figure descending the stairs. Convinced that her neighbour has been murdered she approaches the police, only to find that she is unsure if it was just her new eyes playing tricks on her.",
+        "popularity": 17.999,
+        "poster_path": "/yNlatJk6C2zYTqAUkaxtBJQKQSf.jpg",
+        "release_date": "1993-10-01",
+        "title": "Blink",
+        "video": false,
+        "vote_average": 6.174,
+        "vote_count": 172
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gaCrwIiqB2S0w6xDOSa76NUIawU.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 12877,
+        "original_language": "en",
+        "original_title": "Dead Man's Shoes",
+        "overview": "A soldier returns to his small town and exacts a deadly revenge on the thugs who tormented his disabled brother while he was away.",
+        "popularity": 17.997,
+        "poster_path": "/78TBKzEZ2cNdeLNrgcPiJTggiNd.jpg",
+        "release_date": "2004-09-29",
+        "title": "Dead Man's Shoes",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 525
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lyig5sHaoCGQOllOMub4vT6sqqO.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 31104,
+        "original_language": "ja",
+        "original_title": "豚と軍艦",
+        "overview": "In the city of Yokosuka, Kinta and his lover Haruko, both involved with yakuza, brave the post-occupation period with a goal to be together.",
+        "popularity": 17.995,
+        "poster_path": "/9WfCDU8hF3zgFGf9IXdyL0j7Rot.jpg",
+        "release_date": "1961-01-21",
+        "title": "Pigs and Battleships",
+        "video": false,
+        "vote_average": 7.053,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m9CcG1expADsBbAxA2cEH8WV7Cb.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            9648,
+            53
+        ],
+        "id": 72587,
+        "original_language": "en",
+        "original_title": "Smoke Screen",
+        "overview": "Newswoman Britt Shelley shockingly wakes up in bed next to the dead body of Detective Jay Burgess and is suspected of foul play. Five years prior, Jay’s lifelong friend Raley Gannon also woke up next to a dead body. After learning of Britt’s scandal and the similarities between their two cases, he realizes she might be his only chance for vindication. As the two unravel their mysterious cases together, they find themselves caught in a dangerous political cover-up involving arson and murder.",
+        "popularity": 17.994,
+        "poster_path": "/mC3juBq77l6YohjJ5tY6q9yjLUC.jpg",
+        "release_date": "2010-11-21",
+        "title": "Smoke Screen",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n9dJWCv1SjLxdUVm99nhHHHVkYj.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 26196,
+        "original_language": "en",
+        "original_title": "Cleopatra Jones",
+        "overview": "After federal agent Cleopatra Jones orders the burning of a Turkish poppy field, the notorious drug lord Mommy vows to destroy her.",
+        "popularity": 17.986,
+        "poster_path": "/2Zb4Ee4osnlpPTI63kqAbFJxict.jpg",
+        "release_date": "1973-07-13",
+        "title": "Cleopatra Jones",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aN9Zasrtnma9VuCQUSgdOsbsusG.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 23433,
+        "original_language": "en",
+        "original_title": "Ang Lihim Ni Antonio",
+        "overview": "The story about a teenage boy, Antonio, whose emerging gay sexuality alienates him from his friends and family, until his libertine uncle, Jonbert, comes to live with him and his mother.",
+        "popularity": 17.979,
+        "poster_path": "/mFKSWZoMJmQ2sMYlgwhn8kVhtb.jpg",
+        "release_date": "2008-02-13",
+        "title": "Antonio's Secret",
+        "video": false,
+        "vote_average": 5.438,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/NzeQT7T1ofj0HwadV348ImCmgU.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            27
+        ],
+        "id": 16371,
+        "original_language": "ko",
+        "original_title": "텔 미 썸딩",
+        "overview": "Detective Cho, a cop on the edge, is mourning his mother's recent death while under investigation for graft; on top of that he is suddenly put in charge of a seemingly-impenetrable mystery.",
+        "popularity": 17.978,
+        "poster_path": "/jRyGUU4WiK8EOQqeIUvhutITFlr.jpg",
+        "release_date": "1999-11-13",
+        "title": "Tell Me Something",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ai9jCcEzJbbaEpaMYzHdez0UPcK.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 78041,
+        "original_language": "en",
+        "original_title": "Big Trouble",
+        "overview": "Leonard Hoffman is an insurance salesman struggling to make ends meet. The fact that he has triplet sons who all want to go to Yale isn't making things any easier. Blanche Rickey is also worried about money; her husband is a millionaire with a weak heart, and she worries that he'll blow through all his cash before he finally dies. When Blanche meets Leonard, she devises a murderous plan that she claims will fix both their problems.",
+        "popularity": 17.977,
+        "poster_path": "/4Vs4NJV3XQedGmkrWZIVAgym0G5.jpg",
+        "release_date": "1986-05-30",
+        "title": "Big Trouble",
+        "video": false,
+        "vote_average": 5.355,
+        "vote_count": 38
+    }
+]

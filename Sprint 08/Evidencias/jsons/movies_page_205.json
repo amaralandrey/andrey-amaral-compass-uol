@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/yi3Dom2WROXS6HUdimof7hME6n6.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 240477,
+        "original_language": "cn",
+        "original_title": "江湖情",
+        "overview": "To pay off his debt as a gambler, a man drags his sister and step-brother into a life of crime and a violent war between rival gang lords.",
+        "popularity": 14.251,
+        "poster_path": "/59T4epo0F3Kzh8ugjbIoM9m3W38.jpg",
+        "release_date": "1987-05-27",
+        "title": "Rich and Famous",
+        "video": false,
+        "vote_average": 6.222,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ilKDjqnW3TVcBs4HwwnZm06zZiz.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 36909,
+        "original_language": "en",
+        "original_title": "American Yakuza",
+        "overview": "When Nick Davis leaves prison after one year in solitaire, he is hired to operate forklift in a warehouse in the harbor owned by the Japanese Yakuza patriarch Isshin Tendo. The place is assaulted by the Italian Mafia leaded by Dino Campanela and Nick rescues and saves the life of Shuji Sawamoto, who is the representative of Yakuza interests in America. Shuji hires Nick to work for Yakuza and becomes his godfather in the family after his oath to join Yakuza. However, Nick is a lonely FBI undercover agent assigned to penetrate in the criminal organization. When the FBI discovers that Campanela is organizing a massive attack to destroy the Yakuza, Nick's boss Littman calls off the operation to leave the dirty work to the Italian Mafia. But the connection of Nick with Shuji and his goddaughter Yuko forces him to help his Japanese family.",
+        "popularity": 14.251,
+        "poster_path": "/p3GRkFk6WwZQafthh3qvgMHbrst.jpg",
+        "release_date": "1993-12-22",
+        "title": "American Yakuza",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wRNLvGcqzne6wZ5YiEFOo9dckPi.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 46724,
+        "original_language": "en",
+        "original_title": "The League of Gentlemen",
+        "overview": "Involuntarily-retired Colonel Hyde recruits seven other dissatisfied ex-servicemen for a special project. Each of the men has a skeleton in the cupboard, is short of money, and is a service-trained expert in his field. The job is a bank robbery, and military discipline and planning are imposed by Hyde and second-in-command Race on the team, although civilian irritations do start getting in the way.",
+        "popularity": 14.249,
+        "poster_path": "/6lJvpL5Z3qZxegmJHUpjGsWROtW.jpg",
+        "release_date": "1960-04-15",
+        "title": "The League of Gentlemen",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 87
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Nsy23PrDv0JwnTztVRlSFpP1fO.jpg",
+        "genre_ids": [
+            18,
+            80,
+            28
+        ],
+        "id": 38030,
+        "original_language": "cn",
+        "original_title": "江湖",
+        "overview": "When Triad leader Hung considers leaving the world of the gangsters, a brutal war begins in the world of jiang-hu. Meanwhile, an internal conflict begins between Hung and his best man, Left-Hand.",
+        "popularity": 14.246,
+        "poster_path": "/wcS8IVN8lTpDzSL3xl2YUcYsmVn.jpg",
+        "release_date": "2004-05-26",
+        "title": "Triad Underworld",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dRFLUjAwgJX0agq8u3GyYVlZ09U.jpg",
+        "genre_ids": [
+            18,
+            53,
+            9648,
+            80
+        ],
+        "id": 122235,
+        "original_language": "ja",
+        "original_title": "罠 THE TRAP",
+        "overview": "When a hooded stranger appears in private eye 'Mike' Hama's office with the cryptic challenge \"I want you to look for me,\" Hama is drawn into a string of bizarre serial murders that have Yokohama's police baffled and the city terrified.",
+        "popularity": 14.245,
+        "poster_path": "/pxC5aenvVaOdo9fmUtkOW7vzWC.jpg",
+        "release_date": "1996-05-25",
+        "title": "The Trap",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6E8wwBuYkvJQZdLFAIeWsWqNgp6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 36221,
+        "original_language": "ja",
+        "original_title": "ポストマン・ブルース",
+        "overview": "Sawaki is a postman who's not quite thrilled about his boring way of life. But his life is about to change when he delivers mail to his old schoolmate Noguchi, who's now a member of the Yakuza, the Japanese Mafia, and just finished cutting his little finger off.",
+        "popularity": 14.245,
+        "poster_path": "/1Cx5vhNDL2EojrqpwO129ycaiMu.jpg",
+        "release_date": "1997-08-16",
+        "title": "Postman Blues",
+        "video": false,
+        "vote_average": 7.345,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zMcEalkxEiRjvmijliLBk0sYern.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 765123,
+        "original_language": "de",
+        "original_title": "Wir Können Nicht Anders",
+        "overview": "A man foils an attempted murder, then flees the crew of would-be killers along with their intended target as a woman he's just met tries to find him.",
+        "popularity": 14.244,
+        "poster_path": "/ajKpYK7XdzIYjy9Uy8nkgRboKyv.jpg",
+        "release_date": "2020-12-04",
+        "title": "Christmas Crossfire",
+        "video": false,
+        "vote_average": 4.672,
+        "vote_count": 87
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3vVlKIULu56yyjjj9zvwSdrowDr.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10749
+        ],
+        "id": 485464,
+        "original_language": "en",
+        "original_title": "Lies We Tell",
+        "overview": "A trusted driver must deal with his dead boss's Muslim mistress, her dark past pulling him into a life-and-death showdown with her notorious gangster cousin/ex-husband.",
+        "popularity": 14.243,
+        "poster_path": "/4j2OYmRiDcEkfYNv0IAsXu5RRf1.jpg",
+        "release_date": "2018-02-02",
+        "title": "Lies We Tell",
+        "video": false,
+        "vote_average": 5.548,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l5WQHD03Cpq8hyzAO4MnvFz4llN.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 443670,
+        "original_language": "en",
+        "original_title": "Tom Clancy’s Ghost Recon Wildlands: War Within The Cartel",
+        "overview": "Bolivia has become a safe haven for the Santa Blanca, one of the most powerful cartels in the world. When a betrayal threatens to destroy everything the cartel has built, no one will escape their vengeance. War Within the Cartel is inspired by the Tom Clancy’s Ghost Recon Wildlands video game by Ubisoft and executive produced by Roberto Orci (Star Trek) and Orlando Jones (American Gods).",
+        "popularity": 14.242,
+        "poster_path": "/2uAaHUXk5jWsbXm6tpnZwAUvV32.jpg",
+        "release_date": "2017-02-16",
+        "title": "Tom Clancy’s Ghost Recon Wildlands: War Within The Cartel",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6XbxwrAW61r2GvoYvxsYegb0hAm.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 582923,
+        "original_language": "fr",
+        "original_title": "La Fille au bracelet",
+        "overview": "Lise (16 years old) is accused of murdering her best friend. As the trial starts, her parents stand right by her side. But once her secret life is revealed in court, the truth becomes indistinguishable.",
+        "popularity": 14.234,
+        "poster_path": "/vnIQq8R50P7rEwi2UivROxYiJv3.jpg",
+        "release_date": "2020-02-12",
+        "title": "The Girl with a Bracelet",
+        "video": false,
+        "vote_average": 6.488,
+        "vote_count": 204
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tT3ZdqNFkZEep8GfVaeoVDPmHBg.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 574436,
+        "original_language": "it",
+        "original_title": "La paranza dei bambini",
+        "overview": "A gang of teenage boys stalk the streets of Naples armed with hand guns and AK-47s to do their mob bosses' bidding – until they decide to be the bosses themselves.",
+        "popularity": 14.234,
+        "poster_path": "/pWRGR6xqgXmODBhlLdxSsYJASTR.jpg",
+        "release_date": "2019-02-14",
+        "title": "Piranhas",
+        "video": false,
+        "vote_average": 6.85,
+        "vote_count": 500
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7La8bi8kahq0QrfTWkJRR7gaUOP.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 235092,
+        "original_language": "en",
+        "original_title": "The Boys",
+        "overview": "A night watchman at a garage is found murdered, and four teddy boys are put on trial for the crime. Witnesses and suspects give differing accounts of the lead-up to the crime, and the truth emerges.",
+        "popularity": 14.232,
+        "poster_path": "/7kty7AcQm6Czk8UFKC2MCinxKjN.jpg",
+        "release_date": "1962-08-31",
+        "title": "The Boys",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zQY2gya6EWBshHiLEc5DswbncT8.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 49215,
+        "original_language": "cn",
+        "original_title": "古惑仔情義篇之洪興十三妹",
+        "overview": "This spin-off movie provides a different contrast to the familiar Young and Dangerous films with greater character development. This time, the story's focus is on a female character - Sister 13 of the Hung Hing triad. In a triad underworld dominated by men, the film tells the story of how she faces trials and tribulations of rising to become the branch leader of Portland Street. The story shows the reasons she became a lesbian. The film also gives more details about the Tung Sing triad, and how the relationship between Sister 13 and Ben Hon develops.",
+        "popularity": 14.231,
+        "poster_path": "/t0paNBnLz9W2RDqWGsmAgNANCZm.jpg",
+        "release_date": "1998-02-21",
+        "title": "Portland Street Blues",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gCIB84HvfkJAT2TadUnk58W1XQx.jpg",
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 543917,
+        "original_language": "en",
+        "original_title": "Bloodline",
+        "overview": "Evan values family above all else, and anyone who gets between him, his wife, and newborn son learns that the hard way. But when it comes to violent tendencies, it seems the apple doesn’t fall far from the tree.",
+        "popularity": 14.228,
+        "poster_path": "/u9UfbDVilnhT3fa82aTFs3O0TsA.jpg",
+        "release_date": "2019-09-20",
+        "title": "Bloodline",
+        "video": false,
+        "vote_average": 5.962,
+        "vote_count": 226
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/drtVPcIOUllCL5iVkEpe4XHikIr.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 19974,
+        "original_language": "en",
+        "original_title": "The Big Clock",
+        "overview": "Stroud, a crime magazine's crusading editor has to post-pone a vacation with his wife, again, when a glamorous blonde is murdered and he is assigned by his publishing boss Janoth to find the killer. As the investigation proceeds to its conclusion, Stroud must try to disrupt his ordinarily brilliant investigative team as they increasingly build evidence (albeit wrong) that he is the killer.",
+        "popularity": 14.228,
+        "poster_path": "/urnKMXbvNubipGbdqmXpXoNS2OO.jpg",
+        "release_date": "1948-03-18",
+        "title": "The Big Clock",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 156
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/49hriJp9Oop5Gu3pxeKzy3v2hgi.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 2076,
+        "original_language": "en",
+        "original_title": "Swindle",
+        "overview": "Four thieves attempt to make the richest score in history.",
+        "popularity": 14.225,
+        "poster_path": "/h5LSYgE5y4firthL82t1s84nny9.jpg",
+        "release_date": "2002-04-01",
+        "title": "Swindle",
+        "video": false,
+        "vote_average": 4.429,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uzTilAtx7ShPSvzG7SujpnimDL4.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 778844,
+        "original_language": "en",
+        "original_title": "Original Gangster",
+        "overview": "The stoic chronicles of Castor, orphaned as a child, forced to survive in the wild and his colorful journey through the criminal underworld of London.",
+        "popularity": 14.22,
+        "poster_path": "/dNnmaGIjy5PyfjpRMx0opPEsMaP.jpg",
+        "release_date": "2020-12-01",
+        "title": "Original Gangster",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n4VX39HLTESTweXc2tcfTw1S2fP.jpg",
+        "genre_ids": [
+            10749,
+            53,
+            27,
+            80
+        ],
+        "id": 85154,
+        "original_language": "en",
+        "original_title": "Lady Beware",
+        "overview": "Young and good looking Katya, a window dresser for a big department store in Pittsburgh, begins a love story with a journalist, Mac Odell. She is however stalked by Jack, a married man who has a fixation with her.",
+        "popularity": 14.214,
+        "poster_path": "/oGtqzTXz7rSrQtg5fQblz3G9UQA.jpg",
+        "release_date": "1987-08-14",
+        "title": "Lady Beware",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uHhvKpVXFjOUTdTdLBGsiHMrZL8.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 31694,
+        "original_language": "en",
+        "original_title": "Trouble in Mind",
+        "overview": "The lives of an ex-con, a coffee-shop owner, and a young couple looking to make it rich intersect in the hypnotic Rain City.",
+        "popularity": 14.207,
+        "poster_path": "/3qyepsmFJ8tYFwk1FImAtsJmmXk.jpg",
+        "release_date": "1985-12-11",
+        "title": "Trouble in Mind",
+        "video": false,
+        "vote_average": 5.654,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wJH14cztFkPsYmReNhvvaWr12On.jpg",
+        "genre_ids": [
+            53,
+            80,
+            27
+        ],
+        "id": 28679,
+        "original_language": "it",
+        "original_title": "La casa sperduta nel parco",
+        "overview": "When two low-lives gate crash a party, and are mocked by the posh hosts, they decide to get their revenge by subjecting the guests to various forms of torture and violence.",
+        "popularity": 14.207,
+        "poster_path": "/6etmPFdhWp08H3Iks7XVq1W0F3c.jpg",
+        "release_date": "1980-11-06",
+        "title": "House on the Edge of the Park",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 122
+    }
+]

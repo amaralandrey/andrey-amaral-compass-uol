@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/A6Cq1Hjw8qe47DsLAi2nHmNcRyZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 26900,
+        "original_language": "tr",
+        "original_title": "Eşkıya",
+        "overview": "Baran the Bandit, released from prison after serving 35 years, searches for vengeance against his former best friend who betrayed him and stole his lover, teaming up with a young punk with his own demons along the way.",
+        "popularity": 16.402,
+        "poster_path": "/9oeNOn8D0u5K4fHKiZFJo02qzpF.jpg",
+        "release_date": "1996-11-29",
+        "title": "The Bandit",
+        "video": false,
+        "vote_average": 7.331,
+        "vote_count": 300
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cWexDlDMZWdCXkpmRNU3hDDhxXD.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1139695,
+        "original_language": "zh",
+        "original_title": "酱园弄",
+        "overview": "Set in a bustling alleyway during the Japanese occupation of Shanghai in the 1940s, the film centres on a wife, Zhan Zhou, who was being charged with the bloody dismemberment of her husband – a killing that seems impossible for her to have committed alone. The murder thrusts Zhan into the spotlight and the court of public opinion, forcing her towards a fate intertwined with that of her own country.",
+        "popularity": 16.401,
+        "poster_path": "/2C1yy7lPYAYvbtW8bDckGGdPhmt.jpg",
+        "release_date": "2024-05-24",
+        "title": "She’s Got No Name",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k8bHVfEm7AFBGCZqOaNlZ8f7RFI.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 42723,
+        "original_language": "en",
+        "original_title": "Madame X",
+        "overview": "A woman married to a wealthy socialite, is compromised by the accidental death of a man who had been romantically pursuing her, and is forced by her mother-in-law to assume a new identity to save the reputation of her husband and infant son. She wanders the world, trying to forget her heartbreak with the aid of alcohol and unsavory men, eventually returning to the city of her downfall, where she murders a blackmailer who threatens to expose her past. Amazingly, she is represented at her murder trial by her now adult son, who is a public defender. Hoping to continue to protect her son, she refuses to give her real name and is known to the court as the defendant, \"Madame X.\"",
+        "popularity": 16.392,
+        "poster_path": "/pF9m0GruyTuC4H4cBROEzEaf42C.jpg",
+        "release_date": "1966-03-03",
+        "title": "Madame X",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xcfpiUV5APngRXoivL11mkcDVSf.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 21619,
+        "original_language": "en",
+        "original_title": "King of the Ants",
+        "overview": "A young drifter, struggling to makes ends meet, accepts a job to kill a prominent accountant. When he isn't paid for the hit, revenge is now his path.",
+        "popularity": 16.39,
+        "poster_path": "/bFsxsZlEDo1rMemCLZiR06z9YlF.jpg",
+        "release_date": "2004-07-28",
+        "title": "King of the Ants",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8M0TMmC7AGrulTZPcT6GXD3ps5m.jpg",
+        "genre_ids": [
+            28,
+            80,
+            12
+        ],
+        "id": 25120,
+        "original_language": "ta",
+        "original_title": "கந்தசாமி",
+        "overview": "A CBI officer moonlights as a modern day Robin Hood in the guise of the masked Kanthaswamy, as he helps fight corruption and aid impoverished people.",
+        "popularity": 16.388,
+        "poster_path": "/96MM2RbYIwViVGioHtheRTsVXqS.jpg",
+        "release_date": "2009-08-21",
+        "title": "Kanthaswamy",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fg6YqZi14CKYsxOOIZDNfPKwQMr.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80,
+            10749
+        ],
+        "id": 38950,
+        "original_language": "en",
+        "original_title": "Hero and the Terror",
+        "overview": "Danny O'Brien is back in action fighting the notorious Simon Moon, also known as The Terror. Three years earlier O'Brien had single-handedly captured The Terror and was called Hero by the people of L.A. Now Simon has escaped and has started killing women again, and O'Brien is the only man who can stop him.",
+        "popularity": 16.375,
+        "poster_path": "/8qbUOUkiBsWsCM6pIQnx5h5yjdt.jpg",
+        "release_date": "1988-08-26",
+        "title": "Hero and the Terror",
+        "video": false,
+        "vote_average": 5.469,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            53,
+            80
+        ],
+        "id": 301307,
+        "original_language": "en",
+        "original_title": "American Fetish",
+        "overview": "When the son of an alleged killer inherits a \"blue movie\" that may be the key to solving a 50 year old murder, he finds himself drawn into a forbidden world of sexual obsession. But the closer he gets to the heart of the mystery, the more the past threatens to reach out into the present and reveal terrifying truths that lead him to the brink of madness.",
+        "popularity": 16.365,
+        "poster_path": "/9BJDDi7aNoMVfOrQxB8ZJ5ABqcC.jpg",
+        "release_date": "2010-10-01",
+        "title": "American Fetish",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x1i0wTxKqT86n1M71GBnc13mxLX.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 5204,
+        "original_language": "hu",
+        "original_title": "Kontroll",
+        "overview": "A tale about a strange young man, Bulcsú, and the fellow ticket inspectors on his team who work aboard the subterranean Budapest Metro. A tale about racing along the tracks, and about a mysterious serial killer. And a tale about love.",
+        "popularity": 16.365,
+        "poster_path": "/aDfRQXOicnTVzRMpiMf9mU5tDXJ.jpg",
+        "release_date": "2003-11-20",
+        "title": "Kontroll",
+        "video": false,
+        "vote_average": 7.141,
+        "vote_count": 248
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/trBGubNu0WWBGQMLxMBOJe4DylV.jpg",
+        "genre_ids": [
+            35,
+            53,
+            18,
+            80
+        ],
+        "id": 432011,
+        "original_language": "ta",
+        "original_title": "சூப்பர் டீலக்ஸ்",
+        "overview": "An unfaithful newly-wed wife, an estranged parent, a priest and an angry son suddenly find themselves in the most unexpected predicaments, each poised to experience their destiny, all on one fateful day.",
+        "popularity": 16.363,
+        "poster_path": "/6N346GcTUjhYa0InIiGHW61Zo3O.jpg",
+        "release_date": "2019-03-29",
+        "title": "Super Deluxe",
+        "video": false,
+        "vote_average": 7.671,
+        "vote_count": 105
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7ilfZ5YcBf2IZe2280PqsxudaQj.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 17593,
+        "original_language": "ko",
+        "original_title": "영화는 영화다",
+        "overview": "Gang-pae is #2 gangster in his organization who longs to become an actor. Su-ta is a superstar actor who takes on the role of a gangster in an action movie called Rough Cut. When another actor leaves the set due to Su-tas violent ways, the production is on the verge of shutting down. Su-ta asks Gang-pae, whom he met by chance, to play alongside him in the movie in order to save the production.",
+        "popularity": 16.363,
+        "poster_path": "/iv1hGQjD390UeH2unAoR6wAchBF.jpg",
+        "release_date": "2008-09-11",
+        "title": "Rough Cut",
+        "video": false,
+        "vote_average": 6.889,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9uuOd9sJAMlRqE7vC5MCwPwtMXw.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 49110,
+        "original_language": "en",
+        "original_title": "'R Xmas",
+        "overview": "A New York drug dealer is kidnapped, and his wife must try to come up with the money and drugs to free him from his abductors before Christmas.",
+        "popularity": 16.362,
+        "poster_path": "/qdcVryM0So8KvUXtN12XisOINP8.jpg",
+        "release_date": "2001-10-04",
+        "title": "'R Xmas",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 69
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ez1RyjAyFpd7SHfdL0gxZNLhZqQ.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            14,
+            10770
+        ],
+        "id": 41595,
+        "original_language": "en",
+        "original_title": "Witch Hunt",
+        "overview": "Magic and murder connect an actress, a private eye, a senator and a witch in 1950s Hollywood.",
+        "popularity": 16.356,
+        "poster_path": "/dmOXxbrAN013vKE2BJXIyl46hLL.jpg",
+        "release_date": "1994-12-10",
+        "title": "Witch Hunt",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rsl2YCe2bSeni2qGdaMoDBS7sLo.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10749
+        ],
+        "id": 18995,
+        "original_language": "en",
+        "original_title": "D.O.A.",
+        "overview": "Frank Bigelow is about to die, and he knows it. The accountant has been poisoned and has only 24 hours before the lethal concoction kills him. Determined to find out who his murderer is, Frank, with the help of his assistant and girlfriend, Paula, begins to trace back over his last steps. As he frantically tries to unravel the mystery behind his own impending demise, his sleuthing leads him to a group of crooked businessmen and another murder.",
+        "popularity": 16.345,
+        "poster_path": "/m7wZXWOt9XQKJT8r9pbAFo7jB46.jpg",
+        "release_date": "1949-12-23",
+        "title": "D.O.A.",
+        "video": false,
+        "vote_average": 6.883,
+        "vote_count": 163
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2YmxAt5XtWgl0BzoDrS51aWNAds.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 962697,
+        "original_language": "en",
+        "original_title": "Our Father",
+        "overview": "After a woman's at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.",
+        "popularity": 16.335,
+        "poster_path": "/maG75HDZbOwywDFd1h195CA8I36.jpg",
+        "release_date": "2022-05-11",
+        "title": "Our Father",
+        "video": false,
+        "vote_average": 6.579,
+        "vote_count": 178
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ll1BtZ7R84UZfZppK3l7rCi0TBu.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 2923,
+        "original_language": "en",
+        "original_title": "B. Monkey",
+        "overview": "When wistful introvert Alan Furnace meets quick-witted bombshell Beatrice, he has no idea of her secret life as \"B. Monkey\" -- the top thief-for-hire in London's criminal underworld. Charmed by Furnace's innocent and chivalrous ways, Beatrice resolves to reform. But to cash in on her first chance at real love, she must escape her former partner in crime, the ruthless Paul Neville -- and a dark past that seems to haunt her every step.",
+        "popularity": 16.333,
+        "poster_path": "/80bQjfpH14P5p2TDnfWUukEkM55.jpg",
+        "release_date": "1999-07-15",
+        "title": "B. Monkey",
+        "video": false,
+        "vote_average": 5.881,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bkENfmxUY3UYsRLizJAhF5IQPvS.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1025596,
+        "original_language": "en",
+        "original_title": "Blood for Dust",
+        "overview": "Reckless Ricky makes serious money dealing illegal weapons throughout the tri-state area and loves to flaunt it. Traveling salesman Cliff, covers the same territory Ricky runs guns through. Desperate to find some financial relief for his struggling family, Cliff agrees to partner with Ricky, to commit cross-state drug and gun deliveries for a mid-level American cartel boss John. When a simple exchange turns into a bloodbath after Ricky kills everyone in a territory grab, the pair find themselves in a pressure cooker situation where unlikely drug dealer Cliff must fight as hard as he can to stay alive.",
+        "popularity": 16.332,
+        "poster_path": "/nvaCnkl8RilLhVAQXPFei0tqkqW.jpg",
+        "release_date": "2024-04-19",
+        "title": "Blood for Dust",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kcQAIsuO3ome40bcyygp2Qb5Cxq.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 1053587,
+        "original_language": "es",
+        "original_title": "Fatum",
+        "overview": "After receiving a tip-off, compulsive gambler Sergio returns to the betting house trying to recover all the money he has lost , but another gambler bursts into the place with a gun and a gunshot will change his life forever.",
+        "popularity": 16.33,
+        "poster_path": "/xzmmJAa3OX302flRxg6fEf18FLL.jpg",
+        "release_date": "2023-04-12",
+        "title": "Fatum",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wo4PrAv907tC2vIpft5XidTSEYS.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 103794,
+        "original_language": "ja",
+        "original_title": "蛇の道",
+        "overview": "Miyashita, a former low-level yakuza member, has tracked down and kidnapped his daughter's murderer with help of his friend Nijima. But others are soon implicated in the death, leading the pair further down a violent path of revenge.",
+        "popularity": 16.33,
+        "poster_path": "/kHUsXCAtjwQCcyCE8uLpksRt40M.jpg",
+        "release_date": "1998-02-21",
+        "title": "Serpent's Path",
+        "video": false,
+        "vote_average": 6.889,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qPTEsaY7MIg2OJyrO2xEG6lxG4X.jpg",
+        "genre_ids": [
+            27,
+            80,
+            53
+        ],
+        "id": 522246,
+        "original_language": "tl",
+        "original_title": "Eerie",
+        "overview": "The unexpected and gruesome death of a student threatens the existence of an old Catholic school for girls. Pat Consolacion, the school guidance counselor, involves herself with the students in the hopes of helping them cope, and at the same time uncover the mysteries of the student’s death. Most students suspect of the strict and borderline abusive Mother Alice, who also threatened Pat’s tenure in the school because of her continuous meddling with the case. But Pat’s unusual talents lead her to knowing Eri, a former student who's been watching the whole school for years. Piece by piece, Pat uncovers the secret of the school and the monster that it nurtured for the past century.",
+        "popularity": 16.328,
+        "poster_path": "/duEI37Qjtt1WaiOzZzVlkI6JO2z.jpg",
+        "release_date": "2019-03-27",
+        "title": "Eerie",
+        "video": false,
+        "vote_average": 5.444,
+        "vote_count": 80
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mNUUt9neM0mNwL8CwYHbs5nkrtx.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 253622,
+        "original_language": "cn",
+        "original_title": "魔警",
+        "overview": "By a strange twist of fate, dutiful Hong Kong policeman Dan saves the life of the leader of a violent gang of armed robbers.  When they commit another crime, Dan is determined to put an end to their activities.  He works with the leader, whom the gang had betrayed, to engineer a plan to wreak havoc within the gang and let the gangsters kill one another.  But it becomes increasingly obvious to Dan and to his colleagues that Dan is suffering from a severe mental disorder, and Dan finds that instead of upholding the law as a righteous police officer, he has now become a fugitive wanted for murder.",
+        "popularity": 16.326,
+        "poster_path": "/rUdcfBb2HLtXqnE8Sngk38bSuKV.jpg",
+        "release_date": "2014-04-16",
+        "title": "That Demon Within",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 63
+    }
+]

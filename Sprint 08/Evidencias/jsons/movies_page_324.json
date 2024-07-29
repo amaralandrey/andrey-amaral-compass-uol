@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/kmiAs40oUeXssmgeFiKbuds4zIy.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 648335,
+        "original_language": "ja",
+        "original_title": "新兄弟仁義",
+        "overview": "When the boss of the Nakano Family decides to retire and makes a loyal follower the new boss instead of his own son, it causes strife in the family. Sides are taken and lines are drawn. Meanwhile, a rival family with a land dispute with the Nakano starts pulling strings behind the scenes...",
+        "popularity": 9.849,
+        "poster_path": "/nxSAI1pszifDcHM5Y9vXldxEEeV.jpg",
+        "release_date": "1970-04-10",
+        "title": "Code Between Brothers: All New",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/itXts0kPFiUPcdlmtWM6nGMJak6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            12
+        ],
+        "id": 162700,
+        "original_language": "en",
+        "original_title": "Made in U.S.A.",
+        "overview": "Two men from Pennsylvania give up hope in their small run down coal mining town, and head off in search of the beaches of California. The two steal cars as they travel across the USA and are joined by a wild young woman.",
+        "popularity": 9.849,
+        "poster_path": "/zEfzGJXf9k8uiq82fYK7322N0Wi.jpg",
+        "release_date": "1987-10-15",
+        "title": "Made in U.S.A.",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yE5nn3YBNy8l7NiBzSfEp7CvCiS.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            36,
+            9648,
+            80
+        ],
+        "id": 811209,
+        "original_language": "ja",
+        "original_title": "宮城野",
+        "overview": "In Edo-era Japan, a ukiyo-e artist languishes in his master’s shadow. Creatively stifled, he finds consolation in the company of a prostitute, and becomes entangled in a love triangle. A mystery emerges involving two portraits and the sudden disappearance of the artist Sharaku. Helmed by Cannes-selected director Tatsuji Yamazaki, the film employs kabuki-inspired sequences and stylised sets.",
+        "popularity": 9.844,
+        "poster_path": "/yV2Dh78nya50q6OWKwkvnl74eek.jpg",
+        "release_date": "2010-05-29",
+        "title": "Two Portraits of MIYAGINO",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dq3N5cbKBWVwebkIAZLDvg1PTgK.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1016326,
+        "original_language": "en",
+        "original_title": "Rattled!",
+        "overview": "In this dark crime comedy, a group of ragtag Vegas criminals kidnaps the wrong person, leaving vital evidence at the scene. As fate closes in on them, all they can seem to do is argue about trivialities.",
+        "popularity": 9.843,
+        "poster_path": "/exq4bAMwmgiK4AcMuXaqjFwqKtx.jpg",
+        "release_date": "2022-11-17",
+        "title": "Rattled!",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nfdCy7T53WMGsCTkWlj4ppnq2px.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1005581,
+        "original_language": "hi",
+        "original_title": "Dhokha: Round D Corner",
+        "overview": "When a delusional housewife with a personality disorder is taken hostage by a terrorist on the loose and a husband accused of cheating on his wife have their own versions of reality, how do we know who's saying the truth?",
+        "popularity": 9.843,
+        "poster_path": "/mcNf2j9e5iDWAfLr7pS9uusgXx5.jpg",
+        "release_date": "2022-09-22",
+        "title": "Dhokha: Round D Corner",
+        "video": false,
+        "vote_average": 4.607,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p7xURo6qoSL3AjUvHg0EOwnNH9j.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 560412,
+        "original_language": "en",
+        "original_title": "Hospitality",
+        "overview": "A woman with a checkered past must protect her son when a man brings trouble to her isolated bed and breakfast.",
+        "popularity": 9.841,
+        "poster_path": "/hJuKwfBYhxUBmHxYuGwMlvM9WVF.jpg",
+        "release_date": "2018-12-07",
+        "title": "Hospitality",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/asN5O4FagB6zhDj6YDamjEBjnP6.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 227933,
+        "original_language": "pt",
+        "original_title": "Alemão",
+        "overview": "Five undercover cops at Complexo do Alemão, one of Rio de Janeiro's most dangerous areas, have their covers blown by drug dealers. Arrested, they wait execution or to be rescued by police forces that would risk expose a larger operation.",
+        "popularity": 9.839,
+        "poster_path": "/5q9wVeY0uGvpwEc3Z7lnhnZdROt.jpg",
+        "release_date": "2014-02-07",
+        "title": "Alemão",
+        "video": false,
+        "vote_average": 6.203,
+        "vote_count": 96
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iQKpIvZhBRy4q4WuQ4d5OoyIgts.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 67758,
+        "original_language": "en",
+        "original_title": "Betrayal",
+        "overview": "When one of her hits goes wrong, a professional assassin ends up with a suitcase full of a million dollars belonging to a mob boss.",
+        "popularity": 9.839,
+        "poster_path": "/lcZRLBKNv8a4yrEtRt3bvwVFOyw.jpg",
+        "release_date": "2003-08-01",
+        "title": "Betrayal",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qOGotMB1K3CfZaiDUJy7rNescVT.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 384212,
+        "original_language": "fr",
+        "original_title": "Diamant noir",
+        "overview": "Pier Ulmann lives from hand-to-mouth in Paris, between construction work and petty theft that he commits on behalf of Rachid, his only “family”. But life catches up with him the day his father is found dead in the street after a long decline. The black sheep of a rich Antwerp family who deals in diamonds, he has left his son nothing, apart from the story of his banishment from the Ulmann family and a thirst for revenge.",
+        "popularity": 9.837,
+        "poster_path": "/jPJEpIJWbMbHVL4e9GHZdszAJjl.jpg",
+        "release_date": "2016-06-08",
+        "title": "Dark Diamond",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 51
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yvfB2I0DvQrpXFhlKu9l4ZBa7ji.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            18
+        ],
+        "id": 133214,
+        "original_language": "ja",
+        "original_title": "東京プレイボーイクラブ",
+        "overview": "Katsutoshi is forced to flee his hometown and ends up at a rundown nightclub called \"Tokyo Playboy Club.\" His hot-headedness gets him into further trouble, and the club's waiter Takahiro and his girlfriend Eriko also get caught up in it as their underworld predicament worsens to the point of no return.",
+        "popularity": 9.836,
+        "poster_path": "/wZyW9sEC7PWrFuIiOE4AV4GHQ73.jpg",
+        "release_date": "2011-10-08",
+        "title": "Tokyo Playboy Club",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k3BIlLX9Ky1TptQScbUmE0CptXZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            9648
+        ],
+        "id": 164435,
+        "original_language": "sv",
+        "original_title": "Beck 25 - I stormens öga",
+        "overview": "When the charred remains of woman are found, Säpo, the Swedish Security Services, suspect Gunvald Larsson of being mixed up in her murder. The dead woman was wanted internationally and a member of a group of militant eco-activists carrying out attacks around the world. Gunvald sets out on his own to find the woman's murderer, with Säpo on his heels. Martin Beck is ordered to arrest Gunvald and his loyalty to his colleague is now put to the test.",
+        "popularity": 9.835,
+        "poster_path": "/z4wcrheDVb0sIobW494qLoQdLwt.jpg",
+        "release_date": "2009-08-25",
+        "title": "Beck 25 - The Eye of the Storm",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 63218,
+        "original_language": "en",
+        "original_title": "Lesser Prophets",
+        "overview": "The police have three bookies under surveillance, but they escape and set up shop elsewhere. By chance, one of the police finds them; instead of turning them in, he demands money that his brother, now a suicide, had lost to them",
+        "popularity": 9.835,
+        "poster_path": "/2kMrn6oycHAVxLhVEuItGASA45S.jpg",
+        "release_date": "1997-11-28",
+        "title": "Lesser Prophets",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/79ZLe3DEKSWVkfKJ5MYlp9zrc3B.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 96797,
+        "original_language": "en",
+        "original_title": "Inside Out",
+        "overview": "An American ex-WW II POW returns to Germany 30 years after the war. He teams up with the former commander of his prison camp. Together they spring a Nazi war criminal from jail. He's the only one left who knows where a secret wartime cache of gold is hidden.",
+        "popularity": 9.834,
+        "poster_path": "/kN2FLzI9pEltSh5qSMFGXWFLplh.jpg",
+        "release_date": "1975-10-19",
+        "title": "Inside Out",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/54NtcOUMu6Pi01E39xLevVllX2w.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 57417,
+        "original_language": "fr",
+        "original_title": "Une pure affaire",
+        "overview": "An attorney stumbles upon a suitcase filled with cocaine.",
+        "popularity": 9.834,
+        "poster_path": "/b4oz91dvvhBuImW2NcJfP42Nsow.jpg",
+        "release_date": "2011-03-02",
+        "title": "Borderline",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nKSklcYvr2jDFPPHVBr6zB700gq.jpg",
+        "genre_ids": [
+            53,
+            27,
+            80
+        ],
+        "id": 485789,
+        "original_language": "te",
+        "original_title": "భాగమతి",
+        "overview": "Accused of murdering her husband, IAS officer Chanchala, is taken to a haunted house called Bhaaghamathie Bungalow, where police and CBI officials interrogate her to dig up dirt on a politician she had worked under. As she's left alone in the haunted house, spirits take control of her and IAS Chanchala transforms into an unrecognisable person. How this impacts her and everyone around her forms the crux of the story.",
+        "popularity": 9.833,
+        "poster_path": "/quGwnd4DjXOX25aLwuuRJJ5YmlS.jpg",
+        "release_date": "2018-01-26",
+        "title": "Bhaagamathie",
+        "video": false,
+        "vote_average": 5.984,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uH1B5P0LdTIdaaMGp2gN1ntQA7G.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 473768,
+        "original_language": "tr",
+        "original_title": "Daha",
+        "overview": "Gaza is a 14-year-old boy who lives on the Aegean coast of Turkey. Together with his domineering father, he helps smuggle refugees from war-torn countries to Europe, giving them temporary lodgings and scant food until they attempt the crossing. Gaza dreams of escaping this life, but can't help being drawn into a dark world of immorality, exploitation and human suffering. Can you avoid becoming a monster when you've been raised by one? Onur Saylak's debut feature, adapted from the award-winning novel of the same title by Hakan Günday, one of the first novels to document the refugee crisis in Europe, \"More\" is the gripping story of a boy that gets to grow up in a world where there's no room for innocence.",
+        "popularity": 9.833,
+        "poster_path": "/s1qpdCimDoqhjODNTk12x2SlYwT.jpg",
+        "release_date": "2017-07-03",
+        "title": "More",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1MOb56jBFHQVAHtpoZQeWRbP3dh.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 96460,
+        "original_language": "it",
+        "original_title": "Roma violenta",
+        "overview": "A detective sick and tired of the rampant crime and violence in his city, and constantly at odds with his superiors, is finally kicked out of the department for a \"questionable\" shooting of a vicious criminal. However, he is soon approached by a representative for a group of citizens who themselves are fed up with what they see as criminals going unpunished, and they make him an offer he may very well not refuse.",
+        "popularity": 9.831,
+        "poster_path": "/kJNIRhM6yepXWBbBCp5H0nXeDz8.jpg",
+        "release_date": "1975-08-13",
+        "title": "Violent Rome",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gFfLAlVZyUZ6Cq4OtGxOmxSDvMW.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 62339,
+        "original_language": "nl",
+        "original_title": "De Eetclub",
+        "overview": "Karen (32) and Michel (36) move with their daughter to an exclusive residential area. She soon finds a new close circle of friends: the women of the Dinner Club, and their husbands. But when two of the Club members commit suicide under suspicious circumstances, Karen starts to have second thoughts about her new friends. She has to choose: will she reveal the truth and dish the dirt, or will she protect the interests of the Dinner Club?",
+        "popularity": 9.83,
+        "poster_path": "/bSFkacLRb16fyyOHEdfCCnb3J5N.jpg",
+        "release_date": "2010-11-25",
+        "title": "The Dinner Club",
+        "video": false,
+        "vote_average": 5.518,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hxWqyQENfPp6GZfBCRo6R4tsEtn.jpg",
+        "genre_ids": [
+            28,
+            35,
+            53,
+            80
+        ],
+        "id": 45460,
+        "original_language": "cn",
+        "original_title": "驚天12小時",
+        "overview": "Lui Tai, an Interpol agent, is assigned to protect the Daka Lama, a famous religious leader who's targeted for death by a militant Japanese terrorist group.  When the  Daka Lama is injured, Lui Tai embarks on a quest to find a suitable blood donor.",
+        "popularity": 9.827,
+        "poster_path": "/ecJY4d3bwi3S1tUtjPOAvKvlIt7.jpg",
+        "release_date": "1990-12-22",
+        "title": "The Last Blood",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 52401,
+        "original_language": "ja",
+        "original_title": "太陽の傷",
+        "overview": "Katayama is on the way home to his wife and little daughter when he comes across a gang of punks beating up an innocent man. Katamaya decides to help the stranger and surprisingly wins the fight. This turns out to be a bad decision as his daughter is kidnapped and murdered by the leader of the same band of young thugs. Katayama seeks revenge and tries to trace the gang's location.",
+        "popularity": 9.824,
+        "poster_path": "/kNPcw1gsPjpsyFirUFu8S6kwxmO.jpg",
+        "release_date": "2006-05-03",
+        "title": "Sun Scarred",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 21
+    }
+]

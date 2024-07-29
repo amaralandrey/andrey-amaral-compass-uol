@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/uJw8UReMv3grdMvxakRPdRPReGS.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10751
+        ],
+        "id": 325712,
+        "original_language": "en",
+        "original_title": "Cool Cat Saves the Kids",
+        "overview": "Cool Cat is the coolest cat in town. All the kids love him. Except for the bully Butch, who hates Cool Cat for his coolness. He terrorizes Cool Cat, his friends and family with threats, taunting, and the internet. Can Cool Cat face his fears and defeat the bully Derrick?",
+        "popularity": 11.859,
+        "poster_path": "/tHBGPCBr27q2FfZbAL8JLbkwgW2.jpg",
+        "release_date": "2015-02-01",
+        "title": "Cool Cat Saves the Kids",
+        "video": false,
+        "vote_average": 3.1,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zHA8AkCjPbVTxW6ZsPfEmau75mp.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 70475,
+        "original_language": "de",
+        "original_title": "Zimmer 13",
+        "overview": "A serial-killer is murdering the ladies of a night club. Detective Gray is seeking for the killer but can only find a lot of gangsters. And the killer is about to act again...",
+        "popularity": 11.859,
+        "poster_path": "/esEmCHalNZxgF5E4TkrC2PPDTAr.jpg",
+        "release_date": "1964-02-20",
+        "title": "Room 13",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 124269,
+        "original_language": "en",
+        "original_title": "Dead and Alive: The Race for Gus Farace",
+        "overview": "Both sides of the law hunt Costabile 'Gus' Farace for slaying a federal drug agent in 1989 New York.",
+        "popularity": 11.858,
+        "poster_path": "/xLr7YOqq3R1LPhyJKhUR7PQafDG.jpg",
+        "release_date": "1991-11-24",
+        "title": "Dead and Alive: The Race for Gus Farace",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9r6p7ztTGacAmr5guMtR9h9WEUI.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 54702,
+        "original_language": "en",
+        "original_title": "Malevolence",
+        "overview": "It's ten years after the kidnapping of Martin Bristol. Taken from a backyard swing at his home at the age of six, he is forced to witness unspeakable crimes of a deranged madman. For years, Martin's whereabouts have remained a mystery...until now.",
+        "popularity": 11.856,
+        "poster_path": "/l7JVY5uGMeOkEDNYIFLmZcEEQze.jpg",
+        "release_date": "2004-09-10",
+        "title": "Malevolence",
+        "video": false,
+        "vote_average": 5.247,
+        "vote_count": 83
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iWuWT7jo2cO9z0OrMZxqcEGvhAX.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 290237,
+        "original_language": "ja",
+        "original_title": "映画 ST赤と白の捜査ファイル",
+        "overview": "The ST team at the Tokyo Metropolitan Police Department consists of eccentric members. Some members do not cooperate with others and others do not reveal themselves in front of others. With Samon as the leader of the ST team and young Inspector Tomohisa tasked with managing the team, the ST (Scientific Task Force) attempt to solve the most difficult of cases.",
+        "popularity": 11.855,
+        "poster_path": "/iUnHoMEVlWxxgsBGoyajYo4r0QF.jpg",
+        "release_date": "2015-01-10",
+        "title": "ST: Aka to Shiro no Sôsa File the Movie",
+        "video": false,
+        "vote_average": 7.591,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y0luOnNZKqlcDlOc6WlQP6aXVwm.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 211233,
+        "original_language": "fi",
+        "original_title": "Kaappari",
+        "overview": "Aarno Lamminparras hijacked an airplane with a gun in 1978. A true story.",
+        "popularity": 11.855,
+        "poster_path": "/hTJdevyLSePL6A6zrEUIgzJtijC.jpg",
+        "release_date": "2013-01-18",
+        "title": "The Hijack That Went South",
+        "video": false,
+        "vote_average": 5.447,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yGFwcHUHVHCoc6PmAIbTVSgrGBd.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 307070,
+        "original_language": "cn",
+        "original_title": "狂野生死恋",
+        "overview": "Narcotics officer Shaolun (Tony Leung Ka Fai), in order to bring down the local drug kingpin King (Michael Wong), forces a female street thug with an equally sketchy past, Coco (Rosamund Kwan) to infiltrate King's organization and provide information. What no one expected was for both men to fall for Coco, and Coco for King.",
+        "popularity": 11.85,
+        "poster_path": "/t11K0pDcJVJwb32YaNEjCM0wvdN.jpg",
+        "release_date": "1995-04-27",
+        "title": "A Touch of Evil",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 148615,
+        "original_language": "en",
+        "original_title": "The Ordeal of Patty Hearst",
+        "overview": "The story of the kidnapping of newspaper heiress Patty Hearst by members of a radical guerrilla organization, as seen by the FBI agent in charge of her case.",
+        "popularity": 11.849,
+        "poster_path": "/r4uUexOx5Os1kuS3CJfayXZIvUM.jpg",
+        "release_date": "1979-03-04",
+        "title": "The Ordeal of Patty Hearst",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hvsfKEFga6L0ew3Mx7bGx99Ru2s.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 36244,
+        "original_language": "ja",
+        "original_title": "極道黒社会",
+        "overview": "A Japanese assassin stranded in Taiwan must take work from a local crime boss to make ends meet when suddenly a woman from his past delivers a son to him.",
+        "popularity": 11.846,
+        "poster_path": "/zQVopy34WweVuBdMXWWlzJ5G1V1.jpg",
+        "release_date": "1997-06-28",
+        "title": "Rainy Dog",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kH8fqDAbRLk93HQeDXs2GLjY1yZ.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 199723,
+        "original_language": "en",
+        "original_title": "Trap for Cinderella",
+        "overview": "A young girl, suffering from amnesia after surviving a house fire that takes her childhood friend's life, begins a tormented road to recovery.",
+        "popularity": 11.841,
+        "poster_path": "/46F0gInnHI4oCPd0iH9KNIs60vd.jpg",
+        "release_date": "2013-07-12",
+        "title": "Trap for Cinderella",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jVS5pGxaC6yaLiYV2im6kLmnmpG.jpg",
+        "genre_ids": [
+            27,
+            80
+        ],
+        "id": 111934,
+        "original_language": "ja",
+        "original_title": "コンクリート",
+        "overview": "A high-school girl is kidnapped by gang lords and held captive for several months. Over this time, she repeatedly beaten, raped, and tortured.  On the 25th of November 1988, four youths abducted and held Furuta Junko in the house of one of the captors. Subjected to rape, torture, and humiliation, Junko had no hope of escape as the manhunt was stalled by the captors forcing her to tell her parents that she was ok. For 41 harrowing days, Junko had to endure unimaginable suffering at the hands of these four individuals. Finally, after losing in a game of mahjong solitaire, they beat her with an iron dumbbell and set on fire with lighter fluid. She died later that day from shock. In an attempt to hide their crime they buried her in cement and thus the name 'Concrete Encased High School Murder Case' was born as Japan had to confront the horrors of this crime. The perpetrators disposed the drum in a tract of reclaimed land in Koto, Tokyo.",
+        "popularity": 11.837,
+        "poster_path": "/lSJKjUfVCeTlJ1TSKAh2FgYkoDG.jpg",
+        "release_date": "2004-02-11",
+        "title": "Concrete",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w6zXYxMCigUMOZqQ33rdRDyj5I4.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 24053,
+        "original_language": "en",
+        "original_title": "The Merry Gentleman",
+        "overview": "A woman who leaves an abusive relationship to begin a new life in a new city, where she forms an unlikely and ironic relationship with a suicidal hit man (unbeknownst to her). Enter a worn, alcoholic detective to form the third party in a very unusual triangle as this story begins to unfold.",
+        "popularity": 11.837,
+        "poster_path": "/xN5nQC6vdxb17WRvgcpN7KsL3IG.jpg",
+        "release_date": "2008-04-16",
+        "title": "The Merry Gentleman",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/roHJmwFlNtHdqEd1clB2l0IAqTt.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 102784,
+        "original_language": "pt",
+        "original_title": "2 Coelhos",
+        "overview": "Edgar is a young upper-middle class man, close to completing 30 years old, he lives a full life crisis and is in a position common to the vast majority of Brazilians. On the one hand the power, represented by a corrupt state, abusive and absent in their taxes before their obligations. On the other, crime increasingly organized violence became a constant in the lives of citizens in large cities. Edgar responds to all this as a modern vigilante. With the help of ingredients such as technology, counter-information and manipulation, Edgar concocts a brilliant plan, using the greed of their opponents as the reason for its destruction. As the plot unfolds, we know more about the dark past of each character as Edgar fit the pieces together in an intriguing puzzle that makes up the film's plot.",
+        "popularity": 11.836,
+        "poster_path": "/a10bWLpmCSlfz2olvOprIWUdras.jpg",
+        "release_date": "2012-01-20",
+        "title": "2 Rabbits",
+        "video": false,
+        "vote_average": 6.848,
+        "vote_count": 132
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w1YMpwptMmXZwBLXoDFp3ktuYwv.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 152736,
+        "original_language": "en",
+        "original_title": "Child of God",
+        "overview": "A dispossessed, violent man's life is a disastrous attempt to exist outside the social order. Successively deprived of parents and homes and with few other ties, he descends to the level of a cave dweller and falls deeper into crime and degradation.",
+        "popularity": 11.832,
+        "poster_path": "/6HFUfOnpwHeuHJLs8o4w4QK20C2.jpg",
+        "release_date": "2014-04-28",
+        "title": "Child of God",
+        "video": false,
+        "vote_average": 4.886,
+        "vote_count": 79
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 478798,
+        "original_language": "cn",
+        "original_title": "風林火山",
+        "overview": "A detective goes against the successor to a drug-trafficking crime syndicate, who aspires for a society free of drugs by orchestrating anarchy in Hong Kong.",
+        "popularity": 11.829,
+        "poster_path": "/mini5t3eavhgv0dDgGl9sWxnoQq.jpg",
+        "release_date": "",
+        "title": "Sons of the Neon Night",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 160262,
+        "original_language": "cn",
+        "original_title": "黑道風雲之收數王",
+        "overview": "",
+        "popularity": 11.829,
+        "poster_path": "/8gc1s87ZTGlgSmJyxdgpDi1E71a.jpg",
+        "release_date": "1999-05-29",
+        "title": "The King of Debt Collecting Agent",
+        "video": false,
+        "vote_average": 4.333,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c1BPmqdU3Hr0LjAnKuSdehEBNpQ.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 489383,
+        "original_language": "ja",
+        "original_title": "探偵はBARにいる3",
+        "overview": "In order to find a missing university student, a detective and his buddy get involved with the owner of a modeling agency.",
+        "popularity": 11.828,
+        "poster_path": "/im27Gl5v7WUkFO8k5LE2jmUCtrA.jpg",
+        "release_date": "2017-12-01",
+        "title": "The Last Shot in the Bar",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ciX59yAbr8LKu9wNLEIAL9bdSWU.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 78786,
+        "original_language": "fr",
+        "original_title": "Les Plus Belles Escroqueries du monde",
+        "overview": "Five swindle stories, taking place in five international cities: Tokyo, Japan (\"Fumiko's Five Benefactors\" by Hiromichi Horikawa); Amsterdam, The Netherlands (\"A River of Diamonds\" by Roman Polanski); Naples, Italy (\"The Road Map\" by Ugo Gregoretti); Paris, France (\"The Man Who Sold the Eiffel Tower\" by Claude Chabrol); and Marrakesh, Morocco (\"The Confidence Man\" by Jean-Luc Godard). Godard's segment was not included in the original French cinema release, and Polanski's segment was not included on the 2016 home disc release.",
+        "popularity": 11.826,
+        "poster_path": "/rheKAoQaILQV5zhdolsANwTcTDt.jpg",
+        "release_date": "1964-08-14",
+        "title": "The World's Most Beautiful Swindlers",
+        "video": false,
+        "vote_average": 5.265,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ztSgdB734XSM3txHA3Jpi4srIi9.jpg",
+        "genre_ids": [
+            28,
+            12,
+            18,
+            80
+        ],
+        "id": 1220786,
+        "original_language": "ja",
+        "original_title": "帰ってきた あぶない刑事",
+        "overview": "",
+        "popularity": 11.823,
+        "poster_path": "/89kvl3ASlzJUvpe38bWcu1Qfw78.jpg",
+        "release_date": "2024-05-24",
+        "title": "The Dangerous Detective Is Back",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4nLRzsMBwuf4ssHHjbmG9CneE88.jpg",
+        "genre_ids": [
+            27,
+            80
+        ],
+        "id": 141883,
+        "original_language": "cn",
+        "original_title": "山狗",
+        "overview": "A father seeks revenge from a gang of thugs who raped his daughter and murdered his son.",
+        "popularity": 11.815,
+        "poster_path": "/5uuM4eRICCix2niNH05CXgUkYTY.jpg",
+        "release_date": "1980-11-29",
+        "title": "The Beasts",
+        "video": false,
+        "vote_average": 5.625,
+        "vote_count": 8
+    }
+]

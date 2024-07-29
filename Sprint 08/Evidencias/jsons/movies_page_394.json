@@ -1,0 +1,391 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 431817,
+        "original_language": "ja",
+        "original_title": "人間標的",
+        "overview": "At midnight, Yamabe, a killer, escapes from prison. Two years before, bribed by a narcotic smuggler, Yamabe killed a real estate broker. As he was being arrested by detective Negoro, the detective's bullet struck Sakuko, Yamabe's girl friend who attempted to protect him, and crippled her. When Yamabe was sent to prison, Negoro cared for her and they fell in love. Sakuko asked him to marry her, but Negoro was reluctant to take the killer's sweetheart from him. Learning of the relationship of his girl friend and the detective, Yamabe had pledged revenge.",
+        "popularity": 8.385,
+        "poster_path": "/nC5OSzuKT78uhpqWfYbW7xA0YaY.jpg",
+        "release_date": "1971-09-15",
+        "title": "Human Target",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zCdsKobaflrssMl6vbngGFQX9lJ.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80,
+            53
+        ],
+        "id": 419140,
+        "original_language": "nl",
+        "original_title": "Dode Hoek",
+        "overview": "Dode Hoek (Blind Spot) is the story of Jan Verbeeck, the uncompromising commissioner of the Antwerp drug squad. Known as Mr. Zero Tolerance, he is hugely popular with the people and the media. The country is thrown into commotion when he announces that he is leaving the police force just before the elections to join the extreme right party, VPV. On his last day as a policeman, he leads an investigation that takes him to Charleroi where a raid on a drug lab sets in motion a series of unforeseeable and fatal events.",
+        "popularity": 8.385,
+        "poster_path": "/weEzhYAyNFxSgGX32q0pScw8YP2.jpg",
+        "release_date": "2017-01-25",
+        "title": "The Blind Spot",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/daiY8KJWfAL9WfvnYELphzYvIoE.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 40767,
+        "original_language": "en",
+        "original_title": "No Man of Her Own",
+        "overview": "A penniless pregnant woman adopts the identity of a rich woman killed in a train crash.",
+        "popularity": 8.385,
+        "poster_path": "/pYJukaE6s3AwHXJ1pQl8PEVlozx.jpg",
+        "release_date": "1950-02-21",
+        "title": "No Man of Her Own",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j7TuheYpxxZGpW6bKaAut8DTU7S.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 42821,
+        "original_language": "en",
+        "original_title": "The Florentine Dagger",
+        "overview": "A playwright descended from the Borgia family becomes a murder suspect.",
+        "popularity": 8.384,
+        "poster_path": "/uqnfjll293cUtEnKmvBM8Ne9x25.jpg",
+        "release_date": "1935-03-30",
+        "title": "The Florentine Dagger",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 326697,
+        "original_language": "en",
+        "original_title": "A Tattered Web",
+        "overview": "A detective discovers his son-in-law is cheating on his wife. He confronts the other woman and accidentally kills her, then tries to pin the crime on a local derelict.",
+        "popularity": 8.383,
+        "poster_path": "/sIUOI4OLYjXqSm8LrzLD9RbKaLR.jpg",
+        "release_date": "1971-09-24",
+        "title": "A Tattered Web",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1150575,
+        "original_language": "en",
+        "original_title": "Lips Like Sugar",
+        "overview": "Taking place during the 1984 Los Angeles Olympics, this coming-of-age thriller is framed against the backdrop of West Los Angeles' punk and skateboard culture.",
+        "popularity": 8.382,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Lips Like Sugar",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 156443,
+        "original_language": "en",
+        "original_title": "Night Beat",
+        "overview": "A young couple finds themselves mixed up with mobsters planning to rob a warehouse.",
+        "popularity": 8.381,
+        "poster_path": "/zcaqnF6TFOXqtnHd343h17HHwkd.jpg",
+        "release_date": "1931-12-26",
+        "title": "Night Beat",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uzspy9xPDuMr9zikSaBlCltVEWq.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 474999,
+        "original_language": "en",
+        "original_title": "Contraband Spain",
+        "overview": "An FBI agent goes to the French-Spanish border to round up some smugglers and counterfeiters after his brother is murdered.",
+        "popularity": 8.38,
+        "poster_path": "/acMM0daynRNQdjcl2EqX6rx7sk2.jpg",
+        "release_date": "1955-03-15",
+        "title": "Contraband Spain",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dd7ziKMDtXhH11jiJxPiVIUubsi.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 636919,
+        "original_language": "en",
+        "original_title": "El Coyote",
+        "overview": "The Italian mafia takes on the Mexican cartel on the Mexican border. The cartel has captured the son of an ex-mobster in witness protection. He calls on his mob buddies to come to Arizona to help him.",
+        "popularity": 8.379,
+        "poster_path": "/kMNF02tJ515dSTNVPxEYrc1vnos.jpg",
+        "release_date": "2019-10-04",
+        "title": "El Coyote",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 320994,
+        "original_language": "ja",
+        "original_title": "俺たちの明日",
+        "overview": "At a pawn shop called \"K\" which is known for being a place where backroom deals are conducted, a professional burglar named Ryo Fudo puts together a team with the aim of stealing a legendary cache of gold. Ryo plans to wash his hands of thievery once and for all after this one final job, but conflicting intentions and betrayal soon complicate the situation.",
+        "popularity": 8.378,
+        "poster_path": "/tbDN8Mwq6ZjetqWKcgBfrTvZrSX.jpg",
+        "release_date": "2014-04-05",
+        "title": "Our Tomorrow",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dW7bvYgyR2KdYzCs3cEtaoL3mM2.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 182311,
+        "original_language": "cn",
+        "original_title": "省港旗兵第三集",
+        "overview": "Michal Mak's second sequel to his brother's action classic finds an ex-soldier/escaped death row prisoner fleeing to Hong Kong and forced to work for a gang of criminals when they kidnap the woman he loves.",
+        "popularity": 8.378,
+        "poster_path": "/3crP6Yy5j2XLKFxB6WwrhqXbVQA.jpg",
+        "release_date": "1989-01-12",
+        "title": "Long Arm of the Law III",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9Rv5XZGi83SK659guCw30X39fTg.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 74919,
+        "original_language": "pl",
+        "original_title": "Pitbull",
+        "overview": "Police officers from the Warsaw Homicide Department are trying to arrest a dangerous Armenian criminal.",
+        "popularity": 8.376,
+        "poster_path": "/nsYAQKRssp1LO2hA6jysA2IRNp1.jpg",
+        "release_date": "2005-04-09",
+        "title": "Pitbull",
+        "video": false,
+        "vote_average": 6.585,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sLeFt0ndJCPSoq9QsPWvOG3je0z.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 34652,
+        "original_language": "en",
+        "original_title": "Drive a Crooked Road",
+        "overview": "A mechanic gets caught up with the mob when he falls for a gangster's girlfriend.",
+        "popularity": 8.376,
+        "poster_path": "/pdwuPI6KdFFyy2cl22ESucnRmFq.jpg",
+        "release_date": "1954-03-10",
+        "title": "Drive a Crooked Road",
+        "video": false,
+        "vote_average": 6.138,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xCP0KNcG4KYbkErsIZRYCeMdzgl.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 1189796,
+        "original_language": "en",
+        "original_title": "Bad Romance: The Vicky White Story",
+        "overview": "Every day for divorced (Wendi McLendon-Covey) is like the movie Groundhog Day – mundane and every day just like the previous. But when new prisoner Casey White (Rossif Sutherland) is brought to her facility, the two develop a secret infatuation. Vicky gives Casey special attention, believing he’s the only man to see her the way she wants to be seen. But when Casey’s inevitable transfer to a lengthy prison sentence approaches, Vicky decides to take desperate action. Risking everything, Vicky manages to break Casey out of jail and takes him on the run, eluding authorities on an eleven-day dash for freedom. For Vicky, even the probable tragedy ahead of them is worth the chance to live life fully once more.",
+        "popularity": 8.375,
+        "poster_path": "/m6s4UIeGYWDuD23iNTPiUmXfrpK.jpg",
+        "release_date": "2023-10-21",
+        "title": "Bad Romance: The Vicky White Story",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bEFGvVeJAPal4At8SLof9IjMix0.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 64667,
+        "original_language": "ja",
+        "original_title": "混血児リカ",
+        "overview": "First film of a trilogy following the dramatic life of Rika, a half-Japanese/half-American woman who becomes the tough-as-nails leader of an all-girl crime gang.",
+        "popularity": 8.373,
+        "poster_path": "/hby7mwzlZWDhIoDpZCXZbSuQZca.jpg",
+        "release_date": "1972-11-26",
+        "title": "Rika: The Mixed-Blood Girl",
+        "video": false,
+        "vote_average": 4.833,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iPKoEwpH6kHycI2Jelzc2aVqnm7.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53,
+            80
+        ],
+        "id": 673732,
+        "original_language": "te",
+        "original_title": "వకీల్ సాబ్",
+        "overview": "Three girls find themselves accused of attempt to murder after escaping molestation. Their only hope is an alcoholic lawyer who agrees to take up the case.",
+        "popularity": 8.371,
+        "poster_path": "/zYRMcJi92KcEdwRH1eTFg39gKt0.jpg",
+        "release_date": "2021-04-09",
+        "title": "Vakeel Saab",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jLhoX3OmgjgYP13blsGlJkFaF1n.jpg",
+        "genre_ids": [
+            53,
+            35,
+            80
+        ],
+        "id": 304755,
+        "original_language": "hi",
+        "original_title": "Khiladi 420",
+        "overview": "Wealthy, world-wide business-man Shyam Prasad Bharadwaj would like to get his only daughter, Rittu marry to his business-partner Dev Kumar Malhotra. But what Shyam is unaware of is Dev is not what he claims to be but merely a con-man who is in debt with local gangsters and to worsen matters he plans to do away with the entire Bharadwaj family so that he can embezzle their property and estate.",
+        "popularity": 8.371,
+        "poster_path": "/2Ce13mjQLfwu5GNSA78vmEXuOw1.jpg",
+        "release_date": "2000-12-29",
+        "title": "Khiladi 420",
+        "video": false,
+        "vote_average": 4.857,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/srjGWqGZfd6a38wHuJFztSYjHXV.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648
+        ],
+        "id": 105113,
+        "original_language": "it",
+        "original_title": "Il sorriso della iena",
+        "overview": "After the death of her mother under strange circumstances, a teenage girl quickly begins to suspect that her recently widowed stepfather may be involved.",
+        "popularity": 8.37,
+        "poster_path": "/nQvxa52f9PhBwd0kGquuZjDptIN.jpg",
+        "release_date": "1972-05-03",
+        "title": "Smile Before Death",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 316748,
+        "original_language": "cn",
+        "original_title": "救薑刑警",
+        "overview": "When a headless body is found in the trunk of his car, an undercover cop teams up with a coroner in order to clear his name.",
+        "popularity": 8.368,
+        "poster_path": "/qJkXkL6dxaED6TyvEoEq3AfRY8i.jpg",
+        "release_date": "2000-11-03",
+        "title": "Clean My Name, Mr. Coroner!",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kKLtktekDqHjedBq28tZSKdvmgg.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            28
+        ],
+        "id": 208156,
+        "original_language": "en",
+        "original_title": "The Green Archer",
+        "overview": "The struggle over the Bellamy estate ends with Michael Bellamy accused of murder and killed on the way to prison, while his brother Abel Bellamy takes control of the estate for his own nefarious plans.",
+        "popularity": 8.367,
+        "poster_path": "/wFRUfQFy5hcaRlx2Gt9o59y6wer.jpg",
+        "release_date": "1940-10-25",
+        "title": "The Green Archer",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 5
+    }
+]

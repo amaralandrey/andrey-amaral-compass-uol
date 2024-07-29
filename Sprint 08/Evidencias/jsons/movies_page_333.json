@@ -1,0 +1,392 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/dbYEoUDMxMhHFQOBVptjYT46D4c.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 35007,
+        "original_language": "en",
+        "original_title": "It Always Rains on Sunday",
+        "overview": "During a rainy Sunday afternoon, an escaped prisoner tries to hide out at the home of his ex-fiance.",
+        "popularity": 9.643,
+        "poster_path": "/545TEkJNPHEMDFxiIlAsm3oGtK9.jpg",
+        "release_date": "1947-11-28",
+        "title": "It Always Rains on Sunday",
+        "video": false,
+        "vote_average": 6.518,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eQaoFaDSXbTGi7fZHRIV2D3wxt6.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 12814,
+        "original_language": "it",
+        "original_title": "Pianese Nunzio, 14 anni a maggio",
+        "overview": "A young priest crusades against organized crime in his Naples neighbourhood but falls in love with a 13-year-old boy. It's the chance the gangsters were waiting for to get rid of the thorn in their side. Will they be able to force the boy to accuse the priest of sexual harassment and have his reputation destroyed?",
+        "popularity": 9.642,
+        "poster_path": "/f6PG7AwtlnIgjyDZWdbgM45x6dU.jpg",
+        "release_date": "1996-09-05",
+        "title": "Sacred Silence",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xHvT7ycpSknA7WpolifFCd5EOv2.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 421365,
+        "original_language": "el",
+        "original_title": "Έτερος Εγώ",
+        "overview": "A lonely criminology professor attempts to solve the mystery behind five murders by decoding the puzzle of five Pythagorean theorems, in a crime story that features renowned French actor François Cluzet in a key-role.",
+        "popularity": 9.64,
+        "poster_path": "/ziCrtoAeCDq2NqB2Yo2oBCwz5PE.jpg",
+        "release_date": "2017-01-19",
+        "title": "The Other Me",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 80
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xDngJiz1hubYRexbf35G8ec2XME.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 46001,
+        "original_language": "it",
+        "original_title": "Delitto al ristorante cinese",
+        "overview": "The officer Nico Giraldi investigates a homicide which has taken place in a Chinese restaurant in Rome. His wife and his son are kidnappeded by the murderer in the course of the inquiry. In the end the case is worked out.",
+        "popularity": 9.638,
+        "poster_path": "/4Y00yghlm2cXCmriRRV0BVSqgts.jpg",
+        "release_date": "1981-11-19",
+        "title": "Crime at the Chinese Restaurant",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dSx6DXngFCGwWGvG35XV5WnQZjD.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 47574,
+        "original_language": "en",
+        "original_title": "The Monkey's Mask",
+        "overview": "A lesbian private detective dives head first into murder, manipulation and the consuming power of sex.",
+        "popularity": 9.637,
+        "poster_path": "/ndjld6gVqYxsdxG99hnNjwWVZDk.jpg",
+        "release_date": "2001-05-10",
+        "title": "The Monkey's Mask",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zql09hhN4uvE1CILHDN8eKJFN0r.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 728113,
+        "original_language": "de",
+        "original_title": "Und morgen die ganze Welt",
+        "overview": "Luisa, a 20-year-old law student, joins a cell of the Antifa group when she and her friends Alfa and Lenor get to know about an upcoming attack planned by a local neo-Nazi gang. As they try to find out more, the three youngsters delve deeper into the scene linked to right-wing movements and their political connections, to the point where they will understand how much they are willing to go further, in order to defend their own beliefs.",
+        "popularity": 9.636,
+        "poster_path": "/nSDeAYpdDGMNJPLPyPF2bB9f5Af.jpg",
+        "release_date": "2021-10-07",
+        "title": "And Tomorrow the Entire World",
+        "video": false,
+        "vote_average": 6.094,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1MiXH6CzhT526mGZXvCkR7yDrhj.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            27
+        ],
+        "id": 412057,
+        "original_language": "cn",
+        "original_title": "怪談之魔鏡",
+        "overview": "The grandson of a rich widow returns to Hong Kong with his girlfriend. They are charmed by an antique mirror at the grandmother's home. The mirror used to belonged to a famous courtesan in ...",
+        "popularity": 9.635,
+        "poster_path": "/4fqGVXMEI4VQP9aJOXhf0GK18Rn.jpg",
+        "release_date": "1999-09-16",
+        "title": "The Mirror",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uB8jyu96JRAArpahMDvFsA777W9.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 253285,
+        "original_language": "en",
+        "original_title": "After the Fall",
+        "overview": "Bill Scanlin loses his job and embarks on a life of crime. As Bill stays ahead of the law, he discovers that sometimes the only thing worse than getting caught is getting away with it.",
+        "popularity": 9.633,
+        "poster_path": "/yjW3KfJ8JSSwZPV1ZK0bn5pLLPf.jpg",
+        "release_date": "2014-02-09",
+        "title": "After the Fall",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2AOZ3cfN4GhbqJv6CzV82owwKes.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 101740,
+        "original_language": "ja",
+        "original_title": "いのちぼうにふろう",
+        "overview": "The story takes place in feudal Japan, when any commerce with the rest of the world was strictly prohibited. An idealist suddenly appears in an isolated inn (the one that the title refers to), the head-quarters of a group of smugglers, with stolen money intended to ransom his loved one who is forced to work in a brothel.",
+        "popularity": 9.632,
+        "poster_path": "/uEPlD1sxQP7656Q4HnavGhb7UNm.jpg",
+        "release_date": "1971-09-11",
+        "title": "Inn of Evil",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 28322,
+        "original_language": "it",
+        "original_title": "Vacanze per un massacro",
+        "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
+        "popularity": 9.631,
+        "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
+        "release_date": "1980-03-20",
+        "title": "Madness",
+        "video": false,
+        "vote_average": 4.929,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qWDB5dqSMTHGbywBUTRfOTfXGIy.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            80
+        ],
+        "id": 854397,
+        "original_language": "zh",
+        "original_title": "小光",
+        "overview": "Light was sexually assaulted by his stepfather and always lacked love in his childhood. After his mother — his only blood relative—was killed, he could no longer escape and was forced into prostitution. One day, he meets a new client who beats him up on the street. Shuo is an undercover cop trying to reach the drug cartel’s boss by working at a tailor shop. During a mission, Light catches his eye. He brings back the unconscious Light and provides him with shelter. But can Light really face his trauma and live with it? Or will he eventually go back to the streets and keep pursuing false love from clients?",
+        "popularity": 9.63,
+        "poster_path": "/qlz1SEJvRNv7sE2T8MFTFOOX2uG.jpg",
+        "release_date": "2021-08-13",
+        "title": "Light",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4lRe6MUBc6NW3HRxLYjtEnwdju5.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 47250,
+        "original_language": "en",
+        "original_title": "The Big House",
+        "overview": "Convicted of manslaughter for a drunken driving accident, Kent Marlowe is sent to prison, where he meets vicious incarcerated figures who are planning an escape from the brutal conditions.",
+        "popularity": 9.628,
+        "poster_path": "/qVf7Dpgx0sdDkZEn4CwTYethoMp.jpg",
+        "release_date": "1930-06-14",
+        "title": "The Big House",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3yBxddzp1P3pJDzIamRdOkpHgMH.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 100064,
+        "original_language": "en",
+        "original_title": "The Happy Thieves",
+        "overview": "A suave art thief romances a wealthy duchess, only to enable him to steal a priceless painting from her collection. Complications ensue.",
+        "popularity": 9.626,
+        "poster_path": "/sbo93zvtjkQbATGzPalbSbrr1Cd.jpg",
+        "release_date": "1961-12-20",
+        "title": "The Happy Thieves",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d4wpyvWPsoSqViHFhUVQGeRS5mf.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 500971,
+        "original_language": "ta",
+        "original_title": "அடங்க மறு",
+        "overview": "A sincere cop, who's suspended from the department for locking horns with a few influential people in the society, starts taking revenge against those who finished off his dear ones.",
+        "popularity": 9.624,
+        "poster_path": "/favl3yUhjCC5BkR86IGtBR52TnH.jpg",
+        "release_date": "2018-12-21",
+        "title": "Adanga Maru",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gWo7NhrI5p8EQvG3eN3CtOowi3r.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 800368,
+        "original_language": "tl",
+        "original_title": "On the Job: The Missing 8",
+        "overview": "Inspired by true events, the film chronicles the story of Sisoy Salas, a corrupt journalist seeking justice for his colleagues, and convict Roman Rubio, a hired gun who is regularly brought out of prison to perform assassinations.",
+        "popularity": 9.62,
+        "poster_path": "/iLT5ZK2UL5CYO5KPW2qGP3xxA9D.jpg",
+        "release_date": "2022-11-02",
+        "title": "On the Job: The Missing 8",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3IlkYwqIdinidYuz8tCoa3KrYLQ.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 691688,
+        "original_language": "pl",
+        "original_title": "Kryptonim Nektar",
+        "overview": "A journalist investigates a hot new drink that just hit the market.",
+        "popularity": 9.618,
+        "poster_path": "/lUJrTh7RmtNq8anE5kpEdRCRpiz.jpg",
+        "release_date": "1963-10-11",
+        "title": "Kryptonim Nektar",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cjwHQbuo3y119Rv5KMKrHJsI5x8.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 55911,
+        "original_language": "en",
+        "original_title": "Freight",
+        "overview": "A Russian gang operating in Leeds with no respect for the laws of England, traffic Eastern Europeans in containers then enslave them, the women to sex, the men to illegal fights. They cross local businessman Gabe Taylor and a war escalates, but when his daughter is taken to be sold into the sex trade, Gabe fights back.",
+        "popularity": 9.616,
+        "poster_path": "/5jeZslFWwXcVefCnjlWgnMOpk0I.jpg",
+        "release_date": "2010-10-08",
+        "title": "Freight",
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aruMeacEyebJuzCc7dvfO9GETo3.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 12655,
+        "original_language": "en",
+        "original_title": "I Went Down",
+        "overview": "Fresh out of prison, Git rescues a former best friend (now living with Git's girlfriend) from a beating at the hands of loan sharks. He's now in trouble with the mob boss, Tom French, who sends Git to Cork with another debtor, Bunny Kelly, to find a guy named Frank Grogan, and take him to a man with a friendly face at a shack across a bog. It's a tougher assignment than it seems: Git's a novice, Bunny's prone to rash acts, Frank doesn't want to be found (and once he's found, he has no money), and maybe Tom's planning to murder Frank, which puts Git in a moral dilemma. Then, there's the long-ago disappearance of Sonny Mulligan. What's a decent and stand-up lad to do?",
+        "popularity": 9.616,
+        "poster_path": "/2rApWxlYkiwNZBSC3KJ7WFWWq1T.jpg",
+        "release_date": "1997-10-03",
+        "title": "I Went Down",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p0Pyu9Dds2EQxY97pnjQTU8AOmv.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 53155,
+        "original_language": "it",
+        "original_title": "Il trucido e lo sbirro",
+        "overview": "A cop recruits a criminal and his cohorts to help track down a violent crime lord who has kidnapped the ill daughter of a rich family.",
+        "popularity": 9.614,
+        "poster_path": "/zBSiPhUPKZkIWfPhUPVs0s1Dkuv.jpg",
+        "release_date": "1976-08-27",
+        "title": "Free Hand for a Tough Cop",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            28,
+            80
+        ],
+        "id": 25705,
+        "original_language": "en",
+        "original_title": "Mask of the Ninja",
+        "overview": "In a heavily wooded private estate in the Malibu Hills, towering above the tumbling Pacific, millionaire CEO Kenji Takeo and his daughter, Miko, prepare for the arrival from Japan of Takeo's wife, Kumiko. But the calm of Solstice Canyon is shattered by a meticulously planned stealth attack on the Takeo home by a masked band of ninja assassins.",
+        "popularity": 9.61,
+        "poster_path": "/bCBlWqGAW8rUuBm7v4Czt7nFTVr.jpg",
+        "release_date": "2008-04-26",
+        "title": "Mask of the Ninja",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 14
+    }
+]

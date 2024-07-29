@@ -1,0 +1,412 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/rWXukXMsjE17efJWOTedjfL63VZ.jpg",
+        "genre_ids": [
+            18,
+            53,
+            28,
+            80
+        ],
+        "id": 42855,
+        "original_language": "cn",
+        "original_title": "黑金",
+        "overview": "A gutsy police detecive and his team of cops probe into the widespread illegal dealings of a criminal mastermind who schemes to redeem himself by running for government office in taiwan.",
+        "popularity": 17.138,
+        "poster_path": "/wwZxZzApGeQAmZheTbYCkwFoy1m.jpg",
+        "release_date": "1997-12-23",
+        "title": "Island of Greed",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/croyOm5E0cv5DQkdAx60YLtGg2X.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 406385,
+        "original_language": "it",
+        "original_title": "Smetto quando voglio - Masterclass",
+        "overview": "Pietro Zinni is asked by the police to revive the old gang to create a task force that will stop the spread of smart drugs.",
+        "popularity": 17.127,
+        "poster_path": "/hBQgBWtDym6E7Qem6uhbWJUUHW8.jpg",
+        "release_date": "2017-02-02",
+        "title": "I Can Quit Whenever I Want 2: Masterclass",
+        "video": false,
+        "vote_average": 7.381,
+        "vote_count": 1202
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3wNTNGZqq2kNr6Cd2EmrQ3hKVZV.jpg",
+        "genre_ids": [
+            28,
+            12,
+            16,
+            80,
+            35,
+            10770
+        ],
+        "id": 404532,
+        "original_language": "ja",
+        "original_title": "ルパン三世 イタリアン・ゲーム",
+        "overview": "Lupin investigates the kidnapping of a former love in Italy, and is drawn into a game with an unknown enemy.",
+        "popularity": 17.121,
+        "poster_path": "/pRvQc5LoJvWoZjOpUwwm4MDEi2X.jpg",
+        "release_date": "2016-01-08",
+        "title": "Lupin the Third: Italian Game",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mvHwxn2AZNej9CLLnbTFcHrN5kh.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 9921,
+        "original_language": "en",
+        "original_title": "Shadowboxer",
+        "overview": "Mikey and Rose are professional assassins. They are also lovers, and once upon a time Rose also knew Mikey's father. During an elaborate hit job for a malicious gangster, Rose fails to kill the main target, the gangster's pregnant girlfriend. Instead, she delivers her baby and convinces Mikey to help her protect them both. As Rose weakens from cancer, Mikey becomes breadwinner for this unusual family. But tranquility will not last.",
+        "popularity": 17.119,
+        "poster_path": "/eqXOZ5a3q8AAM8jvNaVQC8PAILk.jpg",
+        "release_date": "2006-07-14",
+        "title": "Shadowboxer",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oMxI0VCdp26C14rf7rjGZsyKXGJ.jpg",
+        "genre_ids": [
+            80,
+            35,
+            18
+        ],
+        "id": 785527,
+        "original_language": "nl",
+        "original_title": "Forever Rich",
+        "overview": "This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie's hard-earned reputation is damaged.",
+        "popularity": 17.111,
+        "poster_path": "/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg",
+        "release_date": "2021-10-01",
+        "title": "Forever Rich",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uLAgNcZjhFegHoZvms8mn9BneJ3.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 43461,
+        "original_language": "en",
+        "original_title": "Odd Man Out",
+        "overview": "Belfast police conduct a door-to-door manhunt for an IRA gunman wounded in a daring robbery.",
+        "popularity": 17.106,
+        "poster_path": "/1xZkTIATlTtyd7Ybphev8ZTmJA0.jpg",
+        "release_date": "1947-01-30",
+        "title": "Odd Man Out",
+        "video": false,
+        "vote_average": 7.347,
+        "vote_count": 183
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4OujD6BpOeXUDAsH5SKJe4f1LeX.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 358762,
+        "original_language": "en",
+        "original_title": "Urban Hymn",
+        "overview": "Set against the backdrop of the 2011 UK summer riots, Jamie, a young female offender who possesses a remarkable voice, meets a determined social worker who inspires her to use it.",
+        "popularity": 17.098,
+        "poster_path": "/cobKEI0pl5KEnFtrQ5hJKcaD2Hh.jpg",
+        "release_date": "2015-09-11",
+        "title": "Urban Hymn",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zlYoYfY6XFdSumfdFUH9PHzX8EX.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80,
+            9648
+        ],
+        "id": 96664,
+        "original_language": "cn",
+        "original_title": "大追捕",
+        "overview": "Inspector Lam investigates the brutal murder of Tsui, a famous musician. Wong, the designated suspect, just spent 20 years in jail for the murder of Tsui's daughter but has always claimed his innocence.",
+        "popularity": 17.097,
+        "poster_path": "/bUbrXzhVKImZsUn7xTfVVUeKeq5.jpg",
+        "release_date": "2012-03-15",
+        "title": "Nightfall",
+        "video": false,
+        "vote_average": 6.402,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1ZeLyPTBzptKICp9yepDMd9bbhK.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80,
+            10749
+        ],
+        "id": 56485,
+        "original_language": "ko",
+        "original_title": "주홍글씨",
+        "overview": "A cop's desire for love gets in the way of his job and his professional life. Secret love affairs begin to dangerously collide as he gets assigned to a new homicide case.",
+        "popularity": 17.097,
+        "poster_path": "/kKX61echirKRwARuxp6HcAeTMq9.jpg",
+        "release_date": "2004-10-28",
+        "title": "The Scarlet Letter",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/84HkZ8cK3EB1GNe6zPwnYz40Ql6.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 25688,
+        "original_language": "en",
+        "original_title": "Pitfall",
+        "overview": "An insurance man wishing for a more exciting life becomes wrapped up in the affairs of an imprisoned embezzler, his model girlfriend, and a violent private investigator.",
+        "popularity": 17.087,
+        "poster_path": "/3tBedVxTTFfP4IE1JtuANZOvk4G.jpg",
+        "release_date": "1948-08-11",
+        "title": "Pitfall",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lJlcivWSN00dbWWb5IKJutyQd9Z.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 14399,
+        "original_language": "es",
+        "original_title": "Matando Cabos",
+        "overview": "Two young men get involved with some criminals while trying to free the tycoon they kidnapped.",
+        "popularity": 17.078,
+        "poster_path": "/xhWkFmF2qjDBJByEdekySdXls0R.jpg",
+        "release_date": "2004-07-16",
+        "title": "Killing Cabos",
+        "video": false,
+        "vote_average": 7.86,
+        "vote_count": 146
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/upROP4YDtNVwnlJGwOOwF1W8zJr.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 190794,
+        "original_language": "cn",
+        "original_title": "制服誘惑2：地下法庭",
+        "overview": "Five women seek revenge against their rapists. Can they get to him before he can strike back?",
+        "popularity": 17.074,
+        "poster_path": "/7YZTA4eQBRdMq8VTMqSk3fkPnBP.jpg",
+        "release_date": "2000-03-10",
+        "title": "Raped by an Angel 5: The Final Judgement",
+        "video": false,
+        "vote_average": 3.667,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A3XTaySQAI6p18XSKCEgRbitBwB.jpg",
+        "genre_ids": [
+            16,
+            28,
+            53,
+            80
+        ],
+        "id": 543033,
+        "original_language": "hu",
+        "original_title": "Ruben Brandt: A Gyűjtő",
+        "overview": "Psychotherapist Ruben Brandt becomes the most wanted criminal in the world when he and four of his patients steal paintings from the world's most renowned museums and art collections.",
+        "popularity": 17.07,
+        "poster_path": "/4WwBf5Lex1XUQfS1nREp2a2JZsc.jpg",
+        "release_date": "2018-06-22",
+        "title": "Ruben Brandt, Collector",
+        "video": false,
+        "vote_average": 7.43,
+        "vote_count": 142
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7biTTVIMdsydFIQbRItEbVHyAgd.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            878
+        ],
+        "id": 1235727,
+        "original_language": "en",
+        "original_title": "Hubcap",
+        "overview": "Rainy Lawson, has her hands full trying to fill her daddy's shoes as Sheriff in the conservative mountain county of Gibson, Georgia. Her life gets more complicated when reports surface of a supernatural killer, rumored to be a hubcap. Can Rainy keep at bay her political opponents, unravel the mystery of the hubcap killings, honor the memory of her father, navigate advances of her many suitors, all while coping with the PTSD from her military service?",
+        "popularity": 17.064,
+        "poster_path": "/sisiTZbdprwvDLZlo4kXytzTXkF.jpg",
+        "release_date": "2023-10-30",
+        "title": "Hubcap",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zluy2WXlLamRPHe8OaTFShRfrmY.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 29492,
+        "original_language": "en",
+        "original_title": "Reform School Girls",
+        "overview": "Jenny is sent to a women's reform school. It is run by evil warden Sutter and her henchwoman Edna. Jenny will stop at nothing to escape but she also has to deal with Charlie the bully.",
+        "popularity": 17.06,
+        "poster_path": "/pwtTbHugm3kqM5YWIXjaXjsm8iq.jpg",
+        "release_date": "1986-08-22",
+        "title": "Reform School Girls",
+        "video": false,
+        "vote_average": 5.815,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v0sPbGwxAbXWOdOSb6BjxN1oEri.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 71142,
+        "original_language": "en",
+        "original_title": "One Good Cop",
+        "overview": "When his partner is killed in the line of duty, Artie Lewis becomes the legal guardian of his three orphaned girls. But during his investigation of the case, Lewis finds his life – and that of his newfound family – on the line. That's when the guilty crime-lord comes face to face with one man's rage, one man's fury, one man's justice.",
+        "popularity": 17.058,
+        "poster_path": "/iGhP7xi3Dm7dDgg7JbnQvTPBgYw.jpg",
+        "release_date": "1991-05-03",
+        "title": "One Good Cop",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 85
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pt2zfjKf8vAOi7yd40HnewTNJyN.jpg",
+        "genre_ids": [
+            37,
+            80,
+            18,
+            10749
+        ],
+        "id": 754452,
+        "original_language": "en",
+        "original_title": "The Last Manhunt",
+        "overview": "In 1909, Willie Boy and his love Carlota go on the run after he accidentally shoots her father in a confrontation gone terribly wrong. With President Taft coming to the area, the local sheriff leads two Native American trackers seeking justice for their “murdered” tribal leader.",
+        "popularity": 17.046,
+        "poster_path": "/95Bn6HZBBJcG7LOBMAzNH0gmLih.jpg",
+        "release_date": "2022-11-18",
+        "title": "The Last Manhunt",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rtAW7KxJREyVFtnNSXlviU9Wu7w.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 484889,
+        "original_language": "en",
+        "original_title": "Rise of the Footsoldier 3: The Pat Tate Story",
+        "overview": "Notorious gangster, Pat Tate, rises through the ranks of Essex's criminal underworld. A prequel to the 'Rise of the Footsoldier' franchise.",
+        "popularity": 17.04,
+        "poster_path": "/1LgOIQNpTfWKY3wizRrQ6CvNAXK.jpg",
+        "release_date": "2017-11-03",
+        "title": "Rise of the Footsoldier 3: The Pat Tate Story",
+        "video": false,
+        "vote_average": 6.472,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c1pNEDqMS9YfDxYHEMaxK6wEDSh.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 41495,
+        "original_language": "en",
+        "original_title": "Johnny Eager",
+        "overview": "A charming racketeer seduces the DA's stepdaughter for revenge, then falls in love.",
+        "popularity": 17.036,
+        "poster_path": "/eT56vNkYEHo1rv4xhtI3aJLKuUp.jpg",
+        "release_date": "1941-12-09",
+        "title": "Johnny Eager",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u053lcYSVvHVDjVgzl1g4tiJY3b.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28,
+            9648
+        ],
+        "id": 262137,
+        "original_language": "cn",
+        "original_title": "竊聽風雲 3",
+        "overview": "Law was a chauffeur for the rural tycoon Luk, and he was jailed for killing a major land owner in a car accident. It was rumored that Luk was behind the land owner’s death, which gave Luk a competitive edge in the native apartment development deal. When Law gets out of prison five years later, the world has changed. Luk’s corporation has grown more powerful, while Luk’s right-hand man Keung has his own agenda to pursue. But things take a surprising turn.  With the help of Law’s prison mate and computer whiz Joe, Law drugs Sean and his brothers in the drinks, then modify their mobile phones for wiretapping,  Joe gets acquainted with the materialistic single mom Eva, who turns out to have a dark history with both Law and Keung. Through the eavesdropping, Law realizes Keung’s ultimate plan, which may change Hong Kong’s land development forever.",
+        "popularity": 17.033,
+        "poster_path": "/tkJhOE9oVBAoAdNlifsOx8hhE61.jpg",
+        "release_date": "2014-05-30",
+        "title": "Overheard 3",
+        "video": false,
+        "vote_average": 5.843,
+        "vote_count": 51
+    }
+]

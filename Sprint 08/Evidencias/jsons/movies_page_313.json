@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/btCHqzjZgzggZ5k1mHx5Sq8t8kC.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 32303,
+        "original_language": "en",
+        "original_title": "\"Mitchell\"!",
+        "overview": "A tough-guy cop pursues two drug runners across the city to bust a large syndicate.  Very much an anti-hero, Mitchell often ignores the orders of his superiors and demonstrates disdain for by-the-book development work as well as normal social graces.",
+        "popularity": 10.136,
+        "poster_path": "/14Afu2In8RPbdhTacNJl5kRechp.jpg",
+        "release_date": "1975-09-10",
+        "title": "\"Mitchell\"!",
+        "video": false,
+        "vote_average": 3.2,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tbXgOfFfyVK1hexQlqtQnTizbl.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 24771,
+        "original_language": "sv",
+        "original_title": "Beck - Spår i mörker",
+        "overview": "A serial killer that decapitates people is on the loose in the Stockholm subway. Martin Beck and his colleagues try to catch the killer, while the panic in the city increases.",
+        "popularity": 10.135,
+        "poster_path": "/jxa9dGau4do2L9EJlOSBkYiipvV.jpg",
+        "release_date": "1998-09-19",
+        "title": "Beck 08 - Trails in Darkness",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hpze04ypaOpiErQaCOLqSzbaarv.jpg",
+        "genre_ids": [
+            80,
+            53,
+            37,
+            9648,
+            28
+        ],
+        "id": 866254,
+        "original_language": "en",
+        "original_title": "The Last Victim",
+        "overview": "Set in the American Southwest, Sheriff Hickey tries to solve the worst case he has seen in his small town, likely caused by a violent local gang led by a fearsome criminal.",
+        "popularity": 10.134,
+        "poster_path": "/lkMotc2mM4VuJmMPWUkZ8niEFbP.jpg",
+        "release_date": "2022-05-13",
+        "title": "The Last Victim",
+        "video": false,
+        "vote_average": 5.146,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rd2lUDdcDf5Kfsk7XpXsVodmFVE.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 79129,
+        "original_language": "en",
+        "original_title": "Crime School",
+        "overview": "In the slums, teenager Frankie Warren hangs out with a rowdy gang who one day knock him out in a fight. In court, the boys refuse to reveal who struck the knockout blow, and all are subsequently sentenced to a reformatory, cruelly run by two corrupt guards. New deputy commissioner Mark Braden arrives determined to change things, but despite the help of Frankie's sister, Mark's reform plans -- and Frankie's future -- may be sabotaged from within.",
+        "popularity": 10.133,
+        "poster_path": "/711a1AAfFQ5IVlCLUQHWCdI68Pd.jpg",
+        "release_date": "1938-05-10",
+        "title": "Crime School",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pv9bexe3zR7x1EFcjKIih4gNgj6.jpg",
+        "genre_ids": [
+            53,
+            10770,
+            80
+        ],
+        "id": 116214,
+        "original_language": "en",
+        "original_title": "Popeye Doyle",
+        "overview": "While Popeye Doyle is investigating what appears to be a very simple drug overdose, he becomes involved in international intrigue. The Mosad and various other foreign diplomatic figures turn up everywhere he goes. The drug overdose becomes a very involved murder case.",
+        "popularity": 10.132,
+        "poster_path": "/30ZbqYZbED70vzuFaBmbGzs5mmW.jpg",
+        "release_date": "1986-01-01",
+        "title": "Popeye Doyle",
+        "video": false,
+        "vote_average": 4.222,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4Pq4HbWGxHj0KGpzuYsQOYZyZ6.jpg",
+        "genre_ids": [
+            10770,
+            27,
+            9648,
+            80
+        ],
+        "id": 32021,
+        "original_language": "en",
+        "original_title": "The Night Strangler",
+        "overview": "After being run out of Las Vegas, reporter Carl Kolchak heads for Seattle and another reporting job with the local paper. It's not long before he is on the trail of another string of bizarre murders. It seems that every 21 years, for the past century, a killer kills a certain number of people, drains them of their blood and then disappears into the night. Kolchak is on his trail, but can he stop him?",
+        "popularity": 10.128,
+        "poster_path": "/xp3rvEEb9PsCBYeF6swCE7aIlMN.jpg",
+        "release_date": "1973-01-16",
+        "title": "The Night Strangler",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 71
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2dZTKhUhkT4LwBHKelaYcaKMe12.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1109715,
+        "original_language": "en",
+        "original_title": "The Jewel Thief",
+        "overview": "Gerald Blanchard's surprising, first-hand account as a calculating and accomplished criminal mastermind. Two unlikely detectives track him worldwide as he commits increasingly elaborate heists in a quest for fame.",
+        "popularity": 10.124,
+        "poster_path": "/uXkcAw1vbLpPgW5G1C9jiW3zgRI.jpg",
+        "release_date": "2023-07-13",
+        "title": "The Jewel Thief",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6nB5Gd7O2ns3xJXss5mPcAKxidk.jpg",
+        "genre_ids": [
+            10751,
+            28,
+            35,
+            80
+        ],
+        "id": 65156,
+        "original_language": "en",
+        "original_title": "The North Avenue Irregulars",
+        "overview": "When crooks set up operations in a traditional town, a minister and a group of church ladies are willing to do anything, no matter how wacky, to get them out.",
+        "popularity": 10.119,
+        "poster_path": "/gyEaTIil42yWyLoYVKzWJWzDN9J.jpg",
+        "release_date": "1979-02-09",
+        "title": "The North Avenue Irregulars",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nRPpHZN77pGSxyi62jF5QP2a7VU.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 1016270,
+        "original_language": "ko",
+        "original_title": "그녀의 취미생활",
+        "overview": "Jeong-in, who recently divorced a violent husband, moves back to her hometown. While suffering from nosy villagers, she is soon drawn to Hye-jung, a newcomer to the town. Two young women soon get closer and Hye-jung’s freewheeling and confident character inspires Jeong-in to break free of her wretched life. One day, Hye-jung suggests Jeong-in share a ‘hobby’ with her, and now their bloody hobby is about to begin.",
+        "popularity": 10.117,
+        "poster_path": "/zNMijPPq29r1Ui1EH2tp0CbuSp5.jpg",
+        "release_date": "2023-08-30",
+        "title": "Her Hobby",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hzMLpqgVYqmoju6XYk3u698ZaYx.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 88631,
+        "original_language": "zh",
+        "original_title": "洪拳小子",
+        "overview": "A penniless bumpkin from the country who fights his way to quick riches in the city as an enforcer for a textile factory that's threatened by a competitor.",
+        "popularity": 10.115,
+        "poster_path": "/AbTrTGJcDOgqcES3lgBg20QgnsG.jpg",
+        "release_date": "1975-06-28",
+        "title": "Disciples of Shaolin",
+        "video": false,
+        "vote_average": 6.722,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hjzsy6UWzmdlDGxvWVvwCDwRfwQ.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 52808,
+        "original_language": "it",
+        "original_title": "Roma a mano armata",
+        "overview": "A tough, violent cop who doesn't mind bending the law goes after a machine-gun-carrying, hunchbacked psychotic killer.",
+        "popularity": 10.115,
+        "poster_path": "/dRJZ313alDx2BIFRNo0lPI5w9gh.jpg",
+        "release_date": "1976-10-10",
+        "title": "Rome, Armed to the Teeth",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1Rk9IgG11ZIi5LMA4rR7pedR3PK.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 46510,
+        "original_language": "en",
+        "original_title": "The High Sign",
+        "overview": "Buster is thrown off a train near an amusement park. There he gets a job in a shooting gallery run by the Blinking Buzzards mob. Ordered to kill a businessman, he winds up protecting the man and his daughter by outfitting their home with trick devices.",
+        "popularity": 10.115,
+        "poster_path": "/tG24eorlAS60KcXly8fskOLklQg.jpg",
+        "release_date": "1921-04-18",
+        "title": "The High Sign",
+        "video": false,
+        "vote_average": 7.115,
+        "vote_count": 104
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zMssI24U5lksUxPMST84bPUa8VW.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10770
+        ],
+        "id": 125332,
+        "original_language": "en",
+        "original_title": "Blindfold: Acts of Obsession",
+        "overview": "A therapist turns an unhappy wife on to a deadly fantasy game with her husband.",
+        "popularity": 10.114,
+        "poster_path": "/5D1NTYO9kqKAUypG1AB8n1d11Dt.jpg",
+        "release_date": "1994-05-20",
+        "title": "Blindfold: Acts of Obsession",
+        "video": false,
+        "vote_average": 3.1,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8vE2Niddr5MllRFMJKTz9nlyqvk.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 75471,
+        "original_language": "en",
+        "original_title": "Twisted Desire",
+        "overview": "A teenage girl convinces a young, love-struck ex-con that the only way they can be together is to do away with her domineering parents.",
+        "popularity": 10.114,
+        "poster_path": "/u5oYWIKUxSM20xKQsjG5gfX0JKq.jpg",
+        "release_date": "1996-05-13",
+        "title": "Twisted Desire",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ssHfXldBDgGYBaGNQc9zMWuxy5W.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 5972,
+        "original_language": "en",
+        "original_title": "Witness for the Prosecution",
+        "overview": "Sir Wilfred Robarts, a famed barrister is released from the hospital, where he stayed for two months following his heart attack. Returning to the practise of his lawyer skills, he takes the case of Leonard Vole, an unemployed man who is accused of murdering an elderly lady friend of his, Mrs. Emily French. While Leonard Vole claims he's innocent, although all evidence points to him as the killer, his alibi witness, his cold German wife Christine, instead of entering the court as a witness for the defense, she becomes the witness for the prosecution and strongly claims her husband is guilty of the murder.",
+        "popularity": 10.111,
+        "poster_path": "/A5DSQ5ny6qhdkXZosBnu0FnJruh.jpg",
+        "release_date": "1982-12-04",
+        "title": "Witness for the Prosecution",
+        "video": false,
+        "vote_average": 5.962,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l6IMuxPLRS9u2Il1MCz9Eb7NaI.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 1006463,
+        "original_language": "ta",
+        "original_title": "கடாவர்",
+        "overview": "A pathologist and a police commissioner try to solve a series of murders involving a prisoner. Their journey leads to shocking revelations!",
+        "popularity": 10.11,
+        "poster_path": "/f7R2AEvAYOUsS5JBFpbZU5915YT.jpg",
+        "release_date": "2022-08-12",
+        "title": "Cadaver",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o08OqLyYZWVPksmJmDyr9TCM7hY.jpg",
+        "genre_ids": [
+            27,
+            80,
+            9648
+        ],
+        "id": 48843,
+        "original_language": "en",
+        "original_title": "The Barber",
+        "overview": "In the small town of Revelstoke, Alaska, local barber Dexter is surprised to learn that the body of Lucy Waters has been discovered. Having killed this woman, days ago, he hoped her body wouldn't be found until spring. Through the eyes of a serial killer, we discover the chilling layer of a weary town whose only concern is another long, dark winter.",
+        "popularity": 10.11,
+        "poster_path": "/31nvWEGvsi6K8An67wNdhuNcj2P.jpg",
+        "release_date": "2002-12-31",
+        "title": "The Barber",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sevJA8SZ0a76sgyNFXJGtt1T8gv.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            27,
+            878
+        ],
+        "id": 42099,
+        "original_language": "ja",
+        "original_title": "FULL METAL 極道",
+        "overview": "After being brutally murdered in a gangster-style execution, Kensuke Hagane finds himself brought back to life by a mad scientist and rebuilt as a robot-human hybrid with a serious thirst for vengeance and the tools to carry it out.",
+        "popularity": 10.109,
+        "poster_path": "/wLYwjhB9cwUAD5j5jeBoT5DkNSW.jpg",
+        "release_date": "1997-12-05",
+        "title": "Full Metal Yakuza",
+        "video": false,
+        "vote_average": 5.922,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zuSgyj7c4lVgeo8qfhuE0WCRvT3.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            80
+        ],
+        "id": 290283,
+        "original_language": "en",
+        "original_title": "Honeytrap",
+        "overview": "Layla, a 15-year-old living in Brixton, London, becomes involved with a gang and must set up a boy to be killed.",
+        "popularity": 10.107,
+        "poster_path": "/ApKymKN7Ka3OZ8ML8mPzsM6o0Vm.jpg",
+        "release_date": "2015-05-08",
+        "title": "Honeytrap",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fTSW2n5gUJnc7PFLxjRsO8QINR0.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 1189773,
+        "original_language": "ja",
+        "original_title": "池袋ウエストゲートパークスープの回",
+        "overview": "This special takes place three years after the end of the original series. Makoto is homeless as a result of his mom selling out their shop and soon becomes involved in a ‘bone smasher’ case, in which someone puts homeless people to sleep and breaks their bones.",
+        "popularity": 10.105,
+        "poster_path": "/8bGulRKhDcT5UMGfhSze9IoXvSv.jpg",
+        "release_date": "2003-03-28",
+        "title": "Ikebukuro West Gate Park SP",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

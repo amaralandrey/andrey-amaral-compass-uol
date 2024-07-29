@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/i28c1bKsnl1O0uqy6HeRWtioOXl.jpg",
+        "genre_ids": [
+            18,
+            80,
+            99
+        ],
+        "id": 489931,
+        "original_language": "en",
+        "original_title": "American Animals",
+        "overview": "Lexington, Kentucky, 2004. Four young men attempt to execute one of the most audacious art heists in the history of the United States.",
+        "popularity": 43.389,
+        "poster_path": "/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg",
+        "release_date": "2018-06-01",
+        "title": "American Animals",
+        "video": false,
+        "vote_average": 6.758,
+        "vote_count": 1061
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/39FIOhhLT8mxvFRD6MaFzXCVgHr.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 82525,
+        "original_language": "en",
+        "original_title": "Savages",
+        "overview": "Pot growers Ben and Chon face off against the Mexican drug cartel who kidnapped their shared girlfriend.",
+        "popularity": 43.373,
+        "poster_path": "/joyiyBwYY5QCpldqT1FzrTqsTJK.jpg",
+        "release_date": "2012-07-06",
+        "title": "Savages",
+        "video": false,
+        "vote_average": 6.354,
+        "vote_count": 2105
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sBB39VMtByFltGGGW2c5N6LOAvj.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 8470,
+        "original_language": "en",
+        "original_title": "John Q",
+        "overview": "John Quincy Archibald is a father and husband whose son is diagnosed with an enlarged heart and then finds out he cannot receive a transplant because HMO insurance will not cover it. Therefore, he decides to take a hospital full of patients hostage until the hospital puts his son's name on the donor's list.",
+        "popularity": 43.26,
+        "poster_path": "/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg",
+        "release_date": "2002-02-15",
+        "title": "John Q",
+        "video": false,
+        "vote_average": 7.107,
+        "vote_count": 2331
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4t8T9NCte10R5CAXVhHDnmkPd3X.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 628914,
+        "original_language": "en",
+        "original_title": "Queenpins",
+        "overview": "Bored and frustrated suburban homemaker Connie and her best pal JoJo, a vlogger with dreams, turn a hobby into a multi-million-dollar counterfeit coupon caper. After firing off a letter to the conglomerate behind a box of cereal gone stale, and receiving an apology along with dozens of freebies, the duo hatch an illegal coupon club scheme that scams millions from mega-corporations and delivers deals to legions of fellow coupon clippers. On the trail to total coupon dominance, a hapless Loss Prevention Officer from the local supermarket chain joins forces with a determined U.S. Postal Inspector in hot pursuit of these newly minted “Queenpins” of pink collar crime.",
+        "popularity": 43.182,
+        "poster_path": "/55uYpBNnlsUE9fCb3Eibx7F4zps.jpg",
+        "release_date": "2021-08-26",
+        "title": "Queenpins",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 405
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rUeqBuNDR9zN6vZV9kpEFMtQm0E.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 499932,
+        "original_language": "en",
+        "original_title": "The Devil All the Time",
+        "overview": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
+        "popularity": 43.17,
+        "poster_path": "/v3wGDRhnik4HSuaMzATkgaqDJLS.jpg",
+        "release_date": "2020-09-11",
+        "title": "The Devil All the Time",
+        "video": false,
+        "vote_average": 7.21,
+        "vote_count": 3246
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yWs9QUP2kamsnfdV4cloxLM5RUw.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 3580,
+        "original_language": "en",
+        "original_title": "Changeling",
+        "overview": "Christine Collins is overjoyed when her kidnapped son is brought back home. But when Christine suspects that the boy returned to her isn't her child, the police captain has her committed to an asylum.",
+        "popularity": 43.161,
+        "poster_path": "/iECXjFF8JkTnNJvik14WbPpc9s9.jpg",
+        "release_date": "2008-10-24",
+        "title": "Changeling",
+        "video": false,
+        "vote_average": 7.598,
+        "vote_count": 4066
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cz1EXa6aRBzrX0q2lByOHo079jI.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 461053,
+        "original_language": "en",
+        "original_title": "S.W.A.T.: Under Siege",
+        "overview": "When a D.E.A. and S.W.A.T. cartel takedown ends in a shootout, S.W.A.T. Agent Travis Hall seizes a mysterious prisoner taking him into custody. Before long, the S.W.A.T. compound is under siege by wave-after-wave of assault teams attempting to recover the prisoner known as “The Scorpion” for the tattoo blazed across his back. When Travis discovers that his prisoner is a Secret Ops double agent planted within the cartel, it’s up to him and his expert S.W.A.T. team to keep “The Scorpion” and his billion dollar secrets safe.",
+        "popularity": 43.145,
+        "poster_path": "/sGcDltZ2aUgLV7oFxGlpO1oGmc0.jpg",
+        "release_date": "2017-08-01",
+        "title": "S.W.A.T.: Under Siege",
+        "video": false,
+        "vote_average": 5.85,
+        "vote_count": 356
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 487558,
+        "original_language": "en",
+        "original_title": "BlacKkKlansman",
+        "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+        "popularity": 43.081,
+        "poster_path": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+        "release_date": "2018-08-09",
+        "title": "BlacKkKlansman",
+        "video": false,
+        "vote_average": 7.512,
+        "vote_count": 7389
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4GNvZJ4ZdhAfpSM47QxMnJYH44r.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 9013,
+        "original_language": "en",
+        "original_title": "Midnight Run",
+        "overview": "A bounty hunter pursues a former Mafia accountant who embezzled $15 million of mob money. He is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+        "popularity": 43.042,
+        "poster_path": "/jN12RYBxWSoK6bfuD5GMjNBTdQG.jpg",
+        "release_date": "1988-07-20",
+        "title": "Midnight Run",
+        "video": false,
+        "vote_average": 7.209,
+        "vote_count": 1048
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jCPMzXwUMldzemkWPH4SoN9H23m.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 6075,
+        "original_language": "en",
+        "original_title": "Carlito's Way",
+        "overview": "A Puerto-Rican ex-con, just released from prison, pledges to stay away from drugs and violence despite the pressure around him, and lead a better life outside NYC.",
+        "popularity": 43.027,
+        "poster_path": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+        "release_date": "1993-11-10",
+        "title": "Carlito's Way",
+        "video": false,
+        "vote_average": 7.837,
+        "vote_count": 3057
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uhHkaKvENk94eoNaCNPy0IBC44S.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 1137142,
+        "original_language": "ja",
+        "original_title": "怪物の木こり",
+        "overview": "After Akira Ninomiya miraculously survives a brutal attack by an unknown assailant wearing a \"monster mask,\" he becomes fixated on finding the attacker and getting revenge.",
+        "popularity": 42.924,
+        "poster_path": "/iJEooh8xKJj4lhHNpSgXNxoEKrn.jpg",
+        "release_date": "2023-12-01",
+        "title": "Lumberjack the Monster",
+        "video": false,
+        "vote_average": 6.207,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/edOt2jNyCbb8SQSvulD2sRRJhmA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            12,
+            53
+        ],
+        "id": 873126,
+        "original_language": "it",
+        "original_title": "Il mio nome è vendetta",
+        "overview": "After old enemies kill his family, a former mafia enforcer and his feisty daughter flee to Milan, where they hide out while plotting their revenge.",
+        "popularity": 42.851,
+        "poster_path": "/7l3war94J4tRyWUiLAGokr3ViF2.jpg",
+        "release_date": "2022-11-30",
+        "title": "My Name Is Vendetta",
+        "video": false,
+        "vote_average": 6.633,
+        "vote_count": 579
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hACMcim5NtMH3S62sQAWkdLVpIK.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            9648,
+            53
+        ],
+        "id": 34813,
+        "original_language": "en",
+        "original_title": "The Losers",
+        "overview": "On a mission deep in the Bolivian jungle, a team of elite commandos finds itself on the receiving end of a lethal betrayal. Now presumed dead, the men join forces with a mysterious operative named Aisha to hunt down their enemy and even the score.",
+        "popularity": 42.777,
+        "poster_path": "/e5oD3fuQpjZ8Po6WNW0VkUJmW52.jpg",
+        "release_date": "2010-04-23",
+        "title": "The Losers",
+        "video": false,
+        "vote_average": 6.268,
+        "vote_count": 1762
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vZaIAIX5XcXLsF4jRSp5x7wsRzn.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 783110,
+        "original_language": "ko",
+        "original_title": "밀수",
+        "overview": "During the 1970s, in Kunchon, there were women divers who were able to dive without equipment, including two best friends Choon-ja and Jin-sook, Jin-sook's brother and Hammer. They always collected seafood under water for living. But, as fewer factories started to be built near the beach, the women divers started to have trouble with what they were doing for living. Without any choice, the ship crews decided to join the smuggling business in the water to seek a way for their living. But the smuggling business in their village got too big for Jin-sook's family to handle and the peaceful village was gradually broken.",
+        "popularity": 42.763,
+        "poster_path": "/j8Jx4vpBG258jPxd4o0kOLDwTvm.jpg",
+        "release_date": "2023-07-26",
+        "title": "Smugglers",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5EEdDTV0IBxJ2J4jDUDvl076v7f.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 59,
+        "original_language": "en",
+        "original_title": "A History of Violence",
+        "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+        "popularity": 42.735,
+        "poster_path": "/A26rcvipOqptVs7i5uRmKicXRxE.jpg",
+        "release_date": "2005-09-23",
+        "title": "A History of Violence",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 3118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xLW4UQ4zYf7fHrei9pqx4fJsfKy.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 199373,
+        "original_language": "en",
+        "original_title": "The Frozen Ground",
+        "overview": "An Alaska State Trooper partners with a young woman who escaped the clutches of serial killer Robert Hansen to bring the murderer to justice. Based on actual events.",
+        "popularity": 42.731,
+        "poster_path": "/hHDj1h3lJvYd9Cervoswz9crhWg.jpg",
+        "release_date": "2013-07-11",
+        "title": "The Frozen Ground",
+        "video": false,
+        "vote_average": 6.277,
+        "vote_count": 1418
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z8ejhyO0hVXk4KVo1bi4HMFP3FS.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 10027,
+        "original_language": "en",
+        "original_title": "Unleashed",
+        "overview": "Raised as a slave, Danny is used to fighting for his survival. In fact, his \"master,\" Bart, thinks of him as a pet and goes as far as leashing him with a collar so they can make money in fight clubs, where Danny is the main contender. When Bart's crew is in a car accident, Danny escapes and meets a blind, kindhearted piano tuner who takes him in and uses music to free the fighter's long-buried heart.",
+        "popularity": 42.676,
+        "poster_path": "/gghvmS3UxtOw1UHIgYjpeZNxHil.jpg",
+        "release_date": "2005-02-02",
+        "title": "Unleashed",
+        "video": false,
+        "vote_average": 6.918,
+        "vote_count": 1935
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bZ7ZMu8lGuEKmwH5lXRhlJAjYWv.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 18892,
+        "original_language": "en",
+        "original_title": "Jawbreaker",
+        "overview": "When an exclusive clique of teenage socialites accidentally murder their best friend on the morning of her birthday, the three girls responsible conspire to hide the truth.",
+        "popularity": 42.654,
+        "poster_path": "/gwjJPAraQy5fDd3NJvK677uItU4.jpg",
+        "release_date": "1999-01-30",
+        "title": "Jawbreaker",
+        "video": false,
+        "vote_average": 6.295,
+        "vote_count": 510
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/36FtYEYmqrp7kIQqjrYhWXBnXJm.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 801965,
+        "original_language": "en",
+        "original_title": "Breaking",
+        "overview": "Desperate for money and running out of options, Marine veteran Brian Brown-Easley holds several people hostage inside a bank, setting the stage for a tense confrontation with police.",
+        "popularity": 42.643,
+        "poster_path": "/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg",
+        "release_date": "2022-08-25",
+        "title": "Breaking",
+        "video": false,
+        "vote_average": 6.597,
+        "vote_count": 149
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yk03ze3kIaQc3i3fTfIWKUwH1hE.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 374617,
+        "original_language": "en",
+        "original_title": "Imperium",
+        "overview": "Nate Foster, a young, idealistic FBI agent, goes undercover to take down a radical white supremacy terrorist group. The bright up-and-coming analyst must confront the challenge of sticking to a new identity while maintaining his real principles as he navigates the dangerous underworld of white supremacy. Inspired by real events.",
+        "popularity": 42.613,
+        "poster_path": "/fEwo3gZfbeoovdcTyf4o4wATE1r.jpg",
+        "release_date": "2016-08-19",
+        "title": "Imperium",
+        "video": false,
+        "vote_average": 6.458,
+        "vote_count": 1333
+    }
+]

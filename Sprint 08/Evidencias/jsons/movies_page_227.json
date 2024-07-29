@@ -1,0 +1,406 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/bKHuWQW6ciIugj3NV6TkHL3XfR6.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 499461,
+        "original_language": "tr",
+        "original_title": "Ölümlü Dünya",
+        "overview": "Mermer family, who has been managing a restaurant called “Anatolian flavors” in Haydarpasa train station for generations, consist of 8 members. Even though this family leads a quiet simple life, they will end up finding themselves in complicated situations. Moreover, this family has been keeping a secret for a long time and it just can’t come out at any cost..",
+        "popularity": 13.155,
+        "poster_path": "/pvCx6rNMqxodzxZi3F2gSEHxb2T.jpg",
+        "release_date": "2018-01-26",
+        "title": "Mortal World",
+        "video": false,
+        "vote_average": 7.19,
+        "vote_count": 155
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a0VJS0LhBTqUoCbaIrEXfcaIDzK.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 273886,
+        "original_language": "hi",
+        "original_title": "होलीडे",
+        "overview": "A soldier on vacation finds himself hunting down a terrorist.  A military officer attempts to hunt down a terrorist, destroy a terrorist gang and deactivate the sleeper cells under its command.",
+        "popularity": 13.154,
+        "poster_path": "/of7ldwMqUgyOwjA1rw4qJzDaKx.jpg",
+        "release_date": "2014-06-06",
+        "title": "Holiday",
+        "video": false,
+        "vote_average": 6.21,
+        "vote_count": 126
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jOxgzJERShxdgQsBTtLjcop2Zqx.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            10770
+        ],
+        "id": 252962,
+        "original_language": "en",
+        "original_title": "Starsky & Hutch",
+        "overview": "A young couple in a car exactly like Starsky's is killed by hitmen and word is out on the street that there's a contract out on Starsky and Hutch. This is a TV-pilot that was an ABC Movie of the Week and later turned into the TV-series.",
+        "popularity": 13.151,
+        "poster_path": "/9BT4jCtlFWbzg7kqkfAvcrbMj3d.jpg",
+        "release_date": "1975-05-01",
+        "title": "Starsky & Hutch",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zTCZD3GTWszmuQnmMMTib8f0RG9.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1089737,
+        "original_language": "te",
+        "original_title": "సైంధ‌వ్",
+        "overview": "The father of a sick child takes on a criminal gang running a pharmaceutical racket.",
+        "popularity": 13.149,
+        "poster_path": "/x7c6RQCWmrl92rPg3JhzzalF4SQ.jpg",
+        "release_date": "2024-01-13",
+        "title": "Saindhav",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jO1VKpa6JDh6pV7MLKWh7zfvuNm.jpg",
+        "genre_ids": [
+            28,
+            878,
+            53,
+            12,
+            80
+        ],
+        "id": 93560,
+        "original_language": "en",
+        "original_title": "Batman and Robin",
+        "overview": "This 15-chapter serial pits Batman and Robin against The Wizard, who uses a device that allows him to control machinery to hold the city hostage.",
+        "popularity": 13.149,
+        "poster_path": "/411pEyeqP5rLS6Zc9batSRL0c8G.jpg",
+        "release_date": "1949-05-26",
+        "title": "Batman and Robin",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aRmOODyppfvziMRH0rQkYAszdcV.jpg",
+        "genre_ids": [
+            27,
+            80,
+            9648,
+            53
+        ],
+        "id": 22745,
+        "original_language": "en",
+        "original_title": "The Seamstress",
+        "overview": "The Seamstress was brought into being by the desperate curse of an innocent woman being tortured to death by a vigilante mob. Voracious for blood, the hideously-mutilated specter hunts a small group of friends who become trapped on the island where she died.",
+        "popularity": 13.149,
+        "poster_path": "/t02zryYHwy8nxv5nDIptwzkpKK3.jpg",
+        "release_date": "2009-09-24",
+        "title": "The Seamstress",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AhsYBiX63CkMNK9MGT12TztRXZr.jpg",
+        "genre_ids": [
+            80,
+            53,
+            35
+        ],
+        "id": 9630,
+        "original_language": "de",
+        "original_title": "Der Hexer",
+        "overview": "The sister of a famous, but as yet uncaught, criminal named \"The Hexer\" is murdered. Inspector Higgins of Scotland Yard believes that \"The Hexer\" will surface to take his revenge on his sister's killers, and plans to set a trap to finally capture him. However, soon bodies start piling up, and it looks as if \"The Hexer\" may get away yet again.",
+        "popularity": 13.148,
+        "poster_path": "/mkrGRYJgifUSzP0WlDUBH9AiZGO.jpg",
+        "release_date": "1964-08-21",
+        "title": "The Mysterious Magician",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mCprpDjgemFqjKvfbxDJUfR9JWy.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80
+        ],
+        "id": 189227,
+        "original_language": "ta",
+        "original_title": "சூது கவ்வும்",
+        "overview": "Dass specialises in small time kidnapping and has his own set of rules. The primary and most important among them is not to get involved with influential people. Three jobless youngsters meet Dass and the four take up an assignment for a hefty sum that throws away this primary rule and end up being chased by a dreaded policeman.",
+        "popularity": 13.147,
+        "poster_path": "/xItyli68pnToohrriXVhWlKe15B.jpg",
+        "release_date": "2013-05-01",
+        "title": "Soodhu Kavvum",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/no4PRDyy60XM9d6HAAZO4WwYojK.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 14649,
+        "original_language": "fr",
+        "original_title": "Pars vite et reviens tard",
+        "overview": "In Paris, many citizens go to the precinct after the doors of their apartments have been sprayed with a 4 and the letters \"clt\". When a dweller is found mysteriously dead in his apartment, Detective Jean-Baptiste Adamsberg and his partner Danglard investigate...",
+        "popularity": 13.145,
+        "poster_path": "/juriLa1l5xh9TOpaTaikXCYOTpO.jpg",
+        "release_date": "2007-01-24",
+        "title": "Have Mercy on Us All",
+        "video": false,
+        "vote_average": 5.91,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o1gNOkgyQhsdK0x6FcpoV7TR35C.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 477331,
+        "original_language": "en",
+        "original_title": "Long Shot",
+        "overview": "When Juan Catalan is arrested for a murder he insists he didn't commit, he builds his case for innocence around unexpected raw footage.",
+        "popularity": 13.141,
+        "poster_path": "/8LDeHrG8RBluJ7IkPgBaOMkU3fl.jpg",
+        "release_date": "2017-09-03",
+        "title": "Long Shot",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 144
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sSISJEPRZ7u7uaoSYGnUepVDI93.jpg",
+        "genre_ids": [
+            10770,
+            9648,
+            18,
+            80
+        ],
+        "id": 1151579,
+        "original_language": "en",
+        "original_title": "A Zest For Death: A Hannah Swensen Mystery",
+        "overview": "They say the real estate business is deadly, but no one is more surprised than Hannah Swensen when her mother, Delores, discovers the dead body of the homeowner – and regular customer of The Cookie Jar – while house-hunting for her sister Michelle. Hannah is determined to get to the bottom of the mystery and is convinced that the prime suspect Mike and the Sheriff are focusing on isn't the culprit. Hannah's sleuthing becomes a family affair when Delores, Michelle and even her sister Andrea – who pays an unexpected visit – take part in the investigation. As Hannah uncovers clues she slowly rules out suspects and is led to the shocking truth about the killer's identity.",
+        "popularity": 13.138,
+        "poster_path": "/uiEqVYZlEPTyQoo7rscrVEM2702.jpg",
+        "release_date": "2023-10-06",
+        "title": "A Zest For Death: A Hannah Swensen Mystery",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zapdn2LBHYoutlXoV9IAsO2NX6t.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10749
+        ],
+        "id": 91919,
+        "original_language": "cn",
+        "original_title": "轟天龍虎會",
+        "overview": "In Amsterdam - in the time before the legalisation of some drugs and the following growth of competition on the market - takes place a war between the Italian and Chinese mafia because of the control of the heroin market.",
+        "popularity": 13.138,
+        "poster_path": "/hqLfDI7HcSTpnLnhbuDeXbOIHdC.jpg",
+        "release_date": "1989-11-04",
+        "title": "China White",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eEdhde30uHhyaZ4NvqMfcExgkrj.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 537755,
+        "original_language": "ja",
+        "original_title": "スマホを落としただけなのに",
+        "overview": "After a man accidentally leaves his smartphone in a taxi, he and his girlfriend are plagued by stalkers and cybercrimes.",
+        "popularity": 13.133,
+        "poster_path": "/vFTyUmeddTMd5E25KyjErk8Mu3c.jpg",
+        "release_date": "2018-11-02",
+        "title": "Stolen Identity",
+        "video": false,
+        "vote_average": 5.818,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/TE5CVXntRDFF2VleOQh7c7Gnrd.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            878
+        ],
+        "id": 13336,
+        "original_language": "fr",
+        "original_title": "Chrysalis",
+        "overview": "Paris 2020, a high tech surgeon and her daughter are involved in a horrific car accident, the surgeon saves her daughter's life at the cost of manipulating her dreams and memories.",
+        "popularity": 13.133,
+        "poster_path": "/kXcr4eCpyt1Lan00znjRJKO7SVm.jpg",
+        "release_date": "2007-06-25",
+        "title": "Chrysalis",
+        "video": false,
+        "vote_average": 5.24,
+        "vote_count": 77
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ztDgwtbzW8DNTqspAMfp9ITavXx.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 45138,
+        "original_language": "it",
+        "original_title": "Gli intoccabili",
+        "overview": "After serving 12 years behind bars for armed robbery, tough guy Hank McCain finds himself the pawn of a ruthless mob runt's rebellion against a high level don. When McCain discovers that he's been betrayed and abandoned by his new employer, he retaliates with a high stakes Las Vegas casino heist that erupts into all-out war on the streets of Los Angeles, San Francisco and New York. Neither blood, nor lust, nor wedding vows can come between McCain and his money ... or his machine gun.",
+        "popularity": 13.128,
+        "poster_path": "/tWHaVCfaX6zsDtjnlcujx7qU9iu.jpg",
+        "release_date": "1969-04-01",
+        "title": "Machine Gun McCain",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fgKeADBucqDIs6PLTzNIIkTYT7K.jpg",
+        "genre_ids": [
+            80,
+            35,
+            9648
+        ],
+        "id": 1313019,
+        "original_language": "en",
+        "original_title": "大项目",
+        "overview": "",
+        "popularity": 13.125,
+        "poster_path": "/yWnsD6Q2ip4NVYn6a8vXzuRefsJ.jpg",
+        "release_date": "2024-07-06",
+        "title": "Big Project",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9WEFRoWYxmvbnqkyhI06fVOZcUZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 339043,
+        "original_language": "en",
+        "original_title": "Beeba Boys",
+        "overview": "Gang leader Jeet Johar and his young, loyal, and often-brutal crew dress like peacocks, love attention, and openly compete with an old style Indo crime syndicate to take over the Vancouver drug and arms scene. Blood is spilled, hearts are broken, and family bonds shattered as the Beeba Boys do anything to be seen and to be feared in a white world.",
+        "popularity": 13.125,
+        "poster_path": "/2aUHS67w9sDZ0Jfucpk5wdzD6IU.jpg",
+        "release_date": "2015-10-16",
+        "title": "Beeba Boys",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3kEvAMVqNnmReEctnDbuLir4KlR.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 90351,
+        "original_language": "ja",
+        "original_title": "博徒外人部隊",
+        "overview": "A yakuza gang gets driven out of Yokohama by a big gang from Tokyo. They relocate to Okinawa to violently start over.",
+        "popularity": 13.125,
+        "poster_path": "/anVq54Gx3dyM46Vt4DORKCp7sHw.jpg",
+        "release_date": "1971-01-12",
+        "title": "Sympathy for the Underdog",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iCtFsAzMjqCZCiBX0EXpl3qCVtA.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 532647,
+        "original_language": "en",
+        "original_title": "Trespassers",
+        "overview": "Two dysfunctional couples rent a modern luxury desert home for the weekend hoping to sort out their messed-up lives. Just as they are about to settle in for a fun night, a neighbor turns up at their front door saying she has car trouble. But soon they discover the person they let into their home may have nefarious intents.",
+        "popularity": 13.124,
+        "poster_path": "/ba1pzrZsn6z05aAi5BMQJrFbESi.jpg",
+        "release_date": "2019-07-12",
+        "title": "Trespassers",
+        "video": false,
+        "vote_average": 5.075,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xSufnNtpo1gw8KrVHBqJm3fUf0O.jpg",
+        "genre_ids": [
+            53,
+            10770,
+            80
+        ],
+        "id": 660632,
+        "original_language": "en",
+        "original_title": "Shattered Memories",
+        "overview": "Kelly's life is upended when she wakes up in the hospital with fragments of her memory after a car crash. The only thing she is certain is that the people closest to her, are the very ones she's not sure she can trust: her business partner, her closest friend, and her husband, Dan. Can she find the answers she needs before she is harmed again?",
+        "popularity": 13.119,
+        "poster_path": "/pIPA0i4lC5Cd35zJ78S5187SEK5.jpg",
+        "release_date": "2020-01-02",
+        "title": "Shattered Memories",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 7
+    }
+]

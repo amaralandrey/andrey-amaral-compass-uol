@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/rdcfJttCMCcq3eeOmT10dyc6X7O.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 14524,
+        "original_language": "en",
+        "original_title": "Cass",
+        "overview": "The incredible true story of how an orphaned Jamaican baby, adopted by an elderly white couple and brought up in an all white area of London, became one of the most feared and respected men in Britain.",
+        "popularity": 20.183,
+        "poster_path": "/9tZLlHdNe8f9iJ8rGmCiiQgDMuU.jpg",
+        "release_date": "2008-01-08",
+        "title": "Cass",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j5DSgn34GGfvnnAMS3qFFXOzFuO.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 4235,
+        "original_language": "fr",
+        "original_title": "Le Clan des Siciliens",
+        "overview": "An ambitious mobster plans an elaborate diamond heist while seducing the daughter-in-law of a ruthless mob patriarch as a determined police commissioner closes in on all of them.",
+        "popularity": 20.169,
+        "poster_path": "/uVBbDPbm1H4Z9M7uZ976KFaAjDR.jpg",
+        "release_date": "1969-12-05",
+        "title": "The Sicilian Clan",
+        "video": false,
+        "vote_average": 7.612,
+        "vote_count": 308
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dxKTJHqWPRUM5JGaV02hHJCdlXP.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 158217,
+        "original_language": "ja",
+        "original_title": "KAMIKAZE TAXI",
+        "overview": "A young foot soldier in the yakuza seeks revenge when his prostitute girlfriend dies after a session with a high-ranking Japanese politician with a taste for torture. He sets out on a 'kamikaze' mission to kill his bosses and the politician; along the way, he acquires the aid of a taxi driver who has recently returned to Japan after living in South America for several decades and is struggling to cope with poverty and the prejudices of native-born Japanese.",
+        "popularity": 20.167,
+        "poster_path": "/6OAy20tIgQhD05OJAe7HTzdeoY5.jpg",
+        "release_date": "1995-04-29",
+        "title": "Kamikaze Taxi",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ksEODqjDHIgTBnBJKsVvfD2YKqF.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 42995,
+        "original_language": "en",
+        "original_title": "Experiment in Terror",
+        "overview": "A man with an asthmatic voice telephones and assaults clerk Kelly Sherwood at home and coerces her into helping him steal a large sum from her bank.",
+        "popularity": 20.143,
+        "poster_path": "/knD04Xa9nYoGYQARpN2fXHf2JAg.jpg",
+        "release_date": "1962-04-12",
+        "title": "Experiment in Terror",
+        "video": false,
+        "vote_average": 7.078,
+        "vote_count": 116
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dgAJlQVAMlX33mXplhzBXBxNnqO.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 9041,
+        "original_language": "fr",
+        "original_title": "L'Été meurtrier",
+        "overview": "In spring 1976, a 19-year-old beauty, her German-born mother, and her crippled father move to the town of a firefighter nicknamed Pin-Pon. Everyone notices the provocative Eliane. She singles out Pin-Pon and soon is crying on his shoulder (she's myopic and hates her reputation as a dunce and as easy); she moves in with him, knits baby clothes, and plans their wedding. Is this love or some kind of plot? She asks Pin-Pon's mother and aunt about the piano in the barn: who delivered it on a November night in 1955? Why does she want to know, and what does it have to do with her mother's sorrows, her father's injury, this quick marriage, and the last name on her birth certificate?",
+        "popularity": 20.136,
+        "poster_path": "/cVShoNWphKc5txc3sfl6Uf8OU92.jpg",
+        "release_date": "1983-05-11",
+        "title": "One Deadly Summer",
+        "video": false,
+        "vote_average": 6.944,
+        "vote_count": 188
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mcSeT9VDT4OnSR3E2dxl6knE9YG.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 19200,
+        "original_language": "en",
+        "original_title": "Shadows and Fog",
+        "overview": "With a serial strangler on the loose, a bookkeeper wanders around town searching for the vigilante group intent on catching the killer.",
+        "popularity": 20.13,
+        "poster_path": "/5q7ibBZO5uKhkdP9Eeqrc6ypF5u.jpg",
+        "release_date": "1991-12-05",
+        "title": "Shadows and Fog",
+        "video": false,
+        "vote_average": 6.745,
+        "vote_count": 350
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vBPR3urSuYheuF8FjY5UZiPzqgV.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 22314,
+        "original_language": "en",
+        "original_title": "In Too Deep",
+        "overview": "Drug lord Dwayne Gittens rules Cincinnati with an iron fist. No wonder he's known as \"God\" on the streets. Determined to break Gittens' stranglehold on the city is undercover cop Jeffrey Cole. But as Cole takes on an assumed identity to penetrate Gittens' criminal empire, he makes a disturbing discovery -- he kind of likes being a gangster.",
+        "popularity": 20.127,
+        "poster_path": "/mYteXffai9mmShyGCa4nPhfGCLQ.jpg",
+        "release_date": "1999-08-25",
+        "title": "In Too Deep",
+        "video": false,
+        "vote_average": 6.375,
+        "vote_count": 92
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cBr1MxgZRF0Dd8dJvQfsFqYUq1w.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 575428,
+        "original_language": "zh",
+        "original_title": "南方车站的聚会",
+        "overview": "A gangster on the run sacrifices everything for his family and a woman he meets while on the lam.",
+        "popularity": 20.116,
+        "poster_path": "/w49o4vmNFpCt4VFJp7ip6tjHh3x.jpg",
+        "release_date": "2019-12-06",
+        "title": "The Wild Goose Lake",
+        "video": false,
+        "vote_average": 6.611,
+        "vote_count": 329
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pieDnLArEw43kZxYejn3XbrNZdg.jpg",
+        "genre_ids": [
+            16,
+            878,
+            80
+        ],
+        "id": 510242,
+        "original_language": "ja",
+        "original_title": "PSYCHO-PASS サイコパス Sinners of the System Case.1「罪と罰」",
+        "overview": "In the winter of 2117, a runaway vehicle crashes into the Public Safety Bureau Building. The driver is identified as Izumi Yasaka, a psychological counselor at the Sanctuary, a Latent Criminal Isolation Facility in Aomori Prefecture. But right before her interrogation, Inspector Mika Shimotsuki and Enforcer Nobuchika Ginoza are tasked with promptly escorting Yasaka back to Aomori. What awaits them there is a False Paradise.",
+        "popularity": 20.102,
+        "poster_path": "/e4ObwxHjvcKanJxcURTUCm6LHte.jpg",
+        "release_date": "2019-01-25",
+        "title": "Psycho-Pass: Sinners of the System - Case.1 Crime and Punishment",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 75
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8iHlvMbtzXzswf0GDglwM7kKyqv.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 495673,
+        "original_language": "fr",
+        "original_title": "Le Flic de Belleville",
+        "overview": "When a childhood friend from Miami gets killed after he comes to warn of encroaching drug gangs, Baaba moves to Miami and teams up with a local officer to bring down the criminals.",
+        "popularity": 20.091,
+        "poster_path": "/6lY1GnJcZeZq3PXsoEwrF3izufJ.jpg",
+        "release_date": "2018-10-17",
+        "title": "Belleville Cop",
+        "video": false,
+        "vote_average": 4.976,
+        "vote_count": 355
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jFT7mu2A1rM64JeFg2126zaIwO0.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 12489,
+        "original_language": "en",
+        "original_title": "Gridlock'd",
+        "overview": "After a friend overdoses, Spoon and Stretch decide to kick their drug habits and attempt to enroll in a government detox program. Their efforts are hampered by seemingly endless red tape, as they are shuffled from one office to another while being chased by drug dealers and the police.",
+        "popularity": 20.091,
+        "poster_path": "/jlOL8fLsG0tGBtkj9qzHgqcHPVV.jpg",
+        "release_date": "1997-01-29",
+        "title": "Gridlock'd",
+        "video": false,
+        "vote_average": 6.645,
+        "vote_count": 211
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vdNNK62inhxtL905S01I6Tf22qQ.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10749
+        ],
+        "id": 1079346,
+        "original_language": "en",
+        "original_title": "5lbs of Pressure",
+        "overview": "Fresh out of prison after serving time for murder, Adam returns to his old stomping grounds to seek out a son who doesn't know him. Eli, the brother of the man he killed is looking for revenge. Mike, is trying to escape a life of crime living under the thumb of his gangster Uncle.",
+        "popularity": 20.085,
+        "poster_path": "/toEJOPYvM7Na0XwM8exg8aHq553.jpg",
+        "release_date": "2024-03-08",
+        "title": "5lbs of Pressure",
+        "video": false,
+        "vote_average": 6.063,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8MT1v9XqUnEHInn2Qcp4Xuf8MIL.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 199926,
+        "original_language": "ja",
+        "original_title": "土竜の唄 潜入捜査官 REIJI",
+        "overview": "Reiji Kikukawa, who has a strong sense of justice, graduated from the police academy with the lowest score ever. He becomes a police constable, but is suddenly fired by the Police Chief due to \"disciplinary\" issues. In actuality, the firing is part of a carefully orchestrated plan to set him up as an undercover cop in the Yakuza.",
+        "popularity": 20.084,
+        "poster_path": "/5zEK8AkJcx5gMEoE9zCcpEL4tvQ.jpg",
+        "release_date": "2013-11-15",
+        "title": "The Mole Song: Undercover Agent Reiji",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v6ZaKk2Zk1ALbOZnFTQRJv8miMB.jpg",
+        "genre_ids": [
+            28,
+            12,
+            53,
+            80
+        ],
+        "id": 412862,
+        "original_language": "ta",
+        "original_title": "ராட்சசன்",
+        "overview": "A serial killer is murdering school girls, and a newbie cop has to track him down before the victim count increases.",
+        "popularity": 20.08,
+        "poster_path": "/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",
+        "release_date": "2018-10-05",
+        "title": "Ratsasan",
+        "video": false,
+        "vote_average": 7.436,
+        "vote_count": 140
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eLInBavBIK0ssluoZYLvaNm9fXl.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 102632,
+        "original_language": "hi",
+        "original_title": "راثور المُشاغِب",
+        "overview": "A small-time thug comes across a young girl who claims him to be her father, following which he realizes he has a lookalike who's being hunted by goons.",
+        "popularity": 20.08,
+        "poster_path": "/ytdp64MDSpONpm932nQcMTD95IF.jpg",
+        "release_date": "2012-06-01",
+        "title": "Rowdy Rathore",
+        "video": false,
+        "vote_average": 5.872,
+        "vote_count": 90
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lCmVc5jCTMvwCPz0rtUKURhwC92.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 483552,
+        "original_language": "nl",
+        "original_title": "Patser",
+        "overview": "Antwerp, Belgium. The lives of four small-time drug dealers spin out of control when they steal a shipment of cocaine, triggering a full out war between an Amsterdam drug lord and a ruthless Colombian cartel.",
+        "popularity": 20.075,
+        "poster_path": "/tIM3LzDJYB2DwEYOuKxgYZVHBZI.jpg",
+        "release_date": "2018-01-24",
+        "title": "Gangsta",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 91
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/heayRHS4N4ySt7ooN1Hts0PiB35.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            28
+        ],
+        "id": 18588,
+        "original_language": "en",
+        "original_title": "52 Pick-Up",
+        "overview": "Harry Mitchell is a successful Los Angeles manufacturer whose wife is running for city council. His life is turned upside down when three blackmailers confront him with a videotape of him with his young mistress and demand $100,000. Fearing that the story will hurt his wife's political campaign if he goes to the police, Harry pretends that he will pay the men, but does not follow through.",
+        "popularity": 20.074,
+        "poster_path": "/ru8dtoh6tNi7kKAbLgbaE9J5SGf.jpg",
+        "release_date": "1986-11-07",
+        "title": "52 Pick-Up",
+        "video": false,
+        "vote_average": 5.887,
+        "vote_count": 111
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xHZ4ws882XSmz6mYtDUyceRjKIx.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 34374,
+        "original_language": "en",
+        "original_title": "Murder by Decree",
+        "overview": "Sherlock Holmes is drawn into the case of Jack the Ripper who is killing prostitutes in London's East End. Assisted by Dr. Watson, and using information provided by a renowned psychic, Robert Lees, Holmes finds that the murders may have its roots in a Royal indiscretion and that a cover-up is being managed by politicians at the highest level, all of whom happen to be Masons.",
+        "popularity": 20.07,
+        "poster_path": "/vjuO0XKak8v3uUdNjWr5sNIlJ4b.jpg",
+        "release_date": "1979-02-01",
+        "title": "Murder by Decree",
+        "video": false,
+        "vote_average": 6.409,
+        "vote_count": 132
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ks7YvSos8ULsOzIYaPqlQQLLIXS.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            80
+        ],
+        "id": 17258,
+        "original_language": "en",
+        "original_title": "The Pick-up Artist",
+        "overview": "A womanizer meets his match when he falls for the daughter of a gambling addict who is in debt to the mob.",
+        "popularity": 20.066,
+        "poster_path": "/piGRGeDabRTMpgyDx7cPZM3MSpV.jpg",
+        "release_date": "1987-09-18",
+        "title": "The Pick-up Artist",
+        "video": false,
+        "vote_average": 5.619,
+        "vote_count": 180
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qtRiCjjqBO0RwFkxCzxyeHEbj96.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 56415,
+        "original_language": "fr",
+        "original_title": "Les Lyonnais",
+        "overview": "After growing up in a poor gypsy camp, Edmond Vidal, aka Momon, has retained a sense of family, unfailing loyalty and pride in his origins. Most of all, he has remained friends with Serge Suttel, with whom he first discovered prison life - for stealing cherries. The two of them inevitably got involved in organized crime. The team they formed, the Ganf Des Lyonnais, made them the most notorious armed robbers of the early 1970s. Their irresistible rise ended in 1974 with a spectacular arrest. Today, as he nears 60, Momon would like to forget that part of his life. He has found peace by retiring from the \"business\". He tends to his wife Janou, who suffered so in the past, and to his children and grandchildren, all of whom have great respect for this man of simple and universal values, so clear-headed and full of kindness. But then Serge Suttel, who has disowned nothing of his past, comes back into the picture.",
+        "popularity": 20.064,
+        "poster_path": "/nN3osmlYWNZZtg8vtXrt8c5t8ET.jpg",
+        "release_date": "2011-11-10",
+        "title": "A Gang Story",
+        "video": false,
+        "vote_average": 6.806,
+        "vote_count": 345
+    }
+]

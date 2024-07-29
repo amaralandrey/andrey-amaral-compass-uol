@@ -1,0 +1,396 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/x8OqIb10jaeiY8zmc2d3TTFsT1J.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 41805,
+        "original_language": "en",
+        "original_title": "V.I. Warshawski",
+        "overview": "Victoria \"V.I\" Warshawski is a Chicago based private detective who agrees to babysit for her new boyfriend; then he is murdered. Being the detective type, she makes the murder her next case. In doing so she befriends the victim's daughter, Kat, and together they set out to crack the case.",
+        "popularity": 18.942,
+        "poster_path": "/1mG9RWHzuhH3W9U8UjHUfARuKZG.jpg",
+        "release_date": "1991-07-26",
+        "title": "V.I. Warshawski",
+        "video": false,
+        "vote_average": 4.74,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4Od8hhDwKRzMdKcdi1nJz2p7HWw.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 32078,
+        "original_language": "en",
+        "original_title": "Panic in the Streets",
+        "overview": "A medical examiner discovers that an innocent shooting victim in a robbery died of bubonic plague. With only 48 hours to find the killer, who is now a ticking time bomb threatening the entire city, a grisly manhunt through the seamy underworld of the New Orleans Waterfront is underway.",
+        "popularity": 18.942,
+        "poster_path": "/79jfETdOonIFL8UEjBxptPS27yo.jpg",
+        "release_date": "1950-07-27",
+        "title": "Panic in the Streets",
+        "video": false,
+        "vote_average": 6.85,
+        "vote_count": 137
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t5Fo7NVHMtBS4iTjuJOd8zZL6R7.jpg",
+        "genre_ids": [
+            28,
+            16,
+            35,
+            10770,
+            80,
+            12
+        ],
+        "id": 245928,
+        "original_language": "ja",
+        "original_title": "ルパン三世 princess of the breeze ～隠された空中都市～",
+        "overview": "After a chaotic heist, Lupin and Jigen find themselves becoming caretakers of a baby boy, while a young sky pirate called Yutika is after their loot. Yutika is an inhabitant of the city-state of Shahalta, which has recently fallen to a shady minister. Soon, Lupin's gang and Yutika join forces to uncover one of Shahalta's greatest treasures, facing off against both Shahaltan authorities and Zenigata.",
+        "popularity": 18.928,
+        "poster_path": "/dBdEmUsVX8Kv57xcR1yg9vqwwYa.jpg",
+        "release_date": "2013-11-15",
+        "title": "Lupin the Third: Princess of the Breeze",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zMZvyVa0jQ8Citp0JCwfQ9LqjUl.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 1025231,
+        "original_language": "en",
+        "original_title": "Little Death",
+        "overview": "A middle-aged filmmaker on the verge of a breakthrough. Two kids in search of a lost backpack. A small dog a long way from home.",
+        "popularity": 18.925,
+        "poster_path": "/82JsqzBuHCTnbWTdb2JVmI1dAwB.jpg",
+        "release_date": "2024-01-19",
+        "title": "Little Death",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n000l23aqkqt4k6NQz5UeaLNN25.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 665896,
+        "original_language": "en",
+        "original_title": "Small Engine Repair",
+        "overview": "The seemingly casual reunion of three old friends at an out-of-the-way repair shop masks a hidden agenda fuelled by the arrival of a privileged young yuppie.",
+        "popularity": 18.925,
+        "poster_path": "/8xYm5fZXT0DNuGRUHdkQJ1puNYH.jpg",
+        "release_date": "2021-09-10",
+        "title": "Small Engine Repair",
+        "video": false,
+        "vote_average": 6.144,
+        "vote_count": 65
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xAxTnZQSmHLc4sCyr4YE57oIStv.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 137547,
+        "original_language": "ko",
+        "original_title": "공정사회",
+        "overview": "A mother goes to extreme measures against her daughter's attacker after after feeling that the local law enforcement have failed her.",
+        "popularity": 18.921,
+        "poster_path": "/iKo9GLETQ8ekfCQChnS9XsgvJG4.jpg",
+        "release_date": "2013-04-18",
+        "title": "Azooma",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/prnq2ONhqo9Tga7dOMZKgFJMofs.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 620883,
+        "original_language": "es",
+        "original_title": "La corazonada",
+        "overview": "Police officer Pipa works on her first big case while simultaneously investigating her boss, who is suspected of murder. The prequel to \"Perdida\".",
+        "popularity": 18.92,
+        "poster_path": "/m2rJGjlesDKxugl7ypW8n3Mipjl.jpg",
+        "release_date": "2020-05-28",
+        "title": "Intuition",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 180
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hW03BfIUb9UCpaakOO5S7o7VLB0.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 26234,
+        "original_language": "en",
+        "original_title": "10 Rillington Place",
+        "overview": "The story of British serial killer John Christie, who committed most or all of his crimes in the titular terraced house, and the miscarriage of justice involving Timothy Evans.",
+        "popularity": 18.917,
+        "poster_path": "/aQP2rSIciaeb2FGPeOQIWsCysts.jpg",
+        "release_date": "1971-02-10",
+        "title": "10 Rillington Place",
+        "video": false,
+        "vote_average": 7.286,
+        "vote_count": 192
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3kaZoOktfCDiuPdBBfAkCEQKVtH.jpg",
+        "genre_ids": [
+            27,
+            80
+        ],
+        "id": 31022,
+        "original_language": "es",
+        "original_title": "Aftermath",
+        "overview": "When the others leave for the night, the last mortician begins to fondle the corpses. He quickly moves to the corpse of a young woman who died in a car crash.",
+        "popularity": 18.912,
+        "poster_path": "/j1PRLH4D9hq8uvXZPIJfRyJWB6s.jpg",
+        "release_date": "1994-10-08",
+        "title": "Aftermath",
+        "video": false,
+        "vote_average": 5.457,
+        "vote_count": 208
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gv1n0cvgaRuDxq8MTpB2ExIlozg.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 19337,
+        "original_language": "ja",
+        "original_title": "日本黒社会 LEY LINES",
+        "overview": "The story follows a trio of Japanese youths of Chinese descent who escape their semi-rural upbringing and relocate to Shinjuku, Tokyo, where they befriend a troubled Shanghai prostitute and fall foul of a local crime syndicate. Like many of Miike's works, the film examines the underbelly of respectable Japanese society and the problems of assimilation faced by non-ethnically Japanese people in Japan.",
+        "popularity": 18.912,
+        "poster_path": "/dDZTPig5u6zToILu3uYaFGCZYIV.jpg",
+        "release_date": "1999-05-22",
+        "title": "Ley Lines",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zqPuqXz3XTtcbBxIKs0w0ojACCX.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 26718,
+        "original_language": "en",
+        "original_title": "'G' Men",
+        "overview": "James “Brick” Davis, a struggling attorney, owes his education to a mobster, but always has refused to get involved with the underworld. When a friend of his is gunned down by a notorious criminal, Brick decides to abandon the exercise of the law and join the Department of Justice to capture the murderer.",
+        "popularity": 18.911,
+        "poster_path": "/6jY4xH5SDNrRIxlYoXskXniO2Zl.jpg",
+        "release_date": "1935-05-04",
+        "title": "'G' Men",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3Tqpr0WaCe5piWxmCqAEGQELI7z.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 28433,
+        "original_language": "en",
+        "original_title": "No Way Out",
+        "overview": "Two hoodlum brothers are brought into a hospital for gunshot wounds, and when one of them dies the other accuses their black doctor of murder.",
+        "popularity": 18.905,
+        "poster_path": "/qI87rYk8XoIGN8EtyftxKHS092n.jpg",
+        "release_date": "1950-08-16",
+        "title": "No Way Out",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 90
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jvMqAkk1vAkOIJPaWkpMwRia4OC.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            10749
+        ],
+        "id": 772445,
+        "original_language": "es",
+        "original_title": "Jezabel",
+        "overview": "Four upper-class high school students live carefree between drugs, games and love until one of the girls, Eli, is brutally killed. Sixteen years later, the memory of the crime torments Alain, another member of the group.",
+        "popularity": 18.902,
+        "poster_path": "/orJGcAhkjilJ1hKBuz8uZDlJJEZ.jpg",
+        "release_date": "2022-03-10",
+        "title": "Jezabel",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a9KoSHzoT8PLWYoFDBgjDdp1Z78.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 43896,
+        "original_language": "en",
+        "original_title": "The Informer",
+        "overview": "Gypo Nolan is a former Irish Republican Army man who drowns his sorrows in the bottle. He's desperate to escape his bleak Dublin life and start over in America with his girlfriend. So when British authorities advertise a reward for information about his best friend, current IRA member Frankie, Gypo cooperates. Now Gypo can buy two tickets on a boat bound for the States, but can he escape the overwhelming guilt he feels for betraying his buddy?",
+        "popularity": 18.889,
+        "poster_path": "/gFsyHdVg93uPMZc64kCaCR3Y7Vn.jpg",
+        "release_date": "1935-05-09",
+        "title": "The Informer",
+        "video": false,
+        "vote_average": 6.75,
+        "vote_count": 98
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uW6Xctrs07bb8J0mZ65zWKg8Y5B.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 135047,
+        "original_language": "en",
+        "original_title": "Hotel Noir",
+        "overview": "Los Angeles, 1958: a detective holes up in a downtown hotel awaiting killers to come get him. During the course of one night he will meet various occupants of the hotel and the truth of how he came to be in his present situation will be revealed.",
+        "popularity": 18.884,
+        "poster_path": "/mM7lFpYA2IEpXluO3XB7UU5aZ7i.jpg",
+        "release_date": "2012-10-09",
+        "title": "Hotel Noir",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ji8AsF2vqsg88LzbOXakGGbRXSC.jpg",
+        "genre_ids": [
+            36,
+            10752,
+            28,
+            80
+        ],
+        "id": 13752,
+        "original_language": "no",
+        "original_title": "Max Manus",
+        "overview": "Max Manus is a Norwegian 2008 biographic war film based on the real events of the life of resistance fighter Max Manus (1914–96), after his contribution in the Winter War against the Soviet Union. The story follows Manus through the outbreak of World War II in Norway until peacetime in 1945.",
+        "popularity": 18.875,
+        "poster_path": "/v9Z7CUGW1Q5L8GdGH3rY5SkU72L.jpg",
+        "release_date": "2008-12-18",
+        "title": "Max Manus: Man of War",
+        "video": false,
+        "vote_average": 7.087,
+        "vote_count": 236
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fTt5XqCMc4o8v25Xc3YuWhuPZqM.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 46063,
+        "original_language": "en",
+        "original_title": "Last Dance",
+        "overview": "Upon taking a new job, young lawyer Rick Hayes is assigned to the clemency case of Cindy Liggett, a woman convicted of first degree murder and sentenced to death. As Hayes investigates the background for her case, the two begin to form a deep friendship, while all the while the date for her execution draws nearer.",
+        "popularity": 18.874,
+        "poster_path": "/hsMe9TYfPs1VfpZs9xVLZBVGcES.jpg",
+        "release_date": "1996-05-02",
+        "title": "Last Dance",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 88
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3Wr9M9Pee1kLgfbRSrG0LHy0GsP.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 25647,
+        "original_language": "ko",
+        "original_title": "숨",
+        "overview": "A condemned prisoner slowly falls in love with the married female artist who decorates his prison cell. Jin is a convicted killer awaiting execution on Death Row; Yeon is a lonely artist locked in a loveless marriage.",
+        "popularity": 18.861,
+        "poster_path": "/uDkDzSUluhC3ONk25VbaVaqe8kH.jpg",
+        "release_date": "2007-04-26",
+        "title": "Breath",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 94
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5gLBAZeKzNhenTBMvvbjPfRy2Lh.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 2348,
+        "original_language": "en",
+        "original_title": "Holy Matrimony",
+        "overview": "A young Hutterite boy must marry his late brother's wife who comes from outside the community.",
+        "popularity": 18.846,
+        "poster_path": "/guuXfnxgXWPFrvgPbqySnujnjqb.jpg",
+        "release_date": "1994-04-08",
+        "title": "Holy Matrimony",
+        "video": false,
+        "vote_average": 5.133,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/55vFpYVd2WPjIA0zIDs9xUUeHyt.jpg",
+        "genre_ids": [
+            80,
+            35,
+            28
+        ],
+        "id": 516297,
+        "original_language": "ko",
+        "original_title": "머니백",
+        "overview": "A golf bag filled with cash sets off a furious chase between an unemployed man, a delivery man, gangsters, a killer, and a cop.",
+        "popularity": 18.841,
+        "poster_path": "/ebY2RGzBH0nIl4uWry56lOS4LWG.jpg",
+        "release_date": "2018-04-12",
+        "title": "Snatch Up",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5
+    }
+]

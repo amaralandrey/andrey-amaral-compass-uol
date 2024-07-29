@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/48BerY90omondNof6Bv2mlRcNJy.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 66853,
+        "original_language": "en",
+        "original_title": "Rage and Honor",
+        "overview": "Witnessing a drug deal involving local gang members and cops, an Australian police officer feels he can no longer be just an observer. He joins forces with a local teacher who just happens to be a karate expert and together they try to take back the streets.",
+        "popularity": 8.701,
+        "poster_path": "/knBoDOSqflA66wxlWvY44z7yc55.jpg",
+        "release_date": "1992-05-08",
+        "title": "Rage and Honor",
+        "video": false,
+        "vote_average": 4.879,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rt7rRKZORfH97KnXe1ULIbrKF5a.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10749
+        ],
+        "id": 151014,
+        "original_language": "en",
+        "original_title": "Dr. Broadway",
+        "overview": "A New York doctor saves a chorus girl from a window ledge, twice, and rounds up racketeers.",
+        "popularity": 8.697,
+        "poster_path": "/ia3yvqi5txYYvl1mz1DaQHIB2Cv.jpg",
+        "release_date": "1942-05-09",
+        "title": "Dr. Broadway",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lE4IBs12gq5CHOMGy3IUJ69q2Wi.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 466205,
+        "original_language": "hu",
+        "original_title": "Budapest Noir",
+        "overview": "A murder mystery set in 1936 Budapest, just as Hungary was preparing to align itself with Hitler. A beautiful young girl is found dead and nobody wants to investigate—except Gordon, a crime reporter who has a gut feeling that things are not what they seem.",
+        "popularity": 8.696,
+        "poster_path": "/CnYgTfVZ9Mlp83hOyL4D0s18Xe.jpg",
+        "release_date": "2017-11-02",
+        "title": "Budapest Noir",
+        "video": false,
+        "vote_average": 6.143,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jwEzjmvRStLSfb7uWr8Rz2sL0bm.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 118279,
+        "original_language": "sv",
+        "original_title": "Studio Sex",
+        "overview": "A stripper at the club Studio Six is murdered. A political scandal takes off when the Minister of Commerce appears to have been at the club. He resigns - but only to hide an even bigger secret.",
+        "popularity": 8.693,
+        "poster_path": "/emFDEA0ECwitNUP5mtEAbRkLnBr.jpg",
+        "release_date": "2012-07-18",
+        "title": "Annika Bengtzon: Crime Reporter - Studio Sex",
+        "video": false,
+        "vote_average": 6.413,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7WnlhFb4v20YtIQ88CACU2fBwXn.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 365265,
+        "original_language": "en",
+        "original_title": "Raw Nerve",
+        "overview": "A cop, who is losing his sanity, lures his girlfriend and his former partner into the dangers of arson, robbery, and murder.",
+        "popularity": 8.692,
+        "poster_path": "/gF4vGKgFlsdr24dwQqU2T4Bhv51.jpg",
+        "release_date": "1999-09-16",
+        "title": "Raw Nerve",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            28,
+            80,
+            878
+        ],
+        "id": 668620,
+        "original_language": "ja",
+        "original_title": "Burn Up W",
+        "overview": "Team Warrior is a band of highly-skilled and completely crazy female cops. Featuring loose cannon Rio, trigger happy Maya and ace hacker Lilica, Team Warrior will get the job done, regardless of the budget of the mission.",
+        "popularity": 8.691,
+        "poster_path": "/fR8A6dZRViHx46Z1nvNkAb2uf6p.jpg",
+        "release_date": "1996-01-01",
+        "title": "Burn Up W",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mVJscj06RTQZhPljINTy3EeFu39.jpg",
+        "genre_ids": [
+            10770,
+            28,
+            80,
+            18
+        ],
+        "id": 281443,
+        "original_language": "en",
+        "original_title": "Probable Cause",
+        "overview": "A series of cop murders plagues the city. The remaining officers on the force are increasingly worried as the deaths increase with no leads. As the department's finest must solve the case before the killer strikes again.",
+        "popularity": 8.69,
+        "poster_path": "/rGBHIsJsxNrIb7PIIDUJlTwHBkr.jpg",
+        "release_date": "1994-11-20",
+        "title": "Probable Cause",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vufekSpLiib5ExQ628mb0uwrrCr.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            9648
+        ],
+        "id": 270046,
+        "original_language": "sv",
+        "original_title": "Beck 05 - Pensionat Pärlan",
+        "overview": "Inspector Beck and his team get involved in a large-scale smuggling of cesium 133. A gang from the east uses refugees who with a promise to stay in Sweden and with danger to their own life take in the dangerous explosive chemical substance.",
+        "popularity": 8.69,
+        "poster_path": "/9GjNiocPoJ9rkwTyRrI6pm8ic2P.jpg",
+        "release_date": "1998-04-08",
+        "title": "Beck 05 - The Boarding House Pearl",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/87o2pR6Kgqb8VjHvwDuqhTVQPe4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 428226,
+        "original_language": "fr",
+        "original_title": "Fleur de Tonnerre",
+        "overview": "In 1800, Brittany is on its knees, overwhelmed by the regime in place and by the omnipotent clergy. It founders in an economic slump without end in sight and, in the middle of all this, a young, suffering girl pushes back as best she can. She is known as the \"Poisoning Angel,\" an isolated child, mistreated by life and rocked by morbid thoughts. She will become one of the world's most notorious serial killers and will sow death, perhaps merely to be looked at and loved.",
+        "popularity": 8.687,
+        "poster_path": "/6r73eyl3LY7SeQ9juENQK7IDmJT.jpg",
+        "release_date": "2017-01-18",
+        "title": "The Poisoning Angel",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kDnugfQ3l9P7VDLNvrRN0RMwpe9.jpg",
+        "genre_ids": [
+            10749,
+            80
+        ],
+        "id": 1096318,
+        "original_language": "zh",
+        "original_title": "回廊亭",
+        "overview": "The film is based on the best-selling suspense novel \"The Long Corridor\" by Keigo Higashino. There are countless secrets hidden in the cloister pavilion mansion.  After the rich merchant died of illness, a fire murder case that occurred a year ago was revealed, involving the first heir of the estate, that is, the illegitimate son of the deceased, making the distribution of the estate complicated.",
+        "popularity": 8.686,
+        "poster_path": "/7wYvmD4OQ2JxULqB5HQB131zfVs.jpg",
+        "release_date": "2023-03-10",
+        "title": "Revival",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9NfPEnweU1U99zL6KS8iqJUj9zA.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 883125,
+        "original_language": "hi",
+        "original_title": "चुप",
+        "overview": "A series of bizarre and disturbing murders rock the city of Mumbai. Film critics are being killed week after week with the release of every new film. Arvind Mathur, Head of Crime Branch Mumbai, is tasked with solving the case. With the help of Zenobia, a criminal psychologist, he tries to understand the mind of the killer to trap him.",
+        "popularity": 8.686,
+        "poster_path": "/n3tJMHzqCa3R1CA9lW4n6obJvxJ.jpg",
+        "release_date": "2022-09-23",
+        "title": "Chup",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nHs70ZciItRmCLyREnyzZTWyByk.jpg",
+        "genre_ids": [
+            53,
+            80,
+            36,
+            18
+        ],
+        "id": 936723,
+        "original_language": "et",
+        "original_title": "Apteeker Melchior",
+        "overview": "In medieval Tallinn, a famous knight who is freed from the pirates of the Baltic Sea is murdered. The hero's head is cut off and his mouth is stuffed with coins. The gold chain he bought the same day is missing. The bailiff orders Melchior, an apothecary, to investigate the crime. The clever young man discovers that the slain was looking for a mysterious \"Tallinn prisoner\" and the traces lead to the Dominican monastery. A fabulous sequence of bloodwork is unleashed - anyone who comes into contact with this secret is in danger of dying.",
+        "popularity": 8.685,
+        "poster_path": "/6FQcnPhMWJXQGESspdl8pbMBVET.jpg",
+        "release_date": "2022-04-15",
+        "title": "Melchior the Apothecary",
+        "video": false,
+        "vote_average": 7.077,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ciAbAaEvgCKmiC9dqLdPzwST62k.jpg",
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 132358,
+        "original_language": "en",
+        "original_title": "Cries in the Dark",
+        "overview": "Detective Carrie Macklin and her little sister Elle had always been the closest of friends. But when Elle goes missing after a run-in with a relocated sex offender, it is up to Carrie to find her little sister...who is nine months pregnant. Carrie begins to suspect Elle's husband, Scott, may be involved. Family tensions run high as it's a race against time to find Elle and her baby",
+        "popularity": 8.684,
+        "poster_path": "/r7SeaMu1oBNGeGV4GWF65jtIbHz.jpg",
+        "release_date": "2006-09-15",
+        "title": "Cries in the Dark",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53,
+            27
+        ],
+        "id": 121377,
+        "original_language": "it",
+        "original_title": "Mamba",
+        "overview": "When Gene, a maniacally deranged computer-game designer, gets dumped by his beautiful artist wife, he devises a masochistic plan for revenge. Taking his spouse prisoner, Gene locks her in her windowless Los Angeles loft but leaves her with something to keep her company -- a deadly mamba snake. Via electronic sensors and cameras, he watches with glee as his terrorized ex-lover fights for her life.",
+        "popularity": 8.684,
+        "poster_path": "/1GI1TWs3PT5tbwY3iJjCz7ScNot.jpg",
+        "release_date": "1988-11-01",
+        "title": "Mamba",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6o60tDWSBXacuG2bmXxdu0oM6bi.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 55600,
+        "original_language": "en",
+        "original_title": "Whistle Stop",
+        "overview": "When beautiful Mary returns to her \"whistle stop\" hometown, long-standing feelings of animosity between two of her old boyfriends leads to robbery and murder.",
+        "popularity": 8.684,
+        "poster_path": "/hgJlupEKijunKB206JPSmpRY604.jpg",
+        "release_date": "1946-01-25",
+        "title": "Whistle Stop",
+        "video": false,
+        "vote_average": 4.48,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oPp2xFqPyzh3ecDiLocKyDtqDwU.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 45892,
+        "original_language": "cn",
+        "original_title": "金錢帝國",
+        "overview": "In the early 1970s, the Governor of Hong Kong decided to clean up the police force. The ICAC was established, whose operation branch was headed by Yim. Bong and Unicorn also joined the ICAC. Despite threats of violence and intimidation, they managed to bring about the downfall of the empire of graft.",
+        "popularity": 8.684,
+        "poster_path": "/hU5v6udDDwAXiFXmbucV4eh0KHY.jpg",
+        "release_date": "2009-04-30",
+        "title": "I Corrupt All Cops",
+        "video": false,
+        "vote_average": 5.367,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 200980,
+        "original_language": "en",
+        "original_title": "The Secrets of Comfort House",
+        "overview": "A multiple murder investigation in a small hunting town focuses on one suspect, Wendy Sinclair, who operates a battered women's shelter where each of the victims' wives have sought shelter.",
+        "popularity": 8.683,
+        "poster_path": "/3wR9m5mrXtij0wwdMMeZiRChnCP.jpg",
+        "release_date": "2006-11-10",
+        "title": "The Secrets of Comfort House",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oYbN39TM3Odns0KH6SWau79derV.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 424982,
+        "original_language": "zh",
+        "original_title": "提着心吊着胆",
+        "overview": "A sexually impotent motel owner hires a hit man to murder his cheating wife; everything goes exactly as planned, until two blind daters, a robber, a policeman and a strange dead body unexpectedly arrive.",
+        "popularity": 8.678,
+        "poster_path": "/5OCpNEn188F6Chg39ynjuHyJm95.jpg",
+        "release_date": "2016-06-17",
+        "title": "Absurd Accident",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z5JMTX0wvR7LZhZtrKUSeLxC5EW.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 373040,
+        "original_language": "en",
+        "original_title": "Emergency Squad",
+        "overview": "Betty Bryant is an ambitious newspaper reporter in love with Dan Barton, a member of a big-city Emergency Squad who are trained to deal with riots, cave-in, explosions, fires and other emergencies where lives are at stake. Slade Wiley, an unscrupulous tunnel builder, finds that his low bid on the Newford Tunnel project is causing him to lose a lot of money, and has underworld leader Nick Burton set off blasts to frighten the stockholders into selling their shares at a low price so he can buy up the stock. Betty is investigating the deal when Wiley and Burton take her on a \"tour trip\" to the tunnel.",
+        "popularity": 8.677,
+        "poster_path": "/zfskGG5EJbSS9tCBIEV9OwlUqTQ.jpg",
+        "release_date": "1940-01-05",
+        "title": "Emergency Squad",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/53IDXoAiQnfq07iNITHVAhZrbKU.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 588099,
+        "original_language": "ru",
+        "original_title": "БУМЕРанг",
+        "overview": "A wealthy pharmaceutical business owner, Edik is used to managing and controlling. But fate brings him an unexpected surprise. The unemployed artist Petrovich, who decided to say goodbye to life, falls from the roof of a skyscraper onto a brand new expensive businessman’s car. Is the miserable life of a loser worth that kind of money? Moreover, he will never be able to return them. But debt must be received at all costs, for Edik it is a matter of principle, forgiving others is not in his rules. Edik decides that Petrovich will work for him for free, he has every right to do so, because he is a real master of life. Or does he only think so, and everything can change at any second and turn over exactly the opposite?",
+        "popularity": 8.676,
+        "poster_path": "/xNDjHbT0p6GQ5vgnUZX73QdZoVb.jpg",
+        "release_date": "2021-12-02",
+        "title": "Boomerang",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 15
+    }
+]

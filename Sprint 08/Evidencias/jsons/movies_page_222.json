@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/qDHfaaFORcvd4697RbKphNZIRss.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 454161,
+        "original_language": "zh",
+        "original_title": "风中有朵雨做的云",
+        "overview": "Tang Yijie, the Construction Committee Director, falls off from rooftop and dies in a demolition riot. Yang Jiadong, a young police officer starts his investigation and finds that Tang's death is tied up with another case several years ago. Soon he is framed and suspended from duty, but he never gives up.",
+        "popularity": 13.083,
+        "poster_path": "/kfm4S5DZCh2FwXXdsI4GdjpgXQc.jpg",
+        "release_date": "2018-11-09",
+        "title": "The Shadow Play",
+        "video": false,
+        "vote_average": 6.767,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jIND6Q2Jc6Kfp4fLzgzf5an1C3s.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 812592,
+        "original_language": "pt",
+        "original_title": "Os Salafrários",
+        "overview": "After a botched scam, Clóvis bumps into Lohane, his estranged foster sister. In a bind, they soon realize the only way out is to band together.",
+        "popularity": 15.727,
+        "poster_path": "/gd9PcIgzV3YWa0c7iCECG1TuXX5.jpg",
+        "release_date": "2021-04-28",
+        "title": "Get the Grift",
+        "video": false,
+        "vote_average": 6.46,
+        "vote_count": 101
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x5f2ZOMfDXo4EASc1kVYXYcEXEF.jpg",
+        "genre_ids": [
+            28,
+            35,
+            878,
+            80
+        ],
+        "id": 36222,
+        "original_language": "ja",
+        "original_title": "DEAD OR ALIVE FINAL",
+        "overview": "Set in a post apocalyptic Yokohama where the population is kept under rigid control by a homosexual megalomaniac mayor. The citizens are administered drugs to suppress heterosexual urges. Officer Takeshi Honda is a hard boiled cop enforcing the mayor's agenda, and Ryō is a mellowed out drifter that hooks up with a gang of rebels. When the gang kidnap Takeshi's son, it begins a series of events leading to an inevitable showdown.",
+        "popularity": 13.079,
+        "poster_path": "/jY7T4SFho5lVl5a5C9r2BFJJVs8.jpg",
+        "release_date": "2002-01-12",
+        "title": "Dead or Alive: Final",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AfC1oLOmbWO5OxfEzGUSBGrPUTV.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 58776,
+        "original_language": "cn",
+        "original_title": "眞心英雄",
+        "overview": "Jack and Martin are gunmen who work for two rival kingpins. Jack and Martin have been fighting on their bosses behalf for close to a year. When a truce is made both Jack and Martin are cut loose. The two men then decide to join forces and take on the gangsters who used them.",
+        "popularity": 13.076,
+        "poster_path": "/sfrmqEwgi3i1BlIAEW1bBwEtJ6I.jpg",
+        "release_date": "1998-09-30",
+        "title": "A Hero Never Dies",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r3RDMpTou68u0dBuhKHcBz2wTel.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80
+        ],
+        "id": 226679,
+        "original_language": "en",
+        "original_title": "Perry Mason: The Case of the Jealous Jokester",
+        "overview": "Attorney Bill McKenzie takes the case when his niece is framed for the murder of a popular and demanding sitcom star.",
+        "popularity": 13.073,
+        "poster_path": "/nmpaPoRHtFDyUZw8KRMmiRD7zS4.jpg",
+        "release_date": "1995-04-10",
+        "title": "Perry Mason: The Case of the Jealous Jokester",
+        "video": false,
+        "vote_average": 7.667,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ouhF0NDd50uZfUdRtWd3NmPzoSV.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 33419,
+        "original_language": "en",
+        "original_title": "The House of Fear",
+        "overview": "The Good Comrades are a collection of varied gentlemen who crave one thing - solitude. They reside at Drearcliff House, ancestral home of their eldest member. All seems serene and convivial until one by one the members begin to perish in the most grisly of manners. Foul play is suspected by the Good Comrades' insurance agent, who turns to Sherlock Holmes and Dr. John Watson for guidance.",
+        "popularity": 13.073,
+        "poster_path": "/3tHTXEnBmnTX4tJUQ5JAIKosp3d.jpg",
+        "release_date": "1945-03-16",
+        "title": "The House of Fear",
+        "video": false,
+        "vote_average": 6.823,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2vdzBRU95r92aTHgFXfnPODBUag.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 61998,
+        "original_language": "ru",
+        "original_title": "ПираМММида",
+        "overview": "Russia, early 90s. A fictional story inspired by financier Sergey Mavrodi, his securities company \"MMM\", and the pyramid scheme he ran that left upwards of fifteen million investors with nothing when it crashed.",
+        "popularity": 13.069,
+        "poster_path": "/xg7Ij96vWPK02ySAJmUctmzvKCN.jpg",
+        "release_date": "2011-04-07",
+        "title": "The PyraMMMid",
+        "video": false,
+        "vote_average": 5.603,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a3rzGlFc6UmdWShekSzGbOLWUWk.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648,
+            53
+        ],
+        "id": 28715,
+        "original_language": "en",
+        "original_title": "Madhouse",
+        "overview": "A horror movie star returns to his famous role after years in a mental institution. But the character seems to be committing murders independent of his will.",
+        "popularity": 13.069,
+        "poster_path": "/uGvbgGotNIr24wyMrrfgYcSuH1r.jpg",
+        "release_date": "1974-05-22",
+        "title": "Madhouse",
+        "video": false,
+        "vote_average": 6.15,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mTnE587iBSMv9v0uvEfWSHVQVzq.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80,
+            27
+        ],
+        "id": 85564,
+        "original_language": "en",
+        "original_title": "Nature of the Beast",
+        "overview": "Two men, both hiding a deadly secret, are on a murderous rampage through the desert.",
+        "popularity": 11.08,
+        "poster_path": "/l633GuQGaHJFfNhQg2cEBZHoVjI.jpg",
+        "release_date": "1995-10-23",
+        "title": "Nature of the Beast",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uYXKu20M7I0Fm6pMz75RYqSTi10.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 261290,
+        "original_language": "cn",
+        "original_title": "公僕II",
+        "overview": "Two Cops, one young and hotheaded, the other aging and by-the-book, are teamed up to break a case involving a series of Jewel heists by a ruthless young gangster and his illegal immigrant gang.",
+        "popularity": 13.066,
+        "poster_path": "/xx2uyUOnEmHbSOcHsKh3yYlRDsg.jpg",
+        "release_date": "1995-11-07",
+        "title": "City Cop",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/im2zna0ghMTsBGtD4IUE3gfqwOZ.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 15156,
+        "original_language": "en",
+        "original_title": "Illegal Tender",
+        "overview": "After the gangsters who killed his father come to settle a score, a teenage boy and his mother turn the tables on the killers - one Latino family's quest for honor and revenge as the hunted become the hunters.",
+        "popularity": 13.064,
+        "poster_path": "/aWup2SrtnKKIHoWvcK8Gwr85ScK.jpg",
+        "release_date": "2007-08-24",
+        "title": "Illegal Tender",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rOXcmXwqnhumrLKzTFjUmcFPkHk.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            10770
+        ],
+        "id": 247695,
+        "original_language": "en",
+        "original_title": "The Inspectors",
+        "overview": "U.S Postal Inspectors are called in when a suburban couple are killed by a mail bomb. Suspicion immediately falls on the couple's estranged and heavily in debt son, who also just happens to be a Navy munitions expert. But investigations reveal that he is on the run from a past event in his life that is associated with the bombings.",
+        "popularity": 13.063,
+        "poster_path": "/py4FOsOlGcYuYs1v7VEXjSMnMOE.jpg",
+        "release_date": "1998-09-20",
+        "title": "The Inspectors",
+        "video": false,
+        "vote_average": 5.833,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tLiONt0vV7A3QjUPXWzmosc3vCf.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18,
+            10770
+        ],
+        "id": 110093,
+        "original_language": "en",
+        "original_title": "Donato and Daughter",
+        "overview": "Though emotionally estranged, a father and daughter team of Los Angeles police detectives must work together to stop a serial killer. Along the way, the two find themselves forced to deal with a number of painful secrets from their past.",
+        "popularity": 14.059,
+        "poster_path": "/eatH1IBqG8iTlea1qD6xYdslJBP.jpg",
+        "release_date": "1993-09-21",
+        "title": "Donato and Daughter",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8vFviADj8GIeYNNrERlPVSbwKlN.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 75905,
+        "original_language": "en",
+        "original_title": "Fragment of Fear",
+        "overview": "A reformed drug addict travels to Italy to find out who murdered his aunt.",
+        "popularity": 13.063,
+        "poster_path": "/g0FVuvvekTgfJzgVEoObJ6v2Kdj.jpg",
+        "release_date": "1970-09-03",
+        "title": "Fragment of Fear",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            10770,
+            80
+        ],
+        "id": 539911,
+        "original_language": "en",
+        "original_title": "Art Prison",
+        "overview": "A snarky critic navigates violent personalities and inflamed egos while incarcerated at a prison for the arts.",
+        "popularity": 7.835,
+        "poster_path": "/olsWQ7mtGtT2zrWrzNVp7p9rKGP.jpg",
+        "release_date": "2018-07-29",
+        "title": "Art Prison",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uq8ZNFJPEwBe64htVakNjTZClyW.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 29388,
+        "original_language": "en",
+        "original_title": "High Life",
+        "overview": "It's 1983, and hopeless junkie Dick gets an unwelcome visit from the past - his seriously sleazy former cellmate, Bug, to be precise. Bug requires a crash course in the 80s: different music, different drugs, and machines in walls that dispense money. The latter development gives Dick an idea.",
+        "popularity": 13.058,
+        "poster_path": "/alzUTGTbpA204di5WSIWlBKdjbl.jpg",
+        "release_date": "2009-02-07",
+        "title": "High Life",
+        "video": false,
+        "vote_average": 5.875,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ofJAJTtJgRGzvVhURUpAMRXmaTX.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80,
+            9648
+        ],
+        "id": 70917,
+        "original_language": "en",
+        "original_title": "The Scenesters",
+        "overview": "Someone is killing beautiful young Hipsters in East L.A. Charlie is a crime scene cleaner working for Aftershocks Inc. with a penchant for Sherlock Holmes type deduction. Wallace is an out-of-luck filmmaker working as a crime scene videographer. The detectives covering the murders are apathetic at best but with good names (Henry and Carlita, particularly Carlita). Good names, bad attitudes.",
+        "popularity": 13.053,
+        "poster_path": "/esOcs9qE9xsFCII9hendMIFzVma.jpg",
+        "release_date": "2009-08-31",
+        "title": "The Scenesters",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w1YMpwptMmXZwBLXoDFp3ktuYwv.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 152736,
+        "original_language": "en",
+        "original_title": "Child of God",
+        "overview": "A dispossessed, violent man's life is a disastrous attempt to exist outside the social order. Successively deprived of parents and homes and with few other ties, he descends to the level of a cave dweller and falls deeper into crime and degradation.",
+        "popularity": 11.832,
+        "poster_path": "/6HFUfOnpwHeuHJLs8o4w4QK20C2.jpg",
+        "release_date": "2014-04-28",
+        "title": "Child of God",
+        "video": false,
+        "vote_average": 4.886,
+        "vote_count": 79
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pajE6iL8cYQjMyI7oeXr0d1b5mh.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1046529,
+        "original_language": "fr",
+        "original_title": "Le Masque",
+        "overview": "Featuring interviews with his accomplices and victims alike, this deep dive explores how a master con man scammed French elites out of millions of euros.",
+        "popularity": 13.049,
+        "poster_path": "/7TQLEXSrGPMn0EVCjyBJkSHGpqj.jpg",
+        "release_date": "2022-12-01",
+        "title": "The Masked Scammer",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AqfqJzuO7dwbRGqlPUILoowy9TQ.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 377579,
+        "original_language": "zh",
+        "original_title": "角頭",
+        "overview": "Qing Feng is the top lieutenant under gang boss Yong. Three years ago, his good friend Xiong went to jail for him in the name of brotherhood. Upon his return, Xiong is immediately favored by Yong, which plants a growing rift in his friendship with Qing Feng. Over on the rival gang side, U.S.-educated Michael returns to Taiwan to take over for his late father and applies ruthless business strategies to expand his turf. With his eyes set on a profitable property development project, Michael will stop at nothing to eliminate Yong and take over his turf.",
+        "popularity": 18.269,
+        "poster_path": "/uraW1Xn1uMH7TG9yfaV7kIJnkYC.jpg",
+        "release_date": "2015-07-05",
+        "title": "Gatao",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 4
+    }
+]

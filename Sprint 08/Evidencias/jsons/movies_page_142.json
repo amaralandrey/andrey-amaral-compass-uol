@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/f55oVptYgeiJMUfKSGlgrrkeJox.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            80
+        ],
+        "id": 408873,
+        "original_language": "en",
+        "original_title": "Kings",
+        "overview": "A foster family in South Central a few weeks before the city erupts in violence following the verdict of the Rodney King trial in 1992.",
+        "popularity": 18.74,
+        "poster_path": "/sEQIshX0y64hYjjDbE1KqevW04e.jpg",
+        "release_date": "2017-11-11",
+        "title": "Kings",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 150
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ngSezgLoXhJmG5786Yq6lelxaTj.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            53,
+            9648
+        ],
+        "id": 228968,
+        "original_language": "en",
+        "original_title": "Kidnapping Mr. Heineken",
+        "overview": "The true story of the kidnapping of Freddy Heineken, the grandson of the founder of the Heineken brewery, and his driver. They were released after a ransom of 35 million Dutch guilders was paid.",
+        "popularity": 18.735,
+        "poster_path": "/6JAb9jQa4sONkutfqfR3I7LFpGd.jpg",
+        "release_date": "2015-03-12",
+        "title": "Kidnapping Mr. Heineken",
+        "video": false,
+        "vote_average": 6.008,
+        "vote_count": 616
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kuj6wWY7OuWJmiRtAfqCtcSsZBe.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 428639,
+        "original_language": "ko",
+        "original_title": "두 남자",
+        "overview": "When two men find their lives derailed, they meet challenges that force them to face a fierce battle to protect their loved ones.",
+        "popularity": 18.732,
+        "poster_path": "/ia3xuKuRfKGjwGT8JQzi3VVCnUB.jpg",
+        "release_date": "2016-11-30",
+        "title": "Derailed",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nyiE2ZAtgAAWscwK2mxstTt9Hri.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            18
+        ],
+        "id": 436398,
+        "original_language": "en",
+        "original_title": "Dead Over Heels: An Aurora Teagarden Mystery",
+        "overview": "Librarian and real crime buff Aurora “Roe” Teagarden never liked Detective Sergeant Jack Burns, but she also never wanted to see him dead. When his body is found outside of Aurora’s home, she then becomes  the main suspect. Determined to find the killer and clear her name, Aurora can't help but to get  involved once again.",
+        "popularity": 18.728,
+        "poster_path": "/p6TUrrWS9R2pNGRw7NMw2cyLqkv.jpg",
+        "release_date": "2017-03-19",
+        "title": "Dead Over Heels: An Aurora Teagarden Mystery",
+        "video": false,
+        "vote_average": 6.909,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xo6K13YFlcj5dFM33r6rO2Tac7W.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 26331,
+        "original_language": "en",
+        "original_title": "The Last of Sheila",
+        "overview": "A year after Sheila is killed in a hit-and-run, her multimillionaire husband invites a group of friends to spend a week on his yacht playing a scavenger hunt-style mystery game — but the game turns out to be all too real and all too deadly.",
+        "popularity": 18.725,
+        "poster_path": "/bDPoCBb4mBudYSC4201aHrBZsSg.jpg",
+        "release_date": "1973-06-14",
+        "title": "The Last of Sheila",
+        "video": false,
+        "vote_average": 6.955,
+        "vote_count": 132
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a62YSsCwYd5EyzB5EbaeX2FmM4m.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 42112,
+        "original_language": "fr",
+        "original_title": "L'Argent",
+        "overview": "A forged 500-franc note is passed from person to person and shop to shop, until it falls into the hands of a genuine innocent who doesn't see it for what it is—which will have devastating consequences on his life.",
+        "popularity": 18.721,
+        "poster_path": "/tqt9D4TH702ZXEUKWa3e6UdFAvY.jpg",
+        "release_date": "1983-05-16",
+        "title": "L'Argent",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 245
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lCWM7povtnKwHbFZK8uHxv8GEC9.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12,
+            35,
+            80
+        ],
+        "id": 50482,
+        "original_language": "ja",
+        "original_title": "ルパン三世 風魔一族の陰謀",
+        "overview": "Goemon's wedding to Murasaki Suminawa, daughter of a samurai clan's leader, is interrupted when the Fuma ninjas attack, kidnapping the bride-to-be and demanding her family's ancient treasure as ransom. Lupin, Jigen, Goemon and Fujiko work together once again to try to save Murasaki and get to the treasure before the Fuma can steal it.",
+        "popularity": 18.717,
+        "poster_path": "/q4rgLhAOIxRuXRbodXNEdLkpOXn.jpg",
+        "release_date": "1987-12-26",
+        "title": "Lupin the Third: The Fuma Conspiracy",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r7l5o1jtMmj3b3ol1U5u0Zzd9rl.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1005076,
+        "original_language": "en",
+        "original_title": "Duchess",
+        "overview": "A tough, working-class petty criminal is drawn into the treacherous world of diamond smuggling and morphs into an anti-heroine to be reckoned with in the murky underworld.",
+        "popularity": 18.713,
+        "poster_path": "/ktQeAXWnTTL8tXdqSYHiRyvzLrw.jpg",
+        "release_date": "2024-08-01",
+        "title": "Duchess",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3p59KRj3cSHYNUHv3NrZVkeF0Fh.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 619166,
+        "original_language": "ko",
+        "original_title": "양자물리학",
+        "overview": "An advocate of the concept ‘thoughts create reality’, Chan-woo endeavors to realize his dream of running a high-end nightclub when he finds himself caught in the center of a power game in the criminal underworld.",
+        "popularity": 18.712,
+        "poster_path": "/uanwQIB6CraAAYU0nXqOLRt5NsJ.jpg",
+        "release_date": "2019-09-25",
+        "title": "By Quantum Physics: A Nightlife Venture",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a4DVPRMNFk8TieWltgd57Ak0ctM.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 477654,
+        "original_language": "es",
+        "original_title": "Museo",
+        "overview": "Mexico, 1985. Juan and Wilson, two perennial Veterinary students, perpetrate an audacious heist in the National Museum of Anthropology, running away with a loot of more than hundred invaluable pieces of Mayan art, unaware of the consequences of their outrageous act.",
+        "popularity": 18.711,
+        "poster_path": "/cZ10lucxQH5ixwOoh8iYypFmwJ2.jpg",
+        "release_date": "2018-08-23",
+        "title": "Museo",
+        "video": false,
+        "vote_average": 6.626,
+        "vote_count": 131
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eJCwkyziGYsDTp5pBQzXbEb9QVk.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 5996,
+        "original_language": "en",
+        "original_title": "We're No Angels",
+        "overview": "Three convicts escape from prison on Devil's Island just before Christmas and arrive at a nearby French colonial town. They go to the store of the Ducotels, the only store that gives supplies on credit. They initially intend to take advantage of them but have a change of heart after they find the family is in financial troubles.",
+        "popularity": 18.711,
+        "poster_path": "/UsrZkcoj95K8ZVf7FMnTiZ5P4C.jpg",
+        "release_date": "1955-07-07",
+        "title": "We're No Angels",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 168
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k7E5T2lAJPn6qAp2NieCeUlMWiM.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 26762,
+        "original_language": "en",
+        "original_title": "The Outfit",
+        "overview": "A two-bit criminal takes on the Mafia to avenge his brother's death. Earl Macklin is a small time criminal who is released from prison after an unsuccessful bank robbery only to discover that a pair of gunmen killed his brother.",
+        "popularity": 18.71,
+        "poster_path": "/qDcSuyvNeiDa9C1ghenDTGygsIK.jpg",
+        "release_date": "1973-10-19",
+        "title": "The Outfit",
+        "video": false,
+        "vote_average": 6.862,
+        "vote_count": 69
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b6B0rLiNig6zMsxMC1IGnXSqymI.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 204702,
+        "original_language": "ja",
+        "original_title": "真夏の方程式",
+        "overview": "Masaharu Fukuyama reprises his role from 2008's \"Suspect X,\" playing the physicist-cum-detective Manabu Yukawa. The scientist-sleuth arrives in an oceanside town to speak on a panel. But when a man turns up dead outside the inn where he's staying, Yukawa begins to unravel the connections that tie the victim to the activist daughter of the innkeepers, and a precocious boy who first appears on a train—and keeps popping up. It's a Sherlock Holmes mystery with an environmental twist, and one that should please fans of a classic whodunnit.",
+        "popularity": 18.707,
+        "poster_path": "/tpaA8VfyUrUSUbTAaSjloapTnqa.jpg",
+        "release_date": "2013-06-28",
+        "title": "Midsummer's Equation",
+        "video": false,
+        "vote_average": 6.813,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3YUDie8xndNcH7n19wdpGV6MLIp.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 20055,
+        "original_language": "en",
+        "original_title": "The Betrayed",
+        "overview": "Kidnappers force a young mother to recover money stolen by her shady husband.",
+        "popularity": 18.69,
+        "poster_path": "/ypozb9oWIDZZIwDQZo0s7JgMa6K.jpg",
+        "release_date": "2008-09-27",
+        "title": "The Betrayed",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3kinH40gofloNjjmzvyDkoiZ0zN.jpg",
+        "genre_ids": [
+            28,
+            16,
+            35,
+            10770,
+            80
+        ],
+        "id": 80860,
+        "original_language": "ja",
+        "original_title": "ルパン三世 セブンデイズ・ラプソディ",
+        "overview": "After a successful heist at the race track, talented thief Lupin has his sights set on a valuable diamond set to be displayed in seven days. His plan is complicated when he saves a young girl named Michelle from a group of thugs. Michelle's father is very rich and connected to the diamond; her father also enlists an old mercenary friend of Jigen to persuade Jigen to work for him. Goemon has also been hired by Fujiko to assist her in her own plans for the diamond. With no one to turn to and double-crosses galore, can Lupin pull things together in a week?",
+        "popularity": 18.689,
+        "poster_path": "/qxlr2GL8yBKsmSaYTIhkFEIEup9.jpg",
+        "release_date": "2006-10-10",
+        "title": "Lupin the Third: Seven Days Rhapsody",
+        "video": false,
+        "vote_average": 6.558,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2F74qRanI2hKWJQNlSqX555d3WA.jpg",
+        "genre_ids": [
+            80,
+            53,
+            35
+        ],
+        "id": 90934,
+        "original_language": "cn",
+        "original_title": "香港奇案之吸血貴利王",
+        "overview": "A man's family is torn apart when his wife takes a loan from a loan shark who will stop at nothing to get his money back.",
+        "popularity": 18.686,
+        "poster_path": "/c0XAcWPlQpF6Y3a9f0klQ5RvG7t.jpg",
+        "release_date": "1994-01-22",
+        "title": "The Underground Banker",
+        "video": false,
+        "vote_average": 5.333,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lLe36uxDamMg6YWmIBN7bhuSmdy.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 17736,
+        "original_language": "en",
+        "original_title": "Where the Day Takes You",
+        "overview": "King is a young man, but he's already a veteran of life on the streets of Los Angeles. The de facto leader of a group of teenage runaways, King acts as a mentor to troubled kids such as gay hustler Little J and junkie Greg. When Heather, a beautiful girl from Chicago, starts hanging out with King and his crew, it changes the dynamic of the gang. However, it seems as though nothing will alter their dangerous lifestyle.",
+        "popularity": 18.685,
+        "poster_path": "/6W7pwB1o601kN8zySjHNz5X3QDK.jpg",
+        "release_date": "1992-09-11",
+        "title": "Where the Day Takes You",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sPn3xLcCZCHkwql6ubC4fy3HJEJ.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 22650,
+        "original_language": "fr",
+        "original_title": "Mélodie en sous-sol",
+        "overview": "Charles, fresh out of jail, rejects his wife's plan for a quiet life of bourgeois respectability. He enlists a former cell mate, Francis, to assist him in pulling off one final score, a carefully planned assault on the vault of a Cannes casino.",
+        "popularity": 18.679,
+        "poster_path": "/pjA8gAy6oqLZHXXdCKygqZA6cf6.jpg",
+        "release_date": "1963-03-19",
+        "title": "Any Number Can Win",
+        "video": false,
+        "vote_average": 7.179,
+        "vote_count": 155
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/injkpgCYfAUSZ3ajX6r118GeFVY.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            27,
+            18,
+            80
+        ],
+        "id": 828305,
+        "original_language": "en",
+        "original_title": "Rushed",
+        "overview": "Barbara O’Brien, an Irish Catholic mother, has her life turned upside-down when her son, a freshman in college, is involved in a tragic hazing incident. Taking justice into her own hands, she travels across the country recording mothers who have lost sons to hazing in an effort to prove the university’s liability. When she is confronted by corruption and cover ups, she seeks revenge on the one person she finds truly responsible, proving that hell hath no fury like a mother scorned.",
+        "popularity": 18.675,
+        "poster_path": "/prPR4srMj4KJDRc9uqKbdIz36Bx.jpg",
+        "release_date": "2021-08-27",
+        "title": "Rushed",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fheyOmaLi8m5Iv3C83A5HQMqwUv.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 30712,
+        "original_language": "en",
+        "original_title": "Free Money",
+        "overview": "A deranged prison warden with a nasty habit of killing escapees forces the boyfriends of his teenage twin daughters into a shotgun wedding, after they claim to be pregnant. All hope seems lost, until the husbands hatch a madcap plan to rob a money train to freedom.",
+        "popularity": 18.67,
+        "poster_path": "/rthoTWBsSiaSdtQGwgvr1HcAweT.jpg",
+        "release_date": "1998-12-03",
+        "title": "Free Money",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 44
+    }
+]

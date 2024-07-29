@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/b0omVIe88I2gPIPmX87VYScMsx5.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18,
+            9648
+        ],
+        "id": 1029827,
+        "original_language": "hi",
+        "original_title": "दृश्यम २",
+        "overview": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
+        "popularity": 20.796,
+        "poster_path": "/yJNNwHQuKYNeHFbsxSFR6yK9Dda.jpg",
+        "release_date": "2022-11-18",
+        "title": "Drishyam 2",
+        "video": false,
+        "vote_average": 7.971,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4h24iK9gizpa3RoaLPBaciVrF19.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 8954,
+        "original_language": "en",
+        "original_title": "Reservation Road",
+        "overview": "Two fathers' lives intersect when one of them is involved in a terrible and sudden hit-and-run car accident that leaves the other's son dead. In response, the two men react in unexpected ways as a reckoning looms in the near future.",
+        "popularity": 20.794,
+        "poster_path": "/pZaYofgshgEkeW4Huo3o6tEX89C.jpg",
+        "release_date": "2007-09-13",
+        "title": "Reservation Road",
+        "video": false,
+        "vote_average": 6.481,
+        "vote_count": 365
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x5VeLGlwcdLOZQvhsW7ufBowzAy.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            9648
+        ],
+        "id": 488621,
+        "original_language": "ko",
+        "original_title": "반드시 잡는다",
+        "overview": "After people in his town start turning up dead, a grumpy landlord is visited by a man who recounts an unsolved serial murder case from 30 years ago that may hold the clue to what is happening now.",
+        "popularity": 20.791,
+        "poster_path": "/dZPJ0b73HhbwMzeyucC56HUOOXh.jpg",
+        "release_date": "2017-11-29",
+        "title": "The Chase",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 88
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9eGMtNhhdLjpSlvOmx0vvKRsS9F.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 3101,
+        "original_language": "en",
+        "original_title": "I Love You to Death",
+        "overview": "Joey Boca is the owner of a pizza parlour, and has been married to Rosalie for years. When Rosalie discovers that Joey is a womanizer and has been cheating on her for a long time, she goes to extreme lengths to punish him.",
+        "popularity": 20.791,
+        "poster_path": "/8LdWJLUfEa5JeUJ7SljJQMIJikZ.jpg",
+        "release_date": "1990-04-06",
+        "title": "I Love You to Death",
+        "video": false,
+        "vote_average": 6.396,
+        "vote_count": 246
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wYxtUQNjVyQlXWG330fbCbrNLBm.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1033107,
+        "original_language": "en",
+        "original_title": "Wild Is the Wind",
+        "overview": "When two corrupt police officers investigate the brutal murder of a young girl, tensions come to a head in their small, racially-segregated town.",
+        "popularity": 20.787,
+        "poster_path": "/cyn395RyxeP64T6jEgOGE4K7O46.jpg",
+        "release_date": "2022-10-28",
+        "title": "Wild Is the Wind",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 65
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b6eyVAayLvdpVEH73eo1QTzj9Of.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            10752,
+            80
+        ],
+        "id": 26522,
+        "original_language": "en",
+        "original_title": "A Soldier's Story",
+        "overview": "In a rural town in Louisiana, a black Master Sergeant is found shot to death just outside the local Army Base. Military lawyer, Captain Davenport—also a black man—is sent from Washington to conduct an investigation. Facing an uncooperative chain of command and fearful black troops, Davenport must battle with deceit and prejudice in order to find out exactly who really did kill the Master Sergeant.",
+        "popularity": 20.786,
+        "poster_path": "/vSLrddsvH8bJzryOS5BD9qtTtFa.jpg",
+        "release_date": "1984-09-14",
+        "title": "A Soldier's Story",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 176
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pyIZ6apaueCY0zHqXzkXCTM03sa.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 826691,
+        "original_language": "ja",
+        "original_title": "孤狼の血 LEVEL2",
+        "overview": "After Shogo Ogami’s death in Hiroshima, Detective Shuichi Hioka successfully implemented Shogo Ogami’s plan, which was to control the yakuza to prevent further gang wars and save innocent people from getting harmed. Shuichi Hioka manages the criminal organizations, but, due to one evil person who gets released from prison, the situation drastically changes.",
+        "popularity": 20.778,
+        "poster_path": "/lK1Ueoiy1fbTJjOdseK3Tu0hT6L.jpg",
+        "release_date": "2021-08-20",
+        "title": "Last of the Wolves",
+        "video": false,
+        "vote_average": 6.905,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gkwcpxZSpgijtHl1C2PXLjYVzSl.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1115191,
+        "original_language": "en",
+        "original_title": "Poisoned: The Dirty Truth About Your Food",
+        "overview": "Through revealing interviews with experts and victims' families, this gripping documentary examines the problem of deadly foodborne illness in the US.",
+        "popularity": 20.775,
+        "poster_path": "/2s6Pe9l2NJMFDiscCIx7DwjDJMT.jpg",
+        "release_date": "2023-06-09",
+        "title": "Poisoned: The Dirty Truth About Your Food",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5Tp9yfocwPjap2xZ8m786d3NR5s.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 27233,
+        "original_language": "ja",
+        "original_title": "キッズ・リターン",
+        "overview": "Shinji and Masaru spend most of their school days harassing fellow classmates and playing pranks. They drop out and Shinji becomes a small-time boxer, while Masaru joins up with a local yakuza gang. However, the world is a tough place.",
+        "popularity": 20.768,
+        "poster_path": "/pyyf9Q9eV9ug8ADxkQOZvvyWkgX.jpg",
+        "release_date": "1996-07-27",
+        "title": "Kids Return",
+        "video": false,
+        "vote_average": 7.126,
+        "vote_count": 223
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t93doi7EzoqLFckidrGGnukFPwd.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 339095,
+        "original_language": "en",
+        "original_title": "The Last Days of American Crime",
+        "overview": "In the not-too-distant future, as a final response to crime and terrorism, the U.S. government plans to broadcast a signal that will make it impossible for anyone to knowingly break the law.",
+        "popularity": 20.753,
+        "poster_path": "/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg",
+        "release_date": "2020-06-05",
+        "title": "The Last Days of American Crime",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 807
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v8VSkHabQytkXr6aAo2gopDFzXG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 324333,
+        "original_language": "en",
+        "original_title": "Wild Horses",
+        "overview": "Texas Ranger Samantha Payne reopens a 15-year-old missing person case, and uncovers evidence that suggests that the boy was likely murdered on a ranch belonging to wealthy family man, Scott Briggs. When Scott’s estranged son unexpectedly returns home during the investigation, Samantha becomes even more convinced that the Briggs family was involved, and will stop at nothing to discover the truth about the boy’s death - even putting her own life in jeopardy.",
+        "popularity": 20.749,
+        "poster_path": "/77iVwo0oBaHRk4sFOBcMCh71xlr.jpg",
+        "release_date": "2015-06-05",
+        "title": "Wild Horses",
+        "video": false,
+        "vote_average": 4.903,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jvulRWEbRnDpUx0UUBB42IuTe87.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35
+        ],
+        "id": 873125,
+        "original_language": "it",
+        "original_title": "Rapiniamo il Duce",
+        "overview": "Near the end of WWII, a young bootlegger and his nightclub-singing girlfriend assemble a ragtag team for an dangerous heist: to steal Mussolini's treasure right from his headquarters.",
+        "popularity": 20.745,
+        "poster_path": "/cbdHqb0kZTgF7jQbUw41KEYVInb.jpg",
+        "release_date": "2022-10-26",
+        "title": "Robbing Mussolini",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 242
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ymKr3JIngbEeGXzqDiLEQA1MCjI.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 19150,
+        "original_language": "en",
+        "original_title": "The Crew",
+        "overview": "Four retired mobsters plan one last crime to save their retirement home.",
+        "popularity": 20.734,
+        "poster_path": "/hanCq51GSp3dmboczfXfHPa0wFN.jpg",
+        "release_date": "2000-08-21",
+        "title": "The Crew",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kLtAh588N91zZup6UIubGPQMisJ.jpg",
+        "genre_ids": [
+            27,
+            35,
+            80,
+            9648
+        ],
+        "id": 21799,
+        "original_language": "en",
+        "original_title": "Cutting Class",
+        "overview": "High school student Paula Carson's affections are being sought after by two of her classmates: Dwight, the \"bad boy\", and Brian, a disturbed young man who has just been released from a mental hospital where he was committed following the suspicious death of his father. Soon after being released, more murders start happening. Is Brian back to his old tricks, or is Dwight just trying to eliminate the competition?",
+        "popularity": 20.727,
+        "poster_path": "/o0PYYaN9JRrm66C42HhjdxwxNVM.jpg",
+        "release_date": "1989-07-01",
+        "title": "Cutting Class",
+        "video": false,
+        "vote_average": 4.96,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uizfVRkjqjTUcPu1rhb2Up10gwp.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 6081,
+        "original_language": "en",
+        "original_title": "Revenge of the Pink Panther",
+        "overview": "Chief Inspector Jacques Clouseau is dead. At least that is what the world—and Charles Dreyfus—believe when a dead body is discovered in Clouseau's car after being shot off the road. Naturally, Clouseau knows differently and, taking advantage of not being alive, sets out to discover why an attempt was made on his life.",
+        "popularity": 20.723,
+        "poster_path": "/pvFiI8Kkq6JIf9uxDUU5FEvet7f.jpg",
+        "release_date": "1978-01-08",
+        "title": "Revenge of the Pink Panther",
+        "video": false,
+        "vote_average": 6.428,
+        "vote_count": 404
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/elqCaVi6Amkx5hzPsJ3Km5Ru3Yg.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80
+        ],
+        "id": 813079,
+        "original_language": "ko",
+        "original_title": "타겟",
+        "overview": "A young lady who has recently moved out on her own claims to the authorities that a user of a second-hand selling app sold her a damaged washing machine, only to discover that he is a psychotic serial murderer.",
+        "popularity": 20.721,
+        "poster_path": "/kYmoJSypfpB9OnwvxebiV1nZUXi.jpg",
+        "release_date": "2023-08-30",
+        "title": "Don't Buy the Seller",
+        "video": false,
+        "vote_average": 6.964,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dUyTuhjC3tnSeygWeU9CrByS461.jpg",
+        "genre_ids": [
+            28,
+            80,
+            14
+        ],
+        "id": 299738,
+        "original_language": "zh",
+        "original_title": "四大名捕大结局",
+        "overview": "The reputation of the Four constables survives, but since Emotionless’s departure, there have been changes at the Divine Constabulary. The four Coldblood, Iron Hands, Life Snatcher, rescue Zhuge Zhengwo from An Yunshan’s mountain fortress, then with the Emperor and Di armies, they attack. But An Yunshan absorbs their power, which means the constables and their allies now face their most lethal opponent yet, a nearly invincible kung fu master who won’t stop until he has absolute power...",
+        "popularity": 20.72,
+        "poster_path": "/zXeEs2NCtw6IGoHxkxcsYQskpRK.jpg",
+        "release_date": "2014-08-21",
+        "title": "The Four 3",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mBL8qkSJKjAOdm3r14PtVV1Hf5L.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 25563,
+        "original_language": "en",
+        "original_title": "Marked Woman",
+        "overview": "In the underworld of Manhattan, a woman dares to stand up to one of the city's most powerful gangsters.",
+        "popularity": 20.717,
+        "poster_path": "/rJHNkbEnyjQUl8DXWxk127hNEhD.jpg",
+        "release_date": "1937-04-10",
+        "title": "Marked Woman",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 67
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/umU01ex28ykcaF5IxcHPB0lSGP1.jpg",
+        "genre_ids": [
+            28,
+            53,
+            878,
+            80
+        ],
+        "id": 921355,
+        "original_language": "en",
+        "original_title": "Assassin",
+        "overview": "A private military operation invents futuristic microchip tech that enables the mind of an agent to inhabit the body of another person to carry out covert, deadly missions. But when an agent is killed during a secret mission, his wife takes his place in an attempt to bring the man responsible to justice.",
+        "popularity": 20.715,
+        "poster_path": "/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg",
+        "release_date": "2023-03-31",
+        "title": "Assassin",
+        "video": false,
+        "vote_average": 5.235,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gEt8nXeSIAZB0xzjeUO6aeH1YnP.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1028684,
+        "original_language": "ko",
+        "original_title": "화란",
+        "overview": "Yeon-gyu is a teenage boy who wants to escape his hometown where violence is commonly enacted among neighbors. He only hopes to have a peaceful life with his mother. However, the world never allows him to have a dream nor hope for life. When Yeon-gyu needs a hand from grown-ups, Chi-geon, a thug of the town, offers a favor. The simple favor leads Yeon-gyu to explore the world of Chi-geon. It ironically results Yeon-gyu gradually falling into Chi-geon’s life. Grasping hope to run away from where he is, he struggles between the border. Can he escape from the town at the end?",
+        "popularity": 20.712,
+        "poster_path": "/uTRHbP2g3LVmMflDKnqibp9AJqc.jpg",
+        "release_date": "2023-10-11",
+        "title": "Hopeless",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 20
+    }
+]

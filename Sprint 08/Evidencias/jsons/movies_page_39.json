@@ -1,0 +1,408 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/qbe8WKCS0FpsuIjGR928QK3jn6z.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 10023,
+        "original_language": "en",
+        "original_title": "Dragnet",
+        "overview": "LAPD Sgt. Joe Friday -- the equally straight-laced nephew of the famous police sergeant of the same name -- is paired up with a young, freewheeling detective named Pep Streebeck. After investigating some strange robberies at the local zoo and the theft of a stockpile of pornographic magazines, they uncover cult activity in the heart of the city and are hot on the case to figure out who's behind it all.",
+        "popularity": 37.531,
+        "poster_path": "/77H17YDeHoJCHebpfGF1rY3Dfof.jpg",
+        "release_date": "1987-06-23",
+        "title": "Dragnet",
+        "video": false,
+        "vote_average": 5.949,
+        "vote_count": 465
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/whShrongfHvdSTPfpcN0NbGpXKF.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35,
+            53
+        ],
+        "id": 10536,
+        "original_language": "en",
+        "original_title": "The Italian Job",
+        "overview": "Charlie's got a 'job' to do. Having just left prison he finds one of his friends has attempted a high-risk job in Torino, Italy, right under the nose of the mafia. Charlie's friend doesn't get very far, so Charlie takes over the 'job'. Using three Mini Coopers, a couple of Jaguars, and a bus, he hopes to bring Torino to a standstill, steal a fortune in gold and escape in the chaos.",
+        "popularity": 37.526,
+        "poster_path": "/8NOw3HPHkcBndJW2K6ofbcSb7WD.jpg",
+        "release_date": "1969-06-02",
+        "title": "The Italian Job",
+        "video": false,
+        "vote_average": 6.99,
+        "vote_count": 711
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/diPHTkeV6UFskO96OSCy1PCh4Rr.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 97367,
+        "original_language": "en",
+        "original_title": "The Place Beyond the Pines",
+        "overview": "A motorcycle stunt rider considers committing a crime in order to provide for his wife and child, an act that puts him on a collision course with a cop-turned-politician.",
+        "popularity": 37.473,
+        "poster_path": "/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+        "release_date": "2013-03-20",
+        "title": "The Place Beyond the Pines",
+        "video": false,
+        "vote_average": 6.968,
+        "vote_count": 4737
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dJINMWkUtKxP50vqFrMVWZGgxpp.jpg",
+        "genre_ids": [
+            53,
+            12,
+            18,
+            80
+        ],
+        "id": 11583,
+        "original_language": "en",
+        "original_title": "The First Great Train Robbery",
+        "overview": "In Victorian England, a master criminal makes elaborate plans to steal a shipment of gold from a moving train.",
+        "popularity": 37.437,
+        "poster_path": "/4LqLUNoCwoPQNmrRuDZa0zC3hT8.jpg",
+        "release_date": "1978-12-14",
+        "title": "The First Great Train Robbery",
+        "video": false,
+        "vote_average": 6.676,
+        "vote_count": 347
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/88wEXW9NIURi496KrIgD50dw87l.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 11615,
+        "original_language": "en",
+        "original_title": "The Life of David Gale",
+        "overview": "A man against capital punishment is accused of murdering a fellow activist and is sent to death row.",
+        "popularity": 37.418,
+        "poster_path": "/7tcAvE82JyxIi79cwQV5br90KVz.jpg",
+        "release_date": "2003-02-21",
+        "title": "The Life of David Gale",
+        "video": false,
+        "vote_average": 7.424,
+        "vote_count": 1960
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2MZNoxmNs34pyFC1JFhEy1pqgnG.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 20676,
+        "original_language": "en",
+        "original_title": "Deep Cover",
+        "overview": "Black police officer Russell Stevens applies for a special anti-drug squad which targets the highest boss of cocaine delivery to LA—the Colombian foreign minister's nephew. Russell works his way up from the bottom undercover, until he reaches the boss.",
+        "popularity": 37.395,
+        "poster_path": "/etr2mCm7gMufAJkSLuB23XocDtd.jpg",
+        "release_date": "1992-04-15",
+        "title": "Deep Cover",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 202
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uYAOmmcEhmAqWx9169AuJlln4dC.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53,
+            80
+        ],
+        "id": 9458,
+        "original_language": "en",
+        "original_title": "Desperate Measures",
+        "overview": "San Francisco police officer Frank Connor is in a frantic search for a compatible bone marrow donor for his gravely ill son. There's only one catch the potential donor is convicted multiple murderer Peter McCabe who sees a trip to the hospital as the perfect opportunity to get what he wants most: freedom. With McCabe's escape, the entire hospital becomes a battleground and Connor must pursue and, ironically, protect the deadly fugitive who is his son's only hope for survival.",
+        "popularity": 37.35,
+        "poster_path": "/74ibzyjLp2dizmiua5nHn4llG0l.jpg",
+        "release_date": "1998-01-30",
+        "title": "Desperate Measures",
+        "video": false,
+        "vote_average": 5.949,
+        "vote_count": 272
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nAVntSurtINQNtYPU7ijgCtgz7W.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 13483,
+        "original_language": "en",
+        "original_title": "Awake",
+        "overview": "While undergoing heart surgery, a man experiences a phenomenon called ‘anesthetic awareness’, which leaves him awake but paralyzed throughout the operation. As various obstacles present themselves, his wife must make life-altering decisions while wrestling with her own personal drama.",
+        "popularity": 37.328,
+        "poster_path": "/jIPIxaBcppLLkygko7tV5yuTIs1.jpg",
+        "release_date": "2007-11-28",
+        "title": "Awake",
+        "video": false,
+        "vote_average": 6.517,
+        "vote_count": 1335
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 548,
+        "original_language": "ja",
+        "original_title": "羅生門",
+        "overview": "Brimming with action while incisively examining the nature of truth, \"Rashomon\" is perhaps the finest film ever to investigate the philosophy of justice. Through an ingenious use of camera and flashbacks, Kurosawa reveals the complexities of human nature as four people recount different versions of the story of a man's murder and the rape of his wife.",
+        "popularity": 37.319,
+        "poster_path": "/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+        "release_date": "1950-08-26",
+        "title": "Rashomon",
+        "video": false,
+        "vote_average": 8.091,
+        "vote_count": 2141
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mWhZofAouxfL3nDm1y2UovcpYi6.jpg",
+        "genre_ids": [
+            16,
+            80,
+            53
+        ],
+        "id": 20677,
+        "original_language": "ja",
+        "original_title": "名探偵コナン 瞳の中の暗殺者",
+        "overview": "Police officers around Tokyo are being murdered by an unknown assailant. When Ran witnesses an attempt on the life of one of her friends in the police, she loses her memory. Now, Conan and Inspector Megure must find the murderer while Ran attempts to regain her lost memories.",
+        "popularity": 37.307,
+        "poster_path": "/rRaiZe7EHJewDpmby0nFx6esDUs.jpg",
+        "release_date": "2000-04-22",
+        "title": "Detective Conan: Captured in Her Eyes",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 164
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9S0BHQuZAyNMG0GpHAMSIbF38au.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 2140,
+        "original_language": "en",
+        "original_title": "Kiss of the Dragon",
+        "overview": "Liu Jian, an elite Chinese police officer, comes to Paris to arrest a Chinese drug lord. When Jian is betrayed by a French officer and framed for murder, he must go into hiding and find new allies.",
+        "popularity": 37.29,
+        "poster_path": "/A1GrGdX4AgCRDweg9X3x8JsZrEc.jpg",
+        "release_date": "2001-07-06",
+        "title": "Kiss of the Dragon",
+        "video": false,
+        "vote_average": 6.847,
+        "vote_count": 1149
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1UJGs4tqlmNkJy5CcW1VKwj8l8k.jpg",
+        "genre_ids": [
+            16,
+            9648,
+            28,
+            80
+        ],
+        "id": 374856,
+        "original_language": "ja",
+        "original_title": "名探偵コナン 純黒の悪夢（ナイトメア）",
+        "overview": "On a dark night, the Japanese police is raided by a spy. Different countries' intelligence agencies - such as England's MI6, Germany's BDN, and America's CIA - as well as the FBI's secret files are going to be taken, but public safety officers lead by Tooru Amuro arrive just in time. The spy steals a car and escapes. The spy and Amuro are then locked in a dead heat on the highway, and just as it is about to cause an accident with multiple cars, the spy's car is hit by FBI agent Shuichi Akai's rifle bullet and falls of the roadway. The next day, Conan and his friends go to a newly-remodeled aquarium in Tokyo. Under the main attraction, a Ferris wheel, Conan finds an attractive woman alone and injured. Her left and right eyes are different colors.",
+        "popularity": 37.287,
+        "poster_path": "/tasvYnXZeiNQwEc9atoFQs0K9jc.jpg",
+        "release_date": "2016-04-16",
+        "title": "Detective Conan: The Darkest Nightmare",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 98
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/llMc0bO5G8jpkMqqcLNy7Y8LYBf.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 541305,
+        "original_language": "en",
+        "original_title": "Kajillionaire",
+        "overview": "Two con artists have spent 26 years training their only daughter to swindle, scam and steal at every turn. During a desperate and hastily conceived heist, they charm a stranger into joining them, only to have their entire world turned upside down.",
+        "popularity": 37.286,
+        "poster_path": "/fkqJJDb4u9rEyJu8Jm8H1P2mux4.jpg",
+        "release_date": "2020-09-25",
+        "title": "Kajillionaire",
+        "video": false,
+        "vote_average": 6.285,
+        "vote_count": 439
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bTIuMOGh4RW3jLyHvVjrrKi7jY7.jpg",
+        "genre_ids": [
+            27,
+            35,
+            80
+        ],
+        "id": 66489,
+        "original_language": "en",
+        "original_title": "Bad",
+        "overview": "Hazel runs a beauty salon out of her house, but makes extra money by providing ruthless women the oppurtunity to perform hit jobs. L.T. is a parasite, and contacts Hazel looking for work after he runs out of money. She is reluctant to use him for a hit, since she prefers using women, but decides to try him on a trial basis. Meanwhile, the cop she pays off wants an arrest to make it look like he's doing his job, but Hazel doesn't want to sacrifice any of her \"associates\". The sleazy side of life is explored in this delightfully dark and deadpan film.",
+        "popularity": 37.267,
+        "poster_path": "/jEO4qgv3KXRoEPg3wEJKX7ITD7O.jpg",
+        "release_date": "1977-05-04",
+        "title": "Bad",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8OCo2aJRWcdnzKkzqplP1V0sgYU.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 259695,
+        "original_language": "en",
+        "original_title": "Live by Night",
+        "overview": "A group of Boston-bred gangsters set up shop in balmy Florida during the Prohibition era, facing off against the competition and the Ku Klux Klan.",
+        "popularity": 37.242,
+        "poster_path": "/bkd46T4RplawnDjpHoI8mhzTLks.jpg",
+        "release_date": "2016-12-25",
+        "title": "Live by Night",
+        "video": false,
+        "vote_average": 6.256,
+        "vote_count": 1272
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gSCT6oP2Sbm71naW28Lh7afcMgY.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 12493,
+        "original_language": "ja",
+        "original_title": "天国と地獄",
+        "overview": "In the midst of an attempt to take over his company, a powerhouse executive is hit with a huge ransom demand when his servants son is kidnapped",
+        "popularity": 37.235,
+        "poster_path": "/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+        "release_date": "1963-03-01",
+        "title": "High and Low",
+        "video": false,
+        "vote_average": 8.32,
+        "vote_count": 859
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bvAMLx00BOr6vkSQWZscwGrPdGI.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            18
+        ],
+        "id": 1058949,
+        "original_language": "en",
+        "original_title": "Little Dixie",
+        "overview": "Erstwhile Special Forces operative Doc Alexander is asked to broker a truce with the Mexican drug cartel in secrecy. When Oklahoma Governor Richard Jeffs celebrates the execution of a high-ranking cartel member on TV, his Chief of Staff and Doc inform him about the peace he just ended. But it’s too late, as Cuco, the cartel’s hatchet man, has set his vengeful sights on Doc’s daughter Dixie.",
+        "popularity": 37.228,
+        "poster_path": "/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
+        "release_date": "2023-02-03",
+        "title": "Little Dixie",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 134
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y1VDwUT1cZNOOgrCHHwnsIdUhWe.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 1051023,
+        "original_language": "hi",
+        "original_title": "मर्डर मुबारक",
+        "overview": "When a gym trainer is murdered at an elite Delhi club, a wily investigator unravels the sordid secrets of its ultrarich members to find the killer.",
+        "popularity": 37.223,
+        "poster_path": "/joU5VihgUvkhyPnhzxfjmWk32rd.jpg",
+        "release_date": "2024-03-15",
+        "title": "Murder Mubarak",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g1J3SBqxbeHLTatlzHp8bGhaAwO.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36,
+            10749
+        ],
+        "id": 4415,
+        "original_language": "en",
+        "original_title": "Les Misérables",
+        "overview": "In 19th century France, Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.",
+        "popularity": 37.221,
+        "poster_path": "/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg",
+        "release_date": "1998-05-01",
+        "title": "Les Misérables",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 605
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tCBcuOw60wjzLvg9oJdZKlBn1nG.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            9648
+        ],
+        "id": 11371,
+        "original_language": "en",
+        "original_title": "The Score",
+        "overview": "An aging thief hopes to retire and live off his ill-gotten wealth when a young kid convinces him into doing one last heist.",
+        "popularity": 37.192,
+        "poster_path": "/fsb4m9XW59mei8GKznvI3lLzcfp.jpg",
+        "release_date": "2001-07-13",
+        "title": "The Score",
+        "video": false,
+        "vote_average": 6.694,
+        "vote_count": 1594
+    }
+]

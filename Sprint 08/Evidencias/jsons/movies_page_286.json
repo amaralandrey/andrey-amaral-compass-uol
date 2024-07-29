@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/klihgytIMudjmc73E8LAtUu5GV5.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 461809,
+        "original_language": "hi",
+        "original_title": "बाबूमोशाय बन्दूकबाज़",
+        "overview": "Two contract killer from Uttar Pradesh, Babu Bihari and Banke Bihari who are often paid to bump off the same game, cross each other's path and end up fighting with each other.",
+        "popularity": 10.868,
+        "poster_path": "/nmqyewAS2fbpXUKKEl5VehuxdfA.jpg",
+        "release_date": "2017-08-25",
+        "title": "Babumoshai Bandookbaaz",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hvNOZ5T0kmGAdC8P7SG8BaKuXam.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 303047,
+        "original_language": "cn",
+        "original_title": "伴我縱橫",
+        "overview": "Two brothers Ah B and Dee live in two different worlds. Ah B decides to quit his smuggling business for a new life, but accidentally involves the innocent Dee into the smuggling case.",
+        "popularity": 10.868,
+        "poster_path": "/e0LiPPig6E5qyM39003x1hSsviD.jpg",
+        "release_date": "1992-04-01",
+        "title": "Rhythm of Destiny",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6vRV8t5yrfKNSJcmEzrNO1fWEFJ.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 54524,
+        "original_language": "de",
+        "original_title": "Der Räuber",
+        "overview": "A champion marathoner leads a double life as a serial bank robber, sprinting between fixes (and away from police cavalcades) as many as three times a day.",
+        "popularity": 10.866,
+        "poster_path": "/wxJ579nYUXzy9WeI13hIPld8tDs.jpg",
+        "release_date": "2010-02-26",
+        "title": "The Robber",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 85
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uKjofEhLTRhcF2dTrutnkGol4w.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            9648
+        ],
+        "id": 1202841,
+        "original_language": "es",
+        "original_title": "Historia de un Crimen: Mauricio Leal",
+        "overview": "When an up-and-coming stylist is found stabbed to death in his home, a young detective is given 20 days to solve the case. Inspired by true events.",
+        "popularity": 10.865,
+        "poster_path": "/3A7HUqnrWRbkL6H1mQxSimXM26R.jpg",
+        "release_date": "2023-11-22",
+        "title": "Crime Diaries: The Celebrity Stylist",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gadF96nDIadabPpCMN2wIBAJLKj.jpg",
+        "genre_ids": [
+            28,
+            12,
+            10770,
+            80
+        ],
+        "id": 103675,
+        "original_language": "en",
+        "original_title": "Model by Day",
+        "overview": "Lady X is a woman who works during the day as a model but turns into a fighter for justice at night with the help of her karate master Chang.",
+        "popularity": 10.865,
+        "poster_path": "/tljlsTmZhf6uHSuhH4gIvvCp4gg.jpg",
+        "release_date": "1993-10-10",
+        "title": "Model by Day",
+        "video": false,
+        "vote_average": 2.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            10770,
+            80,
+            9648
+        ],
+        "id": 258353,
+        "original_language": "en",
+        "original_title": "The Good Mistress",
+        "overview": "A woman's one-night stand turns out to be her friend's husband, and a local political candidate.",
+        "popularity": 10.864,
+        "poster_path": "/lUHQFbWygE5my6nkSo7yCjBUMbz.jpg",
+        "release_date": "2014-02-15",
+        "title": "The Good Mistress",
+        "video": false,
+        "vote_average": 4.175,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 591293,
+        "original_language": "en",
+        "original_title": "Macbeth",
+        "overview": "A chef and his restaurant-hostess wife resort to murder to take ownership of a high-class Glaswegian restaurant.",
+        "popularity": 10.861,
+        "poster_path": "/cgHsEViwdHlPVIZWyd7ApHLbtWZ.jpg",
+        "release_date": "2005-11-14",
+        "title": "Macbeth",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/atYpoknxO5r8MegVeh27kqB6ESZ.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 201703,
+        "original_language": "en",
+        "original_title": "Love's Deadly Triangle: The Texas Cadet Murder",
+        "overview": "Based on a true story, this film recounts the story of Diane Zamora and David Graham, two high school sweethearts who swear to always be together, even as they enter separate military academies. But when David confesses he had an affair with a classmate, Diane has an ultimatum, leading the two into a murderous pact with severe repercussions.",
+        "popularity": 10.858,
+        "poster_path": "/mzSnmvDyJxodFmrO4I40igCvbRE.jpg",
+        "release_date": "1997-02-20",
+        "title": "Love's Deadly Triangle: The Texas Cadet Murder",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zr6LHA7lDXrNKXNhPQdaBQuUViI.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53,
+            18
+        ],
+        "id": 20298,
+        "original_language": "en",
+        "original_title": "Black Angel",
+        "overview": "A falsely convicted man's wife, Catherine, and an alcoholic composer and pianist, Martin team up in an attempt to clear her husband of the murder of a blonde singer, who is Martin's wife.",
+        "popularity": 10.858,
+        "poster_path": "/gSpQ7iTM8P3VIW8vlrvtmYBPjap.jpg",
+        "release_date": "1946-08-02",
+        "title": "Black Angel",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/arUywl3oO34NyaXU3tHDCMeDxjy.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648,
+            10770
+        ],
+        "id": 67467,
+        "original_language": "ru",
+        "original_title": "Место встречи изменить нельзя",
+        "overview": "Summer of 1945. The salute of the Great Victory died down and the country is gradually returning to peaceful life. From \"fire yes into the fire\" a young reconnaissance commander Volodya Sharapov falls, having come to the MUR for distribution, to the department for combating banditry. In the city the Black Cat gang rages, terrifying Muscovites. Captain Gleb Zheglov enters the fray with the bandits, for whom Sharapov soon becomes his right hand.",
+        "popularity": 10.855,
+        "poster_path": "/4zQ9YplCntIrUrR2Hsq1i5vEPjY.jpg",
+        "release_date": "1979-11-11",
+        "title": "The Meeting Place Cannot Be Changed",
+        "video": false,
+        "vote_average": 8.175,
+        "vote_count": 77
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nQSh4gZZK0fONiwvNWHQlDeAvVp.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 220495,
+        "original_language": "hi",
+        "original_title": "Bullett Raja",
+        "overview": "A common man who transforms into a gangster revolts against the very system he once obediently followed by declaring war on the police, the government, and the industrialists.",
+        "popularity": 10.854,
+        "poster_path": "/9IkcVLgAdDvbycaOkb0t6PCIYbd.jpg",
+        "release_date": "2013-11-29",
+        "title": "Bullett Raja",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bQja97chpU5nQcxlLz9a9QSxDhg.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 46559,
+        "original_language": "ja",
+        "original_title": "暴力街",
+        "overview": "With a Kansai syndicate setting their sights on Tokyo, a former yakuza boss gets dragged back into a world of violence.",
+        "popularity": 10.854,
+        "poster_path": "/3LqcnoWXW29b7gKzgmlMrDliVQl.jpg",
+        "release_date": "1974-04-13",
+        "title": "Violent Streets",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yowGMmlfVvqwPZWiZJrG1fBaa6V.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80,
+            53
+        ],
+        "id": 40507,
+        "original_language": "en",
+        "original_title": "Original Gangstas",
+        "overview": "A violent street gang, the Rebels, rule the streets of Gary, Indiana. The Rebels shoot Marvin Bookman, a store-keeper, for giving the police information about a drive-by shooting they committed. Marvin's son, former NFL star John who created the Rebels, returns to Gary to be with his father and, with a little help from his friends, to destroy the Rebels his way.",
+        "popularity": 10.852,
+        "poster_path": "/uirrsTZmoPmscHZdyWz4tiXVqHE.jpg",
+        "release_date": "1996-05-10",
+        "title": "Original Gangstas",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3dsEnsy30sKoSJkyobnBFzpd5NS.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 46865,
+        "original_language": "en",
+        "original_title": "Beeper",
+        "overview": "Richard Avery, whose young son is kidnapped while they travel in India. Embarking on a desperate quest to rescue him, and with a beeper providing his only lead, Avery seeks help from unlikely sources, including a drug lord and a beautiful but dangerous woman named Julia.",
+        "popularity": 10.851,
+        "poster_path": "/lvoBNz0Wsz24IHf1pHD1p1aYXXy.jpg",
+        "release_date": "2002-10-10",
+        "title": "Beeper",
+        "video": false,
+        "vote_average": 5.833,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8aXfZK2KJggOQhUhmrYaULvwF3L.jpg",
+        "genre_ids": [
+            53,
+            27,
+            80
+        ],
+        "id": 535657,
+        "original_language": "ta",
+        "original_title": "U Turn",
+        "overview": "When a flyover in the city becomes the hotbed of accidents, a young reporter decides to investigate the issue. Her quest for an answer would lead her into a web of intrigue, murder and mystery.",
+        "popularity": 10.85,
+        "poster_path": "/d5wL2axBtieecnAD6X4HMgrkXGp.jpg",
+        "release_date": "2018-09-13",
+        "title": "U Turn",
+        "video": false,
+        "vote_average": 6.865,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xLChOwYX8rYZIJgRqOgt2uXyZzM.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 301133,
+        "original_language": "it",
+        "original_title": "Il Pentito",
+        "overview": "A judge on crusade to take down the Italian Mafia uses a gangster turned state's witness (a so-called \"repenter\") and a New York banker to do it. But things aren't quite what they seem.",
+        "popularity": 10.849,
+        "poster_path": "/zFjAKGsN2SLJzBRrSmIMbRw0O5T.jpg",
+        "release_date": "1985-11-15",
+        "title": "The Repenter",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iTpUdWgqDw2HYUqnJZ9DHIrRIIq.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 48392,
+        "original_language": "sv",
+        "original_title": "Sound of Noise",
+        "overview": "A tone-deaf cop works to track down a group of guerilla percussionists whose anarchic public performances are terrorizing the city.",
+        "popularity": 10.846,
+        "poster_path": "/fD4WnzQH0YrvqXXon9RDTnOVPUw.jpg",
+        "release_date": "2010-12-25",
+        "title": "Sound of Noise",
+        "video": false,
+        "vote_average": 7.25,
+        "vote_count": 154
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o3VYTmfvl5KkMFEmD7uPPF4HZyL.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 3477,
+        "original_language": "fr",
+        "original_title": "Le Trio Infernal",
+        "overview": "Marseilles, 1919. Georges Sarret is a distinguished and respected lawyer, recently honoured for his services in the First World War. He takes as his lover Philomène Schmidt, a young German woman, who has just lost her job and home. To enable Philomène to remain in France, Georges finds her a husband – who dies conveniently of natural causes a month after the wedding. Georges repeats the trick with Philomène's sister, Catherine – marrying her off to an old man who dies suddenly so that the scheming trio can profit from his life insurance. When an accomplice in the scheme, Marcel Chambon, threatens to blackmail them, Georges and his two lovers have no option but to kill him and his mistress...",
+        "popularity": 10.845,
+        "poster_path": "/t97SXV2CdLXfrvPTHdb0xTBYVJW.jpg",
+        "release_date": "1974-05-22",
+        "title": "The Infernal Trio",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h1de3BjtvBY7RRGrr2GAlHPIf2W.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 115695,
+        "original_language": "es",
+        "original_title": "El Lute II: mañana seré libre",
+        "overview": "This is the story of a man fighting with all his might for his life and his freedom. Eleuterio (”El Lute”) embarks upon an action-packed future, fuelled by the notions of freedom and dreams of living just as his countrymen, ever-growing in his mind. Nothing and no-one can stop him. After escaping the Puerto de Santa María prison, the reunion with his family is just the beginning of what will become an endless escape.",
+        "popularity": 10.844,
+        "poster_path": "/eNLpsvvfrxQ924cpGFguN5ejTH6.jpg",
+        "release_date": "1988-04-20",
+        "title": "El Lute II: Tomorrow I'll Be Free",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/koTqXhCUth5sAJ1Oqfgbl5IFDR8.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 278778,
+        "original_language": "en",
+        "original_title": "Dancing Ninja",
+        "overview": "An orphaned boy who dreams of being a ninja arrives in Hollywood and attempts to find his birth parents.",
+        "popularity": 10.843,
+        "poster_path": "/xp0OMl25R6twf7q9sMSVqKte3tT.jpg",
+        "release_date": "2010-06-07",
+        "title": "Dancing Ninja",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 13
+    }
+]

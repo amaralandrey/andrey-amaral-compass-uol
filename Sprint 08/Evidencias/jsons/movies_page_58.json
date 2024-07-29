@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/qeTBrEHmaWdiBq7fFx0f65rccuW.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 14786,
+        "original_language": "en",
+        "original_title": "Gotti",
+        "overview": "John Gotti, the head of a small New York mafia crew breaks a few of the old family rules. He rises to become the head of the Gambino family and the most well-known mafia boss in America. Life is good, but suspicion creeps in, and greed, rule-breaking and his high public profile all threaten to topple him.",
+        "popularity": 31.341,
+        "poster_path": "/9SVKC2ef0aqVbThlEGppRTdAiZu.jpg",
+        "release_date": "1996-08-17",
+        "title": "Gotti",
+        "video": false,
+        "vote_average": 6.346,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cYjglKnAbWgmALRqi8qR3wGqh7Y.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 14979,
+        "original_language": "en",
+        "original_title": "Thick as Thieves",
+        "overview": "A master thief recruits a notorious thief to help him steal two famous Faberge eggs from an impenetrable vault in an effort to pull off one final job and repay his debt to the Russian mob.",
+        "popularity": 31.323,
+        "poster_path": "/sgRY2ie8koJxfOScMuvzHQ9TuZX.jpg",
+        "release_date": "2009-01-09",
+        "title": "Thick as Thieves",
+        "video": false,
+        "vote_average": 5.965,
+        "vote_count": 765
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/awiTvAC4TGLcdPK7UDXwTd5rjlB.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80
+        ],
+        "id": 290751,
+        "original_language": "en",
+        "original_title": "Secret in Their Eyes",
+        "overview": "A tight-knit team of FBI investigators, along with their District Attorney supervisor, is suddenly torn apart when they discover that one of their own teenage daughters has been brutally murdered.",
+        "popularity": 31.306,
+        "poster_path": "/gJl4iTxQlazkPCplGmSLGBUwqg9.jpg",
+        "release_date": "2015-10-14",
+        "title": "Secret in Their Eyes",
+        "video": false,
+        "vote_average": 6.371,
+        "vote_count": 1308
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4kr8dUmxSxCHQnaI6hYtEz49OvR.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 22073,
+        "original_language": "en",
+        "original_title": "Hoodlum",
+        "overview": "In 1934, the second most lucrative business in New York City was running 'the numbers'. When Madam Queen—the powerful woman who runs the scam in Harlem—is arrested, Ellsworth 'Bumpy' Johnson takes over the business and must resist an invasion from a merciless mobster.",
+        "popularity": 31.276,
+        "poster_path": "/hZrwqVXLyxxsNJHVc6bJKSUDkXA.jpg",
+        "release_date": "1997-08-27",
+        "title": "Hoodlum",
+        "video": false,
+        "vote_average": 6.391,
+        "vote_count": 182
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lj7enxOyRXazcCIFJyCn9dLuF2V.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 338964,
+        "original_language": "en",
+        "original_title": "Bad Santa 2",
+        "overview": "Fueled by cheap whiskey, greed and hatred, Willie Soke teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie's sliver of humanity. Issues arise when the pair are joined by Willie's horror story of a mother, who raises the bar for the gang's ambitions, while somehow lowering the standards of criminal behavior.",
+        "popularity": 31.259,
+        "poster_path": "/xmsEwpA2fSq6IO3sfKrLuIPLHSc.jpg",
+        "release_date": "2016-11-23",
+        "title": "Bad Santa 2",
+        "video": false,
+        "vote_average": 5.414,
+        "vote_count": 761
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yR10dIRDAuRfRUxQ2azF4GSwJNb.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 14854,
+        "original_language": "en",
+        "original_title": "Lone Wolf McQuade",
+        "overview": "The archetypical renegade Texas Ranger wages war against a drug kingpin with automatic weapons, his wits and martial arts after a gun battle leaves his partner dead. All of this inevitably culminates in a martial arts showdown between the drug lord and the ranger, and involving the woman they both love.",
+        "popularity": 31.253,
+        "poster_path": "/dTUTDPilI2Ozi5GeoBRczidQTaZ.jpg",
+        "release_date": "1983-04-15",
+        "title": "Lone Wolf McQuade",
+        "video": false,
+        "vote_average": 6.484,
+        "vote_count": 348
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sXM9H9cpeErz7xvuhC61NMR6pks.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27
+        ],
+        "id": 13008,
+        "original_language": "en",
+        "original_title": "An American Crime",
+        "overview": "The true story of suburban housewife Gertrude Baniszewski, who kept a teenage girl locked in the basement of her Indiana home during the 1960s.",
+        "popularity": 31.226,
+        "poster_path": "/bLsE0sMI1bycBxZX7QNYghy5iyi.jpg",
+        "release_date": "2007-07-27",
+        "title": "An American Crime",
+        "video": false,
+        "vote_average": 7.322,
+        "vote_count": 664
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1wwvDbEHnM9RR8lM2e0dslWkb8N.jpg",
+        "genre_ids": [
+            18,
+            53,
+            36,
+            10770,
+            80
+        ],
+        "id": 19189,
+        "original_language": "en",
+        "original_title": "Excellent Cadavers",
+        "overview": "Palermo, Sicily, 1984. Examining magistrate Giovanni Falcone allies with Tomasso Buscetta, a former mobster, to defeat the clan of Corleone, the ruthless Mafia faction that rules Cosa Nostra with an iron hand, cruelly eliminating all those who dare to oppose its immense power: other criminals, policemen, judges, even innocent civilians. One of them wants revenge, the other wants justice. But only one can survive such an unequal fight.",
+        "popularity": 31.22,
+        "poster_path": "/4PGKekbYuushvovzHCEl4X51sfl.jpg",
+        "release_date": "1999-10-16",
+        "title": "Excellent Cadavers",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2w0uvzOXKyda8fW0IvkdGFFnJCq.jpg",
+        "genre_ids": [
+            27,
+            80,
+            53
+        ],
+        "id": 8398,
+        "original_language": "en",
+        "original_title": "The Hitcher",
+        "overview": "While driving through the New Mexico Desert during a rainy night, the college students Jim Halsey and his girlfriend Grace Andrews give a ride to the hitchhiker John Ryder. While in their car, the stranger proves to be a psychopath threatening the young couple with a knife, but Jim succeeds to throw him out of the car on the road. On the next morning, the young couple sees John in another car.",
+        "popularity": 31.206,
+        "poster_path": "/r6AkbjQJ4FWrFNV3AA46A4fZYRc.jpg",
+        "release_date": "2007-01-19",
+        "title": "The Hitcher",
+        "video": false,
+        "vote_average": 5.865,
+        "vote_count": 895
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/czVIuIXqDPgCBHI3vLYQcRtzAo7.jpg",
+        "genre_ids": [
+            80,
+            35,
+            9648,
+            18
+        ],
+        "id": 977506,
+        "original_language": "fr",
+        "original_title": "Mon crime",
+        "overview": "In 1930s Paris, Madeleine, a pretty, young, penniless and talentless actress, is accused of murdering a famous producer. Helped by her best friend Pauline, a young unemployed lawyer, she is acquitted on the grounds of self-defense. A new life of fame and success begins, until the truth comes out.",
+        "popularity": 31.199,
+        "poster_path": "/lxQda2ZiJa67WBZzAlhGME7qb8a.jpg",
+        "release_date": "2023-03-08",
+        "title": "The Crime Is Mine",
+        "video": false,
+        "vote_average": 6.469,
+        "vote_count": 360
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dwcMXpv69qNNozy8KKuZkajG3os.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11573,
+        "original_language": "en",
+        "original_title": "Inspector Clouseau",
+        "overview": "Detective Inspector Jacques Clouseau is borrowed from the Surete on special assignment for Scotland Yard in hopes that a fresh outlook will help the government recover the loot from the Great Train Robbery, which is being used to underwrite a new crime wave. What they don't count on, however, is having more than one Clouseau on the job.",
+        "popularity": 31.19,
+        "poster_path": "/gpL8PDb0dzXkqZaevYvO1hAidS8.jpg",
+        "release_date": "1968-07-19",
+        "title": "Inspector Clouseau",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 73
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jurGGGf8ifbUfRBbpFxNlpDVrna.jpg",
+        "genre_ids": [
+            35,
+            12,
+            80,
+            10751
+        ],
+        "id": 145220,
+        "original_language": "en",
+        "original_title": "Muppets Most Wanted",
+        "overview": "While on a grand world tour, The Muppets find themselves wrapped into an European jewel-heist caper headed by a Kermit the Frog look-alike and his dastardly sidekick.",
+        "popularity": 31.172,
+        "poster_path": "/o9mGTVnnsqMS3Oh2IloPKPpLiL3.jpg",
+        "release_date": "2014-03-20",
+        "title": "Muppets Most Wanted",
+        "video": false,
+        "vote_average": 6.322,
+        "vote_count": 796
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1asVOmgViSEn4yi0EylEdtlL5H9.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 9846,
+        "original_language": "en",
+        "original_title": "To Live and Die in L.A.",
+        "overview": "A fearless Secret Service agent will stop at nothing to bring down the counterfeiter who killed his partner.",
+        "popularity": 31.167,
+        "poster_path": "/2iW3pSihBIhXjnBQmUJ0mAiZbB5.jpg",
+        "release_date": "1985-11-01",
+        "title": "To Live and Die in L.A.",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 625
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8Fak5YNyqdzRZxM5KIZfhOfjETs.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 136911,
+        "original_language": "en",
+        "original_title": "The Factory",
+        "overview": "An obsessed cop is on the trail of a serial killer prowling the streets of Buffalo, N.Y. but when his teenage daughter disappears, he drops any professional restraint to get the killer.",
+        "popularity": 31.165,
+        "poster_path": "/qFyWoSJNOZlTRhGEYsd6hv1gGRO.jpg",
+        "release_date": "2012-10-20",
+        "title": "The Factory",
+        "video": false,
+        "vote_average": 5.634,
+        "vote_count": 287
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t4mzypFVjY6toyBXAmfrIaWcUXa.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 706503,
+        "original_language": "fr",
+        "original_title": "Balle perdue",
+        "overview": "A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.",
+        "popularity": 31.163,
+        "poster_path": "/qnlChF8U4diiykXQYs1miigGy7t.jpg",
+        "release_date": "2020-06-19",
+        "title": "Lost Bullet",
+        "video": false,
+        "vote_average": 6.599,
+        "vote_count": 772
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kriOlxu4KVEjd0ZaY3dW7YYyP4z.jpg",
+        "genre_ids": [
+            18,
+            80,
+            36
+        ],
+        "id": 530723,
+        "original_language": "en",
+        "original_title": "Bad Education",
+        "overview": "A superintendent of a school district works for the betterment of the student’s education when an embezzlement scheme is discovered, threatening to destroy everything.",
+        "popularity": 31.154,
+        "poster_path": "/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+        "release_date": "2019-09-08",
+        "title": "Bad Education",
+        "video": false,
+        "vote_average": 6.744,
+        "vote_count": 650
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pNsRxhhO7TZ7MMYk44anDVJ3eAG.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 479040,
+        "original_language": "en",
+        "original_title": "Acts of Violence",
+        "overview": "When his fiancee is kidnapped by human traffickers, Roman and his ex-military brothers set out to track her down and save her before it is too late. Along the way, Roman teams up with Avery, a cop investigating human trafficking and fighting the corrupt bureaucracy that has harmful intentions.",
+        "popularity": 31.138,
+        "poster_path": "/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg",
+        "release_date": "2018-01-12",
+        "title": "Acts of Violence",
+        "video": false,
+        "vote_average": 5.614,
+        "vote_count": 396
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bs0jdXHvRy3cOR2UcgyAwX6GIA8.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 624789,
+        "original_language": "en",
+        "original_title": "Naked Singularity",
+        "overview": "When a successful New York public defender loses his first case, he is pulled into a drug heist by a former client in an effort to beat the broken system at its own game.",
+        "popularity": 31.118,
+        "poster_path": "/iJwnO2Tou9hwgy1olFn3JcCj7Sx.jpg",
+        "release_date": "2021-08-06",
+        "title": "Naked Singularity",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bXO410CYaMaoIGecgS7bcAlr5T9.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 70074,
+        "original_language": "en",
+        "original_title": "Bullet to the Head",
+        "overview": "After watching their respective partners die, a cop and a hitman form an alliance in order to bring down their common enemy.",
+        "popularity": 31.118,
+        "poster_path": "/arJfxShfuZPhqfBZZU6DkPZfnjn.jpg",
+        "release_date": "2012-11-14",
+        "title": "Bullet to the Head",
+        "video": false,
+        "vote_average": 5.594,
+        "vote_count": 1239
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iRCHM6AR78Pjffl5y1fiUwD3YiE.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 70586,
+        "original_language": "en",
+        "original_title": "Setup",
+        "overview": "A group of friends plan out a detailed heist that turns deadly when one betrays the other by taking off with the goods. Taking matters into his own hands, Sonny seeks out his revenge teaming up with the most dangerous mob boss in town to get back what is rightfully his. When he finally comes face to face with his longtime friend he will be forced to make a life changing choice.",
+        "popularity": 31.116,
+        "poster_path": "/h74bol6GYG6eyXIAZVGmQBraI8c.jpg",
+        "release_date": "2011-10-17",
+        "title": "Setup",
+        "video": false,
+        "vote_average": 4.902,
+        "vote_count": 397
+    }
+]

@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/2qr8Hp9YRz4SvOoNfxWNjBBVTWb.jpg",
+        "genre_ids": [
+            53,
+            18,
+            27,
+            80
+        ],
+        "id": 848950,
+        "original_language": "fr",
+        "original_title": "Bowling Saturne",
+        "overview": "In a family-owned bowling alley, tension arises between two brothers following their father's death. Meanwhile one of them, a cop, is investigating a series of disturbing murders. Both brothers soon find themselves trapped in a looming darkness.",
+        "popularity": 13.62,
+        "poster_path": "/ltXkE4Dgeo2MQDcHoziKQJ1LHZY.jpg",
+        "release_date": "2022-10-26",
+        "title": "Saturn Bowling",
+        "video": false,
+        "vote_average": 5.439,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6ivaSOF1OfNIqJWdM17URfJNDXR.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 60573,
+        "original_language": "en",
+        "original_title": "The Burning Bed",
+        "overview": "An abused battered wife has had enough of husband beating up on her. Everywhere she turns for help, there's not much anyone will do. After he rapes her one night, she sets the bed on fire with him in it asleep.",
+        "popularity": 13.62,
+        "poster_path": "/eOElJBqX7u8gz94oQ3UpzpbSPiG.jpg",
+        "release_date": "1984-10-08",
+        "title": "The Burning Bed",
+        "video": false,
+        "vote_average": 6.895,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tmKSOrrM9SxYNbi3DXcYeW66VSu.jpg",
+        "genre_ids": [
+            35,
+            27,
+            80
+        ],
+        "id": 29486,
+        "original_language": "en",
+        "original_title": "The Comedy of Terrors",
+        "overview": "An undertaker who hasn't had any 'customers' in a long time is forced to pay one year's back-rent. To get money he starts to kill people, which brings absurd results.",
+        "popularity": 13.618,
+        "poster_path": "/r33eBrYYJphzny0jPJ9sRFYoxev.jpg",
+        "release_date": "1964-01-22",
+        "title": "The Comedy of Terrors",
+        "video": false,
+        "vote_average": 6.44,
+        "vote_count": 142
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yTDtWwtIo1ivBRjcf6uVmCaOaHE.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 64559,
+        "original_language": "fr",
+        "original_title": "Rien ne va plus",
+        "overview": "Betty and Victor are a pair of scam artists. One day Betty brings in Maurice, a treasurer of a multinational company. Maurice is due to transfer 5 millions francs out of Switzerland, and Betty is convinced he plans to steal that money.",
+        "popularity": 13.615,
+        "poster_path": "/tDnQHpXrQsl6NH1Gn7bLHLAiw5H.jpg",
+        "release_date": "1997-10-15",
+        "title": "The Swindle",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 76
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tKh2iFbTjVJYR4eMwqCfMIUIZPZ.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 31161,
+        "original_language": "ja",
+        "original_title": "アドレナリンドライブ",
+        "overview": "A gas leak explosion at a yakuza hideout provides a shy nurse and a rental car clerk with the opportunity to take a briefcase full of money. A cross-country chase ensues.",
+        "popularity": 13.614,
+        "poster_path": "/oZqOzX7hThHRiUsGIQ65nxHuC4o.jpg",
+        "release_date": "1999-02-18",
+        "title": "Adrenaline Drive",
+        "video": false,
+        "vote_average": 7.091,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dj9eSBCeBrzOf2m3rB93i2DQk8T.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 658484,
+        "original_language": "ja",
+        "original_title": "CONFLICT 〜最大の抗争〜 第二章　終結編",
+        "overview": "When Tendokai's headquarters are attacked, underboss Washio Kazuma orders his trusted lieutenant to investigate a possible mole inside the family.",
+        "popularity": 13.612,
+        "poster_path": "/tnzwCgRg46GFdQdSnMxdXtRQPsv.jpg",
+        "release_date": "2016-05-29",
+        "title": "Conflict II",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zW3V0HiwV25mf9rI9AtzIuFP7LI.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 4879,
+        "original_language": "en",
+        "original_title": "Ten Little Indians",
+        "overview": "Ten strangers are invited as weekend guests to a remote mountain mansion. When the host doesn't show up, the guests start dying, one by one, in uniquely macabre Agatha Christie-style. It is based on Christie's best-selling novel with 100 million sales to date, making it the world's best-selling mystery ever, and one of the most-printed books of all time.",
+        "popularity": 13.61,
+        "poster_path": "/iFBY02sqbyNHEtfRpHAKi5m9KDZ.jpg",
+        "release_date": "1965-07-31",
+        "title": "Ten Little Indians",
+        "video": false,
+        "vote_average": 6.373,
+        "vote_count": 118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m661bj9ynfVMvlC40go4LCfaQKh.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 87417,
+        "original_language": "en",
+        "original_title": "Slither",
+        "overview": "While searching for a small fortune of embezzled money, an ex-con, a small-time bandleader, his doting wife and a kooky drifter find themselves being followed. Their chase takes them to trailer camps, bingo halls, laundromats and ultimately, a showdown with a group of unconventional bad guys.",
+        "popularity": 13.606,
+        "poster_path": "/zBQkChjEWiMna5Qsay7EDDdfUL.jpg",
+        "release_date": "1973-03-07",
+        "title": "Slither",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/39ETuTr9BgCqRYdHGMsQnCzArMS.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 88356,
+        "original_language": "en",
+        "original_title": "Warning Shot",
+        "overview": "Hounded by the press for shooting a doctor, an ousted Los Angeles policeman works his own case.",
+        "popularity": 13.605,
+        "poster_path": "/4AffH6eOUQEdJeIcP2sRscaC9yZ.jpg",
+        "release_date": "1967-01-18",
+        "title": "Warning Shot",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            53,
+            10770
+        ],
+        "id": 207454,
+        "original_language": "en",
+        "original_title": "Mystery Woman",
+        "overview": "A famous writer is found hanged in his office. At first, all police investigations conclude that it was suicide, but when Samantha Kinsey, owner of Seller 'Mystery Woman' starts his own investigation, he discovers that there is chance that has been committed murder. The film is the first in a long series of American TV movies called\" Mystery Woman\", in which Samantha Kinsey, the owner of a bookshop specializing in thrillers and suspense is involved in the resolution of real cases.",
+        "popularity": 13.604,
+        "poster_path": "/7crZ2mg1cIezYaLVMsqEOD3BIdD.jpg",
+        "release_date": "2003-08-31",
+        "title": "Mystery Woman",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7sPqZ8zjb7r52DPnnVCe9Or2Y6X.jpg",
+        "genre_ids": [
+            10770,
+            18,
+            80
+        ],
+        "id": 157449,
+        "original_language": "en",
+        "original_title": "She Made Them Do It",
+        "overview": "\"She Made Them Do It\" follows the twisted life of Sarah Pender, a charismatic, intelligent young woman who would become one of the country’s most sought after fugitives.",
+        "popularity": 13.602,
+        "poster_path": "/zfiG5RguvKXBnouQUhFCc7bNXbi.jpg",
+        "release_date": "2012-12-28",
+        "title": "She Made Them Do It",
+        "video": false,
+        "vote_average": 5.986,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hm076qyHCkZGemzriy4JnLDqMsU.jpg",
+        "genre_ids": [
+            99,
+            80,
+            18
+        ],
+        "id": 836486,
+        "original_language": "en",
+        "original_title": "JFK Revisited: Through the Looking Glass",
+        "overview": "Thirty years after his film JFK, filmmaker Oliver Stone takes viewers on a journey through recently declassified evidence in the assassination of President Kennedy - the most consequential American murder mystery of the twentieth century. Joined by Oscar-winning narrators Whoopi Goldberg and Donald Sutherland, as well as a distinguished team of forensics, medical and ballistics experts, historians, and witnesses, Stone presents compelling evidence that in the Kennedy case “conspiracy theory” is now “conspiracy fact.”",
+        "popularity": 13.598,
+        "poster_path": "/uWwEWzjkmuNGXpMhpVsrhNNB0NV.jpg",
+        "release_date": "2021-11-12",
+        "title": "JFK Revisited: Through the Looking Glass",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yQQkeVg8AyXHF4FObrdHD2KntVG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 60033,
+        "original_language": "en",
+        "original_title": "This World, Then the Fireworks",
+        "overview": "In 1950s, two incestuous lovers, a depraved suave journalist and his equally depraved prostitute sister, plan to get rich through seduction and murder.",
+        "popularity": 13.598,
+        "poster_path": "/vXO9T4rbJFVRF6BbABHe7VKJdj9.jpg",
+        "release_date": "1997-07-11",
+        "title": "This World, Then the Fireworks",
+        "video": false,
+        "vote_average": 4.75,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fl8VjJm93yj8oJVp1IRhRsVdMQ6.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 824117,
+        "original_language": "zh",
+        "original_title": "朝云暮雨",
+        "overview": "After serving 30 years in prison, Lao Qin starts a new life with 1.5 million compensation from the government for demolition and relocation. He just wants to marry a wife and have children to live in peace, but his life is completely changed with the intrusion of the eccentric 24-year-old girl Chang Juan.",
+        "popularity": 13.597,
+        "poster_path": "/80gNAYpcICOKGrnuUbbX4EELQeT.jpg",
+        "release_date": "2024-05-17",
+        "title": "Strangers When We Meet",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4iwHATla3Dc2jfFKfL8d0G6IHOp.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 527534,
+        "original_language": "en",
+        "original_title": "The Murder of Nicole Brown Simpson",
+        "overview": "In 1994 Nicole Brown Simpson and her friend Ronald Goldman were brutally murdered in her Los Angeles home by whom most believe to be O.J Simpson. But what role did Glen Rogers, also known as the Casanova Killer play in their death?",
+        "popularity": 13.591,
+        "poster_path": "/pfTrRimCd5mDnb8qpTZovD5ZIsl.jpg",
+        "release_date": "2020-01-10",
+        "title": "The Murder of Nicole Brown Simpson",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/duXlSADZ30XsW4CdD6pBLMGiFZB.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1034871,
+        "original_language": "ko",
+        "original_title": "라방",
+        "overview": "A freelance TV producer in a relationship crisis receives a link to an illegal spy cam of his own girlfriend. With no time to lose, he decides to take matters into his own hands and rescue her, only to descend into the seedy world of illegal broadcasting.",
+        "popularity": 13.587,
+        "poster_path": "/gyh5z0LYo6gyFx4s5G7rnMS4YTJ.jpg",
+        "release_date": "2023-06-28",
+        "title": "Live Stream",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sQGHdkl0dnHRnA6EpFXlq1R0T78.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 130747,
+        "original_language": "de",
+        "original_title": "Schutzengel",
+        "overview": "15-year-old Nina witnesses a terrible crime that puts her life in danger. Being an orphan, she has nobody she can trust. When corrupt businessman Thomas Backer sends five killers after Nina, witness protection officer, Max, a former special-forces soldier, is responsible for her safety. They soon overcome their initial distance to find common ground. While on the run from the ruthless Backer, Rudi, one of Max’s former comrades, comes to their rescue – and continues to help the two out of some precarious situations. Even Max’s ex-girlfriend Sara is not just there to help him as a federal prosecutor. Nevertheless, Nina and Max face ever-increasing danger, and soon the teenager is not the only one in need of a guardian angel – Max could use one too.",
+        "popularity": 13.587,
+        "poster_path": "/dQGAy7RVgGXdejRgLP8NzC2Op9Z.jpg",
+        "release_date": "2012-09-18",
+        "title": "The Guardians",
+        "video": false,
+        "vote_average": 6.018,
+        "vote_count": 109
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6QSkFvaEA5L5Q6GmX5qCfowwHoO.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 17263,
+        "original_language": "en",
+        "original_title": "A Murder of Crows",
+        "overview": "In the wake of a career-ending scandal, disgraced lawyer Lawson Russell moves to Key West, where he befriends aging novelist Christopher Marlowe. After letting Russell borrow his latest manuscript, Marlowe dies of a heart attack. When Russell publishes the dead man's manuscript under his own name, he makes the best-seller list—and unwittingly becomes the prime suspect in the investigation of a grisly multiple homicide.",
+        "popularity": 13.585,
+        "poster_path": "/fi88I3TTCY6JVwhEqlJCU2YeDNi.jpg",
+        "release_date": "1999-07-06",
+        "title": "A Murder of Crows",
+        "video": false,
+        "vote_average": 6.07,
+        "vote_count": 164
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pFccjeUmDV4jEzUxCAVMFDyTCh2.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 468291,
+        "original_language": "en",
+        "original_title": "An Imperfect Murder",
+        "overview": "Successful actress Vera Lockman thrashes during a nightmare in which she struggles with, shoots and kills her drug-dealer ex-boyfriend. Jolted awake, she reveals in her journal that the killing actually occurred the day before and that Sal, dead, lies in a trunk in her living room.",
+        "popularity": 13.584,
+        "poster_path": "/545kAn3YxeLhmsY1gJBzZwkjQ1q.jpg",
+        "release_date": "2017-09-03",
+        "title": "An Imperfect Murder",
+        "video": false,
+        "vote_average": 3.711,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qRK1cQuTqKdg70dL6VZc3afewE2.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 528769,
+        "original_language": "it",
+        "original_title": "Rabbia furiosa - Er Canaro",
+        "overview": "Inspired by one of the most savage and violent crimes committed in Rome in the 1980s, \"Rabbia Furiosa\" is the story of Fabio, a small-time neighborhood crook, known as “Er Canaro” (the Dog Man) who suffers years of abuse and mistreatment from Claudio, a local boss of the criminal underworld. When he is driven to desperation and the brink of madness, he will carry out a terrible and bloody act of vengeance...",
+        "popularity": 13.583,
+        "poster_path": "/zduAS00UrlGmx4O51edtMHQxUdX.jpg",
+        "release_date": "2018-06-07",
+        "title": "Dogman's Rabies: Underdog",
+        "video": false,
+        "vote_average": 5.778,
+        "vote_count": 27
+    }
+]

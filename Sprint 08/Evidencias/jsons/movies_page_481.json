@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 1157055,
+        "original_language": "ru",
+        "original_title": "Шерлок Холмс и доктор Ватсон",
+        "overview": "The film is divided into two episodes: \"The Acquaintance\" (based on the 1892 short story \"The Adventure of the Speckled Band\") and \"Bloody Inscription\" (based on the 1887 novel A Study in Scarlet).",
+        "popularity": 7.127,
+        "poster_path": "/q4T2AnPtd5U9Yn6y1Epuf5pMREj.jpg",
+        "release_date": "1979-01-01",
+        "title": "Sherlock Holmes and Dr. Watson",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 507299,
+        "original_language": "en",
+        "original_title": "Lucan",
+        "overview": "Drama about infamous aristocrat Lord Lucan, who mysteriously disappeared in 1974 after being accused of murdering his children's nanny.",
+        "popularity": 7.127,
+        "poster_path": "/1DKCBPlMHMa66hxroZdjpHBCS8s.jpg",
+        "release_date": "2013-12-11",
+        "title": "Lucan",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4LWZGaokEXYfojUU2Mklg5FYACv.jpg",
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 357325,
+        "original_language": "cn",
+        "original_title": "特警90",
+        "overview": "The police feel the case is serious, then send Shan, Hui even hand investigation, two at first did not and, as understanding deepens, emotional surge; and Ling-hui is the subordinate Li Jian fell in love. Hui Shan and strengthen business gang raids, thereby forcing each gang leader to surrender Aberdeen, against being next use, health and more were killed.",
+        "popularity": 7.126,
+        "poster_path": "/eeWc1iiOX3s5qij38Zf5cxsxZrM.jpg",
+        "release_date": "1989-06-25",
+        "title": "The Iron Butterfly",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cWXio7pLpHsVvLRGJc2ZUkySXfw.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 255608,
+        "original_language": "en",
+        "original_title": "Mandrake the Magician",
+        "overview": "Mandrake and his team attempt to prevent \"The Wasp\" from stealing and using a new Radium invention.",
+        "popularity": 7.126,
+        "poster_path": "/4Vr6GSOVQ3F8WSPBHgfhliesvlu.jpg",
+        "release_date": "1939-05-06",
+        "title": "Mandrake the Magician",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4FJCHjnP6X4yNSUnglCCIXlpN11.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 28318,
+        "original_language": "it",
+        "original_title": "Paura nel buio",
+        "overview": "A sick young man drives around in his daddy's camper, looking for lone stray females to kidnap, torture, rape and murder.",
+        "popularity": 7.125,
+        "poster_path": "/5EvkUDS2Epdqbx7j8KsUw7jYx7w.jpg",
+        "release_date": "1989-01-01",
+        "title": "Hitcher in the Dark",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 892355,
+        "original_language": "en",
+        "original_title": "Second Sight: Kingdom of the Blind",
+        "overview": "While hiding his own rapidly deteriorating eyesight, a detective investigates the murder of a black youth leader.",
+        "popularity": 7.123,
+        "poster_path": null,
+        "release_date": "2001-02-05",
+        "title": "Second Sight: Kingdom of the Blind",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nT5J78WCeEiP7Ab99CmwyZBKSUY.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 415787,
+        "original_language": "ja",
+        "original_title": "脱走遊戯",
+        "overview": "Kamiki (Sonny Chiba) is a career criminal who is given the chance to break out of prison for the 33rd time. Afterwards Kaimiki teams up with a bunch of thugs that engineer prison escapes for money.",
+        "popularity": 7.123,
+        "poster_path": "/ktzSoGnxH01eJb8jgGr8zQc3OeN.jpg",
+        "release_date": "1976-06-19",
+        "title": "Jail Breakers",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1Jn1NYJwbFeWfIhheW0ctIttcmF.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 320675,
+        "original_language": "en",
+        "original_title": "Prison Farm",
+        "overview": "Shirley Ross plays an innocent young girl convicted for complicity in a crime committed by her boy friend (Lloyd Nolan). The male crook is sentence to six months on a prison farm populated by both men and women (segregated, of course). Ross is also incarcerated, suffering the cruelties of the sadistic male and female guards (including J. Carroll Naish and future \"Ma Kettle\" Marjorie Main!)",
+        "popularity": 7.123,
+        "poster_path": "/qXu7GyiP1VT3AJfy7ro9Pv1xX3i.jpg",
+        "release_date": "1938-06-17",
+        "title": "Prison Farm",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/orANwaaxQGkPVe6rf79dgoTSveG.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            35,
+            80
+        ],
+        "id": 109323,
+        "original_language": "en",
+        "original_title": "Who Killed Cock Robin?",
+        "overview": "A robin is shot so the woodland community holds a trial to investigate.",
+        "popularity": 7.123,
+        "poster_path": "/awWED45W3qgayjXUkeUCc1whlgx.jpg",
+        "release_date": "1935-06-25",
+        "title": "Who Killed Cock Robin?",
+        "video": false,
+        "vote_average": 6.662,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aHtZFBjUCSpghKWl2rU7zP6FhRQ.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 811945,
+        "original_language": "te",
+        "original_title": "HIT: The 2nd Case",
+        "overview": "Krishna Dev aka KD, a laidback cop working in Andhra Pradesh State HIT, takes on a gruesome murder case. As KD unravels the layers of the crime, the stakes rise unbelievably high and the threat comes unusually close.",
+        "popularity": 7.122,
+        "poster_path": "/eKSZoi8Rn3sgkLGnLJogYWfQLrl.jpg",
+        "release_date": "2022-12-02",
+        "title": "HIT: The 2nd Case",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7YmqpyktPeRv0ILqXMaHncjHYRE.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10770
+        ],
+        "id": 197320,
+        "original_language": "en",
+        "original_title": "The Double Life of Eleanor Kendall",
+        "overview": "Nellie, née Bouchard, is divorced by wealthy Jack Givens because after a miscarriage even in vitro fails to overcome her infertility. She finds herself destitute as her own account were plundered by someone who stole her maiden identity, Eleanor Kendall. Bank officer lover Dave helps her trace the impostor to Montréal and prevent if being spent on a Corsica home. She starts an affair with British doctor Christopher Dolan, who is in town for a conference, and bumps into Eleanor, a local French tutor and single mother. Instead of informing the police, she gets acquainted with and comes to like 'Eleanor'. Finally the truth catches up, but more complex and perilous then anyone anticipated.",
+        "popularity": 7.121,
+        "poster_path": "/lTRUeGslZTBhrtd4Ehc0QSNXSkX.jpg",
+        "release_date": "2008-03-29",
+        "title": "The Double Life of Eleanor Kendall",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fQZUOczawfvUWQ2raLYJM99grjZ.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 163171,
+        "original_language": "en",
+        "original_title": "Sherlock Holmes",
+        "overview": "Moriarty is sentenced to death, and Sherlock Holmes prepares to retire to the country and marry his girl. But Moriarty has sworn that Holmes, Lt. Col. Gore-King of Scotland Yard, and his trial judge shall all be hanged too. When Moriarty escapes and proceeds to put his threat into operation, Holmes has to postpone his retirement.",
+        "popularity": 7.121,
+        "poster_path": "/vxJIIZHhhKFtFDgofD2kxe97GDz.jpg",
+        "release_date": "1932-11-05",
+        "title": "Sherlock Holmes",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t3iKcVOnKFQPevmzPIt5ZBeOovR.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 106026,
+        "original_language": "en",
+        "original_title": "Satan's Princess",
+        "overview": "A down-on-his-luck cop runs into harder times when he is searching for a missing woman",
+        "popularity": 7.121,
+        "poster_path": "/vf2zG5akeBKwmFgXXBdNDJ9jVdv.jpg",
+        "release_date": "1989-12-01",
+        "title": "Satan's Princess",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i4Z2WNA4BHWZRLeZDiWjMoI2tZF.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 85855,
+        "original_language": "en",
+        "original_title": "I, Mobster",
+        "overview": "The rise and fall of gang lord Joe Sante.  A crime boss appears before a Senate subcommittee.  A flashbacks tell his story.",
+        "popularity": 7.121,
+        "poster_path": "/7thpmXxIrOPvWGF6QlFgZH6lJJS.jpg",
+        "release_date": "1959-02-01",
+        "title": "I, Mobster",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lie8KItLB7Ggkm5KyTydMOgUjld.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 47149,
+        "original_language": "en",
+        "original_title": "Highway Dragnet",
+        "overview": "An ex-Marine, on the lam from a murder charge, hitches a ride with a glamour-magazine photographer, who is travelling cross-country with her principal model. Tensions rise when the women realize the man with them may be a killer.",
+        "popularity": 7.121,
+        "poster_path": "/jbxYwIAkWZXwgzTTRJpyXwFhHYT.jpg",
+        "release_date": "1954-01-20",
+        "title": "Highway Dragnet",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/srahzmTqCA2GyyBcrpVQl2jDP4K.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            9648
+        ],
+        "id": 728716,
+        "original_language": "ja",
+        "original_title": "ストロベリーナイト アフター・ザ・インビジブル・レイン",
+        "overview": "",
+        "popularity": 7.12,
+        "poster_path": "/x4VausGuBGi7g98VB4GHaBRA3rN.jpg",
+        "release_date": "2013-01-26",
+        "title": "Strawberry Night: After the Invisible Rain",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 426496,
+        "original_language": "en",
+        "original_title": "Tough Love",
+        "overview": "DC Lenny Milton (Winstone) is not as ambitious as his best friend and popular boss DCI Michael Love (Dunbar), but the pair are drinking partners and their wives and children are close. However, this goes very wrong over the space of 7 days, when Milton is approached by the police complaints division asking him to go undercover and investigate allegations of corruption against his friend. Milton finds this difficult at first and tries to dismiss the evidence building up. But as his suspicions begin to take shape his position appears to be in danger.",
+        "popularity": 7.12,
+        "poster_path": null,
+        "release_date": "2000-10-01",
+        "title": "Tough Love",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            10770,
+            18
+        ],
+        "id": 721165,
+        "original_language": "en",
+        "original_title": "Nashville Beat",
+        "overview": "A Los Angeles police officer named Mike Delaney transfers to Nashville joining his former partner. Together they battle gangs and get to know each other again. This is also a unofficial reunion film to the TV series Adam-12 which shared this TV movies two leads, Kent McCord and Martin Milner.",
+        "popularity": 7.119,
+        "poster_path": "/AjzIhWxG4P0ylB0jvEXDOUZAZ2I.jpg",
+        "release_date": "1989-10-21",
+        "title": "Nashville Beat",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aTIZZfLtD0rB6fajMFf2rwhQn7o.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            878
+        ],
+        "id": 199603,
+        "original_language": "en",
+        "original_title": "International Crime",
+        "overview": "The second and final Grand National Pictures film to feature The Shadow, played again by Rod La Rocque. In this version, Lamont Cranston is an amateur detective and host of a radio show with his assistant Phoebe (not Margo) Lane. Cabbie Moe Shrevnitz and Commissioner Weston also appear.",
+        "popularity": 7.119,
+        "poster_path": "/mlHfoSbfaNE6gsXgNMnBde2lc8c.jpg",
+        "release_date": "1938-04-23",
+        "title": "International Crime",
+        "video": false,
+        "vote_average": 5.45,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zuNZcNXCXR6LEnxvwVQ2az6qZwz.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 108175,
+        "original_language": "ko",
+        "original_title": "화녀",
+        "overview": "The lives of a composer and his wife, who live on a chicken farm, are thrown into turmoil when a femme fatale joins their household.",
+        "popularity": 7.118,
+        "poster_path": "/r9KXTi2Kl6aiL7yIqIyfki6esHy.jpg",
+        "release_date": "1971-04-01",
+        "title": "Woman of Fire",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 7
+    }
+]

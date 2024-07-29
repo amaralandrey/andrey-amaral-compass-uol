@@ -1,0 +1,392 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/6JtL9ke3K6AN2Yh1qZbQcztGzK5.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 170307,
+        "original_language": "en",
+        "original_title": "The Counterfeit Killer",
+        "overview": "A Secret Service agent poses as a waterfront hit man to infiltrate a global ring of counterfeiters.",
+        "popularity": 7.444,
+        "poster_path": "/kmlHFzNbeV1bcfnAK9fgdqhZInp.jpg",
+        "release_date": "1968-05-01",
+        "title": "The Counterfeit Killer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gWnDw0I4IBRFqYd5gYXE7Z9g7WO.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 433544,
+        "original_language": "en",
+        "original_title": "It Can't Last Forever",
+        "overview": "Russ Matthews, a theatrical agent who is not above pulling off a hoax or two or more to further the career of his clients (and himself), and a newspaper gossip-columnist, Carol Wilson, get involved with gangsters when one of Larry's radio-program future-predicting cons gets out of hand.",
+        "popularity": 7.443,
+        "poster_path": "/ttfSYZk1cTRMRgy6NRXDHyXEyc1.jpg",
+        "release_date": "1937-07-15",
+        "title": "It Can't Last Forever",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 160969,
+        "original_language": "cn",
+        "original_title": "癲鳳狂龍",
+        "overview": "Two police officers and an informant go undercover to infiltrate a counterfeiting ring.",
+        "popularity": 7.443,
+        "poster_path": "/puxjL7IFvnOBXYdsQ9u7lrd4kew.jpg",
+        "release_date": "1984-11-16",
+        "title": "Three Stooges Go Undercover",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eYSMTRSNquyAsFaCXl1a5GKb6nk.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 88972,
+        "original_language": "en",
+        "original_title": "Smart Blonde",
+        "overview": "Ambitious reporter Torchy Blane guides her policeman boyfriend to correctly pinpoint who shot the man she was interviewing.",
+        "popularity": 7.442,
+        "poster_path": "/lPMWZm0k4LfwCNfzEyWTE3MfWcu.jpg",
+        "release_date": "1937-01-02",
+        "title": "Smart Blonde",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mDIOqiwDYrdxing3sTSd3OLWq1S.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 924848,
+        "original_language": "en",
+        "original_title": "Sherlock: Many Happy Returns",
+        "overview": "John and Lestrade try to move on with their lives after Sherlock's apparent death. However, Anderson believes he is still alive.",
+        "popularity": 7.441,
+        "poster_path": "/7KItGmctg0nFcYfyStcjWj2ecZD.jpg",
+        "release_date": "2013-12-24",
+        "title": "Sherlock: Many Happy Returns",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7llc00qqXcWWaJiI8Nnddepc4gN.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 870219,
+        "original_language": "en",
+        "original_title": "New York Ninja",
+        "overview": "After his wife is murdered, a man becomes a ninja to take revenge on her killers across the streets of New York, in this film that was originally abandoned in 1984 until it was discovered and completed by Vinegar Syndrome.",
+        "popularity": 7.441,
+        "poster_path": "/wnfPBc79X8cPeQLAwASyzzG30XR.jpg",
+        "release_date": "2021-10-02",
+        "title": "New York Ninja",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            35,
+            10770
+        ],
+        "id": 286551,
+        "original_language": "en",
+        "original_title": "Best Actress",
+        "overview": "A Hollywood writer becomes embroiled while investigating into the lives of five fictitious actresses all nominated for the Academy Award for best actress.",
+        "popularity": 7.44,
+        "poster_path": "/cQaHcjPqh531egrVl4a6v2ueVs3.jpg",
+        "release_date": "2000-03-18",
+        "title": "Best Actress",
+        "video": false,
+        "vote_average": 1.5,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vT70M5nU7eddk3e2jTZKsjh7dqc.jpg",
+        "genre_ids": [
+            27,
+            878,
+            80
+        ],
+        "id": 1181830,
+        "original_language": "en",
+        "original_title": "Split Screen",
+        "overview": "Presented as a double feature, Split Screen follows a computer hacker releasing two films pulled from the darkest corners of the Internet: The Illinois Valley Murder Tapes and Greys: The Nevada Alien Incident.",
+        "popularity": 7.438,
+        "poster_path": "/q4h84lODrD1n8VGFvaliL8xptdY.jpg",
+        "release_date": "2023-12-25",
+        "title": "Split Screen",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/54RV10Xigr4vOW5ySw3eiSZLxvP.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 208216,
+        "original_language": "en",
+        "original_title": "Girls on Probation",
+        "overview": "A dizzy young girl falls into crime but wins her lawyer's heart.",
+        "popularity": 7.438,
+        "poster_path": "/peFNvy5yc0Murn5bdpyZlxpOhPU.jpg",
+        "release_date": "1938-10-22",
+        "title": "Girls on Probation",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4C35MqXnP6SBYxaM7Zr6CtOhxom.jpg",
+        "genre_ids": [
+            10770,
+            53,
+            18,
+            80
+        ],
+        "id": 943991,
+        "original_language": "en",
+        "original_title": "Framed by My Sister",
+        "overview": "The families of twin sisters are \"infiltrated\" by a mysterious triplet, who was separated from them at birth by their adopted mother. Her deadly plan is to frame one of the twins for murdering the other’s husband, and then assume the identity of his widow by killing her too... but not if the framed sister has anything to say about it.",
+        "popularity": 7.437,
+        "poster_path": "/jdgsNssncmbtcBMHjihBmF8mxM4.jpg",
+        "release_date": "2022-02-24",
+        "title": "Triple Threat",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fnJuBVRsJOUjc4gxu0RVAI01oa0.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 261474,
+        "original_language": "cn",
+        "original_title": "老爺車縱火謀殺案",
+        "overview": "Part 1 : 'Gun Snatchers' - Two criminals wanted for murder are turned in by one of their own. Part 2: 'Arson' - A Triad revenge plan to burn down a nightclub goes wrong and results in the deaths of five people.",
+        "popularity": 7.437,
+        "poster_path": "/bMcREe7tOxb8TrihaoQ9R1yv1Li.jpg",
+        "release_date": "1977-02-04",
+        "title": "The Criminals, Part 3: Arson",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dyVTrO9hMZR1IkqsobUQfJ6jShX.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 620271,
+        "original_language": "ml",
+        "original_title": "പൊറിഞ്ചു മറിയം ജോസ്",
+        "overview": "Kattalan Porinju and Jose are friends as thick as thieves. Mariyam and Porinju have an unrequited love story that has Jose invested in fulfilling. Chaos ensues when a skirmish pulls in all three of them in a series of violent outbursts.",
+        "popularity": 7.436,
+        "poster_path": "/dMkoC0lDtXMTst6DuNDGZE7MhxL.jpg",
+        "release_date": "2019-08-23",
+        "title": "Porinju Mariam Jose",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9pUOsY6XGUzCNwsdqMp1e0VmwgS.jpg",
+        "genre_ids": [
+            37,
+            80,
+            28,
+            18
+        ],
+        "id": 95966,
+        "original_language": "en",
+        "original_title": "Thomasine & Bushrod",
+        "overview": "A pair of thieves operate in the American South between 1911 and 1915, stealing from rich, white capitalists, and giving to Mexicans, Native Americans and poor whites.",
+        "popularity": 7.435,
+        "poster_path": "/tUduGm3eoI2te6tDC8Rt3xYKMAM.jpg",
+        "release_date": "1974-04-10",
+        "title": "Thomasine & Bushrod",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            36
+        ],
+        "id": 992979,
+        "original_language": "en",
+        "original_title": "Assassination",
+        "overview": "The true story of how notorious Chicago mobster Sam Giancana arranged the assassination of President John F Kennedy.",
+        "popularity": 7.434,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Assassination",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wLiZahSCxgoaJJfsXBRGVmvSQvH.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 289344,
+        "original_language": "sv",
+        "original_title": "Hämnden",
+        "overview": "Kurt Wallander has bought a dream house by the sea, but his peace and quiet is soon shattered when a man is murdered and an explosion in one of Ystad's power grids shuts down the electricity in the whole city.",
+        "popularity": 7.433,
+        "poster_path": "/ywaYD27eKTsTNsDUcj9D7AGSC0H.jpg",
+        "release_date": "2009-01-09",
+        "title": "Wallander 14 - The Revenge",
+        "video": false,
+        "vote_average": 5.706,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mNpMYecVAEvb6nXmvc6eBGp9nP1.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 557863,
+        "original_language": "ja",
+        "original_title": "(秘)ハネムーン 暴行列車",
+        "overview": "After a bungled robbery attempt, two thugs kidnap a bride on her wedding day.",
+        "popularity": 7.432,
+        "poster_path": "/m25Zre75PfbGupecWbHcWwhxWzI.jpg",
+        "release_date": "1977-10-15",
+        "title": "Secret Honeymoon: Assault Train",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ArqadJ9fZk6yotizB9L18OQh8af.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 67764,
+        "original_language": "en",
+        "original_title": "Vice Girls",
+        "overview": "Three sexy cops will have to go undercover to catch a ruthless pornographer who is murdering young runaway girls.",
+        "popularity": 7.432,
+        "poster_path": "/f2aBFAH6BcFEEsm2tNOf175vOY1.jpg",
+        "release_date": "1996-06-20",
+        "title": "Vice Girls",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u1TsfBfbgvyu29QbjEpCGttVIo4.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            80
+        ],
+        "id": 755836,
+        "original_language": "hi",
+        "original_title": "चंडीगढ़ करे आशिकी",
+        "overview": "Manu, a bodybuilder from Chandigarh, India, falls in love with Maanvi, a Zumba teacher. All seems well until a revelation causes turmoil in their love story.",
+        "popularity": 7.43,
+        "poster_path": "/owZYxR8y78tkkEd6mSH2olPsakJ.jpg",
+        "release_date": "2021-12-10",
+        "title": "Chandigarh Kare Aashiqui",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dfVy8LGwnQAEB1WT1G1kZeo9qw1.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 158517,
+        "original_language": "fi",
+        "original_title": "Lain ulkopuolella",
+        "overview": "On her way home from an evening shift at a men's clothing store, Saara Nevanen is raped by a man whom she recognizes as her regular but eccentric customer, Antti Kaironen. The doctor and policemen question Saara in an insensitive manner,and she breaks down with guilt. When the court releases the perpetrator inlack of evidence, Saara's aggressive brother Jari talks her mild-mannered husband Sakari into a self-made revenge plot. Armed with two rifles, Jari and Sakari take matters into their own hands.",
+        "popularity": 7.43,
+        "poster_path": "/kkTdfc6vCJP8AP5GFY7YOHQ72aa.jpg",
+        "release_date": "1987-10-30",
+        "title": "Lain ulkopuolella",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ktOFYjpSZskzXSVzWjVM7tSrowZ.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 69991,
+        "original_language": "de",
+        "original_title": "Baby",
+        "overview": "Frank and Paul are best friends forever and raised Frank's daughter Lilli after a tragic car accident. The two men scrape a living by working as barmen and bouncers in a strip club while Lilly has grown into a lively and self-confident teenager. The disaster unfolds when Lilli seduces Paul and gets pregnant.",
+        "popularity": 7.43,
+        "poster_path": "/dGCnMLonAvEbU7nVeVwsUnEBBF9.jpg",
+        "release_date": "2003-09-12",
+        "title": "Baby",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 7
+    }
+]

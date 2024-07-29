@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/tYajR7TJouFcSCKPzeC2OS0XyZy.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            12
+        ],
+        "id": 126395,
+        "original_language": "ru",
+        "original_title": "Приключения Шерлока Холмса и доктора Ватсона: Тайна сокровищ",
+        "overview": "A girl named Mary Morsten comes to Sherlock Holmes, who asks him and the doctor to help solve the annual receipt of one pearl by her parcel and in the search for her father, who disappeared many years ago. Holmes and Watson do not refuse her help and find out that Miss Mary is the heiress of a huge fortune — the treasures of Agra, which are also claimed by the sons of Major Sholto and Jonathan Small — an escaped convict with a wooden prosthesis instead of a leg, whom the elder Morsten and Sholto deceived (while Sholto also deceived Morsten).",
+        "popularity": 7.875,
+        "poster_path": "/hCPEC1WFrhNzPLeUWQ03mZHeSLT.jpg",
+        "release_date": "1983-06-25",
+        "title": "The Adventures of Sherlock Holmes and Dr. Watson: The Secret of Treasures",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zQjh5VpvcmObhy1soFlNrcunGmX.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80,
+            53
+        ],
+        "id": 956926,
+        "original_language": "en",
+        "original_title": "Wolves",
+        "overview": "When a young social recluse stumbles onto a series of unsolved cold cases he finds himself pulled deeper into society's dark underside and must face his own demons to learn the truth.",
+        "popularity": 7.873,
+        "poster_path": "/AkzowWuMnbe4uZtKh8zS2klvDiA.jpg",
+        "release_date": "2022-04-01",
+        "title": "Wolves",
+        "video": false,
+        "vote_average": 3.833,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f181JqR9iNe7849azIJKVQh9oNB.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10770
+        ],
+        "id": 139921,
+        "original_language": "en",
+        "original_title": "Every Woman's Dream",
+        "overview": "A man suffering from borderline personality disorder is married to two women, who don’t know the other exists. As bills pile up and cracks start to show, the women independently start to suspect something is wrong.",
+        "popularity": 7.873,
+        "poster_path": "/c3Kc3I5hEd1Gl7jmT1lt3zkLO3W.jpg",
+        "release_date": "1996-10-15",
+        "title": "Every Woman's Dream",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h4Z5zO8OzbZJHbA2Hcnmykw9xdL.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 17208,
+        "original_language": "en",
+        "original_title": "Paradise Lost 2: Revelations",
+        "overview": "Revisiting the 1994 Arkansas murder of three 8-year-old boys and the three teenagers convicted of the crime. A follow up to Paradise Lost, Revelations features new interviews with the convicted men, as well as with the original judge and police investigators.",
+        "popularity": 7.872,
+        "poster_path": "/18ixOKgqZGmfALD5080MdZN4dxi.jpg",
+        "release_date": "2000-07-28",
+        "title": "Paradise Lost 2: Revelations",
+        "video": false,
+        "vote_average": 7.106,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zNkNbnlGuJP19BEzDOroA7vcpcj.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            80
+        ],
+        "id": 747440,
+        "original_language": "de",
+        "original_title": "Bis wir tot sind oder frei",
+        "overview": "Barbara Hug is a young radical lawyer fighting Switzerland's antiquated prison system in the 1980s. Walter Stürm is in and often escaping out of jail becoming known as the Jailbreak King. When the two meet an unlikely alliance is formed.",
+        "popularity": 7.871,
+        "poster_path": "/daKLwWEOVWrwlcTn312zw469zMW.jpg",
+        "release_date": "2022-01-21",
+        "title": "Caged Birds",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eKs6nAxLiP9qd0M3j3Izf0BlCwW.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 564838,
+        "original_language": "fr",
+        "original_title": "Projection privée",
+        "overview": "Complications abound in this French film, which tells the story of a filmmaker  who is attempting to put his real life into a movie; his interactions with the people in the movie he is filming create reverberations in his \"real\" life, although the past remains unchanged. Among the complications is his growing regard for the woman who plays his cinematic wife. She may wind up replacing his actual wife in real life. One of the highlights of this film is the insight it gives into the actual mechanics of filmmaking.",
+        "popularity": 7.869,
+        "poster_path": "/jY9SQO4Y1IP8gexkb6A8Oo8FaFh.jpg",
+        "release_date": "1973-10-08",
+        "title": "Private Screening",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/miAJ4yYJPb14u07MCn04otqPGgq.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 56351,
+        "original_language": "fr",
+        "original_title": "Déjà mort",
+        "overview": "A young pizza-deliverer, Andréa, introduces Laure, a 20 year old girl he barely knows, to his friend David, a wealthy layabout who is looking for models for his porn photo agency. Eager for an easy escape from her dull life, Laure agrees to attend an audition with David’s boss, who proposes that she appears in hard core porn videos. She does not realise - until it is too late - that she has entered a world of hedonistic excess and brutal self-destruction...",
+        "popularity": 7.869,
+        "poster_path": "/wAhHS602rbG08IjkvLogNxLm6cv.jpg",
+        "release_date": "1998-04-22",
+        "title": "Already Dead",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3JXNymesSOQRHY071ioAaHnCxPd.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 50441,
+        "original_language": "en",
+        "original_title": "Boulevard",
+        "overview": "A street prostitute takes in an abused young woman on the run from her misogynist boyfriend, leading to both facing off against the prostitute's dreaded pimp and a relentless police detective out to arrest all of them.",
+        "popularity": 7.869,
+        "poster_path": "/n5O3yhWsvNQ43yJRqhLXxePxhRE.jpg",
+        "release_date": "1994-05-01",
+        "title": "Boulevard",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eA2lrGMTO5CMgFXvMq4kGOZ8p6Q.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1157833,
+        "original_language": "ko",
+        "original_title": "돌아온 자와 떠나야 할 자",
+        "overview": "",
+        "popularity": 7.868,
+        "poster_path": "/fKjtzCRVWXrYbEavOOIMeRModAf.jpg",
+        "release_date": "1972-09-01",
+        "title": "One Who Comes Back and the Other Who Has To Leave",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dC5VEStdlZJOQgNB3bKrHmDI5mQ.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 36337,
+        "original_language": "en",
+        "original_title": "Delusion",
+        "overview": "In this fast-paced, noirish road movie, a computer expert embezzles half a million dollars and races off to Reno to start anew. Unfortunately, en route, he picks up a pair of hitchers and ends up entangled with a crazed couple who commandeer his car and leave him alone in the desert to die. As soon as he can, he hits the road to get revenge and to find his money before they do.",
+        "popularity": 7.868,
+        "poster_path": "/q6oyVAKQXh9Ci5WFwGF3HaByvVY.jpg",
+        "release_date": "1991-06-07",
+        "title": "Delusion",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9aIruIO4rzGA1bo0X53YzJZEnGN.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 27991,
+        "original_language": "en",
+        "original_title": "The Little Giant",
+        "overview": "Prohibition is ending so bootlegger Bugs Ahearn decides to crack California society. He leases a house from down-on-her-luck Ruth and hires her as social secretary. He rescues Polly Cass from a horsefall and goes home to meet her dad who sells him some phony stock certificates. When he learns about this he sends to Chicago for mob help.",
+        "popularity": 7.868,
+        "poster_path": "/n7YHYu2JO0zBCEsBW8lKRBvpTgr.jpg",
+        "release_date": "1933-05-20",
+        "title": "The Little Giant",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iERTZ4SkeUQnjweTyrjQf28qI5f.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 363178,
+        "original_language": "ta",
+        "original_title": "தூங்கா வனம்",
+        "overview": "An undercover cop finds himself in a Catch-22 situation where he has to return the drugs he had stolen from a kingpin in exchange for his son. The bag containing the drug goes missing, and with both gangsters and cops on his tail, can he get out of this mess?",
+        "popularity": 7.865,
+        "poster_path": "/ydqz82ndB2QTj51ubvl6iG6lQI1.jpg",
+        "release_date": "2015-11-10",
+        "title": "Thoongaavanam",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7YkPt330wYGkQKmF26LTpaDB4R5.jpg",
+        "genre_ids": [
+            80,
+            99
+        ],
+        "id": 13364,
+        "original_language": "en",
+        "original_title": "Deliver Us from Evil",
+        "overview": "Documentary filmmaker Amy Berg investigates the life of 30-year pedophile Father Oliver O'Grady and exposes the corruption inside the Catholic Church that allowed him to abuse countless children. Victims' stories and a disturbing interview with O'Grady offer a view into the troubled mind of the spiritual leader who moved from parish to parish gaining trust ... all the while betraying so many.",
+        "popularity": 7.865,
+        "poster_path": "/iRKU9bayU4nZHzlKYpE1KlcT5KW.jpg",
+        "release_date": "2006-06-24",
+        "title": "Deliver Us from Evil",
+        "video": false,
+        "vote_average": 7.168,
+        "vote_count": 188
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zlRiebH5rsnzZb87t2x6dDEmUnp.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 415045,
+        "original_language": "ja",
+        "original_title": "博徒解散式",
+        "overview": "The story of men devoted to the yakuza lifestyle and their struggles during a time of fading yakuza power.",
+        "popularity": 7.864,
+        "poster_path": "/yIL3Yb6z4rizhExgQCWygDWGgJP.jpg",
+        "release_date": "1968-02-09",
+        "title": "Gambler's Farewell",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7at7nFWi1FDS2wGDZberXunAfZG.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 803666,
+        "original_language": "ml",
+        "original_title": "സല്യൂട്ട്",
+        "overview": "Committed and fiery, Sub Inspector Aravind Karunakaran is obliged to be part of an investigation where an innocent man Murali is deliberately being set up for the murder of a middle-aged couple. Fearing the consequences of revealing that they had deliberately framed Murali, the team refuses to investigate it further and let go of the man that they had arrested. Will they find the one responsible?",
+        "popularity": 7.863,
+        "poster_path": "/1rTESlmFExGj4YViSVo9QYIqr9x.jpg",
+        "release_date": "2022-01-14",
+        "title": "Salute",
+        "video": false,
+        "vote_average": 7.588,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yIlNDXG0d6jShAo2SRrD2qcNwqU.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 117123,
+        "original_language": "en",
+        "original_title": "Dick Tracy's Dilemma",
+        "overview": "Dick Tracy investigates the theft of a fortune of fur coats, a possible insurance swindle and several murders, all linked to a huge thug who wears a hook in place of his right hand.",
+        "popularity": 7.862,
+        "poster_path": "/6NqrrgN9pTVxm4RBYwRafw1wciv.jpg",
+        "release_date": "1947-05-20",
+        "title": "Dick Tracy's Dilemma",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            27,
+            9648
+        ],
+        "id": 28791,
+        "original_language": "en",
+        "original_title": "Brutal",
+        "overview": "In a small town, a serial killer mutilates the bodies of his victims and leaves a flower on the corpses. The sheriff and his wife/deputy investigate the murders while trying to keep from alarming the citizens. They team up with an autistic hound dog trainer to try to track the killer.",
+        "popularity": 7.86,
+        "poster_path": "/3HwEeKAuw5a5ehwiyBelpKgUjAQ.jpg",
+        "release_date": "2007-07-10",
+        "title": "Brutal",
+        "video": false,
+        "vote_average": 3.833,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            10770
+        ],
+        "id": 1018588,
+        "original_language": "en",
+        "original_title": "The Great Cash Giveaway Getaway",
+        "overview": "Two teenagers on the run with a quarter of a million dollars belonging to an illegal drug ring are pursued by a suave crime czar and, after they gain a celebrity of sorts, by the whole country, which wants to partake of their largesse in their coast-to-coast spending spree.",
+        "popularity": 7.858,
+        "poster_path": "/hGBKGAMhIBmuIKAuAtfoY6ZrfVn.jpg",
+        "release_date": "1980-04-21",
+        "title": "The Great Cash Giveaway Getaway",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80,
+            10770
+        ],
+        "id": 390907,
+        "original_language": "en",
+        "original_title": "Machinegunner",
+        "overview": "A 'machinegunner' (West Country slang for a debt-collector) turns amateur sleuth, but finds himself in hot water with local criminals.",
+        "popularity": 7.858,
+        "poster_path": null,
+        "release_date": "1976-04-01",
+        "title": "Machinegunner",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/66oLxclwJuKm70q9DiSuv781XvT.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            28
+        ],
+        "id": 593057,
+        "original_language": "it",
+        "original_title": "A mano disarmata",
+        "overview": "",
+        "popularity": 7.855,
+        "poster_path": "/lSO0J379dbLlAMjpzhfZL9pvr86.jpg",
+        "release_date": "2019-06-06",
+        "title": "A mano disarmata",
+        "video": false,
+        "vote_average": 6.431,
+        "vote_count": 65
+    }
+]

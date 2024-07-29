@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/bQYKfxUlyHPFfSJ1ZovEB6GWOdD.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 15077,
+        "original_language": "cn",
+        "original_title": "黑社會以和為貴",
+        "overview": "As election time nears, current Triad chairman Lok faces competition from his godsons. At the same time, Jimmy looks to increase his business relations with mainland China.",
+        "popularity": 31.112,
+        "poster_path": "/bjIwRS0DfwJQxFlDGk2HpH3gg1C.jpg",
+        "release_date": "2006-04-27",
+        "title": "Election 2",
+        "video": false,
+        "vote_average": 7.357,
+        "vote_count": 161
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wEVSupeNO7EjjCFieEv2zt4oJei.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80
+        ],
+        "id": 609242,
+        "original_language": "es",
+        "original_title": "El robo del siglo",
+        "overview": "In 2006, a group of thieves performed what is considered one of the most famous and smart bank heists in the history of Argentina. How they robbed the Rio bank is as surprising as what happened afterwards. This is their story.",
+        "popularity": 31.11,
+        "poster_path": "/1zL4VCVin4S8kOXhszMDqfwWPCM.jpg",
+        "release_date": "2020-01-16",
+        "title": "The Heist of the Century",
+        "video": false,
+        "vote_average": 7.787,
+        "vote_count": 766
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5yzpA7odHcs926hLptTwAZmFoVN.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 463906,
+        "original_language": "en",
+        "original_title": "The Saint",
+        "overview": "International master thief, Simon Templar, also known as The Saint, is asked by a desperate rich man to find his kidnapped daughter. However, in addition to evading the authorities, Simon must face a dangerous adversary from his past.",
+        "popularity": 31.098,
+        "poster_path": "/n8tsrPLem70exhXHfSausV7FlPx.jpg",
+        "release_date": "2017-07-11",
+        "title": "The Saint",
+        "video": false,
+        "vote_average": 5.339,
+        "vote_count": 274
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cyV2syN5zRQwU6BmWMyMFyjRLow.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 843633,
+        "original_language": "en",
+        "original_title": "White Elephant",
+        "overview": "An ex-marine enforcer must battle his conscience and code of honor when he is forced to do things for the mob.",
+        "popularity": 31.074,
+        "poster_path": "/lG56H40Y1BuHSPoWtEgDJsSgDBZ.jpg",
+        "release_date": "2022-06-03",
+        "title": "White Elephant",
+        "video": false,
+        "vote_average": 6.011,
+        "vote_count": 142
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gy4RzOcJsRpJXOnZ7bWJEbE9UZ2.jpg",
+        "genre_ids": [
+            80,
+            53,
+            10749
+        ],
+        "id": 483,
+        "original_language": "en",
+        "original_title": "Wild at Heart",
+        "overview": "After serving prison time for a self-defense killing, Sailor Ripley reunites with girlfriend Lula Fortune. Lula's mother, Marietta, desperate to keep them apart, hires a hitman to kill Sailor. But he finds a whole new set of troubles when he and Bobby Peru, an old buddy who's also out to get Sailor, try to rob a store. When Sailor lands in jail yet again, the young lovers appear further than ever from the shared life they covet.",
+        "popularity": 31.074,
+        "poster_path": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+        "release_date": "1990-08-17",
+        "title": "Wild at Heart",
+        "video": false,
+        "vote_average": 7.03,
+        "vote_count": 1561
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yaDYZCgwwVltJRKuXtTjlXN47HE.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 19383,
+        "original_language": "en",
+        "original_title": "Targets",
+        "overview": "An aging horror-movie icon's fate intersects with that of a seemingly ordinary young man on a psychotic shooting spree around Los Angeles.",
+        "popularity": 31.069,
+        "poster_path": "/n0xQThLhrymktXzQbD0KwwUMXSB.jpg",
+        "release_date": "1968-08-15",
+        "title": "Targets",
+        "video": false,
+        "vote_average": 7.048,
+        "vote_count": 198
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wJzz1upLQBbDGCh5oTcgHUmaZYB.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 46691,
+        "original_language": "en",
+        "original_title": "Joe",
+        "overview": "Ad executive Bill Compton confronts and murders his daughter's drug-dealing boyfriend. Wandering into a local bar, Bill encounters a drunken, bigoted factory worker with a bloodlust, Joe Curran. When Bill confesses the murder to Joe, the two strike up an uneasy alliance, leading to a wild adventure.",
+        "popularity": 31.056,
+        "poster_path": "/2x4YCP8uV4cKOS5ZEKt1Cc1h4eF.jpg",
+        "release_date": "1970-07-15",
+        "title": "Joe",
+        "video": false,
+        "vote_average": 6.527,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aw0EeseSr10dVUuY6Aiv6HhP8UW.jpg",
+        "genre_ids": [
+            28,
+            80,
+            27
+        ],
+        "id": 9696,
+        "original_language": "ja",
+        "original_title": "殺し屋1",
+        "overview": "As sadomasochistic yakuza enforcer Kakihara searches for his missing boss he comes across Ichi, a repressed and psychotic killer who may be able to inflict levels of pain that Kakihara has only dreamed of.",
+        "popularity": 31.046,
+        "poster_path": "/k8j4YLZlda98dqp9ErymKzjYowG.jpg",
+        "release_date": "2001-12-22",
+        "title": "Ichi the Killer",
+        "video": false,
+        "vote_average": 6.99,
+        "vote_count": 932
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u1JzntSiNw9vUCqYIOcNDajWwdZ.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 2086,
+        "original_language": "en",
+        "original_title": "Nick of Time",
+        "overview": "An ordinary man is suddenly forced into a plot to kill a politician in exchange for his kidnapped daughter's freedom.",
+        "popularity": 31.036,
+        "poster_path": "/A1FJwUVg84sQSjHVz5jVMXQvifJ.jpg",
+        "release_date": "1995-11-22",
+        "title": "Nick of Time",
+        "video": false,
+        "vote_average": 6.212,
+        "vote_count": 702
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1yqVaDR7uIA3Xx9GQIhbEbh5pEe.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            18
+        ],
+        "id": 571648,
+        "original_language": "ko",
+        "original_title": "지푸라기라도 잡고 싶은 짐승들",
+        "overview": "A struggling restaurant owner, caring for his sick mom, finds a bag of cash in a sauna locker, while a customs officer gets into trouble when his girlfriend runs off with money he borrowed from a loan shark.",
+        "popularity": 31.025,
+        "poster_path": "/7roaNIjNHMitbiNX0uEIFcwy6Cb.jpg",
+        "release_date": "2020-02-19",
+        "title": "Beasts Clawing at Straws",
+        "video": false,
+        "vote_average": 7.119,
+        "vote_count": 235
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cjA8bxjXcw3I63DlO3qa6uFwrH4.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 22094,
+        "original_language": "en",
+        "original_title": "Hard Times",
+        "overview": "In the depression, Chaney, a strong silent streetfighter, joins with Speed, a promoter of no-holds-barred street boxing bouts. They go to New Orleans where Speed borrows money to set up fights for Chaney, but Speed gambles away any winnings.",
+        "popularity": 30.994,
+        "poster_path": "/yWIh8cMGd9XubkdhJB2TJ7buGy3.jpg",
+        "release_date": "1975-08-13",
+        "title": "Hard Times",
+        "video": false,
+        "vote_average": 6.742,
+        "vote_count": 192
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kqpPpOmT8TjgWrIvae2nWGwBPAS.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 37414,
+        "original_language": "en",
+        "original_title": "The Killer Inside Me",
+        "overview": "Deputy Sheriff Lou Ford is a pillar of the community in his small west Texas town, patient and apparently thoughtful. Some people think he is a little slow and maybe boring, but that is the worst they say about him. But then nobody knows about what Lou calls his \"sickness\": He is a brilliant, but disturbed sociopathic sadist.",
+        "popularity": 30.986,
+        "poster_path": "/fhmdzywgGF9cvoLPuW8qqDn0Gtx.jpg",
+        "release_date": "2010-02-19",
+        "title": "The Killer Inside Me",
+        "video": false,
+        "vote_average": 5.827,
+        "vote_count": 557
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3BSAzy9aXXWCBvJCgLgPxLuquEk.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 542836,
+        "original_language": "ko",
+        "original_title": "협상",
+        "overview": "An ace crisis negotiator attempts to figure out the real motivation of a man who has kidnapped two people and crack his calm demeanour.",
+        "popularity": 30.97,
+        "poster_path": "/i0laXgjgTysxzjaOgHJEkym9OAb.jpg",
+        "release_date": "2018-09-19",
+        "title": "The Negotiation",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 140
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yJtLib6f8a61mO3u59JRmjQ7IOg.jpg",
+        "genre_ids": [
+            28,
+            18,
+            9648,
+            53,
+            80
+        ],
+        "id": 10782,
+        "original_language": "en",
+        "original_title": "Basic",
+        "overview": "Tom Hardy, an ex-Army Ranger turned DEA agent, is drawn into an ever-widening mystery surrounding the disappearance of the feared and often hated Sgt. Nathan West, as well as several of his elite Special Forces trainees on what appears, at first, to have been a routine training exercise during a hurricane in the jungles of Panama.",
+        "popularity": 30.968,
+        "poster_path": "/uXgx1wQgH7KhqK2Y4ZeicPd9PaN.jpg",
+        "release_date": "2003-04-18",
+        "title": "Basic",
+        "video": false,
+        "vote_average": 6.504,
+        "vote_count": 1004
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kL9mUbw8QJBh1vz643o956XZ0uj.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 9930,
+        "original_language": "en",
+        "original_title": "Legal Eagles",
+        "overview": "District Attorney Tom Logan is set for higher office, at least until he becomes involved with defence lawyer Laura Kelly and her unpredictable client Chelsea Deardon. It seems the least of Chelsea's crimes is the theft of a very valuable painting, but as the women persuade Logan to investigate further and to cut some official corners, a much more sinister scenario starts to emerge.",
+        "popularity": 30.962,
+        "poster_path": "/aZKGkQ9rpMyQ75sbdLnpmiM3m73.jpg",
+        "release_date": "1986-06-18",
+        "title": "Legal Eagles",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 205
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g42G7sBCJTEky8G44lK1KTnkgJb.jpg",
+        "genre_ids": [
+            12,
+            35,
+            80
+        ],
+        "id": 8592,
+        "original_language": "en",
+        "original_title": "Dick Tracy",
+        "overview": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
+        "popularity": 30.956,
+        "poster_path": "/xY6D5Ti44xuwzCkmf6Ygbj86BkP.jpg",
+        "release_date": "1990-04-05",
+        "title": "Dick Tracy",
+        "video": false,
+        "vote_average": 6.141,
+        "vote_count": 907
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/upXYRYVA4Jij3whT5ilP4fTuVw0.jpg",
+        "genre_ids": [
+            27,
+            80,
+            53
+        ],
+        "id": 1075335,
+        "original_language": "en",
+        "original_title": "Little Bone Lodge",
+        "overview": "During a stormy night in the Scottish Highlands, two criminal brothers on the run seek refuge in a desolate farmhouse. But after taking the resident family captive, they find the house holds even darker secrets of its own.",
+        "popularity": 30.901,
+        "poster_path": "/2BwerQH4tZvHU6zUlC77aDw7pLt.jpg",
+        "release_date": "2023-11-23",
+        "title": "Little Bone Lodge",
+        "video": false,
+        "vote_average": 6.822,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/86uhKWx1PyKfUXyu0bCyxCgcs2L.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80
+        ],
+        "id": 878183,
+        "original_language": "en",
+        "original_title": "The Independent",
+        "overview": "It's the final weeks of the most consequential presidential election in history. America is poised to elect either its first female president or its first viable independent candidate. Reporting history as it's made, an idealistic young journalist teams up with her idol, legendary journalist Nick Booker, to uncover a conspiracy that places the fate of the election, and the country, in their hands.",
+        "popularity": 30.901,
+        "poster_path": "/jhlc1nsD8nnnGymEFaZ0twMH6M6.jpg",
+        "release_date": "2022-11-02",
+        "title": "The Independent",
+        "video": false,
+        "vote_average": 6.854,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lgDQLrJs6XAJ1svDFVAPlBztECb.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            53
+        ],
+        "id": 17689,
+        "original_language": "en",
+        "original_title": "The Gauntlet",
+        "overview": "Phoenix cop Ben Shockley is well on his way to becoming a derelict when he is assigned to transport a witness from Las Vegas. The witness turns out to be a belligerent prostitute with mob ties—and incriminating information regarding a high-ranking figure.",
+        "popularity": 30.9,
+        "poster_path": "/hYXkHixmH2W4hXA0qVJpT4ONPt1.jpg",
+        "release_date": "1977-12-17",
+        "title": "The Gauntlet",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 504
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zMZUzJOMtdT0UyevOsq9F6qTooS.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1229958,
+        "original_language": "en",
+        "original_title": "Lover, Stalker, Killer",
+        "overview": "In this twisting documentary, a mechanic tries online dating for the first time and meets a woman who takes romantic obsession to a deadly extreme.",
+        "popularity": 30.898,
+        "poster_path": "/f5uojWzwJTCHBIV3rmGPTmQG7TF.jpg",
+        "release_date": "2024-02-09",
+        "title": "Lover, Stalker, Killer",
+        "video": false,
+        "vote_average": 6.905,
+        "vote_count": 100
+    }
+]

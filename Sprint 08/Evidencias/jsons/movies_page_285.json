@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/a1LMs91mQO0zRJC24Fvx9Gr71EB.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 850297,
+        "original_language": "uk",
+        "original_title": "Памфір",
+        "overview": "When reformed ex-smuggler Pamfir returns home to his village on the Ukrainian border after working abroad for several years, he’s determined to earn an honest living and set a good example for his beloved teenage son Nazar. But in a town where corruption runs deep and crime and religion are inextricably linked, his plan is quickly thwarted when Nazar sets fire to the local church in a misguided effort to keep him at home. To pay for the damage, Pamfir must take on one last job for a crime syndicate operating a risky smuggling venture in a place where all the rules have changed.",
+        "popularity": 10.908,
+        "poster_path": "/cXjLP4zqnQOfTtdzoKNKksNwb11.jpg",
+        "release_date": "2022-11-02",
+        "title": "Pamfir",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 1134231,
+        "original_language": "ko",
+        "original_title": "개미잡이",
+        "overview": "A revenge thriller film that tells the story of the pain of a brother and sister who were taken to Brothers Welfare Center in the past and punishes them directly because the law cannot punish them for their wounds and pain at the welfare center. Based on the webtoon of the same name by Lee Ik-su.",
+        "popularity": 10.907,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Ant Catcher",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uD1fIXwczrp1Qdg2EGI2Y5hyVua.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 175961,
+        "original_language": "cn",
+        "original_title": "神探朱古力",
+        "overview": "Inspector Chu is an idiot to rival Inspector Clouseau. After he fails to catch a car-park full of thieves he is demoted to the missing persons squad, only to be faced with the kidnapping of the son of the star of a TV cooking show. Inspector Chocolate bungles the case, fails to dance the tango and interferes with the Miss Hong Kong pageant in his attempts to solve the case",
+        "popularity": 10.905,
+        "poster_path": "/eKCjm7zpl162P3C1weeXMteulLV.jpg",
+        "release_date": "1986-12-18",
+        "title": "Inspector Chocolate",
+        "video": false,
+        "vote_average": 6.083,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bBRFMfq1vF8Krj3nQrQfJpFBICI.jpg",
+        "genre_ids": [
+            53,
+            10770,
+            80
+        ],
+        "id": 116675,
+        "original_language": "en",
+        "original_title": "Legacy of Fear",
+        "overview": "A police detective catches wind of a brutal serial killer - the same serial killer who is responsible for the deaths of her parents, 30 years earlier.",
+        "popularity": 10.903,
+        "poster_path": "/vTu07uXmLB8MP3IFAQiHXvIPHiv.jpg",
+        "release_date": "2006-11-27",
+        "title": "Legacy of Fear",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bMrYAvAE5MalHKglxAKduqV5S4k.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            9648
+        ],
+        "id": 733278,
+        "original_language": "en",
+        "original_title": "Picture Perfect Mysteries: Exit Stage Death",
+        "overview": "While backstage on opening night of a new play by celebrated murder mystery author/director Neil Khan, photographer Allie Adams discovers the body of the show’s leading lady, murdered before the curtain went up. As Willow Haven PD Detective Sam Acosta launches his investigation, he invites Allie – who has been helpful in solving his first two murder cases since joining the force -- to unofficially assist him on the. case. However, Allie’s involvement makes her a target for murder herself when she gets too close to the truth.",
+        "popularity": 10.899,
+        "poster_path": "/eHFJ15cZ1pfk60XTcTl9GYxnhf6.jpg",
+        "release_date": "2020-10-11",
+        "title": "Picture Perfect Mysteries: Exit Stage Death",
+        "video": false,
+        "vote_average": 7.048,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tHgSVlIN2jwJdxaQVOPR2X9D7yB.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1030571,
+        "original_language": "pt",
+        "original_title": "Propriedade",
+        "overview": "To protect herself from a revolt by the workers on her family's farm, a reclusive designer locks herself in her armored car. The clock is ticking and the tension rises. Separated by an impenetrable layer of glass, two universes are about to collide.",
+        "popularity": 10.898,
+        "poster_path": "/9boTet2TL1808fKp1IcJPMhP6Ga.jpg",
+        "release_date": "2023-12-16",
+        "title": "Property",
+        "video": false,
+        "vote_average": 7.615,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jsCHzZz3Mxqrj3HHsxc9N9Try9L.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 211866,
+        "original_language": "cn",
+        "original_title": "五虎將之決裂",
+        "overview": "Cops find their careers and their lives in jeopardy when they spend a gangster's bribe money after releasing him from custody during a drug bust.",
+        "popularity": 10.896,
+        "poster_path": "/pP5C0oDPRglC10OhK81SQrXb3Zs.jpg",
+        "release_date": "1991-07-02",
+        "title": "The Tigers",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i2mIGzQGPT3BRPQwaNIc8qfQvLw.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 28280,
+        "original_language": "en",
+        "original_title": "Direct Action",
+        "overview": "Frank Gannon, a veteran cop, is being hunted by his fellow police officers after they learned he has betrayed the brotherhood and exposed to the feds wide scale corruption of the LAPD. He has one day left to prove his case and survive.",
+        "popularity": 10.895,
+        "poster_path": "/cgS2xvButiNQtT1dGf1cukdoMcR.jpg",
+        "release_date": "2004-05-25",
+        "title": "Direct Action",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qJWtc2XXLgl7EMGyPTmRYnLt321.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 25900,
+        "original_language": "en",
+        "original_title": "Tension",
+        "overview": "Warren Quimby manages a drugstore while trying to keep his volatile wife, Claire, happy. However, when Claire leaves him for a liquor store salesman, Warren can no longer bear it. He decides to assume a new identity in order to murder his wife's lover without leaving a trace. Along the way, his plans are complicated by an attractive neighbor, as well as a shocking discovery that opens up a new world of doubts and accusations.",
+        "popularity": 10.893,
+        "poster_path": "/zf2rqfuzTK9n3Q41KRRSllrEb0U.jpg",
+        "release_date": "1949-11-25",
+        "title": "Tension",
+        "video": false,
+        "vote_average": 6.771,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/40v6Rbrv5c5nKVbtDfjqjUBVRi0.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 382706,
+        "original_language": "en",
+        "original_title": "Roaring City",
+        "overview": "A San Francisco private eye finds himself under suspicion while investigating a prizefighter's murder.",
+        "popularity": 10.889,
+        "poster_path": "/7ga6QhAihzRy5q28Ka8agRgZmXL.jpg",
+        "release_date": "1951-05-04",
+        "title": "Roaring City",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/niPNNNPcRbEnfVoMQJsFEqZs38V.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 34462,
+        "original_language": "en",
+        "original_title": "Women in Cages",
+        "overview": "Carol Jeffries is a naive American woman staying in the Philippines. She is given ten years in prison after being set up by her drug-dealer boyfriend, Rudy. She endures the harsh conditions, sadistic head matron and attempts on her life, then convinces her cell-mates to try to escape with her through the jungle, in spite of the knowledge that ruthless trackers will be sent out after them.",
+        "popularity": 10.887,
+        "poster_path": "/zaXqLsz2u6D2Plr3xyw6LEOqJJR.jpg",
+        "release_date": "1971-10-19",
+        "title": "Women in Cages",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ye7V0f0yh8kBm9rk9GFhZjx5u8x.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 818958,
+        "original_language": "sv",
+        "original_title": "Snälla kriminella",
+        "overview": "Two losers try to become criminals to solve their problems. One of them, MC Baboo, struggles to become a rapper but needs street-cred to compensate for his bad rap skills. The other, Sasan, has been dumped, fired and needs quick cash to give his dying dog an expensive surgical procedure. They decide to commit a series of robberies to solve their problems with fast cash and gaining respect on the streets. They soon have both the police and dangerous gangsters at their heels and after accidentally falling into debt to the underworld, they are forced to step up their game to pull off one final, daring heist. They intend to rob a famous comedian to avoid paying with their lives.",
+        "popularity": 10.886,
+        "poster_path": "/bGl50k7qlyFngBBvIhp7pvCj5QK.jpg",
+        "release_date": "2021-04-30",
+        "title": "Most Unwanted",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m6XfJjFSwIuuZowe39lVZ738qjy.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            10770
+        ],
+        "id": 449074,
+        "original_language": "en",
+        "original_title": "Like Mother Like Son: The Strange Story of Sante and Kenny Kimes",
+        "overview": "The real-life case based on the horrific crimes of Sante and Kenny Kimes, the mother and son duo who specialized in theft, fraud and murder.",
+        "popularity": 10.882,
+        "poster_path": "/xZ5KrvbZyKeqWdO610K7H0gKXZ9.jpg",
+        "release_date": "2001-05-20",
+        "title": "Like Mother Like Son: The Strange Story of Sante and Kenny Kimes",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            10770,
+            28,
+            12
+        ],
+        "id": 279794,
+        "original_language": "en",
+        "original_title": "Supreme Sanction",
+        "overview": "An elite assassin for a covert Government agency is marked for death after aborting an assignment to take out a journalist who could expose the corruption of the very institution that trained her as their weapon of choice.",
+        "popularity": 10.882,
+        "poster_path": "/9aRmJvdkGiKT6wtWOVsrU9r11UQ.jpg",
+        "release_date": "1999-04-09",
+        "title": "Supreme Sanction",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wzHo03NCUH95ywKQhrYpNk9v7A1.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 200371,
+        "original_language": "en",
+        "original_title": "Guilty As Charged",
+        "overview": "Rod Steiger stars as a vigilante who with the aid of his helper, Isaac Hayes, captures men who he considers evil and executes them in his homemade electric chair.",
+        "popularity": 10.882,
+        "poster_path": "/z6KPbc3SsWFQrB4b0rKb1VHcREM.jpg",
+        "release_date": "1991-04-19",
+        "title": "Guilty As Charged",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jEuAUyF4wNK8XHOQHd4i7P7Iqnh.jpg",
+        "genre_ids": [
+            18,
+            80,
+            35,
+            10749
+        ],
+        "id": 42659,
+        "original_language": "en",
+        "original_title": "Blonde Crazy",
+        "overview": "Adventures of a cocky con man and his beautiful accomplice.",
+        "popularity": 10.881,
+        "poster_path": "/dhQSdNMkXEsEXS3TllcdgbhLqMm.jpg",
+        "release_date": "1931-09-16",
+        "title": "Blonde Crazy",
+        "video": false,
+        "vote_average": 6.976,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3u60j4akqLwes7J0zEvdSMWdtyj.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 1052155,
+        "original_language": "en",
+        "original_title": "Ponyboi",
+        "overview": "Unfolding over the course of Valentine’s Day in New Jersey, a young intersex sex worker must run from the mob after a drug deal goes sideways, forcing him to confront his past.",
+        "popularity": 10.877,
+        "poster_path": "/nHC1kzylcIwGOJFoLmiqh6Cl7vT.jpg",
+        "release_date": "2024-01-20",
+        "title": "Ponyboi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wI55Yf5dw2md2we0ieBZsb4oFVD.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 21072,
+        "original_language": "sv",
+        "original_title": "Noll tolerans",
+        "overview": "Johan is a two-fisted Gothenburg cop who finds himself in a shoot-out with jewel robbers. After the smoke has cleared, one robber, shot by his accomplice, and an innocent bystander, are dead. Three witnesses, including Helen, identify thug extraordinaire Leo Gaut as being the dead crook's trigger-happy colleague. Gaut soon threatens the three witnesses, and only Johan, the badge-wearing hero, can save them.",
+        "popularity": 10.877,
+        "poster_path": "/O8wijji4u1dUaNAdmBOyrcP2ZR.jpg",
+        "release_date": "1999-10-29",
+        "title": "Zero Tolerance",
+        "video": false,
+        "vote_average": 6.155,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sXQSvRsVjHhTAeTHODUElKS2i0F.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 40735,
+        "original_language": "ko",
+        "original_title": "웨스트 32번가",
+        "overview": "When John Kim, an ambitious young lawyer, takes on a pro bono case to exonerate a fourteen-year-old boy from a first degree murder charge, he finds a world he never knew existed in the underbelly of Manhattan - the Korean underworld.",
+        "popularity": 10.872,
+        "poster_path": "/oPWFe5O3V0GiHQGHECL1ki2ujLu.jpg",
+        "release_date": "2007-05-02",
+        "title": "West 32nd",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3G4uB1mVsHqxIrA0ZJ1wAjl01US.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18
+        ],
+        "id": 1053348,
+        "original_language": "en",
+        "original_title": "The Buckingham Murders",
+        "overview": "Fresh wounds are reopened when Jasmeet Bhamra, a cop and a single mother who recently lost her child in a shooting spree, transfers to High Wycombe and is assigned a case of a missing child.",
+        "popularity": 10.871,
+        "poster_path": "/lPUmaQgDgybVmqYKpiZpmOCims3.jpg",
+        "release_date": "2024-09-13",
+        "title": "The Buckingham Murders",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

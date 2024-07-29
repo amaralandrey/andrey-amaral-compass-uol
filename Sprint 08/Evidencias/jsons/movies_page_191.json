@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/aL9mNY1XpiIgO9KnaJoHxWpqXf9.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 110148,
+        "original_language": "en",
+        "original_title": "Jesse Stone: Benefit of the Doubt",
+        "overview": "Jesse finds himself struggling to get his job back as the Paradise police chief, and he is forced to rely on his cop intuition to sort through a maze of misleading clues and hidden meanings as he attempts to solve a shocking and horrifying mob-related double homicide.",
+        "popularity": 15.057,
+        "poster_path": "/6VXwybKPZLTSBc19Tid7uPpJhJK.jpg",
+        "release_date": "2012-05-19",
+        "title": "Jesse Stone: Benefit of the Doubt",
+        "video": false,
+        "vote_average": 6.859,
+        "vote_count": 71
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/348KfZ6QTB1uk0VSZSHdMRcOtvE.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1279642,
+        "original_language": "en",
+        "original_title": "Ride",
+        "overview": "Desperate to raise money for his daughter’s cancer treatment, a retired bull rider teams up with his estranged son and resorts to robbery to secure payment before time runs out. But after the heist goes awry, keeping the money—and their freedom—requires the duo to outwit a dogged pair of local law enforcement officers, including a justice-minded sheriff who soon suspects that the key to her case may lie uncomfortably close to home.",
+        "popularity": 15.051,
+        "poster_path": "/iz4HyLI79FRDVNx3uj2B3dx7VTL.jpg",
+        "release_date": "2024-06-14",
+        "title": "Ride",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s5MVkbChPVrTKlJmZlh6dN3T7Hb.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 852758,
+        "original_language": "it",
+        "original_title": "Io sono l'abisso",
+        "overview": "The Man Who Cleans knows you can find a lot of secrets in trash. People tend to lie but their trash never does. The Man Who Cleans thought he was invisible, until he met the Girl with the Purple Hair Lock. Girl with the Purple Hair Lock breaks into his tidy life because only an evil angel can save her now. Meanwhile, the Huntress knows somebody is killing blonds out there. Nobody believes her, but she knows. What she doesn't know, though, is that evil is hiding behind the green door. The truth lies at the bottom of a dark, deep abyss.",
+        "popularity": 15.046,
+        "poster_path": "/grarRx57AFkQGuyY856Ex8RMkQp.jpg",
+        "release_date": "2022-10-27",
+        "title": "I Am the Abyss",
+        "video": false,
+        "vote_average": 5.808,
+        "vote_count": 99
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1j3B8PfW1owxYL4qCIr4PgOdF5E.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35,
+            878,
+            53
+        ],
+        "id": 49514,
+        "original_language": "en",
+        "original_title": "特警新人類2",
+        "overview": "When terrorists abduct a deadly government attack robot, the call is put out to the Gen-Y Cops, an elite task force with lethal fighting skills. Together with a trigger-happy FBI agent, the Gen-Y Cops race against time to destroy the robot before it destroys their city.",
+        "popularity": 15.043,
+        "poster_path": "/28ogVAXiUjUwUIHXXh99UWfgpwj.jpg",
+        "release_date": "2000-11-17",
+        "title": "Gen-Y Cops",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1W0cTVhORgSzdeENamJkdbkdpIE.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 31937,
+        "original_language": "en",
+        "original_title": "The Split",
+        "overview": "A group of thieves attempt a daring robbery of a football stadium.",
+        "popularity": 15.043,
+        "poster_path": "/djvKlaid635GhsedLRE3QUxV6sB.jpg",
+        "release_date": "1968-11-04",
+        "title": "The Split",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/55Eh0W8ngtsI1P8gF1Sfgm7pk0W.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35
+        ],
+        "id": 995926,
+        "original_language": "ko",
+        "original_title": "베테랑 2",
+        "overview": "The veteran detective Seo Do-cheol and his team at Major Crimes, relentless in their pursuit of criminals, join forces with rookie cop Park Sun-woo to track down a serial killer who has plunged the nation into turmoil.",
+        "popularity": 15.037,
+        "poster_path": "/ohKkGObQ3quzf2LRLzWQooVxhB.jpg",
+        "release_date": "2024-09-13",
+        "title": "I, The Executioner",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2pnfUSFqUPn9F4mzl1MLKrlnNbU.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 25253,
+        "original_language": "fr",
+        "original_title": "Les Tontons flingueurs",
+        "overview": "An aging gangster, Fernand Naudin is hoping for a quiet retirement when he suddenly inherits a fortune from an old friend, a former gangster supremo known as the Mexican. If he is ambivalent about his new found wealth, Fernand is positively nonplussed to discover that he has also inherited his benefactor’s daughter, Patricia. Unfortunately, not only does Fernand have to put up with the thoroughly modern Patricia and her nauseating boyfriend, but he also had to contend with the Mexican’s trigger-happy former employees, who are determined to make a claim.",
+        "popularity": 15.037,
+        "poster_path": "/1uYCIsMpX7FtWu2xO1YMIAQYvLR.jpg",
+        "release_date": "1963-11-27",
+        "title": "Crooks in Clover",
+        "video": false,
+        "vote_average": 7.742,
+        "vote_count": 491
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zC9SVUUQ2RNWplLoeeXByyJDY1U.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            10749,
+            80
+        ],
+        "id": 31924,
+        "original_language": "en",
+        "original_title": "The Morning After",
+        "overview": "Failed actress Alex Sternbergen wakes up hungover one morning in an apartment she does not recognize, unable to remember the previous evening -- and with a dead body in bed next to her. As she tries to piece together the events of the night, Alex cannot totally rely on friends or her estranged husband, Joaquin, for assistance. Only a single ally, loner ex-policeman Turner Kendall, can help her escape her predicament and find the true killer.",
+        "popularity": 15.033,
+        "poster_path": "/kxuR1RpAUWRHKzCwbjg2bw6RTGI.jpg",
+        "release_date": "1986-12-25",
+        "title": "The Morning After",
+        "video": false,
+        "vote_average": 5.879,
+        "vote_count": 110
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sOKFLbAkLYcZVIiuodCROtGG7qN.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 70259,
+        "original_language": "en",
+        "original_title": "The Fortune",
+        "overview": "Two bumbling hustlers in the 1920s attempt to gain the fortune of an heiress. Nothing will stop them, not even murder.",
+        "popularity": 15.031,
+        "poster_path": "/qdx9noBCQcKDf6Ieci5BbqTjJ6G.jpg",
+        "release_date": "1975-05-20",
+        "title": "The Fortune",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/brXQrEZq1G5AQnz8J4y5BDysLWZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 45505,
+        "original_language": "cn",
+        "original_title": "星月童話",
+        "overview": "On the eve of her wedding, Hitomi loses her fiance Tatsuya to a car accident. She travels to Hong Kong seeking solace and meets undercover cop Karbo — a dead ringer for Tatsuya. The duo is forced to take it on the lam when a corrupt colleague frames Karbo, and Hitomi soon finds herself torn between her love for Tatsuya and her blossoming feelings for her fellow fugitive.",
+        "popularity": 15.029,
+        "poster_path": "/76090WA6QbnB06tdx1V5HtdJ8Mt.jpg",
+        "release_date": "1999-01-01",
+        "title": "Moonlight Express",
+        "video": false,
+        "vote_average": 6.423,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kRaZBcuBIPsdkqLHkWEuMDWQ1gQ.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            9648
+        ],
+        "id": 766713,
+        "original_language": "cn",
+        "original_title": "无间行者之生死潜行",
+        "overview": "Two police officers, one black and one white, each for their own way of justice, embarking on a confrontation of death and death.",
+        "popularity": 15.026,
+        "poster_path": "/riS2DbaecV8dNw2b7PUCeeeloMJ.jpg",
+        "release_date": "2020-11-19",
+        "title": "The Infernal Walker",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eqNuKqNjKAcOT6hlufhkkpxQ35F.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1121612,
+        "original_language": "zh",
+        "original_title": "孤注一掷",
+        "overview": "A depressed programmer and a model decide to seek gold as a seemingly good job opportunity, but they inadvertently become involved in a well-planned Internet scam.",
+        "popularity": 15.024,
+        "poster_path": "/gjyqQD5LsNOiVIXuczw9joqjiKQ.jpg",
+        "release_date": "2023-08-05",
+        "title": "No More Bets",
+        "video": false,
+        "vote_average": 7.481,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iXK6tpWSmDNShD7E3rCvamNbpcO.jpg",
+        "genre_ids": [
+            35,
+            80,
+            14
+        ],
+        "id": 182432,
+        "original_language": "cn",
+        "original_title": "踢到寶",
+        "overview": "Two inventors encounter a friendly little ghost, and stumble onto a plot to capture the ghost's uncle who was responsible for his untimely death. However, the inventors are warned by a spiritual master that humans and ghosts cannot co-exist in the same room at the same time. Doing so would cause a drainage of humans' life force.",
+        "popularity": 15.02,
+        "poster_path": "/5ae179J6t9vlQy6gbBDs5aDHtnZ.jpg",
+        "release_date": "1992-06-10",
+        "title": "Lucky Encounter",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/npDnqGGKvjaLMCYWaZ9AIwjCv87.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 20003,
+        "original_language": "en",
+        "original_title": "House of Strangers",
+        "overview": "Gino Monetti is a ruthless Italian-American banker who is engaged in a number of criminal activities. Three of his four grown sons refuse to help their father stay out of prison after he's arrested for his questionable business practices. Three of the sons take over the business but kick their father out. Max, a lawyer, is the only son that stays loyal to his father.",
+        "popularity": 15.015,
+        "poster_path": "/BrhMI1iWT4arbn7mcDkHTc0Gy6.jpg",
+        "release_date": "1949-07-01",
+        "title": "House of Strangers",
+        "video": false,
+        "vote_average": 6.854,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/svDEI20GarOHoZGkzphCGPRcyVe.jpg",
+        "genre_ids": [
+            14,
+            53,
+            80
+        ],
+        "id": 615137,
+        "original_language": "zh",
+        "original_title": "第九分局",
+        "overview": "An idealistic cop joins an underground police unit and battles ghoulish forces threatening the balance between the human and the supernatural realms.",
+        "popularity": 15.013,
+        "poster_path": "/1qGPy6ZwcIBx15UIzIjViyRIbVa.jpg",
+        "release_date": "2019-08-29",
+        "title": "The 9th Precinct",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l8m1yRpUVkgE3ok7AmvpBWQOFeH.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 571756,
+        "original_language": "de",
+        "original_title": "Leberkäsjunkie",
+        "overview": "While dealing with a burnt-down house, smelly diapers and brutal lack of sleep, a Lower Bavarian police officer faces his worst adversary: cholesterol.",
+        "popularity": 15.012,
+        "poster_path": "/gMCNiOVCSxg4C7per145CVVFd18.jpg",
+        "release_date": "2019-08-01",
+        "title": "Leberkäsjunkie",
+        "video": false,
+        "vote_average": 7.011,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a7sHhxRbIt2TXS2HS2R1FFIXog6.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 392572,
+        "original_language": "hi",
+        "original_title": "रुस्तम",
+        "overview": "A naval officer is devastated to learn about his wife's extramarital affair with a rich businessman while he was away. He pays him a visit and shoots him to death, following which he surrenders himself but claims to be \"not guilty\" in the court, much to the surprise of the businessman's sister and the officers dealing with his case.",
+        "popularity": 15.005,
+        "poster_path": "/xwf74VcrHu1etzOsRVx7nckPPLR.jpg",
+        "release_date": "2016-08-12",
+        "title": "Rustom",
+        "video": false,
+        "vote_average": 6.717,
+        "vote_count": 115
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eAaZOym0EAnFI3S1fmDKcW94wZ1.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 187378,
+        "original_language": "cn",
+        "original_title": "惡客",
+        "overview": "The Angry Guest is a direct sequel to Duel of Fists which had two long-separated brothers, Ti Lung and David Chiang, reuniting in Bangkok and running afoul of the local mob after Ti Lung, a boxer, beats the local favorite in the ring. In this film, the action shifts from Bangkok to Hong Kong to Japan and then back to HK as the brothers contend with a Japanese mob led by crime boss Yamaguchi, who is played by the film's director, Chang Cheh, in a rare screen appearance.",
+        "popularity": 15.001,
+        "poster_path": "/e1rkLLWB3A2ACOOrHeZcDCextYz.jpg",
+        "release_date": "1972-02-29",
+        "title": "The Angry Guest",
+        "video": false,
+        "vote_average": 6.071,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mtaMq26s9bR4hzM5hqAMb5SYAgE.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 24710,
+        "original_language": "en",
+        "original_title": "The Grift",
+        "overview": "A 1940's period drama about about a woman who has been wronged by her husband, but must help him after he has fallen in with a family of grifters.",
+        "popularity": 15.001,
+        "poster_path": "/iDvdwmT1zJoCcReG9ncWscVJq1b.jpg",
+        "release_date": "2008-03-06",
+        "title": "The Grift",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mjjAj7QTaiJQcwihX2stBAaTi6O.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 54456,
+        "original_language": "ta",
+        "original_title": "ராவணன்",
+        "overview": "After inspector Dev stirs the reign of Veeraiya, a tribal outlaw, the latter responds by kidnapping his wife, Ragini. While she tries to escape from him, Dev fights many resistances to find her.",
+        "popularity": 15.0,
+        "poster_path": "/4mVJLb1lnLvlFlgvx4QPrlkoldw.jpg",
+        "release_date": "2010-06-18",
+        "title": "Raavanan",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 39
+    }
+]

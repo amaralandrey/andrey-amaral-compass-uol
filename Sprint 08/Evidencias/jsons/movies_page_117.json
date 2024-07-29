@@ -1,0 +1,411 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/zsh7WFrzKSjZ5p0EPziPAA29Vrg.jpg",
+        "genre_ids": [
+            28,
+            16,
+            35,
+            80
+        ],
+        "id": 21770,
+        "original_language": "ja",
+        "original_title": "シティーハンタースペシャル グッド・バイ・マイ・スイート・ハート",
+        "overview": "A mysterious soldier known only as Professor takes his revenge on the government that betrayed him - and Tokyo is brought to its knees! Unless the government pays the Professor an impossible ransom, downtown Tokyo will be completely destroyed, and the Professor's beautiful sister will be the first to go! Only City Hunter, expert detective and shameless ladies' man, can keep Tokyo from being blown sky high!The bullets fly furiously, and the women have never been tempting as City Hunter takes it to the edge in this action-packed animated feature. Explosive action will rock your senses as you witness City Hunter's greatest challenge ever!",
+        "popularity": 21.304,
+        "poster_path": "/e7TtB5CEhaA8umkk0c6RHgh6njQ.jpg",
+        "release_date": "1997-04-01",
+        "title": "City Hunter Special: Goodbye My Sweetheart",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6rlOgCIxCuJj1cmlPcaBekgQuRb.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 45712,
+        "original_language": "en",
+        "original_title": "Gloria",
+        "overview": "After serving a prison term for her boyfriend, a streetwise, middle-aged moll named Gloria stands up against the mobs, which is complicated by a six-year-old urchin with a will of his own, whom she reluctantly takes under her wing after his family has been gunned down.",
+        "popularity": 21.301,
+        "poster_path": "/1AKAfnT3nm7asU9qyNT6gtS1vbe.jpg",
+        "release_date": "1999-01-22",
+        "title": "Gloria",
+        "video": false,
+        "vote_average": 5.746,
+        "vote_count": 118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iI8vFLKngsJ2iJhNYmRdpOAyLiB.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            18,
+            53,
+            37
+        ],
+        "id": 19176,
+        "original_language": "en",
+        "original_title": "The Cowboy Way",
+        "overview": "Two championship rodeo partners travel to New York to find their missing friend, Nacho Salazar who went missing there.",
+        "popularity": 21.296,
+        "poster_path": "/r7sckMs1xy4fXYGzzs6anofu10F.jpg",
+        "release_date": "1994-06-03",
+        "title": "The Cowboy Way",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 144
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jlEEzu7dXJPli4e8j1u2PW0VMf7.jpg",
+        "genre_ids": [
+            80,
+            53,
+            35
+        ],
+        "id": 21467,
+        "original_language": "de",
+        "original_title": "Der Knochenmann",
+        "overview": "Set in a sleepy Austrian mountain village, ex-detective Simon Brenner has grown weary of his job repossessing cars and embarks on an extended getaway to the countryside. But before long he becomes embroiled in the convoluted world of the locals of a supposedly quiet town.",
+        "popularity": 21.289,
+        "poster_path": "/o17Qj2gT4HkU83kU6IlCH2k6jVU.jpg",
+        "release_date": "2009-02-09",
+        "title": "The Bone Man",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 99
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xPUxumLPovJK6sr5s7QP2FjmV1p.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            53,
+            80
+        ],
+        "id": 823855,
+        "original_language": "en",
+        "original_title": "I Am All Girls",
+        "overview": "A special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.",
+        "popularity": 21.287,
+        "poster_path": "/m6bUeV4mczG3z2YXXr5XDKPsQzv.jpg",
+        "release_date": "2021-05-14",
+        "title": "I Am All Girls",
+        "video": false,
+        "vote_average": 6.589,
+        "vote_count": 291
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gzA2s08vclqcnmXQ9lwakEUoGfx.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11038,
+        "original_language": "en",
+        "original_title": "Tough Guys",
+        "overview": "Harry Doyle and Archie Lang are two old-time train robbers, who held up a train in 1956 and have been incarcerated for thirty years. After serving their time, they are released from jail and have to adjust to a new life of freedom. and soon realize that they still have the pizzazz when, picking up their prison checks at a bank, they foil a robbery attempt.",
+        "popularity": 21.278,
+        "poster_path": "/eDp0MPUSCeXrIziaZC65iUHISLs.jpg",
+        "release_date": "1986-10-03",
+        "title": "Tough Guys",
+        "video": false,
+        "vote_average": 5.917,
+        "vote_count": 132
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A3loP9QEpbQZqk23Cd2Q6txibdE.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 507241,
+        "original_language": "en",
+        "original_title": "The Killer's Game",
+        "overview": "When a top hitman is diagnosed with a terminal illness, he decides to take matters into his own hands – by taking a hit out on himself. But when the very hitmen he hired also target his pregnant ex-girlfriend, he must fend off an army of assassin colleagues and win back the love of his life before it’s too late.",
+        "popularity": 21.273,
+        "poster_path": "/pXzZPghqA4vsfNbxmZjcCeJVJch.jpg",
+        "release_date": "2024-09-12",
+        "title": "The Killer's Game",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6fwE5d4Wp0uwjCvsj5R9BPtpw7o.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 575075,
+        "original_language": "ru",
+        "original_title": "Герой",
+        "overview": "Fifteen years ago Andrey graduated from a Secret Service school under the guidance of his father, that trained teenagers to be agents for the Foreign Intelligence Service. When this experimental school is closed, he settles in Europe and cuts ties with Russia. One day his father who was believed to be dead calls him to warn him that some security forces want Andrey dead so he must run and hide. While on the run Andrey finds Masha, his ex-classmate from the Secret Service school. He faces love and betrayal and learns the real scale of the ruthless spy game that he was dragged into against his will.",
+        "popularity": 21.244,
+        "poster_path": "/nkELCEpJblyUVvsElKkYCk5cTg.jpg",
+        "release_date": "2019-09-26",
+        "title": "The Hero",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xnOUkH3RcAKDajBIXLuntiPkkO8.jpg",
+        "genre_ids": [
+            35,
+            10751,
+            80
+        ],
+        "id": 34729,
+        "original_language": "en",
+        "original_title": "Our Lips Are Sealed",
+        "overview": "Mary-Kate and Ashley star in this Down Under adventure filled with nonstop Aussie intrigue, laughs and romance. After running afoul of a notorious gangster, Mary-Kate and Ashley take refuge in the FBI Witness Protection Program. Unfortunately, the girls are uncontrollable blabbermouths and they blow their cover in town after town until there's only one hiding place left - Australia.",
+        "popularity": 21.243,
+        "poster_path": "/40gZ2WhqpZVv8woW0fCH8bMFzx8.jpg",
+        "release_date": "2000-05-18",
+        "title": "Our Lips Are Sealed",
+        "video": false,
+        "vote_average": 6.013,
+        "vote_count": 266
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mEcki2HnhdWONyrMkoKTJyIlu5e.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1019828,
+        "original_language": "zh",
+        "original_title": "默杀",
+        "overview": "Three students from Jing Mu Girls’ Middle School go missing and turn up dead. Xiao Tong, a special education student with speech impairment, feels like someone is watching her. During the rehearsal for the school’s foundation day event, a corpse falls from the ceiling of the auditorium, and Xiao Tong disappears in the midst of confusion. Her mother, Li Han, who has been working at the school to be close to Xiao Tong, begins her pursuit.",
+        "popularity": 21.242,
+        "poster_path": "/5vZZCcK1Vi6Vv7tBKkeO2WU7AfM.jpg",
+        "release_date": "2022-10-08",
+        "title": "A Place Called Silence",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h0pxtAQCGWcArbPxqudW5NbmUNc.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            10749
+        ],
+        "id": 28047,
+        "original_language": "en",
+        "original_title": "Phoenix",
+        "overview": "Gambling fever -- along with a brutal bookie -- leads three crooked cops into a double-dealing scheme that lands them in hot water way over their heads.",
+        "popularity": 21.239,
+        "poster_path": "/tkppRmx4iBvAeKlopfNTO8hnKxK.jpg",
+        "release_date": "1998-09-04",
+        "title": "Phoenix",
+        "video": false,
+        "vote_average": 5.347,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gkNkq4VoXaXLp3yT9lKiU3ZgZta.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 910371,
+        "original_language": "ja",
+        "original_title": "ヘルドッグス",
+        "overview": "Bent on revenge, a traumatized ex-police officer must infiltrate a yakuza organization by befriending one of the group's most unhinged members.",
+        "popularity": 21.222,
+        "poster_path": "/2V1WlBuYcTjkXNS3i3IPvT4xQJN.jpg",
+        "release_date": "2022-09-16",
+        "title": "Hell Dogs",
+        "video": false,
+        "vote_average": 7.173,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rYWgJb3LhRqJC448fNIUSiir1re.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878,
+            14,
+            80
+        ],
+        "id": 657227,
+        "original_language": "ja",
+        "original_title": "劇場版 騎士竜戦隊リュウソウジャーvsルパンレンジャーvsパトレンジャー",
+        "overview": "A Gangler remnant, Ganima, captures Tyramigo and the other Kishiryu inside his safe! To save them, the Ryusoulgers engage Ganima in battle, however he starts to use the Kishiryu's own powers against them! Banba and Towa chase after Ganima and come into contact with Keiichiro from the Global Police! Meanwhile, Koh comes into contact with Kairi from the phantom thieves! In order to save the Kishiryu, these three Super Sentai teams will unite! This winter, knights, phantom thieves, and police officers will mix and match to create an amazing battle!",
+        "popularity": 21.213,
+        "poster_path": "/rErUZW6oh2EJqYWEGpWmKqriqy.jpg",
+        "release_date": "2020-02-08",
+        "title": "Kishiryu Sentai Ryusoulger VS Lupinranger VS Patranger",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3kOMMRwf9AEdQ2STIb4tjcsRx9w.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 17708,
+        "original_language": "en",
+        "original_title": "Corky Romano",
+        "overview": "Corky Romano is a bumbling, simpleton, veterinarian and the youngest, outcast son of an aging gangster, named Pops Romano, who calls upon Corky to infiltrate the local FBI and retrieve and destroy evidence being used to incriminate Pops for racketeering charges.",
+        "popularity": 21.211,
+        "poster_path": "/aLgzSIgHTyWggrP7ieDVYE3PB8g.jpg",
+        "release_date": "2001-10-12",
+        "title": "Corky Romano",
+        "video": false,
+        "vote_average": 4.269,
+        "vote_count": 156
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/th91qSRruUjA7sKbcMhNCT7JosG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 15912,
+        "original_language": "en",
+        "original_title": "The Square",
+        "overview": "Ray, a construction worker trapped in an unhappy marriage, pursues an affair with his neighbor, Carla. Carla's husband, Greg, is a mobster who keeps large sums of drug money in their home. With this in mind, Carla comes up with a plan: She and Ray will steal Greg's money, burn down her house, convince Greg the money was lost in the fire and then run away together. Carla's scheme, however, doesn't go off as planned.",
+        "popularity": 21.21,
+        "poster_path": "/kLed7chodgFBAC2hUFqtVt9KyGk.jpg",
+        "release_date": "2008-06-30",
+        "title": "The Square",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8tINg6FJ6y1QYo2pyFNAnHnmxXC.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 12582,
+        "original_language": "en",
+        "original_title": "Without a Clue",
+        "overview": "Sherlock Holmes is as dashing as ever, but with a little secret: Dr. Watson is the brains behind the operation. When Reginald Kincaid, the actor he has hired to play Holmes becomes insufferable, Watson fires him and tries to go out on his own, but finds that he has done too good a job building Holmes up in the public's mind.",
+        "popularity": 21.21,
+        "poster_path": "/uZmoKYDfF965UAgPrUSz0FbavsE.jpg",
+        "release_date": "1988-05-05",
+        "title": "Without a Clue",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 213
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ewCZBw1MlYg1Juk01IIo7vEra3C.jpg",
+        "genre_ids": [
+            80,
+            35,
+            18
+        ],
+        "id": 26936,
+        "original_language": "ja",
+        "original_title": "３－４Ｘ１０月",
+        "overview": "Masaki, a baseball player and gas-station attendant, gets into trouble with the local Yakuza and goes to Okinawa to get a gun to defend himself. There he meets Uehara, a tough gangster, who is in serious debt to the yakuza and planning revenge.",
+        "popularity": 21.209,
+        "poster_path": "/cyOqtWxEtMPThNYdydH0W7sYlVp.jpg",
+        "release_date": "1990-09-15",
+        "title": "Boiling Point",
+        "video": false,
+        "vote_average": 6.887,
+        "vote_count": 199
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dGRwOMH9GoLU0CrKQfFvHbmsLNL.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            35,
+            12
+        ],
+        "id": 937020,
+        "original_language": "ta",
+        "original_title": "ஜெயிலர்",
+        "overview": "Muthuvel Pandian, a retired, stern yet compassionate jailer lives a peaceful life with his family, but trouble knocks his door when his cop son’s tryst with an antique mafia gang goes awry and forces Muthu to step back into a dark world he had voluntarily took a break from.",
+        "popularity": 21.208,
+        "poster_path": "/pTmMxAHqX4vsIDE6HPPxOR0Q6TN.jpg",
+        "release_date": "2023-08-10",
+        "title": "Jailer",
+        "video": false,
+        "vote_average": 6.842,
+        "vote_count": 74
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hEBBtwQ4ZU0pjrXbKbRTU1IQOrj.jpg",
+        "genre_ids": [
+            99,
+            80,
+            18
+        ],
+        "id": 430826,
+        "original_language": "en",
+        "original_title": "Casting JonBenet",
+        "overview": "Twenty years after the modern world's most notorious child murder, the legacy of the crime and its impact are explored.",
+        "popularity": 21.206,
+        "poster_path": "/aHDr48Zq4IojCHRMxzGaS1EMaDB.jpg",
+        "release_date": "2017-04-28",
+        "title": "Casting JonBenet",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 164
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/67xx8r909MdZZxeuFu96GiGf8Y1.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648
+        ],
+        "id": 315509,
+        "original_language": "cn",
+        "original_title": "赤道",
+        "overview": "Wanted criminal \"Helios\" and his assistant stole a quantity of uranium and plan to produce weapons of mass destruction. They are planning to trade with a terrorist organization in Hong Kong. Chief Inspector Lee Yinming and Inspector Fan Kaming lead the Counter Terrorism Response Unit of the Hong Kong Police Force. Along with a Chinese senior official, a physics professor, and two South Korean weapon experts, they hope to defuse a crisis sufficient to destroy the world.",
+        "popularity": 21.199,
+        "poster_path": "/fG21dMkucxGCJmOQ8ilar65WKMJ.jpg",
+        "release_date": "2015-04-30",
+        "title": "Helios",
+        "video": false,
+        "vote_average": 5.183,
+        "vote_count": 52
+    }
+]

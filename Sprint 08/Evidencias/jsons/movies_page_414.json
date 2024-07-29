@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/ow3rDNmOcKo1CDQJw2MY4Erd55Q.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 86416,
+        "original_language": "en",
+        "original_title": "The Chance of a Lifetime",
+        "overview": "A mad scramble for stolen loot ensues after Boston Blackie has prisoners released for work in a wartime defence plant.",
+        "popularity": 8.044,
+        "poster_path": "/2Zs1lIICxpGf8AxFYJnGsaubNRd.jpg",
+        "release_date": "1943-10-26",
+        "title": "The Chance of a Lifetime",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yFL6A354kmDIw66h49IwwGaP3fu.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 79971,
+        "original_language": "en",
+        "original_title": "The Racketeer",
+        "overview": "A dapper gangster sponsors an alcoholic violinist in order to win the love of a glamorous divorced socialite.",
+        "popularity": 8.044,
+        "poster_path": "/raoxlj2iaiBpyeZOEzSXg3GP57l.jpg",
+        "release_date": "1929-11-09",
+        "title": "The Racketeer",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aal7HQ6yRNspjrSVWqiFgoRy6T6.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 500270,
+        "original_language": "en",
+        "original_title": "Dark Harvest",
+        "overview": "On the eve of legalization a marijuana grower is brutally murdered. His best friend, against the advice of his mentor, teams up with a suspended narcotics investigator to find the killer.",
+        "popularity": 8.043,
+        "poster_path": "/mq5oAocgajiwW2OMe5JljHaHwQO.jpg",
+        "release_date": "2016-09-02",
+        "title": "Dark Harvest",
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2GRo4dHLe1xNccYJaLZK5VlrEkn.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 1306316,
+        "original_language": "en",
+        "original_title": "Fly Away, Froggy Boy",
+        "overview": "Fly Detective Francis McFly loses his partner to the infamous ‘Croaks’, a frog gang at the centre of his most recent investigation. Stricken by grief, he decides to get revenge, and go head to head with their ravenous leader, The Frogfather.",
+        "popularity": 8.042,
+        "poster_path": "/uC6RWr9BKfdNbO7o4wZ5MWeqYj7.jpg",
+        "release_date": "2024-04-18",
+        "title": "Fly Away, Froggy Boy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8AkC92cN1hDSBv5GpNAN0hcio4P.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1016431,
+        "original_language": "en",
+        "original_title": "Crimson Point",
+        "overview": "After serving 20 years in prison for the murder of his daughter, a crime for which he was wrongly imprisoned, Frank returns to his backwoods hometown. Old wounds and rumors of the past resurface and haunt him as he tries to find out who really killed her.",
+        "popularity": 8.042,
+        "poster_path": "/4a6w6TJpzLQpjMPpDiIFR2ZdFec.jpg",
+        "release_date": "2022-10-17",
+        "title": "Crimson Point",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            80,
+            18
+        ],
+        "id": 757289,
+        "original_language": "en",
+        "original_title": "Rampage IV: The New Blood",
+        "overview": "The fourth film in the Bill Williamson saga.",
+        "popularity": 8.042,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Rampage IV: The New Blood",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tNPjroDhSi06Z23mKmuD8k117XC.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 543021,
+        "original_language": "ja",
+        "original_title": "お祭り野郎 魚河岸の兄弟分",
+        "overview": "Hiroki Matsukata is a fish market worker and a fanatical Japanese festival rascal. He also falls in love with a stripper while delivering his colleague's love letter to her but forgetting to mention it's from another man.",
+        "popularity": 8.042,
+        "poster_path": "/m03QtsVA1LujPqADTQsArkHwzBu.jpg",
+        "release_date": "1976-05-29",
+        "title": "Festival Champ",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 416315,
+        "original_language": "ko",
+        "original_title": "48 + 1",
+        "overview": "",
+        "popularity": 8.042,
+        "poster_path": "/uq3tCtQHw9lcS4OZBQ4NJTCwc90.jpg",
+        "release_date": "1995-11-04",
+        "title": "48 + 1",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j8IBS1uZRHHddnAbiqQnmkksEIe.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 295683,
+        "original_language": "en",
+        "original_title": "Confessions of a Hitman",
+        "overview": "A former hitman named Bruno steals some cash from his mobster uncle. He plans to go to Tahiti, but things go wrong and he finds himself headed for Vegas via Death Valley in a comandeered airport limousine, pursued by his uncle's henchmen and accompanied by a limo driver and an enigmatic blonde.",
+        "popularity": 8.042,
+        "poster_path": "/b4Ynd3WlU6sWzAjJzSpPRolINct.jpg",
+        "release_date": "1994-05-04",
+        "title": "Confessions of a Hitman",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fr5CDMsFCXLp1zMAfB4LICeqQH5.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 110202,
+        "original_language": "en",
+        "original_title": "La casa de las mil muñecas",
+        "overview": "When a vacationing couple in Tangiers runs into an old friend there, they discover that he is searching for his missing girlfriend who has been kidnapped by an international gang of white slavers.",
+        "popularity": 8.042,
+        "poster_path": "/zFOuLXMTc6MWQRYOMMsWbuysZur.jpg",
+        "release_date": "1967-11-08",
+        "title": "House of 1,000 Dolls",
+        "video": false,
+        "vote_average": 5.25,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5FWejv9onUQZw5S2mxYpwr4boFI.jpg",
+        "genre_ids": [
+            28,
+            80,
+            10749,
+            53
+        ],
+        "id": 19667,
+        "original_language": "hi",
+        "original_title": "Chamku",
+        "overview": "A traumatized child becomes a political activist but agrees to become an assassin upon being captured.",
+        "popularity": 8.042,
+        "poster_path": "/Ocmh616FKgnnOEK51bPXwf5qYP.jpg",
+        "release_date": "2008-08-29",
+        "title": "Chamku",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 1204360,
+        "original_language": "en",
+        "original_title": "Mundije",
+        "overview": "Ilir Luma, a martial arts master specialized in the Pelasgian art of \"Mundije\", escaped the communist regime, when he was only 14 years old. He'd witnessed the hanging of a poet in the city of Kukes, Albania. In Germany, at a Taekwondo school, he meets Ana, who became his student and his girlfriend. Ilir promised to be there for her, whenever she needs him. Thirty years later, Ana is kidnapped and sent to Mexico. Ilir risks his life to rescue his kidnapped girlfriend, and battles the most dangerous fighters in the world.",
+        "popularity": 8.041,
+        "poster_path": null,
+        "release_date": "2024-01-12",
+        "title": "Mundije",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/izQtfRxYcvCIQ4yBQNOW6nxlEO5.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 674531,
+        "original_language": "hi",
+        "original_title": "बॉब बिस्वास",
+        "overview": "Bob Biswas, a hitman-for-hire, comes out of a prolonged coma and struggles to recall his identity but suffers a moral dilemma when the memories of his past resurface.",
+        "popularity": 8.04,
+        "poster_path": "/5CikkLfMxtKXjCDkNnzVfTwwpIL.jpg",
+        "release_date": "2021-12-03",
+        "title": "Bob Biswas",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 612878,
+        "original_language": "en",
+        "original_title": "One of Our Own",
+        "overview": "Michael Ironside headlines the cast as Jack, a Denver cop investigating the case of a murdered army sergeant. Things heat up when we learn that the death may be linked to a massive weapons trading scandal and, even worse, when Jack's friend Jennifer is kidnapped. The bad guys better beware now things are personal.",
+        "popularity": 8.04,
+        "poster_path": "/jqMqFzEzFxrnkoZkEn2l9oeCMln.jpg",
+        "release_date": "1998-08-28",
+        "title": "One of Our Own",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 434288,
+        "original_language": "tl",
+        "original_title": "Chop-Chop Lady: The Elsa Castillo Story",
+        "overview": "A battered housewife was butchered into pieces by her spurned lover and throw her body parts in different places.",
+        "popularity": 8.04,
+        "poster_path": "/jA8F2tpJtC9lsxWbx5A7sCbEjBL.jpg",
+        "release_date": "1994-02-01",
+        "title": "Chop-Chop Lady: The Elsa Castillo Story",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r316DkPidLynZuVvadbEzQ2hgUB.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 393255,
+        "original_language": "hi",
+        "original_title": "Mahaanta",
+        "overview": "Hardship, love affairs, murder and apparent betrayal test the enduring friendship of two men (Jeetendra, Sanjay Dutt).",
+        "popularity": 8.04,
+        "poster_path": "/n627EWUd00AgdQnsYodFErRSinW.jpg",
+        "release_date": "1997-05-23",
+        "title": "Mahaanta",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nY7wLYaSvXH3AP6G6jPkqtKKh6d.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            80
+        ],
+        "id": 12269,
+        "original_language": "da",
+        "original_title": "Olsen-bandens sidste bedrifter",
+        "overview": "The Olsen Gang has finally made it. They are in Mallorca, having fulfilled their dream. Almost, that is. They don't have any money, so Egon has to open a safe at a restaurant to get some. As usual, however, Egon ends up in prision. When they return to Denmark, he has a new plan.",
+        "popularity": 8.038,
+        "poster_path": "/62wlwzNsGNQgUFsw16RgS2nhGoW.jpg",
+        "release_date": "1974-10-04",
+        "title": "The Last Exploits of the Olsen Gang",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a7B5hr4oXkgbmjtrK976Jv1Edks.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 1260743,
+        "original_language": "ru",
+        "original_title": "Преступление: Обман",
+        "overview": "",
+        "popularity": 8.037,
+        "poster_path": "/77Hhk7lQeJv7t93BHY3tn9UTTIY.jpg",
+        "release_date": "1976-07-19",
+        "title": "Преступление: Обман",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sshZfwcIxGpM1qpabuwBKCxLwhZ.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 91859,
+        "original_language": "ja",
+        "original_title": "人斬り与太 狂犬三兄弟",
+        "overview": "The great Bunta stars as a gangster who is sent to jail for the sake of his gang, but when he’s released he finds everything completely changed and his gang has swept him aside for being too violent. He tries to start a new life with his two ”brothers” but can’t seem to escape old affiliations",
+        "popularity": 8.037,
+        "poster_path": "/cXEV7drAD9AcRLxXsPkCqStpTRv.jpg",
+        "release_date": "1972-10-25",
+        "title": "Outlaw Killers: Three Mad Dog Brothers",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7pzKgtkS8yVMvOjcdaNTusozzox.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 78323,
+        "original_language": "ru",
+        "original_title": "Бабло",
+        "overview": "In 1991, Russia discovered big money. In 2011, money is everything… Present-day Moscow. A bag with a million euros in cash is stolen form the car of a successful business man “with connections.” Going from one happy owner to the next, the moolah changes hands quickly… And it all began when the millionaire Grigory refused to declare his taxes.",
+        "popularity": 8.036,
+        "poster_path": "/gB9LpZUOYJlM4uCexLHTgMMJlz.jpg",
+        "release_date": "2011-10-13",
+        "title": "Moolah",
+        "video": false,
+        "vote_average": 5.558,
+        "vote_count": 26
+    }
+]

@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/cxjlVtThxrNn9Z5JDG9SUCMsbu7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 4931,
+        "original_language": "en",
+        "original_title": "Madigan",
+        "overview": "NYPD detectives Bonaro and Madigan lose their guns to fugitive Barney Benesch. As compensation, they are given a weekend to bring Benesch to justice. While they follow various leads, Police Commissioner Russell goes about his duties, including attending functions, meeting with aggrieved relatives, and counseling the spouses of fallen officers.",
+        "popularity": 13.88,
+        "poster_path": "/hj4AgOat5aQUVQfKOi2KNdmnCNc.jpg",
+        "release_date": "1968-03-29",
+        "title": "Madigan",
+        "video": false,
+        "vote_average": 6.13,
+        "vote_count": 73
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4OxIFr5AzfQm4DbXBpS1KxOQYMX.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 43263,
+        "original_language": "en",
+        "original_title": "Jesse Stone: No Remorse",
+        "overview": "Police Chief Jesse Stone, who was suspended by the Paradise, Mass. Town Council, begins moonlighting for his friend, State Homicide Commander Healy, by investigating a series of murders in Boston, leaving Rose and Suitcase to handle a crime spree in Paradise on their own. Jesse pours his energy into his work in an effort to push away his twin demons: booze and women. When his investigation leads to notorious mob boss Gino Fish, Jesse's pursuit becomes hazardous.",
+        "popularity": 13.879,
+        "poster_path": "/m5cTdvMwWbe3cx6VgZ2yDFPmIAO.jpg",
+        "release_date": "2010-05-09",
+        "title": "Jesse Stone: No Remorse",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rNxrOquaLff7qefM89Wf0enM5QS.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 61925,
+        "original_language": "it",
+        "original_title": "Squadra antiscippo",
+        "overview": "A top undercover cop finds and arrests a series of purse snatchers until he discovers an American at the top of an evil ring of thieves.",
+        "popularity": 13.876,
+        "poster_path": "/5n9isjlTO4dZDMetgl9qNHEQAsM.jpg",
+        "release_date": "1976-03-11",
+        "title": "The Cop in Blue Jeans",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aTZ6gDClNk31kaAgjSrFEapXfZ7.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 429698,
+        "original_language": "en",
+        "original_title": "Pork Pie",
+        "overview": "A trio of accidental outlaws travel the length of New Zealand, protesting conformity and chasing lost love, with a posse of cops and a media frenzy in pursuit.",
+        "popularity": 13.875,
+        "poster_path": "/rVq78wlHLWTf1QQ0BzdcBeg8vM.jpg",
+        "release_date": "2017-02-02",
+        "title": "Pork Pie",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mXvuS69nedObctAKsur8PeG4lMY.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 59230,
+        "original_language": "it",
+        "original_title": "Lucky Luciano",
+        "overview": "Lucky Luciano is one of the bosses of the Mafia. He orders the slaughter of 40 other responsibles, therefore becoming the only boss. But a few years later he is put into jail. In 1946, he got a pardon and is sent back to Sicilia. There, he begins becoming one of the chief of the Mafia. The US Army seems to refrain from interfering.",
+        "popularity": 13.871,
+        "poster_path": "/gfKSiDcZRqoFLe6NNF6TlgwBa8S.jpg",
+        "release_date": "1973-10-19",
+        "title": "Lucky Luciano",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 64
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/av5Y90shwCVmi8vjsjfjhuSmRP9.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 39948,
+        "original_language": "en",
+        "original_title": "Two Way Stretch",
+        "overview": "Three criminals plan to break out of prison the day before their release in order to carry out a daring jewel robbery, intending to establish the perfect alibi by returning to jail afterwards. First however they must get out, a task made more difficult by a new, stricter prison officer.",
+        "popularity": 13.871,
+        "poster_path": "/n2SYAdyVl4ztoacZS10qH9LralF.jpg",
+        "release_date": "1960-12-20",
+        "title": "Two Way Stretch",
+        "video": false,
+        "vote_average": 6.512,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g8njMFostWoF0H6dH9QXXFHEKnt.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 47517,
+        "original_language": "en",
+        "original_title": "Quicksand",
+        "overview": "The workaholic head of the compliance section of a New York bank flies to Monaco to investigate unusual deposits from an offshore bank and meets a down-on-his-luck international film star who has become embroiled in criminal activities.",
+        "popularity": 13.869,
+        "poster_path": "/7XYJiltOE8AYsjMq1lkcGCTqC6Q.jpg",
+        "release_date": "2003-01-08",
+        "title": "Quicksand",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4mGdvktsgtNJzvDMu7HHd6YSt7D.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53,
+            878
+        ],
+        "id": 300980,
+        "original_language": "cn",
+        "original_title": "小生夢驚魂",
+        "overview": "Alan and Halley are partners in a pest control company. Handsome Alan gets the girls and puffy Halley gets nothing. One night the two are injured in a car crash. Halley suffers slight injuries but Alan is dead for all purposes except his brain wave which still works actively.",
+        "popularity": 13.865,
+        "poster_path": "/hxmM4VYoVVKOaMRNto4J9oMEtw0.jpg",
+        "release_date": "1987-03-06",
+        "title": "Scared Stiff",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 167583,
+        "original_language": "it",
+        "original_title": "Corleone",
+        "overview": "Two friends grow up together in the Sicily of the '50s. Two different destiny, two different way of life. Could their friendship survive to the mafia shadow?",
+        "popularity": 13.862,
+        "poster_path": "/iCj0K5sZwobqQFYynLW4WqaKuCf.jpg",
+        "release_date": "1978-11-10",
+        "title": "Corleone",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wtmMfrjcsrQwYJeBKktiwnFUuHj.jpg",
+        "genre_ids": [
+            10402,
+            18,
+            99,
+            80
+        ],
+        "id": 295595,
+        "original_language": "en",
+        "original_title": "Soaked in Bleach",
+        "overview": "Twenty years ago, Kurt Cobain was found dead of an apparent gunshot wound to the head. The world was told it was a suicide, but evidence would lead many people to believe it might be otherwise. The film investigates the possibilities that exist that Kurt Cobain's death might not have been a suicide, that the Seattle Police Department rushed their verdict, and the global media perpetuated lies and misinformation fed to them by Courtney Love that created the belief in many that Cobain killed himself—but when revealed to be lies—lead many to now question what happened.",
+        "popularity": 13.861,
+        "poster_path": "/1ScpSMDQvwi28Dro1xwSOcKCVln.jpg",
+        "release_date": "2015-06-09",
+        "title": "Soaked in Bleach",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 169
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/517dMgm6ESvdodxeuJkYBGpBg4z.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 456643,
+        "original_language": "ja",
+        "original_title": "相棒－劇場版IV－首都クライシス 人質は50万人！特命係 最後の決断",
+        "overview": "A mysterious international crime organization makes a demand of 900 million yen from the Japanese government for the release of hostages. The group then targets a victory parade of a world sports game to commit indiscriminate terror.",
+        "popularity": 13.857,
+        "poster_path": "/kGXhIhTvVKrjmvGNYvkRGEPEacX.jpg",
+        "release_date": "2017-02-11",
+        "title": "AIBOU: The Movie IV",
+        "video": false,
+        "vote_average": 8.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 459883,
+        "original_language": "ja",
+        "original_title": "新網走番外地　流人岬の血斗",
+        "overview": "Suehiro Katsuji, a prisoner of Abashiri, is sent to Shikoku to work at a dock where a fierce turf battle takes place between a local gang and the dock operator.",
+        "popularity": 13.854,
+        "poster_path": "/fhkewyS0LspdMNXiqOzcxlXOU9e.jpg",
+        "release_date": "1969-08-13",
+        "title": "New Prison Walls of Abashiri 2",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            35,
+            53,
+            80
+        ],
+        "id": 24079,
+        "original_language": "en",
+        "original_title": "Triggermen",
+        "overview": "Two British conmen in Chicago are mistaken for hired hitmen by mobsters wanting to rub out a rival gangster. Keen to make a fast buck, they pretend they are the hitmen but soon find they get more than they bargained for when the real ones turn up.",
+        "popularity": 13.854,
+        "poster_path": "/8oKPWZwcnnmeGFmPYEGPziCrVHX.jpg",
+        "release_date": "2002-07-26",
+        "title": "Triggermen",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/brNaEJQ92qhNgQltMv87pxEV9FS.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 51213,
+        "original_language": "fr",
+        "original_title": "Le Corps de mon ennemi",
+        "overview": "Francois always despised the textile barons who ruled his local town. But he fell in love with the family heiress Gilberte. Ten years ago, he would have married her. Now only hatred holds them together. Francois is accused of murder. A hooker and a football star lie slaughtered. He thinks he has been framed by the mob. Going underground, he finds that the trail leads all the way to the top - to Gilberte's family. He needs friends. And friends are hard to come by in his town.",
+        "popularity": 13.853,
+        "poster_path": "/igEtq4fniKy6mExSTRlvSJdEaKu.jpg",
+        "release_date": "1976-10-13",
+        "title": "The Body of My Enemy",
+        "video": false,
+        "vote_average": 6.365,
+        "vote_count": 115
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Zgvt4ZQH5MUEm5zZUoeklHo8Ph.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 1266125,
+        "original_language": "zh",
+        "original_title": "超意神探",
+        "overview": "It tells the story of Guo Wenbin, a policeman in the serious crime team who suffers from hypermemory. He is using his special ability to fight the murderer, and finally uncover the tragic truth behind the case.",
+        "popularity": 13.844,
+        "poster_path": "/AkMWQY4mPAUGnFLCwj7cPB81Cs4.jpg",
+        "release_date": "2024-04-10",
+        "title": "Suspect",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z0E3Mvwf1AKQ2TZ4mshfXF5Jj0Y.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 104193,
+        "original_language": "ja",
+        "original_title": "少年",
+        "overview": "A family of four lives off of scams in which they pretend to be injured by automobiles.",
+        "popularity": 13.843,
+        "poster_path": "/tY2yQaF9MrsICq5EwmfGaaYKOos.jpg",
+        "release_date": "1969-07-26",
+        "title": "Boy",
+        "video": false,
+        "vote_average": 7.298,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oKV1jGBYeq7W3AVN9R2xUpgqE3n.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 45443,
+        "original_language": "cn",
+        "original_title": "轟天皇家將",
+        "overview": "Two Hong Kong policewomen (Ida and Hon) take on a Japanese boss who has returned from a seven-year exile to retake his old turf.",
+        "popularity": 13.843,
+        "poster_path": "/j1Sfvtkm0iSJ3i3tstvsIFMVyVV.jpg",
+        "release_date": "1992-10-10",
+        "title": "Angel Terminators",
+        "video": false,
+        "vote_average": 5.37,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/djbkCVHdzzvjTKelCngsdxtiFsB.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 507648,
+        "original_language": "ja",
+        "original_title": "友罪",
+        "overview": "Masuda, an aspiring journalist, plans to write an article in order to expose his co-worker Suzuki, who is a psychopathic murderer according to Masuda.",
+        "popularity": 13.842,
+        "poster_path": "/aB1eCFFaJHLU6b020IOl5JKD649.jpg",
+        "release_date": "2018-05-25",
+        "title": "My Friend \"A\"",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7V0HE4vWdSWOyZfyrpB8M7AJ2S7.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            9648,
+            53
+        ],
+        "id": 148151,
+        "original_language": "en",
+        "original_title": "Dark Desire",
+        "overview": "A young man desperate to be connected to the people close to him resorts to devious measures to achieve that desire",
+        "popularity": 13.84,
+        "poster_path": "/cPFUhy7eDWwt0y9MdrvyxuEHoZV.jpg",
+        "release_date": "2012-11-23",
+        "title": "Dark Desire",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6icWUq7j3xwRpgXSpUm9sBcXI9q.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10749
+        ],
+        "id": 18174,
+        "original_language": "en",
+        "original_title": "An Inspector Calls",
+        "overview": "An upper-crust family dinner is interrupted by a police inspector who brings news that a girl known to everyone present has died in suspicious circumstances. It seems that any or all of them could have had a hand in her death. But who is the mysterious Inspector and what can he want of them?",
+        "popularity": 13.839,
+        "poster_path": "/tWENUwa05Ex4Q0ClG9XdUcQza0i.jpg",
+        "release_date": "1954-03-16",
+        "title": "An Inspector Calls",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 98
+    }
+]

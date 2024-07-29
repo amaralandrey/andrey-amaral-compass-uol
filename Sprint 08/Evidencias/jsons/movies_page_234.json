@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/vsC3bSPQh6BhVV25QCF3ClShHMu.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 76372,
+        "original_language": "en",
+        "original_title": "Night People",
+        "overview": "A US intelligence officer, stationed in Germany, is caught in a political dilemma when the Russians kidnap a young Army private, the son of prominent American businessman. In exchange for the soldier's return, the Russians attempt to barter a trade for an elderly German couple who they want for treason.",
+        "popularity": 12.831,
+        "poster_path": "/dSnj3IUJWTtGCls0glpVnuyLkvU.jpg",
+        "release_date": "1954-03-11",
+        "title": "Night People",
+        "video": false,
+        "vote_average": 5.938,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1wkOAQ3PknGWoWkTYxKxHrQ5rC3.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 898789,
+        "original_language": "en",
+        "original_title": "Lethal Weapon 5",
+        "overview": "",
+        "popularity": 12.826,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Lethal Weapon 5",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tOjH9b9SpG7dzpOo4n1YAGtHhem.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 44071,
+        "original_language": "en",
+        "original_title": "Gideon's Day",
+        "overview": "Scotland Yard Inspector George Gideon starts his day off on the wrong foot when he gets a traffic-violation ticket from a young police officer. From there, his 'typical day\" consists in learning that one of his most-trusted detectives has accepted bribes; hunts an escaped maniac who has murdered a girl; tracks a young girl suspected of involvement in a payroll robbery and then helps break up a bank robbery.",
+        "popularity": 12.821,
+        "poster_path": "/yaDNqztIrTbeIDDkD1DvPqbq4M5.jpg",
+        "release_date": "1958-03-25",
+        "title": "Gideon's Day",
+        "video": false,
+        "vote_average": 6.259,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9sev9luDFWVQS9n4XHpnplL1g8i.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 3479,
+        "original_language": "fr",
+        "original_title": "Les innocents aux mains sales",
+        "overview": "Saint Tropez. Julie Wormser and her lover, writer and neighbour Jeff Marle, plan the murder of her wealthy husband Louis, an alcoholic impotent. She hits him, and leaves the rest of the task to Jeff. Julie finds herself alone the following day, and becomes therefore the prime suspect. Where is Louis' body? Where is Jeff? Is there any secret beyond a door?",
+        "popularity": 12.82,
+        "poster_path": "/gzDj29F8pCZI8eZrRG1qgOC9KSh.jpg",
+        "release_date": "1975-03-26",
+        "title": "Innocents with Dirty Hands",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3bnnwO9W3T4QbWU8ZiboHDIpcD1.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 766238,
+        "original_language": "en",
+        "original_title": "Alabama Snake",
+        "overview": "The story of Pentecostal minister Glenn Summerford — a man accused of attempting to murder his wife with a rattlesnake in the sleepy town of Scottsboro, Alabama — and the investigation and trial that haunted Southern Appalachia for decades.",
+        "popularity": 12.818,
+        "poster_path": "/ur9DkTZ5Kk2q5vUTwDGy34yuYjZ.jpg",
+        "release_date": "2020-12-09",
+        "title": "Alabama Snake",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cbyltS3y1OUmzTr4vKo1y2X57EY.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 46119,
+        "original_language": "en",
+        "original_title": "Crime + Punishment in Suburbia",
+        "overview": "At school, Roseanne is the object of fellow student Vincent's infatuation. By night, she deals with a troubled family life: her mother, Maggie, cheats on her drunken husband, Fred. When Maggie's adultery is revealed, Fred viciously takes his anger out on stepdaughter Roseanne. With the help of her boyfriend, Jimmy, Maggie plots her revenge, but Vincent might be the one to help her forge a new life in this contemporary fable loosely based on Fyodor Dostoyevsky's \"Crime and Punishment\".",
+        "popularity": 12.814,
+        "poster_path": "/gA6FiAOm8De8v0RFOrdUPn9mgXX.jpg",
+        "release_date": "2000-08-25",
+        "title": "Crime + Punishment in Suburbia",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/21MT2QRZzNiIuy6rP6tut5iAyKj.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 23098,
+        "original_language": "en",
+        "original_title": "Manpower",
+        "overview": "Hank McHenry and Johnny Marshall work as power company linesmen. Hank is injured in an accident and subsequently promoted to foreman of the gang. Tensions start to show in the road crew as rivalry between Hank and Johnny increases.",
+        "popularity": 12.811,
+        "poster_path": "/BgQWakoUD5PyPFArPoGWZkPMto.jpg",
+        "release_date": "1941-08-09",
+        "title": "Manpower",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5JEdiL8FVPJ2YXkZWtrhTQ1kZit.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 167439,
+        "original_language": "ja",
+        "original_title": "人魚伝説",
+        "overview": "After a woman is framed for the murder of her fisherman husband, she seeks out a bloody revenge on the corrupt businessmen responsible.",
+        "popularity": 12.807,
+        "poster_path": "/ypzqDggZssbroc5XaiBvDJxPQUd.jpg",
+        "release_date": "1984-04-14",
+        "title": "Mermaid Legend",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lV5obrAnZPK7BqcQCGDA0tJHKX2.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 1815,
+        "original_language": "en",
+        "original_title": "The Big Sleep",
+        "overview": "Private eye Philip Marlowe investigates a case of blackmail involving the two wild daughters of a rich general, a pornographer and a gangster.",
+        "popularity": 12.799,
+        "poster_path": "/moBuoPdT2ow7OVkzibWJcrGnkOX.jpg",
+        "release_date": "1978-03-13",
+        "title": "The Big Sleep",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6FwucgqYlKoJV6YToK4VOH8nj5.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80
+        ],
+        "id": 681638,
+        "original_language": "en",
+        "original_title": "Aurora Teagarden Mysteries: Heist and Seek",
+        "overview": "When a priceless crown is stolen during a benefit gala held by the Lawrenceton library, Aurora and the Real Murders Club must investigate who would kill to get their hands on it.",
+        "popularity": 12.796,
+        "poster_path": "/s0Jh029ZNtTmjEG8X4DUblFN8nl.jpg",
+        "release_date": "2020-05-17",
+        "title": "Aurora Teagarden Mysteries: Heist and Seek",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4r01MVXD2iUc7bv9q5K9dGvL4CF.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 88818,
+        "original_language": "en",
+        "original_title": "The Object of Beauty",
+        "overview": "American couple Jake and Tina are living in an expensive London hotel above their means, incurring a sizeable debt. When they are asked to pay a lavish dinner bill and Jake's card is declined, he suggests they sell Tina's tiny, expensive Henry Moore sculpture to cover the debt. After they hatch a scheme to claim the sculpture was stolen in order to collect insurance on it, the sculpture mysteriously goes missing.",
+        "popularity": 12.795,
+        "poster_path": "/vtxTzSrjCDH7Ray4RK8FPUrrlSy.jpg",
+        "release_date": "1991-04-12",
+        "title": "The Object of Beauty",
+        "video": false,
+        "vote_average": 5.361,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qQRY1Ctil9QTMWhKjnN2MzlKSQJ.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 28943,
+        "original_language": "en",
+        "original_title": "Shiner",
+        "overview": "The past catches up with a ruthlessly ambitious boxing promoter.",
+        "popularity": 12.794,
+        "poster_path": "/8Ccd7MeyNM7Lp580GCkQ1gVoCA0.jpg",
+        "release_date": "2000-09-22",
+        "title": "Shiner",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qVTdszmHT4vEGRPZsQxP7ob50oC.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            10770
+        ],
+        "id": 69371,
+        "original_language": "en",
+        "original_title": "Citizen Jane",
+        "overview": "Jane Alexander's idyllic life in San Francisco is shattered when her beloved, elderly aunt is brutally murdered. But when her fiancé, Tom O'Donnell, becomes the main suspect, Jane must put aside her grief to aid the police before the chance at justice is lost forever.",
+        "popularity": 12.789,
+        "poster_path": "/4Ah3UpfcEJMQvNcOslocgoISdk5.jpg",
+        "release_date": "2009-09-12",
+        "title": "Citizen Jane",
+        "video": false,
+        "vote_average": 5.083,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jFhkK3jVWV7dW6rREfeVOSp9Jn4.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 622469,
+        "original_language": "fr",
+        "original_title": "Mafia Inc.",
+        "overview": "The Gamache, tailors from father to son, have been dressing the Mafia family Paternò for three generation. Vincent \"Vince\" Gamache works on behalf of Frank the godfather with his eldest son Giaco. Vince, reckless and rash, seeks to earn his stripes by impressing the godfather. Without the Paternò knowing, he stages a big operation and is promoted. Fuming with jealousy, Giaco discovers that Vince committed a monstrous act during his stroke. The Gamache disown Vince and war begins.",
+        "popularity": 12.788,
+        "poster_path": "/pR13xCDg2faAfhuU2UwFImqQmBx.jpg",
+        "release_date": "2020-02-14",
+        "title": "Mafia Inc.",
+        "video": false,
+        "vote_average": 6.491,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yPP1V1z9Qti5XnAjEucqMDtApUL.jpg",
+        "genre_ids": [
+            80,
+            10749,
+            18
+        ],
+        "id": 44190,
+        "original_language": "en",
+        "original_title": "They Live by Night",
+        "overview": "An escaped convict, injured during a robbery, falls in love with the woman who nurses him back to health, but their relationship seems doomed from the beginning.",
+        "popularity": 12.788,
+        "poster_path": "/9EI0n0ESp1DZJd7PI7LENk9PO2e.jpg",
+        "release_date": "1949-11-01",
+        "title": "They Live by Night",
+        "video": false,
+        "vote_average": 6.85,
+        "vote_count": 160
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qLhFjbeL3PU0WkkS6Zb2cDHmBMY.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 395697,
+        "original_language": "it",
+        "original_title": "Il ministro",
+        "overview": "Scandals, bribes, corruption. The Italian newspapers are full of news of corrupt politicians and unscrupulous contractors willing to do anything to get a contract. The script of THE MINISTER comes from the desire to tell a story of ordinary corruption, inspired by facts that \"probably happened\".",
+        "popularity": 12.787,
+        "poster_path": "/u4SUNCcxTlHJV7Z3GNCwhUP1usS.jpg",
+        "release_date": "2016-05-05",
+        "title": "Il ministro",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wVlURzHqMNB3DrleYvCQU74xjYW.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1284157,
+        "original_language": "en",
+        "original_title": "TMZ Presents: The Downfall of Diddy",
+        "overview": "A series of lawsuits and allegations have legendary rap mogul P. Diddy on the ropes. TMZ has the troubling inside story from people who were there.",
+        "popularity": 12.781,
+        "poster_path": "/4reCtxnDJd3z1TLUzUV5eykSFB1.jpg",
+        "release_date": "2024-04-28",
+        "title": "TMZ Presents: The Downfall of Diddy",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/brM6gi1UKO0BJwppl7vqeRDG5S7.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 608746,
+        "original_language": "hi",
+        "original_title": "मुंबई सागा",
+        "overview": "The film, set in the 1980s and 90s, chronicles the transformation of Bombay to Mumbai. The story is a cat and mouse game between a deadly don, Amartya Rao, who doesn’t think twice before killing, and there’s nobody who could stop him and a cop, who is dogging his every step.",
+        "popularity": 12.781,
+        "poster_path": "/2Jho4Ak4JDTesy6QBXRPBhzBJfj.jpg",
+        "release_date": "2021-03-19",
+        "title": "Mumbai Saga",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uhgJPxTZ9IpKgSAC9D73SJO0jik.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1098152,
+        "original_language": "gu",
+        "original_title": "Hello",
+        "overview": "During one of their night stays, three college teens play a silly prank where they randomly call people and tell them that they know who that person is and what they have done. What will happen when things take a dangerous turn?",
+        "popularity": 12.775,
+        "poster_path": "/8ta8VToSOykwgqI9iBqSE26SdWa.jpg",
+        "release_date": "2023-03-03",
+        "title": "Hello",
+        "video": false,
+        "vote_average": 5.76,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mPHvNDBxlVQqEGAH3VOr9LOpfcu.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 278630,
+        "original_language": "zh",
+        "original_title": "盜馬記",
+        "overview": "Desperate for a real news story, entertainment journalist Mui goes to London to cover an antique auction in order to trace the path of Nine-Tailed Fox, a famous art thief who has eluded capture for decades. Playful, but clever, the Fox decides to use Mui as his partner for his latest heist, a set of pottery horse from the Tang Dynasty. What the Fox doesn't know is that Mui is secretly working with Cheung Ho, a Hong Kong cop that has been obsessed with catching the Fox since letting him escape years ago. The result is a twist-filled pursuit that takes the trio from London to Prague.",
+        "popularity": 12.775,
+        "poster_path": "/paek4t9B5kJ3ISBpF2RdUXWzUpz.jpg",
+        "release_date": "2014-03-21",
+        "title": "Horseplay",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 6
+    }
+]

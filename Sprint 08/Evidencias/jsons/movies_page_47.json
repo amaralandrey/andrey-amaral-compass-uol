@@ -1,0 +1,406 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/tED9WowWMskdvK6hfTIUUt0za32.jpg",
+        "genre_ids": [
+            16,
+            28,
+            80,
+            9648
+        ],
+        "id": 39207,
+        "original_language": "ja",
+        "original_title": "名探偵コナン 戦慄の楽譜（フルスコア）",
+        "overview": "Serial murders involving all kinds have happened. All the victims are from a Music School led by a famous pianist. Conan and company have been invited to a opening concert of the Music Hall built by the pianist. The biggest attraction of this concert is the world famous violin called \"Stradivarius\" and a special appearance of a singer who has perfect pitch.",
+        "popularity": 34.751,
+        "poster_path": "/qxq2TfGy1Vfh9miCjKPo0nNxmW6.jpg",
+        "release_date": "2008-04-19",
+        "title": "Detective Conan: Full Score of Fear",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 130
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6oJiTcSBra0w1DDonE9kn4zw9cN.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            53
+        ],
+        "id": 15069,
+        "original_language": "en",
+        "original_title": "WΔZ",
+        "overview": "There is something horribly wrong with the bodies found in the dark city streets. Some are mutilated while others have the Price equation (wΔz = Cov (w,z) = βwzVz) carved into their flesh. Detective Eddie Argo and his new partner Helen Westcott unearth the meaning of the odd equation and realise each victim is being offered a gruesome choice: kill your loved ones, or be killed. Before long it becomes clear that the perpetrator has suffered a similar fate and is now coping by seeking a way to solve this philosophical dilemma.",
+        "popularity": 34.73,
+        "poster_path": "/bf11TuyZCWUnSDaGxsmq4jBrmwx.jpg",
+        "release_date": "2007-05-19",
+        "title": "WΔZ",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 180
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iHthPe72Jfb3du2MeQcQsETUBsI.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 629017,
+        "original_language": "en",
+        "original_title": "Run Hide Fight",
+        "overview": "A 17-year-old girl uses her wits, survival skills, and compassion to fight for her life, and those of her fellow classmates, against a group of live-streaming school shooters.",
+        "popularity": 34.672,
+        "poster_path": "/wlP25H14OvKoFORIwuKomZzioA5.jpg",
+        "release_date": "2021-06-17",
+        "title": "Run Hide Fight",
+        "video": false,
+        "vote_average": 6.723,
+        "vote_count": 273
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/msCFKIIo6HzylzNy66t1WcXKwyG.jpg",
+        "genre_ids": [
+            16,
+            28,
+            80,
+            35
+        ],
+        "id": 55374,
+        "original_language": "ja",
+        "original_title": "ライディング・ビーン",
+        "overview": "Bean Bandit and his partner Rally Vincent are couriers for hire - transporting clients and delivering goods in his custom sports car \"Roadbuster\" for a hefty price. But when they are hired to escort a kidnapped girl named Chelsea to her home, they don't realize they're being framed for kidnapping as their former clients Semmerling and Carrie plan their escape with Chelsea's father and the ransom money.",
+        "popularity": 34.672,
+        "poster_path": "/vLKcOGMr5iHyw6jPNwM53nCPiqB.jpg",
+        "release_date": "1989-02-22",
+        "title": "Riding Bean",
+        "video": false,
+        "vote_average": 6.609,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/33qGtN2GpGEb94pn25PDPeWQZLk.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 894169,
+        "original_language": "en",
+        "original_title": "Vendetta",
+        "overview": "When his daughter is murdered, William Duncan takes the law into his own hands, setting out on a quest for retribution. After killing the street thug responsible for her death, he finds himself in the middle of a war with the thug's brother, father, and their gang, who are equally hell-bent on getting even. What ensues is a tense back-and-forth game of vengeance. By the end, William comes to find that the quest for revenge never has a winner.",
+        "popularity": 34.567,
+        "poster_path": "/bvhmqU6GUkigo6SSYL3ttkBhNER.jpg",
+        "release_date": "2022-05-17",
+        "title": "Vendetta",
+        "video": false,
+        "vote_average": 6.099,
+        "vote_count": 274
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7CamWBejQ9JQOO5vAghZfrFpMXY.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 928381,
+        "original_language": "fr",
+        "original_title": "Sans répit",
+        "overview": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness.",
+        "popularity": 34.561,
+        "poster_path": "/9MP21x0OPv0R72obd63tMHssmGt.jpg",
+        "release_date": "2022-02-25",
+        "title": "Restless",
+        "video": false,
+        "vote_average": 6.081,
+        "vote_count": 372
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yfc7xWwLlEacjoOH4TRgb3tAaAe.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 770906,
+        "original_language": "te",
+        "original_title": "సలార్: పార్ట్‌ 1 – సీజ్‌ఫైర్‌",
+        "overview": "Set in the fictional dystopian city-state of Khansaar, the film follows the friendship between Deva, a tribesman, and Varadha, the prince of Khansaar. When a coup d'état is planned by his father's ministers and his relatives, Varadha enlists Deva's help to become Khansaar's undisputed ruler.",
+        "popularity": 34.537,
+        "poster_path": "/wbonIVQaGmtUkZnlPIqpUBCIFdy.jpg",
+        "release_date": "2023-12-21",
+        "title": "Salaar: Part 1 - Ceasefire",
+        "video": false,
+        "vote_average": 6.667,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AvBw1HCtnpIq80rAK7imMylhOWr.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 8688,
+        "original_language": "en",
+        "original_title": "Snake Eyes",
+        "overview": "All bets are off when shady homicide cop Rick Santoro witnesses a murder during a boxing match. It's up to him and lifelong friend, Naval intelligence agent Kevin Dunne to uncover the conspiracy behind the killing. At every turn, Santoro makes increasingly shocking discoveries that even he can't turn a blind eye to.",
+        "popularity": 34.535,
+        "poster_path": "/gsh9mQKRrr4M90XC9Rr0wxefc9u.jpg",
+        "release_date": "1998-08-07",
+        "title": "Snake Eyes",
+        "video": false,
+        "vote_average": 6.171,
+        "vote_count": 1302
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iqrjewqeGYVrjxkVmmlL6DcgBT9.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 44945,
+        "original_language": "en",
+        "original_title": "Trust",
+        "overview": "A suburban family is torn apart when fourteen-year-old Annie meets her first boyfriend online. After months of communicating via online chat and phone, Annie discovers her friend is not who he originally claimed to be. Shocked into disbelief, her parents are shattered by their daughter's actions and struggle to support her as she comes to terms with what has happened to her once innocent life.",
+        "popularity": 34.528,
+        "poster_path": "/rXoZYWd2G7pBh8N8Cp5ZO5Sjzbl.jpg",
+        "release_date": "2010-09-10",
+        "title": "Trust",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 907
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/niRgVCgvDVxD67u6gjKZnkBO1AD.jpg",
+        "genre_ids": [
+            878,
+            16,
+            28,
+            80,
+            53
+        ],
+        "id": 13851,
+        "original_language": "en",
+        "original_title": "Batman: Gotham Knight",
+        "overview": "A chronicle of Bruce Wayne's establishment and progression into Gotham City’s legendary caped crusader through 6 standalone episodes.",
+        "popularity": 34.454,
+        "poster_path": "/3i1o0sHBP0VUpuSVmkdCRKYoDBC.jpg",
+        "release_date": "2008-07-08",
+        "title": "Batman: Gotham Knight",
+        "video": false,
+        "vote_average": 6.718,
+        "vote_count": 664
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4A0f1oqkJLohy8LXjmJpops7CMB.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 8984,
+        "original_language": "en",
+        "original_title": "Disclosure",
+        "overview": "A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.",
+        "popularity": 34.432,
+        "poster_path": "/dnA4QkIZZCF9wRtF8HHxWwUXVMf.jpg",
+        "release_date": "1994-12-09",
+        "title": "Disclosure",
+        "video": false,
+        "vote_average": 6.261,
+        "vote_count": 1136
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ubj8Y0gFZK3d3glD55BzIx8arOV.jpg",
+        "genre_ids": [
+            16,
+            80,
+            9648,
+            28
+        ],
+        "id": 97375,
+        "original_language": "ja",
+        "original_title": "名探偵コナン 天空の難破船（ロスト・シップ）",
+        "overview": "A terrorist group invades a laboratory containing a deadly bacteria and destroys the lab with an explosion. They later announce via the internet they have gained possession of the bacteria and declare themselves to be the Red Siamese Cats, a terrorist group that was eradicated a decade ago.",
+        "popularity": 34.417,
+        "poster_path": "/vseoko42epXslgS8wibiquMvoQj.jpg",
+        "release_date": "2010-04-17",
+        "title": "Detective Conan: The Lost Ship in the Sky",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 121
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9oRbHgbJf1Zr2fct8jBIKadpKya.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 4816,
+        "original_language": "en",
+        "original_title": "Ghost Dog: The Way of the Samurai",
+        "overview": "An African-American Mafia hit man who models himself after the samurai of ancient Japan finds himself targeted for death by the mob.",
+        "popularity": 34.4,
+        "poster_path": "/gjcl07r9zgQ9tVo9alyHmysPFfX.jpg",
+        "release_date": "1999-10-06",
+        "title": "Ghost Dog: The Way of the Samurai",
+        "video": false,
+        "vote_average": 7.324,
+        "vote_count": 1160
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dPgwPCi0QRHFNIjZhLi95KZJUz7.jpg",
+        "genre_ids": [
+            35,
+            10749,
+            80
+        ],
+        "id": 10833,
+        "original_language": "en",
+        "original_title": "Heartbreakers",
+        "overview": "Max and Page are a brilliant mother/daughter con team who have their grift down to a fine science. Max targets wealthy, willing men and marries them. Page then seduces them, and Max catches her husband in the act. Then it's off to palimony city and the next easy mark.",
+        "popularity": 34.385,
+        "poster_path": "/bwvec0gRMSpLakcPuxe0RWScNv3.jpg",
+        "release_date": "2001-03-23",
+        "title": "Heartbreakers",
+        "video": false,
+        "vote_average": 6.097,
+        "vote_count": 871
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5zmeFn1JsTY6Z2wjGGOw4ZFwJIe.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 13127,
+        "original_language": "cn",
+        "original_title": "殺破狼",
+        "overview": "Chan, an articulate senior detective nearing the end of his career, is taking care of the daughter of a witness killed by ruthless crime lord Po. Martial arts expert Ma is set to take over as head of the crime unit, replacing Chan who wants an early retirement.",
+        "popularity": 34.382,
+        "poster_path": "/9Zv5ekjWAKbFhz0VlzQVVcXTWCq.jpg",
+        "release_date": "2005-11-18",
+        "title": "SPL: Kill Zone",
+        "video": false,
+        "vote_average": 6.922,
+        "vote_count": 294
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aaZDTfTkMiJOqc0lrDihZab19nK.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 453127,
+        "original_language": "ko",
+        "original_title": "청년경찰",
+        "overview": "Two apathetic police academy recruits who become best buddies through the tough training together witness a woman being abducted right before their very eyes. As they were taught in the academy, they quickly report the incident to the police, but the police are in no hurry to jump on the case. So the duo decide to take the matter into their own hands and rescue the woman.",
+        "popularity": 34.381,
+        "poster_path": "/11qHlLL2rsQGH1nmPjJ7jFjeGcb.jpg",
+        "release_date": "2017-08-09",
+        "title": "Midnight Runners",
+        "video": false,
+        "vote_average": 7.507,
+        "vote_count": 204
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p7L2hVCdsaxhcTI0QzTJakLhGRq.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 1249,
+        "original_language": "en",
+        "original_title": "Hollywoodland",
+        "overview": "When Hollywood superstar George Reeves dies in his home, private detective Louis Simo is hired to investigate his death and gets caught in a web of lies involving a big studio executive's wife.",
+        "popularity": 34.38,
+        "poster_path": "/iHSbYI7l9ID1vuH3PiM4CWek38g.jpg",
+        "release_date": "2006-08-31",
+        "title": "Hollywoodland",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 386
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qYMS388kesnlNJYqf7k37tHH2pZ.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 9085,
+        "original_language": "en",
+        "original_title": "Harlem Nights",
+        "overview": "'Sugar' Ray is the owner of an illegal casino and must contend with the pressure of vicious gangsters and corrupt police who want to see him go out of business. In the world of organised crime and police corruption in the 1920s, any dastardly trick is fair.",
+        "popularity": 34.308,
+        "poster_path": "/PLr00Pv1DpQ3vMssBkjgAPS1Fy.jpg",
+        "release_date": "1989-11-17",
+        "title": "Harlem Nights",
+        "video": false,
+        "vote_average": 6.055,
+        "vote_count": 299
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pRBCb6Hs6Xo4diXwpnBTcwMizE.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1485,
+        "original_language": "en",
+        "original_title": "Get Carter",
+        "overview": "Jack Carter is a small-time hood working in London. When word reaches him of his brother's death, he travels to Newcastle to attend the funeral. Refusing to accept the police report of suicide, Carter seeks out his brother’s friends and acquaintances to learn who murdered his sibling and why.",
+        "popularity": 34.303,
+        "poster_path": "/suvNK1hd7LnVhsumteyflDGlrgL.jpg",
+        "release_date": "1971-02-03",
+        "title": "Get Carter",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 466
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yl7M1buWaxXXhZv0bSbi4MPYVKm.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 9490,
+        "original_language": "en",
+        "original_title": "Half Baked",
+        "overview": "Three lovable party buds try to bail their friend out of jail. But just when the guys have mastered a plan, everything comes dangerously close to going up in smoke.",
+        "popularity": 34.294,
+        "poster_path": "/14TmEac4bquNaEld9t0uIliYoKE.jpg",
+        "release_date": "1998-01-16",
+        "title": "Half Baked",
+        "video": false,
+        "vote_average": 6.292,
+        "vote_count": 537
+    }
+]

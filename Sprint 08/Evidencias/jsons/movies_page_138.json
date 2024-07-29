@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/x55HTVEkwqWB6TZ5HP6lSlpZjZg.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648,
+            10770
+        ],
+        "id": 829400,
+        "original_language": "en",
+        "original_title": "Psych 3: This Is Gus",
+        "overview": "In preparation for a shotgun wedding before the birth of Baby Guster, Shawn and Gus go rogue in an attempt to track down Selene’s estranged husband, as Lassiter grapples with the future of his career.",
+        "popularity": 19.17,
+        "poster_path": "/8H7Smu8B30WxcY6ow0wPFQ3QlZC.jpg",
+        "release_date": "2021-11-18",
+        "title": "Psych 3: This Is Gus",
+        "video": false,
+        "vote_average": 6.766,
+        "vote_count": 107
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2pybydPQPOrMbQqkUwkwiHMDvgO.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 32160,
+        "original_language": "ko",
+        "original_title": "야수",
+        "overview": "A grissled cop with tendencies towards excessive force teams up with an ambitious and righteous prosecutor to track down a dangerous crime boss whom they both want desperately to catch. But their quarry resorts to devious methods to stall their investigation and eventually turn them against each other. Now the stage is set for a dangerous triangle.",
+        "popularity": 19.169,
+        "poster_path": "/73a6ePNaH4ISXch6zs3s94EJXjt.jpg",
+        "release_date": "2006-01-13",
+        "title": "Running Wild",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mgkzNXXo94ISnkqlU4Ee4K221Tq.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            9648
+        ],
+        "id": 11028,
+        "original_language": "en",
+        "original_title": "The Big Easy",
+        "overview": "Remy McSwain is a New Orleans police lieutenant who investigates the murder of a local mobster. His investigation leads him to suspect that fellow members of the police force may be involved.",
+        "popularity": 19.162,
+        "poster_path": "/h1zSdBuPRtKAD5R95dMQKMs5NyT.jpg",
+        "release_date": "1986-11-27",
+        "title": "The Big Easy",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 179
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/EZzC6VIaZDHLmtLv80kcQFWDa4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 15394,
+        "original_language": "en",
+        "original_title": "Owning Mahowny",
+        "overview": "Dan Mahowny was a rising star at the Canadian Imperial Bank of Commerce. At twenty-four he was assistant manager of a major branch in the heart of Toronto's financial district. To his colleagues he was a workaholic. To his customers, he was astute, decisive and helpful. To his friends, he was a quiet, but humorous man who enjoyed watching sports on television. To his girlfriend, he was shy but engaging. None of them knew the other side of Dan Mahowny--the side that executed the largest single-handed bank fraud in Canadian history, grossing over $10 million in eighteen months to feed his gambling obsession.",
+        "popularity": 19.16,
+        "poster_path": "/xQYKqpN6fD7Dc7Vu8xnShHPKDwe.jpg",
+        "release_date": "2003-05-02",
+        "title": "Owning Mahowny",
+        "video": false,
+        "vote_average": 6.782,
+        "vote_count": 149
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fM5W9e57B4DoutCPnbPgSjOmApc.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 38963,
+        "original_language": "ko",
+        "original_title": "바르게 살자",
+        "overview": "The chief of Sampo City Police Office, Seung-u, organizes a simulation of a bank robbery, but a by-the-book cop gets too caught up in the role playing in which the simulation doesn't go the way he had anticipated.",
+        "popularity": 19.159,
+        "poster_path": "/gBX9cpJ6MNuYiLpAfP2Du7MgWXN.jpg",
+        "release_date": "2007-08-18",
+        "title": "Going by the Book",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v7hdWmLh6VLgZQgkbHDxAa17M47.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 852592,
+        "original_language": "es",
+        "original_title": "Centauro",
+        "overview": "Rafa's hooked on the pure, fiery feelings he gets from speed racing, but when his kid's mom gets mixed up with drug dealers, he burns rubber to save her.",
+        "popularity": 19.149,
+        "poster_path": "/wOx97MJOxEoR38aoya3lopyrlYC.jpg",
+        "release_date": "2022-06-15",
+        "title": "Centauro",
+        "video": false,
+        "vote_average": 6.163,
+        "vote_count": 121
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zeRIdwxlEMtgjSy5tH6rU3r7ZFT.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 160030,
+        "original_language": "cn",
+        "original_title": "紮職",
+        "overview": "Three childhood friends join the Hong Kong Triads only to discover that fame and fortune will ultimately break them apart as only one can become the leader of the gang.",
+        "popularity": 19.139,
+        "poster_path": "/9QXxJoxcsuSOO69ofndJDZh6KHI.jpg",
+        "release_date": "2012-11-15",
+        "title": "Triad",
+        "video": false,
+        "vote_average": 5.25,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fZmKQFnY8aur0v6h9pe1x95AJMj.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 69225,
+        "original_language": "fr",
+        "original_title": "Switch",
+        "overview": "In Montreal, the unemployed fashion designer Sophie Malaterre is shown a website, switch.com, where it is possible to switch houses with a stranger for vacation. Sophie seeks an apartment in Paris nearby the Eiffel Tower that belongs to Bénédicte Serteaux and they change apartments. Sophie arrives in Paris on Saturday morning. The next morning, policemen break in the apartment and arrest Sophie while she is having a bath. Detective Damien Forgeat interrogates Sophie believing that she is Bénédicte and she learns that a beheaded body was found in her room and all evidence of her life has been deleted.",
+        "popularity": 19.137,
+        "poster_path": "/nOroxNJftPkGLjordf8IcYkjjZb.jpg",
+        "release_date": "2011-06-06",
+        "title": "Switch",
+        "video": false,
+        "vote_average": 5.807,
+        "vote_count": 109
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1O3FgFoUgmYJRbXkQjbJX1RdTi0.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 193551,
+        "original_language": "cn",
+        "original_title": "驚變",
+        "overview": "An erotic mystery about widower seeks revenge to the man whose wife had an affair before her apparent suicide, however things soon turns complicated when the widower having a relationship with the man's wife and the whole truth would reveals.",
+        "popularity": 19.136,
+        "poster_path": "/1GI9mC21UyZCcghL1TU3sAOhJsL.jpg",
+        "release_date": "1996-06-14",
+        "title": "All of a Sudden",
+        "video": false,
+        "vote_average": 6.125,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kUBYQyyzZgs3JmkTEzXlB3LZQYi.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "id": 323368,
+        "original_language": "en",
+        "original_title": "Hangman",
+        "overview": "A homicide detective teams up with a criminal profiler to catch a serial killer whose crimes are inspired by the children's game, Hangman.",
+        "popularity": 19.126,
+        "poster_path": "/u7HwjTX9h4B8kuolyKiztYjtqna.jpg",
+        "release_date": "2017-12-22",
+        "title": "Hangman",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 566
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/39fcknANf8uI2eQUd9bACoVMasm.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            53
+        ],
+        "id": 55888,
+        "original_language": "en",
+        "original_title": "Ed Gein",
+        "overview": "The true story of Edward Gein, the farmer whose horrific crimes inspired Psycho, The Texas Chainsaw Massacre and The Silence of the Lambs. This is the first film to Gein's tormented upbringing, his adored but domineering mother, and the 1957 arrest uncovered the most bizarre series of murders America has ever seen",
+        "popularity": 19.119,
+        "poster_path": "/kmgR0RmsFei4Ev3a6GiRojuZwHx.jpg",
+        "release_date": "2000-11-17",
+        "title": "Ed Gein",
+        "video": false,
+        "vote_average": 5.413,
+        "vote_count": 104
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ylrd1QeNvaRXSmXwDLqhaGJ6S9K.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            28
+        ],
+        "id": 19621,
+        "original_language": "en",
+        "original_title": "The Hit",
+        "overview": "Ten years after ratting on his old mobster friends in exchange for personal immunity, two hit men drive a hardened criminal to Paris for his execution. However, while on the way, whatever can go wrong, does go wrong.",
+        "popularity": 19.114,
+        "poster_path": "/hKNIz9iids9uPyEpmJjLFM96KXI.jpg",
+        "release_date": "1984-09-07",
+        "title": "The Hit",
+        "video": false,
+        "vote_average": 6.418,
+        "vote_count": 188
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9j7VovzODcb1xQ1kKm68i8XC2bj.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            878
+        ],
+        "id": 727097,
+        "original_language": "en",
+        "original_title": "Archenemy",
+        "overview": "Max Fist claims he’s a hero from another dimension who has somehow landed on Earth and been stripped of his powers. Instead of treating him like a powerful champion, no one believes Max’s claims — except for a teenager named Hamster and his sister Indigo. The siblings convince Max to help them take out a local drug gang, where Max’s abilities are put to a violent and harrowing test.",
+        "popularity": 19.112,
+        "poster_path": "/f1jsJJql52sQwnPsoGIKRW7QfXI.jpg",
+        "release_date": "2020-11-30",
+        "title": "Archenemy",
+        "video": false,
+        "vote_average": 5.282,
+        "vote_count": 117
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fhZTZTsbv1gSpp6lXt5m3kXGSQ4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            878
+        ],
+        "id": 9063,
+        "original_language": "da",
+        "original_title": "Forbrydelsens element",
+        "overview": "Fisher, an ex-detective, decides to take one final case when a mysterious serial killer claims the lives of several young girls. Fisher, unable to find the culprit, turns to Osbourne, a writer who was once respected for his contributions to the field of criminology. Fisher begins to use Osbourne's technique, which involves empathizing with serial killers; however, as the detective becomes increasingly engrossed in this method, things take a disturbing turn.",
+        "popularity": 19.101,
+        "poster_path": "/sfg5KUOdR4bfoPiDf63LVG7mlfw.jpg",
+        "release_date": "1984-05-14",
+        "title": "The Element of Crime",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 189
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oXKzUfG4HPl1e3b87eFWV8Lr07a.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 42814,
+        "original_language": "en",
+        "original_title": "The Front Page",
+        "overview": "Hildy Johnson is an investigative reporter looking for a bigger paycheck. When an accused murderer escapes from custody, Hildy sees an opportunity for the story of a lifetime. But when he finds the criminal, he learns that the man may not be guilty. With the help of his editor, Hildy attempts to hide the convict, uncover the conspiracy and write the scoop of his career.",
+        "popularity": 19.099,
+        "poster_path": "/ifV0m0RRPAkchL5gS4MOLoWPBjN.jpg",
+        "release_date": "1931-04-04",
+        "title": "The Front Page",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7PP7NLNYyLVymJPHX3HiYHgAtsh.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 84858,
+        "original_language": "hi",
+        "original_title": "अग्निपथ",
+        "overview": "When his father is lynched by a mob after being framed by a gangster, a young boy leaves his village along with his pregnant mother  and flees to Mumbai. He takes up a life of crime and swears to avenge his father. A remake of the 1990 film.",
+        "popularity": 19.096,
+        "poster_path": "/vfnOUEiKaul9e3cw9eL2yv9W7Zn.jpg",
+        "release_date": "2012-01-25",
+        "title": "Agneepath",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 139
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6948QYLT3GVComQG4hbiNFF7VuA.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 254772,
+        "original_language": "en",
+        "original_title": "La Voie de l‘ennemi",
+        "overview": "A convict is released from prison in a small town in New Mexico. 18 years ago he killed a deputy. The then-and-now sheriff seeks revenge.",
+        "popularity": 19.094,
+        "poster_path": "/df8tTDXxd4wgDgaldnph2I0R2UB.jpg",
+        "release_date": "2014-05-07",
+        "title": "Two Men in Town",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/535UwHBHGOrsyrDqfEjOVjJQZq7.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 991197,
+        "original_language": "cn",
+        "original_title": "臨時劫案",
+        "overview": "A fierce robber has plotted a major heist. But unfortunately, his plan was unintentionally foiled by two dispirited middle-aged best friends, and the stolen cash disappears. As a result, the trio has to run from the pursue of a policewoman, as well as engaging in a firearm in order to reclaim the stolen cash, putting their life on the line.",
+        "popularity": 19.09,
+        "poster_path": "/5WnesBqPIUDOJcJK3B11lu3m2M1.jpg",
+        "release_date": "2024-01-19",
+        "title": "Rob N Roll",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j1phFR0pMwqouyyvN8g3qjqJi8O.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 32577,
+        "original_language": "en",
+        "original_title": "The Parole Officer",
+        "overview": "A hapless parole officer is framed for murder by a crooked police chief. To prove his innocence he must entice his former clients away from the law abiding lives they are now living to recover the evidence that will save him.",
+        "popularity": 19.081,
+        "poster_path": "/tTiBD7kCwIpjOXZ0L2JDMNo4su5.jpg",
+        "release_date": "2001-08-10",
+        "title": "The Parole Officer",
+        "video": false,
+        "vote_average": 5.762,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cJVJMpj8f7YhlSC6v6fBBJ4x8k0.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 36250,
+        "original_language": "ja",
+        "original_title": "新宿黒社会 チャイナマフィア戦争",
+        "overview": "Tatsuhito, a cop, pursues Chinese warlord Wang through the underworld of Shinjuku and over to Taiwan.",
+        "popularity": 19.069,
+        "poster_path": "/9C80qHKjbwgxDko88z6rxZ33Jjw.jpg",
+        "release_date": "1995-08-26",
+        "title": "Shinjuku Triad Society",
+        "video": false,
+        "vote_average": 6.35,
+        "vote_count": 61
+    }
+]

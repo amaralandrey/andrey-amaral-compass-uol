@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/2mM5VgEb4wJ5e3ZL41A6ZB726Gu.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 42259,
+        "original_language": "en",
+        "original_title": "Lepke",
+        "overview": "Lepke is the feared leader of \"Murder Incorporated\" in this underworld drama based on the life of Louis \"Lepke\" Buchalter. Lepke began his criminal career as a petty thief in his teens; a stretch in prison taught him the finer points of life on the wrong side of the law. After getting out of jail, Lepke and his pal Gurrah Shapiro join a gang who hire themselves out as strikebreakers, and the vicious but clever Lepke soon rises through the ranks.",
+        "popularity": 10.339,
+        "poster_path": "/73VRfULwIHsxR7fImiu4wGp0P5d.jpg",
+        "release_date": "1975-05-23",
+        "title": "Lepke",
+        "video": false,
+        "vote_average": 5.24,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 17679,
+        "original_language": "en",
+        "original_title": "The Murder Room",
+        "overview": "London's Dupayne Museum is in danger of closing since one of the trustees feels that the money expended on preserving the past could be better spent addressing the problems of living people. One of the museum's collections concerns murders committed between the world wars. When a killing that reflects one of the cases on display occurs, history seems to be repeating itself.",
+        "popularity": 10.339,
+        "poster_path": "/qHFl1JVSBFXZstBvuLK8lwCsCkI.jpg",
+        "release_date": "2004-10-31",
+        "title": "The Murder Room",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sU4sCZoSWKFaoQa5WdGBE1Rtxu6.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            9648
+        ],
+        "id": 603085,
+        "original_language": "en",
+        "original_title": "Picture Perfect Mysteries: Newlywed and Dead",
+        "overview": "Small-town New England professional wedding photographer Allie Adams finds herself in the middle of a murder mystery when the groom is suddenly shot and killed during the ceremonial first dance. Suspicion immediately turns towards Allie’s big brother Greg, the ex-boyfriend of the bride. Allie begins her own amateur investigation to clear Greg’s name, teaming up with Sam, the newest detective on the force.",
+        "popularity": 10.338,
+        "poster_path": "/yUwzclWg9y0HxaETZcnu5ta3azU.jpg",
+        "release_date": "2019-06-16",
+        "title": "Picture Perfect Mysteries: Newlywed and Dead",
+        "video": false,
+        "vote_average": 7.304,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1cer4RPJ6uxWHBTJ5DCSgZ34Zn4.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 520093,
+        "original_language": "ja",
+        "original_title": "スペシャリスト3",
+        "overview": "Shu Kubota is killed by someone with a baseball bat. A metal bat and an old toy are found at the crime scene.  Detective Yoshito (Tsuyoshi Kusanagi) with the special investigation unit goes to the crime scene to investigate. There, Detective Yoshito realizes that he made the old toy about 10 years ago when he worked at the public relations divsion of the Kyoto Prefectural Police Department. Detective Yoshito decides to solve the case by himself and without the help of his partner Detective Chinami (Kaho Minami). --asianwiki",
+        "popularity": 10.338,
+        "poster_path": "/9vXcwKEawpfCqA1OCz42zbYTZTO.jpg",
+        "release_date": "2015-02-28",
+        "title": "Specialist 3",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zJz4UfyAR52av7oSC2BuArY2kBV.jpg",
+        "genre_ids": [
+            10770,
+            18,
+            80
+        ],
+        "id": 170691,
+        "original_language": "en",
+        "original_title": "Jailbreakers",
+        "overview": "A 1950s high school cheerleader meets a leather clad rebel biker and goes out on the town with him. When he steals an item of jewellery he gets thrown in prison but not for long. He makes a desperate escape and he is determined to catch up with his lost love and re-new their criminal activities.",
+        "popularity": 10.338,
+        "poster_path": "/qSnnpNbPCbUZ7XqMQ7NGoDCtiaR.jpg",
+        "release_date": "1994-09-09",
+        "title": "Jailbreakers",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oKVL30uzSd0IYk5wR3iU2u4gQTk.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 36949,
+        "original_language": "en",
+        "original_title": "99 River Street",
+        "overview": "A former boxer turned taxi driver earns the scorn of his nagging wife and gets mixed up with jewel thieves.",
+        "popularity": 10.338,
+        "poster_path": "/sJ4kX89iD0Ne8cdlVAFCsAn0kbe.jpg",
+        "release_date": "1953-08-21",
+        "title": "99 River Street",
+        "video": false,
+        "vote_average": 6.772,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8Vb7z1jxdToqnUl5Jkfwc1LQQsm.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 519650,
+        "original_language": "ja",
+        "original_title": "スペシャリスト2",
+        "overview": "A mysterious code written with letters and numbers is found on a street in Kyoto. Yoshito Takuma (Tsuyoshi Kusanagi) and Chinami Anekoji (Kaho Minami) begin to investigate. They discover that something happened at the place where the code was found on stickers and they also discover a dead body. A man known as \"Writer\" is suspected of being the culprit. To find the man known as \"Writer,\" Yoshito Takuma infiltrates into Shiga central prison. --asianwiki",
+        "popularity": 10.335,
+        "poster_path": "/rNJPWOkjbqZSwY8XmXcXq1LwuaK.jpg",
+        "release_date": "2014-03-08",
+        "title": "Specialist 2",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 60236,
+        "original_language": "ru",
+        "original_title": "Личный номер",
+        "overview": "A terrorist organization known as \"Ansar Allah\" is preparing to turn the city of Rome into a City of the Dead. But the heroism of Smolin, the professionalism of Catherine Stone, and the help of Umar together with the cooperation of Russian and Western special forces will save the world from evil terrorists.",
+        "popularity": 10.334,
+        "poster_path": "/v1A2Y2eo2rPs7MlMEPhKX11L8JF.jpg",
+        "release_date": "2004-12-09",
+        "title": "Countdown",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9c6jAHOmAYUyzp7zDNjUgtGtn6m.jpg",
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 189032,
+        "original_language": "ja",
+        "original_title": "箱の中の女2",
+        "overview": "The manager of a ski resort kidnaps women, subjects them to various forms of sexual degradation and keeps his victims in a wooden box in the basement.",
+        "popularity": 10.33,
+        "poster_path": "/mnmABtFtiUVAJmB4aozXqOuojKm.jpg",
+        "release_date": "1988-02-27",
+        "title": "Woman in a Box 2",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/magHQmfnitb5ZCH38CGcsBhzpgx.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 134031,
+        "original_language": "ja",
+        "original_title": "悪魔が来りて笛を吹く",
+        "overview": "Famous detective Kindaichi solves a series of mysterious murders in a wealthy family. An excellent blend of intrigue and betrayal, set against the backdrop of wealth, this film is loaded with twists and turns and surprises at every corner.",
+        "popularity": 10.326,
+        "poster_path": "/zZV9onuwvEQ5Wo6ER96brVuOePR.jpg",
+        "release_date": "1979-01-20",
+        "title": "Devil's Flute",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 155239,
+        "original_language": "es",
+        "original_title": "Midwives",
+        "overview": "It's a cold and stormy night, and in a house in rural Vermont, midwife Sibyl Danforth is, together with the father and an assistant, in the middle of a homebirth. As time passes, the woman in labor meets with difficulties and Sibyl concludes that it would be preferable for the woman to deliver her baby in the hospital. Though a dead telephone line and bad weather prevents Sibyl from going anywhere. Black ice and a persisten snowstorm makes transportation an impossibility. Early in the morning, the woman dies from what they believe to be a stroke and in all the chaos, Sibyl promptly decides to do a C-section to save the baby. The baby survives, but the mother is dead and tragedy is obvious. Yet, it's only going to get worse for Sibyl as her assistant is certain that the woman was still alive when Sibyl performed the C-section. Sibyl is charged with manslaughter, brought before the court and her life is and will forever be changed.",
+        "popularity": 10.324,
+        "poster_path": "/y0tFzAcWbYB0T5OhEJxRvknOE2Z.jpg",
+        "release_date": "2001-04-02",
+        "title": "Midwives",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6se3KzlHfLgZxreOdsg21El0GgX.jpg",
+        "genre_ids": [
+            53,
+            27,
+            80
+        ],
+        "id": 14838,
+        "original_language": "en",
+        "original_title": "Hit and Run",
+        "overview": "A young woman tries to cover up a deadly hit and run accident, only to have the supposedly dead victim come back to terrorize her.",
+        "popularity": 10.322,
+        "poster_path": "/13bMTJ1juZcfgBweJY6wqv9l9iq.jpg",
+        "release_date": "2009-01-13",
+        "title": "Hit and Run",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AswjkhIoAR4HO0NCiK7bz7eXPqf.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            10770
+        ],
+        "id": 129423,
+        "original_language": "en",
+        "original_title": "Manhunt: Search for the Night Stalker",
+        "overview": "Based on the true story of Richard \"The Night Stalker\" Ramirez who terrorized California in 1985 and the two Los Angeles police detectives who try to track him down.",
+        "popularity": 10.321,
+        "poster_path": "/qD6mg7ueKznU7KeZpe7YRJEEO2F.jpg",
+        "release_date": "1989-11-12",
+        "title": "Manhunt: Search for the Night Stalker",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z8HBS853iRUYjK9p3plmmayiCtE.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 56535,
+        "original_language": "en",
+        "original_title": "Slaughter",
+        "overview": "Slaughter, a former Green Beret, avenges the killing of loved ones by the Mob, and after being blackmailed by the feds, is forced to head to South America to finish the mobsters off.",
+        "popularity": 10.321,
+        "poster_path": "/mYCfkpRAipuBie3WVaiVditHPtc.jpg",
+        "release_date": "1972-08-16",
+        "title": "Slaughter",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5Mp4FvTOYBlwhsnhyHsIHGiU5VY.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            9648
+        ],
+        "id": 270199,
+        "original_language": "sv",
+        "original_title": "Beck 15 - Pojken i glaskulan",
+        "overview": "Mother of an autistic boy is found murdered in her home. The boy holds the murder weapon, covered in blood..",
+        "popularity": 10.32,
+        "poster_path": "/uh54P50je6HMsFEvPpq1CkvHlCw.jpg",
+        "release_date": "2002-04-10",
+        "title": "Beck 15 - The Boy in the Glass Ball",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m0UfnePcoaj8EGlpUySbjX1Ak4H.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 20781,
+        "original_language": "en",
+        "original_title": "Angel of Death",
+        "overview": "In the tradition of Grindhouse, Kill Bill and Sin City, award-winning comic book writer Ed Brubaker (Incognito, The Death of Captain America, Daredevil) teams up with stuntwoman-turned-cult star Zoe Bell (Death Proof, TV's \"Lost\") to deliver a stark, stylish pulp thriller about a very bad girl gone \"good.\"",
+        "popularity": 10.32,
+        "poster_path": "/5c0tTP3FvbxJjA04Efavq0GATh0.jpg",
+        "release_date": "2009-07-07",
+        "title": "Angel of Death",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Aer10khqjWce0Ltq0JsVkcBzNQH.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            53
+        ],
+        "id": 73550,
+        "original_language": "en",
+        "original_title": "Outside the Wall",
+        "overview": "Larry Nelson, paroled from prison after serving nearly half of his thirty-year sentence, is determined to not fall into the clutches of the law again, and takes a quiet job at a country sanitarium. Thete, he meets and falls for a nurse, Charlotte Maynard, and he knows the only way to enter her web is to have a lot of money, for Miss Maynard is somewhat of a gold-digger.",
+        "popularity": 10.319,
+        "poster_path": "/tRpd8Q6vIiB6byGxlQx76rD3HYY.jpg",
+        "release_date": "1950-02-08",
+        "title": "Outside the Wall",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/51R6Oc0M0KpWA9zc9kB6OlhKThL.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 43911,
+        "original_language": "en",
+        "original_title": "A Letter from Death Row",
+        "overview": "A psychological thriller that takes you through the mind of convicted killer, Michael Raine, and his experiences on death row. Was he guilty of killing his girlfriend or was he a victim of a conspiracy to frame him for a crime he didn't commit? As the story unfolds Jessica Foster, an assistant to the Governor of Tennessee begins to interview Raine while on death row, claiming that she's writing a book about the inmates. Through various circumstances, Raine puts two and two together and builds a case that he believes can prove his innocence...or does he? Ms. Foster is the only one on the 'outside\" who can give Raine a voice, but is she working for those who framed him? As time draws near to the date of his execution, in his most desperate hour Raine finds the missing pieces to the puzzle to prove his innocence, but is it too late...? Was this story told from Raine's point of view or from the book writers or from yours, the viewer - you decide.",
+        "popularity": 10.319,
+        "poster_path": "/mtqjwonuIXYwD6ylsViyKeQPOoi.jpg",
+        "release_date": "1998-11-17",
+        "title": "A Letter from Death Row",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tKzlosTjzpCxVaZre1cefz41HRF.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 36342,
+        "original_language": "en",
+        "original_title": "Each Dawn I Die",
+        "overview": "A corrupt D.A. with governatorial ambitions is annoyed by an investigative reporter's criticism of his criminal activities and decides to frame the reporter for manslaughter in order to silence him.",
+        "popularity": 10.315,
+        "poster_path": "/tgzSlasazy1rNH4myfAohLY6o9K.jpg",
+        "release_date": "1939-08-19",
+        "title": "Each Dawn I Die",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bWRnutw2uhBCO9npKOasJLZKV9L.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            80
+        ],
+        "id": 85194,
+        "original_language": "en",
+        "original_title": "Deadly Games",
+        "overview": "A masked maniac with a penchant for a monster-themed board game is playing his own twisted game with the women of a small American town. Each time the dice are rolled, another victim meets a grisly end. Returning home to mourn the death of her murdered sister, Keegan befriends local cop Roger and reclusive cinema projectionist Billy — but soon finds herself in the killer's sights.",
+        "popularity": 10.314,
+        "poster_path": "/3r1AumUvcB45JWN4SJMrFYDbRrn.jpg",
+        "release_date": "1982-10-12",
+        "title": "Deadly Games",
+        "video": false,
+        "vote_average": 2.789,
+        "vote_count": 19
+    }
+]

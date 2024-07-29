@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/c8xvFsI0EoP5tVbtToaqpnU9j9C.jpg",
+        "genre_ids": [
+            16,
+            35,
+            80,
+            10751,
+            14
+        ],
+        "id": 33868,
+        "original_language": "en",
+        "original_title": "Inspector Gadget's Last Case",
+        "overview": "Gadget is still a klutz and Dr. Claw has a vicious new plan that makes him a super-hero in disguise to try to ruin Gadget and to take over the world, but as usual Gadget in his zany ways wins.",
+        "popularity": 7.183,
+        "poster_path": "/oX87kZXZJfB3XIDdMMbQNHgv2NE.jpg",
+        "release_date": "2002-10-13",
+        "title": "Inspector Gadget's Last Case",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lGrk0nsnRwVPg6R2ao3KDk6QEgE.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 1211886,
+        "original_language": "ht",
+        "original_title": "Kidnapping Inc.",
+        "overview": "Tasked with what appears to be a simple abduction for hire, two hapless kidnappers find out that it’s anything but and end up in the middle of a political conspiracy.",
+        "popularity": 7.182,
+        "poster_path": "/5bYf4VgHR0NNqxGRXJfGRSCwsmQ.jpg",
+        "release_date": "2024-01-22",
+        "title": "Kidnapping Inc.",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 762385,
+        "original_language": "en",
+        "original_title": "Turnover Smith",
+        "overview": "A criminology professor uses scientific methods, advanced computer technology, his expertise in chess, and the leg work of several of his students to track down a crazed killer in San Francisco.",
+        "popularity": 7.182,
+        "poster_path": "/oe83CR2R2Ll7xwS23t6W5PZxuwS.jpg",
+        "release_date": "1980-06-08",
+        "title": "Turnover Smith",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4oCMj3Xb3Nr3R5qBD85SXR2K2y7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 72317,
+        "original_language": "en",
+        "original_title": "True Blue",
+        "overview": "Rembrandt Macy (Tom Berenger) is a maverick cop assigned to a case where the primary evidence is a woman's hand found in a pond. Investigators identify the dead, and Macy is lead into a young woman's past. Macy's primary path to understanding the victim is through one of her roommates, Nikki. Through Nikki and others, Macy learns of the victim's shady contacts at City Hall, the involvement of a gang of Asian drug runners, and the sordid affairs of one of the city's bigwigs. As Macy begins to understand how all these crimes fit together, he learns that his new friend Nikki is not an innocent bystander.",
+        "popularity": 7.182,
+        "poster_path": "/wGKNSooidNSRhxx5h9ExGA926OF.jpg",
+        "release_date": "2001-11-29",
+        "title": "True Blue",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gPn9AzDFkVtMsJZyMgaYgh4dGlf.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 60971,
+        "original_language": "ja",
+        "original_title": "暗黒街の美女",
+        "overview": "The moment he's released from prison, the honorable gangster Miyamoto recovers the stolen diamonds he had stashed before getting pinched. When he returns to his haunt to make good by friend who took a bullet for him, he is diverted by the greedy boss Oyane and his insatiable taste for Miyamoto's precious stones.",
+        "popularity": 7.182,
+        "poster_path": "/rXozNjB5QR1AavZ45wMEfNutXY.jpg",
+        "release_date": "1958-03-25",
+        "title": "Underworld Beauty",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kwsk3qotV3wyO4tbnWX6tscXGBB.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 35913,
+        "original_language": "en",
+        "original_title": "Cry Vengeance",
+        "overview": "Ex-cop Vic Barron crossed the wrong mobsters; his wife and child were killed and he himself scarred, framed and imprisoned. On release, Vic has but one desire, revenge on still-hiding Tino Morelli.",
+        "popularity": 7.182,
+        "poster_path": "/6gXYRvvr8J2qhZTNoTBiswUlnXR.jpg",
+        "release_date": "1954-11-24",
+        "title": "Cry Vengeance",
+        "video": false,
+        "vote_average": 5.643,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 388305,
+        "original_language": "de",
+        "original_title": "Der Urbino-Krimi: Die Tote im Palazzo",
+        "overview": "",
+        "popularity": 7.181,
+        "poster_path": "/h7PaKbFH7PEwKEBuz25NACDrFin.jpg",
+        "release_date": "2016-03-17",
+        "title": "Der Urbino-Krimi: Die Tote im Palazzo",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1306587,
+        "original_language": "ja",
+        "original_title": "日本統一36",
+        "overview": "Tetsuya Mikami, former leader of the Mikami-gumi group, took care of ex-convicts and people who had left the group so that they could reintegrate into society. However, an incident occurred in which a man working at his store was arrested on suspicion of murder and burglary after smoking shabu. Renji Himuro and Yuto Tamura have Nakajima and his friends investigate the source of the shabu.",
+        "popularity": 7.179,
+        "poster_path": "/y0HL6Zp1A9D6OqM51MNmwqqR0BY.jpg",
+        "release_date": "2019-11-25",
+        "title": "Unification of Japan 36",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1242686,
+        "original_language": "en",
+        "original_title": "Salvable",
+        "overview": "Sal 'The Bull' is a washed-up boxer on the brink of 40, fighting more than just his opponents. With a life of regrets and fading dreams, Sal’s chance at redemption comes knocking in the form of illegal boxing, introduced by the sudden return of his old friend Vince. Sal faces the ultimate dilemma: seize this shot at resurgence or preserve the bond with his daughter Molly.",
+        "popularity": 7.179,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Salvable",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uKfz3OX70zBRIyzPQ7fZ4AqLJaV.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 186958,
+        "original_language": "cn",
+        "original_title": "亚洲秘密警探",
+        "overview": "Yang Ming Xuan intercepts a truckload of contraband, but the criminals stage a brazen helicopter attack, ruthlessly eliminating their own operatives and destroying most of the shipment before it can be confiscated. In the process, Ming Xuan's partner is killed, and the young agent is brought to the unwelcome attention of the leader of the smuggling operation.",
+        "popularity": 7.179,
+        "poster_path": "/wRMl0l6WnLwnI2uydlMVoRCmvS7.jpg",
+        "release_date": "1967-06-22",
+        "title": "Asia-Pol",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 606931,
+        "original_language": "en",
+        "original_title": "The Turnaround",
+        "overview": "Private investigator Nick Sharman accepts a case which at first seems intriguing, but ends up causing him bitter regret.",
+        "popularity": 7.178,
+        "poster_path": "/5RTALfgx88jG2fdtgIy4Rp367So.jpg",
+        "release_date": "1995-04-05",
+        "title": "The Turnaround",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 401788,
+        "original_language": "cn",
+        "original_title": "赌豪",
+        "overview": "Ray has been running a money-laundering operation through his casino. But when Ray's wife and Uncle Tong pull a power play to try and sell the operation, a lot of very powerful people start to get upset...",
+        "popularity": 7.178,
+        "poster_path": "/pSSJjjC7NsD2cLimxrxEMiiyEJq.jpg",
+        "release_date": "1991-10-24",
+        "title": "The Fatal Game",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A1w44ss0ONMwTMbCvr5kUzbpwMA.jpg",
+        "genre_ids": [
+            53,
+            80,
+            99
+        ],
+        "id": 318973,
+        "original_language": "en",
+        "original_title": "Welcome to Leith",
+        "overview": "In September 2012, the tiny prairie town of Leith, North Dakota, sees its population of 24 grow by one. As the new resident's behavior becomes more threatening, tensions soar, and the residents desperately look for ways to expel their unwanted neighbor.",
+        "popularity": 7.178,
+        "poster_path": "/f9ovXeSRnOSxCh4jMIhkzg9jKSz.jpg",
+        "release_date": "2015-09-09",
+        "title": "Welcome to Leith",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zRtIAs3hmXRFkI1QE0hE0DD6hPD.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 84450,
+        "original_language": "en",
+        "original_title": "Buster and Billie",
+        "overview": "Dimwitted but sweet high school girl of easy virtue and the most popular boy in the school share an improbable romance.",
+        "popularity": 7.177,
+        "poster_path": "/oklUnizdClWkMWvaq6UBtKL9eFG.jpg",
+        "release_date": "1974-08-21",
+        "title": "Buster and Billie",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9hLH3uPD1exqs90TzqaCZoACgmR.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 67650,
+        "original_language": "fr",
+        "original_title": "Train d'Enfer",
+        "overview": "Hell Train is a French film based on a true story. One evening at a ball in a small town, a fight breaks out in an atmosphere tinged with racism. Three of the ringleaders end up at the police station. The next day, November 14, 1983, on the Bordeaux-Ventimiglia train, the three men who were candidates for enlistment in the Foreign Legion beat Habib Grimzi, a 26-year-old Algerian, before throwing him out of a window. A young woman, who witnessed the murder, alerted the police. The investigation begins in a climate of extreme tension. In the city, provocations and attacks are increasing...",
+        "popularity": 7.177,
+        "poster_path": "/rjvtdZxlKsbWgZPw6azytLg2fdJ.jpg",
+        "release_date": "1985-01-09",
+        "title": "Hell Train",
+        "video": false,
+        "vote_average": 5.417,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            80,
+            18
+        ],
+        "id": 353500,
+        "original_language": "en",
+        "original_title": "Essex Boys: Law of Survival",
+        "overview": "Essex has been the central hub for many famous criminal activities. For generations Essex Boys have ruled the streets of Essex and East London in their underworld empires.  Many people thought this ended in a Range Rover in 1995.  They were wrong...  Danny - an ex hooligan is driven back into a life of crime after his world is turned upside down on the streets of Essex.",
+        "popularity": 7.175,
+        "poster_path": "/uNuSqRIfrCsQPQqbY2LSmV5Ey4m.jpg",
+        "release_date": "2015-09-21",
+        "title": "Essex Boys: Law of Survival",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fgXtS6z0Y8IssRFBHnAomajJaMW.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 270857,
+        "original_language": "sv",
+        "original_title": "Mordbrännaren",
+        "overview": "When an arsonist is released from prison, the villagers do not want him anywhere near them. Soon they take matters into their hands and Wallander has to investigate whether their fear is justified.",
+        "popularity": 7.175,
+        "poster_path": "/c7AN3Vg1ma5AQyoKmYs723tKpg4.jpg",
+        "release_date": "2013-09-25",
+        "title": "Wallander 31 - The Arsonist",
+        "video": false,
+        "vote_average": 4.875,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hlzwGIThQWD9x1CY0jxPtMut1MM.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10770
+        ],
+        "id": 680495,
+        "original_language": "en",
+        "original_title": "A Killer in My Home",
+        "overview": "Allison Winters' world falls apart when her husband dies of a sudden heart attack, announcing on his death bed that he has a secret family. Six months later such family arrive on Allison's doorstep, determined to be a part of her life.",
+        "popularity": 7.174,
+        "poster_path": "/2laVEwzkImIRh0eE2LihCxZIf5q.jpg",
+        "release_date": "2020-02-28",
+        "title": "A Killer in My Home",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            28,
+            10770
+        ],
+        "id": 411994,
+        "original_language": "en",
+        "original_title": "To Kill a Cop",
+        "overview": "Earl Eischied is a man with his hands full. As the Chief of Detectives in New York City he is trying to break up a group of black militants that are on a crime spree including the killing of a police officer. He is also trying to battle with a mayor and police commissioner that want him out of his job.",
+        "popularity": 7.174,
+        "poster_path": "/dmyTMDOXRzgBAwAmdcJkZEJlhBY.jpg",
+        "release_date": "1978-04-10",
+        "title": "To Kill a Cop",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oCXrK5n08x6ft65K0COcs8u3Tuw.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 74547,
+        "original_language": "en",
+        "original_title": "The Saint In Palm Springs",
+        "overview": "George Sanders makes his final appearance as crook-turned-detective Simon Templar, a.k.a. \"The Saint,\" in The Saint in Palm Springs. The gimmick in this one is a set of rare stamps, smuggled from England. Wendy Barrie is the true heir to this treasure, and the Saint is engaged to protect her and the stamps. Our hero meets Barrie in a posh Palm Springs resort, where a gang of homicidal thieves have converged to relieve the girl of her inheritance. Three murders and one kidnapping attempt later, the villains are foiled by the Saint, with the aid of his onetime partner in crime Pearly Gates (Paul Guilfoyle). The Saint in Palm Springs is the sixth in RKO's series of films based on the character created by Leslie Charteris.",
+        "popularity": 7.174,
+        "poster_path": "/tKGqbKpvCeqw2LyxPhI30lINrUs.jpg",
+        "release_date": "1941-01-24",
+        "title": "The Saint In Palm Springs",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 9
+    }
+]

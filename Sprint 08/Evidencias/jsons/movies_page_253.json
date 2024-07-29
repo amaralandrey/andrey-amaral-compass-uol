@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/s1oVv0xXe2DM5SOjEspAA0734Ou.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80,
+            10402,
+            9648
+        ],
+        "id": 166775,
+        "original_language": "en",
+        "original_title": "Die Laughing",
+        "overview": "A San Francisco cab driver find himself in possession of a monkey that is carrying a formula for turning atomic waste into a plutonium bomb. He finds himself framed for a murder and chased…",
+        "popularity": 12.074,
+        "poster_path": "/6AsV9WyI7Ox6sce9cS7IPOCxqbB.jpg",
+        "release_date": "1980-04-01",
+        "title": "Die Laughing",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mqk4GxyxgGWkkm8zyfSQ5yW0OXG.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 43597,
+        "original_language": "en",
+        "original_title": "Lady Killer",
+        "overview": "An ex-gangster tries to resist his old cohorts' criminal activities after he accidentally becomes a movie star.",
+        "popularity": 12.074,
+        "poster_path": "/xmXopDZNpyOHAixxmZSJCk4W9u4.jpg",
+        "release_date": "1933-12-09",
+        "title": "Lady Killer",
+        "video": false,
+        "vote_average": 6.704,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2F4OMk5iDE7ZBySFyeaYQArvVGY.jpg",
+        "genre_ids": [
+            80,
+            28,
+            10749
+        ],
+        "id": 124352,
+        "original_language": "fr",
+        "original_title": "Le Choc",
+        "overview": "Martin Terrier wants to quit his job as a hired hitman, but his organized crime employers are unwilling to see him turned out to pasture, Terrier knows too much, and he is still useful to the organization. He escapes to the countryside where he meets Claire, and the two soon fall in love. Back in Paris to confront his employers, Terrier learns that they've stolen all his money from the bank. They give him an ultimatum—do one last job for them and he gets his money and his freedom...",
+        "popularity": 12.071,
+        "poster_path": "/tXSPRvXNK48THuuJzj8cfZXec41.jpg",
+        "release_date": "1982-04-28",
+        "title": "Le Choc",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wm1qEuj0LCYWNY9GmqorepH78Ax.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 119482,
+        "original_language": "en",
+        "original_title": "The Poppy Is Also a Flower",
+        "overview": "A special United Nations bureau organises a campaign to trace a drug-smuggling ring across Europe to its source on the Afghanistan-Iran border.",
+        "popularity": 12.07,
+        "poster_path": "/4aDHa2LQxyydsXXyIdyK5df0jXk.jpg",
+        "release_date": "1966-05-20",
+        "title": "The Poppy Is Also a Flower",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lD6lYulY6js9EAgUufh2ekNnCR4.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 275269,
+        "original_language": "hi",
+        "original_title": "वज़ीर",
+        "overview": "'Wazir' is a tale of two unlikely friends, a wheelchair-bound chess grandmaster and a brave ATS officer. Brought together by grief and a strange twist of fate, the two men decide to help each other win the biggest games of their lives. But there's a mysterious, dangerous opponent lurking in the shadows, who is all set to checkmate them.",
+        "popularity": 12.063,
+        "poster_path": "/A5I6rAFG3rLborOF8BCcjs4EBcx.jpg",
+        "release_date": "2016-01-07",
+        "title": "Wazir",
+        "video": false,
+        "vote_average": 6.638,
+        "vote_count": 120
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kSi7LuldmDesHo0DUwusko2BfrF.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 496308,
+        "original_language": "en",
+        "original_title": "Inside Edge",
+        "overview": "For months, Richard Montana has been giving drug lord Mario Gio hell. But it's only when he meets Gio's leggy blonde girlfriend, nightclub singer Lisa, that things get personal. And after Montana and Lisa have been in bed, things get absolutely deadly. Especially because the headstrong beauty has her own plans. Because only she is the key to Gio's next big deal. And Lisa wants the drugs, the dollars and Montana all to herself. And because that's the case, all hell breaks loose and Gio's killers go on the hunt!",
+        "popularity": 12.06,
+        "poster_path": "/vZvSvNh8Lb0x98jhneNqF1os78e.jpg",
+        "release_date": "1993-11-02",
+        "title": "Inside Edge",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w4JhlawmUF1CBVkt4d80lSo5e2K.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 958603,
+        "original_language": "fr",
+        "original_title": "38°5 quai des Orfèvres",
+        "overview": "A serial killer, nicknamed Le Ver(s) Solitaire (The Lone Worm) for the alexandrines left at the crime scenes, is spreading terror. Under the orders of a commissioner, Clarisse Sterling, a rookie in the crime squad, can only rely on her instinct, 200g of chouquettes and the virtues of a well-placed pineapple to solve this investigation and save her skin.",
+        "popularity": 12.058,
+        "poster_path": "/jT9fgbPEvR88B77cP2bOXuBSIBD.jpg",
+        "release_date": "2023-06-21",
+        "title": "38°5 quai des Orfèvres",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kEVgBJeLlZliarKURLadgBKL0f6.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 52884,
+        "original_language": "ko",
+        "original_title": "와일드 카드",
+        "overview": "Two detectives investigate a string of horrific murders in Seoul and zero in on a sadistic gang leader who carries an actual ball and chain.",
+        "popularity": 12.053,
+        "poster_path": "/3RENRRP2qVL7wr0w1OSPxU5gY2i.jpg",
+        "release_date": "2003-05-16",
+        "title": "Wild Card",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4OM4JUhUeZjzLR2A8aFjuM066bI.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            18
+        ],
+        "id": 756307,
+        "original_language": "en",
+        "original_title": "Delia's Gone",
+        "overview": "Living with an intellectual disability, Louis is wrongfully accused of the murder of his sister Delia and sentenced to 5 years in prison. Upon release, he is visited by one of the last men to see her alive who implies there is more to her killing than meets the eye. Armed with this new information, Louis embarks on a personal mission to find who is responsible for Delia's mysterious death.",
+        "popularity": 12.046,
+        "poster_path": "/kmiH1ixna3TZXkwrZYbBkZcsQnD.jpg",
+        "release_date": "2022-08-19",
+        "title": "Delia's Gone",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/96RhDoFnZYvDleI9KSbU0TK4Llo.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 59139,
+        "original_language": "it",
+        "original_title": "Il commissario Lo Gatto",
+        "overview": "Police commissioner Lo Gatto is in charge of the local Italian police station within Vatican State. During an investigation, following the murder of a Vatican priest, he decides to question the Pope! For this reason Lo Gatto is sent to a Sicilian remote island Favignana. There is very little for the commissioner to do on the quiet island, so Lo Gatto decides to investigate the vanishing of a tourist which quickly becomes a very complicated affair.",
+        "popularity": 12.046,
+        "poster_path": "/pXMLYvMEvPy9eV8KN5QtT5Y0b52.jpg",
+        "release_date": "1986-12-04",
+        "title": "Il commissario Lo Gatto",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 99
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z3QOFJJjfg7oX0GR2JJNfq7fAaV.jpg",
+        "genre_ids": [
+            28,
+            35,
+            18,
+            80
+        ],
+        "id": 76891,
+        "original_language": "en",
+        "original_title": "Jerry and Tom",
+        "overview": "Tom and Jerry are two hit men, they work by day at a third-rate second-hand car dealership. Tom is a veteran and Jerry is a novice in their business, and their attitude toward their profession differs a lot. It shows when Tom is required to kill his old friend Karl.",
+        "popularity": 12.044,
+        "poster_path": "/7vb4RjMgdzPflqSpdUwwUjdwjTu.jpg",
+        "release_date": "1998-12-04",
+        "title": "Jerry and Tom",
+        "video": false,
+        "vote_average": 6.141,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6Cc3wbs3WG7UhhupIk4PIWFQVLf.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 242963,
+        "original_language": "en",
+        "original_title": "Woman Wanted",
+        "overview": "Just after a jury finds Ann Grey guilty of murder, the car carrying her to prison crashes into another car. Ann escapes and ends up in lawyer Tony Baxter's car. Tony realizes Ann is innocent, so he vows to help her prove it, risking his neck in the process. Tony and Ann are pursued by the police and by Smiley Gordon, a mob boss who engineered Ann's escape thinking that she can lead him to a $250,000 stash.",
+        "popularity": 12.043,
+        "poster_path": "/zeFp3HFBVmHoK8aKH900Q5jyRnY.jpg",
+        "release_date": "1935-08-02",
+        "title": "Woman Wanted",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qDaX2hHX79BlkHNlENGryNi8L5e.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1046688,
+        "original_language": "hi",
+        "original_title": "अपूर्वा",
+        "overview": "In the merciless Chambal ravines, a regular girl must outwit hardcore dacoits to survive one night before any help comes her way.",
+        "popularity": 12.039,
+        "poster_path": "/wpOTqABDilffZJttzW905FRIfNx.jpg",
+        "release_date": "2023-11-15",
+        "title": "Apurva",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1xg2yOw1ZkGeo6zVmHcNp70kdxG.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10770
+        ],
+        "id": 43530,
+        "original_language": "en",
+        "original_title": "Point of Entry",
+        "overview": "A young woman named Katherine Alden becomes the unwanted victim of her new handsome next door neighbor Caleb, after her and her husband and son moves to a new town for a fresh start from a robbery.",
+        "popularity": 12.039,
+        "poster_path": "/1giz7JTg4fscAzvzWbetmfyeDJy.jpg",
+        "release_date": "2007-11-03",
+        "title": "Point of Entry",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dHJa4fnUYWJ1SO8PRNYOvbnsH0e.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 95508,
+        "original_language": "ja",
+        "original_title": "狂熱の季節",
+        "overview": "A juvenile delinquent gets out of the pen and immediately embarks on a rampage of untethered anger, most of it directed at the girlfriend of the journalist who helped send him up.",
+        "popularity": 12.036,
+        "poster_path": "/tVtJ7coIREYpCcusBArOOPLzGtw.jpg",
+        "release_date": "1960-09-03",
+        "title": "The Warped Ones",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/prWk9ccgRdO7kNCVmckwoqhTHXO.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 41782,
+        "original_language": "es",
+        "original_title": "Amantes",
+        "overview": "Set in '50s Spain, a young man leaves the army and looks for a job so he and his fiancée can get married. He rents a room from a widow, and shortly begins a torrid affair with her. The fiancée figures it out and decides to win him back by offering herself to him and taking him to meet her family. Ultimately he has to make a decision. Based on a true story.",
+        "popularity": 12.036,
+        "poster_path": "/rAfa9uCBhepJFMlbGNukVk4amiD.jpg",
+        "release_date": "1991-02-23",
+        "title": "Lovers: A True Story",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ohJIwOVkFzcJmAGgkZgxmMvQsWd.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 38264,
+        "original_language": "cn",
+        "original_title": "火龍對決",
+        "overview": "A police detective must solve a brutal murder to prove his partner's innocence and unearth the truth behind Hong Kong's police force. The investigation brings him to an unlikely collaboration with an inspector from the Narcotics Bureau, whose motives may not be what they seem.",
+        "popularity": 12.03,
+        "poster_path": "/5CV4EEgd5D9DIKDjzAqPE5ktVNg.jpg",
+        "release_date": "2010-04-01",
+        "title": "Fire of Conscience",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 51
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/duh1mdSGoCoQijYe24iGcTAnNYn.jpg",
+        "genre_ids": [
+            10770,
+            9648,
+            80
+        ],
+        "id": 910773,
+        "original_language": "en",
+        "original_title": "Cut, Color, Murder",
+        "overview": "When a beauty pageant creator is found dead, a savvy hairdresser works with a detective and risks everything to clear the names of those she loves.",
+        "popularity": 12.029,
+        "poster_path": "/c9PL2RIpitSRtxG8Evp8gpiH4iz.jpg",
+        "release_date": "2022-02-06",
+        "title": "Cut, Color, Murder",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dw38Se5cFlImSlAqWAkoCU1OFjs.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 513349,
+        "original_language": "ru",
+        "original_title": "Завод",
+        "overview": "When a factory is bound to close, a group of workers decides to take action against the owner.",
+        "popularity": 12.029,
+        "poster_path": "/xWUPJmVA93U8QpzaUIqcR2iCeyG.jpg",
+        "release_date": "2018-09-07",
+        "title": "The Factory",
+        "video": false,
+        "vote_average": 6.285,
+        "vote_count": 79
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mxkW72SjTTELDFRdFMz9mbMfMpq.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 172940,
+        "original_language": "cn",
+        "original_title": "夢醒血未停",
+        "overview": "An expert assassin - trained since childhood to be the perfect killer - loses her memory during a mission in Thailand, and ends up in the care of a wry ex-policewoman and her boxing cohort. The equally lethal sister of the assassin pursues her, uncertain of her intentions and whether to kill her.",
+        "popularity": 12.029,
+        "poster_path": "/4s1LzP0q4kWZSblElmDroIgxnn5.jpg",
+        "release_date": "1991-07-18",
+        "title": "Dreaming the Reality",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 11
+    }
+]

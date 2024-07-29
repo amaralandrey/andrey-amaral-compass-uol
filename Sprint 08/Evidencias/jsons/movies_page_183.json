@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/it6VKdufe7ard8I9VPeABoPj0jO.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 33811,
+        "original_language": "en",
+        "original_title": "Border Incident",
+        "overview": "The story concerns two agents, one Mexican (PJF) and one American, who are tasked to stop the smuggling of Mexican migrant workers across the border to California. The two agents go undercover, one as a poor migrant.",
+        "popularity": 15.557,
+        "poster_path": "/FESTAHTpccVj6npkUv6GJ5d1St.jpg",
+        "release_date": "1949-10-28",
+        "title": "Border Incident",
+        "video": false,
+        "vote_average": 6.919,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mXUs2il6Wubd2HKxxwMNOe3SEzK.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 49095,
+        "original_language": "ko",
+        "original_title": "눈에는 눈 이에는 이",
+        "overview": "The devious brain behind a heist draws a top police detective, on the eve of his retirement, into an elaborate plot of robbery and revenge.",
+        "popularity": 15.555,
+        "poster_path": "/mNCV3ExvB5jD8ZAmbbkwbblF7gp.jpg",
+        "release_date": "2008-07-31",
+        "title": "Eye For An Eye",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/op8VP5bKaRSKO7MxDi4BKOuAeKL.jpg",
+        "genre_ids": [
+            80,
+            28,
+            12,
+            53
+        ],
+        "id": 412678,
+        "original_language": "en",
+        "original_title": "Cartels",
+        "overview": "An elite team of DEA agents are assigned to protect a dangerous drug lord and take refuge in a luxury hotel while they await extraction. They soon find themselves at the center of an ambush as the drug lord's former associates launch an explosive assault on the hotel.",
+        "popularity": 15.552,
+        "poster_path": "/2J7jc9VZroyf4rFlyWJ0mIreu2A.jpg",
+        "release_date": "2017-01-23",
+        "title": "Cartels",
+        "video": false,
+        "vote_average": 5.07,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qQ09bjgySfe9SblgTwjgwKnRxyw.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18,
+            10770
+        ],
+        "id": 139667,
+        "original_language": "pl",
+        "original_title": "Blank Slate",
+        "overview": "An amnesiac, sentenced to Death Row for a murder she can't remember committing, is given a second chance at freedom by the FBI: recruited as part of the secret experimental unit of the FBI's unsolved crimes division, she's implanted with the final memories of murder victims. But while she pursues the leads of other peoples' memories, she is haunted by the distant echoes of her own life... a life she can't remember.",
+        "popularity": 15.55,
+        "poster_path": "/6AtYtT0E1FrMAsETa34qI9PupPS.jpg",
+        "release_date": "2008-09-09",
+        "title": "Blank Slate",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vXRDAbxbmPfCl1hDQ4j0prdJLLS.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 51806,
+        "original_language": "en",
+        "original_title": "To Catch a Killer",
+        "overview": "\"To Catch a Killer\" tells the true gruesome story of John Wayne Gacy - a good friend and helpful neighbour, a great child entertainer, a respectful businessman, and a violent serial killer who raped and murdered over 30 young boys.",
+        "popularity": 15.548,
+        "poster_path": "/wjr42PHZPhTnChTxfOdRk1UGqhu.jpg",
+        "release_date": "1992-05-15",
+        "title": "To Catch a Killer",
+        "video": false,
+        "vote_average": 6.726,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wlHZT9WSqvxzjlPEMr70z4ZlxSH.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 48944,
+        "original_language": "cn",
+        "original_title": "勝者為王",
+        "overview": "Triad member Chicken is designated by Taiwan's San Luen Gang to marry Nanako, the daughter of the fifth generation leader of the Yamada Gang in Japan. Later, the leader of the triad group gets murdered. Actually, all the San Luen Gang members suspect Chicken attacked their leader Liu, in order to make a chance for him to rule the Gang and thus have adopted an extremely hostile attitude towards him.",
+        "popularity": 15.547,
+        "poster_path": "/qGUfIJ5qCDJ4YxOYCH09kUgNUNX.jpg",
+        "release_date": "2000-07-21",
+        "title": "Born to Be King",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 116517,
+        "original_language": "en",
+        "original_title": "Cold Front",
+        "overview": "An American cop teams up with a Royal Canadian Mounted Policeman and together they uncover a plot to hide international terrorists in Vancouver.",
+        "popularity": 15.544,
+        "poster_path": "/fDaACkoajwY5NFkUV1Bwm4raOhV.jpg",
+        "release_date": "1990-06-09",
+        "title": "Cold Front",
+        "video": false,
+        "vote_average": 4.667,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vjiCI54lCnFnXfrJiMlkX2DWEYS.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 31006,
+        "original_language": "en",
+        "original_title": "Homicide: The Movie",
+        "overview": "Retired police lieutenant Al Giardello is running for mayor when he is suddenly shot at a press conference. All of the detectives, past and present, clamor for an opportunity to help find the shooter.",
+        "popularity": 15.544,
+        "poster_path": "/rCebfZybj5ymEy7rUPz9nrd2L0P.jpg",
+        "release_date": "2000-02-13",
+        "title": "Homicide: The Movie",
+        "video": false,
+        "vote_average": 6.942,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fCJq8HnsT3NrFNVqcGbbeapTZN.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 24424,
+        "original_language": "he",
+        "original_title": "Ajami",
+        "overview": "Ajami is an area of Tel Aviv in Israel where Arabs, Palestinians, Jews and Christians live together in a tense atmosphere. Omar, an Israeli Arab, struggles to save his family from a gang of extortionists. He also courts a beautiful Christian girl: Hadir. Malek, an illegal Palestinian worker, tries to collect enough money to pay for his mother's operation. Dando, an Israeli cop, does his utmost to find his missing brother who may have been killed by Palestinians.",
+        "popularity": 15.541,
+        "poster_path": "/wA7rM6zoWqJDT9BG5Vj92WbEJEp.jpg",
+        "release_date": "2009-09-17",
+        "title": "Ajami",
+        "video": false,
+        "vote_average": 7.044,
+        "vote_count": 79
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/beqDgmggIxbgwPIvKdLqx1FNq9l.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 58694,
+        "original_language": "fr",
+        "original_title": "Adieu poulet",
+        "overview": "When political thugs murder an opponent's volunteer and also kill a cop, chief inspector Verjeat believes the politician who hired them is as guilty as the murderous goon. Verjeat's pursuit of the councilman, Lardatte, gets him a warning from his superiors. When he embarrasses Lardatte while disarming a hostage (the dead volunteer's father), Verjeat is told he's being transferred within a week. He speeds up his hunt for the goon and, with Lefévre, one of his young detectives, he engineers a complicated scheme to buy more time before the transfer. How should Verjeat play out his values of honor and duty?",
+        "popularity": 15.536,
+        "poster_path": "/6SCYW55I3fpW0EIqyPWcdg85QuG.jpg",
+        "release_date": "1975-12-10",
+        "title": "The French Detective",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 107
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jGAonbmaDrNlztfZjJqy14MKlaR.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 346558,
+        "original_language": "en",
+        "original_title": "Pocket Listing",
+        "overview": "A satirical thriller about L.A.'s real estate roller coaster. Double crosses, adultery, murder, mistaken identity, and revenge ensues when a mysterious power player and his sultry wife hire a disgraced Los Angeles property broker to discreetly market and sell their Malibu villa.",
+        "popularity": 15.526,
+        "poster_path": "/bnfGQD0ku046ueGDvF5PIkwrd23.jpg",
+        "release_date": "2016-03-23",
+        "title": "Pocket Listing",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ccOieCW1YkgOyBloPyAfJARDY0P.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            10770
+        ],
+        "id": 104593,
+        "original_language": "en",
+        "original_title": "Blue-Eyed Butcher",
+        "overview": "A woman appeared to have a fairy-tale life, but six years into her marriage, the fairytale crumbles when her husband is found buried in the backyard of their home with numerous stab wounds.",
+        "popularity": 15.526,
+        "poster_path": "/sZqc88f6I7lLSEq7uRo8PbikW7G.jpg",
+        "release_date": "2012-03-03",
+        "title": "Blue-Eyed Butcher",
+        "video": false,
+        "vote_average": 5.92,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o4ym626hChKwhnoTG5ecjhmlqjz.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 389425,
+        "original_language": "en",
+        "original_title": "Code of Honor",
+        "overview": "Colonel Robert Sikes is on a mission to rid his city of crime. As a stealthy, one-man assault team, he will take on street gangs, mobsters, and politicians with extreme prejudice until his mission is complete. His former protégé, William Porter, teams up with the local police department to bring his former commander to justice and prevent him from further vigilantism.",
+        "popularity": 15.524,
+        "poster_path": "/zoNvd5DNrQwGjc9lVit7rJMYFQY.jpg",
+        "release_date": "2016-05-06",
+        "title": "Code of Honor",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 76
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wbNm4ShryprgwY9QIlEZU6JIcr1.jpg",
+        "genre_ids": [
+            53,
+            18,
+            9648,
+            80
+        ],
+        "id": 1133923,
+        "original_language": "en",
+        "original_title": "Los iniciados",
+        "overview": "Based on the novels by Colombian writer Mario Mendoza and on the character of detective Frank Molina, the filming of Los Initiados took place in Bogotá. In the saga of Frank Molina, which uses the books Lady Massacre, La melancolia de los feos, El diario del fin del mundo and Akelarre, the story of an alcoholic private investigator who unmasks sinister plots within the underworld of Bogotá is told.",
+        "popularity": 15.523,
+        "poster_path": "/6xcxeh9BBWlEMrbdCssMljb0Yui.jpg",
+        "release_date": "2023-07-06",
+        "title": "The Initiated",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A7RduCn7Ww7UaUEGTQwamsDMuXf.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 74399,
+        "original_language": "fr",
+        "original_title": "Le Scandale",
+        "overview": "A champagne tycoon's partner suspects his partner's gigolo husband of murders he's been framed for.",
+        "popularity": 15.517,
+        "poster_path": "/ib11aRonUFDFd1whBFlfmsxQvPM.jpg",
+        "release_date": "1967-03-31",
+        "title": "The Champagne Murders",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v8Ma34bNkQaZfeocwDYfVvGXhof.jpg",
+        "genre_ids": [
+            28,
+            80,
+            10749
+        ],
+        "id": 70542,
+        "original_language": "cn",
+        "original_title": "江湖龍虎鬥",
+        "overview": "Two blood brothers (Chow Yun Fat and Alan Tang), who have grown up on the streets of Macau, are bound together by a special code of honour. However, this bond ultimately leads them into brutal conflict when they struggle to leave the violent world they live in.",
+        "popularity": 15.51,
+        "poster_path": "/qNjubg0adlqebOxZsCTPHyZKoes.jpg",
+        "release_date": "1987-07-30",
+        "title": "Flaming Brothers",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1144323,
+        "original_language": "en",
+        "original_title": "Sicario: Capos",
+        "overview": "",
+        "popularity": 15.509,
+        "poster_path": "/tmirTJ5Kn9pKwHHtUKj5ZFfdP51.jpg",
+        "release_date": "",
+        "title": "Sicario: Capos",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9e9wVCjcZztlBwTSwe6Uw1PqSXV.jpg",
+        "genre_ids": [
+            18,
+            10770,
+            80,
+            53
+        ],
+        "id": 574152,
+        "original_language": "en",
+        "original_title": "Death of a Cheerleader",
+        "overview": "A remake of the cult classic, inspired by Randall Sullivan’s Rolling Stone article of the same name about the real life murder of a popular, affluent and beautiful Northern California high school cheerleader at the hands of a classmate.",
+        "popularity": 15.503,
+        "poster_path": "/xT03JzZtfAcW0CI0ELnRAPvatJy.jpg",
+        "release_date": "2019-02-02",
+        "title": "Death of a Cheerleader",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gGXpY7kZx34Ulo9Rnand43mqt1D.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53,
+            28,
+            878
+        ],
+        "id": 59352,
+        "original_language": "ja",
+        "original_title": "太陽を盗んだ男",
+        "overview": "A high school science teacher is the butt of all his students' jokes, until their bus is hijacked on a school trip. But something more sinister lurks beneath the surface: he's building an atomic bomb in his apartment.",
+        "popularity": 15.501,
+        "poster_path": "/valqAOUVMlnPchpQheo3aXIUfb5.jpg",
+        "release_date": "1979-10-06",
+        "title": "The Man Who Stole the Sun",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/teoJwthThy12cy2Rel4MCwMRFjm.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 37431,
+        "original_language": "en",
+        "original_title": "No Way Back",
+        "overview": "When FBI Agent Zack Grant's partner is killed during a blown-up operation, he attempts to find the person responsible. Mafioso Frank Serlano believes Zack is responsible for his only son's death in the same operation and kidnaps Zack's son to hold as bait. The action gets wild when airline stewardess Mary is taken hostage to add what seems an another insurmountable problem for Zack. There appears to be no way out.",
+        "popularity": 15.501,
+        "poster_path": "/8QGNDe9EiDiKzBfhOI3tBseoqFG.jpg",
+        "release_date": "1995-05-12",
+        "title": "No Way Back",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 57
+    }
+]

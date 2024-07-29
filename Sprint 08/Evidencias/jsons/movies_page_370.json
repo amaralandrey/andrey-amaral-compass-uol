@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1137179,
+        "original_language": "ko",
+        "original_title": "야당",
+        "overview": "Drug-criminals take advantage of commutation by passing over the insider’s information bought from ‘Ya-Dang’. Cops and prosecutors, on the other hand, make performances by using the information. There is a triangle in Korean drug-crime scene: police, prosecutors and the game changer, ‘Ya-Dang’.",
+        "popularity": 8.837,
+        "poster_path": "/2RsVwKwVaUI5u4MV7lHsSBOptDJ.jpg",
+        "release_date": "",
+        "title": "Yadang: The Snitch",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yKhjHugjHoj87TAdWXTtRxlQApW.jpg",
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 750109,
+        "original_language": "en",
+        "original_title": "Anonymous Killers",
+        "overview": "Four seasoned killers and one hapless professor are rounded up in one violent swoop and awake in chains to discover they are part of a demented experiment orchestrated by their maniacal, mysterious captor.",
+        "popularity": 8.834,
+        "poster_path": "/mTLwQqWzgUzpbSe25IVioYCH8vn.jpg",
+        "release_date": "2020-10-06",
+        "title": "Anonymous Killers",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fWhLGjHYzcNxMfYRYQZtJKj9IfK.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 429952,
+        "original_language": "sv",
+        "original_title": "Måste gitt",
+        "overview": "Metin is a small time hustler in a Stockholm suburb, filled with big dreams but bogged down by the circular world of street crime. Things change when his secret diary becomes a hot item for a posh book publisher, and Metin must decide if he's really up to the challenge that is leaving his criminal life behind.",
+        "popularity": 8.834,
+        "poster_path": "/79a87UCiSCq2n6e1Y6p533hkD8g.jpg",
+        "release_date": "2017-07-13",
+        "title": "A Hustler's Diary",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xgSThvwKOrhr0q0b0YkgTHWkx4I.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10751,
+            10770
+        ],
+        "id": 107309,
+        "original_language": "en",
+        "original_title": "Catch Me If You Can",
+        "overview": "When a 12 year old boy with an attitude witnesses a mob killing, the job of protecting him falls to a down-on-his luck cop.",
+        "popularity": 8.83,
+        "poster_path": "/olFOmvAqEp6Y3qYBjHFvRvQTWig.jpg",
+        "release_date": "1998-12-11",
+        "title": "Catch Me If You Can",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 1306245,
+        "original_language": "en",
+        "original_title": "King of Newark 2",
+        "overview": "KING OF NEWARK 2 (2018) continues the trials and tribulations of the Malcolm Graves character (Alonzo Herran Jr.) from the feature films Living With No Regrets (2013), and King of Newark (2016). While serving as Mayor, Malcolm is now recovering from an assassination attempt. His personal and professional life now spiral out of control. His son Elijah wants to test his manhood and starts to follow the wrong crowd, but his new found friends have a hidden agenda. At the same time Malcolm's brother Drew tries to start a drug trade that ends up in a bloody mess with local mobsters. In addition, Malcolm's wife Miasha wants out of their loveless marriage. Malcolm is stuck between a rock and a hard place and is now forced to get his hands dirty again on the dark side of the streets. Will he survive this intense go-around or will he be the cause of his family and friends' demise, and maybe his own?",
+        "popularity": 8.829,
+        "poster_path": "/19ds9s57xDqj6wgUWr4qYkusyFm.jpg",
+        "release_date": "2018-04-16",
+        "title": "King of Newark 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/794UuIBhjZvcayhTr5vHG8PtMxD.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 387578,
+        "original_language": "cn",
+        "original_title": "五月櫻唇",
+        "overview": "In a Hong Kong villa, Lyon throws a party celebrating her win at a beauty contest. Come midnight, when her schoolmates Sze-Wan and Nam leave the party to go home, their car suddently breaks down, and six men stop by and kidnap them",
+        "popularity": 8.829,
+        "poster_path": "/w7WwbDOwsggJE9dVdfq3LDGL9GE.jpg",
+        "release_date": "1992-05-28",
+        "title": "Behind The Pink Door",
+        "video": false,
+        "vote_average": 2.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3WycK4HJXBDjUMIzGfqsWvUeMd.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "id": 1088264,
+        "original_language": "ja",
+        "original_title": "スペシャル 古畑任三郎 vs SMAP",
+        "overview": "Furuhata is called in to investigate a murder committed by the well-known Japanese boy band SMAP.",
+        "popularity": 8.828,
+        "poster_path": "/4qi23c3Llr3sHh8Jg04koENgN5v.jpg",
+        "release_date": "1999-01-03",
+        "title": "Furuhata Ninzaburo vs SMAP",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1kRBymFFzfSSsWTyH5dmhfta8UR.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 445262,
+        "original_language": "en",
+        "original_title": "Strip Club Slayer",
+        "overview": "When a strip club goer is killed, the dancers hire a bouncer to protect themselves. As the sexual tension grows between one of the women and the bouncer, the mystery of the dangerous killer unravels.",
+        "popularity": 8.826,
+        "poster_path": "/ataJ3J9bVnvD151T1HikLO1MVpv.jpg",
+        "release_date": "2016-10-07",
+        "title": "Strip Club Slayer",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tbYgLAKzndlWrQetjodcXpH4dbv.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 71841,
+        "original_language": "en",
+        "original_title": "Dangerously Close",
+        "overview": "Rebel without a cause or a clue at an elite but uptight college discovers some of his classmates have formed an even more elite clique more or less hell-bent on ridding the school, and quite possibly American society, of what they deem to be its undesirables because of ethnicity, politics, etc. Our hero recruits a teacher and some other \"less desirable\" classmates to undermine the elitists, and, naturally, things get quite violent.",
+        "popularity": 8.825,
+        "poster_path": "/uno9H8AwYu9kq31MjOKMB8EmBWI.jpg",
+        "release_date": "1986-05-09",
+        "title": "Dangerously Close",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            80,
+            18,
+            9648
+        ],
+        "id": 462438,
+        "original_language": "en",
+        "original_title": "Deadly Appearances",
+        "overview": "Joanne Kilbourn, ex-detective turned university lecturer, is still haunted by the unsolved murder of her politician husband,",
+        "popularity": 8.823,
+        "poster_path": "/mEIEq0ymzgIywksc5SQLbscIyEW.jpg",
+        "release_date": "2000-04-23",
+        "title": "Deadly Appearances",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pd62krC4zwzJywY2kQ2ZNSAox0B.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 201010,
+        "original_language": "it",
+        "original_title": "Cha cha cha",
+        "overview": "An accident involving a 16-years old prompts private eye Corso to an investigation that will unearth a deep web of corruption in today's Rome.",
+        "popularity": 8.822,
+        "poster_path": "/gsl5FMxkjZIK4wu9YbBjvSuSBZD.jpg",
+        "release_date": "2013-06-20",
+        "title": "Cha cha cha",
+        "video": false,
+        "vote_average": 5.724,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jUdhX77q2j3unXQtT5vcxEhyLdA.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 313605,
+        "original_language": "ja",
+        "original_title": "ＴＨＥ　レイプマン３",
+        "overview": "Keisuke is a timid and nerdy high-school teacher by day, and a leather clad rapist \"superhero\" by night. One day, one of Keisuke's students is found dead, and her death is ruled an accident. Keisuke and the girl's mother don't believe her death to be accidental – and upon investigation, Keisuke and Uncle Shotoku unknowingly delve into an underground world of shady cops, scummy drug dealers, corrupt teachers, and a rape-porn ring. Of course, with Rapeman's upstanding moral values, he must do something to avenge the young student's death, bring down the criminals and right wrongs through penetration!",
+        "popularity": 8.821,
+        "poster_path": "/16x8J2a6KcKgsoj4OCEGZPia7uW.jpg",
+        "release_date": "1994-06-03",
+        "title": "Rapeman 3",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tZJkjwgK4fz1Tu6gWEBHsQKD6c.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 233830,
+        "original_language": "hi",
+        "original_title": "इन्सान",
+        "overview": "A grieving policeman and a rickshaw driver are brought together by a dark, tragic secret that will change their lives forever.",
+        "popularity": 8.821,
+        "poster_path": "/fNwCr9gCMPpsOfVDCnJ766sx2I6.jpg",
+        "release_date": "2005-01-14",
+        "title": "Insan",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6WWJKsT5qHyyEBS6jmmHVz4K93J.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 99599,
+        "original_language": "zh",
+        "original_title": "尼羅河女兒",
+        "overview": "Lin Hsiao-yang tries to keep her family together while working as a waitress at Kentucky Fried Chicken and going to night school. With no mother and her father currently working out of town, it is up to Lin Hsiao-yang to take care of her younger siblings, who are slipping into a life of crime.",
+        "popularity": 8.82,
+        "poster_path": "/1yyyOWllCPAHhi7PJnigJYmhTb5.jpg",
+        "release_date": "1987-08-22",
+        "title": "Daughter of the Nile",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xGVLZDHDx6KTn7DEAnKqGhR6i7H.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 125052,
+        "original_language": "en",
+        "original_title": "Hurricane Streets",
+        "overview": "Marcus is a New York City street kid torn between his friends' criminal activities and a girl trying to keep him out of trouble.",
+        "popularity": 8.817,
+        "poster_path": "/kI8WAtPfjiPygfdKcwYJUkMZyh4.jpg",
+        "release_date": "1997-01-21",
+        "title": "Hurricane Streets",
+        "video": false,
+        "vote_average": 5.028,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yeNRWj37GemZDmyVG3SF7UoV8Lz.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            10749
+        ],
+        "id": 47744,
+        "original_language": "en",
+        "original_title": "The Saint Strikes Back",
+        "overview": "Suave private detective Simon \"The Saint\" Templar arrives in San Francisco and meets Val, a woman whose police inspector father killed himself after being accused of corruption and dismissed from the force. Convinced of the man's innocence, Templar takes it upon himself to vindicate the memory of Val's father. To do so he must take on the city's most dangerous criminal gang, while also battling hostile members of the police department.",
+        "popularity": 8.817,
+        "poster_path": "/iu69qjh9jPcOJn6UglqTKCbye2x.jpg",
+        "release_date": "1939-03-08",
+        "title": "The Saint Strikes Back",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/46AmZP1newIGnanw7DSNxPBFXPE.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1233916,
+        "original_language": "en",
+        "original_title": "You Should Have Killed Me",
+        "overview": "You Should Have Killed Me is a story of revenge, sacrifice, and ultimately justice - Or so we hope.",
+        "popularity": 8.816,
+        "poster_path": "/AsMP5cUJ4sRpIXNRz1kedcoKgDE.jpg",
+        "release_date": "2023-04-29",
+        "title": "You Should Have Killed Me",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kYlvkDUlCsffXNb9VIsQNu1K8bO.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 443476,
+        "original_language": "en",
+        "original_title": "Mommy's Secret",
+        "overview": "When a teenage girl discovers her own mother is behind the recent rash of nearby bank robberies, she's determined to help her come clean.",
+        "popularity": 8.816,
+        "poster_path": "/7GqmOEUEmXdqYMuSTpgr0x1MawE.jpg",
+        "release_date": "2016-10-06",
+        "title": "Mommy's Secret",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 597152,
+        "original_language": "ja",
+        "original_title": "明智小五郎対怪人二十面相",
+        "overview": "",
+        "popularity": 8.815,
+        "poster_path": "/jLXSR0gCE7l11imeBcsdP8t6OnF.jpg",
+        "release_date": "2002-08-27",
+        "title": "Kogoro Akechi vs Kaijin Nijyuu Menso",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 430099,
+        "original_language": "en",
+        "original_title": "Criticsized",
+        "overview": "A serial killer taunts police while increasing the body count on live streaming TV.",
+        "popularity": 8.814,
+        "poster_path": "/4HnVWr8N4NEZA4F9nsEze7iMWPD.jpg",
+        "release_date": "2016-12-13",
+        "title": "Criticsized",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 8
+    }
+]

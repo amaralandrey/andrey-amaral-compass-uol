@@ -1,0 +1,407 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/qgF1RAwfSeyZa8WLJAJoAO6AxqQ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36,
+            27
+        ],
+        "id": 234815,
+        "original_language": "es",
+        "original_title": "Las poquianchis",
+        "overview": "During the mid-1970s, in the Mexican state of Guanajuato, authorities discover a clandestine burial ground. The corpses are from murdered prostitutes. The suspects are three sisters known as \"Las Poquianchis\".",
+        "popularity": 12.925,
+        "poster_path": "/5GjUN65VjfqClVDMF0o1mT471U2.jpg",
+        "release_date": "1976-11-17",
+        "title": "Las Poquianchis",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 223898,
+        "original_language": "en",
+        "original_title": "The Naked Truth",
+        "overview": "Two friends, both named Frank, accidentally obtain a suitcase at the airport. It contains incriminating evidence against a mafia boss, who sends his Terminator-like lackie to find them. The Franks hide by impersonating make-up women for a beauty pageant. While in drag, the mafioso falls in love with one of the Franks.",
+        "popularity": 12.925,
+        "poster_path": "/v6fDOlqSMLqwgmXOYiPr65IAr4v.jpg",
+        "release_date": "1992-09-29",
+        "title": "The Naked Truth",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2Ybd1D20MBztggy6NXsF66qyF65.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 33170,
+        "original_language": "ja",
+        "original_title": "ポルノスター",
+        "overview": "A young man decides one day to start killing yakuza. After he kills his first two he gets roped into helping a wannabe gangster and his bumbling underlings to perform a hit. While things work out in the beginning, this young psychopath quickly becomes more trouble than the gang expected. Will they be able to rid themselves of him, or will they be his next victims?",
+        "popularity": 12.925,
+        "poster_path": "/hi2N4u74b6OxI09ewygeIJuNUxY.jpg",
+        "release_date": "1998-10-10",
+        "title": "Pornostar",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ava8AEapPmqFAA5aeLPEgc86SE4.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 963263,
+        "original_language": "zh",
+        "original_title": "检察风云",
+        "overview": "Prosecutors find a shady deal when investigating the death of a wealthy businessman.",
+        "popularity": 12.924,
+        "poster_path": "/ivAqpNJhM8NzTskNxEXIgGFuQAp.jpg",
+        "release_date": "2023-04-29",
+        "title": "The Procurator",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yh1r7N7KEIwgtvxKGroQXzIC5LZ.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            18,
+            9648,
+            53,
+            10770
+        ],
+        "id": 46561,
+        "original_language": "en",
+        "original_title": "Sherlock: Case of Evil",
+        "overview": "Early in his crime-solving career, Sherlock Holmes attempts to prevent Moriarty from cornering the heroin market.",
+        "popularity": 12.923,
+        "poster_path": "/5XHZxoCxdfMWMRrazSBcG9xxsYi.jpg",
+        "release_date": "2002-10-25",
+        "title": "Sherlock: Case of Evil",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kkaEVy8sni5qY2ZGddRTbqrBk9D.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 78146,
+        "original_language": "en",
+        "original_title": "Tough Guys Don't Dance",
+        "overview": "Tim Madden awakens one morning to discover a fresh tattoo on his arm, his car covered in blood, his girlfriend in bed with the town sheriff, and a woman's severed head in his weed stash. Sensing a setup and in desperate need to clear his name, he begins an investigation, with the help of his dying father, that soon begins to expose a web of corruption in the small coastal community of Provincetown.",
+        "popularity": 12.916,
+        "poster_path": "/dXXLAyfFSl7kW1JN2xcIEQz2kla.jpg",
+        "release_date": "1987-09-18",
+        "title": "Tough Guys Don't Dance",
+        "video": false,
+        "vote_average": 4.646,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nqRBQqiC3JuKreDz9saxFRGzNq4.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 72074,
+        "original_language": "cn",
+        "original_title": "殺人犯",
+        "overview": "A Hong Kong-set mystery centered on a detective who has been framed for a series of gruesome murders.",
+        "popularity": 12.913,
+        "poster_path": "/hWXohEViuvWDeBjwPFDNe3S9dmN.jpg",
+        "release_date": "2009-07-09",
+        "title": "Murderer",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k3f4uT3mxovaUYwkPcHaEkSkA8Y.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 279171,
+        "original_language": "en",
+        "original_title": "Outlaw Prophet: Warren Jeffs",
+        "overview": "Cult leader Warren Jeffs rises to power in the polygamist Mormon sect once headed by his late father, but some of his wives fight back to bring him to justice. Based on a true story.",
+        "popularity": 12.903,
+        "poster_path": "/sjtm0pIiSSseipVlJGgQPFspsUE.jpg",
+        "release_date": "2014-06-28",
+        "title": "Outlaw Prophet: Warren Jeffs",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uhTQG1X4dD0ItT4foUvaHvbhKhG.jpg",
+        "genre_ids": [
+            99,
+            80,
+            18
+        ],
+        "id": 701524,
+        "original_language": "es",
+        "original_title": "Una película de policías",
+        "overview": "This documentary walks the line between fact and fiction, delving into corruption in the Mexican police through the experiences of two officers.",
+        "popularity": 12.9,
+        "poster_path": "/hlq6tv7sFAA7LtNu7Rk8Fw6Kfu1.jpg",
+        "release_date": "2021-10-28",
+        "title": "A Cop Movie",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7vxJh0wbeLimDKaVG53BYfrsJil.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 25506,
+        "original_language": "en",
+        "original_title": "Slightly Scarlet",
+        "overview": "Kleptomaniac Dorothy Lyons is paroled from prison into the custody of her sister June, secretary to \"reform\" politician Frank Jansen. Ben Grace, associate of crime boss Sol \"Solly\" Caspar, sees this as a way to smear Jansen's campaign. Seductive Dorothy will do anything to get what she wants, which includes having a good time with Ben-- whom June is now in love with.",
+        "popularity": 12.898,
+        "poster_path": "/zYULWjzDauzpHUSHeX3Hxb8sU85.jpg",
+        "release_date": "1956-02-29",
+        "title": "Slightly Scarlet",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8hdSBUlxUsOVPjsFVHal3XzoD2k.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 452956,
+        "original_language": "en",
+        "original_title": "A Murderous Affair: The Carolyn Warmus Story",
+        "overview": "A married man meets a beautiful woman and they begin an affair.",
+        "popularity": 12.897,
+        "poster_path": "/cLb2g6pnTkANXqr4ZKxdGyKNVEH.jpg",
+        "release_date": "1992-09-13",
+        "title": "A Murderous Affair: The Carolyn Warmus Story",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v8M7dvdhx1Qluq0Dq9dI60VwFSE.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 67568,
+        "original_language": "ja",
+        "original_title": "新仁義なき戦い 組長の首",
+        "overview": "The seventh in the shocking \"Jingi Naki Tatakai\" movie series, which exposes the true lives of the yakuza that is hidden by a mask of \"jingi\". The next stage of this continuing drama is the Kanmon Channel where the Owada and the Kyoei groups are battling for territorial rights and drug smuggling. The Owada sends their man, Tetsu, and his friend Shuji to kill the Kyoei boss. With the promise of fame and riches, Shuji takes the fall and goes to jail for 7 years. But when he's released, he discovers that he and Tetsu have been all but forgotten by the Owada. Feeling betrayed, Shuji takes matters into his own hands and becomes an unsuspecting pawn in an internal conflict and an assassination attempt on the Owada boss. And now angered, Shuji seeks revenge...",
+        "popularity": 12.895,
+        "poster_path": "/41omrFdUKnjELfL3lqoh8HoUxcE.jpg",
+        "release_date": "1975-11-01",
+        "title": "New Battles Without Honor and Humanity 2: Head of the Boss",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1QkjUYjVIaoQmmBne83IrFq8JVo.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 131074,
+        "original_language": "en",
+        "original_title": "Hunted",
+        "overview": "An unexpected bond develops between a fugitive killer and a runaway orphan on an odyssey across England.",
+        "popularity": 12.894,
+        "poster_path": "/2JQ0AcSLVpZrotvQTj5rivxRD1u.jpg",
+        "release_date": "1952-03-17",
+        "title": "Hunted",
+        "video": false,
+        "vote_average": 6.576,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            80,
+            35
+        ],
+        "id": 756397,
+        "original_language": "en",
+        "original_title": "Hitpig",
+        "overview": "Set in a futuristic world, the film follows a grizzled porcine bounty hunter who accepts his next hit: Pickles, a naive, ebullient elephant who has escaped the clutches of an evil trillionaire. Though Hitpig initially sets out to capture the perky pachyderm, the unlikely pair find themselves on an unexpected adventure crisscrossing the globe that brings out the best in both of them. Based on an original idea by Pulitzer Prize-winning author Berkeley Breathed, inspired by his 2008 children's book Pete & Pickles, comes an adventure about learning that sometimes what we want isn’t what we need.",
+        "popularity": 12.893,
+        "poster_path": "/8rLzJ6u1Prjt66wgW9GleHIztG9.jpg",
+        "release_date": "2024-11-01",
+        "title": "Hitpig",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6CNTGiAuw0KQO8Ug9GJEQlVeHT1.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 260328,
+        "original_language": "en",
+        "original_title": "False Arrest",
+        "overview": "A luxury home, a handsome husband and terrific children. But it all comes crashing down when she is accused of being a mastermind behind a brutal triple-homicide and is arrested and handcuffed in front of her own children. A gripping story of passion and betrayal as a woman fights to clear her name and avoid the death penalty for a crime she didn't commit.",
+        "popularity": 12.891,
+        "poster_path": "/yt434QSpCWCHcypWnFPZaeax3Xy.jpg",
+        "release_date": "1991-11-03",
+        "title": "False Arrest",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 689020,
+        "original_language": "cs",
+        "original_title": "Lavina",
+        "overview": "An ambitious and selfish lawyer confesses to the murder of his first wife. Some of the scenes were filmed in the last weeks of the war.",
+        "popularity": 12.883,
+        "poster_path": null,
+        "release_date": "1946-07-05",
+        "title": "The Avalanche",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qa6ovATp32PBmcYjM1O584pM6u.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 138934,
+        "original_language": "hi",
+        "original_title": "Damini",
+        "overview": "The theme revolves around the character Damini who represents truth and innocence. After her marriage in renowned wealthy family, Damini happens to see a cruel act done by her brother-in-law. She wants the victim to get justice, but the family including her husband oppose her, which leads her to leave the house. Soon she is helped by a drunkard, an ex-advocate, who helps her in all respect to reach to her aim and therefore justice",
+        "popularity": 12.883,
+        "poster_path": "/qHLHZG9aVO2zg3q5k5BIjvaEAsZ.jpg",
+        "release_date": "1993-04-30",
+        "title": "Damini",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            27,
+            9648,
+            53,
+            10770
+        ],
+        "id": 139404,
+        "original_language": "en",
+        "original_title": "Hotline",
+        "overview": "A crisis helpline assistant attracts the attention of a serial killer who delights in feeding her cryptic, nursery-rhyme style riddles when planning his next murder!",
+        "popularity": 12.88,
+        "poster_path": "/gTOlaBJ51ev5Kcbq685wLQBLnmG.jpg",
+        "release_date": "1982-10-16",
+        "title": "Hotline",
+        "video": false,
+        "vote_average": 5.375,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z6AmFBgodglNCrFnrohobultGGI.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18,
+            10770
+        ],
+        "id": 465294,
+        "original_language": "en",
+        "original_title": "Garage Sale Mystery: A Case Of Murder",
+        "overview": "Jenn buys an old reel-to-reel recorder at a garage sale only to find that it includes the sound of a man pleading for his life. When the former owner of the recorder, a retired therapist, is found murdered in a patient’s apartment, Jenn’s investigation leads to other patients whose love lives are more entangled than she was first led to believe.",
+        "popularity": 12.879,
+        "poster_path": "/pYkvJ83mMSjD6UeNriRrhVPnHkA.jpg",
+        "release_date": "2017-08-27",
+        "title": "Garage Sale Mystery: A Case Of Murder",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7wWWHHpzW0nzBfiibXsFuIBej8.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 28490,
+        "original_language": "en",
+        "original_title": "I Died a Thousand Times",
+        "overview": "After aging criminal Roy Earle is released from prison he decides to pull one last heist before retiring — by robbing a resort hotel.",
+        "popularity": 12.879,
+        "poster_path": "/5xaY8vWsRyDE38wY7u85Z0Ntby3.jpg",
+        "release_date": "1955-11-09",
+        "title": "I Died a Thousand Times",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 27
+    }
+]

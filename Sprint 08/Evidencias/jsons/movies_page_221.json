@@ -1,0 +1,407 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/iqlcfDcowZhoBDTcsBiRWevhiPr.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 44686,
+        "original_language": "en",
+        "original_title": "Night of the Juggler",
+        "overview": "An ex New York cop is desperate to find his kidnapped daughter.",
+        "popularity": 13.425,
+        "poster_path": "/fv9LeLgbzR08UHjGyfbsEKf5JkO.jpg",
+        "release_date": "1980-06-06",
+        "title": "Night of the Juggler",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mfvGJOp947an8b4cKZyxTL2zxzf.jpg",
+        "genre_ids": [
+            9648,
+            10770,
+            80,
+            18
+        ],
+        "id": 465291,
+        "original_language": "en",
+        "original_title": "Garage Sale Mystery: Murder Most Medieval",
+        "overview": "Jennifer finds the body of a local college history professor hidden in a suit of armor she purchased. After the professor's teaching assistant becomes the next victim, Jennifer finds herself caught in a killer's web of dangerous lies.",
+        "popularity": 13.424,
+        "poster_path": "/4YSmuA1ycwvgMtp6zISZU7jhlj7.jpg",
+        "release_date": "2017-08-20",
+        "title": "Garage Sale Mystery: Murder Most Medieval",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2pDwXaKfWwXyyXSYl3LjMM4SmDJ.jpg",
+        "genre_ids": [
+            27,
+            80,
+            53
+        ],
+        "id": 85204,
+        "original_language": "en",
+        "original_title": "American Nightmare",
+        "overview": "A man investigates the disappearance of his sister with the help of her roommate. He uncovers a trail of prostitution, incest, blackmail...and murder.",
+        "popularity": 13.421,
+        "poster_path": "/pJItn1uHPelzimeuNMfT1nMnXGX.jpg",
+        "release_date": "1983-03-17",
+        "title": "American Nightmare",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/am9UgBlF0LkNUsPXj0D1Y1hQ1j9.jpg",
+        "genre_ids": [
+            80,
+            18,
+            12
+        ],
+        "id": 141824,
+        "original_language": "en",
+        "original_title": "Loophole",
+        "overview": "When architect Stephen Booker loses his partnership, he finds jobs hard to come by, and with money in short supply, he unwittingly becomes involved in a daring scheme to rob one of London's biggest bank vaults.",
+        "popularity": 13.417,
+        "poster_path": "/pqOPDPz0WfvvUDsocHEGSdg8NWh.jpg",
+        "release_date": "1981-06-25",
+        "title": "Loophole",
+        "video": false,
+        "vote_average": 6.048,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eGjHUHxGeSkjQpFhfiqWV57kkMR.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 23189,
+        "original_language": "en",
+        "original_title": "The Undercover Man",
+        "overview": "Frank Warren is a treasury agent assigned to put an end to the activities of a powerful mob crime boss. Frank works undercover, posing as a criminal to seek information, but is frustrated when all he finds are terrified witnesses and corrupt police officers.",
+        "popularity": 13.417,
+        "poster_path": "/5l3CoMK953DUsvEaKPbHoGhJgXH.jpg",
+        "release_date": "1949-03-21",
+        "title": "The Undercover Man",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bfKydQVfDbFAj4T8y979TY3y2K7.jpg",
+        "genre_ids": [
+            28,
+            18,
+            53,
+            80
+        ],
+        "id": 50939,
+        "original_language": "ta",
+        "original_title": "நான் மகான் அல்ல",
+        "overview": "A playful young man leads a very happy life, but everything changes when his father witnesses a heinous crime.",
+        "popularity": 13.414,
+        "poster_path": "/pmQL6cgtC7YDiTaTsb2rvOTitS2.jpg",
+        "release_date": "2010-08-20",
+        "title": "Naan Mahaan Alla",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6IID7OdTW2iAF48w5mvOjUYTni1.jpg",
+        "genre_ids": [
+            18,
+            14,
+            80
+        ],
+        "id": 767254,
+        "original_language": "en",
+        "original_title": "Blaze",
+        "overview": "After a young girl witnesses a violent crime, she summons an imaginary dragon to help process her anger and protect her on her journey into womanhood.",
+        "popularity": 13.41,
+        "poster_path": "/hPrsnuigEuHsFIqCs71Cu78RdMj.jpg",
+        "release_date": "2022-08-25",
+        "title": "Blaze",
+        "video": false,
+        "vote_average": 5.22,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vbzBzaKRnsHy4vPtfoymTe0ZqYL.jpg",
+        "genre_ids": [
+            28,
+            37,
+            35,
+            80
+        ],
+        "id": 9698,
+        "original_language": "en",
+        "original_title": "Straight to Hell",
+        "overview": "A gang of bank robbers with a suitcase full of money go to the desert to hide out. After burying the loot, they find their way to a surreal town full of cowboys who drink an awful lot of coffee.",
+        "popularity": 13.409,
+        "poster_path": "/cd1PEfLULva40ziciII3v6lSR5y.jpg",
+        "release_date": "1987-06-26",
+        "title": "Straight to Hell",
+        "video": false,
+        "vote_average": 5.342,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            10770,
+            80,
+            27,
+            53
+        ],
+        "id": 171292,
+        "original_language": "en",
+        "original_title": "I, Desire",
+        "overview": "A coroner's assistant, who is also a law student, gets involved in a strange case involving his girlfriend's place of employment (a hospital), prostitutes, a defrocked priest, and vampires.",
+        "popularity": 13.408,
+        "poster_path": "/9nLtQt8bffZbP3B6skSSsdHUidR.jpg",
+        "release_date": "1982-11-15",
+        "title": "I, Desire",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sDu1nL4P9hLV79ZkZkj2ZC1wy2N.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80,
+            53
+        ],
+        "id": 208469,
+        "original_language": "ja",
+        "original_title": "XX ダブルエックス 美しき凶器",
+        "overview": "A blind female assassin lives alone in a remote house; her superiors occasionally send her \"clients\" / targets that she shoots right after having sex with them in her completely darkened bedroom.",
+        "popularity": 13.406,
+        "poster_path": "/h9AJqxcJkFNGqDvrMrFuUTOGFUS.jpg",
+        "release_date": "1993-12-22",
+        "title": "XX: Beautiful Weapon",
+        "video": false,
+        "vote_average": 9.3,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/59x9XgBYwyYMtm8WWPmS8xBnJI5.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            9648,
+            10770
+        ],
+        "id": 105460,
+        "original_language": "en",
+        "original_title": "Jane Doe: How to Fire Your Boss",
+        "overview": "Jane Doe sets out to track down a killer who is targeting fellow CSA agents.",
+        "popularity": 13.404,
+        "poster_path": "/l46aGhS2by8wEK3nrqUWJlWo8B2.jpg",
+        "release_date": "2007-05-09",
+        "title": "Jane Doe: How to Fire Your Boss",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yEtb7H15aQUZauTAtG3UNv1QFeV.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1109586,
+        "original_language": "zh",
+        "original_title": "三大队",
+        "overview": "Adapted from documentary literature \" Please tell the director, three brigade task completed. \" The rape and murder suspect died in the interrogation room after being beaten by the crowd. The three brigades in charge of the case were also sent to prison. The other suspect is still at large. After his release from prison, three brigade under the leadership of Captain Old Cheng to track down his whereabouts, and finally assist the police to capture the suspect, chasing the murderer for 12 years.",
+        "popularity": 13.402,
+        "poster_path": "/qIXESA5wfbfNtjfNAE1P2xi3Wn1.jpg",
+        "release_date": "2023-12-15",
+        "title": "Endless Journey",
+        "video": false,
+        "vote_average": 6.955,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wBH2UUKQWAYUZ4QbDPf5ITdenjS.jpg",
+        "genre_ids": [
+            80,
+            53,
+            27
+        ],
+        "id": 969050,
+        "original_language": "cn",
+        "original_title": "命案",
+        "overview": "A fortune teller fails to help a prostitute who is facing a deadly calamity. When he meets a young boss of a tea restaurant, he predicts that his bloodthirsty tendencies will lead him to a prison sentence for murder.",
+        "popularity": 13.397,
+        "poster_path": "/fsXMqVyFqcJb77Ujpat5CjccXqv.jpg",
+        "release_date": "2023-04-20",
+        "title": "Mad Fate",
+        "video": false,
+        "vote_average": 6.727,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/htF6ByWXejgzMoVqqfUY8UwXYxJ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 247999,
+        "original_language": "cn",
+        "original_title": "黑獄斷腸歌之砌生豬肉",
+        "overview": "Tony Leung Chiu Wai heads to prison in Chinese Midnight Express, a harrowing prison drama from director Billy Tang. The setting is 1960s Hong Kong, and righteous reporter On (Tony Leung Chiu Wai) publishes an article exposing corruption in the police force. Unfortunately, he's framed for drug distribution and confesses to the charges when the corrupt cops (led by Ben Ng) threaten his family. Forced to undergo the rigorous hazing rites of all new inmates, On struggles to regain hope and rise above his situation. Meanwhile, On's loyal girlfriend (Pinky Cheung) is terrorized by the cops who put him away, and On faces new challenges, and even finds new allies, while stuck in prison.",
+        "popularity": 13.397,
+        "poster_path": "/hUy9zZUmxLMO7zODzrxgFjgBmOK.jpg",
+        "release_date": "1997-11-15",
+        "title": "Chinese Midnight Express",
+        "video": false,
+        "vote_average": 6.167,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/byldnuAlhqMvij4cVG5d72wuDFZ.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 34667,
+        "original_language": "en",
+        "original_title": "Nightfall",
+        "overview": "An innocent man turns fugitive as he reconstructs events that implicate him for a murder and robbery he did not commit.",
+        "popularity": 13.394,
+        "poster_path": "/y2vp0PhvCRY5jF3EiQWwXZ7Lsh8.jpg",
+        "release_date": "1956-11-09",
+        "title": "Nightfall",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9NqjHh2coM7X4FyqiQo8z5uU56X.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 125269,
+        "original_language": "ja",
+        "original_title": "博奕打ち 総長賭博",
+        "overview": "Tokyo, 1934. The boss of the clan that controls gambling agonizes and some of his followers propose to Nakai to take his place, but he refuses the offer.",
+        "popularity": 13.385,
+        "poster_path": "/hoczwbVY6PDHMC2jWSrJ2iIuoEl.jpg",
+        "release_date": "1968-01-14",
+        "title": "Big Time Gambling Boss",
+        "video": false,
+        "vote_average": 7.154,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ysChlwbKSeTrvqPZhbFYvN28pcy.jpg",
+        "genre_ids": [
+            9648,
+            35,
+            80,
+            18
+        ],
+        "id": 946025,
+        "original_language": "hi",
+        "original_title": "कटहल",
+        "overview": "When two prized jackfruits disappear from a politician's garden, a spirited cop's investigation takes an unexpected turn as she digs for the truth.",
+        "popularity": 13.384,
+        "poster_path": "/yzVMUMN3tkLXdGbLHbOJ6sfXYI.jpg",
+        "release_date": "2023-05-19",
+        "title": "Kathal",
+        "video": false,
+        "vote_average": 5.84,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m0vtbKH8bRrpTtApI16ZxeGKTkm.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 342165,
+        "original_language": "en",
+        "original_title": "Too Late",
+        "overview": "Private investigator Mel Sampson is tasked with tracking down the whereabouts of a missing woman from his own past.",
+        "popularity": 13.382,
+        "poster_path": "/53WlU6YVJ3SVXIvQ5dNbskzqt2n.jpg",
+        "release_date": "2016-03-25",
+        "title": "Too Late",
+        "video": false,
+        "vote_average": 6.922,
+        "vote_count": 83
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1bzwS79uvZo2bk3vVUnGN4dPDq7.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 459957,
+        "original_language": "en",
+        "original_title": "The Marker",
+        "overview": "Noir thriller about a criminal seeking redemption by tracking down the daughter of the woman he killed. Along the way he is haunted by his guilt in the guise of the woman's ghost.",
+        "popularity": 13.381,
+        "poster_path": "/siKkfs0t9MLZ8lqMGTx1FQ4pubp.jpg",
+        "release_date": "2017-06-25",
+        "title": "The Marker",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/senGpze4rXsybeb66kzHU6WFYVw.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            18,
+            27
+        ],
+        "id": 1127560,
+        "original_language": "ja",
+        "original_title": "八つ墓村",
+        "overview": "During the Sengoku period, villagers brutally killed eight samurai, and in the Taisho era, the head of an old family murdered 32 villagers in the Eight-Tomb Village. Terada Tatsuya, who had long been estranged from the Terada family, returns as its successor. However, this return is the beginning of a tragedy. Grandfather, half-brother, monks, nuns... one after another, people related to the family are murdered. Yet, the truth remains elusive. In the midst of this, Tatsuya stumbles into a massive cave system. What he sees there is a wax figure of the head of the Terada family wearing the samurai armor. Meanwhile, Kindaichi, who has uncovered the secret of Tatsuya's birth, finds himself at the same cave. At that very moment, Tatsuya is cornered deep within the cave by villagers who fear the curse.",
+        "popularity": 13.377,
+        "poster_path": "/snRK4JgUzCcglfNehmXniI8nz6T.jpg",
+        "release_date": "2019-10-12",
+        "title": "Yatsuhakamura",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    }
+]

@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/cfN1DbwKLqqdM04oE7USRqyNdJy.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 916723,
+        "original_language": "en",
+        "original_title": "What Remains",
+        "overview": "In a psychiatric hospital, an alleged serial killer, his therapist, and a police detective seek to solve a brutal cold case before their obsessive quest for the truth consumes them all.",
+        "popularity": 18.084,
+        "poster_path": "/7sRXV5sUsSU22WvQOsb3XxKFebC.jpg",
+        "release_date": "2024-06-21",
+        "title": "What Remains",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hQjCwC222uOusRsAqEOoTHY0sBX.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 10889,
+        "original_language": "en",
+        "original_title": "Gloria",
+        "overview": "When a young boy's family is killed by the mob, their tough neighbor Gloria becomes his reluctant guardian. In possession of a book that the gangsters want, the pair go on the run in New York.",
+        "popularity": 22.458,
+        "poster_path": "/mrYZInXp0JEoZYXs0Z108l2jN0C.jpg",
+        "release_date": "1980-10-01",
+        "title": "Gloria",
+        "video": false,
+        "vote_average": 6.824,
+        "vote_count": 210
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3uHa0RPqnPdz9ruouzkNtn9Oo38.jpg",
+        "genre_ids": [
+            28,
+            10749,
+            35,
+            80
+        ],
+        "id": 280690,
+        "original_language": "hi",
+        "original_title": "Kick",
+        "overview": "An adrenaline junkie walks away from a whirlwind romance and embraces a new life as a thief, though he soon finds himself pursued by veteran police officer and engaged in a turf war with a local gangster.",
+        "popularity": 16.462,
+        "poster_path": "/muRGQIGFcHTyHimE2ru6RSjD8D6.jpg",
+        "release_date": "2014-07-25",
+        "title": "Kick",
+        "video": false,
+        "vote_average": 5.685,
+        "vote_count": 146
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7BBE5MrxKFP8CH2MjH0ic16gCyU.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 126318,
+        "original_language": "hi",
+        "original_title": "Miss Lovely",
+        "overview": "A Hindi feature film set in the lower depths of Bombay's \"C\" grade film industry. Miss Lovely follows the devastating story of two brothers who produce sleazy horror films in the mid-1980s.",
+        "popularity": 15.132,
+        "poster_path": "/u2fzSN0JzNNoKj5MevilNkvTevg.jpg",
+        "release_date": "2014-01-17",
+        "title": "Miss Lovely",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jyd9vs7XZRhhiBObO4P7drdWpMI.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            53,
+            80
+        ],
+        "id": 35813,
+        "original_language": "en",
+        "original_title": "The Bat",
+        "overview": "Mystery writer Cornelia Van Gorder has rented a country house called \"The Oaks\", which not long ago was the scene of some murders committed by a strange and violent criminal known as \"The Bat\". Meanwhile, the house's owner, bank president John Fleming, has recently embezzled one million dollars in securities and has hidden the proceeds in the house, but is killed before he can retrieve it.",
+        "popularity": 17.458,
+        "poster_path": "/3OIQMXttT2h3nvvD0RnJlJhqIZC.jpg",
+        "release_date": "1959-08-09",
+        "title": "The Bat",
+        "video": false,
+        "vote_average": 5.884,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mBL8qkSJKjAOdm3r14PtVV1Hf5L.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 25563,
+        "original_language": "en",
+        "original_title": "Marked Woman",
+        "overview": "In the underworld of Manhattan, a woman dares to stand up to one of the city's most powerful gangsters.",
+        "popularity": 20.717,
+        "poster_path": "/rJHNkbEnyjQUl8DXWxk127hNEhD.jpg",
+        "release_date": "1937-04-10",
+        "title": "Marked Woman",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 67
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rdNPQQB7nrhCwBoYv7Uveyh45f9.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 250388,
+        "original_language": "en",
+        "original_title": "Rampage: Capital Punishment",
+        "overview": "A man takes over a TV station and holds a number of hostages as a political platform to awaken humanity, instead of money.",
+        "popularity": 23.71,
+        "poster_path": "/6CFQrSUUss1rnFqSpzLf4tx2TDo.jpg",
+        "release_date": "2014-07-19",
+        "title": "Rampage: Capital Punishment",
+        "video": false,
+        "vote_average": 6.023,
+        "vote_count": 222
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6zfPDvqeZUleXjNaU5iWQwHUtCN.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11382,
+        "original_language": "en",
+        "original_title": "Bullets Over Broadway",
+        "overview": "After young playwright, David Shayne obtains funding for his play from gangster Nick Valenti, Nick's girlfriend Olive miraculously lands the role of a psychiatrist—but not only is she a bimbo who could never pass for a psychiatrist—she's a dreadful actress. David puts up with the leading man who is a compulsive eater, the grand dame who wants her part jazzed up, and Olive's interfering hitman/bodyguard—but, eventually he must decide whether art or life is more important.",
+        "popularity": 24.956,
+        "poster_path": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+        "release_date": "1994-10-14",
+        "title": "Bullets Over Broadway",
+        "video": false,
+        "vote_average": 7.111,
+        "vote_count": 592
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v8VSkHabQytkXr6aAo2gopDFzXG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 324333,
+        "original_language": "en",
+        "original_title": "Wild Horses",
+        "overview": "Texas Ranger Samantha Payne reopens a 15-year-old missing person case, and uncovers evidence that suggests that the boy was likely murdered on a ranch belonging to wealthy family man, Scott Briggs. When Scott’s estranged son unexpectedly returns home during the investigation, Samantha becomes even more convinced that the Briggs family was involved, and will stop at nothing to discover the truth about the boy’s death - even putting her own life in jeopardy.",
+        "popularity": 20.749,
+        "poster_path": "/77iVwo0oBaHRk4sFOBcMCh71xlr.jpg",
+        "release_date": "2015-06-05",
+        "title": "Wild Horses",
+        "video": false,
+        "vote_average": 4.903,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jCasatDgePdeaMDPdPoOW5lf15Y.jpg",
+        "genre_ids": [
+            35,
+            80,
+            12
+        ],
+        "id": 19123,
+        "original_language": "fr",
+        "original_title": "La Chèvre",
+        "overview": "When the boss' unlucky daughter is missing in South America, Campana is sent to watch the boss' most unlucky employee who is sent as a private detective in hopes he can duplicate the daughter's mistakes.",
+        "popularity": 25.955,
+        "poster_path": "/mgLYXSwF9I0kttCpkJE47xIqYln.jpg",
+        "release_date": "1981-12-09",
+        "title": "La Chèvre",
+        "video": false,
+        "vote_average": 7.141,
+        "vote_count": 633
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4xAYXf0seFqQqItJ5qx20w78FlU.jpg",
+        "genre_ids": [
+            18,
+            10770,
+            80,
+            9648
+        ],
+        "id": 361263,
+        "original_language": "en",
+        "original_title": "Jesse Stone: Lost in Paradise",
+        "overview": "Police Chief Jesse Stone now presides over the quiet, seaside village of Paradise, Massachusetts. When the facts don't add up in a brutal Boston-area murder case, Jesse opens an investigation filled with surprises, unlikely suspects and grave danger. Though it's widely believed the murder was committed by an incarcerated serial killer, Jesse suspects another killer is at large and is hell-bent on bringing him to justice.",
+        "popularity": 16.88,
+        "poster_path": "/dlUsMfXqPQN41XBn8hxCbOfSn7x.jpg",
+        "release_date": "2015-10-18",
+        "title": "Jesse Stone: Lost in Paradise",
+        "video": false,
+        "vote_average": 6.551,
+        "vote_count": 89
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rtAW7KxJREyVFtnNSXlviU9Wu7w.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 484889,
+        "original_language": "en",
+        "original_title": "Rise of the Footsoldier 3: The Pat Tate Story",
+        "overview": "Notorious gangster, Pat Tate, rises through the ranks of Essex's criminal underworld. A prequel to the 'Rise of the Footsoldier' franchise.",
+        "popularity": 17.04,
+        "poster_path": "/1LgOIQNpTfWKY3wizRrQ6CvNAXK.jpg",
+        "release_date": "2017-11-03",
+        "title": "Rise of the Footsoldier 3: The Pat Tate Story",
+        "video": false,
+        "vote_average": 6.472,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8kVPLOzuZ1G9EBYxcOrzaHbxCeC.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 1554,
+        "original_language": "en",
+        "original_title": "Down by Law",
+        "overview": "A disc jockey, a pimp and an Italian tourist escape from jail in New Orleans.",
+        "popularity": 23.952,
+        "poster_path": "/4IyxoUQ7BB5kcSd7gASe2dTyWu7.jpg",
+        "release_date": "1986-09-20",
+        "title": "Down by Law",
+        "video": false,
+        "vote_average": 7.364,
+        "vote_count": 712
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5vWEcjru7dUIuTgMbwOVfuGMU60.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 14194,
+        "original_language": "hi",
+        "original_title": "धूम २",
+        "overview": "Jai and Ali return, this time on the trail of an international thief who steals priceless artifacts and has chosen Mumbai as his next target.",
+        "popularity": 19.703,
+        "poster_path": "/3zJLnrP9g9LSMpX5C1wau49gGUv.jpg",
+        "release_date": "2006-11-24",
+        "title": "Dhoom 2",
+        "video": false,
+        "vote_average": 6.551,
+        "vote_count": 236
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cxBooijVS8bUuVVy2l2xyPxh1At.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 13848,
+        "original_language": "en",
+        "original_title": "Stuck",
+        "overview": "A young woman commits a hit-and-run, then finds her fate tied to her victim.",
+        "popularity": 17.701,
+        "poster_path": "/iIN8SWSns5tUSnuHVjI3jEzDg08.jpg",
+        "release_date": "2007-05-21",
+        "title": "Stuck",
+        "video": false,
+        "vote_average": 6.099,
+        "vote_count": 167
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jbK7e5dBlkKgAuj0R1gJg68djUW.jpg",
+        "genre_ids": [
+            80,
+            16,
+            28,
+            14
+        ],
+        "id": 23153,
+        "original_language": "ja",
+        "original_title": "劇場版「空の境界」第三章 痛覚残留",
+        "overview": "July 1998 - After a group of delinquents is found dead in their hangout place with all their limbs twisted and torn off, Aozaki Touko receives a request to find the murderer and asks Shiki for help. The main suspect is Asagami Fujino; a girl who was the boys' plaything until recently, who Shiki believes to be \"one of her kind\".",
+        "popularity": 23.64,
+        "poster_path": "/1Kz4oQ4gZLNkD44i7Jh9ZJQ4chz.jpg",
+        "release_date": "2008-02-09",
+        "title": "The Garden of Sinners: Remaining Sense of Pain",
+        "video": false,
+        "vote_average": 7.046,
+        "vote_count": 98
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gc1Y41h4Pfx9MyBKhTo7rtRC7xs.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80
+        ],
+        "id": 31676,
+        "original_language": "en",
+        "original_title": "Desperate Hours",
+        "overview": "An escaped con, on the run from the law, moves into a married couple's house and takes over their lives.",
+        "popularity": 16.197,
+        "poster_path": "/gtIRVVHRRr4iWN8yJ6tQs0CqWV2.jpg",
+        "release_date": "1990-10-05",
+        "title": "Desperate Hours",
+        "video": false,
+        "vote_average": 5.468,
+        "vote_count": 186
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xeFk9s7vwYuxflTEW6Umelzevkr.jpg",
+        "genre_ids": [
+            28,
+            80,
+            14
+        ],
+        "id": 120143,
+        "original_language": "zh",
+        "original_title": "四大名捕",
+        "overview": "An undercover agent is assigned by his corrupt chief to infiltrate a rival department and sabotage their investigation of counterfeit currency. What he discovers is the counterfeiter's real plan. To overthrow the capital. Not by flooding it with funny money, but with an army of undead.",
+        "popularity": 21.659,
+        "poster_path": "/7FN7JBHUN0aIGls5nxlwDAiQpIi.jpg",
+        "release_date": "2012-07-12",
+        "title": "The Four",
+        "video": false,
+        "vote_average": 6.329,
+        "vote_count": 82
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2cOlrUFv3R9jpHlbDOPctM1xQK7.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            53
+        ],
+        "id": 9843,
+        "original_language": "en",
+        "original_title": "Big Nothing",
+        "overview": "A frustrated, unemployed teacher joins forces with a scammer and his girlfriend in a blackmailing scheme.",
+        "popularity": 23.198,
+        "poster_path": "/nBqD9k5UECzHRwuc0Gt9SgkI1YN.jpg",
+        "release_date": "2006-12-01",
+        "title": "Big Nothing",
+        "video": false,
+        "vote_average": 6.473,
+        "vote_count": 411
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AefgE9AkTfXHPr1vq96vdeyZZVM.jpg",
+        "genre_ids": [
+            80,
+            53,
+            37
+        ],
+        "id": 395817,
+        "original_language": "en",
+        "original_title": "The Thicket",
+        "overview": "An innocent young man, Jack, goes on an epic quest to rescue his sister Lula after she has been kidnapped by the violent killer Cut Throat Bill and her gang. To save her, Jack enlists the help of a crafty bounty hunter named Reginald Jones, a grave-digging alcoholic son of an ex-slave, and a street-smart prostitute. The gang tracks Cut Throat Bill into the deadly no-man’s land known as The Big Thicket — a place where blood and chaos reign.",
+        "popularity": 23.459,
+        "poster_path": "/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg",
+        "release_date": "2024-09-05",
+        "title": "The Thicket",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

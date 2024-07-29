@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/eW4Y2Dyhd2GxoDEOjL7NhMz7nUo.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 601670,
+        "original_language": "my",
+        "original_title": "မီ",
+        "overview": "The story revolves around the life of Mi, a free-spirited young woman in the very conservative 1940's Burmese society, and her many lovers. She drinks. She smokes. She thinks you're a joke.  She's also traumatized, insecure, and very tired in life. She's like a butterfly ... a butterfly pinned to a cardboard. Will she risk tearing her delicate wings to free herself?",
+        "popularity": 7.319,
+        "poster_path": "/eP7v6LIXDSIaLEmHWJ7qgIOaHIa.jpg",
+        "release_date": "2018-09-01",
+        "title": "Mi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eQSvuSMXny6iOOWIEOuDC9VfOzF.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 498292,
+        "original_language": "ja",
+        "original_title": "愛の病",
+        "overview": "Young single mother Emiko (Saori Seto) uses factory worker Shinnosuke (Amane Okayama) for money. They met through an online dating website and Shinnosuke is completely in love with her. Meanwhile, Emiko's ex-husband is demanding money from her.",
+        "popularity": 7.319,
+        "poster_path": "/1fQcft7rNoa95CBvKCKXNwNEDgz.jpg",
+        "release_date": "2018-01-06",
+        "title": "Love Disease",
+        "video": false,
+        "vote_average": 3.667,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cFzqWOrdkv9By1XsNW6Ss4i7P4N.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 205493,
+        "original_language": "cn",
+        "original_title": "猛龍征東",
+        "overview": "\"The Green Hornet\" (a red spandex and cape wearing duo) is called in to assist in rescuing a kidnapped scientist.",
+        "popularity": 7.319,
+        "poster_path": "/jRTz1FFd2bpw6TYXJBNZi0XLdd6.jpg",
+        "release_date": "1975-06-11",
+        "title": "Bruce Lee Against Supermen",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Aqx5DaGT1sh3wqedJkwNbqowYZT.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 110022,
+        "original_language": "ja",
+        "original_title": "女番長 玉突き遊び",
+        "overview": "Released from reform school, the Girl Boss and her girl gang enter into conflict with another girl gang who are allied to the powerful Yakuza Boss.",
+        "popularity": 7.319,
+        "poster_path": "/tQI4uW1To2FDIMMeVG1276Ql3oN.jpg",
+        "release_date": "1974-10-18",
+        "title": "Girl Boss: Crazy Ball Game",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x07KIhF2GQP1kWZvPhOJ9YOmMT.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 296368,
+        "original_language": "en",
+        "original_title": "America's Deadliest Home Video",
+        "overview": "A man videotaping his road trip is taken hostage by three criminals and forced to tape their crime spree, including robberies and murder.",
+        "popularity": 7.318,
+        "poster_path": "/m9ZcBCGg0s9rWfoAZzBr2jzEH2M.jpg",
+        "release_date": "1993-01-01",
+        "title": "America's Deadliest Home Video",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ArsswaBlgDATaEdbPFDKmKSJS6z.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 105078,
+        "original_language": "it",
+        "original_title": "La morte risale a ieri sera",
+        "overview": "A chief police inspector investigates the disappearance of a 25-year-old woman, the daughter of a lonely widower. After she turns up dead, the cops race to find the killers before the grieving father does",
+        "popularity": 7.318,
+        "poster_path": "/aKEZqH5iEb7qHD2bkRsmDRb4VlH.jpg",
+        "release_date": "1970-09-05",
+        "title": "Death Occurred Last Night",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t0myd0WTMcGVVl5Cl97nwohNmAt.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 92943,
+        "original_language": "en",
+        "original_title": "The Curse of Inferno",
+        "overview": "A rather dull minded bank robber suddenly suffers from a change of heart and decides to give the money back. However, he then learns that getting the money back into the bank is much more difficult than taking it out.",
+        "popularity": 7.318,
+        "poster_path": "/6WoKGhTWWUocz9bsho17B13I7yQ.jpg",
+        "release_date": "1996-12-30",
+        "title": "The Curse of Inferno",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eIUthBu0b9CAesjzEqeLFG7g0lL.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 86374,
+        "original_language": "ja",
+        "original_title": "ある殺し屋",
+        "overview": "A former soldier, reduced to working at a restaurant post-war, becomes a contract killer for the yakuza gangs he's in contact with.",
+        "popularity": 7.318,
+        "poster_path": "/pcRmuR0yJeF4KhUJu2x6IyBkIda.jpg",
+        "release_date": "1967-04-29",
+        "title": "A Certain Killer",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eJD6RzWXN4iHeVLOfIPphczQiw9.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 51216,
+        "original_language": "hi",
+        "original_title": "ग़ुलाम",
+        "overview": "Sidharth (Aamir Khan), is a Mumbai 'Tapori' and a boxing champion. His elder brother, Jai (Rajat Kapoor) works with Raunak Singh (Sharad Saxena), who now rules their \"Basti\" through terrorising its people and collecting 'Hafta' from local merchants. Sidharth idolized his father, a freedom fighter, whom he saw falling to his death as a child. This effects Sidharth through his adult life. Sidharth meets a young girl, Alisha (Ranee Mukherjee), who rides with a motorcycle gang and Charlie (Deepak Tijori), the gang leader. Sidharth also meets Hari, whose idealism reminds him of his father. Hari's social work in the community possess a threat to Raunak Singh's evil empire. What happens to Hari changes Sidharth's life forever. How Sidharth breaks Raunak Singh's chains of 'Ghulami' around the community forms the crux of the story. Featuring the superhit song \"Aati Kya Khandala\" sung by Aamir Khan.",
+        "popularity": 7.318,
+        "poster_path": "/b1Nq1gKCp7JhwkCzmb5x9XGkmLu.jpg",
+        "release_date": "1998-06-19",
+        "title": "Ghulam",
+        "video": false,
+        "vote_average": 6.336,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k2H0HqLdp71efqx4nMddRE7l7VX.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1016708,
+        "original_language": "en",
+        "original_title": "Bikini Hackers",
+        "overview": "A group of women hatch a detailed plan to take down the top global financial systems. They will let nothing and no one get in their way.",
+        "popularity": 7.316,
+        "poster_path": "/jE8PHhIVQotajOBPSEpu2UUPPGz.jpg",
+        "release_date": "2023-02-04",
+        "title": "Bikini Hackers",
+        "video": false,
+        "vote_average": 3.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9yQAjzAuy9Hh9qCXQq3ohtiIKbX.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 87884,
+        "original_language": "en",
+        "original_title": "The Teacher",
+        "overview": "18-year-old Sean's first summer after completing high school is much spent with 28-year-old teacher Diane, who's husband is too often motorcycle-racing instead of with her. Wacko Ralph also has \"the hots\" for Diane; and it doesn't help that Sean was with Ralph's younger brother, Lou, when Lou died",
+        "popularity": 7.316,
+        "poster_path": "/nQzUltLrstyub09eCPsnQPkErHc.jpg",
+        "release_date": "1974-05-29",
+        "title": "The Teacher",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8QIpT6HeKPabMiUKkul8pwtKjqT.jpg",
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 988900,
+        "original_language": "zh",
+        "original_title": "失衡凶間之罪與殺",
+        "overview": "Rapunzel: While attending the birthday celebration of the scion of some record company, an ex-hair model who aspires to make a comeback in the entertainment business gets her tresses burnt by a spoiled brat. She walks into a hair salon to salvage her sole pride and joy, only to meet her most macabre end.  Cheshire Cat: A woman whose cat was gruesomely disemboweled in the street has since opened a feline rescue center. When a man who poses as an animal lover alerts her to a potential case of cat torture, she accompanies him to the scene, only to realize that he is the real perpetrator and his next target could be human.  Tooth Fairy: A dental nurse befriends a chef in the street. When he visits her clinic to check on his teeth, he is tortured by the dentist who fancies her. The morning after, the dentist is found murdered in the clinic. All fingers point to the chef who happens to be mentally unstable. Little do the police know that the real culprit is still at large.",
+        "popularity": 7.315,
+        "poster_path": "/1BVxCRPZfJwFKJd9oVjCkFBRewJ.jpg",
+        "release_date": "2023-05-25",
+        "title": "Tales From The Occult: Body and Soul",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mtVA2BWFZZXCUDXxU7alfd6665M.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 872989,
+        "original_language": "pt",
+        "original_title": "Carvão",
+        "overview": "In the Brazilian countryside, a family straining to care for their bedridden patriarch have their lives changed when a shady nurse offers a diabolical deal: put their elder to rest and host an Argentinian drug kingpin who urgently needs a place to hide.",
+        "popularity": 7.314,
+        "poster_path": "/sJY4pANqMX34ybyg4CtoRReThJu.jpg",
+        "release_date": "2022-11-03",
+        "title": "Charcoal",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bxWiaNcO7IOZgv9MSPoQGhLe1Ld.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 182314,
+        "original_language": "cn",
+        "original_title": "龍虎新風雲",
+        "overview": "Award-winning actor Sean Lau Ching Wan goes undercover in the triads in the gritty cop thriller The Most Wanted. Blackie Lau (Sean Lau Ching Wan) was once a rookie cop who volunteered for undercover duty in the triads. After three years, Blackie is nearer to his goal of taking down a vicious armed robbery gang. But when the sting is botched and innocents die, Blackie is suspected of betraying the Royal Hong Kong Police Force, and is subsequently put on their \"most wanted\" list. Now wanted by the very people he serves, Blackie must prove innocence...but can he do it with both the triads and the cops after him?",
+        "popularity": 7.313,
+        "poster_path": "/b7LOVtosfh0pYat56N96DgeQT0Y.jpg",
+        "release_date": "1994-05-12",
+        "title": "The Most Wanted",
+        "video": false,
+        "vote_average": 7.333,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bdlt3usHkB0zFPjfVxTRpb6O1RX.jpg",
+        "genre_ids": [
+            28,
+            12,
+            10770,
+            80
+        ],
+        "id": 27056,
+        "original_language": "en",
+        "original_title": "Dangerous Passion",
+        "overview": "A security man goes to work for a sadistic gangster with an alluring wife.",
+        "popularity": 7.313,
+        "poster_path": "/ngKGbTL3ZsIl9i7a5BOjuluMmA9.jpg",
+        "release_date": "1990-02-28",
+        "title": "Dangerous Passion",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zEqnF4aXOofM183KbuE1dcd6oBM.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 491730,
+        "original_language": "ja",
+        "original_title": "借王",
+        "overview": "In late 90s Osaka, three people from various walks of life meet by chance. They team up to orchestrate a complex financial con targeting crooked businessmen in an attempt to solve their respective financial woes.",
+        "popularity": 7.312,
+        "poster_path": "/wb70N2RVLyNunoenZidYggcdlOv.jpg",
+        "release_date": "1997-10-11",
+        "title": "King of Sha-kin",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tCKkOKPJRceGeZZtkdEI10DhRAJ.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 282469,
+        "original_language": "cn",
+        "original_title": "夜叉",
+        "overview": "Two cops, one young and tough, the other nearing retirement, are after a ruthless vigilante who kidnaps and tortures acquitted criminals.",
+        "popularity": 7.312,
+        "poster_path": "/qH9wWB1xwmQkgH5QjShKvhn5b3.jpg",
+        "release_date": "1999-12-09",
+        "title": "The Masked Prosecutor",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5EWdwgLM7ZzLTiJlNNCOMvnGv7l.jpg",
+        "genre_ids": [
+            18,
+            53,
+            27,
+            9648,
+            80
+        ],
+        "id": 163554,
+        "original_language": "en",
+        "original_title": "A Whisper to a Scream",
+        "overview": "A young girl who was frustrated in her desire to become an actress starts to work for a telephone-sex company. There she meets a fascinating man who has an obsession for music related with crime.",
+        "popularity": 7.312,
+        "poster_path": "/69kr5laGlnsFWt74vvTHBoLx1CY.jpg",
+        "release_date": "1989-01-01",
+        "title": "A Whisper to a Scream",
+        "video": false,
+        "vote_average": 2.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 1068219,
+        "original_language": "en",
+        "original_title": "Girltrash!",
+        "overview": "Set in the Los Angeles' criminal underworld with a dark but over-the-top Miami Vice vibe, 'Girltrash!' follows the story of five ass-kicking girls: tough-as-nails Tyler, her partner Daisy, con-artist LouAnne, and gang-bangers Misty and Colby, who try to get by any way they can, even if it means double-crossing a best friend or former lover. A gang war is brewing. You'll be asked to... pick a side.",
+        "popularity": 7.311,
+        "poster_path": "/pWHmOcArV0Jm896OBFYzbK4k2cJ.jpg",
+        "release_date": "2007-06-13",
+        "title": "Girltrash!",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1113843,
+        "original_language": "de",
+        "original_title": "Monolith",
+        "overview": "Samir is part of a sociable circle of acquaintances. One evening his friend Basil suddenly leaves the group and does not return. Shortly thereafter, Samir's night shift begins, he gets into a taxi, we follow him for 24 hours: It starts with a road trip through Berlin at night, one eye always on the smartphone that shows the way. The next day, while looking for Basil, Samir meets people who make him realize his dwindling existence more and more. When he realizes he can't go it alone, the mysterious Henry shows up and offers him a solution that requires sacrifice.",
+        "popularity": 7.309,
+        "poster_path": "/9BtuG75s4DOrqYEWEA5Uf8hCzvH.jpg",
+        "release_date": "2023-04-15",
+        "title": "Monolith",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    }
+]

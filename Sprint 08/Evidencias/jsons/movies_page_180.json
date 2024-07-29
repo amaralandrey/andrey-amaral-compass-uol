@@ -1,0 +1,402 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/cdnH7gY7B1qehoLOcAiQoLw6kKe.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 179109,
+        "original_language": "fr",
+        "original_title": "Les Salauds",
+        "overview": "Marco returns to Paris after his brother-in-law's suicide, where he targets the man his sister believes caused the tragedy - though he is ill-prepared for her secrets as they quickly muddy the waters.",
+        "popularity": 15.763,
+        "poster_path": "/zSgi7jVGP8jNMhAUpU2v34eaxcS.jpg",
+        "release_date": "2013-08-07",
+        "title": "Bastards",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 91
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yr8bQ7IZISm97WyGEqXakQd041J.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 53426,
+        "original_language": "en",
+        "original_title": "The Evil That Men Do",
+        "overview": "Professional killer Holland is forced out of retirement to break a Central American government's political torture ring when one of his friends, a Latin American journalist, is killed. The murderer, Doctor Clement Molloch, is the master sadist behind the political torture of innocent victims. Posing as a journalist, Holland lures Molloch out of his fortress-like headquarters by using his murdered friend's wife and daughter as bait. When Holland kidnaps Molloch's sister, the doctor is led on a wild chase that takes him to an abandoned opal mine where he finally comes face to face with Holland.",
+        "popularity": 15.762,
+        "poster_path": "/o4fX5nDsSoFGGK82D0k210un2ok.jpg",
+        "release_date": "1984-03-14",
+        "title": "The Evil That Men Do",
+        "video": false,
+        "vote_average": 5.835,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rFypKmytpr7esYsweodJWH34Y35.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 169158,
+        "original_language": "en",
+        "original_title": "Standoff",
+        "overview": "The FBI and Texas police make ready to storm the headquarters of a heavily armed sect of religious fanatics. But the operation goes horribly wrong and a couple of agents seek protection at an abandoned farm. But they are not the only ones there.",
+        "popularity": 15.754,
+        "poster_path": "/5HKyZ4dZq7d2meVJuM6zxZ5Df9o.jpg",
+        "release_date": "1998-01-11",
+        "title": "Standoff",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3WLyIZ2O7it00l8Af7tFCMSOhI9.jpg",
+        "genre_ids": [
+            80,
+            53,
+            35,
+            27
+        ],
+        "id": 461773,
+        "original_language": "en",
+        "original_title": "Lowlife",
+        "overview": "The sordid lives of an addict, an ex-con, and a luchador collide when an organ harvesting caper goes very, very wrong.",
+        "popularity": 15.751,
+        "poster_path": "/5tquk3KoKtVo5D40gZYjlWWr0mt.jpg",
+        "release_date": "2017-07-21",
+        "title": "Lowlife",
+        "video": false,
+        "vote_average": 6.209,
+        "vote_count": 67
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qrnuMKgQKe8s1aHyZMaaz54gV6U.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 250551,
+        "original_language": "hi",
+        "original_title": "गुंडे",
+        "overview": "The lives of Calcutta's most powerful gangsters - Bikram and Bala, changes when Nandita enters it. Then a counter-force takes charge and a thriller unfolds.",
+        "popularity": 15.75,
+        "poster_path": "/70QlykuyOHn2wO0uw2U2TqvZp10.jpg",
+        "release_date": "2014-02-14",
+        "title": "Gunday",
+        "video": false,
+        "vote_average": 5.015,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3aoPeZunMAY30Wuy3uASg0XPKsJ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 55101,
+        "original_language": "en",
+        "original_title": "The Guilty",
+        "overview": "Callum Crane, a lawyer and would-be federal judge, jeopardizes his chances at a judgeship by forcing himself on his secretary. He then worsens the situation by trying to have the woman murdered. Further complicating matters, he assigns the task to a young man who, unbeknownst to Crane, is actually his son, Nathan. Nathan refuses to do the deed, but not before informing several people, one of whom tries to take on the job.",
+        "popularity": 15.742,
+        "poster_path": "/fXhL95BYYfy9uSld68RHsmRfcqU.jpg",
+        "release_date": "2000-06-01",
+        "title": "The Guilty",
+        "video": false,
+        "vote_average": 5.571,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5ec2l5M4i0KnvRVHZWx5wobhm2d.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 14390,
+        "original_language": "en",
+        "original_title": "Double Whammy",
+        "overview": "Ray Pluto has many problems. He is satirized in the tabloids as the \"loser cop.\" His partner is starting to seem suspiciously attracted to him. A pair of screenwriters across the hall keep bugging him for help. The superintendent of his building is stabbed by hoodlums hired by his own rebellious daughter. To top it off, a sexually aggressive chiropractor may just be Ray's undoing.",
+        "popularity": 15.74,
+        "poster_path": "/AvyjEU4VEhAtnOxjC9NaTtiPXlZ.jpg",
+        "release_date": "2001-10-17",
+        "title": "Double Whammy",
+        "video": false,
+        "vote_average": 5.476,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i82iZn1p91dB7EQyQA45TfwJDYg.jpg",
+        "genre_ids": [
+            99,
+            18,
+            80
+        ],
+        "id": 159004,
+        "original_language": "en",
+        "original_title": "Dirty Wars",
+        "overview": "Investigative journalist, Jeremy Scahill is pulled into an unexpected journey as he chases down the hidden truth behind America's expanding covert wars, and examines how the US government has responded to international terrorist threats in ways that seem to go against the established laws of the land.",
+        "popularity": 15.733,
+        "poster_path": "/qR96ukVb0bsBUJpvFuxksZLVBqY.jpg",
+        "release_date": "2013-01-18",
+        "title": "Dirty Wars",
+        "video": false,
+        "vote_average": 7.038,
+        "vote_count": 131
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lf8QEKZ0O7OBQfj4nKMjCvQCH5E.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 92647,
+        "original_language": "sv",
+        "original_title": "Snabba cash II",
+        "overview": "JW is serving hard time in prison and struggling to get back on an honest path. There are glimmers of hope in his life – some venture capitalists are interested in a new piece of trading software he's developed, and while behind bars he's made peace with an old enemy. This all proves to be an illusion. On leave from prison, and back in contact with his former gang, JW learns that once you've walked in the shoes of a criminal there just may be no going back.",
+        "popularity": 15.733,
+        "poster_path": "/kgSE9epmyShnfjAIWzIelW534cg.jpg",
+        "release_date": "2012-08-16",
+        "title": "Easy Money: Hard to Kill",
+        "video": false,
+        "vote_average": 6.384,
+        "vote_count": 108
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/od58TVod2KVZ50Nb1AOb6BfKQSw.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 31017,
+        "original_language": "en",
+        "original_title": "Truth or Consequences, N.M.",
+        "overview": "Raymond Lembecke is a con just out of prison after serving time for selling drugs for his mob boss Tony Vago. (Lembecke was innocent and took the rap for Vago.) Lembecke thinks Vago owes him big time so, when his former boss gets him a measly job in a warehouse, he decides on revenge and plans to steal a million dollars worth of drugs from him.",
+        "popularity": 15.73,
+        "poster_path": "/5SqRSTVbvBrM6s2rPa5U34Hcryu.jpg",
+        "release_date": "1997-05-02",
+        "title": "Truth or Consequences, N.M.",
+        "video": false,
+        "vote_average": 6.059,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j7UOjPzoYRDQlayNLswiNRzmtK9.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 315,
+        "original_language": "en",
+        "original_title": "Faster, Pussycat! Kill! Kill!",
+        "overview": "Three strippers seeking thrills encounter a young couple in the desert. After dispatching the boyfriend, they take the girl hostage and begin scheming on a crippled old man living with his two sons in the desert, reputedly hiding a tidy sum of cash. They become house guests of the old man and try and seduce the sons in an attempt to locate the money, not realizing that the old man has a few sinister intentions of his own.",
+        "popularity": 15.728,
+        "poster_path": "/4mld2L1vWqgqFQmKa7KU4HzLKPi.jpg",
+        "release_date": "1965-08-06",
+        "title": "Faster, Pussycat! Kill! Kill!",
+        "video": false,
+        "vote_average": 6.375,
+        "vote_count": 309
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jIND6Q2Jc6Kfp4fLzgzf5an1C3s.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 812592,
+        "original_language": "pt",
+        "original_title": "Os Salafrários",
+        "overview": "After a botched scam, Clóvis bumps into Lohane, his estranged foster sister. In a bind, they soon realize the only way out is to band together.",
+        "popularity": 15.727,
+        "poster_path": "/gd9PcIgzV3YWa0c7iCECG1TuXX5.jpg",
+        "release_date": "2021-04-28",
+        "title": "Get the Grift",
+        "video": false,
+        "vote_average": 6.46,
+        "vote_count": 101
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bxXfiFoMSk0iEV9MPz5OyV8Exup.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 354220,
+        "original_language": "en",
+        "original_title": "The Girl in the Photographs",
+        "overview": "Small-town store clerk Colleen is eager to escape her tedious existence and annoying boyfriend. Then gruesome photos of murdered women start appearing.",
+        "popularity": 15.726,
+        "poster_path": "/4VrnChblDgQbBFunTMGIyulmhdf.jpg",
+        "release_date": "2015-09-14",
+        "title": "The Girl in the Photographs",
+        "video": false,
+        "vote_average": 4.942,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b0SrLBKt4ZNnqqK9woorhhXyi4p.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648,
+            10749
+        ],
+        "id": 257354,
+        "original_language": "en",
+        "original_title": "Busty Cops: Protect and Serve!",
+        "overview": "The Busty Cops are back, and must prevent Finkel and Billy Viscious from winning an election by any means necessary.",
+        "popularity": 15.721,
+        "poster_path": "/oSBydoUo2FIbUUwPUVrkZnZSRUK.jpg",
+        "release_date": "2009-08-01",
+        "title": "Busty Cops: Protect and Serve!",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/89i65Rst6hO0kbx1GFjqp4F6hH8.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1089223,
+        "original_language": "ko",
+        "original_title": "리볼버",
+        "overview": "Su-young, a police detective who went to prison for someone else, is surprised when a mysterious woman named Yoon-sun arrives to collect her on her day of release. As she discovers that the promised compensation for her time behind bars has vanished, Su-young embarks on a mission to reclaim what rightfully belongs to her.",
+        "popularity": 15.719,
+        "poster_path": "/YYHEmHZw1Ca59vu4CZDzLPTTtV.jpg",
+        "release_date": "2024-08-07",
+        "title": "Revolver",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            80,
+            18,
+            10749,
+            53
+        ],
+        "id": 125266,
+        "original_language": "ja",
+        "original_title": "ガス人間第一号",
+        "overview": "A librarian is subject to a scientific experiment which goes wrong and transforms him into 'The Human Vapour'. He uses his new ability to rob banks to fund the career of his girlfriend, a beautiful dancer. The Human Vapour is ruthless in his quest for money and kills anyone who stands in his way, especially police. He soon becomes Tokyo's most wanted criminal. Can he be stopped before he kills again?",
+        "popularity": 15.71,
+        "poster_path": "/5TIxcoLYguvljsEDVNvF02cPx5.jpg",
+        "release_date": "1960-12-11",
+        "title": "The Human Vapor",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fs4kUYvlXsIw3vJV39nn7RwzL4p.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 143687,
+        "original_language": "ja",
+        "original_title": "夜がまた来る",
+        "overview": "An undercover narcotics officer is killed, and after his funeral some yakuza break into his apartment and rape his wife, Nami, while looking for the drugs they claim he stole from them. Afterwards Nami attempts to commit suicide, but after being rescued by a mysterious yakuza she decides to infiltrate the gang and get revenge.",
+        "popularity": 15.708,
+        "poster_path": "/oe4SBrqTzHTChb1heIxKkqO1GlD.jpg",
+        "release_date": "1994-10-22",
+        "title": "Alone in the Night",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/KTBzxn8mM3czqk8DaJuONtXvE3.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 50765,
+        "original_language": "en",
+        "original_title": "Ticking Clock",
+        "overview": "A reporter stumbles upon the journal of a murderer with plans to butcher specific girls, and he begins to investigates on his own, and finding that every trail leads to a 9-year-old orphan living in a group home.",
+        "popularity": 15.707,
+        "poster_path": "/lQ9F57GAFd9YGmMzjk0tjhKNFWk.jpg",
+        "release_date": "2011-01-04",
+        "title": "Ticking Clock",
+        "video": false,
+        "vote_average": 5.229,
+        "vote_count": 71
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/85T5fkXk5BLQd0JNDdFjpPlW0j2.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            10770,
+            18
+        ],
+        "id": 741755,
+        "original_language": "en",
+        "original_title": "Aurora Teagarden Mysteries: Reunited and It Feels So Deadly",
+        "overview": "Aurora's high school reunion turns deadly when a body is found in the hotel pool. Aurora and her Real Murders Club help investigate which classmate was most likely to kill.",
+        "popularity": 15.706,
+        "poster_path": "/A8H6edBa46aFMkvEY3LJW28Qn1I.jpg",
+        "release_date": "2020-10-18",
+        "title": "Aurora Teagarden Mysteries: Reunited and It Feels So Deadly",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r7oQM0UFy2bWh4hY9Pgm4onqZCa.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 15584,
+        "original_language": "en",
+        "original_title": "Dear Zachary: A Letter to a Son About His Father",
+        "overview": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+        "popularity": 15.7,
+        "poster_path": "/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg",
+        "release_date": "2008-10-31",
+        "title": "Dear Zachary: A Letter to a Son About His Father",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 496
+    }
+]

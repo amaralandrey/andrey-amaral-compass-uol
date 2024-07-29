@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/9Gk3h004bow0jflh09iU4nPig48.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 641,
+        "original_language": "en",
+        "original_title": "Requiem for a Dream",
+        "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+        "popularity": 26.57,
+        "poster_path": "/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+        "release_date": "2000-10-06",
+        "title": "Requiem for a Dream",
+        "video": false,
+        "vote_average": 8.02,
+        "vote_count": 9734
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/44dgugY6wBUFfJdaVOhNfr6E5g3.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 396461,
+        "original_language": "en",
+        "original_title": "Under the Silver Lake",
+        "overview": "Young and disenchanted Sam meets a mysterious and beautiful woman who's swimming in his building's pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.",
+        "popularity": 38.641,
+        "poster_path": "/cJ9aKlEgTLYtpYjNqin06YqJRUl.jpg",
+        "release_date": "2018-06-21",
+        "title": "Under the Silver Lake",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 1340
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yH36l9jTeeY69clGiPgtORQRZnG.jpg",
+        "genre_ids": [
+            80,
+            16,
+            28
+        ],
+        "id": 17922,
+        "original_language": "ja",
+        "original_title": "ゴルゴ13",
+        "overview": "Indestructible to his enemies and irresistible to women, the professional assassin codenamed Golgo 13 is shrouded in mystery and anonymity. If you're on his hit list, you're already dead. Always hired on his reputation alone, Golgo never breaks a contract. Can he survive the combined forces of the FBI, CIA, the Pentagon and the U.S. Army? Has the nameless agent finally met his match against the superhuman powers of the Snake and the twin evils of the psychopathic mercenaries, Gold and Silver?",
+        "popularity": 35.983,
+        "poster_path": "/nOTFmar2FyhDEDFNIMQL97K5Pcg.jpg",
+        "release_date": "1983-05-28",
+        "title": "Golgo 13: The Professional",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5zmeFn1JsTY6Z2wjGGOw4ZFwJIe.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 13127,
+        "original_language": "cn",
+        "original_title": "殺破狼",
+        "overview": "Chan, an articulate senior detective nearing the end of his career, is taking care of the daughter of a witness killed by ruthless crime lord Po. Martial arts expert Ma is set to take over as head of the crime unit, replacing Chan who wants an early retirement.",
+        "popularity": 34.382,
+        "poster_path": "/9Zv5ekjWAKbFhz0VlzQVVcXTWCq.jpg",
+        "release_date": "2005-11-18",
+        "title": "SPL: Kill Zone",
+        "video": false,
+        "vote_average": 6.922,
+        "vote_count": 294
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vZaIAIX5XcXLsF4jRSp5x7wsRzn.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 783110,
+        "original_language": "ko",
+        "original_title": "밀수",
+        "overview": "During the 1970s, in Kunchon, there were women divers who were able to dive without equipment, including two best friends Choon-ja and Jin-sook, Jin-sook's brother and Hammer. They always collected seafood under water for living. But, as fewer factories started to be built near the beach, the women divers started to have trouble with what they were doing for living. Without any choice, the ship crews decided to join the smuggling business in the water to seek a way for their living. But the smuggling business in their village got too big for Jin-sook's family to handle and the peaceful village was gradually broken.",
+        "popularity": 42.763,
+        "poster_path": "/j8Jx4vpBG258jPxd4o0kOLDwTvm.jpg",
+        "release_date": "2023-07-26",
+        "title": "Smugglers",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qf55kqMNxU4RbUcLqk5xZIZrIVy.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 37946,
+        "original_language": "en",
+        "original_title": "Sin",
+        "overview": "Retired cop Eddie Burns gave 15 years and the use of his left arm to the Reno homicide squad. When his wayward sister, Kassie, goes missing Eddie Burns finds himself subjected to a fiendish and ingenious campaign of revenge by the mysterious Charlie Strom. In order to protect his sister, Eddie - disabled, betrayed and alone - journeys into the heart of his own darkness: where he discovers that the reason for his ordeal lies in his own past sins and those of his adversary Charlie Strom.",
+        "popularity": 25.527,
+        "poster_path": "/juNwK0xRUZlQxCU9f5KDgBfFclF.jpg",
+        "release_date": "2003-01-01",
+        "title": "Sin",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wJzz1upLQBbDGCh5oTcgHUmaZYB.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 46691,
+        "original_language": "en",
+        "original_title": "Joe",
+        "overview": "Ad executive Bill Compton confronts and murders his daughter's drug-dealing boyfriend. Wandering into a local bar, Bill encounters a drunken, bigoted factory worker with a bloodlust, Joe Curran. When Bill confesses the murder to Joe, the two strike up an uneasy alliance, leading to a wild adventure.",
+        "popularity": 31.056,
+        "poster_path": "/2x4YCP8uV4cKOS5ZEKt1Cc1h4eF.jpg",
+        "release_date": "1970-07-15",
+        "title": "Joe",
+        "video": false,
+        "vote_average": 6.527,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fDGLPd3bWZHq1PWG9XSHotj82cm.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 9676,
+        "original_language": "en",
+        "original_title": "The Black Dahlia",
+        "overview": "In 1940s Los Angeles, two former boxers-turned-cops must grapple with corruption, narcissism, stag films and family madness as they pursue the killer of an aspiring young actress.",
+        "popularity": 28.378,
+        "poster_path": "/su7yuXqGUHICfoijtcSaxWLE34Y.jpg",
+        "release_date": "2006-09-15",
+        "title": "The Black Dahlia",
+        "video": false,
+        "vote_average": 5.631,
+        "vote_count": 1071
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/brb00GEHqtkDetey1nNSsOEvDq8.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 255157,
+        "original_language": "en",
+        "original_title": "The Forger",
+        "overview": "A former child art prodigy and second generation petty thief arranges to buy his way out of prison to spend time with his ailing son, only to be forced to alter his plans and commit one more job for the man who financed his release.",
+        "popularity": 23.629,
+        "poster_path": "/x6wsmaVgIhtOwbMyIzOyfmZZSqf.jpg",
+        "release_date": "2014-09-10",
+        "title": "The Forger",
+        "video": false,
+        "vote_average": 5.769,
+        "vote_count": 361
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cYE68RGfVDk3u435mKEVb8jD1GT.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 340022,
+        "original_language": "en",
+        "original_title": "Gringo",
+        "overview": "An American businessman with a stake in a pharmaceutical company that's about to go public finds his life is thrown into turmoil by an incident in Mexico.",
+        "popularity": 31.631,
+        "poster_path": "/dxeVPklFwng2IowqRPNI4od6aXv.jpg",
+        "release_date": "2018-03-08",
+        "title": "Gringo",
+        "video": false,
+        "vote_average": 5.882,
+        "vote_count": 717
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fn6lI2tawQgHyctkAJJtQ22v4pW.jpg",
+        "genre_ids": [
+            53,
+            28,
+            35,
+            80
+        ],
+        "id": 1613,
+        "original_language": "en",
+        "original_title": "The 51st State",
+        "overview": "An American master chemist plans to score big on a once in a lifetime drug deal. All does not go as planned and he is soon entangled in a web of deceit.",
+        "popularity": 25.122,
+        "poster_path": "/5MaF1WIt8s9aEGQpYfaKhEOgVjK.jpg",
+        "release_date": "2001-12-07",
+        "title": "The 51st State",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 586
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r4fxp9LqfCyPsnz6LFVzUn7jrVN.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 437109,
+        "original_language": "ko",
+        "original_title": "악녀",
+        "overview": "A young girl is raised as a killer in the Yanbian province of China. She hides her identity and travels to South Korea where she hopes to lead a quiet life but becomes involved with two mysterious men.",
+        "popularity": 38.876,
+        "poster_path": "/5igv2DsGx1JbmwJnq2uKucJpLOS.jpg",
+        "release_date": "2017-06-08",
+        "title": "The Villainess",
+        "video": false,
+        "vote_average": 6.906,
+        "vote_count": 658
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3MyLWv8UMZ7GDJMXzl7z3JZSL2B.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80
+        ],
+        "id": 25539,
+        "original_language": "cn",
+        "original_title": "奇謀妙計五福星",
+        "overview": "Five friends are released from prison and do their best to stay out trouble. While trying to mind their own business (and run their 5-Star Cleaning Service), they are caught up in a war between rival Triad gangs fighting for control of the counterfeit currency market.",
+        "popularity": 38.363,
+        "poster_path": "/ngFYme3fGnwkssHkPXZr3peI6iW.jpg",
+        "release_date": "1983-07-07",
+        "title": "Winners & Sinners",
+        "video": false,
+        "vote_average": 6.869,
+        "vote_count": 164
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wOai2Rem91sX2fIhh1nhNk7wch5.jpg",
+        "genre_ids": [
+            53,
+            28,
+            12,
+            80,
+            18
+        ],
+        "id": 8978,
+        "original_language": "en",
+        "original_title": "Assault on Precinct 13",
+        "overview": "On New Year's Eve, inside a police station that's about to be closed for good, officer Jake Roenick must cobble together a force made up cops and criminals to save themselves from a mob looking to kill mobster Marion Bishop.",
+        "popularity": 28.36,
+        "poster_path": "/oBpsRvMN1ONl8oFHuWt1rasDYFJ.jpg",
+        "release_date": "2005-01-19",
+        "title": "Assault on Precinct 13",
+        "video": false,
+        "vote_average": 6.164,
+        "vote_count": 1053
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5yRU4YM4Vo5jYVZ6FoYlsUOrxU3.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 384737,
+        "original_language": "en",
+        "original_title": "Precious Cargo",
+        "overview": "After a botched heist, Eddie  a murderous crime boss, hunts down the seductive thief Karen who failed him. In order to win back Eddie’s trust, Karen recruits her ex-lover and premier thief Jack to steal a cargo of rare precious gems. But when the job goes down, allegiances are betrayed and lines are crossed as Jack, Karen, and Eddie face off in a fateful showdown.",
+        "popularity": 31.363,
+        "poster_path": "/dOQv2PDBu9bBCZRLeRp6QQYJDr3.jpg",
+        "release_date": "2016-07-15",
+        "title": "Precious Cargo",
+        "video": false,
+        "vote_average": 5.111,
+        "vote_count": 275
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xz5I9tqoSnaauJwNV1zyt17SQTi.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 567733,
+        "original_language": "en",
+        "original_title": "Crypto",
+        "overview": "A young agent is tasked with investigating a tangled web of corruption and fraud in New York.",
+        "popularity": 27.367,
+        "poster_path": "/fzTvnA3buXsjdmjrYRDozKBFF78.jpg",
+        "release_date": "2019-04-12",
+        "title": "Crypto",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 188
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cQUSBypH7uVSLvZYW6yVgorjgHK.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80
+        ],
+        "id": 2122,
+        "original_language": "en",
+        "original_title": "The Whole Ten Yards",
+        "overview": "Jimmy \"The Tulip\" Tudeski now spends his days compulsively cleaning his house and perfecting his culinary skills with his wife, Jill, a purported assassin who has yet to pull off a clean hit. Suddenly, an uninvited and unwelcome connection to their past unexpectedly shows up on Jimmy and Jill's doorstep; it's Oz, and he's begging them to help him rescue his wife, Cynthia.",
+        "popularity": 32.858,
+        "poster_path": "/4fbglyCpPqK1u40fhncLXKAF74A.jpg",
+        "release_date": "2004-04-07",
+        "title": "The Whole Ten Yards",
+        "video": false,
+        "vote_average": 5.734,
+        "vote_count": 927
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zABLkisR5i0HQgpBcyWwQGVk89c.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 471014,
+        "original_language": "en",
+        "original_title": "Wheelman",
+        "overview": "A getaway driver for a bank robbery realizes he has been double crossed and races to find out who betrayed him.",
+        "popularity": 25.609,
+        "poster_path": "/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg",
+        "release_date": "2017-10-20",
+        "title": "Wheelman",
+        "video": false,
+        "vote_average": 6.114,
+        "vote_count": 609
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cwhPnVWXC1B6GBycTqHjMVm6PAp.jpg",
+        "genre_ids": [
+            35,
+            80,
+            12,
+            14
+        ],
+        "id": 1870,
+        "original_language": "fr",
+        "original_title": "Fantômas se déchaîne",
+        "overview": "In the second episode of the trilogy Fantômas kidnaps distinguished scientist professor Marchand with the aim to develop a super weapon that will enable him to menace the world. Fantômas is also planning to abduct a second scientist, professor Lefebvre.",
+        "popularity": 25.603,
+        "poster_path": "/m5fyoLC3CAZbeo1lJnGtbLsC949.jpg",
+        "release_date": "1965-12-08",
+        "title": "Fantomas Unleashed",
+        "video": false,
+        "vote_average": 6.756,
+        "vote_count": 498
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nfSaFuQkLqnCrwf300wM3xIY5sT.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 11657,
+        "original_language": "fr",
+        "original_title": "Le Cercle rouge",
+        "overview": "When French criminal Corey gets released from prison, he resolves to never return. He is quickly pulled back into the underworld, however, after a chance encounter with escaped murderer Vogel. Along with former policeman and current alcoholic Jansen, they plot an intricate jewel heist. All the while, quirky Police Commissioner Mattei, who was the one to lose custody of Vogel, is determined to find him.",
+        "popularity": 27.101,
+        "poster_path": "/w56La43IJnGpLepgqfGCAZsbQPp.jpg",
+        "release_date": "1970-10-19",
+        "title": "Le Cercle Rouge",
+        "video": false,
+        "vote_average": 7.624,
+        "vote_count": 603
+    }
+]

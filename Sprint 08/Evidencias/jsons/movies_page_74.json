@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/oMxI0VCdp26C14rf7rjGZsyKXGJ.jpg",
+        "genre_ids": [
+            80,
+            35,
+            18
+        ],
+        "id": 785527,
+        "original_language": "nl",
+        "original_title": "Forever Rich",
+        "overview": "This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie's hard-earned reputation is damaged.",
+        "popularity": 17.111,
+        "poster_path": "/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg",
+        "release_date": "2021-10-01",
+        "title": "Forever Rich",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4L5bACgIKuVP8IC1tueaSWQHHrz.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 38034,
+        "original_language": "cn",
+        "original_title": "女警察",
+        "overview": "Incriminating evidence against a gang is left in a cab when a gang member dies in it. The gang chases the innocent cab driver, who receives help from the dead gangster's sister - a tough police woman.",
+        "popularity": 27.268,
+        "poster_path": "/1LfkWHskx9ESxdt5NbxzLeEfWBJ.jpg",
+        "release_date": "1973-04-26",
+        "title": "The Heroine",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tUlysdR3Sg4I3i5WCZPKl62SlKu.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            9648,
+            53
+        ],
+        "id": 18476,
+        "original_language": "en",
+        "original_title": "Horsemen",
+        "overview": "A recently widowed detective still grieving over his wife's death discovers a shocking connection between himself and the suspects in a serial killing spree linked to the Four Horsemen of the Apocalypse.",
+        "popularity": 27.228,
+        "poster_path": "/sIVBGmRXsPuI1TES9sKUImMOw2Q.jpg",
+        "release_date": "2009-02-06",
+        "title": "Horsemen",
+        "video": false,
+        "vote_average": 5.885,
+        "vote_count": 533
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pXXhErx4sn30BuOnhNeGJX8mQ7r.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 10279,
+        "original_language": "en",
+        "original_title": "Summer of Sam",
+        "overview": "During the summer of 1977, a killer known as the Son of Sam keeps all of New York City on edge with a series of brutal murders.",
+        "popularity": 27.222,
+        "poster_path": "/yvGGA2CbT6xyFVTZUA9f2ok0q5V.jpg",
+        "release_date": "1999-06-28",
+        "title": "Summer of Sam",
+        "video": false,
+        "vote_average": 6.474,
+        "vote_count": 445
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/axhScggZyi0fOxvVd8pd0zwygub.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 136278,
+        "original_language": "en",
+        "original_title": "Blood",
+        "overview": "Thriller charting the moral collapse of a police family. Two cop brothers, smothered by the shadow of their former police chief father, must investigate a crime they themselves have committed. Feature film adaptation of the 2004 series Conviction.",
+        "popularity": 24.583,
+        "poster_path": "/ZzTFu00nw3t7XD0ZAajuERkDX6.jpg",
+        "release_date": "2012-10-09",
+        "title": "Blood",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 152
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hrchlLkjT0ejyp7tWIprCZxRHm.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 390584,
+        "original_language": "en",
+        "original_title": "King Cobra",
+        "overview": "It's 2006, YouTube is in its infancy, and internet porn is still behind a paywall. Taking the stage name Brent Corrigan, a fresh-faced, wannabe adult video performer is molded into a star by Stephen, a closeted gay porn mogul who runs the skin flick empire Cobra Video from his seemingly ordinary suburban home. But as Brent's rise and demands for more money put him at odds with his boss, he also attracts the attention of a rival producer and his unstable lover who will stop at nothing to squash Cobra Video and steal its number one star.",
+        "popularity": 27.184,
+        "poster_path": "/sEun5y2q3aIrmpIAAhtS9G2JwH0.jpg",
+        "release_date": "2016-10-21",
+        "title": "King Cobra",
+        "video": false,
+        "vote_average": 5.894,
+        "vote_count": 463
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8WneCViPYXAcnJcJ2VZuAPPHQ5p.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            36
+        ],
+        "id": 4169,
+        "original_language": "en",
+        "original_title": "Breach",
+        "overview": "Eric O'Neill, a computer specialist who wants to be made an agent is assigned to clerk for Robert Hanssen, a senior agent with 25 years in the FBI, and to write down everything Hanssen does. O'Neill's told it's an investigation of Hanssen's sexual habits, however Hanssen is really suspected of spying for the Soviet Union and Russia for years and being responsible for the deaths of agents working for the United States.",
+        "popularity": 27.171,
+        "poster_path": "/m2iVkJPxDrrink7NiE412nFBMQj.jpg",
+        "release_date": "2007-02-12",
+        "title": "Breach",
+        "video": false,
+        "vote_average": 6.627,
+        "vote_count": 564
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eOezHJhtwK0sFaOKmTI2IvC8cNn.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 26690,
+        "original_language": "en",
+        "original_title": "The Boston Strangler",
+        "overview": "Boston is being terrorized by a series of seemingly random murders of women. Based on the true story, the film follows the investigators path through several leads before introducing the Strangler as a character. It is seen almost exclusively from the point of view of the investigators who have very few clues to build a case upon.",
+        "popularity": 27.156,
+        "poster_path": "/hIVMUQf80zT4PyTMmXA1LXUzmBF.jpg",
+        "release_date": "1968-10-08",
+        "title": "The Boston Strangler",
+        "video": false,
+        "vote_average": 6.756,
+        "vote_count": 212
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g9HtCtdLpYv7C20MMirEbpE628v.jpg",
+        "genre_ids": [
+            16,
+            28,
+            80
+        ],
+        "id": 862491,
+        "original_language": "en",
+        "original_title": "Catwoman: Hunted",
+        "overview": "Catwoman's attempt to steal a priceless jewel puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol, not to mention Batwoman.",
+        "popularity": 27.147,
+        "poster_path": "/iu01cvxs3eLQzra3YNF1pbpXIZa.jpg",
+        "release_date": "2022-02-07",
+        "title": "Catwoman: Hunted",
+        "video": false,
+        "vote_average": 5.67,
+        "vote_count": 99
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mkVtcSuN2cmdpl9jjMJXZNxI8Id.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 693827,
+        "original_language": "en",
+        "original_title": "Lansky",
+        "overview": "When the aging Meyer Lansky is investigated one last time by the Feds who suspect he has stashed away millions of dollars over half a century, the retired gangster spins a dizzying tale, revealing the untold truth about his life as the notorious boss of Murder Inc. and the National Crime Syndicate.",
+        "popularity": 22.338,
+        "poster_path": "/weNMzi7WXuzoml2Wvm1VMEE7Ipq.jpg",
+        "release_date": "2021-06-24",
+        "title": "Lansky",
+        "video": false,
+        "vote_average": 6.067,
+        "vote_count": 134
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a2XwXTrhLLLmdJpNFfsJWhEvUIM.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 261903,
+        "original_language": "en",
+        "original_title": "Real Gangsters",
+        "overview": "Real Gangsters tells the story of the Lo Giacamo family, one of the most successful crime syndicates in New York City. Run by cousins Vincent Lo Giacamo and Jack Lo Giacamo, Real Gangsters shows how these two men maintain control of their dangerous extended family and volatile business ventures by very different means.",
+        "popularity": 27.131,
+        "poster_path": "/b8zenFep4WpmYGUZYfwC1IWMMBh.jpg",
+        "release_date": "2013-06-01",
+        "title": "Real Gangsters",
+        "video": false,
+        "vote_average": 2.8,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iVytJHJmbAQ5wnPCbYYAt4xZqR6.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1024627,
+        "original_language": "en",
+        "original_title": "The System",
+        "overview": "When a young soldier, newly returned from war, gets caught up in a drug bust, he is recruited by the authorities to go undercover in a notoriously dangerous prison in order to figure out what is really going on.",
+        "popularity": 27.123,
+        "poster_path": "/uj6BjK7OXSCDhg0AjC2duL34vwQ.jpg",
+        "release_date": "2022-10-28",
+        "title": "The System",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 88
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5AOV7ga7jvkIhmJalE4rmEf833X.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 54054,
+        "original_language": "en",
+        "original_title": "One for the Money",
+        "overview": "An unemployed lingerie buyer convinces her bail bondsman cousin to give her a shot as a bounty hunter. Her first assignment is to track down a former cop on the run for murder – the same man who broke her heart years before. With the help of some friends and the best bounty hunter in the business, she slowly learns what it takes to be a true bounty hunter.",
+        "popularity": 25.32,
+        "poster_path": "/eeltLl5jLUl9d96tpKkCAWu4JWu.jpg",
+        "release_date": "2012-01-26",
+        "title": "One for the Money",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 941
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nfSaFuQkLqnCrwf300wM3xIY5sT.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 11657,
+        "original_language": "fr",
+        "original_title": "Le Cercle rouge",
+        "overview": "When French criminal Corey gets released from prison, he resolves to never return. He is quickly pulled back into the underworld, however, after a chance encounter with escaped murderer Vogel. Along with former policeman and current alcoholic Jansen, they plot an intricate jewel heist. All the while, quirky Police Commissioner Mattei, who was the one to lose custody of Vogel, is determined to find him.",
+        "popularity": 27.101,
+        "poster_path": "/w56La43IJnGpLepgqfGCAZsbQPp.jpg",
+        "release_date": "1970-10-19",
+        "title": "Le Cercle Rouge",
+        "video": false,
+        "vote_average": 7.624,
+        "vote_count": 603
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qGAVUAm6V0zHmICsD8D0O4KS0dD.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 44629,
+        "original_language": "en",
+        "original_title": "Animal Kingdom",
+        "overview": "Joshua “J” is taken in by his extended family after his mother dies of an overdose. The clan, ruled by J’s scheming grandmother, is heavily involved in criminal activities, and J is soon indoctrinated into their way of life. But J is given a chance to take another path when a cop seeks to help him.",
+        "popularity": 24.316,
+        "poster_path": "/zhj8YPQKuRev5N3KoHacsPnF4mB.jpg",
+        "release_date": "2010-06-03",
+        "title": "Animal Kingdom",
+        "video": false,
+        "vote_average": 6.779,
+        "vote_count": 787
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2rYgtckajPftIqpJxzVy7nfnlY0.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 17961,
+        "original_language": "fr",
+        "original_title": "L'Enfer",
+        "overview": "Forced to work extremely hard to keep things afloat, Paul begins hearing voices in his head questioning his past choices. Convinced that his wife has been unfaithful, he begins to see every male guest as a potential threat. What follows is Paul's downward spiral into the madness of deranged jealousy where he finally discovers that hell is not a state of mind – hell is himself.",
+        "popularity": 27.078,
+        "poster_path": "/76ccjXiC0sBBGGD75HCQrmGBgP7.jpg",
+        "release_date": "1994-02-16",
+        "title": "Torment",
+        "video": false,
+        "vote_average": 6.819,
+        "vote_count": 232
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5QVM3Uf1bgTcRyfwFlEKrUxNE6M.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 80389,
+        "original_language": "en",
+        "original_title": "Get the Gringo",
+        "overview": "A career criminal nabbed by Mexican authorities is placed in a tough prison where he learns to survive with the help of a 9-year-old boy.",
+        "popularity": 26.313,
+        "poster_path": "/v43pBEbRILw2CylmaC170kjY2DN.jpg",
+        "release_date": "2012-03-15",
+        "title": "Get the Gringo",
+        "video": false,
+        "vote_average": 6.558,
+        "vote_count": 1592
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qqqnNDiQx62xZsVRZnxhP8GguJf.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            9648
+        ],
+        "id": 68727,
+        "original_language": "en",
+        "original_title": "Trance",
+        "overview": "A violent gang enlists the help of a hypnotherapist in an attempt to locate a painting which somehow vanished in the middle of a heist.",
+        "popularity": 24.562,
+        "poster_path": "/3MVYuyVknNA9yC0Gy6z3zDAiWfX.jpg",
+        "release_date": "2013-03-27",
+        "title": "Trance",
+        "video": false,
+        "vote_average": 6.629,
+        "vote_count": 2138
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lG8T8NMJHfBgxvobVBMy0rFR2OM.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 336845,
+        "original_language": "en",
+        "original_title": "Cleveland Abduction",
+        "overview": "A single mother becomes Ariel Castro's first kidnapping victim, and finds herself trapped in his home with two other women for 11 years.",
+        "popularity": 29.062,
+        "poster_path": "/j2iCc5fjyJvKRQAW7d6XWwDFzmr.jpg",
+        "release_date": "2015-05-02",
+        "title": "Cleveland Abduction",
+        "video": false,
+        "vote_average": 7.214,
+        "vote_count": 353
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2QjZb6YHj5Ueldi5y7E7E5sWDZb.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80,
+            53
+        ],
+        "id": 146223,
+        "original_language": "en",
+        "original_title": "Closed Circuit",
+        "overview": "A high-profile terrorism case unexpectedly binds together two ex-lovers on the defense team - testing the limits of their loyalties and placing their lives in jeopardy.",
+        "popularity": 30.309,
+        "poster_path": "/keW2sLB9yJbdkRy9yHQjqUjmzbB.jpg",
+        "release_date": "2013-08-28",
+        "title": "Closed Circuit",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 439
+    }
+]

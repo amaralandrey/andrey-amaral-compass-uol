@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/wts6E7Ygv6xCQq0uMMLRX4YCrgq.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 27470,
+        "original_language": "en",
+        "original_title": "Skidoo",
+        "overview": "Ex-gangster Tony Banks is called out of retirement by mob kingpin God to carry out a hit on fellow mobster \"Blue Chips\" Packard. When Banks demurs, God kidnaps his daughter Darlene on his luxury yacht.",
+        "popularity": 14.749,
+        "poster_path": "/eFikHvYdVWnAnMoEXjcFSnlCM8j.jpg",
+        "release_date": "1968-12-19",
+        "title": "Skidoo",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/806HiDUHRX8ssVINq3bTmdIRqUz.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 847153,
+        "original_language": "en",
+        "original_title": "Crime Story",
+        "overview": "When ex-mob boss Ben Myers is targeted in a home robbery, he goes on a deadly rampage of vengeance. But with his family caught in the crosshairs, Myers must finally face the consequences of his dark past.",
+        "popularity": 14.747,
+        "poster_path": "/eqshnUtR1FEoNItPNzEfnZ1jCk.jpg",
+        "release_date": "2021-08-13",
+        "title": "Crime Story",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 974453,
+        "original_language": "en",
+        "original_title": "Thug",
+        "overview": "An aging gangster attempts to reconnect with his children and rectify the mistakes in his past, but the criminal underworld won't loosen their grip willingly.",
+        "popularity": 14.746,
+        "poster_path": "/uMgTLzAgDhrp3uXWl7IcNyH1FMc.jpg",
+        "release_date": "2024-10-17",
+        "title": "Thug",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2rzjcHyaq67mFRMCfeZZNBcktIz.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 274669,
+        "original_language": "cn",
+        "original_title": "龍在邊緣",
+        "overview": "Rookie policeman Shing (Louis Koo) grapples with right and wrong in this action-packed story about Hong Kong gangsters. Assigned to go undercover, Shing is so successful in playing the part of a gang member that he becomes right-hand man to gang leader Fei Ling (Andy Lau). Shing comes to respect Fei Ling and question his original motives, but the troubled cop must make a crucial decision before rival gangs and impatient cops move in for the kill.",
+        "popularity": 14.745,
+        "poster_path": "/zMvnxaH7NtWsTTMG1RYwbgBrjUm.jpg",
+        "release_date": "1999-10-15",
+        "title": "Century of the Dragon",
+        "video": false,
+        "vote_average": 6.917,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9OeoEY1bhcDlUZI7YbE1xUIJn8M.jpg",
+        "genre_ids": [
+            10770,
+            12,
+            80,
+            9648,
+            53
+        ],
+        "id": 329303,
+        "original_language": "en",
+        "original_title": "The Sign of Four",
+        "overview": "Mary Morstan has received a pearl in the post every year since her father's disappearance. This leads Holmes and Watson to the truth about a secret pact between four convicts during the Indian Rebellion of 1857.",
+        "popularity": 14.742,
+        "poster_path": "/fKKD7rtmWeX2OFVF0BGXQ7OxkGK.jpg",
+        "release_date": "1987-03-07",
+        "title": "The Sign of Four",
+        "video": false,
+        "vote_average": 7.287,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mTKi9Lf62Rd31F747o3mOPj83T6.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 72340,
+        "original_language": "en",
+        "original_title": "Partners",
+        "overview": "Benson is a police detective. After a series of murders in the Gay community he is ordered to go undercover with a gay police clerk named Kerwin as his partner. In order to be noticed they have to be flamboyant enough to attract attention which Benson finds rather disturbing. Can an uptight heterosexual and a mousey homosexual form a meaningful relationship?",
+        "popularity": 14.739,
+        "poster_path": "/gHVThPfNan8kBdQdw6aSC9cbZu2.jpg",
+        "release_date": "1982-04-30",
+        "title": "Partners",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qZO6NSn7XVjJZvqj6LyXEHusESy.jpg",
+        "genre_ids": [
+            35,
+            80,
+            27
+        ],
+        "id": 39927,
+        "original_language": "en",
+        "original_title": "Freeway II: Confessions of a Trickbaby",
+        "overview": "A twisted teenage prostitute and an equally deranged vicious killer manage to escape from the pen and embark on a non-stop orgy of violence and debauchery, all while hoping to make it across the border into Mexico in order to seek refuge with the mysterious Sister Gomez.",
+        "popularity": 14.738,
+        "poster_path": "/5GDjVq3WhQRc7OlKb6QDQzxKdk7.jpg",
+        "release_date": "2000-05-13",
+        "title": "Freeway II: Confessions of a Trickbaby",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gwksBTz60lVeGWKqDr0n8ij0hfp.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 621753,
+        "original_language": "en",
+        "original_title": "Bikram: Yogi, Guru, Predator",
+        "overview": "The spectacular rise and scandalous fall of hot-yoga evangelist Bikram Choudhury is chronicled through archival footage and extensive insider interviews.",
+        "popularity": 14.718,
+        "poster_path": "/4qzgxaWtAtl19YwHvtQ1E8Kju6P.jpg",
+        "release_date": "2019-09-10",
+        "title": "Bikram: Yogi, Guru, Predator",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 116
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rB1umIOKUH5bM0HT0vTQGihl4Q9.jpg",
+        "genre_ids": [
+            10770,
+            9648,
+            80
+        ],
+        "id": 582624,
+        "original_language": "en",
+        "original_title": "Chronicle Mysteries: The Wrong Man",
+        "overview": "Podcaster Alex McPherson seeks the truth behind the tragic death of a young lawyer, while partner Drew finds himself diving into the shady mishaps of a shipping company. Starring Alison Sweeney and Benjamin Ayres.",
+        "popularity": 14.714,
+        "poster_path": "/o3nIsEoEQHRFdm8KciKIhCIm44B.jpg",
+        "release_date": "2019-02-24",
+        "title": "Chronicle Mysteries: The Wrong Man",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v5QkrqVcnNhngZEj5WDkvXINDpe.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 178175,
+        "original_language": "ja",
+        "original_title": "女猫",
+        "overview": "Dr. Cat Kagami was hoping to leave her torrid past behind, but a failed assassination attempt has now put her square in the crosshairs of a team of brutal killers. Now no one is safe, including her lesbian co-worker and a mysterious woman with a terrible secret that could bring down an entire Japanese company. Cat must take the law into her own hands and enact her own special kind of revenge!",
+        "popularity": 14.712,
+        "poster_path": "/nBp8tgOYzUBxkyPhk9wV0aY1P0z.jpg",
+        "release_date": "1983-12-23",
+        "title": "She Cat",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q3pD0oLk1PF5EFqcAsK2fYagHwj.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 15102,
+        "original_language": "en",
+        "original_title": "Endgame",
+        "overview": "The time is the late '80s, a crucial period in the history of South Africa. President P.W. Botha is hanging on to power by a thread as the African National Congress (ANC) takes up arms against  apartheid and the country tumbles toward insurrection. A British mining concern is convinced that their interests would be better served in a stable South Africa and they quietly dispatch Michael Young, their head of public affairs, to open an unofficial dialogue between the bitter rivals.  Assembling a reluctant yet brilliant team to pave the way to reconciliation by confronting obstacles that initially seem insurmountable, Young places his trust in ANC leader Thabo Mbeki and Afrikaner philosophy professor Willie Esterhuyse. It is their empathy that will ultimately serve as the catalyst for change by proving more powerful than the terrorist bombs that threaten to disrupt the peaceful dialogue.",
+        "popularity": 14.706,
+        "poster_path": "/b8WzwCABwVRVdw14OcE6pmezJjK.jpg",
+        "release_date": "2009-01-18",
+        "title": "Endgame",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6y5MQBMMPvOMw7e5CLUjbRMrTl8.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 270005,
+        "original_language": "en",
+        "original_title": "By the Gun",
+        "overview": "A rising Boston gangster (Ben Barnes) endangers those around him when he starts to make moves without the knowledge of his boss (Harvey Keitel).",
+        "popularity": 14.699,
+        "poster_path": "/k5U1M1frRT1AnP89dYw4eBpoWfE.jpg",
+        "release_date": "2014-09-28",
+        "title": "By the Gun",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y57A6U4lbmSTXHejwFQjD8KDhHk.jpg",
+        "genre_ids": [
+            80,
+            28,
+            35
+        ],
+        "id": 344,
+        "original_language": "de",
+        "original_title": "Bang Boom Bang - Ein todsicheres Ding",
+        "overview": "Bank robber Kalle Grabowski escapes from prison while his unemployed smalltime crook buddy is sitting around doing nothing after he just lost all their money. A fast paced comedy from German director Peter Thorwarth.",
+        "popularity": 14.699,
+        "poster_path": "/c1bkOK9z6s3ZSkFEejUw76eeuwZ.jpg",
+        "release_date": "1999-08-26",
+        "title": "Bang, Boom, Bang",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 198
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iOWXSdxNDCCTrJh2Pyst3SgRsfG.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 851783,
+        "original_language": "hi",
+        "original_title": "विक्रम वेधा",
+        "overview": "Vikram, an honest officer with the Lucknow police, is on a mission to find and eliminate gangster Vedha. However, when Vedha surrenders himself to the police and starts narrating stories to Vikram, it blurs the lines between good and evil. Vedha questions Vikram's righteousness while the latter believes he is fair and just. But is he?",
+        "popularity": 14.697,
+        "poster_path": "/8L4vvIQvO8viLw8wyi2slQmU2sW.jpg",
+        "release_date": "2022-09-30",
+        "title": "Vikram Vedha",
+        "video": false,
+        "vote_average": 6.773,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7ft0ebPBWAuFiVMCk8yBMwynGtO.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1041623,
+        "original_language": "en",
+        "original_title": "Sugar",
+        "overview": "Inspired by the dramatic true story of the Cocaine Cowgirls, Sugar follows two young Canadian women who get caught up in a major drug smuggling operation aboard a luxury cruise ship sailing around the world. With nowhere to run—the walls close in on them.",
+        "popularity": 14.696,
+        "poster_path": "/cT9W7ihLuvv1X2FfR6GRrAfSwhZ.jpg",
+        "release_date": "2022-11-18",
+        "title": "Sugar",
+        "video": false,
+        "vote_average": 5.05,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ddTYdFOVJ2OhbaTOcJ7fBbjwA5X.jpg",
+        "genre_ids": [
+            10770,
+            80
+        ],
+        "id": 24810,
+        "original_language": "en",
+        "original_title": "Nora Roberts' Carolina Moon",
+        "overview": "A woman who has psychic visions returns to her hometown to exorcise her demons. Once there she finds both danger and love.",
+        "popularity": 14.693,
+        "poster_path": "/81ZkfbaFlihJyObWOdYVJFaxNET.jpg",
+        "release_date": "2007-08-01",
+        "title": "Carolina Moon",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iPQiImNso3TjSZSGEjgOMv4VRIf.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 84474,
+        "original_language": "en",
+        "original_title": "Naked Vengeance",
+        "overview": "After witnessing her husband's brutal murder, Carla travels to her parents' home in a small mountain town to start over. When she's repeatedly harassed by redneck locals, Carla seeks help from the town sheriff but is met with indifference. This continues until Carla's finally attacked, raped, and her parents executed by the twisted townies. Carla, after escaping a mental hospital, resolves to get bloody revenge.",
+        "popularity": 14.688,
+        "poster_path": "/svvvIuMOqoHkIkrDi2ifZlVnT4c.jpg",
+        "release_date": "1985-12-20",
+        "title": "Naked Vengeance",
+        "video": false,
+        "vote_average": 5.118,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yLNUdGv4tLdNc4J9DhTPhMX6UcF.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 26103,
+        "original_language": "en",
+        "original_title": "Mean Guns",
+        "overview": "One hundred mid- and low-level gangsters who are on their boss' bad side are locked inside a newly-built high-security prison, and given plenty of guns, ammo, and baseball bats, then told that the last survivor will get a suitcase with 10 million dollars.",
+        "popularity": 14.688,
+        "poster_path": "/piNtPb6DF3n8veFi8AOF73IhI6q.jpg",
+        "release_date": "1997-11-21",
+        "title": "Mean Guns",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 76
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9QYqNGVKx0YabMExlwPXyUSuQFl.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 28120,
+        "original_language": "en",
+        "original_title": "Crossfire",
+        "overview": "A man is murdered, apparently by one of a group of soldiers just out of the army. But which one? And why?",
+        "popularity": 14.679,
+        "poster_path": "/4IKLuRSE2vbMEcM2sqpgKTgNShC.jpg",
+        "release_date": "1947-08-15",
+        "title": "Crossfire",
+        "video": false,
+        "vote_average": 6.597,
+        "vote_count": 129
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2Oh9eTW9l2NKL7rmJy7uHvVRTWR.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 47502,
+        "original_language": "en",
+        "original_title": "Faithful",
+        "overview": "A depressed housewife whose husband is having an affair contemplates suicide, but changes her mind when she faces death by a killer hired to do her in.",
+        "popularity": 14.673,
+        "poster_path": "/bnC3m8J6nN30GE9GKo2lkSWU0yD.jpg",
+        "release_date": "1996-04-03",
+        "title": "Faithful",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 22
+    }
+]

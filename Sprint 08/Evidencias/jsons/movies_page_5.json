@@ -1,0 +1,406 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/edg3mPp97KLhHjEWwKMrugaASv3.jpg",
+        "genre_ids": [
+            12,
+            35,
+            80,
+            878
+        ],
+        "id": 817,
+        "original_language": "en",
+        "original_title": "Austin Powers: The Spy Who Shagged Me",
+        "overview": "When diabolical genius Dr. Evil travels back in time to steal superspy Austin Powers's ‘mojo,’ Austin must return to the swingin' '60s himself - with the help of American agent, Felicity Shagwell - to stop the dastardly plan. Once there, Austin faces off against Dr. Evil's army of minions to try to save the world in his own unbelievably groovy way.",
+        "popularity": 94.606,
+        "poster_path": "/f2ohIBEbc3eERyU5pgSknm8DqUj.jpg",
+        "release_date": "1999-06-08",
+        "title": "Austin Powers: The Spy Who Shagged Me",
+        "video": false,
+        "vote_average": 6.28,
+        "vote_count": 3231
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uPYa165sraN2c8gZBM9C47g3JoU.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 311,
+        "original_language": "en",
+        "original_title": "Once Upon a Time in America",
+        "overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+        "popularity": 94.256,
+        "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+        "release_date": "1984-05-23",
+        "title": "Once Upon a Time in America",
+        "video": false,
+        "vote_average": 8.416,
+        "vote_count": 5242
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 400535,
+        "original_language": "en",
+        "original_title": "Sicario: Day of the Soldado",
+        "overview": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
+        "popularity": 94.212,
+        "poster_path": "/msqWSQkU403cQKjQHnWLnugv7EY.jpg",
+        "release_date": "2018-06-27",
+        "title": "Sicario: Day of the Soldado",
+        "video": false,
+        "vote_average": 6.914,
+        "vote_count": 3467
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mvDMt3JZ5zlsrXduGzj9jBEfVBT.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 1034541,
+        "original_language": "en",
+        "original_title": "Terrifier 3",
+        "overview": "Art the Clown unleashes chaos on the unsuspecting residents of Miles County as they peacefully drift off to sleep on Christmas Eve.",
+        "popularity": 93.794,
+        "poster_path": "/l1175hgL5DoXnqeZQCcU3eZIdhX.jpg",
+        "release_date": "2024-10-10",
+        "title": "Terrifier 3",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tintsaQ0WLzZsTMkTiqtMB3rfc8.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35
+        ],
+        "id": 522627,
+        "original_language": "en",
+        "original_title": "The Gentlemen",
+        "overview": "American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he’s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+        "popularity": 92.554,
+        "poster_path": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+        "release_date": "2020-01-23",
+        "title": "The Gentlemen",
+        "video": false,
+        "vote_average": 7.682,
+        "vote_count": 5559
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b1L7qevxiVpkVFq4dmdQPGFPWH0.jpg",
+        "genre_ids": [
+            27,
+            80,
+            18,
+            14
+        ],
+        "id": 836225,
+        "original_language": "en",
+        "original_title": "The Exorcism of God",
+        "overview": "An American priest working in Mexico is considered a saint by many local parishioners. However, due to a botched exorcism, he carries a secret that’s eating him alive until he gets an opportunity to face his demon one final time.",
+        "popularity": 92.345,
+        "poster_path": "/hangTmbxpSV4gpHG7MgSlCWSSFa.jpg",
+        "release_date": "2022-03-11",
+        "title": "The Exorcism of God",
+        "video": false,
+        "vote_average": 7.115,
+        "vote_count": 1026
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b4SorcTpNO11dY8beCu9KMrDp3Y.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 2019,
+        "original_language": "en",
+        "original_title": "Hard Target",
+        "overview": "When a woman's father goes missing, she enlists a local to aid in her search.  The pair soon discover that her father has died at the hands of a wealthy sportsman who hunts homeless men as a form of recreation.",
+        "popularity": 92.271,
+        "poster_path": "/kufvuQYWdl82sYzmhy2naBLyMui.jpg",
+        "release_date": "1993-04-27",
+        "title": "Hard Target",
+        "video": false,
+        "vote_average": 6.392,
+        "vote_count": 1135
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xFk3RhoBtZQzcmRBQIoZi0PEi7E.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 9303,
+        "original_language": "en",
+        "original_title": "Bound",
+        "overview": "Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her.",
+        "popularity": 92.016,
+        "poster_path": "/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg",
+        "release_date": "1996-09-13",
+        "title": "Bound",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 900
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/locdjWNAWAHZ1HVpKqEIOmtowu2.jpg",
+        "genre_ids": [
+            80,
+            35,
+            28
+        ],
+        "id": 112205,
+        "original_language": "en",
+        "original_title": "The Family",
+        "overview": "After ratting out his Mafia cohorts, Giovanni Manzoni and his family enter the Witness Protection Program and relocate to a sleepy town in France. Despite the best efforts of their handler to keep them in line, Giovanni (now called Fred Blake), his wife and children can't help but resort to doing things the \"family\" way. However, their dependence on such old habits places everyone in danger from vengeful mobsters.",
+        "popularity": 91.913,
+        "poster_path": "/3ER4u7T951pMv60hL5bUN6WsAMV.jpg",
+        "release_date": "2013-09-13",
+        "title": "The Family",
+        "video": false,
+        "vote_average": 6.358,
+        "vote_count": 2865
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wofhl2lsTYCPmMQPsbj6iu9n0P6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 242582,
+        "original_language": "en",
+        "original_title": "Nightcrawler",
+        "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+        "popularity": 91.823,
+        "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+        "release_date": "2014-10-23",
+        "title": "Nightcrawler",
+        "video": false,
+        "vote_average": 7.705,
+        "vote_count": 10534
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tKi5HYDSuxP4I26fxyF2UVvAtLa.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 90,
+        "original_language": "en",
+        "original_title": "Beverly Hills Cop",
+        "overview": "Fast-talking, quick-thinking Detroit street cop Axel Foley has bent more than a few rules and regs in his time, but when his best friend is murdered, he heads to sunny Beverly Hills to work the case like only he can.",
+        "popularity": 91.654,
+        "poster_path": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+        "release_date": "1984-12-05",
+        "title": "Beverly Hills Cop",
+        "video": false,
+        "vote_average": 7.195,
+        "vote_count": 4012
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 161,
+        "original_language": "en",
+        "original_title": "Ocean's Eleven",
+        "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+        "popularity": 90.868,
+        "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+        "release_date": "2001-12-07",
+        "title": "Ocean's Eleven",
+        "video": false,
+        "vote_average": 7.444,
+        "vote_count": 11344
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yTtXvHmLoMf70UPuguuNdytS5oI.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 339403,
+        "original_language": "en",
+        "original_title": "Baby Driver",
+        "overview": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+        "popularity": 90.452,
+        "poster_path": "/rmnQ9jKW72bHu8uKlMjPIb2VLMI.jpg",
+        "release_date": "2017-06-28",
+        "title": "Baby Driver",
+        "video": false,
+        "vote_average": 7.453,
+        "vote_count": 15396
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 1422,
+        "original_language": "en",
+        "original_title": "The Departed",
+        "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+        "popularity": 90.291,
+        "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+        "release_date": "2006-10-04",
+        "title": "The Departed",
+        "video": false,
+        "vote_average": 8.169,
+        "vote_count": 14579
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mYPsDej53aibXId6BSxb3Q5fAHg.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            18
+        ],
+        "id": 978592,
+        "original_language": "en",
+        "original_title": "Sleeping Dogs",
+        "overview": "Roy Freeman, an ex-homicide detective with a fractured memory, is forced to revisit a case he can't remember. As a man's life hangs in the balance on death row, Freeman must piece together the brutal evidence from a decade-old murder investigation, uncovering a sinister web of buried secrets and betrayals linking to his past. With only instincts to trust, he faces a chilling truth - sometimes, it's best to let sleeping dogs lie.",
+        "popularity": 89.893,
+        "poster_path": "/5DwQhh1HvTo7edaOeMX49NUyZqy.jpg",
+        "release_date": "2024-03-21",
+        "title": "Sleeping Dogs",
+        "video": false,
+        "vote_average": 7.258,
+        "vote_count": 238
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 385128,
+        "original_language": "en",
+        "original_title": "F9",
+        "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+        "popularity": 88.664,
+        "poster_path": "/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",
+        "release_date": "2021-05-19",
+        "title": "F9",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 7059
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/PVJqQItx8d4Ey1suNQyrR1mqAE.jpg",
+        "genre_ids": [
+            16,
+            878,
+            80,
+            9648,
+            10752
+        ],
+        "id": 553837,
+        "original_language": "ja",
+        "original_title": "コードギアス 復活のルルーシュ",
+        "overview": "It is the second year of the Kowa Period. The world has unified around the reorganize United Federation of Nations, and has enjoyed days of continuing peace, but now, that peace suddenly comes to an end. Suzaku, while travelling as the masked man \"Zero\" accompanying Nunnally on her visit to the refugee camp, is defeated by a mysterious Knightmare Frame, and the two of them are taken away. Following secret orders from Schneizel, Kallen, Lloyd and Sayoko infiltrate Zilkistan, the Land of Warriors, where they are attacked by a mysterious Geass user. There in Zilkhstan is a person named C.C., known to the assailants as the \"former master\". In the indomitable kingdom which once conquered even the great army of the Holy Britannian Empire, what do the people desire? Hope, or despair? The people of Zilkhstan Palace certainly know of Geass. What are they, and C.C., planning?",
+        "popularity": 88.505,
+        "poster_path": "/v0vnSvdBKPH5doDsDpcOoFWQniQ.jpg",
+        "release_date": "2019-02-09",
+        "title": "Code Geass: Lelouch of the Re;Surrection",
+        "video": false,
+        "vote_average": 7.413,
+        "vote_count": 91
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9IDJpHROaC0S1ZlIxrvzOcOX5yC.jpg",
+        "genre_ids": [
+            10751,
+            16,
+            12,
+            35,
+            80
+        ],
+        "id": 629542,
+        "original_language": "en",
+        "original_title": "The Bad Guys",
+        "overview": "When the Bad Guys, a crew of criminal animals, are finally caught after years of heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+        "popularity": 88.251,
+        "poster_path": "/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
+        "release_date": "2022-03-17",
+        "title": "The Bad Guys",
+        "video": false,
+        "vote_average": 7.56,
+        "vote_count": 1958
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 640,
+        "original_language": "en",
+        "original_title": "Catch Me If You Can",
+        "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+        "popularity": 88.028,
+        "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+        "release_date": "2002-12-16",
+        "title": "Catch Me If You Can",
+        "video": false,
+        "vote_average": 7.977,
+        "vote_count": 15326
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k2JurWdgatW2H2sopCkASVss28k.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 2322,
+        "original_language": "en",
+        "original_title": "Sneakers",
+        "overview": "When shadowy U.S. intelligence agents blackmail a reformed computer hacker and his eccentric team of security experts into stealing a code-breaking 'black box' from a Soviet-funded genius, they uncover a bigger conspiracy. Now, he and his 'sneakers' must save themselves and the world economy by retrieving the box from their blackmailers.",
+        "popularity": 86.945,
+        "poster_path": "/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+        "release_date": "1992-09-09",
+        "title": "Sneakers",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 877
+    }
+]

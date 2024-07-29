@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/25YQKS6SBJxy2vaTEL0pR90FrRl.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 55808,
+        "original_language": "hi",
+        "original_title": "रक्त चरित्र २",
+        "overview": "The sequel carries forward the tale of power and revenge which exploded in Rakht Charitra 1. The rebel leader turned politician, Pratap consolidates his political base but is forced to retread the path of vengeance once again after a rival from the past, Surya Narayan Reddy chooses to avenge the assassination of his family. Surya swears vengeance against Pratap after his family is wiped out in a bomb attack and Pratap is hell bent on decimating his enemy, even if it means separating ways with his mentor and political veteran, Shivaji.",
+        "popularity": 7.657,
+        "poster_path": "/lx36zIYVOHfLVklyFlPYMCmlY7b.jpg",
+        "release_date": "2010-12-03",
+        "title": "Rakht Charitra 2",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fXRFn5Xdd4Rycb9ZiAeytm2odIp.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1001019,
+        "original_language": "fr",
+        "original_title": "Un homme en fuite",
+        "overview": "Johnny, a local activist, is wanted by the police after a robbery gone wrong. Paul, his childhood friend, comes back home after 15 years to find him before the police. Investigator Anna Radoszewski is also on Johnny’s trail. Thus begins a search in which memo- ries and secrets resurface. In a social context that shakes the town, everybody is looking for Johnny, who soon becomes the symbol of a revolt.",
+        "popularity": 7.654,
+        "poster_path": "/49zjPWin3zxEG7oDHHpeY7LVnzJ.jpg",
+        "release_date": "2024-05-08",
+        "title": "Chasing Johnny",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mhjTRIK57ehPWfu85VKuKVYhwUk.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 181506,
+        "original_language": "en",
+        "original_title": "Dead Clever: The Life and Crimes of Julie Bottomley",
+        "overview": "When Julie Bottomley discovers her husband of 10 years has been sleeping with her sister, her first instinct is to kill him. However, rather than risk life imprisonment herself, she devises a better plan to get revenge on Ian by faking her own death and framing him for murder. But can she resist the temptation to let her jailed husband know just how \"Dead Clever\" she's been?",
+        "popularity": 7.654,
+        "poster_path": "/ffEiiF3WzNnY2f2pPCmGkgQV47m.jpg",
+        "release_date": "2007-01-01",
+        "title": "Dead Clever: The Life and Crimes of Julie Bottomley",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mNPvFuHp4OBMYk0kNN3yuv04PnU.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 77041,
+        "original_language": "en",
+        "original_title": "Amongst Friends",
+        "overview": "Andy, Billy and Trevor are three friends living the life of privilege on Long Island. Out of boredom, the inseparable trio are drawn into the action of the of the gangster criminal world inhabited by Andy's bookie grandfather.",
+        "popularity": 7.654,
+        "poster_path": "/8m5sVAIu1zKX1JWXM4Zio9IzhXI.jpg",
+        "release_date": "1993-11-03",
+        "title": "Amongst Friends",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dFGXnwr4of7u9TqsSy43ybXGtQn.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 19131,
+        "original_language": "de",
+        "original_title": "Scotland Yard jagt Dr. Mabuse",
+        "overview": "The spirit of the evil Dr. Mabuse takes over the body of a famous professor. The professor/Dr. Mabuse then begins a new crime wave that terrorizes the city.",
+        "popularity": 7.651,
+        "poster_path": "/mixNblr3jNNgfyppNyg5gLytdY.jpg",
+        "release_date": "1963-09-20",
+        "title": "Dr. Mabuse vs. Scotland Yard",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 469813,
+        "original_language": "es",
+        "original_title": "30 segundos para morir",
+        "overview": "Three brothers smuggle arms and drugs from Mexico into the US.",
+        "popularity": 7.65,
+        "poster_path": "/8SV5f8RAQfy7e8DcWJPCHJLKweK.jpg",
+        "release_date": "1981-02-26",
+        "title": "30 segundos para morir",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3YMiMEWEDvKjIUN6T6Q4nReHmii.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 42752,
+        "original_language": "en",
+        "original_title": "Midnight",
+        "overview": "Jury foreman Edward Weldon's questioning leads to the death sentence for Ethel Saxon. His daughter Stella claims to have killed her lover, the gangster Garboni, just as Saxon was to sit in the electric chair.",
+        "popularity": 7.65,
+        "poster_path": "/8SRQPlAhyepVvf5V1andNVCVJke.jpg",
+        "release_date": "1934-03-07",
+        "title": "Midnight",
+        "video": false,
+        "vote_average": 5.043,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2VxezVCEKPNJ8mVoT94e9DSUpl8.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 216598,
+        "original_language": "pt",
+        "original_title": "O Torturador",
+        "overview": "Zionists hire a hitman to kill a Nazi war criminal exiled in a Latin American country, where he's being protected by the local dictator.  Get ready for gunshots; sex scenes; strange form of tortures; a cocaine-addict priest who helps the dictatorship; contemptous remarks and behavior from the main \"hero\"; amusing sequences of Chuchu having fun with beautiful women pretending to be James Bond; and the wimp colonel who is in love with a male prostitute. It's all good and fun to watch but remember that this is a product of its era, so it's quite possible to see some objectionable things. But for the most part it's never crass or insanely offensive.",
+        "popularity": 7.649,
+        "poster_path": "/h2PmM5LWauvT89wt1VNn3dtqcn7.jpg",
+        "release_date": "1980-05-19",
+        "title": "The Torturer",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bje9TvCE1i2SuQ37H1NvG4xVkdU.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 37415,
+        "original_language": "en",
+        "original_title": "The Killer Inside Me",
+        "overview": "Haunted by visions from his abusive childhood, Montana deputy sheriff Lou Ford gradually exhibits the signs of a homicidal schizophrenic.",
+        "popularity": 7.649,
+        "poster_path": "/1Ofya1doZ40KFCNK6WZ4yXHnO5b.jpg",
+        "release_date": "1976-10-01",
+        "title": "The Killer Inside Me",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            18,
+            99,
+            80,
+            36,
+            10770
+        ],
+        "id": 220099,
+        "original_language": "en",
+        "original_title": "The Strange Case of Sherlock Holmes & Arthur Conan Doyle",
+        "overview": "What led Arthur Conan Doyle to create, and then destroy the world famous detective, Sherlock Holmes? This compelling drama explores the dark secrets that surround the author and his creation.",
+        "popularity": 7.648,
+        "poster_path": "/opp8yr3Y51PUo0IeVEfV3bqmDl2.jpg",
+        "release_date": "2005-09-08",
+        "title": "The Strange Case of Sherlock Holmes & Arthur Conan Doyle",
+        "video": false,
+        "vote_average": 6.125,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7cymHcfExdVRRTHgoLQzE9XcYuM.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 33923,
+        "original_language": "en",
+        "original_title": "Chicago Deadline",
+        "overview": "On Chicago's South Side reporter Ed Ames finds the body of a dead girl. Her address book leads to a host of names of men frightened by her death but claiming never to have known her. Ames comes to know quite a lot, dangerously so.",
+        "popularity": 7.648,
+        "poster_path": "/rElQBpIVuakGvnqVCc5Qt9QE5Lb.jpg",
+        "release_date": "1949-11-03",
+        "title": "Chicago Deadline",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1vTCTFc3j2Y3wR3VbFveyOZYrfY.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 915867,
+        "original_language": "hi",
+        "original_title": "Forensic",
+        "overview": "Little girls begin to disappear and their bodies are found soon after in the town of Mussoorie. Police officer Megha and forensic officer Johnny join hands to nab the killer.",
+        "popularity": 7.647,
+        "poster_path": "/bn2sQizEJ0qsntJRvjULsd5vk44.jpg",
+        "release_date": "2022-06-24",
+        "title": "Forensic",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 262074,
+        "original_language": "en",
+        "original_title": "The Theory of the Leisure Class",
+        "overview": "A group of kids on a field trip shockingly discover the bodies of missing children. Their alarming discovery leads to a small western town where the mystery of the slain children's disappearance has created an environment of suspicion and distrust. A curious reporter from the city arrives in town and bribes a bar owner to divulge everything she knows. Gradually, the pieces of this disturbing puzzle; deception, adultery and secret bonds, start falling into place. They hold the key to the mystery of the murdered children.",
+        "popularity": 7.645,
+        "poster_path": null,
+        "release_date": "2001-07-06",
+        "title": "The Theory of the Leisure Class",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xc0ql3Sz2Z6AWRENahcCqMXb01T.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 111614,
+        "original_language": "ta",
+        "original_title": "நந்தா",
+        "overview": "Nandha returns after serving his term for killing his father. Although he killed him to save his mother, she does not forgive him. He is then taken in by Periyavar, who shelters Sri Lankan refugees.",
+        "popularity": 7.645,
+        "poster_path": "/fl7I3LPqyMU1HjeHxxTt0bCDUHk.jpg",
+        "release_date": "2001-11-14",
+        "title": "Nandha",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xAQC6URnPGRSRBDEQ9asiWfmOrK.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 439635,
+        "original_language": "ja",
+        "original_title": "極道VS不良番長",
+        "overview": "Gokudo Shimamura comes to blows with the Delinquent Boss who rolls into town with his motorcycle gang.",
+        "popularity": 7.643,
+        "poster_path": "/nIaH4EwJPKBurb45Qznz9i80fZp.jpg",
+        "release_date": "1974-11-22",
+        "title": "Yakuza vs. Gang Leader",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nnxVOLzytqnmbkmCeNu8zDQQkBx.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 622766,
+        "original_language": "es",
+        "original_title": "10 palomas",
+        "overview": "A serial killer with a taste for the theatrical is killing powerful judges and leaving their bodies surrounded with dead pigeons. Félix, a detective haunted by his past, is the only one who is able to solve this enigmatic case.",
+        "popularity": 7.642,
+        "poster_path": "/j9uWE05XqlJozwXaklJoLEDEKue.jpg",
+        "release_date": "2021-03-22",
+        "title": "10 palomas",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/peqI7oPZhKqFEvVTCjwiKAgvvor.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 70718,
+        "original_language": "fr",
+        "original_title": "Il était une fois un flic...",
+        "overview": "Campana, a commissar at the drugs bureau of Paris police gets an undercover job in Nice to catch an Italian-French mafia boss. As he slips into the identity of a gangster's brother, who was already killed, he has to play the role of a loving husband with child - something that is not so easy for a confirmed single like Campana. Unfortunately American killers chase behind the Nice mafia clan too, in order to get control of French drug trades to USA.",
+        "popularity": 7.642,
+        "poster_path": "/9haw5AWaTin1PI5tUoESTTI2sEL.jpg",
+        "release_date": "1972-02-11",
+        "title": "There Once Was a Cop",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            10770
+        ],
+        "id": 768730,
+        "original_language": "en",
+        "original_title": "Now You See It, Now You Don't",
+        "overview": "A bumbling art expert, hired by an insurance company to protect a Rembrandt on loan from the Louvre, schemes to steal it.",
+        "popularity": 7.641,
+        "poster_path": "/eqnroVK0pA2StC5uT4QLrfLvo7X.jpg",
+        "release_date": "1968-11-11",
+        "title": "Now You See It, Now You Don't",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mqBaA9COjSqRRoKWELPSKtDjX0y.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80,
+            18
+        ],
+        "id": 72479,
+        "original_language": "en",
+        "original_title": "Lightning Strikes Twice",
+        "overview": "Sent to a dude ranch in the west to recover her health, a New York actress falls in love with a ranch owner recently acquitted of the murder of his wife.",
+        "popularity": 7.641,
+        "poster_path": "/cS5T7GRkG2lD2BsImG7SPNNXv8L.jpg",
+        "release_date": "1951-04-12",
+        "title": "Lightning Strikes Twice",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/RUUywpdyEMcancPlO7Ze6j5xkl.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 4681,
+        "original_language": "fr",
+        "original_title": "Verdict",
+        "overview": "A desperate woman, whose son is on trial for murder, blackmails the judge and kidnaps his wife.",
+        "popularity": 7.641,
+        "poster_path": "/x5qkucNKW5MJbTWW5voWXGxU7L3.jpg",
+        "release_date": "1974-09-11",
+        "title": "Jury of One",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 11
+    }
+]

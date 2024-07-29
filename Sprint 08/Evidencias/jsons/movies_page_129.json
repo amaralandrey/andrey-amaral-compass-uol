@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/lQH7ZASIhyXwfvN71FbFSrHq8BY.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 2813,
+        "original_language": "fr",
+        "original_title": "Violette Nozière",
+        "overview": "Paris, 1933. The daughter of a respectable lower middle class couple, Violette Nozière, leads a disreputable double life. Far from being the innocent 18-year-old her parents mistake her for, she spends her nights with dissolute young men in the less salubrious areas of the city.",
+        "popularity": 20.064,
+        "poster_path": "/6I5SxAjsNSXtaZZ1M7clcRmhfgW.jpg",
+        "release_date": "1978-05-24",
+        "title": "Violette Nozière",
+        "video": false,
+        "vote_average": 6.707,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pHJ6j2zm7EaByFurDmwTxmjc6pK.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80,
+            53
+        ],
+        "id": 1006763,
+        "original_language": "zh",
+        "original_title": "查無此心",
+        "overview": "When a mysterious corpse is found in a river, a distressed police officer delves into a string of grisly murders as danger quickly approaches.",
+        "popularity": 20.06,
+        "poster_path": "/c2hJNLn6HFY7JWJY6JqLhYFVTSI.jpg",
+        "release_date": "2023-09-08",
+        "title": "The Abandoned",
+        "video": false,
+        "vote_average": 6.316,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qxFiLcPv5rr58IsquPEKZOzA8CU.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1082195,
+        "original_language": "en",
+        "original_title": "The Order",
+        "overview": "As baffled law enforcement scrambles for answers about a series of increasingly violent bank robberies, counterfeiting operations, and armored car heists through the Pacific Northwest in 1983, a lone FBI agent stationed in the sleepy, picturesque Idaho town of Coeur d’Alene comes to believe the crimes are not the work of traditional, financially motivated criminals, but a group of dangerous domestic terrorists inspired by a radical, charismatic leader plotting a devastating war against the United States government.",
+        "popularity": 20.04,
+        "poster_path": "/yUoyBSdUn1srV6knb5n017ClQCf.jpg",
+        "release_date": "2024-08-31",
+        "title": "The Order",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5De7MquOjdLbZa0pkFUBPpC5P7b.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 20688,
+        "original_language": "hi",
+        "original_title": "कमीने",
+        "overview": "Two brothers, as different as chalk and cheese, find their lives intertwined when one puts himself in danger via a `get rich quick' scheme and the other finds there is a price on his head.",
+        "popularity": 20.032,
+        "poster_path": "/bWjpvdO7BxOOnX6RMZN4p4Jukx5.jpg",
+        "release_date": "2009-08-14",
+        "title": "Kaminey",
+        "video": false,
+        "vote_average": 6.74,
+        "vote_count": 96
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bV7q6ZFguqbVWo95hCkfgS92fUg.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 2260,
+        "original_language": "en",
+        "original_title": "Capturing the Friedmans",
+        "overview": "An Oscar nominated documentary about a middle-class American family who is torn apart when the father Arnold and son Jesse are accused of sexually abusing numerous children. Director Jarecki interviews people from different sides of this tragic story and raises the question of whether they were rightfully tried when they claim they were innocent and there was never any evidence against them.",
+        "popularity": 20.025,
+        "poster_path": "/qWdMQj0HN7QxKxEkm0tk04nuAQ2.jpg",
+        "release_date": "2003-05-30",
+        "title": "Capturing the Friedmans",
+        "video": false,
+        "vote_average": 7.162,
+        "vote_count": 324
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vJz09EOGD1OY2AHv0QU3tecGiPP.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 340746,
+        "original_language": "ko",
+        "original_title": "악의 연대기",
+        "overview": "A detective accidentally kills a man and disposes of the body to protect his career. The next day he sees that someone has hanged the corpse from a crane for all to see. He takes charge of the murder investigation to protect himself and find out who did it.",
+        "popularity": 20.023,
+        "poster_path": "/frVgs4psaZXITGK0gvCStUCW7Zx.jpg",
+        "release_date": "2015-05-14",
+        "title": "The Chronicles of Evil",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vzXp9ayYUfSZQVdslIbAqc2MFoS.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 13197,
+        "original_language": "en",
+        "original_title": "10th & Wolf",
+        "overview": "A former street thug returns to his Philadelphia home after a stint in the military. Back on his home turf, he once again finds himself tangling with the mob boss who was instrumental in his going off to be a soldier.",
+        "popularity": 20.021,
+        "poster_path": "/2OBZth9rnSyMzZR8M0WwGj8ivDG.jpg",
+        "release_date": "2006-02-19",
+        "title": "10th & Wolf",
+        "video": false,
+        "vote_average": 5.835,
+        "vote_count": 97
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rvAPLiZLfPMFkOEJqicl2y6ppbS.jpg",
+        "genre_ids": [
+            12,
+            28,
+            80
+        ],
+        "id": 42566,
+        "original_language": "en",
+        "original_title": "An Eye for an Eye",
+        "overview": "Sean Kane is forced to resign from the San Francisco Police Department's Narcotics Division when he goes berserk after his partner is murdered. He decides to fight alone and follows a trail of drug traffickers into unexpected high places.",
+        "popularity": 20.004,
+        "poster_path": "/389JSntj1J7LtTjUxvKCy3JJfuj.jpg",
+        "release_date": "1981-08-14",
+        "title": "An Eye for an Eye",
+        "video": false,
+        "vote_average": 5.208,
+        "vote_count": 101
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qlAK4VGownqHSKfTCc4Kzmac2in.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 474538,
+        "original_language": "ja",
+        "original_title": "孤狼の血",
+        "overview": "Set in 1988 in Hiroshima, Japan, prior to the enactment of the anti-organized crime law. A rumor exists that Detective Shogo Ogami has ties with the yakuza. He is partnered with Detective Shuichi Hioka and they investigate a missing person case involving a financial company employee. Conflicts between opposing yakuza groups become more serious.",
+        "popularity": 19.998,
+        "poster_path": "/gpMqk6o8mT3bQSRez1Y04bd6dua.jpg",
+        "release_date": "2018-05-12",
+        "title": "The Blood of Wolves",
+        "video": false,
+        "vote_average": 6.968,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y6cZEbWNtdUD6TW7H2M2ShuZcAs.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 16148,
+        "original_language": "en",
+        "original_title": "Zero Effect",
+        "overview": "Daryl Zero is a private investigator and—along with his assistant, Steve Arlo—he solves impossible crimes and puzzles. Although Daryl's a master investigator, he doesn't know what to do with himself when he's not working; he has no social skills, writes bad music and drives Steve crazy.",
+        "popularity": 19.996,
+        "poster_path": "/yFALvZFwqnh5ESarNoVd5KtizCo.jpg",
+        "release_date": "1998-01-30",
+        "title": "Zero Effect",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 170
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/idiObYae7RaWeQv3waFl8dgHewt.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            28
+        ],
+        "id": 56821,
+        "original_language": "en",
+        "original_title": "Lassiter",
+        "overview": "Scotland Yard and the FBI force a thief and his girlfriend to steal Nazi diamonds from a German countess.",
+        "popularity": 19.994,
+        "poster_path": "/2VUCOHBd6YwtzJpZrYx25R1bCNZ.jpg",
+        "release_date": "1984-02-17",
+        "title": "Lassiter",
+        "video": false,
+        "vote_average": 5.288,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hih8wlrOtMZrBd4AXe6nziMvPR8.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 84997,
+        "original_language": "en",
+        "original_title": "They're Playing with Fire",
+        "overview": "A married college professor decides to seduce her student, whom she hired as a handyman for her yacht. The hesitant student succumbs to his buxom professor, but their romance is interrupted by her corrupt husband and a masked murderer.",
+        "popularity": 19.99,
+        "poster_path": "/rvsWF6BWsPbm9p9dQz4pu9mkrW8.jpg",
+        "release_date": "1984-04-01",
+        "title": "They're Playing with Fire",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6OhBOptyHaZSV6445UDUhLaDZ5P.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 53653,
+        "original_language": "cn",
+        "original_title": "監獄風雲",
+        "overview": "Lo Ka Yiu, a young ad designer who is sentenced to jail for manslaughter, has gotten himself in trouble with the corrupted wardens and fellow inmates of Triad background. Chung Tin Ching, a veteran inmate and Yiu's mentor, is forced to confront his comrade's enemies time and again, leading up to the final showdown with the head of security.",
+        "popularity": 19.987,
+        "poster_path": "/yEmu1HMFWq5pUYQgUNBOK8ylRrm.jpg",
+        "release_date": "1987-11-13",
+        "title": "Prison on Fire",
+        "video": false,
+        "vote_average": 6.929,
+        "vote_count": 76
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eRpVvbvvO7UCA2vTGant3kq1zSc.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 354979,
+        "original_language": "en",
+        "original_title": "Dog Eat Dog",
+        "overview": "Carved from a lifetime of experience that runs the gamut from incarceration to liberation, Dog Eat Dog is the story of three men who are all out of prison and now have the task of adapting themselves to civilian life.",
+        "popularity": 19.982,
+        "poster_path": "/2oWwyYAu3JZSXXaU7rrbz27hPLn.jpg",
+        "release_date": "2016-11-04",
+        "title": "Dog Eat Dog",
+        "video": false,
+        "vote_average": 5.105,
+        "vote_count": 338
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x7GdT6eFPpAYutYKcxoV1WVdGG5.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 41158,
+        "original_language": "cn",
+        "original_title": "暗花",
+        "overview": "Caught in the middle of a fierce gang war in Macau, a corrupt cop named Sam handles negotiations between two Triad leaders who plan to join forces. He meets a suspicious bald man named Tony, who keeps following him around and disrupting his personal business. But when Sam finds out he's a suspect in a nightclub owner's murder, he's sure his stalker has something to do with it.",
+        "popularity": 19.978,
+        "poster_path": "/fGceZ7I1IibzaWHngbrsuOf75g5.jpg",
+        "release_date": "1998-01-01",
+        "title": "The Longest Nite",
+        "video": false,
+        "vote_average": 6.761,
+        "vote_count": 67
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hiaZPun8bezhRcY8rFJEtRE8PG.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 26614,
+        "original_language": "fr",
+        "original_title": "La Chienne",
+        "overview": "Cashier Maurice Legrand is married to Adele, a terror. By chance, he meets Lucienne, \"Lulu\", and make her his mistress. He thinks he finally met love, but Lulu is nothing but a streetwalker, in love with Dede, her pimp. She only accepts Legrand to satisfy Dede's needs of money.",
+        "popularity": 19.969,
+        "poster_path": "/oX2W3mkHCrG9VRlbzB0MD8GeAcB.jpg",
+        "release_date": "1931-11-20",
+        "title": "La Chienne",
+        "video": false,
+        "vote_average": 7.33,
+        "vote_count": 115
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zchaaZhN2wcIB6O6YLDBehRRBJK.jpg",
+        "genre_ids": [
+            80,
+            10749
+        ],
+        "id": 61475,
+        "original_language": "ja",
+        "original_title": "乾いた花",
+        "overview": "A gangster gets released from prison and has to cope with the recent shifts of power between the gangs, while taking care of a thrill-seeking young woman, who got in bad company while gambling.",
+        "popularity": 19.954,
+        "poster_path": "/xI8duNuJ9ArNZZ6Jc1CbJSOXtzd.jpg",
+        "release_date": "1964-03-01",
+        "title": "Pale Flower",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 103
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/js0PWQpaYp708MQs3rPtUvsPSL2.jpg",
+        "genre_ids": [
+            16,
+            10770,
+            28,
+            35,
+            80
+        ],
+        "id": 80868,
+        "original_language": "ja",
+        "original_title": "ルパン三世 お宝返却大作戦！！",
+        "overview": "After robbing a Moscow casino right under Zenigata's nose, Lupin is given a job to return 6 treasures to their original areas for an old friend of his, so Lupin can receive an even better treasure to gain.",
+        "popularity": 19.949,
+        "poster_path": "/fZjDdmq5Uv5ZoxHMnbrhZcSUDEN.jpg",
+        "release_date": "2003-08-01",
+        "title": "Lupin the Third: Operation: Return the Treasure",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/orf2EMj2CxhgnQGNLr6djh9kWpJ.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 496339,
+        "original_language": "hi",
+        "original_title": "दबंग्ग ३",
+        "overview": "Chulbul this time has to take on a criminal named Balli Singh, who has disrupted other people's lives with his annoying antics.",
+        "popularity": 19.947,
+        "poster_path": "/ruuZcKbvrHU4lMR7ye59mZLIJkG.jpg",
+        "release_date": "2019-12-20",
+        "title": "Dabangg 3",
+        "video": false,
+        "vote_average": 5.367,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wbA13Xns8EtbIubDOPLl7kCYYA4.jpg",
+        "genre_ids": [
+            18,
+            36,
+            80
+        ],
+        "id": 352161,
+        "original_language": "es",
+        "original_title": "El clan",
+        "overview": "In Argentina, between 1982 and 1985, the Puccios, a well-established family of San Isidro, an upper-class suburb of Buenos Aires, kidnap several people and hold them as hostages for a ransom.",
+        "popularity": 19.947,
+        "poster_path": "/m6iPqGhtIAgGRQcfqxSYbRrlK3F.jpg",
+        "release_date": "2015-08-13",
+        "title": "The Clan",
+        "video": false,
+        "vote_average": 6.751,
+        "vote_count": 405
+    }
+]

@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/tpcEiFImyhT8rZXZNq7hKylXk2M.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 840576,
+        "original_language": "de",
+        "original_title": "Das Schwarze Quadrat",
+        "overview": "VINCENT, a struggling art-thief and failed artist, stole Malewitsch’s legendary abstract painting the „Black Square”. The sale and handover to a Russian Oligarch and his designated art expert MARTHA is set to take place on a cruise ship. When Vincent and his younger partner NILS realise that their principal accomplice will not show-up to provide the boarding tickets and fake ID’s, they desperately overbear two men in order to sneak their way onto the ship. To their horror they quickly learn that their victims are part of the cruise ship’s entertainment act. Desperate not to blow their cover, Vincent and Nils take on their roles as David Bowie and Elvis Presley doubles with varying degrees of success. Despite his best efforts, Vincent’s talents hardly convince the passengers and it does not take long until various crew members discover their true identities and the value of their loot. A wild goose chase for the “Black Square” breaks loose in the belly of the cruise ship…",
+        "popularity": 13.917,
+        "poster_path": "/fLFmh6XnixgpzGd08xkmbL9XFRj.jpg",
+        "release_date": "2021-11-25",
+        "title": "The Black Square",
+        "video": false,
+        "vote_average": 5.263,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zijpsYLfVhF5fampCfuY3hlvUCP.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 24567,
+        "original_language": "en",
+        "original_title": "The Narrows",
+        "overview": "A 19 year old Brooklyn boy who is torn between two worlds when his photography portfolio wins him a partial scholarship to NYU. He must figure out how to balance his Italian neighborhood roots with the expansive, sophisticated world on the other side of the East River. Based on Tim McLoughlin's novel \"Heart of the Old Country\".",
+        "popularity": 13.916,
+        "poster_path": "/ArcqdYz9IGyDp2mdRo8E87otYRF.jpg",
+        "release_date": "2008-09-08",
+        "title": "The Narrows",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/adVdIlj3YMGZIgOYRvqnplDgNa1.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 35944,
+        "original_language": "en",
+        "original_title": "Lucky Break",
+        "overview": "Half-way through his 12-year prison sentence for an incompetent armed robbery, Jimmy Hands gets a lucky break: he's transferred to a prison from which he can probably escape. He convinces the governor to stage a musical in an old chapel next to the prison's outer wall. He rounds up volunteer actors and puts his escape plan into production. Two other barriers, besides the wall, confront him: the arrival of a nasty inmate, John Toombes, who insists on joining the escape, and Jimmy's feelings of attraction for Anabel, a social worker who agrees to appear in the play. Opening night approaches: is this Jimmy's breakout performance?",
+        "popularity": 13.913,
+        "poster_path": "/63JHVXD2bkPBdIFgprqXKu3k8bw.jpg",
+        "release_date": "2001-08-24",
+        "title": "Lucky Break",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sGocklwY5UAP5Mm1CckMnzoT8Q1.jpg",
+        "genre_ids": [
+            80,
+            10749,
+            27
+        ],
+        "id": 638210,
+        "original_language": "ja",
+        "original_title": "羊とオオカミの恋と殺人",
+        "overview": "Etsuro Kurosu faills getting into a university and becomes a hikikomori. One day, he tries to hang himself from a hook on the wall in his apartment. He fails, but his attempt leaves a hole in the wall. Through the hole wall, Etsuro Kurosu can now see Rio Miyaichi. He becomes fascinated with the girl that lives next door.  Later, while peeping at her through the wall, Etsuro Kurosu sees her in the process of brutally murdering someone. He screams and is caught by her. Etsuro Kurosu confesses that he loves her and they start to date. Etsuro Kurosu feels happiness in his life, but what will happen to him? Will he be murdered by Rio Miyaichi?",
+        "popularity": 13.902,
+        "poster_path": "/dJU8np55cm3yQ4Ghza1EfaCXwkt.jpg",
+        "release_date": "2019-11-29",
+        "title": "My Girlfriend is a Serial Killer",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tKJ4qRlsZakGXghIrg3ENFKfX4Y.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            18,
+            80
+        ],
+        "id": 95807,
+        "original_language": "en",
+        "original_title": "Ricochet",
+        "overview": "Two homicide detectives find their careers - and lives - on the line when they get caught up in a case of murder and betrayal in high-society Savannah.",
+        "popularity": 13.902,
+        "poster_path": "/cruzP5KncvkeV4FxACaCKTg7eD8.jpg",
+        "release_date": "2011-11-30",
+        "title": "Ricochet",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gB6BfQy3ISE6swueukarGiX8Zmj.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 427027,
+        "original_language": "de",
+        "original_title": "Grießnockerlaffäre",
+        "overview": "After a provincial policeman gets falsely accused of a crime that was committed with his pocket knife, he begins a turbulent hunt for the real murderer.",
+        "popularity": 13.901,
+        "poster_path": "/8I9AqTEUrPiltwxgWg442YngqyI.jpg",
+        "release_date": "2017-08-03",
+        "title": "The Dumpling Affair",
+        "video": false,
+        "vote_average": 7.196,
+        "vote_count": 92
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 628861,
+        "original_language": "en",
+        "original_title": "Baby Driver 2",
+        "overview": "",
+        "popularity": 13.9,
+        "poster_path": "/kMTXuaZDAdr4yXCzKTsW9BYIb3z.jpg",
+        "release_date": "",
+        "title": "Baby Driver 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jq4cu54lwJY2A2yCH51mrLPHcRc.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 31656,
+        "original_language": "en",
+        "original_title": "Thieves Like Us",
+        "overview": "Three criminals escape from prison and embark on a robbery spree across USA. Along the way, one of them falls in love while they plan a final heist before going their separate ways.",
+        "popularity": 13.898,
+        "poster_path": "/6QprvdBMcPZnYjLPBzhvkx40Xb7.jpg",
+        "release_date": "1974-02-11",
+        "title": "Thieves Like Us",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 71
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mcekbZUIzReeBvVjxqbryL3RDsI.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 23200,
+        "original_language": "en",
+        "original_title": "Silent Partner",
+        "overview": "Gordon Patrick, a young CIA analyst is assigned to investigate the mysterious death of a major Russian political figure.",
+        "popularity": 13.898,
+        "poster_path": "/oRtLzttDOZUD84JECxCYVMhNloU.jpg",
+        "release_date": "2005-05-26",
+        "title": "Silent Partner",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6bpXP2BV50miAj80ntZ9Q2HjEZM.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 51191,
+        "original_language": "fr",
+        "original_title": "Les Anges gardiens",
+        "overview": "A sleazy Paris nightclub owner and ex-detective flies to Hong Kong to rescue the young son of a friend murdered by the Chinese mob.",
+        "popularity": 13.896,
+        "poster_path": "/rrOC47OcekS7yJeunU308iY0tdH.jpg",
+        "release_date": "1995-10-11",
+        "title": "Guardian Angels",
+        "video": false,
+        "vote_average": 6.178,
+        "vote_count": 247
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aLgV2owFR6IdgUb8xgidvYTbPpL.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 404211,
+        "original_language": "en",
+        "original_title": "ATF",
+        "overview": "In the wake of the tragic events at Waco, Texas where an armed conflict with armed militiamen broke out, agents of the federal government's Alcohol, Tobacco, and Firearms (ATF) carry out a clandestine mission within another militia operation that is possibly involved in the sales of guns and the murder of an agent. Agent Robin O'Brien infiltrates the operation against her director's orders. When events start unraveling and an FBI agent threatens to take over the operation and start a military action, the ATF agents have to apply what they learned from Waco to save another blood bath.",
+        "popularity": 13.894,
+        "poster_path": "/oP7omh1AtOSIcw6XkeujyGA1EJh.jpg",
+        "release_date": "1999-09-06",
+        "title": "ATF",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iryKOFslomqpxjVEXx7PSaWFMPh.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 452408,
+        "original_language": "ko",
+        "original_title": "보안관",
+        "overview": "After he leaves the police force, Dae-ho establishes himself as the sheriff of his town. He then investigates Jong-jin, a businessman, because of his alleged ties to drugs.",
+        "popularity": 13.892,
+        "poster_path": "/p9r9mcBIDUZSI4jFiptQjEAGA2G.jpg",
+        "release_date": "2017-05-03",
+        "title": "The Sheriff In Town",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yQxYnMCIsjd0rXm5hyXZzmE549O.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 165904,
+        "original_language": "hi",
+        "original_title": "स्पेशल 26",
+        "overview": "In the early 1980s in India, a group of con artists rob businessmen and politicians by posing as officers of the CBI or Income Tax Department. The gang stages fake raids during which they steal great amounts of money from their targets while a relentless cop is on their trail.",
+        "popularity": 13.89,
+        "poster_path": "/cOo6lOiZXO0zldPKsih9asKPWDo.jpg",
+        "release_date": "2013-02-07",
+        "title": "Special 26",
+        "video": false,
+        "vote_average": 7.261,
+        "vote_count": 190
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uDvaeQ6jL4gHvUj8CioumPIcvJ3.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 577990,
+        "original_language": "tr",
+        "original_title": "Organize İşler: Sazan Sarmalı",
+        "overview": "Asim Noyan swindles people with his lies and games. Asim Noyan and his gang, who no one else has been able to catch, get into a ruse again.",
+        "popularity": 13.888,
+        "poster_path": "/yHVRfj6x7Mr1d8Ew3lysD9SsIX0.jpg",
+        "release_date": "2019-02-01",
+        "title": "Money Trap",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 108
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qDuuGYgmxKKDnKDQfVWfE33gvXE.jpg",
+        "genre_ids": [
+            27,
+            18,
+            53,
+            80
+        ],
+        "id": 84071,
+        "original_language": "en",
+        "original_title": "Night Game",
+        "overview": "A police detective tracks a serial killer who is stalking young women on a beach front after each game that a baseball pitcher wins.",
+        "popularity": 13.888,
+        "poster_path": "/9baRJNqD7ir2blNsUVVL7gMDCkA.jpg",
+        "release_date": "1989-09-15",
+        "title": "Night Game",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ddIqyKdsbUNHs1zZU5xFkqsfQC4.jpg",
+        "genre_ids": [
+            80,
+            35,
+            18
+        ],
+        "id": 393985,
+        "original_language": "ko",
+        "original_title": "특별수사: 사형수의 편지",
+        "overview": "A disgraced ex-cop, seeking revenge on his treacherous ex-partner, sticks his nose into a high-profile murder case. But in the process, he finds himself in conflict with much more powerful and dangerous forces.",
+        "popularity": 13.887,
+        "poster_path": "/3y0Lu0mnpflxOcmqJFBSfqAAKq8.jpg",
+        "release_date": "2016-05-19",
+        "title": "Proof of Innocence",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/usFLaJeqJgIBA65msnNgCXiVjUx.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 17985,
+        "original_language": "da",
+        "original_title": "Bleeder",
+        "overview": "Two stories for the price of one: Lenny works in a video shop and tries to get acquainted with the waitress Lea. Leo can't cope with the pressure of becoming a father, leading to trouble with his pregnant wife and especially her brother.",
+        "popularity": 13.887,
+        "poster_path": "/sWrGl4s8L1nOYQg49bHhZ2g19ji.jpg",
+        "release_date": "1999-08-06",
+        "title": "Bleeder",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 171
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/azpRmJ3G1ezQ9DpLaLN9GIq9TGD.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            18,
+            80
+        ],
+        "id": 874476,
+        "original_language": "ja",
+        "original_title": "さがす",
+        "overview": "Depressed and in debt, Santoshi tells his young daughter that he is going to find an infamous serial killer and collect a reward. However, when Santoshi disappears without a trace, she starts to fear the worst and begins searching for him.",
+        "popularity": 13.885,
+        "poster_path": "/eR26BRl4zu36xeIzWdYgtvRVH2d.jpg",
+        "release_date": "2022-01-21",
+        "title": "Missing",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/krnjSmm0qjA2DLQ9Cd2mABfSSbu.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            10749
+        ],
+        "id": 286656,
+        "original_language": "fr",
+        "original_title": "Joy à Moscou",
+        "overview": "Pretty Joy and her friend come to Moscow to shoot a commercial. A taxi driver, who recruits girls for an underground organization run by a distant descendant of Rasputin, suggests they visit the Rasputin Museum. During the tour, the girls are hypnotized by the evil character, who hypnotizes his victims before using their charms to seduce the rich tourists.",
+        "popularity": 13.885,
+        "poster_path": "/br7Dgw7qU6hCY8V8RoMRPfCDp2K.jpg",
+        "release_date": "1992-01-14",
+        "title": "Joy in Moscow",
+        "video": false,
+        "vote_average": 6.719,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cxjlVtThxrNn9Z5JDG9SUCMsbu7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 4931,
+        "original_language": "en",
+        "original_title": "Madigan",
+        "overview": "NYPD detectives Bonaro and Madigan lose their guns to fugitive Barney Benesch. As compensation, they are given a weekend to bring Benesch to justice. While they follow various leads, Police Commissioner Russell goes about his duties, including attending functions, meeting with aggrieved relatives, and counseling the spouses of fallen officers.",
+        "popularity": 13.88,
+        "poster_path": "/hj4AgOat5aQUVQfKOi2KNdmnCNc.jpg",
+        "release_date": "1968-03-29",
+        "title": "Madigan",
+        "video": false,
+        "vote_average": 6.13,
+        "vote_count": 73
+    }
+]

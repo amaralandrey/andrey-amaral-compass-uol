@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/lpUhZCKmxtIE9EEvUsgJRW22xtk.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 10795,
+        "original_language": "fr",
+        "original_title": "Ne le dis à personne",
+        "overview": "A man receives a mysterious e-mail appearing to be from his wife, who was murdered years earlier. As he frantically tries to find out whether she's alive, he finds himself being implicated in her death.",
+        "popularity": 23.492,
+        "poster_path": "/fr2wEeO1H8dzx6EDfzYTRBIvZaE.jpg",
+        "release_date": "2006-11-01",
+        "title": "Tell No One",
+        "video": false,
+        "vote_average": 7.254,
+        "vote_count": 1355
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hQugaB1DFdlazQNZYDTLPOGBn4v.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 2144,
+        "original_language": "en",
+        "original_title": "One Night at McCool's",
+        "overview": "On an ordinary night, in an ordinary part of town, a beautiful young woman walks into a bar. Her name is Jewel, and before long she is chatting to bartender Randy. The pair leave together, but he ends up getting into a tussle with her criminal boyfriend, who she then shoots dead, later persuading Randy to take the rap for her. But this isn't the end of it, as both Randy's cousin Carl and the detective assigned to the murder case also fall for Jewel's charms and find themselves caught up in the ensuing events. It seems that any man who meets Jewel falls instantly in love with her, and she's going to use this fully to her own advantage, leaving a trail of havoc in her wake. It also seems that she is going to get away with it - that is, until Randy decides to hire a hitman...",
+        "popularity": 23.489,
+        "poster_path": "/aIJAjhdMqraB1tkSii9BWuUXd8q.jpg",
+        "release_date": "2001-04-19",
+        "title": "One Night at McCool's",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 331
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uybT3vd3lvvdQZdK4YAZTG7cmOa.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10402
+        ],
+        "id": 12473,
+        "original_language": "en",
+        "original_title": "The Visitor",
+        "overview": "A college professor travels to New York City to attend a conference and finds a young couple living in his apartment.",
+        "popularity": 23.485,
+        "poster_path": "/9XRRSD7swlYrGBhZ8vOR2yngIKZ.jpg",
+        "release_date": "2007-09-07",
+        "title": "The Visitor",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 427
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mYGxfMf1Nc4xmkRPawvdI3mg8l9.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 14673,
+        "original_language": "en",
+        "original_title": "Savage Streets",
+        "overview": "Brenda, vivacious leader of the \"Satins\", a fun-loving group of pretty high school girls, searches for deadly vengeance against the gang members who assaulted her deaf-mute sister.",
+        "popularity": 23.473,
+        "poster_path": "/ok3GMMM9NIAak5tOfObM7SHFJJ3.jpg",
+        "release_date": "1984-08-30",
+        "title": "Savage Streets",
+        "video": false,
+        "vote_average": 6.252,
+        "vote_count": 125
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AefgE9AkTfXHPr1vq96vdeyZZVM.jpg",
+        "genre_ids": [
+            80,
+            53,
+            37
+        ],
+        "id": 395817,
+        "original_language": "en",
+        "original_title": "The Thicket",
+        "overview": "An innocent young man, Jack, goes on an epic quest to rescue his sister Lula after she has been kidnapped by the violent killer Cut Throat Bill and her gang. To save her, Jack enlists the help of a crafty bounty hunter named Reginald Jones, a grave-digging alcoholic son of an ex-slave, and a street-smart prostitute. The gang tracks Cut Throat Bill into the deadly no-man’s land known as The Big Thicket — a place where blood and chaos reign.",
+        "popularity": 23.459,
+        "poster_path": "/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg",
+        "release_date": "2024-09-05",
+        "title": "The Thicket",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7WCWQnctUiaor3QFb3JLLj0isOg.jpg",
+        "genre_ids": [
+            12,
+            35,
+            80,
+            28,
+            9648
+        ],
+        "id": 500378,
+        "original_language": "ko",
+        "original_title": "조선명탐정: 흡혈괴마의 비밀",
+        "overview": "When a series of murders occur in Kanghwa Island, Detective K and his partner are once again called upon to solve the case. Along the way, he teams up with a beautiful woman with amnesia and together they discover Vampire bite marks on all the bodies. As they investigate further, they realize that the woman is somehow closely connected to the deaths.",
+        "popularity": 23.456,
+        "poster_path": "/AiCgABLFobVyogs3Kppqtg1M30l.jpg",
+        "release_date": "2018-02-08",
+        "title": "Detective K: Secret of the Living Dead",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mbvoECA6NHERvTZ80ZzL7lRvpJ6.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 426272,
+        "original_language": "en",
+        "original_title": "Take Me",
+        "overview": "Ray is a fledgling entrepreneur who specializes in high-end simulated abductions. He jumps at the chance when a mysterious client contracts him for a weekend kidnapping with a handsome payday at the end. But the job isn't all that it seems.",
+        "popularity": 23.436,
+        "poster_path": "/7fd3hbfrx2lUzQr5uOTI9Ej4lcx.jpg",
+        "release_date": "2017-05-05",
+        "title": "Take Me",
+        "video": false,
+        "vote_average": 5.796,
+        "vote_count": 201
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gulpbpfwzaC6ls7w7XYON7KqWc5.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 1216385,
+        "original_language": "bn",
+        "original_title": "তুফান",
+        "overview": "Born into tragedy, Galib rises from village outcast to criminal mastermind \"Toofan\" in 90s Bangladesh. As authorities close in, he takes desperate measures to maintain his empire, sparking a dangerous game of power and identity.",
+        "popularity": 23.415,
+        "poster_path": "/5TS3piPf3ZqISbRSrJ8lYeGQvfQ.jpg",
+        "release_date": "2024-06-17",
+        "title": "Toofan",
+        "video": false,
+        "vote_average": 9.2,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6OdAJJZBkOMSBw8hzHX9Mzkwa17.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            27
+        ],
+        "id": 658497,
+        "original_language": "ja",
+        "original_title": "ホームジャック カルテット",
+        "overview": "\"Jack\" targets a fashion model and her photographer, while the photographer's ex-wife and her new boyfriend are also drawn into the action.",
+        "popularity": 23.404,
+        "poster_path": "/tjbecwsLnAZLoG55RvlUDBpQFeF.jpg",
+        "release_date": "2018-11-02",
+        "title": "Homejack Quartet",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/obTdaJ22RNFi3fmzUVT5eWOFsOe.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 728366,
+        "original_language": "en",
+        "original_title": "Borrego",
+        "overview": "A young botanist relocates to a small desert town to study an invasive plant species. While out on research, she comes to the aid of a downed plane only to find herself taken captive by an inexperienced drug mule who forces her to lead a trek across the sweltering desert to his drop. A local sheriff is drawn into the hunt as his rebellious daughter sets out to find the missing botanist, all the while being pursued by a local drug receiver.",
+        "popularity": 23.399,
+        "poster_path": "/kPzQtr5LTheO0mBodIeAXHgthYX.jpg",
+        "release_date": "2022-01-14",
+        "title": "Borrego",
+        "video": false,
+        "vote_average": 5.868,
+        "vote_count": 95
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8xX8gakaGXFn2pJqkQJahTx51E8.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            27
+        ],
+        "id": 642328,
+        "original_language": "ja",
+        "original_title": "ホームジャック リバース",
+        "overview": "The roles are reversed in this sequel to the 2016 film, with two women \"raping\" a man during a home invasion.",
+        "popularity": 23.397,
+        "poster_path": "/a0IPrqave68af3xrm9CXpaOU6Ho.jpg",
+        "release_date": "2017-04-05",
+        "title": "Homejack Reverse",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2AnWtbrtWgZBiul29Fe3ArddSsv.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            12,
+            80
+        ],
+        "id": 9828,
+        "original_language": "en",
+        "original_title": "Unknown",
+        "overview": "Five men wake up in a locked-down warehouse with no memory of who they are. They are forced to figure out who is good and who is bad to stay alive.",
+        "popularity": 23.396,
+        "poster_path": "/99cjPBQdNN9dJwfzfJYrtI1O4ZR.jpg",
+        "release_date": "2006-11-03",
+        "title": "Unknown",
+        "video": false,
+        "vote_average": 6.213,
+        "vote_count": 410
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sSDRNbPa7eUv5yN7cAVSCwn8FEq.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 61952,
+        "original_language": "ko",
+        "original_title": "바람난 가족",
+        "overview": "A woman, married and with a child but becoming increasingly distant from her husband who is already cheating on her, reluctantly enters a secret relationship with her neighbor, a teenage boy.",
+        "popularity": 23.394,
+        "poster_path": "/eNmfYjGMuIlFK3MOuTYKh6hyXcb.jpg",
+        "release_date": "2003-08-14",
+        "title": "A Good Lawyer's Wife",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nCiTVzB58NuKUjZ8p2zVykQY7GO.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            80
+        ],
+        "id": 835975,
+        "original_language": "de",
+        "original_title": "Große Freiheit",
+        "overview": "In post-war Germany, liberation by the Allies does not mean freedom for everyone. Hans Hoffmann is repeatedly imprisoned under Paragraph 175, which criminalizes homosexuality. Nevertheless, over the decades, he continues his quest for freedom and love, even if he finds it in the most unusual places.",
+        "popularity": 23.391,
+        "poster_path": "/vbx3xp83wLo3ocdzhs3BvGHcrsF.jpg",
+        "release_date": "2021-11-18",
+        "title": "Great Freedom",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 141
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7GoQaUpyJPL7WaDQSBMrCXemUFF.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 22828,
+        "original_language": "en",
+        "original_title": "Homicide",
+        "overview": "A Jewish homicide detective investigates a seemingly minor murder and falls in with a Zionist group as a result.",
+        "popularity": 23.377,
+        "poster_path": "/1CywcTyQ2Dbh7LA0Lcf13iaC1ig.jpg",
+        "release_date": "1991-05-28",
+        "title": "Homicide",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 132
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5v60mZhF7nLgmPS3qZ9JUwDr33l.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 514277,
+        "original_language": "en",
+        "original_title": "Mara",
+        "overview": "Criminal psychologist Kate Fuller is assigned to the murder of a man who has seemingly been strangled in his sleep by his wife and the only witness is their eight-year-old daughter, Sophie. As Kate digs into the mystery of an ancient demon which kills people in their sleep, she experiences the same petrifying symptoms as all previous victims and spirals through a chilling nightmare to save herself and Sophie before she dares fall asleep again.",
+        "popularity": 23.364,
+        "poster_path": "/gQDmXAef1Oc1SXci5mui2x5DJwt.jpg",
+        "release_date": "2018-08-22",
+        "title": "Mara",
+        "video": false,
+        "vote_average": 5.687,
+        "vote_count": 367
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/20UhxASP1EpVQ5KIVsGtEwT0d84.jpg",
+        "genre_ids": [
+            10402,
+            878,
+            28,
+            18,
+            80
+        ],
+        "id": 240566,
+        "original_language": "ja",
+        "original_title": "トウキョウ トライブ",
+        "overview": "In an alternate Japan, territorial street gangs form opposing factions collectively known as the Tokyo Tribes. The simmering tension between them is about to boil over into all-out war.",
+        "popularity": 23.359,
+        "poster_path": "/cpvQrnZwGvzG0moL4oMdmKMYKDB.jpg",
+        "release_date": "2014-08-30",
+        "title": "Tokyo Tribe",
+        "video": false,
+        "vote_average": 6.547,
+        "vote_count": 150
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vGNO9WZQnT3GV9zYOIfp3ggQHhw.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 438798,
+        "original_language": "ko",
+        "original_title": "프리즌",
+        "overview": "An imprisoned ex-police inspector discovers that the entire penitentiary is controlled by an inmate running a crime syndicate and becomes part of the crime empire.",
+        "popularity": 23.351,
+        "poster_path": "/wlyaPaVqwbj2QNYZRxUV8AzguBD.jpg",
+        "release_date": "2017-03-23",
+        "title": "The Prison",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1295521,
+        "original_language": "ne",
+        "original_title": "सूर्य मुनि एक ठाउँ",
+        "overview": "A trio of best friends host a barbecue before moving on to the next chapters of their lives. However, the party is cut short when a stranger invites himself in, as secrets unfold.",
+        "popularity": 23.348,
+        "poster_path": null,
+        "release_date": "2024-07-29",
+        "title": "A Place Under the Sun",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nMxucwkm4dAT7kfxV98dXqs6P0w.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 31850,
+        "original_language": "ko",
+        "original_title": "똥파리",
+        "overview": "Sang-hoon is a lowlife gangster, a debt collector exercising thuggish ways to collect his money. The recipient of nothing but anger since his childhood, he expresses himself through violence. When he finally encounters someone who can stand up to him, feisty school-girl Yoon-hee they become unlikely friends.",
+        "popularity": 23.345,
+        "poster_path": "/9ZPPjSoPWN4BPea2h8sd6L7skSI.jpg",
+        "release_date": "2009-04-16",
+        "title": "Breathless",
+        "video": false,
+        "vote_average": 7.203,
+        "vote_count": 116
+    }
+]

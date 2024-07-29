@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/sDrdMSDpysmJmsixcwaf07jDlq2.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 529210,
+        "original_language": "es",
+        "original_title": "La sombra de la ley",
+        "overview": "Barcelona, ​​Spain, 1921. A tough cop from Madrid arrives in the city to locate, under the suspicious scrutiny of corrupt local police officers, a significant amount of military weaponry stolen from a train, allegedly by revolutionary anarchists.",
+        "popularity": 19.383,
+        "poster_path": "/4NHhkMHXROCiPMb8gjmRI6AMX4I.jpg",
+        "release_date": "2018-10-11",
+        "title": "Gun City",
+        "video": false,
+        "vote_average": 6.295,
+        "vote_count": 185
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1sVuwHkwGvwyHKIGaiBgp7YPXrP.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 70202,
+        "original_language": "en",
+        "original_title": "Patty Hearst",
+        "overview": "The true story of a rich girl who was abducted by American revolutionaries in the 1970's. Her time spent with her captors made her question herself and her way of life and she joined forces with the cause that her abductors were fighting for. This created a US scandal and Patty Hearst has become a pop culture fixture.",
+        "popularity": 19.378,
+        "poster_path": "/tKXJOVLOVG7lO2enlB89n9tkv7T.jpg",
+        "release_date": "1988-09-23",
+        "title": "Patty Hearst",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ubw8VzDkffEu30EMYwfERCRgQTQ.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 59117,
+        "original_language": "es",
+        "original_title": "Torrente 4: Lethal crisis",
+        "overview": "In Lethal Crisis, the world's most uncouth private eye is framed for a crime he didn't commit in the riotous fourth installment of the Torrente series.",
+        "popularity": 19.368,
+        "poster_path": "/6MO80EryNTC4s7LyEpu599r15ed.jpg",
+        "release_date": "2011-03-11",
+        "title": "Torrente 4: Lethal crisis",
+        "video": false,
+        "vote_average": 5.478,
+        "vote_count": 161
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nVsafGz36BIbtkUWX6pZcZmebrW.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 656991,
+        "original_language": "en",
+        "original_title": "Wild Indian",
+        "overview": "Decades after covering up his classmate’s murder, Michael has moved on from his reservation and fractured past. When a man who shares his violent secret seeks vengeance, Michael goes to great lengths to protect his new life with his wife and boss from the demons of his past.",
+        "popularity": 19.364,
+        "poster_path": "/yhOpkNvgW1ZzmEpR4iqxKwKKShL.jpg",
+        "release_date": "2021-09-03",
+        "title": "Wild Indian",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bIqwnFmZVZ2AWo0dcMIpLhoEyHa.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 608804,
+        "original_language": "pt",
+        "original_title": "A Menina que Matou os Pais",
+        "overview": "Based on one of the most shocking and gruesome murder cases in Brazil, the film presents Daniel Cravinhos's point of view of the events that led to the death of Marísia and Manfred von Richthofen, his girlfriend’s parents.",
+        "popularity": 19.352,
+        "poster_path": "/7gqZyGlLjNKXIk8RBswqAGJygVz.jpg",
+        "release_date": "2021-09-24",
+        "title": "The Girl Who Killed Her Parents",
+        "video": false,
+        "vote_average": 6.373,
+        "vote_count": 245
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m2oXgvtSFg83CkkRIjHxzmrd9rW.jpg",
+        "genre_ids": [
+            80,
+            12,
+            28
+        ],
+        "id": 15066,
+        "original_language": "en",
+        "original_title": "Walking Tall: The Payback",
+        "overview": "A man goes back to his hometown that is now overrun with crime and single-handedly takes justice into his own hands.",
+        "popularity": 19.35,
+        "poster_path": "/iFcj8hnHyNSJp1ZGlodemcjiyjS.jpg",
+        "release_date": "2007-02-20",
+        "title": "Walking Tall: The Payback",
+        "video": false,
+        "vote_average": 6.135,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5hmW7NJaWBpUS4GMmUsiqWGjDAI.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 394661,
+        "original_language": "en",
+        "original_title": "Sacrifice",
+        "overview": "Sacrifice is the story of consultant surgeon, Tora Hamilton, who moves with her husband, Duncan, to the remote Shetland Islands, 100 miles off the north-east coast of Scotland. Deep in the peat soil around her new home, Tora discovers the body of a young woman with rune marks carved into her skin and a gaping hole where her heart once beat. Ignoring warnings to leave well alone, Tora uncovers terrifying links to a legend that might never have been confined to the pages of the story-books.",
+        "popularity": 19.348,
+        "poster_path": "/eVrlNY7SbWmTslaRlJvo3sMsZm4.jpg",
+        "release_date": "2016-04-29",
+        "title": "Sacrifice",
+        "video": false,
+        "vote_average": 5.297,
+        "vote_count": 217
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gd0T9aTZhnEHdkTrMUE3bbLPPwi.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 28415,
+        "original_language": "en",
+        "original_title": "The Yakuza",
+        "overview": "Harry Kilmer returns to Japan after several years in order to rescue his friend George's kidnapped daughter - and ends up on the wrong side of the Yakuza, the notorious Japanese mafia.",
+        "popularity": 19.348,
+        "poster_path": "/AgD8nbLXo6YpBxv71A2vdJHs03D.jpg",
+        "release_date": "1974-12-21",
+        "title": "The Yakuza",
+        "video": false,
+        "vote_average": 7.093,
+        "vote_count": 178
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xYPvwq7XMQ28zbissZHVigFJZ2J.jpg",
+        "genre_ids": [
+            80,
+            35,
+            18,
+            53
+        ],
+        "id": 22242,
+        "original_language": "en",
+        "original_title": "Dirty Deeds",
+        "overview": "Set in 1960s Sydney, this is the story of an Australian gangster whose booming business, buoyed by the influx of U.S. soldiers in town for R&R during their tours in Vietnam, attracts the attention of first the Chicago mafia, and then their East Coast competitors.",
+        "popularity": 19.346,
+        "poster_path": "/4nM2AlzAoRzxlBRP5OoalpPbujQ.jpg",
+        "release_date": "2002-07-18",
+        "title": "Dirty Deeds",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x1I63Mm5KU2DXjL4HdBy6JaGTms.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            12
+        ],
+        "id": 626392,
+        "original_language": "ta",
+        "original_title": "மாஸ்டர்",
+        "overview": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster, who uses the children of the school for criminal activities.",
+        "popularity": 19.345,
+        "poster_path": "/wjbOlovDadOdPKkSAMohLCjbIsc.jpg",
+        "release_date": "2021-01-13",
+        "title": "Master",
+        "video": false,
+        "vote_average": 6.889,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ou0QMbeDPVY3wDsf3vLNaT7Y5ac.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 490033,
+        "original_language": "da",
+        "original_title": "Holiday",
+        "overview": "Sascha, the young and beautiful trophy girlfriend of a Danish drug lord, arrives at his holiday villa in the seaside town of Bodrum, on the Turkish Riviera, where she is welcomed into his inner circle. Under the summer sun, she lives a carefree dream of luxury and fun until she meets Tomas, a Dutch traveler trying to discover himself.",
+        "popularity": 19.343,
+        "poster_path": "/5NU063sVE2Y3zNg8isOIG5RSrDL.jpg",
+        "release_date": "2018-10-11",
+        "title": "Holiday",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hQ4pYsIbP22TMXOUdSfC2mjWrO0.jpg",
+        "genre_ids": [
+            18,
+            35,
+            10749,
+            80
+        ],
+        "id": 2,
+        "original_language": "fi",
+        "original_title": "Ariel",
+        "overview": "After the coal mine he works at closes and his father commits suicide, a Finnish man leaves for the city to make a living but there, he is framed and imprisoned for various crimes.",
+        "popularity": 19.343,
+        "poster_path": "/ojDg0PGvs6R9xYFodRct2kdI6wC.jpg",
+        "release_date": "1988-10-21",
+        "title": "Ariel",
+        "video": false,
+        "vote_average": 7.107,
+        "vote_count": 326
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vpz2ifA14M68XOneyAXyO5vIIgW.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 52999,
+        "original_language": "fr",
+        "original_title": "L'Adversaire",
+        "overview": "Based on the 2000 book of the same name by Emmanuel Carrère, it is inspired by the real-life story of Jean-Claude Romand. L'Adversaire's protagonist Jean-Marc Faure (Auteuil) pursues an imaginary career as a doctor of medicine in a plot more closely based on Romand's life and Carrère's book than was Laurent Cantet's 2001 film L'Emploi du Temps. The film was nominated for a Palme d'Or at the 2002 Cannes Film Festival.",
+        "popularity": 19.334,
+        "poster_path": "/aszdSOpOskv1THDeOvLKiQQwdJc.jpg",
+        "release_date": "2002-08-28",
+        "title": "The Adversary",
+        "video": false,
+        "vote_average": 6.568,
+        "vote_count": 169
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qfLhhTxRmZdeXDtass4z1Q9uNDo.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 20025,
+        "original_language": "en",
+        "original_title": "Thieves' Highway",
+        "overview": "Nick Garcos comes back from his tour of duty in World War II planning to settle down with his girlfriend, Polly Faber. He learns, however, that his father was recently beaten and burglarized by mob-connected trucker Mike Figlia, and Nick resolves to get even. He partners with prostitute Rica, and together they go after Mike, all the while getting pulled further into the local crime underworld.",
+        "popularity": 19.317,
+        "poster_path": "/ljnFEsYQXeoW03Jagw159xVDP0J.jpg",
+        "release_date": "1949-09-20",
+        "title": "Thieves' Highway",
+        "video": false,
+        "vote_average": 7.26,
+        "vote_count": 99
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6a3ujnxG9ssrxPHO9NzBs3Cg8v5.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            9648
+        ],
+        "id": 26200,
+        "original_language": "en",
+        "original_title": "The Nude Bomb",
+        "overview": "When KAOS develops a bomb that can dissolve all clothing, Maxwell Smart is brought in to foil the evil plot.",
+        "popularity": 19.296,
+        "poster_path": "/mVfE0NFopRh528lJyG30ZeD0eSE.jpg",
+        "release_date": "1980-05-09",
+        "title": "The Nude Bomb",
+        "video": false,
+        "vote_average": 5.487,
+        "vote_count": 77
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kJtEJ5eLueljlnLEzl2O3A4UlZe.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            10749
+        ],
+        "id": 44877,
+        "original_language": "en",
+        "original_title": "4.3.2.1",
+        "overview": "Jo is chained down in a dead end supermarket job while all her friends are all out on their own separate adventures. But a chance encounter with some diamond thieves sends their separate worlds on a collision course with not only each other, but fate itself.",
+        "popularity": 19.278,
+        "poster_path": "/exk2AVJKHWTEk7wjUbaTNfQWDme.jpg",
+        "release_date": "2010-06-02",
+        "title": "4.3.2.1",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 192
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9saZLz3QfDv7LBY9EGZoJsXnioZ.jpg",
+        "genre_ids": [
+            27,
+            80,
+            18,
+            53
+        ],
+        "id": 15711,
+        "original_language": "en",
+        "original_title": "The Lost",
+        "overview": "A charismatic psycho suspected of killing two innocent campers in a cold-blooded double homicide grows increasingly unstable as his suburban empire starts to crack at the foundations.",
+        "popularity": 19.272,
+        "poster_path": "/7umv0xy6252iBzQz4OgbII8xnQw.jpg",
+        "release_date": "2006-03-11",
+        "title": "The Lost",
+        "video": false,
+        "vote_average": 5.223,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4AhpNlgYxywqAUB18owZiDPKD3a.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 56149,
+        "original_language": "en",
+        "original_title": "Bottle Rocket",
+        "overview": "Dysfunctional friends Dignan and Anthony plan and execute a robbery with their pot-growing friend, Bob. The short film that inspired Wes Anderson’s feature debut.",
+        "popularity": 19.271,
+        "poster_path": "/3NIxuMUmChKL94BXudMMMsBDe8o.jpg",
+        "release_date": "1994-01-20",
+        "title": "Bottle Rocket",
+        "video": false,
+        "vote_average": 6.276,
+        "vote_count": 181
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vJ3ED2jPblACDqaJPZlbN6T1yjy.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 776821,
+        "original_language": "es",
+        "original_title": "Las leyes de la frontera",
+        "overview": "Introverted Girona student Nacho meets two delinquents from the city's Chinatown and gets caught up in a summer onslaught of burglaries and hold ups that will change his life.",
+        "popularity": 19.264,
+        "poster_path": "/qrq7sGXraFM6H9OcHFKQTKe8A3f.jpg",
+        "release_date": "2021-10-08",
+        "title": "Outlaws",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 197
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gFxWT2oNiS2BixbYUzXQndvLApZ.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 661020,
+        "original_language": "en",
+        "original_title": "Adverse",
+        "overview": "In order to save his sister, a ride-share driver must infiltrate a dangerous crime syndicate.",
+        "popularity": 19.26,
+        "poster_path": "/e2rzzyY2qNJNGE0jhBkTFTjiFpm.jpg",
+        "release_date": "2021-02-12",
+        "title": "Adverse",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 37
+    }
+]

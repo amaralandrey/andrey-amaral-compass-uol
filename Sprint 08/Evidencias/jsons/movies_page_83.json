@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/8pExGvEn8lLj9Lf7GDTWnGT5heB.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "id": 3766,
+        "original_language": "en",
+        "original_title": "The Lady from Shanghai",
+        "overview": "A romantic drifter gets caught between a corrupt tycoon and his voluptuous wife.",
+        "popularity": 25.854,
+        "poster_path": "/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
+        "release_date": "1947-12-24",
+        "title": "The Lady from Shanghai",
+        "video": false,
+        "vote_average": 7.362,
+        "vote_count": 621
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1GGc5XXaFgNBoJnOEBJCnXSMwhx.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 743563,
+        "original_language": "ta",
+        "original_title": "விக்ரம்",
+        "overview": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved.",
+        "popularity": 25.847,
+        "poster_path": "/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+        "release_date": "2022-06-02",
+        "title": "Vikram",
+        "video": false,
+        "vote_average": 7.651,
+        "vote_count": 106
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pkL5Irj4WYU27jziUSgwl1d7d0D.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 34314,
+        "original_language": "en",
+        "original_title": "Turbulence",
+        "overview": "On a flight transporting dangerous convicts, murderer Ryan Weaver manages to break free and cause complete chaos throughout the plane. As various people on board fall victim to Weaver, it is ultimately down to flight attendant Teri Halloran to keep the aircraft from crashing, with on-ground support from an air traffic controller. While Halloran struggles to pilot the plane, Weaver continues to terrorize the surviving members of the crew.",
+        "popularity": 25.836,
+        "poster_path": "/gnsxWkxWHPXMOAzXvS7aKMSKP0N.jpg",
+        "release_date": "1997-01-09",
+        "title": "Turbulence",
+        "video": false,
+        "vote_average": 5.299,
+        "vote_count": 231
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9iemEC0cGDNyRepa3leXJNkUwkX.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 251577,
+        "original_language": "nl",
+        "original_title": "De Behandeling",
+        "overview": "Inspector Nick Cafmeyer seems to have it all - looks, brains and a successful career.  But a dark cloud hangs over his life: since the age of nine, he has been haunted by the unsolved disappearance of his younger brother, Bjorn. Plettinckx, a known sex offender, was questioned but quickly released. Plettinckx lives close by and takes fiendish pleasure in harassing Nick. Then, when a disturbing case comes to light involving a missing nine-year-old, Nick heads a massive search which turns into a relentless manhunt.",
+        "popularity": 25.787,
+        "poster_path": "/nzVhjAjEaugzs0CSmEO50W5mTcc.jpg",
+        "release_date": "2014-01-29",
+        "title": "The Treatment",
+        "video": false,
+        "vote_average": 6.965,
+        "vote_count": 189
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mOAfltAX1xtY6kunfAmF4BZjO8A.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 12268,
+        "original_language": "en",
+        "original_title": "The Pink Panther Strikes Again",
+        "overview": "Charles Dreyfus, who has finally cracked over inspector Clouseau's antics, escapes from a mental institution and launches an elaborate plan to get rid of Clouseau once and for all.",
+        "popularity": 25.785,
+        "poster_path": "/GGCch9LNAKwp4ZADAcNz1hd1dn.jpg",
+        "release_date": "1976-12-15",
+        "title": "The Pink Panther Strikes Again",
+        "video": false,
+        "vote_average": 6.851,
+        "vote_count": 517
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dkgplVbkak7OEBIq2h5jAFLI6bO.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80,
+            12,
+            53
+        ],
+        "id": 2728,
+        "original_language": "en",
+        "original_title": "Postal",
+        "overview": "The story begins with a regular Joe who tries desperately to seek employment, but embarks on a violent rampage when he teams up with cult leader Uncle Dave. Their first act is to heist an amusement park, only to learn that the Taliban are planning the same heist as well. Chaos ensues, and now the Postal Dude must not only take on terrorists but also political figures.",
+        "popularity": 25.749,
+        "poster_path": "/io5rib01NcGDQ05uXMTc2SINuq7.jpg",
+        "release_date": "2007-10-18",
+        "title": "Postal",
+        "video": false,
+        "vote_average": 4.606,
+        "vote_count": 324
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/611tmWkvhAXsaltcX3h4hSVcYfG.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 650783,
+        "original_language": "en",
+        "original_title": "The Comeback Trail",
+        "overview": "Two movie producers who owe money to the mob set up their aging movie star for an insurance scam to try and save themselves. But they wind up getting more than they ever imagined.",
+        "popularity": 25.743,
+        "poster_path": "/ublJIJbc2NZ30ptXj4O2d2apo1t.jpg",
+        "release_date": "2020-11-12",
+        "title": "The Comeback Trail",
+        "video": false,
+        "vote_average": 5.861,
+        "vote_count": 299
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lw8GddcSsv9Yl5qc1KP5XvIIa38.jpg",
+        "genre_ids": [
+            35,
+            80,
+            12
+        ],
+        "id": 5052,
+        "original_language": "en",
+        "original_title": "Topkapi",
+        "overview": "Arthur Simon Simpson is a small-time crook biding his time in Greece. One of his potential victims turns out to be a gentleman thief planning to steal the emerald-encrusted dagger of the Mehmed II from Istanbul's Topkapi Museum.",
+        "popularity": 25.736,
+        "poster_path": "/pPlJbEkiDjt8opos6Qg0GWLiuSS.jpg",
+        "release_date": "1964-09-02",
+        "title": "Topkapi",
+        "video": false,
+        "vote_average": 6.45,
+        "vote_count": 180
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9GYvt6C9hzoW7tS4kaz00omOTb5.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648
+        ],
+        "id": 14240,
+        "original_language": "en",
+        "original_title": "Maniac Cop",
+        "overview": "Innocent people are brutally killed on the streets of New York by a uniformed police officer. A young cop, Jack Forrest, finds himself marked as the chief suspect after his wife is murdered.",
+        "popularity": 25.735,
+        "poster_path": "/kFml1HbZlsekXO0m11UN4oPwZvo.jpg",
+        "release_date": "1988-05-13",
+        "title": "Maniac Cop",
+        "video": false,
+        "vote_average": 6.134,
+        "vote_count": 449
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/QfgzgVa6bfZgY3mEeiobRduVkh.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80,
+            27
+        ],
+        "id": 15483,
+        "original_language": "it",
+        "original_title": "Il cartaio",
+        "overview": "Policewoman Anna Mari is forced to play a dangerous game with the title serial killer. If she loses, she witnesses the maniac's tortured victims having their throats cut in explicit close-up detail via webcam. She teams up with British cop John Brennan to find out the identity of the murderer.",
+        "popularity": 25.722,
+        "poster_path": "/t6R8gwVL6NU2bUtcIc3JJOpeUlO.jpg",
+        "release_date": "2004-01-02",
+        "title": "The Card Player",
+        "video": false,
+        "vote_average": 4.368,
+        "vote_count": 212
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iZ9ssYStIgQ9NQQJCEX0XLt38mo.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 18395,
+        "original_language": "en",
+        "original_title": "Exit to Eden",
+        "overview": "Photographer Elliot Slater has inadvertently snapped the only existing photos of elusive jewel thief Omar. When Elliot leaves for a private vacation on an S&M island, he is followed by Omar; Omar's partner, Nina; and police officers Fred and Sheila. Unaware of the number of people chasing him, Elliot enjoys his stay at the resort, and finds himself falling in love with head dominatrix Lisa.",
+        "popularity": 25.711,
+        "poster_path": "/dUtpplO9K03uYCA71Vqj9ZRkVyA.jpg",
+        "release_date": "1994-10-14",
+        "title": "Exit to Eden",
+        "video": false,
+        "vote_average": 4.057,
+        "vote_count": 88
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7v5OAruBWfppcGtBbjbZoz1dXKc.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 256569,
+        "original_language": "en",
+        "original_title": "Trespass Against Us",
+        "overview": "Three generations of the rowdy Cutler family live as outlaws in some of Britain's richest countryside – hunting hares, ram-raiding stately homes, and taunting the police. Struggling to retain a way of life fast becoming extinct, Chad Cutler ends up caught between his father's archaic principles and trying to do right by his kids, whilst the full force of the law is finally catching up with him.",
+        "popularity": 25.705,
+        "poster_path": "/soAl3j6UkSVycQ2TSRrMIfhMuFN.jpg",
+        "release_date": "2016-10-14",
+        "title": "Trespass Against Us",
+        "video": false,
+        "vote_average": 5.786,
+        "vote_count": 316
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x7iqHlTbFpZDOMZJHNxfQsG7E13.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 429422,
+        "original_language": "en",
+        "original_title": "Capone",
+        "overview": "The 47-year old Al Capone, after 10 years in prison, starts suffering from dementia and comes to be haunted by his violent past.",
+        "popularity": 25.676,
+        "poster_path": "/75gDv38UgRtAukSxNXcjatyQmEa.jpg",
+        "release_date": "2020-06-26",
+        "title": "Capone",
+        "video": false,
+        "vote_average": 4.989,
+        "vote_count": 360
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zvON4pGBwtkNRMsUPrcMblqryLb.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 20289,
+        "original_language": "en",
+        "original_title": "Rush",
+        "overview": "Undercover cop Jim Raynor (Jason Patric) is a seasoned veteran. His partner, Kristen Cates (Jennifer Jason Leigh), is lacking in experience, but he thinks she's tough enough to work his next case with him: a deep cover assignment to bring down the notoriously hard-to-capture drug lord Gaines (Gregg Allman). While their relationship turns romantic during the assignment, they also turn into junkies, and will have to battle their own addictions if they want to bring down Gaines once and for all.",
+        "popularity": 25.674,
+        "poster_path": "/uh3yZz3rlUU1m4pPqtLQtDdv9cX.jpg",
+        "release_date": "1991-12-22",
+        "title": "Rush",
+        "video": false,
+        "vote_average": 6.668,
+        "vote_count": 125
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k4fONqniV20vCzuCnFuRD6hGZW0.jpg",
+        "genre_ids": [
+            16,
+            35,
+            10751,
+            80
+        ],
+        "id": 553903,
+        "original_language": "en",
+        "original_title": "Yellow Is the New Black",
+        "overview": "An adventure about two minions which try to escape from jail.",
+        "popularity": 25.668,
+        "poster_path": "/4lx8u3QZQN9yTuGLHrzSeR7QCQY.jpg",
+        "release_date": "2018-11-09",
+        "title": "Yellow Is the New Black",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ybkfa5trLyQ1jGZcxe0qm7ZZH6n.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1075540,
+        "original_language": "de",
+        "original_title": "Immerstill",
+        "overview": "When Lisa's younger sister suddenly disappears without a trace, she returns to her home village to search for the missing girl on her own. But before she can follow up a real lead, a dead girl is found by the river.",
+        "popularity": 25.665,
+        "poster_path": "/4tOvWuKVmwQQTrVg8zeL0IsKYHV.jpg",
+        "release_date": "2023-01-17",
+        "title": "Without a Trace",
+        "video": false,
+        "vote_average": 6.432,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mtUYpuzDHAMAdR3KVPJ48KpXh6K.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 851976,
+        "original_language": "pl",
+        "original_title": "Small World",
+        "overview": "After disappearing from a small Polish town, a mother discovers her 4-year old daughter, Ola, has been abducted by the Russian Mafia. In pursuit of her daughter, she is stopped for speeding by a police officer, Robert Goc. His intervention results in the escape of the kidnappers across the Eastern border. Feeling guilt for failing to prevent the abduction, Robert becomes engaged in an international investigation to find the missing girl.",
+        "popularity": 25.665,
+        "poster_path": "/n1QZaSTZI12Ne3uG8zPWIGg0Suj.jpg",
+        "release_date": "2021-09-10",
+        "title": "Small World",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 90
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/goXrXOu33pUYzYlEnZH6oRVn4g.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            80
+        ],
+        "id": 2786,
+        "original_language": "fr",
+        "original_title": "Pierrot le fou",
+        "overview": "Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.",
+        "popularity": 25.654,
+        "poster_path": "/i124H6iQB4CawrgFW9aZaZs7OBO.jpg",
+        "release_date": "1965-11-05",
+        "title": "Pierrot le Fou",
+        "video": false,
+        "vote_average": 7.411,
+        "vote_count": 822
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w9r0ojTUerq4HBWNkZ6eN8M3Tnu.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 6687,
+        "original_language": "en",
+        "original_title": "TransSiberian",
+        "overview": "A TransSiberian train journey from China to Moscow becomes a thrilling chase of deception and murder when an American couple encounters a mysterious pair of fellow travelers.",
+        "popularity": 25.629,
+        "poster_path": "/dhTOda5CLp9tEdDzQZiqBTdv5lR.jpg",
+        "release_date": "2008-01-18",
+        "title": "TransSiberian",
+        "video": false,
+        "vote_average": 6.386,
+        "vote_count": 700
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jnq4fV53Px9HvUZD2bQIxtGSwS7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 644083,
+        "original_language": "en",
+        "original_title": "Twist",
+        "overview": "A Dickens classic brought thrillingly up to date in the teeming heartland of modern London, where a group of street smart young hustlers plan the heist of the century for the ultimate payday.",
+        "popularity": 25.623,
+        "poster_path": "/7sXthW46RwmPBdacGHnhOzLv40d.jpg",
+        "release_date": "2021-01-22",
+        "title": "Twist",
+        "video": false,
+        "vote_average": 5.904,
+        "vote_count": 177
+    }
+]

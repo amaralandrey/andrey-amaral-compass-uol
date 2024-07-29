@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/4jWhX2yaf3u3N7u5h9rSpnMPL6P.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 193397,
+        "original_language": "en",
+        "original_title": "Tropic Zone",
+        "overview": "A fugitive from the police helps a beautiful farmer run her struggling banana plantation.",
+        "popularity": 8.925,
+        "poster_path": "/9x2xuyGIGQlxSugNPhji1YiPGv4.jpg",
+        "release_date": "1953-01-14",
+        "title": "Tropic Zone",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d10FAXUyLUvyOV4qQHTUEd95Jum.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            14
+        ],
+        "id": 172619,
+        "original_language": "cn",
+        "original_title": "女校風雲之邪教入侵",
+        "overview": "A detective investigating a student's suicide discovers it is connected to a secret Satanic cult.",
+        "popularity": 8.925,
+        "poster_path": "/x1rFVT2loetP95TGJGjXOpiBmK7.jpg",
+        "release_date": "1992-12-10",
+        "title": "Angel Hunter",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yNm8buMCrzirK8WVBhfkNYcyU0D.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 204975,
+        "original_language": "ja",
+        "original_title": "化石の森",
+        "overview": "Follows a young med student's relationships with two women: a dangerous affair with a childhood friend and his mother's struggle to rebuild their estranged relationship.",
+        "popularity": 8.924,
+        "poster_path": "/v9BkC4vTzCE8jyGqoxQ9ROILSoy.jpg",
+        "release_date": "1973-09-01",
+        "title": "The Petrified Forest",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qqEabSNPJGN6SWIWO34IGR54Pj1.jpg",
+        "genre_ids": [
+            28,
+            80,
+            878,
+            53
+        ],
+        "id": 50575,
+        "original_language": "ko",
+        "original_title": "예스터데이",
+        "overview": "In 1990, number of children suddenly disappear. Meanwhile, the Ministry of Defense selects an elite group of scientists for a top-secret mission. Then, 30 years later ... The year is 2020 on a reunified Korean Peninsula. A string of murders is committed against retired scientists. The Special Investigations (SI) unit staffed by a crack team from the former North and South Koreas and outfitted with the latest technology is brought in to investigate. The killer, however, far from being deterred, taunts them with a signature pendant at every murder scene. In an act of devilish boldness he even kidnaps the son of the investigation team's leader, Seok",
+        "popularity": 8.924,
+        "poster_path": "/c5arIh7rb08kSW9XjHOrG8DBEbs.jpg",
+        "release_date": "2002-06-13",
+        "title": "Yesterday",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eKkrwTOzfJApqy4MgI4ATdL4985.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 40459,
+        "original_language": "ja",
+        "original_title": "やくざ刑罰史　私刑!",
+        "overview": "A story of yakuza lynching during the Edo, Meiji, and Showa periods.",
+        "popularity": 8.924,
+        "poster_path": "/eRRzw919pa3hMrUKhgKk6ioutwd.jpg",
+        "release_date": "1969-06-27",
+        "title": "Yakuza Law",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1106289,
+        "original_language": "en",
+        "original_title": "The Pickup",
+        "overview": "A guy who becomes smitten with a woman and finds himself mixed up in a heist attempt.",
+        "popularity": 8.922,
+        "poster_path": null,
+        "release_date": "",
+        "title": "The Pickup",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rNNlSpLGYp79toPQeWTl1TPjLqx.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 437121,
+        "original_language": "ja",
+        "original_title": "花のあすか組！",
+        "overview": "In the year 199X, on the dark, shady streets of New Kabuki Town, the free-for-all between gangs of young delinquents and a corrupt police force is further complicated by the appearance of a mysterious girl named Asuka.",
+        "popularity": 8.92,
+        "poster_path": "/5I2kLmqR386H7UqfvYZ40ugIuLB.jpg",
+        "release_date": "1988-08-13",
+        "title": "The Glorious Asuka Gang!",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j8QaCM60QHbXhtj6N9fg6HWv76H.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 381899,
+        "original_language": "hi",
+        "original_title": "डकैत",
+        "overview": "Arjun Yadav return from the city after completing his studies to get settled in his village with his family consisting of his mother Devi Chaudaran, his older brother Amrit and sister. Arjun finds out that Amrit and Thakur Bhanwar Singh does not get along quiet well and attempts to be a peace-maker between the two. One day situation takes a turn for the worse when Amrit is killed, Devi Chaudaran loses her senses, Arjun's sister is raped and he himself is beaten and tied to a tree. Arjun is then rescued by some sympathetic villagers and run off with his childhood friend Makan Malla in the deep ravines only to turn an outlaw whose only motive is to avenge the killings of his family members.",
+        "popularity": 8.919,
+        "poster_path": "/9eqT2CkWCKPtSPDImxbla8PVmc4.jpg",
+        "release_date": "1987-04-10",
+        "title": "Dacait",
+        "video": false,
+        "vote_average": 4.75,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            10749,
+            80
+        ],
+        "id": 1019036,
+        "original_language": "en",
+        "original_title": "Young Lust",
+        "overview": "A brief encounter turns into an unforeseen wild ride when aspiring writer Raymond finds out that his charismatic new friend Xavier is on the run from a notorious drug lord.",
+        "popularity": 8.918,
+        "poster_path": "/pV7ts2PHnFNlmAyKH1wNvDK6zPj.jpg",
+        "release_date": "",
+        "title": "Young Lust",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3sbimtKquOmDqR6J5VBpE5oD298.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 515463,
+        "original_language": "en",
+        "original_title": "Legacy of Sin: The William Coit Story",
+        "overview": "A young man begins to suspect that his mother may have murdered his father.",
+        "popularity": 8.918,
+        "poster_path": "/lo6LzCjllup6sXW82kS2nwIbo1w.jpg",
+        "release_date": "1995-10-03",
+        "title": "Legacy of Sin: The William Coit Story",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xG97mvATdwswNqXBG5jsq4pXWOy.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 392785,
+        "original_language": "ja",
+        "original_title": "鬼平犯科帳",
+        "overview": "A criminal syndicate wants detective Onihei dead, but the resolute hero proves to be hard to kill.",
+        "popularity": 8.917,
+        "poster_path": "/cJ7EfLXrmlYdLROgJWIoNqUfLsr.jpg",
+        "release_date": "1995-11-18",
+        "title": "Onihei's Detective Records",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 173956,
+        "original_language": "en",
+        "original_title": "Cagney & Lacey: The Return",
+        "overview": "1994.  Cagney, now a Lieutenant, re-teams with Lacey, who has left the force, to search for a cache of missing firearms.",
+        "popularity": 8.917,
+        "poster_path": "/dP3k0bQh7DsQb4s8UwgwbmhjUPr.jpg",
+        "release_date": "1994-11-06",
+        "title": "Cagney & Lacey: The Return",
+        "video": false,
+        "vote_average": 8.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s5E0aLJEx21eKQfMjJcafSfbXNO.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 301971,
+        "original_language": "ja",
+        "original_title": "復讐 THE REVENGE 消えない傷痕",
+        "overview": "Second half of the violent tale of revenge from actor Sho Aikawa and director Kiyoshi Kurosawa! It's been five years since he left the force, lost his wife, and waged all out revenge, and now our hero is idling his time with a failing yakuza group. When he discovers the secret of one of his superiors, he takes up the gun of vengeance and realizes that his life has only been to serve that purpose.",
+        "popularity": 8.915,
+        "poster_path": "/ltkseV4l68NRqz9hAJLfvA9g7Di.jpg",
+        "release_date": "1997-05-31",
+        "title": "The Revenge: A Scar That Never Disappears",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2dewbVJuOCtEz0DrzkvZ4J9syPi.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 199074,
+        "original_language": "en",
+        "original_title": "Route 9",
+        "overview": "During a routine surveilance on desolate Route 9, two small town deputies come across over one million dollars in cash, a van full of drugs, several dead bodies and not a witness in sight.",
+        "popularity": 8.914,
+        "poster_path": "/x4COKYODbCCaLMwCrRLn357Tj1j.jpg",
+        "release_date": "1998-11-20",
+        "title": "Route 9",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            10770,
+            53
+        ],
+        "id": 326000,
+        "original_language": "en",
+        "original_title": "The Night They Took Miss Beautiful",
+        "overview": "Criminals hijack an airplane carrying five beauty contest finalists, but unknowingly they've also kidnapped a government agent carrying a dangerous virus that is to be used in bacterial warfare.",
+        "popularity": 8.912,
+        "poster_path": "/hzc8BOXq4kfSvk60zvUlAH8Q9a4.jpg",
+        "release_date": "1977-10-24",
+        "title": "The Night They Took Miss Beautiful",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eyIIiR7ke9ismjEKGRRqZlk2OVG.jpg",
+        "genre_ids": [
+            53,
+            18,
+            28,
+            80
+        ],
+        "id": 172817,
+        "original_language": "hi",
+        "original_title": "Saheb Biwi Aur Gangster Returns",
+        "overview": "The Royal Scandal, the war for power and fight for money continues with the return of Saheb Biwi Aur Gangster. Aditya Pratap Singh (Jimmy Sheirgill) is crippled and is trying to recover from the physical disability and his wifes betrayal. The lover cum seductress Madhavi Devi (Mahie Gill) is now an MLA, her relationship with Aditya may have broken to shambles but her relation with alcohol is deep, dark and daunting. Indarjeet Singh, a ragged prince who has lost everything but his pride, pledges to get back his familys respect which was once destroyed by Adityas ancestors. Ranjana is a modern ambitious girl who is madly in love with Indarjeet Singh (Irrfan Khan). The story takes a new turn when Aditya falls in love with Ranjana and forces Birendra (Raj Babbar) her father, for their marriage. In this game of live chess between Saheb, Biwi and Gangster, the winner, the survivor takes it all.",
+        "popularity": 8.912,
+        "poster_path": "/qes6QOwFt3QjAuVaJM8LaVJ9tRh.jpg",
+        "release_date": "2013-03-08",
+        "title": "Saheb Biwi Aur Gangster Returns",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 500473,
+        "original_language": "cn",
+        "original_title": "人肉天婦羅",
+        "overview": "A woman commits several grisly murders. A few days later, she's arrested by the police and tells in flashbacks which events lead her to commit those crimes.",
+        "popularity": 8.911,
+        "poster_path": "/i1IyKHCRXFFWeNDyS1fZAr66c4K.jpg",
+        "release_date": "1993-12-11",
+        "title": "Malevolent Mate",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h9VYmAy8i7av82lQFw8yUIaiGwA.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 692724,
+        "original_language": "ja",
+        "original_title": "台風家族",
+        "overview": "Ittetsu and Maitsuko are married, but they are not just any normal couple. They robbed a bank and took a cool million or two from the capitalists. Then they duly vanished. Years have passed and their children have congregated to divide their parents' money, but first there is the matter of arrangements and a funeral.",
+        "popularity": 8.91,
+        "poster_path": "/mqfFrBjXfwTBBR7I2uykLWRFMYh.jpg",
+        "release_date": "2019-06-09",
+        "title": "Typhoon Family",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/coz6RYno0XGjrLUVbSVcmBvQbQn.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            35,
+            53
+        ],
+        "id": 38459,
+        "original_language": "en",
+        "original_title": "Murder Over New York",
+        "overview": "When Charlie's old friend from Scotland Yard is murdered when they attend a police convention in New York, Chan picks up the case he was working on.",
+        "popularity": 8.909,
+        "poster_path": "/sKXdCpgk5dxPRrqR61GTMpj9v1Q.jpg",
+        "release_date": "1940-12-13",
+        "title": "Murder Over New York",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/buP7uTQn61X5Vmag4Bj1OoFJKAV.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35
+        ],
+        "id": 336082,
+        "original_language": "te",
+        "original_title": "దోచేయ్",
+        "overview": "A conman faces his biggest threat when he is in urgent need for a lump sum and a policeman is after him to catch him red handed.",
+        "popularity": 8.908,
+        "poster_path": "/yBz390NbT9rAPZiXoWZ6hw7b95.jpg",
+        "release_date": "2015-04-24",
+        "title": "Dohchay",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 6
+    }
+]

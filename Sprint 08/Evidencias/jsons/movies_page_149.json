@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/reIdBqQxWAX8wREYiXj8l5SMr87.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 39872,
+        "original_language": "ja",
+        "original_title": "女囚さそり 第41雑居房",
+        "overview": "After being used and betrayed by the detective she had fallen in love with, young Matsu is sent to a female prison full of sadistic guards and disobedient prisoners.",
+        "popularity": 18.099,
+        "poster_path": "/mexDQOYNbadc5tXDdDnNnMDvKBH.jpg",
+        "release_date": "1972-12-30",
+        "title": "Female Prisoner Scorpion: Jailhouse 41",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 87
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rg4nR6hRrbxhiHhoivGd8xIgv2a.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 14589,
+        "original_language": "en",
+        "original_title": "Another Thin Man",
+        "overview": "Not even the joys of parenthood can stop married sleuths Nick and Nora Charles from investigating a murder on a Long Island estate.",
+        "popularity": 18.092,
+        "poster_path": "/zmOjn9qg9Cun7P9YAKr5ajNZBcK.jpg",
+        "release_date": "1939-11-17",
+        "title": "Another Thin Man",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 110
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/28rEDmMP8hrpdSPNSjUo6q3IQL5.jpg",
+        "genre_ids": [
+            16,
+            878,
+            80
+        ],
+        "id": 559566,
+        "original_language": "ja",
+        "original_title": "PSYCHO-PASS サイコパス Sinners of the System Case.3「恩讐の彼方に＿＿」",
+        "overview": "Following the incident in the Southeast Asia Union in 2116, Shinya Kogami resumes his vagrant journey. In a small South Asian nation, Kogami rescues a bus of refugees under attack by armed guerrilla forces. Among the refugees is a young lady by the name of Tenzin, who begs Kogami to teach her how to retaliate against the enemy. Just what does the girl who wishes for revenge and the man who has exacted revenge see as they gaze upon the edge of a world from which there is no escape?",
+        "popularity": 18.09,
+        "poster_path": "/nRGPjdG1E3REGrzuul3EClZGs7r.jpg",
+        "release_date": "2019-03-18",
+        "title": "Psycho-Pass: Sinners of the System - Case.3 On the Other Side of Love and Hate",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cfN1DbwKLqqdM04oE7USRqyNdJy.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 916723,
+        "original_language": "en",
+        "original_title": "What Remains",
+        "overview": "In a psychiatric hospital, an alleged serial killer, his therapist, and a police detective seek to solve a brutal cold case before their obsessive quest for the truth consumes them all.",
+        "popularity": 18.084,
+        "poster_path": "/7sRXV5sUsSU22WvQOsb3XxKFebC.jpg",
+        "release_date": "2024-06-21",
+        "title": "What Remains",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aJIojufZhl5JG42rJ0H3LsMxId6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 86004,
+        "original_language": "hi",
+        "original_title": "तलाश",
+        "overview": "A cop, investigating the mysterious death of a filmstar, meets a sex-worker, while he faces some personal problems psychologically. The mystery connects these people in a way, that ultimately changes their lives.",
+        "popularity": 18.083,
+        "poster_path": "/oCxyN7HmJ7zWp8jtJeMRHABnutF.jpg",
+        "release_date": "2012-11-30",
+        "title": "Talaash",
+        "video": false,
+        "vote_average": 6.763,
+        "vote_count": 209
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nbC2l1Icyefs0elKUR5XTEyeT6t.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 26010,
+        "original_language": "cn",
+        "original_title": "狼牙",
+        "overview": "An assassin who is fresh from his latest kill becomes stranded in an island, when he inadvertently befriends a female police officer. As the night progresses, the unspoken truth honored by the two sides of the law is broken. After the remains of a body that belonged to a drug lord and syndicate crime leader are found, chaos ensues and criminals ravage the once peaceful streets in a race against time to find the mysterious murderer that's loose and out for blood.",
+        "popularity": 18.081,
+        "poster_path": "/erSXACAv01EnWdCwaThOcFxYJGj.jpg",
+        "release_date": "2008-12-05",
+        "title": "Legendary Assassin",
+        "video": false,
+        "vote_average": 6.164,
+        "vote_count": 76
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rAGMHghdQ4OhWo2j5ikIcUsty4Q.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 22784,
+        "original_language": "en",
+        "original_title": "Boxcar Bertha",
+        "overview": "\"Boxcar\" Bertha Thompson, a transient woman in Arkansas during the violence-filled Depression of the early '30s, meets up with rabble-rousing union man \"Big\" Bill Shelly and the two team up to fight the corrupt railroad establishment.",
+        "popularity": 18.081,
+        "poster_path": "/gF5VslUB2xpWbboc735VVnO7DXh.jpg",
+        "release_date": "1972-06-14",
+        "title": "Boxcar Bertha",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 206
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tv0ylbCoN9UTiCd4aFahF5gjRl3.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 367462,
+        "original_language": "en",
+        "original_title": "68 Kill",
+        "overview": "Chip's problem is that he can't say no to beautiful women. This weakness gets him into a world of trouble when he agrees to help his girlfriend steal $68,000.",
+        "popularity": 18.079,
+        "poster_path": "/80ifMmWcNMQ8uD4DTyMFEuJbEJG.jpg",
+        "release_date": "2017-08-04",
+        "title": "68 Kill",
+        "video": false,
+        "vote_average": 5.848,
+        "vote_count": 174
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fa0WNzjuWJseqiOmXh6U3yxJHXh.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 61642,
+        "original_language": "en",
+        "original_title": "Silver Bears",
+        "overview": "Financial wizard \"Doc\" Fletcher is sent by crime boss Joe Fiore to buy a bank in Switzerland in order to more easily launder their profits. When he arrives, Fletcher finds that the bank, acquired by his associate Prince di Siracusa, consists of some shabby offices above a restaurant. To make up for this, the Prince suggests that Fletcher invests in a silver mine owned by Shireen and Agha Firdausi. This solves one problem, but the mine also attracts the attention of some of the most powerful people in the silver business. Fletcher must pull out all his wheeler-dealing skills in order to keep hold of everything he's worked for, in the process romancing a banker's discontented wife.",
+        "popularity": 18.074,
+        "poster_path": "/uaJgZ1IDZToI3mB9MqY80pQm9la.jpg",
+        "release_date": "1977-06-03",
+        "title": "Silver Bears",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/im3gZc5azFsjgLgVmSjWRt0LELi.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 169946,
+        "original_language": "it",
+        "original_title": "Niente rose per OSS 117",
+        "overview": "A secret agent is sent to the Middle East to destroy a gang of assassins.",
+        "popularity": 18.073,
+        "poster_path": "/5XS7QXaeh2FGkwwqMrFzYze7a5e.jpg",
+        "release_date": "1968-07-27",
+        "title": "OSS 117 Murder for Sale",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ec8CRsDe1nzoufU8uD1dUNrNRw.jpg",
+        "genre_ids": [
+            27,
+            80,
+            53
+        ],
+        "id": 25066,
+        "original_language": "en",
+        "original_title": "Tales from the Hood",
+        "overview": "A strange mortician tells four horrific tales to three drug dealers that he traps in their local funeral parlor.",
+        "popularity": 18.066,
+        "poster_path": "/glPNCcI7V8zTTI3BG0iIUJJcwXN.jpg",
+        "release_date": "1995-05-24",
+        "title": "Tales from the Hood",
+        "video": false,
+        "vote_average": 6.228,
+        "vote_count": 149
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wPDCwzKobhaHuYsARU3mzsfZ1nE.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 790519,
+        "original_language": "it",
+        "original_title": "Una femmina",
+        "overview": "Rosa is a young rebel girl who lives with her grandmother and her uncle in a remote part of Calabria, in Southernmost Italy. Her mother's untimely death when Rosa was a child casts a gloomy shadow on her present life.",
+        "popularity": 18.065,
+        "poster_path": "/roTBjInRUJXSboCXSBjpbEjCRzo.jpg",
+        "release_date": "2022-02-17",
+        "title": "Una Femmina: The Code of Silence",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lKgtOPVjqHScgGLjnRYT1MX6Cax.jpg",
+        "genre_ids": [
+            16,
+            28,
+            80,
+            35
+        ],
+        "id": 38954,
+        "original_language": "ja",
+        "original_title": "シティーハンター 愛と宿命のマグナム",
+        "overview": "A beautiful pianist comes to Tokyo for a charity concert - and City Hunter is there. But music isn't his forte. He wants lessons in the language of love. Desperation is the word as bodies start dropping. A foreign dignitary is assassinated in cold blood. Secret agents scour the streets for a missing microchip. And diplomatic infighting swirls around the upcoming concert until Nina the pianist and her grandfather Klaus are kidnapped. A maelstrom of exploding grenades, the rumble of Falcon's jeep, and the tinkling of the ivories all set the stage for City Hunter: . 357 Magnum. The show must go on!",
+        "popularity": 18.062,
+        "poster_path": "/sxn56IEAsAxnaNYEMGCfIP0aNkT.jpg",
+        "release_date": "1989-06-17",
+        "title": "City Hunter: .357 Magnum",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qOe7JSx1ucYs1pRvddzDbsSc05g.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 26124,
+        "original_language": "en",
+        "original_title": "Face",
+        "overview": "Ray is an aging ex-socialist who has become a bankrobber after seeing the demise of socialism in 1980s Britain. Teaming up with a gang of other has-beenish crims, he commits one bank job too many. The gang dissolves in a murderous flurry of recriminations.",
+        "popularity": 18.062,
+        "poster_path": "/egPYnvwTRTzoEAQ7zC6mRzOfFcW.jpg",
+        "release_date": "1997-09-26",
+        "title": "Face",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7GqrqpHYomlRAcnfwGlupRT4Ig2.jpg",
+        "genre_ids": [
+            10770,
+            9648,
+            80
+        ],
+        "id": 639289,
+        "original_language": "en",
+        "original_title": "Crossword Mysteries: Abracadaver",
+        "overview": "During her birthday celebration, Tess and Logan find themselves swept up in a world that isn't always what it seems when the headlining magician at the Magic Manor winds up dead.",
+        "popularity": 18.055,
+        "poster_path": "/rkFB81pZF0iJLxM0Hd4LzOXcIaO.jpg",
+        "release_date": "2020-01-05",
+        "title": "Crossword Mysteries: Abracadaver",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/shwUJGIDCq1wRA7IJ6qHrfgeTyF.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            9648,
+            10770
+        ],
+        "id": 359305,
+        "original_language": "en",
+        "original_title": "An Inspector Calls",
+        "overview": "Northern England, 1912. The dinner of a wealthy family is interrupted by Inspector Goole, who only announces that a young woman has committed suicide. Then, he simply asks everyone present, one by one, if they knew her.",
+        "popularity": 18.054,
+        "poster_path": "/kJiQZbEZA8v3s94h4Gsn6F0Qy1p.jpg",
+        "release_date": "2015-09-13",
+        "title": "An Inspector Calls",
+        "video": false,
+        "vote_average": 7.438,
+        "vote_count": 216
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9tOJfyyvBY0jUYk5pYC7Jgq06zX.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 661579,
+        "original_language": "zh",
+        "original_title": "坚如磐石",
+        "overview": "Su Jianming, the son of Deputy Mayor Zheng Gang of Jinjiang City, defies his father's counsel and attends a cunning dinner invitation from the wealthiest man in Jinjiang City, Li Zhitian (played by Yu Hewei). To his astonishment, he becomes an unwilling witness to a shocking incident where someone is coerced into thrusting their hand into a simmering hotpot. As past mysteries resurface, hidden factions from various quarters plot and scheme, employing intricate strategies, scrutiny, and suspicion. Amidst the web of conflicting desires, the pressing question remains: who will ultimately unveil the final mask?",
+        "popularity": 18.049,
+        "poster_path": "/gESv9WPvbmbOwO50vT6yF2OuWwF.jpg",
+        "release_date": "2023-09-28",
+        "title": "Under the Light",
+        "video": false,
+        "vote_average": 5.81,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xkVrHvP7xINbZgEqV1Zz02PqVvp.jpg",
+        "genre_ids": [
+            53,
+            80,
+            35
+        ],
+        "id": 9010,
+        "original_language": "de",
+        "original_title": "Silentium",
+        "overview": "A man who accused a catholic bishop of abusing him when he was a child dies in the Austrian city Salzburg. Everyone except his widow and the eccentrical detective Simon Brenner keeps silent and believes that the man killed himself.",
+        "popularity": 18.048,
+        "poster_path": "/uca8Pb96wSgcTuUYaT5Nb3IIAzu.jpg",
+        "release_date": "2004-09-24",
+        "title": "Silentium",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 59
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9iAimGUlIGETv1qRCvKjKbcU7EZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 9650,
+        "original_language": "en",
+        "original_title": "Hard Luck",
+        "overview": "Three converging story lines involving bootleggers, a serial killer and drug dealers are followed. A former drug dealer tries to go straight, but comes across a stash of stolen drugs. Meanwhile, a middle-aged suburban housewife hides a sadistic and vicious streak.",
+        "popularity": 18.045,
+        "poster_path": "/pGU8oX9snVwSZPNjNSVjOLBB96l.jpg",
+        "release_date": "2007-10-17",
+        "title": "Hard Luck",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/frWcjkz1dCfe0ncfABNCOIfUA5b.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 12628,
+        "original_language": "en",
+        "original_title": "Playing God",
+        "overview": "Stripped of his medical license after performing an operation while high on amphetamines, famed LA surgeon Dr Eugene Sands abandons his former life only to find himself crossing paths with Raymond Blossom, an infamous counterfeiter. Employed as a \"gun-shot doctor\" when Raymond's associates cannot risk visiting a hospital, Eugene is lured deep into the criminal world and becomes entangled with his boss's girlfriend.",
+        "popularity": 18.041,
+        "poster_path": "/gbxfRpEIpUfMVEv9M5TTGFGNHMt.jpg",
+        "release_date": "1997-10-17",
+        "title": "Playing God",
+        "video": false,
+        "vote_average": 5.425,
+        "vote_count": 100
+    }
+]

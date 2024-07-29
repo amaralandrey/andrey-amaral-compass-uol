@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/hyZCJs9D97GnM7mCWF7CM1LH28T.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 33423,
+        "original_language": "en",
+        "original_title": "The Scarlet Claw",
+        "overview": "When a woman is found dead with her throat torn out, the local villagers blame a supernatural monster. But Sherlock Holmes, who gets drawn into the case from nearby Quebec, suspects a human murderer.",
+        "popularity": 15.173,
+        "poster_path": "/niXCEzj8cg15DNcAh3M1Ps7YIvb.jpg",
+        "release_date": "1944-05-18",
+        "title": "The Scarlet Claw",
+        "video": false,
+        "vote_average": 6.862,
+        "vote_count": 87
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/49czdTl4eA6YHrE7hqKUvzgWi5W.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36
+        ],
+        "id": 664332,
+        "original_language": "hi",
+        "original_title": "गंगूबाई काठियावाड़ी",
+        "overview": "Duped and sold to a brothel, a young woman fearlessly reclaims her power, using underworld connections to preside over the world she was once a pawn in.",
+        "popularity": 15.172,
+        "poster_path": "/wHPEKlzg7CaJFCjWlMdZKpCRIDl.jpg",
+        "release_date": "2022-02-24",
+        "title": "Gangubai Kathiawadi",
+        "video": false,
+        "vote_average": 7.424,
+        "vote_count": 139
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5D0rchpoqdigb2EFZbYYlu9QnUV.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648,
+            53
+        ],
+        "id": 36246,
+        "original_language": "ja",
+        "original_title": "マンデイ",
+        "overview": "A simple funeral turns a man's world Topsy turvy. He wakes up in a posh hotel room, totally clueless about how he got there. Slowly, he recalls what happened a day before.",
+        "popularity": 15.172,
+        "poster_path": "/vypYbxbngrqwDPbRZYygqAJ2fNa.jpg",
+        "release_date": "2000-04-29",
+        "title": "Monday",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ygAhmnjvrfCfP3HTeJEfqh1WyuK.jpg",
+        "genre_ids": [
+            27,
+            80,
+            53
+        ],
+        "id": 8692,
+        "original_language": "it",
+        "original_title": "Apocalypse Domani",
+        "overview": "Released from captivity in Vietnam, two American Army officers return to civilian life and discover they have acquired an insatiable taste for human flesh. A city is terrorised... as they stalk the inhabitants to satisfy their primitive appetites.",
+        "popularity": 15.172,
+        "poster_path": "/oqaziDWONW3nkzIpwXyfMvFnvGR.jpg",
+        "release_date": "1980-08-04",
+        "title": "Invasion of the Flesh Hunters",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 89
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/okTWYK9towU2Fy2a5Y9PsUQPvs5.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 169989,
+        "original_language": "ja",
+        "original_title": "刺青 あり",
+        "overview": "An ardent culture-vulture youth, previously charged for the murder of a woman when he was young, plans to hold hostage a local bank.",
+        "popularity": 15.158,
+        "poster_path": "/8y5ZJOBeXi3dY8xrPusRGS4dOwW.jpg",
+        "release_date": "1982-06-05",
+        "title": "Tattoo",
+        "video": false,
+        "vote_average": 5.167,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oTaod8YophGhFbBLrKlMnsNoWbr.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+        ],
+        "id": 235815,
+        "original_language": "de",
+        "original_title": "Bastard",
+        "overview": "The nine-year-old Nikolas has been missing for days. The criminal psychologist Claudia Meinert notices contradictions in her conversation with the parents of the missing child. In particular Nikolas' mother appears to be hiding something. When a video of the missing Nikolas surfaces, showing him tied up in a cellar, the trail leads to his school. The 13-year-old Leon and Mathilda strike the psychologist as conspicuous and provocative. Shortly afterwards, Meinert encounters the children with Nikolas' parents at the local swimming pool and her suspicions are confirmed: the parents are entangled in an insidious father-mother-child game with the possible suspects Leon and Mathilda. Now it is up to the psychologist to resolve the dark mystery of Nikolas' disappearance and save the child.",
+        "popularity": 15.155,
+        "poster_path": "/gbIDVYCzJ7dvrILigscnNQlwMFs.jpg",
+        "release_date": "2011-10-25",
+        "title": "Bastard",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ahrY6isV4vfPUzpIF0CO96pjuMw.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53,
+            9648
+        ],
+        "id": 20321,
+        "original_language": "en",
+        "original_title": "Doctor Sleep",
+        "overview": "While treating a policewoman for smoking, hypnotherapist Michael Strother has a telepathic vision of a young girl floating beneath the surface of a stream. The escaped victim of a ritualistic serial killer, the girl has become mute, and Michael is called upon by Scotland Yard to unlock the secrets she holds in order to catch a man who believes he has discovered the key to immortality.",
+        "popularity": 15.152,
+        "poster_path": "/eBRcmhQakzeYPU6AWLP1DtAoLtC.jpg",
+        "release_date": "2002-02-01",
+        "title": "Doctor Sleep",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 59
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t3DQKaSVAg5VPWoQkDKbIJ36twk.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 114760,
+        "original_language": "ko",
+        "original_title": "시체가 돌아왔다",
+        "overview": "The perpetually rational and precise researcher Hyeon-cheol and the rash and reckless Dong-hwa have nothing in common with the exception of a goal to steal a corpse to serve their own twisted agendas. They set off on their bizarre mission and the plan goes smoothly until they’re faced with the unexpected appearance of Jin-oh and a mysterious group of men also on the hunt.",
+        "popularity": 15.151,
+        "poster_path": "/e49T4OCfwxwQNtiTX5n3e2xRnuL.jpg",
+        "release_date": "2012-03-29",
+        "title": "Over My Dead Body",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hVhV2r6X6IWs3y2NStClsUMWbdL.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 835113,
+        "original_language": "en",
+        "original_title": "Woman of the Hour",
+        "overview": "A drama based on the true story of the time that a serial killer competed on and won a date on the popular TV game show The Dating Game. The killer, Rodney Alcala, was in the midst of a killing spree in 1978 when he brazenly took part in the show.",
+        "popularity": 15.146,
+        "poster_path": "/y4lgqQ4MtWeWHaRqdInoM3iUdbp.jpg",
+        "release_date": "2024-09-26",
+        "title": "Woman of the Hour",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fs3S7IUGFfwnI76JG4rOIdkZASH.jpg",
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 143855,
+        "original_language": "cn",
+        "original_title": "屯門色魔",
+        "overview": "A serial rapist is loose in the Hong Kong suburb of Tuen Mun. Based on the true story of Lam Kwok-wai, who raped and murdered women in the early 90s.",
+        "popularity": 15.144,
+        "poster_path": "/lE5eRSFxICVNLClfh8QD5MhcTEl.jpg",
+        "release_date": "1994-12-30",
+        "title": "The Rapist",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/72d7ea1TARJvbnIo3hkzklTmQsC.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 362154,
+        "original_language": "zh",
+        "original_title": "解救吾先生",
+        "overview": "Mr. Wu, a Hong Kong movie star, is kidnapped in Beijing by Zhang Hua's gang. The police quickly form a task force and begin the search, ignoring that detectives in charge have only twenty hours before the deadline.",
+        "popularity": 15.143,
+        "poster_path": "/nI8tXvbzXFnnMs2SjrIg4eC9v6h.jpg",
+        "release_date": "2015-09-30",
+        "title": "Saving Mr. Wu",
+        "video": false,
+        "vote_average": 6.28,
+        "vote_count": 92
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t1mHDnHW8yzHA2qUMO38xV9uR1e.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 30942,
+        "original_language": "zh",
+        "original_title": "黑拳",
+        "overview": "A young man learns the fighting techniques of Sanda from a coach. The two become best friends as the young man prepares to enter an underground tournament, competing against some of the top fighters of the world.",
+        "popularity": 15.14,
+        "poster_path": "/gZ8ynhPBUItbi4wIq48I0YiZoth.jpg",
+        "release_date": "2006-10-05",
+        "title": "Fatal Contact",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3MlOdGahzlASqDWCRl6x474Fphk.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 1152238,
+        "original_language": "en",
+        "original_title": "Sons of Summer",
+        "overview": "To mark the anniversary of his father's death, Sean takes his friends on a road trip to his surfer dad's favorite beach. But Sean's drug-dealing friend forces him to do one last favor – steal a heroin shipment from a local mobster.",
+        "popularity": 15.138,
+        "poster_path": "/d69N1b1bPBBUwo9YQ6M2WKotLpm.jpg",
+        "release_date": "2023-07-28",
+        "title": "Sons of Summer",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cZsjYYn1WDpIYv8wtK1tDDG5DSp.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 336053,
+        "original_language": "ko",
+        "original_title": "무뢰한",
+        "overview": "A homicide detective tries to flush out a mob enforcer by befriending the suspect's beautiful girlfriend, but soon develops romantic feelings for her.",
+        "popularity": 15.138,
+        "poster_path": "/4jhKRDWdaVQXeJYQs9GaLbld7ex.jpg",
+        "release_date": "2015-05-15",
+        "title": "The Shameless",
+        "video": false,
+        "vote_average": 6.375,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nlCSP3plvftHhCo4yhHYeJH8jSg.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 106968,
+        "original_language": "en",
+        "original_title": "The Road Killers",
+        "overview": "After a young boy is almost runover by a maniac on a highway, a re-encounter and confrontation by the boy's father with the driver sets off conflicts with a carful of maniacs.",
+        "popularity": 15.138,
+        "poster_path": "/yiAzM6NSQEOmsrI1kVXkaIqWgkz.jpg",
+        "release_date": "1994-05-07",
+        "title": "The Road Killers",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jzt28N70y6LJ3chW618Z5tdS8FA.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 32151,
+        "original_language": "cn",
+        "original_title": "鐵三角",
+        "overview": "Life has not been kind to drinking buddies Sam, Fai, and Mok as they struggle to make ends meet, until one stormy evening a mysterious old man appears before them in a bar with a 'get rich quick' scheme: an ancient treasure is buried under a high-security government building.",
+        "popularity": 15.138,
+        "poster_path": "/2BhKMrlbuwTbaQZAvxRLF7FF7kE.jpg",
+        "release_date": "2007-10-01",
+        "title": "Triangle",
+        "video": false,
+        "vote_average": 6.453,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 176707,
+        "original_language": "es",
+        "original_title": "Una rosa de Francia",
+        "overview": "Simón transports illegal immigrants to New York, leaving them to their fate. When he is discovered by the coastguard, a young sailor, named Andrés saves his life. But when Andrés falls for Marie—a young protegée of Simón's—conflict erupts.",
+        "popularity": 15.135,
+        "poster_path": "/8I2TALpo1MoNzdAJgLiUA12RfED.jpg",
+        "release_date": "2006-02-03",
+        "title": "Virgin Rose",
+        "video": false,
+        "vote_average": 4.222,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hhFz6ESazmE1viBqObcVAFYRWe6.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 112929,
+        "original_language": "cn",
+        "original_title": "學校風雲",
+        "overview": "A young schoolgirl, Yuen Fong becomes caught in a tragic stranglehold of triad activity after she testifies in court over a triad beating. When this news reaches the triad leader Brother Smart, Yuen Fong must pay him protection money for what she has done as events begin to escalate.",
+        "popularity": 15.133,
+        "poster_path": "/8swPhLG4dymfp7MWMkqFDsZNNUh.jpg",
+        "release_date": "1988-08-20",
+        "title": "School on Fire",
+        "video": false,
+        "vote_average": 7.018,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sYNehJGK3Z6mkTK4unAG09XnudA.jpg",
+        "genre_ids": [
+            27,
+            28,
+            80,
+            53,
+            14
+        ],
+        "id": 287523,
+        "original_language": "en",
+        "original_title": "Death House",
+        "overview": "During an exclusive tour, a power breakdown inside a secret prison known as the Death House sends two agents fighting through a labyrinth of horrors while being pursued by a ruthless army of roaming inmates. As they fight to escape, the agents push toward the lowest depths of the facility where they learn a supernatural group of evil beings is their only chance for survival.",
+        "popularity": 15.132,
+        "poster_path": "/piTubymqkO6QEuURTSccIV6d5PL.jpg",
+        "release_date": "2018-02-28",
+        "title": "Death House",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7BBE5MrxKFP8CH2MjH0ic16gCyU.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 126318,
+        "original_language": "hi",
+        "original_title": "Miss Lovely",
+        "overview": "A Hindi feature film set in the lower depths of Bombay's \"C\" grade film industry. Miss Lovely follows the devastating story of two brothers who produce sleazy horror films in the mid-1980s.",
+        "popularity": 15.132,
+        "poster_path": "/u2fzSN0JzNNoKj5MevilNkvTevg.jpg",
+        "release_date": "2014-01-17",
+        "title": "Miss Lovely",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 14
+    }
+]

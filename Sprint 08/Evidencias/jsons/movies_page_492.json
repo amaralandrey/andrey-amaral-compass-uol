@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/s8DxZpH2508F7xIRtGOluec7jAb.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 238241,
+        "original_language": "it",
+        "original_title": "No, il caso è felicemente risolto",
+        "overview": "When the eyewitness to a brutal murder decides not to testify, the actual murderer chooses to finger him as the murderer and claim eyewitness status for himself.",
+        "popularity": 6.935,
+        "poster_path": "/hz53qjIHkEj2oBFWvw76rdvnjzE.jpg",
+        "release_date": "1973-08-01",
+        "title": "No, the Case Is Happily Resolved",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xkVJ6bOtwjs2sFuFkPpqFfFqwKF.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 176524,
+        "original_language": "de",
+        "original_title": "Der Teppich des Grauens",
+        "overview": "An evil genius uses poison gas to avenge himself on his enemies.",
+        "popularity": 6.941,
+        "poster_path": "/hcI7qzqXbrE0Vpx7MlDDwmsRFGl.jpg",
+        "release_date": "1962-07-31",
+        "title": "The Carpet of Horror",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1111977,
+        "original_language": "ja",
+        "original_title": "ルーザー２",
+        "overview": "Sequel to 'Loser'.",
+        "popularity": 6.934,
+        "poster_path": "/sWX1RxXguZ96zZ4wTObd8lkZeTH.jpg",
+        "release_date": "2013-11-21",
+        "title": "Loser 2",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yp6Rk1JGA1o24Hwdm2TWUYuHiJv.jpg",
+        "genre_ids": [
+            28,
+            80,
+            10749
+        ],
+        "id": 166156,
+        "original_language": "en",
+        "original_title": "The Trespasser",
+        "overview": "Stevie Carson, a newspaper reporter, and Danny Butler, the \"morgue\" manager on the same newspaper, set out to track down the killer of a colleague, a book-reviewer who was involved with a group of rare book forgers and whose sister has been convinced her editor-fiance, Bill Monroe, killed him.",
+        "popularity": 6.934,
+        "poster_path": "/cj5fu3A8jKscG6wgbXKQQ4B2uLR.jpg",
+        "release_date": "1947-07-03",
+        "title": "The Trespasser",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 670287,
+        "original_language": "zh",
+        "original_title": "痴狼劫",
+        "overview": "A Hong Kong crime film from 1990 directed by Wilson Cheung Wing-Wa .",
+        "popularity": 6.933,
+        "poster_path": "/l5z4JMqZ5IMiglp5GvdgMhGSswu.jpg",
+        "release_date": "1990-01-01",
+        "title": "Bullet to Survive",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ta91DAnBoQ5nGibDnp5vDexKR8s.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 262480,
+        "original_language": "ja",
+        "original_title": "真昼の暗黒",
+        "overview": "Police beat a murder confession out of four innocent men who are then sentenced to death. Based on a true story.",
+        "popularity": 6.933,
+        "poster_path": "/vi7V0fPIzp02LcIoqOxN0Xlwka4.jpg",
+        "release_date": "1956-03-26",
+        "title": "Darkness at Noon",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cWQehoBxcBG1WhicFxmJCHoFExz.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            10770
+        ],
+        "id": 137306,
+        "original_language": "en",
+        "original_title": "Mystery Woman: At First Sight",
+        "overview": "After dating hot doctor Ben, cued by Cassie, mystery woman sets out to discover in a tiny town her birth mother trough Victor Short, the diner-managing adopted son the the doc who arranged many more adoptions. She finds her and her husband, Mark McPhillips, murder suspects. Back home, the arrival of an undercover secret agent requires unorthodox help from his retired colleague Philby.",
+        "popularity": 6.933,
+        "poster_path": "/2zyqVDBTAmGuzPXoD5TzJO98DCI.jpg",
+        "release_date": "2006-01-21",
+        "title": "Mystery Woman: At First Sight",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 125082,
+        "original_language": "en",
+        "original_title": "Mojo",
+        "overview": "The sexual rivalries over a new, potentially great rock'n'roll singer between a nightclub owner and a local gangster cause unrest and eventually lead to murder.",
+        "popularity": 6.931,
+        "poster_path": "/ffbctLbInVKPbd1uUsQb88FvYJR.jpg",
+        "release_date": "1997-09-02",
+        "title": "Mojo",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 252209,
+        "original_language": "en",
+        "original_title": "From the Files of Joseph Wambaugh: A Jury of One",
+        "overview": "In the first of a potential series of films inspired by the real-life experiences of Los Angeles police officer turned bestselling author Joseph Wambaugh, an on-the-skids detective, with memories of having accidentally shot and killed his partner while they were pursuing a pair of bank robbers, tries to put his life back in order.",
+        "popularity": 6.93,
+        "poster_path": "/3LfJwFc4EKSM5gKkUBoNzPxlRS0.jpg",
+        "release_date": "1992-11-29",
+        "title": "From the Files of Joseph Wambaugh: A Jury of One",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zFYQBKeFtbQaT7n40CFVOYI8ie9.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 921946,
+        "original_language": "ja",
+        "original_title": "遊侠三代",
+        "overview": "The film depicts the fate of a young yakuza boss and his father, who confront each other, not knowing that they are relatives, and become victims of a brutal war for territory between the clans according to the merciless laws of the yakuza.",
+        "popularity": 6.929,
+        "poster_path": "/9pcg9njG5iQPzGUFsfJihbZeva4.jpg",
+        "release_date": "1966-05-14",
+        "title": "Three Generations of Yakuza",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r06r3nOugW1eEtKIH6p83W77rIG.jpg",
+        "genre_ids": [
+            80,
+            35,
+            10770
+        ],
+        "id": 138806,
+        "original_language": "de",
+        "original_title": "Mutter muss weg",
+        "overview": "Adult dreamer Tristan still lives under his mother's thumb. After she has a health scare, he realizes how much he wants her gone... permanently.",
+        "popularity": 6.929,
+        "poster_path": "/hiB2tS9TAq8Hh7hfBDjCxiEI9sH.jpg",
+        "release_date": "2012-12-28",
+        "title": "Mom's Gotta Go",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            10770
+        ],
+        "id": 135944,
+        "original_language": "en",
+        "original_title": "The Million Dollar Rip-Off",
+        "overview": "An electronics genius, who is an ex-con, and four of his lady friends devise a plot to steal millions of dollars from the Chicago Transit Authority. A detective, who had been keeping tabs on him since he got out of prison, suspects that he is up to something and tries to catch him at it.",
+        "popularity": 6.929,
+        "poster_path": "/kshwq4OZt39kgdgViYbo2GwPLBD.jpg",
+        "release_date": "1976-09-22",
+        "title": "The Million Dollar Rip-Off",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jpAuBrHJzTqlGiEsZOPiQqhN6gR.jpg",
+        "genre_ids": [
+            9648,
+            35,
+            80,
+            53,
+            27
+        ],
+        "id": 1219483,
+        "original_language": "en",
+        "original_title": "Blood Actually: A Murder, They Hope Mystery",
+        "overview": "It's Christmas and Gemma has hired a lovely cottage in a quaint village. Terry spots that the village has a Santa competition, but things take a dark turn as competitors start being killed off in a host of warped and festive ways.",
+        "popularity": 6.928,
+        "poster_path": "/kZnx6ThsS5FTsGczu8tpFSJak6u.jpg",
+        "release_date": "2023-12-16",
+        "title": "Blood Actually: A Murder, They Hope Mystery",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            10770,
+            9648,
+            80
+        ],
+        "id": 92931,
+        "original_language": "en",
+        "original_title": "Perry Mason: The Case of the Ruthless Reporter",
+        "overview": "Perry is at TV station \"KGGY\" to be interviewed but thanks to the interference of main anchor-person Brett Huston the interview is pulled. Mostly everybody hates Brett as Brett knows all the station workers secrets. He has also written a memo insulting all of the main station players - Vic St. John - the station manager, Twyla Cooper - the producer, Chuck Gilmore - the sports reporter, Gary Slate - the weatherman, Cassie Woodfield - the reporter and Gillian Pope. Brett is shot dead with Gillian's gun and therefore is arrested for the crime. Gillian calls in Perry, Della and Ken to investigate. As Della and Perry set out to solve the mystery, Ken gets close to Cassie but she is a suspect and when it appears that somebody is trying to kill her, the mystery deepens..",
+        "popularity": 6.926,
+        "poster_path": "/kekTmiu5sgEdSxwMIv2i4HdYjsc.jpg",
+        "release_date": "1991-01-06",
+        "title": "Perry Mason: The Case of the Ruthless Reporter",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fsRYciwkcBB4pM9DMuCiPJ1uR6O.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 41554,
+        "original_language": "en",
+        "original_title": "A Sense of Freedom",
+        "overview": "The true story of Jimmy Boyle, who was reputed to be Scotland's most violent man.",
+        "popularity": 6.926,
+        "poster_path": "/t7n1bQEWEbYoDIhB9yxpR9jBljL.jpg",
+        "release_date": "1979-10-19",
+        "title": "A Sense of Freedom",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 343074,
+        "original_language": "ga",
+        "original_title": "Filleann an Feall",
+        "overview": "Two Dubs, Sean and Ger, get wind of the proverbial pot of gold and what should be a straight-forward job becomes a fiasco. But, there's an old Irish saying - \"Filleann an feall ar an bhfeallaire - What goes around comes around\".",
+        "popularity": 6.925,
+        "poster_path": "/768uVtTqVC9CJLJlaUPSS4rKbwx.jpg",
+        "release_date": "2000-06-04",
+        "title": "Filleann an Feall",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            53,
+            27,
+            80,
+            10770
+        ],
+        "id": 123075,
+        "original_language": "en",
+        "original_title": "The Bad Seed",
+        "overview": "Rachel is a 9-year-old girl who is perfection itself - unless she's crossed or challenged. Several disturbing recent incidents have led Rachel's mother Christine to suspect that her child is a latent murderess. Upon discovering that she herself is the daughter of a convicted killer, Christine becomes convinced that sweet little Rachel is a \"bad seed\" - an inherent killer who feels no remorse because she doesn't know any better.",
+        "popularity": 6.925,
+        "poster_path": "/yrivHr4H8fCZP6dfjcX0IdLsdFa.jpg",
+        "release_date": "1985-02-07",
+        "title": "The Bad Seed",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l7VpiPW6lEeBZxI4aMfYFFp3VIE.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            53,
+            10749
+        ],
+        "id": 450824,
+        "original_language": "it",
+        "original_title": "MMA: Love Never Dies",
+        "overview": "",
+        "popularity": 6.924,
+        "poster_path": "/2FhPoMiy71Ss20KOGJbLT7MVmKF.jpg",
+        "release_date": "2017-04-06",
+        "title": "MMA: Love Never Dies",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 101018,
+        "original_language": "it",
+        "original_title": "Faccia d'angelo",
+        "overview": "",
+        "popularity": 6.924,
+        "poster_path": "/1jK8bN8taXJSQ2db5qI6zY3Eye6.jpg",
+        "release_date": "2012-01-01",
+        "title": "Faccia d'angelo",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 61
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/keej6aUV33w1wF6PcIG5y46PnHx.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 79308,
+        "original_language": "en",
+        "original_title": "Virtue",
+        "overview": "Given a second chance after her arrest for prostitution, Mae decides to go straight. Mae is soon befriended by kindly cab driver Jimmy Doyle who gets her work at a diner, where she meets Gert, another former prostitute. Mae and Jimmy fall in love, marry and save to buy a small business. Gert then pleads for money from Mae, which results in her unwitting involvement in a crime. Believing Mae has lied and cheated him, Jimmy threatens to leave her.",
+        "popularity": 6.924,
+        "poster_path": "/tZ5tHBCQvYLX4UkpqFNvThDHSGM.jpg",
+        "release_date": "1932-10-25",
+        "title": "Virtue",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 11
+    }
+]

@@ -1,0 +1,405 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/tiLgpoe9SzhRxxt2gHbFEjTqFGf.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 56251,
+        "original_language": "cn",
+        "original_title": "監獄風雲II逃犯",
+        "overview": "Ching is a prisoner in a Hong Kong jail that has a large population of Mainland Chinese prisoners. Ching escapes to see his young son, who he has been put in an orphanage. He surrenders himself to authorities, but the vengeful chief of security, Zau, arranges for Ching to be set up in the eyes of the Mainland gang.",
+        "popularity": 13.539,
+        "poster_path": "/bgnz4EWyxKniRqxMBwADMfs5GrE.jpg",
+        "release_date": "1991-06-22",
+        "title": "Prison on Fire II",
+        "video": false,
+        "vote_average": 6.797,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rY7Le2sJiBTnNadRMW9LptzXYCk.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10751
+        ],
+        "id": 75963,
+        "original_language": "en",
+        "original_title": "Going Ape!",
+        "overview": "When his father - who owned a circus - dies, Oscar inherits 5 million dollars - and 3 orangutans. However there's a condition connected to the money: if he gives away the apes or just one gets sick or dies during the next 3 years, the zoologic society will get all the money. So he not only has to deal with 3 apes and an annoyed girlfriend, but also with a greedy zoologic society's president.",
+        "popularity": 13.536,
+        "poster_path": "/ykjlb8pWz3j0R4EV1wGVxdBeXOy.jpg",
+        "release_date": "1981-04-10",
+        "title": "Going Ape!",
+        "video": false,
+        "vote_average": 4.467,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9DlRs3bqJ38u4LXAlpDwyvwFpla.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            10752
+        ],
+        "id": 265710,
+        "original_language": "cn",
+        "original_title": "忠義群英",
+        "overview": "In the early 1920's of China, seven former soldiers band together to defend a helpless village against a group of vicious bandits in this Hong Kong remake of Seven Samurai.",
+        "popularity": 13.533,
+        "poster_path": "/mVKBBH2Lch49lJQ0Fr59005JX71.jpg",
+        "release_date": "1989-06-24",
+        "title": "Seven Warriors",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eOXsdpG66OztaAHWcUqHFKD6PWh.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 452103,
+        "original_language": "zh",
+        "original_title": "遊戲規則",
+        "overview": "Two escaped prisoners join one of the most powerful gangs in Shanghai, the Green Gang, as the right-hand men of the head boss Mr. Tang. When Mr. Tang tries to gain total control over business dealings in Shanghai, he discovers his closest allies are not who they seem and turns against his own men to protect his power.",
+        "popularity": 13.53,
+        "poster_path": "/6bmSNWKWi0oRRxOpMLDW9v40aJF.jpg",
+        "release_date": "2017-02-10",
+        "title": "The Game Changer",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bGXaffbdbYqwV4mkVUA4y6F6qdf.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 3092,
+        "original_language": "en",
+        "original_title": "Seance on a Wet Afternoon",
+        "overview": "Working-class British housewife Myra Savage reinvents herself as a medium, holding seances in the sitting room of her home with the hidden assistance of her under-employed, asthmatic husband, Billy. In an attempt to enhance her credibility as a psychic, Myra hatches an elaborate, ill-conceived plot to kidnap a wealthy couple's young daughter so that she can then help the police \"find\" the missing girl.",
+        "popularity": 13.526,
+        "poster_path": "/dHu7nuNwXTXoPdpNOEPKhHfCBk5.jpg",
+        "release_date": "1964-06-19",
+        "title": "Seance on a Wet Afternoon",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 102
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q8QTimc6LvzYbw6eqi5YjZ71QFK.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36
+        ],
+        "id": 1090307,
+        "original_language": "es",
+        "original_title": "Danny 45: El terror de La Victoria",
+        "overview": "Danny 45, sentenced to 30 years in the penitentiary of La Victoria de Santo Domingo, is the absolute control of the dreaded prison, his abuses and macabre actions against the other inmates, make people of the same environment betray him, and so between all of them try to take his life.",
+        "popularity": 13.518,
+        "poster_path": "/uwG1A5L0nhy0pTZMyEatAImor86.jpg",
+        "release_date": "2022-12-15",
+        "title": "Danny 45: El terror de La Victoria",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            18,
+            27,
+            53,
+            80
+        ],
+        "id": 87069,
+        "original_language": "ja",
+        "original_title": "殺し屋１ THE ANIMATION EPISODE 0",
+        "overview": "A masochistic mobster meets his match in the dark streets of Tokyo. His nemesis, Ichi, is a psychopathic killer with an unrelenting thirst for bloodshed. A horrifying secret burns in his mind, and his hands deal death without mercy. At last, the shrouds of mystery are parted to reveal the origin of the monster. The city will know its greatest fear at the unveiling of Ichi the Killer.",
+        "popularity": 13.515,
+        "poster_path": "/c2Q2PXTXoAD1dGDZLLD9qZFSYvI.jpg",
+        "release_date": "2002-09-27",
+        "title": "Ichi the Killer: Episode Zero",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/poGmGI9PPcQkEYIovJCdyGopFW5.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            27,
+            80
+        ],
+        "id": 62558,
+        "original_language": "it",
+        "original_title": "Sotto il vestito niente",
+        "overview": "Bob Crane has long maintained a psychic connection to his twin sister, Jessica, who works as a fashion model in Milan. When Bob senses that his sister might be injured or killed, he travels to Italy to look for her, only to discover that she's vanished without a trace. Enlisting the help of about-to-retire Commissioner Danesi, Bob soon finds himself embroiled in a web of mystery and terror, when a scissors wielding killer begins to strike and all clues lead back to Jessica...",
+        "popularity": 13.51,
+        "poster_path": "/qC2FQMpFUP86HbZCIpyHqMhNj3s.jpg",
+        "release_date": "1985-11-07",
+        "title": "Nothing Underneath",
+        "video": false,
+        "vote_average": 5.554,
+        "vote_count": 65
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/k04LOzgMMkAQjRmZPWwS0uB17ME.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 289984,
+        "original_language": "de",
+        "original_title": "Winterkartoffelknödel",
+        "overview": "A policeman suspects that several bizarre deaths in the same family were murders and that the killer is a mysterious woman who just moved to the village.",
+        "popularity": 13.507,
+        "poster_path": "/aaHdUviVHsyEk5yGiN796JfKRXL.jpg",
+        "release_date": "2014-10-16",
+        "title": "Winterkartoffelknödel",
+        "video": false,
+        "vote_average": 7.057,
+        "vote_count": 105
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/95dkgjeH6h9hstplkg4RSvWEmhH.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 74295,
+        "original_language": "fi",
+        "original_title": "Rikos ja rangaistus",
+        "overview": "In Helsinki, an ex-law student turned slaughterhouse worker commits a senseless crime that catapults him into loneliness. Only a woman who accidentally arrived at the crime scene wants to follow him, but guilt and the tightening net of the police throw a shadow over their desperate love affair.",
+        "popularity": 13.505,
+        "poster_path": "/2z9EotczX6EY2oxhHU6PnpDmrrI.jpg",
+        "release_date": "1983-12-02",
+        "title": "Crime and Punishment",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 71
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zRBR3l4cRoMLbquWVlLkR0r2LtV.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10402,
+            10749
+        ],
+        "id": 45335,
+        "original_language": "en",
+        "original_title": "Double Trouble",
+        "overview": "When singer Guy Lambert goes on tour in Europe, he is pursued by two beautiful women, bumbling jewel thieves, and a mysterious killer.",
+        "popularity": 13.505,
+        "poster_path": "/raogfJkX2z0O7NOzPCIycygdYJ8.jpg",
+        "release_date": "1967-04-05",
+        "title": "Double Trouble",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4RQFnUg52MTU38CMjSSM4SXlQGM.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 36514,
+        "original_language": "en",
+        "original_title": "Once a Thief",
+        "overview": "Ex-convict Eddie and his wife, Kristine, attempt to build a new life for themselves and their daughter Kathy in San Francisco, but police officer Mike Vido is determined to send Eddie back to prison.",
+        "popularity": 13.501,
+        "poster_path": "/gQfNFsYfE5a7kB0jiQE4uhnhNYk.jpg",
+        "release_date": "1965-04-24",
+        "title": "Once a Thief",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f0wvbhqQ4TJ5wJeEXB3VfqoI5pa.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1013609,
+        "original_language": "en",
+        "original_title": "The Anthrax Attacks: In the Shadow of 9/11",
+        "overview": "Days after 9/11, letters containing fatal anthrax spores spark panic and tragedy in the US. This documentary follows the subsequent FBI investigation.",
+        "popularity": 13.499,
+        "poster_path": "/bTJvGRD7AKaEMUOahCDfvq5rwx5.jpg",
+        "release_date": "2022-09-08",
+        "title": "The Anthrax Attacks: In the Shadow of 9/11",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e43TSVrHVAQfaBSQiTbwui2Fh9i.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 18713,
+        "original_language": "en",
+        "original_title": "The Jerky Boys",
+        "overview": "When two unemployed telephone pranksters decide to use their vocal \"talents\" to impersonate a Chicago mob boss and curry favor with organized crime in New York, the trouble begins. It isn't long before Johnny and Kamal (the \"Jerky Boys\" of crank call fame) are wanted by the local mafia, the police, and their neighbor.",
+        "popularity": 13.497,
+        "poster_path": "/yUbdqyZaeaoNKBQmnmtim1IIAf1.jpg",
+        "release_date": "1995-02-03",
+        "title": "The Jerky Boys",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nzLVk2aifLQDYEKY9NgTAUbs3fO.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 33817,
+        "original_language": "es",
+        "original_title": "Satanás",
+        "overview": "Based on the Mario Mendoza's book and inspired by true events, tells three interconnected stories happening in the eve of the infamous Pozzetto Massacre.",
+        "popularity": 13.496,
+        "poster_path": "/ruw3QrxGpHLlCr9lcgmncSvYpXT.jpg",
+        "release_date": "2007-03-04",
+        "title": "Satanás - Profile of a Killer",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ykVCVZiRY6FG781Gd8NPS1omkrc.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 4792,
+        "original_language": "fr",
+        "original_title": "Le tueur",
+        "overview": "Whilst being transferred to a psychiatric hospital, a ruthless serial killer Gassot makes a break and goes on the run. He arrives in Marseilles, intending to escape abroad. Here, he falls for a young prostitute, Gerda.",
+        "popularity": 13.489,
+        "poster_path": "/3ywSIS0zyErZOp8gfNRqAbvNQSp.jpg",
+        "release_date": "1972-03-01",
+        "title": "Killer",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            18,
+            28,
+            14
+        ],
+        "id": 1313543,
+        "original_language": "ja",
+        "original_title": "黒執事 -寄宿学校編-",
+        "overview": "Ciel investigates a prestigious school where pupils, including royalty, go missing. He enrolls undercover while Sebastian joins as a housemaster to uncover the sinister truth.",
+        "popularity": 13.487,
+        "poster_path": "/d1JlupmMi5nK9sOJYls1ygAHg8Z.jpg",
+        "release_date": "",
+        "title": "Black Butler: Public School Arc",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u7YPglmIi3lNAWrjwHjwbYA10Ph.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            28
+        ],
+        "id": 107634,
+        "original_language": "ja",
+        "original_title": "恐喝こそわが人生",
+        "overview": "Though he has come from a rough background on the streets, Muraki quickly rises through the ranks by means of his well-honed blackmailing instincts. Desperate to keep rolling with his freewheeling lifestyle, Muraki sees his luck begin to crumble when he sets his sights on the business partners of a powerful gang boss.",
+        "popularity": 13.485,
+        "poster_path": "/AdF5jkhLLpxlZXxl9YY0MRrybmq.jpg",
+        "release_date": "1968-02-28",
+        "title": "Blackmail Is My Life",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i6y4Y49ULaZZnoBkQnd9Q3BujG2.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 14707,
+        "original_language": "en",
+        "original_title": "The Return of Superfly",
+        "overview": "In this third entry in the Superfly films, Priest returns to New York from Paris to find who is responsible for his friend's murder. With a couple of new friends, he attempts to bring the killers to justice while trying not to get into criminal activity like he did years ago.",
+        "popularity": 13.482,
+        "poster_path": "/5qh511iOJJ36TgDA7yUN3iRBtN0.jpg",
+        "release_date": "1990-11-09",
+        "title": "The Return of Superfly",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cclSlAt9MX8ztxbuTe2JxZ2oELt.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 21119,
+        "original_language": "en",
+        "original_title": "The Last Days of Frankie the Fly",
+        "overview": "Dreaming of ascending the underworld ladder and gaining revenge on his sadistic boss, Sal, a Mafia flunky, Frankie, tries to take a step in the right direction by \"saving\" an exploited, drug-addicted porn actress, Margaret.",
+        "popularity": 13.481,
+        "poster_path": "/4TpztUZFGGy7UTdAqhZYvcBQzhn.jpg",
+        "release_date": "1996-10-24",
+        "title": "The Last Days of Frankie the Fly",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 26
+    }
+]

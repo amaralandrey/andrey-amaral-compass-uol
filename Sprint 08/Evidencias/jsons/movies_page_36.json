@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/bylJq7JEA87YqHMObZUnaP292T2.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 958006,
+        "original_language": "en",
+        "original_title": "The Kill Room",
+        "overview": "A hitman, his boss, an art dealer and a money-laundering scheme that accidentally turns the assassin into an overnight avant-garde sensation, one that forces her to play the art world against the underworld.",
+        "popularity": 37.644,
+        "poster_path": "/qKpdy7N6zX05eisopvvviiTwPxb.jpg",
+        "release_date": "2023-09-14",
+        "title": "The Kill Room",
+        "video": false,
+        "vote_average": 6.045,
+        "vote_count": 168
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hSVDyX7qmBxyg1OxmdkvmR4IrGp.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 398181,
+        "original_language": "en",
+        "original_title": "You Were Never Really Here",
+        "overview": "A traumatised veteran, unafraid of violence, tracks down missing girls for a living. When a job spins out of control, his nightmares overtake him as a conspiracy is uncovered leading to what may be his death trip or his awakening.",
+        "popularity": 52.086,
+        "poster_path": "/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg",
+        "release_date": "2017-11-08",
+        "title": "You Were Never Really Here",
+        "video": false,
+        "vote_average": 6.564,
+        "vote_count": 2706
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tKyxF6ZyxF65CcJKBKId1VavpGP.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            35,
+            80
+        ],
+        "id": 10403,
+        "original_language": "en",
+        "original_title": "The Player",
+        "overview": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?",
+        "popularity": 40.329,
+        "poster_path": "/p4ys4a4yASjKuWzsNWY1B7xP5kZ.jpg",
+        "release_date": "1992-04-03",
+        "title": "The Player",
+        "video": false,
+        "vote_average": 7.208,
+        "vote_count": 777
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nAVntSurtINQNtYPU7ijgCtgz7W.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 13483,
+        "original_language": "en",
+        "original_title": "Awake",
+        "overview": "While undergoing heart surgery, a man experiences a phenomenon called ‘anesthetic awareness’, which leaves him awake but paralyzed throughout the operation. As various obstacles present themselves, his wife must make life-altering decisions while wrestling with her own personal drama.",
+        "popularity": 37.328,
+        "poster_path": "/jIPIxaBcppLLkygko7tV5yuTIs1.jpg",
+        "release_date": "2007-11-28",
+        "title": "Awake",
+        "video": false,
+        "vote_average": 6.517,
+        "vote_count": 1335
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c2EpOiIhpMtGCnG6HyHgbpyryPd.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 17134,
+        "original_language": "en",
+        "original_title": "12 Rounds",
+        "overview": "When New Orleans Police Detective Danny Fisher stops a brilliant thief from getting away with a multimillion-dollar heist, the thief's girlfriend is accidentally killed. After escaping from prison, the criminal mastermind enacts his revenge, taunting Danny with 12 rounds of near-impossible puzzles and tasks that he must somehow complete to save the life of the woman he loves.",
+        "popularity": 52.032,
+        "poster_path": "/7k7qhrO57sVoBLrNo5HYoTp24sT.jpg",
+        "release_date": "2009-03-19",
+        "title": "12 Rounds",
+        "video": false,
+        "vote_average": 5.88,
+        "vote_count": 746
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gy4RzOcJsRpJXOnZ7bWJEbE9UZ2.jpg",
+        "genre_ids": [
+            80,
+            53,
+            10749
+        ],
+        "id": 483,
+        "original_language": "en",
+        "original_title": "Wild at Heart",
+        "overview": "After serving prison time for a self-defense killing, Sailor Ripley reunites with girlfriend Lula Fortune. Lula's mother, Marietta, desperate to keep them apart, hires a hitman to kill Sailor. But he finds a whole new set of troubles when he and Bobby Peru, an old buddy who's also out to get Sailor, try to rob a store. When Sailor lands in jail yet again, the young lovers appear further than ever from the shared life they covet.",
+        "popularity": 31.074,
+        "poster_path": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+        "release_date": "1990-08-17",
+        "title": "Wild at Heart",
+        "video": false,
+        "vote_average": 7.03,
+        "vote_count": 1561
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gMVdhfQ7q9DFHhDkehrququjGPd.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 487558,
+        "original_language": "en",
+        "original_title": "BlacKkKlansman",
+        "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+        "popularity": 43.081,
+        "poster_path": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+        "release_date": "2018-08-09",
+        "title": "BlacKkKlansman",
+        "video": false,
+        "vote_average": 7.512,
+        "vote_count": 7389
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e39yv0bmJMt8w0nD0hMGdZuTjkn.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11185,
+        "original_language": "en",
+        "original_title": "See No Evil, Hear No Evil",
+        "overview": "A murder takes place in the shop of David Lyons, a deaf man who fails to hear the gunshot being fired. Outside, blind man Wally Karue hears the shot but cannot see the perpetrator. Both are arrested, but escape to form an unlikely partnership. Being chased by both the law AND the original killers, can the pair work together to outwit them all?",
+        "popularity": 38.572,
+        "poster_path": "/2eX1RUVj4mIGJTX5p8fJ0SSIcn4.jpg",
+        "release_date": "1989-05-12",
+        "title": "See No Evil, Hear No Evil",
+        "video": false,
+        "vote_average": 6.732,
+        "vote_count": 940
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q8WH2ue8GTckObot0iIjOBll7Qa.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 24873,
+        "original_language": "en",
+        "original_title": "Death Wish 3",
+        "overview": "Architect/vigilante Paul Kersey arrives back in New York City and is forcibly recruited by a crooked police chief to fight street crime caused by a large gang terrorizing the neighborhoods.",
+        "popularity": 35.564,
+        "poster_path": "/mc33TytXxkC9cSKyztDJzwF3lbn.jpg",
+        "release_date": "1985-11-01",
+        "title": "Death Wish 3",
+        "video": false,
+        "vote_average": 6.209,
+        "vote_count": 402
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 654,
+        "original_language": "en",
+        "original_title": "On the Waterfront",
+        "overview": "Terry Malloy is a kindhearted dockworker, and former boxer, who is tricked by his corrupt bosses into leading his friend to death. After falling in love, he tries to leave the waterfront and expose his employers.",
+        "popularity": 40.312,
+        "poster_path": "/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+        "release_date": "1954-06-22",
+        "title": "On the Waterfront",
+        "video": false,
+        "vote_average": 7.932,
+        "vote_count": 1527
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4So4aDgPRkspivwd0WEZu9x1GVH.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1175156,
+        "original_language": "it",
+        "original_title": "Ricchi a tutti i costi",
+        "overview": "When a grandmother falls for a cheeky suitor with dubious intentions, her family devises a secret plan to protect her life — and their inheritance.",
+        "popularity": 28.968,
+        "poster_path": "/azv9ekvJr1Vz6gNZa6QyaIbeiHG.jpg",
+        "release_date": "2024-06-04",
+        "title": "The Price of Nonna's Inheritance",
+        "video": false,
+        "vote_average": 5.822,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nZEYRFne7BmmbyteqXJb8JT5lxR.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 31701,
+        "original_language": "en",
+        "original_title": "Cop",
+        "overview": "An obsessive, insubordinate homicide cop is convinced a serial killer is loose in the Hollywood area and disobeys orders in order to catch him.",
+        "popularity": 38.549,
+        "poster_path": "/gvk4Q4Txjegmup4A1QVyQm2Lb6d.jpg",
+        "release_date": "1988-02-05",
+        "title": "Cop",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 114
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wEsLwLxOyeSZhq9MJSFd7VJBH2z.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            28,
+            35
+        ],
+        "id": 1059064,
+        "original_language": "en",
+        "original_title": "The Instigators",
+        "overview": "Rory and Cobby are unlikely partners thrown together for a heist. But when it goes awry, they team up to outrun police, backward bureaucrats, and a vengeful crime boss.",
+        "popularity": 40.574,
+        "poster_path": "/pIz9csYn1yjrzQi0BuBZNJrTMi0.jpg",
+        "release_date": "2024-08-02",
+        "title": "The Instigators",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3OoSoGDK1DI26MRSoJhv5chmV5X.jpg",
+        "genre_ids": [
+            28,
+            12,
+            16,
+            10770,
+            80,
+            18
+        ],
+        "id": 31599,
+        "original_language": "ja",
+        "original_title": "ルパン三世『ワルサーP38』",
+        "overview": "Lupin is framed for the murder of Inspector Zenigata by a mysterious assailant holding a silver-coloured Walther P38 pistol Lupin himself once owned. Tracking the true killer leads Lupin to the island of the bloodthirsty Tarantula assassins inside the Devil’s Triangle. After joining the spider-tattooed army against their will, Lupin and his gang make both new friends and enemies as they not only plan to take home the Tarantulas’ massive gold repository for themselves, but hunt down the shooter from Lupin’s past. Can Lupin put to rest this demon who haunts his memories with the Walther P38?",
+        "popularity": 35.502,
+        "poster_path": "/cs9hg2Fe6rV7230Bpxl58MtY4E8.jpg",
+        "release_date": "1997-08-01",
+        "title": "Lupin the Third: Island of Assassins",
+        "video": false,
+        "vote_average": 6.614,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kBenhxySFb2NhRJjCVLRCiTqYPr.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 192134,
+        "original_language": "en",
+        "original_title": "Dom Hemingway",
+        "overview": "After spending 12 years in prison for keeping his mouth shut, notorious safe-cracker Dom Hemingway is back on the streets of London looking to collect what he's owed.",
+        "popularity": 34.043,
+        "poster_path": "/krXOk4h01673cHdDzbAMFHUqz9g.jpg",
+        "release_date": "2013-11-14",
+        "title": "Dom Hemingway",
+        "video": false,
+        "vote_average": 5.834,
+        "vote_count": 493
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tmBwczAPdUBviCcSyu5OXdpUOGU.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 18311,
+        "original_language": "cn",
+        "original_title": "阿飛正傳",
+        "overview": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and the truth after discovering the woman who raised him isn't his mother.",
+        "popularity": 37.036,
+        "poster_path": "/acfLUO8E61u0ooWS6htbzTHDBcI.jpg",
+        "release_date": "1990-12-15",
+        "title": "Days of Being Wild",
+        "video": false,
+        "vote_average": 7.322,
+        "vote_count": 471
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bxJmFRjwWnpoLFkp5OSzA7xfzn6.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10402
+        ],
+        "id": 10060,
+        "original_language": "en",
+        "original_title": "Get Rich or Die Tryin'",
+        "overview": "A tale of an inner city drug dealer who turns away from crime to pursue his passion, rap music.",
+        "popularity": 35.783,
+        "poster_path": "/aaEJu8vFKtrAoSRtw3xjCf1aM5d.jpg",
+        "release_date": "2005-11-09",
+        "title": "Get Rich or Die Tryin'",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 873
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/91KxAtv1KHW7bH0A2asXzXNyeXF.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 15577,
+        "original_language": "en",
+        "original_title": "Crossing Over",
+        "overview": "Immigrants from around the world enter Los Angeles every day, with hopeful visions of a better life, but little notion of what that life may cost. Their desperate scenarios test the humanity of immigration enforcement officers. In Crossing Over, writer-director Wayne Kramer explores the allure of the American dream, and the reality that immigrants find – and create -- in 21st century L.A.",
+        "popularity": 49.53,
+        "poster_path": "/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg",
+        "release_date": "2009-02-10",
+        "title": "Crossing Over",
+        "video": false,
+        "vote_average": 6.137,
+        "vote_count": 354
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yJIRptBDdt92JS4decYj5HL3Q60.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 197950,
+        "original_language": "fr",
+        "original_title": "La French",
+        "overview": "Newly transferred to the bustling port city of Marseille to assist with a crackdown on organized crime, energetic young magistrate Pierre Michel is given a rapid-fire tutorial on the ins and outs of an out-of-control drug trade. Pierre's wildly ambitious mission is to take on the French Connection, a highly organized operation that controls the city's underground heroin economy and is overseen by the notorious —and reputedly untouchable— Gaetan Zampa. Fearless, determined and willing to go the distance, Pierre plunges into an underworld world of insane danger and ruthless criminals.",
+        "popularity": 36.031,
+        "poster_path": "/kIkmaZATFP4RkQSiWgyL6KGOTq6.jpg",
+        "release_date": "2014-12-03",
+        "title": "The Connection",
+        "video": false,
+        "vote_average": 7.119,
+        "vote_count": 813
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6M2IeELPSKZZ4iAPz2w0i7wdm6X.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 3432,
+        "original_language": "en",
+        "original_title": "Mr. Brooks",
+        "overview": "A psychological thriller about a man who is sometimes controlled by his murder-and-mayhem-loving alter ego.",
+        "popularity": 35.777,
+        "poster_path": "/yO9pNxyAFGb1i8cutXsYlTF5RT7.jpg",
+        "release_date": "2007-06-01",
+        "title": "Mr. Brooks",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 1645
+    }
+]

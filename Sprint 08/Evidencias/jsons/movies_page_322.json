@@ -1,0 +1,399 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 446619,
+        "original_language": "ja",
+        "original_title": "絆",
+        "overview": "Tetsuro Haga is a troubled gangster, living under the assumed identity Ise for ten years, to escape jail for gunning down his cruel adoptive father. His life begins to unravel when a journalist following him takes an interest in the wife of a boyhood chum, and the wife of another close friend takes an interest in Ise. A couple of murders later, Ise/Haga goes on the run and also sets out for revenge.",
+        "popularity": 9.894,
+        "poster_path": "/o9qsBlllPvWB1HiRfPVQaCmzfqD.jpg",
+        "release_date": "1998-06-06",
+        "title": "Bonds",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fV6Z0ZyD670aXCzGnNIiAMkmshh.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 87500,
+        "original_language": "en",
+        "original_title": "Funland",
+        "overview": "When a mob family takes over an amusement park after the owner dies under mysterious circumstances, the recently-fired clown mascot seeks vengeance for the loss of his job.",
+        "popularity": 9.894,
+        "poster_path": "/ajfZndltLl4aK8Rm370IDlQh6Rq.jpg",
+        "release_date": "1987-10-16",
+        "title": "Funland",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/96tDzthy9oz1HoK9fscF7QxFr7T.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 36461,
+        "original_language": "en",
+        "original_title": "Manhandled",
+        "overview": "Merle Kramer works as a stenographer for a psychiatrist. She is casually dating Karl Benson, a private eye and former cop. Merle mentions in passing that one of her boss's patients is an author with recurring dreams of murdering his wife, and she includes the fact that the wife owns valuable jewels. When the wife is found murdered in a manner identical to that of her husband's dream, the husband is naturally the prime suspect. But as the investigation of the police and insurance investigator Joe Cooper proceeds, it turns out that several people in the case, including Merle, are not what they seem.",
+        "popularity": 9.892,
+        "poster_path": "/r9mYnW3zhuRrb5iFZXJnwGerYqH.jpg",
+        "release_date": "1949-07-21",
+        "title": "Manhandled",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vpE9JJv4e6xa6IKQ3JWrKb3Unqt.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 693900,
+        "original_language": "ko",
+        "original_title": "경호원",
+        "overview": "A woman who appears like fate, I will protect her till the end!  'Soo-han' who lost both her loved one and the motivation to live, works at a private loan company with her colleagues, 'Tae-yeong' and 'Jin-cheol'.  Then one day, 'Soo-han' helps 'Ye-jin', who was being chased by gangsters, by hiding her in the house.  Actually, 'Ye-jin' is the only successor of 'Taejin Group', and is being chased by 'Cheol-woong' who wants to take over the group.  Meanwhile, CEO Cho, the CEO of the private load company, starts looking for 'Yejin' at the request of 'Cheolwoong', and soon learns that 'Suhan' and 'Yejin' were related ...",
+        "popularity": 9.889,
+        "poster_path": "/rghVxKlNdHgY7r3aDVt3BR6rz5o.jpg",
+        "release_date": "2020-04-15",
+        "title": "Bodyguard",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jjC46JlFhaTX8kGB2DXbpOxZf8n.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 10469,
+        "original_language": "de",
+        "original_title": "Komm, süßer Tod",
+        "overview": "Former detective Brenner has become an ambulance driver and finds himself, much to his dismay, caught up in a war between two rival first aid organizations.",
+        "popularity": 9.889,
+        "poster_path": "/tweuX8lgvrvZkUIereyO62qWj88.jpg",
+        "release_date": "2000-12-22",
+        "title": "Come, Sweet Death",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12,
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 133934,
+        "original_language": "en",
+        "original_title": "Joyride",
+        "overview": "Scott, John and Suzie quit their boring jobs and depart L.A. for Alaska to pursue their dream of their own salmon fishing business. They soon find that life in Alaska is more difficult than expected as they are forced to abandon their plans and make desperate choices just to survive.",
+        "popularity": 9.888,
+        "poster_path": "/jV6stIqAv49VvJqGApYLDU0VYnc.jpg",
+        "release_date": "1977-08-17",
+        "title": "Joyride",
+        "video": false,
+        "vote_average": 4.75,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5phzYnWIi5Ebtb0eG9GTID9kUIC.jpg",
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 110110,
+        "original_language": "en",
+        "original_title": "Family of Cops III",
+        "overview": "Police Inspector Paul Fein copes with family troubles while also dealing with the possibility of advancement to police chief. Meanwhile, his son is investigating the murder of a banker.",
+        "popularity": 9.887,
+        "poster_path": "/oVuD6fAT7VgnMogbpV8xIrMgLcs.jpg",
+        "release_date": "1999-01-12",
+        "title": "Family of Cops III",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            16,
+            37,
+            28,
+            80
+        ],
+        "id": 131597,
+        "original_language": "ja",
+        "original_title": "Early Reins",
+        "overview": "The good, the bad, and the drop-dead gorgeous. The train en route to Sunshine Hill City holds six very deadly and beautiful women. In the days of stagecoaches, cowboys, and highway robbery. On this particular day when a steam-train hauling valuable cargo is hijacked by rogue bandits, it's up to 6 female strangers to save the day. These ladies prove that you don't have to be a man to stop the bad guys.",
+        "popularity": 9.885,
+        "poster_path": "/nmnVtr043aOYaygmg3tbIyNgK3t.jpg",
+        "release_date": "2003-02-14",
+        "title": "Early Reins",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cyW3oMPMI4Fjrxol5iaXvj5onMS.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 64727,
+        "original_language": "ja",
+        "original_title": "ジーンズブルース　明日なき無頼派",
+        "overview": "Hijiriko makes off from the bar she works at with money and a car that isn't hers. Meanwhile, Jiro Katagiri is up to no good with his gangster friends and ends up making off with all their ill-gotten gains, much to their disapproval. The two misfits end up meeting after a car crash and soon end up on the road together in (another) stolen car. It's not long before the police take an interest in the crimes, and of course the gangsters are hot on Jiri's heels; meaning the two must scarper across Japan by any means necessary.",
+        "popularity": 9.885,
+        "poster_path": "/cH91WgDow3RAspj481pf4roBlSQ.jpg",
+        "release_date": "1974-03-30",
+        "title": "Jeans Blues: No Future",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sCVSLZZh3eoqWTa9FeA5jPLSm8a.jpg",
+        "genre_ids": [
+            27,
+            80,
+            9648
+        ],
+        "id": 1018829,
+        "original_language": "en",
+        "original_title": "Pig Killer",
+        "overview": "Inspired by the terrifying story of Robert 'Willy' Pickton, the pig farmer cum prolific lady killer whose horrific crimes shocked the world, PIG KILLER graphically depicts the rape, torture, slaughter and dismemberment of forty-nine young women on a pig farm. With his herculean hog, Balthazar, by his side, Willy and his menagerie of colorful cohorts terrorize Vancouver's seedy downtown until his arrest which uncovered a horrific series of brutal Canadian murders.",
+        "popularity": 9.884,
+        "poster_path": "/s6R1Iin86tA0r1HuKVdb1iBN26l.jpg",
+        "release_date": "2022-09-09",
+        "title": "Pig Killer",
+        "video": false,
+        "vote_average": 3.2,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l0rHUQ38yZ4bhuUmi9t4MArsOkc.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 92391,
+        "original_language": "en",
+        "original_title": "Sket",
+        "overview": "When a young woman is cruelly and indiscriminately attacked by a notorious gang led by the violent Trey, her little 16 year old sister Kayla wants revenge and will stop at nothing to get it, even if it means joining a rival girl gang led by the volatile and damaged man-hating Danielle.",
+        "popularity": 9.882,
+        "poster_path": "/kJ6kIgPbcA6rUM0mduZZu49MYbd.jpg",
+        "release_date": "2011-10-28",
+        "title": "Sket",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 479100,
+        "original_language": "en",
+        "original_title": "Parker",
+        "overview": "An Aussie businessman is trying to find out why and by whom he was kidnapped and then later released with no explanation.",
+        "popularity": 9.881,
+        "poster_path": "/cZbChO60GPiT8VblYXstqVZWFyr.jpg",
+        "release_date": "1985-05-03",
+        "title": "Parker",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            18
+        ],
+        "id": 1240949,
+        "original_language": "sv",
+        "original_title": "Beck 51",
+        "overview": "Peter Haber have confirmed that it will be a Beck 51 and 52. He said that in this film there will be much more room for Valter Skarsgård, that is Vilhelm Beck.",
+        "popularity": 9.878,
+        "poster_path": null,
+        "release_date": "",
+        "title": "Beck 51",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kQeeObyZcMdruVhBKAQRT0PhAdL.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 215108,
+        "original_language": "en",
+        "original_title": "The Lost Capone",
+        "overview": "While Al Capone works his way up from top-dog street gang thug captain in Chicago to U.S. crime king, his brother Jimmy Capone chooses the righteous way, actually with father's blessing, leaving Illinois for small town Harmony in Nebraska, where he adopts the alias Richard Hart, marries teacher Kathleen, has offspring and becomes its incorruptible town marshal, with a loyal Indian deputy. When his efficient fight against Al's illegal alcohol trade starts to bite financially, the gang's top lawyer is sent to buy 'Hart' or order his death, but recognizes Jimmy and arranges a fraternal reunion in Chicago. Yet money nor threats can turn Jimmy bad...",
+        "popularity": 9.878,
+        "poster_path": "/u3KKAx5oYclYvbBLX5mOOd0qIkc.jpg",
+        "release_date": "1990-09-10",
+        "title": "The Lost Capone",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tt84MQlU6RCMI00jOxIx8jxQfes.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 72092,
+        "original_language": "ja",
+        "original_title": "トリック 劇場版",
+        "overview": "Disaster befalls a village's inhabitants every 300 years. A popular self-styled magician named Naoko (Yukie Nakama) is summoned as a deity to rid the people of their anxiety. But there are many would-be deities there, each posing as a god. When a series of bizarre incidents occur, Naoko is cornered with a genius physicist (Hiroshi Abe) and Detective Yabe (Katsuhisa Namase). Do deities actually exist, or are they charlatans?",
+        "popularity": 9.878,
+        "poster_path": "/9JnxSwhUbQsW8YOACsbd4UJYybf.jpg",
+        "release_date": "2002-11-07",
+        "title": "Trick: The Movie",
+        "video": false,
+        "vote_average": 6.738,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hlN1VNPz7SqQl4mke4QlqbeRB6K.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 219889,
+        "original_language": "en",
+        "original_title": "We're on the Jury",
+        "overview": "A juror at a murder trial is convinced the defendant is innocent.",
+        "popularity": 9.876,
+        "poster_path": "/gAnSMeXTYRphBsiNrVZqNKCHqse.jpg",
+        "release_date": "1937-02-12",
+        "title": "We're on the Jury",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y2H2j06csFp3I8rlHJPDP1IPfzM.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 63959,
+        "original_language": "en",
+        "original_title": "The Zodiac Killer",
+        "overview": "The San Francisco area is beset by a series of seemingly random murders without motive or pattern. The police are taunted by phone calls and letters. Could the maniac be the violent, truck driver, or the seemingly mild-mannered mailman, or even a cop?",
+        "popularity": 9.876,
+        "poster_path": "/aB67ya2zQhRevhLS5OxuGZ9atr.jpg",
+        "release_date": "1971-04-07",
+        "title": "The Zodiac Killer",
+        "video": false,
+        "vote_average": 4.926,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2i5UaqpLjc8KlirlEfULdp41A7S.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 404486,
+        "original_language": "ko",
+        "original_title": "양치기들",
+        "overview": "Wan-ju, a failed stage actor, makes ends meet by playing real-life parts as someone’s boyfriend or wingman. Desperate for money, Wan-ju takes on his most challenging role ever when he agrees to pretend to have witnessed a murder.",
+        "popularity": 9.874,
+        "poster_path": "/3Mb4Cjsic9CsXd4cJVr9iFwXy3Z.jpg",
+        "release_date": "2016-06-02",
+        "title": "The Boys Who Cried Wolf",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cMwOA2BGnwL8e57tZmLye9OuvJF.jpg",
+        "genre_ids": [
+            10770,
+            80
+        ],
+        "id": 77441,
+        "original_language": "en",
+        "original_title": "Sam Cade",
+        "overview": "Sam Cade was the first feature-length \"movie\" put together from episodes of Cade's County, the early '70s series starring Glenn Ford as a modern-day sheriff in Madrid County, CA. In the first half, directed by Marvin Chomsky, Cade finds himself targeted for assassination when he's scheduled to testify in the trial of a mob kingpin -- what he doesn't know is that the assassin is one of his oldest friends (Darren McGavin), who is romancing another old friend (Loretta Swit) with a troubled past and using Cade's determination and his investigative skills to set him up for a hit. In the second half, directed by Richard Donner, Cade gets a tip that the mob has planned an assassination on a retired crime boss (Edward Asner) living in the county, who is so bull-headed and distrustful of the law that he won't accept any help or provide any information on who the killers might be, even though he's putting his own daughter (Shelley Fabares) at risk.",
+        "popularity": 9.874,
+        "poster_path": "/qqiZTGrWejh2VjBbbh24kqBmmOZ.jpg",
+        "release_date": "1972-01-01",
+        "title": "Sam Cade",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            12,
+            80,
+            9648,
+            53
+        ],
+        "id": 73339,
+        "original_language": "en",
+        "original_title": "The Boys Club",
+        "overview": "Three teenage boys in small-town Southern Ontario are thrilled when Luke Cooper, a mysterious American fugitive with a gunshot wound in his leg, decides to crash their secret hideout. Luke tells them that he's a cop on the run from corrupt colleagues, and swears them to silence. As he recuperates, he becomes their buddy and confidante. By the time the boys realize Luke is not who he pretends to be, they're in way over their heads",
+        "popularity": 9.872,
+        "poster_path": "/axn4MXeCdFCOG7i8i6DvbolzZeG.jpg",
+        "release_date": "1996-01-01",
+        "title": "The Boys Club",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 18
+    }
+]

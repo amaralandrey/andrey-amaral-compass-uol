@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 389835,
+        "original_language": "en",
+        "original_title": "Necessity",
+        "overview": "A model discovers her wealthy husband is a dangerous drug dealer. She leaves him, taking along two million dollars of his money, but what she really wants is custody of their daughter. She hatches a plan to abduct her daughter and take her to safety. Meanwhile, her husband dispatches someone to find and eliminate her.",
+        "popularity": 12.288,
+        "poster_path": "/jnCDowGQnwwVDshXb453knMZFVb.jpg",
+        "release_date": "1988-05-03",
+        "title": "Necessity",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6MmDQCLOIRiMS2xKe2nk86iQcX9.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 62979,
+        "original_language": "ja",
+        "original_title": "レイクサイド マーダーケース",
+        "overview": "Three couples are staying at a lakeside cottage with their children. They want them to prepare intensely for a prestigious high school's entrance exam with the help of a private tutor. One night, one of the wives confesses to her husband that she has killed his mistress.",
+        "popularity": 12.288,
+        "poster_path": "/nWakYWhFjRmfMwqO5HT6zFcOjuH.jpg",
+        "release_date": "2004-01-22",
+        "title": "The Lakeside Murder Case",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nqfAxYyLkn69ur6d8lwzSev7Sau.jpg",
+        "genre_ids": [
+            16,
+            35,
+            80
+        ],
+        "id": 491667,
+        "original_language": "ja",
+        "original_title": "ルパン三世 ルパン一家勢揃い",
+        "overview": "Lupin has invited all of his friends to a villa on a private island. It's the first time they've seen each other for the past five years. Lupin is planning a big surprise while they are all at the villa except Fujiko, Goemon and Jigen find Lupin's behavior to be unusual. They are also curious about who the man in the iron mask is, who is chained up to a wall for the reasons they are about to find out.",
+        "popularity": 12.286,
+        "poster_path": "/2ER0kGpD2zGGGZgH9b7kMAWghKl.jpg",
+        "release_date": "2012-03-28",
+        "title": "Lupin the Third: Lupin Family Lineup",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2JZ13EBbXujjwHKxJL0K4dyu5sr.jpg",
+        "genre_ids": [
+            80,
+            27,
+            28
+        ],
+        "id": 165282,
+        "original_language": "ja",
+        "original_title": "ウルフガイ 燃えろ狼男",
+        "overview": "Akira Inugami is the only survivor of a clan of ancient werewolves who relies on his supernatural powers to solve mysterious crimes. After a series of bloody killings perpetrated by an unseen force, Inugami uncovers a conspiracy involving a murdered cabaret singer, corrupt politicians, and a plot by the J-CIA to harvest his blood in order to steal his lycanthropic powers.",
+        "popularity": 12.284,
+        "poster_path": "/oNQvi7sxrDUwf3ezgXmmmpl543r.jpg",
+        "release_date": "1975-04-04",
+        "title": "Wolf Guy",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 37900,
+        "original_language": "en",
+        "original_title": "Hell's Kitchen",
+        "overview": "When a robbery goes awry, the bandits all end up in a puddle of blood and only one lives and goes to jail for five years. Upon his release, the girlfriend wants her new boyfriend to kill him. Only trouble is the boyfriend knows that the fault was not the ex-con's and can't bring himself to do the task. Meanwhile, the ex-con tries to turn his life around by becoming a boxer and training under a former heavyweight contender.",
+        "popularity": 12.284,
+        "poster_path": "/4O5qyaUbVBJGe4Gt95RpKS2yyrl.jpg",
+        "release_date": "1998-09-11",
+        "title": "Hell's Kitchen",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fUTaU53LRWuxiCju6z0ndYzVpkS.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            53
+        ],
+        "id": 1194954,
+        "original_language": "te",
+        "original_title": "Case 30",
+        "overview": "A murder case has been assigned to Crime Branch Officer Arjun Bharadwaj. How Arjun investigates and unthreads the case is the rest of the story.",
+        "popularity": 12.281,
+        "poster_path": "/osX3IDO2ezLLzJCBZY3xpp4eivC.jpg",
+        "release_date": "2023-10-24",
+        "title": "Case 30",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/13yDqTI16MKarvf0kNHjODTVdns.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 567969,
+        "original_language": "en",
+        "original_title": "American Woman",
+        "overview": "A political activist helps take care of a group of America’s most wanted fugitives, including a well-known, recently radicalized heiress.",
+        "popularity": 12.276,
+        "poster_path": "/tfHzFvjjmbMQhqOpcs6gnG8Mbxx.jpg",
+        "release_date": "2019-09-12",
+        "title": "American Woman",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oL7rpJoLzKhQYVK2zsJGcMcJfx5.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28,
+            18
+        ],
+        "id": 290336,
+        "original_language": "en",
+        "original_title": "Montana",
+        "overview": "In the mean streets of London's East End, a former Serbian commando and a fourteen-year old boy plot revenge against a powerful crime lord and his ruthless lieutenants. As our heroes prepare to take on their enemies, the boy is mentored in the dark arts of assassination and learns the true meaning of friendship, honor and respect.",
+        "popularity": 12.275,
+        "poster_path": "/wpoaBvuSEudMzPdvrd9jRAlbCW.jpg",
+        "release_date": "2014-10-05",
+        "title": "Montana",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xWf5Mjtv2HfIB9FyPYbbaSDdfCW.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 584,
+        "original_language": "en",
+        "original_title": "2 Fast 2 Furious",
+        "overview": "It's a major double-cross when former police officer Brian O'Conner teams up with his ex-con buddy Roman Pearce to transport a shipment of \"dirty\" money for shady Miami-based import-export dealer Carter Verone. But the guys are actually working with undercover agent Monica Fuentes to bring Verone down.",
+        "popularity": 12.271,
+        "poster_path": "/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg",
+        "release_date": "2003-06-05",
+        "title": "2 Fast 2 Furious",
+        "video": false,
+        "vote_average": 6.503,
+        "vote_count": 7270
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 271149,
+        "original_language": "ja",
+        "original_title": "白昼の死角",
+        "overview": "Elite college graduates commit perfect financial crimes though loopholes in the law during the 1950s.",
+        "popularity": 12.27,
+        "poster_path": "/Ho2yoe8FE2NABJ2N5abgollzew.jpg",
+        "release_date": "1979-07-04",
+        "title": "Dead Angle",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oPX94PSL9ywLIDIWekiIS6ElV95.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 171075,
+        "original_language": "en",
+        "original_title": "Crooks Anonymous",
+        "overview": "A former burglar trying to go straight joins a rehabilitation scheme using much the same methods as AA. Through the process, he takes work as a department store Santa, where the endless parade of goods and money, not to mention the pretty young shop hands have him like a moth to a flame in no time flat.",
+        "popularity": 12.27,
+        "poster_path": "/uxyFKMoV7eaIiDe8dxywPBDpa8e.jpg",
+        "release_date": "1962-03-31",
+        "title": "Crooks Anonymous",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53,
+            18,
+            10749,
+            10770
+        ],
+        "id": 104535,
+        "original_language": "en",
+        "original_title": "Clinton and Nadine",
+        "overview": "Eager to find his brother's murderer, Clinton enlists the aid of Nadine, an expensive call girl. Together they get sucked into a plot to smuggle guns to the Contra forces in Nicaragua.",
+        "popularity": 12.27,
+        "poster_path": "/xmvMrYbrcslR7t1lQJ9fLi1MbVI.jpg",
+        "release_date": "1988-05-04",
+        "title": "Clinton and Nadine",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/toBNRGMjBPtGWMHUsuMKX9m4415.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 71723,
+        "original_language": "ja",
+        "original_title": "１３号待避線より　その護送車を狙え",
+        "overview": "A sniper kills two prisoners in a police van, and the driver sets out to find the killer.",
+        "popularity": 12.265,
+        "poster_path": "/3Jmd0t7p9FvAo59bXLWnnuODyPM.jpg",
+        "release_date": "1960-01-27",
+        "title": "Take Aim at the Police Van",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cyzXhJe9Z5VTVET6VmkUddJcQwG.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 218257,
+        "original_language": "de",
+        "original_title": "Supermarkt",
+        "overview": "Willi is 18 years old and lives on the street. Without a goal in his life he walks around the city and meets several people, helping but also cheating him. When he meets a girl,  Monica, he realizes that there are people out there whose lives are even more desperate than his. So he's trying to help her (and him) by planning a great robbery on a supermarket's money transporter.",
+        "popularity": 12.264,
+        "poster_path": "/sjFTXy73MK1NYMQCvmTwZKJsQ4M.jpg",
+        "release_date": "1974-01-30",
+        "title": "Supermarket",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lkjdiMm9BCqlJIfFdbfDg1w9pex.jpg",
+        "genre_ids": [
+            27,
+            18,
+            80
+        ],
+        "id": 39856,
+        "original_language": "ja",
+        "original_title": "暴行切り裂きジャック",
+        "overview": "Two restaurant employees begin a sexual killing spree after they accidentally kill a hitch hiker and find that murder and mutilation is their mutual aphrodisiac.",
+        "popularity": 12.263,
+        "poster_path": "/wcQTBOmfPihlhs06aboO8S8RfiR.jpg",
+        "release_date": "1976-07-07",
+        "title": "Assault! Jack the Ripper",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p7jCkkBppRTHClNrvNcVVqBDYFG.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 4926,
+        "original_language": "en",
+        "original_title": "Cry Terror!",
+        "overview": "A mad bomber holds an innocent family hostage.",
+        "popularity": 12.261,
+        "poster_path": "/mYyMJaaNF35DIlt86aJc2kYqq16.jpg",
+        "release_date": "1958-05-02",
+        "title": "Cry Terror!",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/runE4VSmE5DngHknW34gLf8KMQ7.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 569133,
+        "original_language": "pl",
+        "original_title": "Kobiety mafii 2",
+        "overview": "After taking control of the capital, Nanny's gang prepares for the biggest smuggling action in the history of Poland.",
+        "popularity": 12.258,
+        "poster_path": "/Ry6YUwRNAsC45KadGgHPOxi6kr.jpg",
+        "release_date": "2019-02-22",
+        "title": "Women of Mafia 2",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r8qYcjOaKXexjhpPZgPwTrPQyGd.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            18
+        ],
+        "id": 956757,
+        "original_language": "hi",
+        "original_title": "कठपुतली",
+        "overview": "When a small town gets plunged into the nightmare of serial killings, rookie cop Arjan embarks on a chase for the truth and unravels a gruesome conspiracy.",
+        "popularity": 12.256,
+        "poster_path": "/gVQweL2bdoTlmrVYbcicZQ5VcNP.jpg",
+        "release_date": "2022-09-02",
+        "title": "Cuttputlli",
+        "video": false,
+        "vote_average": 5.667,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xdLL82DUXwgM2aKJCpQSuXJTF6x.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1054866,
+        "original_language": "en",
+        "original_title": "Bad Hombres",
+        "overview": "Bad Hombres tells the story of two undocumented immigrants who take a job digging a hole and then learn their employers are criminals.",
+        "popularity": 12.254,
+        "poster_path": "/AdmHghg90GyhhdSXWTxVCcp2KMe.jpg",
+        "release_date": "2023-03-04",
+        "title": "Bad Hombres",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iWxeb61LRv3A1M9q4KIztfqGNZQ.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            27
+        ],
+        "id": 55781,
+        "original_language": "ja",
+        "original_title": "恐怖女子高校　暴行リンチ教室",
+        "overview": "Three new students at a super-strict girl's school must face off with a repressive school administration, the sadistic, murderous student discipline brigade and corrupt politicians over the murder/suicide of one of their friends. They're approached by a blackmailer (Tsunehiko Watase) who promises to help them exact vengeance in exchange for setting up a corrupt local politician, and aided by a independent Yakuza biker chick (Reiko Ike).",
+        "popularity": 12.253,
+        "poster_path": "/qaQZoDQqGluQTiACCJqaD8mvCRW.jpg",
+        "release_date": "1973-03-31",
+        "title": "Terrifying Girls' High School: Lynch Law Classroom",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 23
+    }
+]

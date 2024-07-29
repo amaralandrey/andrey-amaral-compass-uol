@@ -1,0 +1,396 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/1jpIO9qYkn4CC0xO32J2fYD244W.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            27
+        ],
+        "id": 68635,
+        "original_language": "de",
+        "original_title": "Frauen für Zellenblock 9",
+        "overview": "A group of female freedom-fighters led by Karine Levere is caught by the warden of a women's prison, located somwhere in the South American jungle. None of them will reveal the secrets of their organisation or the names of their collaborators in the cities, so they are handed over to Dr. Costa who, after four years inactivity in Europe, is delighted to be able to practice his torture techniques once more.  Laverne fails to resist the inhuman treatments and reveals all. The only hope of saving the organization is for the girls to warn the city cell before it's too late. They trick the prison guard into having sex with them, knock him out and break out of prison. The warden and Dr. Costa must prevent them from revealing the practices inside the prison. The hunt is on and it's shoot to kill...",
+        "popularity": 80.949,
+        "poster_path": "/c5FFvN60v6tO1iV9QDVsuGq4Tw4.jpg",
+        "release_date": "1978-03-17",
+        "title": "Women in Cellblock 9",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9j9qKlz9GvmSD3np6UEwWe6uSb.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 7220,
+        "original_language": "en",
+        "original_title": "The Punisher",
+        "overview": "When undercover FBI agent Frank Castle's wife and son are slaughtered, he becomes 'the Punisher' -- a ruthless vigilante willing to go to any length to avenge his family.",
+        "popularity": 80.696,
+        "poster_path": "/7rmA1HwYp2GKM85BL0cVwCaosGr.jpg",
+        "release_date": "2004-04-15",
+        "title": "The Punisher",
+        "video": false,
+        "vote_average": 6.35,
+        "vote_count": 2744
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rCzIkO93CHULAUbRyGShvActNua.jpg",
+        "genre_ids": [
+            878,
+            80
+        ],
+        "id": 185,
+        "original_language": "en",
+        "original_title": "A Clockwork Orange",
+        "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+        "popularity": 80.469,
+        "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+        "release_date": "1971-12-19",
+        "title": "A Clockwork Orange",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 12599
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aiM3XxYE2JvW1vJ4AC6cI1RjAoT.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            35
+        ],
+        "id": 438650,
+        "original_language": "en",
+        "original_title": "Cold Pursuit",
+        "overview": "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+        "popularity": 80.409,
+        "poster_path": "/cO802woIgZsLbOWPUSsleobKyDp.jpg",
+        "release_date": "2019-02-07",
+        "title": "Cold Pursuit",
+        "video": false,
+        "vote_average": 5.815,
+        "vote_count": 2512
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y9Dr6yCVYRmjKuDjOjNyWxVuGjp.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 370464,
+        "original_language": "en",
+        "original_title": "The Masked Saint",
+        "overview": "The journey of a professional wrestler who becomes a small town pastor and moonlights as a masked vigilante fighting injustice. While facing crises at home and at the church, the Pastor must evade the police and somehow reconcile his violent secret identity with his calling as a pastor.",
+        "popularity": 80.335,
+        "poster_path": "/zlT1Tc9hA1Ntye5hr7Gxos9U6U9.jpg",
+        "release_date": "2016-01-08",
+        "title": "The Masked Saint",
+        "video": false,
+        "vote_average": 5.414,
+        "vote_count": 64
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 273481,
+        "original_language": "en",
+        "original_title": "Sicario",
+        "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+        "popularity": 79.93,
+        "poster_path": "/7P4Pd24PYhIGd8ow47n9ttSTDkY.jpg",
+        "release_date": "2015-09-17",
+        "title": "Sicario",
+        "video": false,
+        "vote_average": 7.399,
+        "vote_count": 8355
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 598,
+        "original_language": "pt",
+        "original_title": "Cidade de Deus",
+        "overview": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "popularity": 79.802,
+        "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+        "release_date": "2002-08-30",
+        "title": "City of God",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 7183
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xPq3LDgamUT1aKLTeGJk9ccwfwr.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 276907,
+        "original_language": "en",
+        "original_title": "Legend",
+        "overview": "Suave, charming and volatile, Reggie Kray and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings orchestrate robberies and murders while running nightclubs and protection rackets. With police Detective Leonard \"Nipper\" Read hot on their heels, the brothers continue their rapid rise to power and achieve tabloid notoriety.",
+        "popularity": 79.688,
+        "poster_path": "/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg",
+        "release_date": "2015-09-09",
+        "title": "Legend",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 3759
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9er6whiNMtbnnNqeZcGoGStnvvQ.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1046090,
+        "original_language": "zh",
+        "original_title": "周處除三害",
+        "overview": "The arrogant, third most-wanted criminal in Taiwan, decides to get rid of the top two competitors and crowns himself the most-wanted criminal before dying.",
+        "popularity": 79.298,
+        "poster_path": "/9FhZ9VC999qeOWH2ytbangUMMt4.jpg",
+        "release_date": "2023-10-06",
+        "title": "The Pig, the Snake and the Pigeon",
+        "video": false,
+        "vote_average": 7.235,
+        "vote_count": 172
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5LgLy0BEzGvVqii1ERftWrzQgFs.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 507532,
+        "original_language": "en",
+        "original_title": "Finestkind",
+        "overview": "Two brothers from opposite sides of the tracks are reunited as adults. Desperate circumstances force them into a deal with an organized crime syndicate in Boston, and a young woman gets caught in the middle.",
+        "popularity": 78.915,
+        "poster_path": "/90D6sXfbXKhDpd4S1cHICdAe8VD.jpg",
+        "release_date": "2023-09-08",
+        "title": "Finestkind",
+        "video": false,
+        "vote_average": 7.108,
+        "vote_count": 213
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eEP8pyCmldfbnml0SFMvPK7kE4x.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 8224,
+        "original_language": "en",
+        "original_title": "8MM",
+        "overview": "A small, seemingly innocuous plastic reel of film leads surveillance specialist Tom Welles down an increasingly dark and frightening path. With the help of the streetwise Max, he relentlessly follows a bizarre trail of evidence to determine the fate of a complete stranger. As his work turns into obsession, he drifts farther and farther away from his wife, family and simple life as a small-town PI.",
+        "popularity": 78.839,
+        "poster_path": "/mhr9xRpjOBqlBjgDwtiOx6FsLvV.jpg",
+        "release_date": "1999-02-26",
+        "title": "8MM",
+        "video": false,
+        "vote_average": 6.453,
+        "vote_count": 1937
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dYb6kgvoGjUH59n2uB4eV9xqmKR.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 27582,
+        "original_language": "en",
+        "original_title": "The Mechanic",
+        "overview": "Arthur Bishop is a 'mechanic' - an elite assassin with a strict code requiring professional perfection and total detachment. One of an elite group of assassins, Bishop may be the best in the business - with a unique talent for cleanly eliminating targets. When Harry McKenna, his close friend and mentor, is murdered, Harry's son comes to him with vengeance in his heart and a desire to learn Bishop's trade, signaling the birth of a deadly partnership.",
+        "popularity": 78.759,
+        "poster_path": "/fDAEJr4WLZLJQmckA2JZNICt0u3.jpg",
+        "release_date": "2011-01-13",
+        "title": "The Mechanic",
+        "video": false,
+        "vote_average": 6.52,
+        "vote_count": 3161
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qYx2AB7J3JsHA3xPfSMdLHRwDnc.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 4982,
+        "original_language": "en",
+        "original_title": "American Gangster",
+        "overview": "Following the death of his employer and mentor, Bumpy Johnson, Frank Lucas establishes himself as the number one importer of heroin in the Harlem district of Manhattan. He does so by buying heroin directly from the source in South East Asia and he comes up with a unique way of importing the drugs into the United States. Partly based on a true story.",
+        "popularity": 78.134,
+        "poster_path": "/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
+        "release_date": "2007-11-02",
+        "title": "American Gangster",
+        "video": false,
+        "vote_average": 7.586,
+        "vote_count": 5256
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dEQQy17jnmzENpujFgCmbNaj8Ds.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 158011,
+        "original_language": "en",
+        "original_title": "The Call",
+        "overview": "Jordan Turner is an experienced 911 operator but when she makes an error in judgment and a call ends badly, Jordan is rattled and unsure if she can continue. But when teenager Casey Welson is abducted in the back of a man's car and calls 911, Jordan is the one called upon to use all of her experience, insights and quick thinking to help Casey escape, and not just to save her, but to make sure the man is brought to justice.",
+        "popularity": 77.992,
+        "poster_path": "/bpYVSeoaQ8MURmmqnojoMJEUmQj.jpg",
+        "release_date": "2013-03-14",
+        "title": "The Call",
+        "video": false,
+        "vote_average": 6.798,
+        "vote_count": 2832
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/giWdPd0z3z8ONFQdGVygZ26l1Ao.jpg",
+        "genre_ids": [
+            28,
+            53,
+            12,
+            80
+        ],
+        "id": 11968,
+        "original_language": "en",
+        "original_title": "Into the Blue",
+        "overview": "When they take some friends on an extreme sport adventure, the last thing Jared and Sam expect to see below the shark-infested waters is a legendary pirate ship rumored to contain millions of dollars in gold. But their good fortune is short-lived, as a ruthless gang of criminals gets word of what they have uncovered.",
+        "popularity": 77.941,
+        "poster_path": "/h5oXcjRu0EOiAxSxYuGq58897tu.jpg",
+        "release_date": "2005-09-30",
+        "title": "Into the Blue",
+        "video": false,
+        "vote_average": 5.898,
+        "vote_count": 1453
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rdOIqwR7P7fvTpC6LILSmQxEg6O.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 763285,
+        "original_language": "en",
+        "original_title": "Ambulance",
+        "overview": "Decorated veteran Will Sharp, desperate for money to cover his wife's medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.",
+        "popularity": 77.782,
+        "poster_path": "/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg",
+        "release_date": "2022-03-16",
+        "title": "Ambulance",
+        "video": false,
+        "vote_average": 6.652,
+        "vote_count": 2032
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jqFjgNnxpXIXWuPsyfqmcLXRo9p.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 500,
+        "original_language": "en",
+        "original_title": "Reservoir Dogs",
+        "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+        "popularity": 77.499,
+        "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+        "release_date": "1992-09-02",
+        "title": "Reservoir Dogs",
+        "video": false,
+        "vote_average": 8.127,
+        "vote_count": 14013
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bIA65PCRtIQfBvIoKohJbtOPl3M.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 96,
+        "original_language": "en",
+        "original_title": "Beverly Hills Cop II",
+        "overview": "Axel Foley returns to the land of sunshine and palm trees to investigate the near-fatal shooting of police Captain Andrew Bogomil. With the help of Sgt. Taggart and Det. Rosewood, they soon uncover that the shooting is associated with a series of \"alphabet\" robberies masterminded by a heartless weapons kingpin—and the chase is on.",
+        "popularity": 77.187,
+        "poster_path": "/egDakU8O5yUwpUJP9IMAUVtIDll.jpg",
+        "release_date": "1987-05-18",
+        "title": "Beverly Hills Cop II",
+        "video": false,
+        "vote_average": 6.501,
+        "vote_count": 2434
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1u7TuvR5mSUz2xRQhz01i75IwdT.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 201088,
+        "original_language": "en",
+        "original_title": "Blackhat",
+        "overview": "Nicholas Hathaway, a furloughed convict, and his American and Chinese partners hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta. As Hathaway closes in, the stakes become personal as he discovers that the attack on a Chinese nuclear power plant was just the beginning.",
+        "popularity": 76.917,
+        "poster_path": "/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+        "release_date": "2015-01-13",
+        "title": "Blackhat",
+        "video": false,
+        "vote_average": 5.487,
+        "vote_count": 1973
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sjsaxwNsgBbrWrJIXtCT5DNo9Mt.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 181283,
+        "original_language": "en",
+        "original_title": "Child 44",
+        "overview": "Set in Stalin-era Soviet Union, a disgraced MGB agent is dispatched to investigate a series of child murders -- a case that begins to connect with the very top of party leadership.",
+        "popularity": 76.351,
+        "poster_path": "/qqGhMt31HVUN3WnH0L2r0OWq38E.jpg",
+        "release_date": "2015-03-15",
+        "title": "Child 44",
+        "video": false,
+        "vote_average": 6.273,
+        "vote_count": 1611
+    }
+]

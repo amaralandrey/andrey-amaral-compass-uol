@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 392499,
+        "original_language": "en",
+        "original_title": "Fallout",
+        "overview": "A London policeman returns to the estate where he grew up to investigate the murder of a young boy. Adapted by the playwright from his 2002 play.",
+        "popularity": 9.54,
+        "poster_path": "/9dadzzo5r0q2hVnc5rXglR3jlE2.jpg",
+        "release_date": "2008-07-03",
+        "title": "Fallout",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7oUEGvu068NEga18cUIN4pGjmi1.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1191658,
+        "original_language": "de",
+        "original_title": "Cyberbunker: Darknet in Deutschland",
+        "overview": "This documentary reveals how a group of hackers powered the darkest corners of the internet from a Cold War-era bunker in a quiet German tourist town.",
+        "popularity": 9.537,
+        "poster_path": "/tNW35K9SPQzve8iuvo9V8TZ0HzG.jpg",
+        "release_date": "2023-11-07",
+        "title": "Cyberbunker: The Criminal Underworld",
+        "video": false,
+        "vote_average": 6.717,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iyx1VUcT3qKVZb1HpsuSUUv9JjA.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 259183,
+        "original_language": "en",
+        "original_title": "Home at Seven",
+        "overview": "Unable to recall the past 24 hours, a British bank clerk is the prime suspect for a robbery/murder.",
+        "popularity": 9.537,
+        "poster_path": "/u1wTXmIktK0v04EHdtJ6BYlNeaL.jpg",
+        "release_date": "1952-03-16",
+        "title": "Home at Seven",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4H9aKamQxA7Ocl7JaRpmUuXW7Jy.jpg",
+        "genre_ids": [
+            10749,
+            9648,
+            80
+        ],
+        "id": 180534,
+        "original_language": "en",
+        "original_title": "Love Is on the Air",
+        "overview": "A newscaster gets demoted for exposing the town's criminal activities over the airwaves.",
+        "popularity": 9.537,
+        "poster_path": "/rDqbVYX2s5yJw2X8X1DW5B3yVmv.jpg",
+        "release_date": "1937-10-02",
+        "title": "Love Is on the Air",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iyW6oKJKa8s5iZwnGSqQe2SBYLg.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 23843,
+        "original_language": "it",
+        "original_title": "In ascolto",
+        "overview": "Estranged by the degree of corporate influence within the largest U.S. listening station in the world, an aging NSA officer defects and mounts a clandestine counter-listening station high in the Italian alps.",
+        "popularity": 9.536,
+        "poster_path": "/tJQjjDrV0gMIZ4l0ARKKqQLYf7r.jpg",
+        "release_date": "2006-04-28",
+        "title": "The Listening",
+        "video": false,
+        "vote_average": 6.38,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9FwZCAZM6OnXldSoqNXCYmwBHdD.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            18
+        ],
+        "id": 14394,
+        "original_language": "hi",
+        "original_title": "सर्कार राज",
+        "overview": "When Anita Raja, CEO of Sheppard power plant, brings a power plant proposal to set up in rural Mahrashtra before the Nagres, insightful Shankar is quick to realise the benefits the power plant can bring to the people.",
+        "popularity": 9.532,
+        "poster_path": "/1ptl9Dq51jXpUNotg6CwHWZxoaK.jpg",
+        "release_date": "2008-06-06",
+        "title": "Sarkar Raj",
+        "video": false,
+        "vote_average": 6.526,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uOMBwO1LPtIv9uhvQ7vZuugYQ6H.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 936378,
+        "original_language": "fr",
+        "original_title": "Rodéo",
+        "overview": "Hot-tempered and fiercely independent gearhead Julia, meets a crew of dirt riders who fly along at full speed and perform stunts. She sets about infiltrating their male-dominated world, until an accident jeopardizes her ability to fit in.",
+        "popularity": 9.531,
+        "poster_path": "/y5M3HqwF09cb2Sh5iE5V0LqRbmv.jpg",
+        "release_date": "2022-09-07",
+        "title": "Rodeo",
+        "video": false,
+        "vote_average": 5.625,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4hpQnHbq4wWTYJLBPVnwzLFLYEY.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770,
+            9648
+        ],
+        "id": 631404,
+        "original_language": "en",
+        "original_title": "Undercover Cheerleader",
+        "overview": "Autumn is a beautiful transfer student who goes undercover as a cheerleader to do an exposé on the cruel culture of the squad for her school newspaper. But when someone begins viciously attacking cheerleaders, she starts to fear for her own life.",
+        "popularity": 9.53,
+        "poster_path": "/vdN72pwqNmwGcpfSrIW8Y8Vt5Qx.jpg",
+        "release_date": "2019-09-15",
+        "title": "Undercover Cheerleader",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8RIKOjVKkgjey9Dazti0bQ5rjHW.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 83038,
+        "original_language": "en",
+        "original_title": "The Wrestler",
+        "overview": "Frank Bass (Ed Asner) is an honest guy trying to make a living in the cut throat world of professional wrestling, and he's gonna make it work - even if he dies trying! But first - he'll have to strong-arm his way through all the mobsters, gamblers, promoters and fight fixers and help his past-his-prime wrestler once again win a championship belt. Features appearances from real-life legendary wrestlers and AWA superstars Verne Gagne, Rick Flair, Superstar Billy Graham, Dusty Rhodes, Dick the Bruiser, Ray Stevens, Dory Funk Jr., Ken Patera, Billy Robinson, Dan Gable, Eddie Graham, Dick Murdoch, Vincent J. McMahon, and more.",
+        "popularity": 9.53,
+        "poster_path": "/eTRzi5Wr3vRSD1WcGmqL5B6685l.jpg",
+        "release_date": "1974-04-28",
+        "title": "The Wrestler",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            9648,
+            53,
+            10770
+        ],
+        "id": 606957,
+        "original_language": "en",
+        "original_title": "Murder by the Book",
+        "overview": "Mild-mannered mystery writer D. H. Mercer has become so immersed in his material that his creation, hard-boiled private eye Biff Deegan, constantly appears to him as a hallucination. Intent on getting rid of Biff, and replacing him with a more civilized detective, Mercer soon finds himself in a genuine mystery involving art fraud, murder, and a beautiful lady in peril.",
+        "popularity": 9.527,
+        "poster_path": "/em3ZnNb0UkXImC5wD5t13V5yVSb.jpg",
+        "release_date": "1987-03-17",
+        "title": "Murder by the Book",
+        "video": false,
+        "vote_average": 5.857,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jPCD6FJEwnc96upbTdCCm5HUl2r.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            18
+        ],
+        "id": 120921,
+        "original_language": "en",
+        "original_title": "Tell No Tales",
+        "overview": "A newspaper editor turns a kidnapping into the banner headlines and exclusive story that could save his publication.",
+        "popularity": 9.527,
+        "poster_path": "/o9g451j4XDAtpwIegIAi65ElHxu.jpg",
+        "release_date": "1939-06-12",
+        "title": "Tell No Tales",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iDBiBBbT56CTXWYxoFtrLZBogn0.jpg",
+        "genre_ids": [
+            53,
+            80,
+            27
+        ],
+        "id": 108101,
+        "original_language": "it",
+        "original_title": "Arabella l'angelo nero",
+        "overview": "An insatiable nymphomaniac with a wheelchair-bound writer husband finds that her lurid exploits rejuvenate his creativity and libido, but soon enough, all of her lovers end up being murdered by an unknown assailant.",
+        "popularity": 9.526,
+        "poster_path": "/zTSAYWRi9T3C7hQ1Jh0emq1hyLf.jpg",
+        "release_date": "1989-09-08",
+        "title": "Arabella: Black Angel",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qxemi7eEgn5pqov7lsNPZyDwsmA.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 92352,
+        "original_language": "en",
+        "original_title": "Confession",
+        "overview": "Vera Kowalska is put on trial for murdering concert pianist Michael Michailow. In court it is revealed that some years earlier Michael ruined Vera's life.",
+        "popularity": 9.525,
+        "poster_path": "/tK3HzkEDZAbkc4YaeqKez49NFp4.jpg",
+        "release_date": "1937-08-19",
+        "title": "Confession",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w5eefinDNFT40j2SlR9x5nKftAI.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 70738,
+        "original_language": "en",
+        "original_title": "Midnight Mary",
+        "overview": "A young woman is on trial for murder. In flashback, we learn of her struggles to overcome poverty as a teenager -- a mistaken arrest and prison term for shoplifting and lack of employment lead to involvement with gangsters. In a brothel, she meets a young lawyer, scion of a wealthy and prestigious family, who falls for her and helps her turn around her life. But her past catches up with her, and she must face the music rather than cause him scandal.",
+        "popularity": 9.525,
+        "poster_path": "/tz8f30i8IahbCnc27kfUgyQLihU.jpg",
+        "release_date": "1933-06-30",
+        "title": "Midnight Mary",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lJjNT5L04RnFbZnxyDUDGljTcU0.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 434050,
+        "original_language": "fr",
+        "original_title": "Symphonie pour un massacre",
+        "overview": "A band of gangsters devise a plan to steal a game contested between two drug gangs of drug traffickers: the five fraudsters will face bigger problems than them.",
+        "popularity": 9.522,
+        "poster_path": "/8MjBc6HJZ7OXJ9Gg00rBQB4wT0s.jpg",
+        "release_date": "1963-08-02",
+        "title": "Symphony for a Massacre",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 213341,
+        "original_language": "it",
+        "original_title": "Malinconico autunno",
+        "overview": "At school, Luca is falsely accused of a prank and wishes he had a father who would defend him in front of the headmaster. His father is dead, but he meets a sea captain who is willing to pretend to be his parent. Then Captain Andrea falls in love with Luca's mother, textile mill worker Maria. Before things go right, Andrea needs to deal with an ex-girlfriend and a smuggling plot.",
+        "popularity": 9.522,
+        "poster_path": "/lGmPLRe4xcg6wISFNOyW5wDyep.jpg",
+        "release_date": "1958-08-06",
+        "title": "Malinconico autunno",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cV7sAnCTmEvRfAryIIUpQD8A7ak.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 62725,
+        "original_language": "it",
+        "original_title": "Delitto a Porta Romana",
+        "overview": "A police inspector is called to Milan to investigate a murder case since he grew up in the same ghetto as the suspect.",
+        "popularity": 9.521,
+        "poster_path": "/Xf8llN4fdIY6Cdw3stUuvgFMz0.jpg",
+        "release_date": "1980-10-29",
+        "title": "Crime at Porta Romana",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 16878,
+        "original_language": "en",
+        "original_title": "Saving God",
+        "overview": "Ex Con Armstrong Cane (Ving Rhames) returns to home a changed man looking to take over his father's old church and congregation. The neighborhood though is full of drugs and gangs. Those who are able are leaving for more prosperous areas and falling in with a slick preacher (Ricardo Chivara). Even with a dangerous gang leader (Dean McDermott) threatening his flock, Armstrong won't give up.",
+        "popularity": 9.52,
+        "poster_path": "/q16Hoe5oqE9rRxakSzNikqFvy3P.jpg",
+        "release_date": "2008-10-14",
+        "title": "Saving God",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gvW7LoMVoiO8pQ0NLAYEmQ5waRJ.jpg",
+        "genre_ids": [
+            80,
+            12
+        ],
+        "id": 49183,
+        "original_language": "en",
+        "original_title": "The Vengeance of Fu Manchu",
+        "overview": "In his remote China hideaway the evil Fu Manchu plots the death and discredit of his arch rival, Inspector Nayland Smith of Scotland Yard.",
+        "popularity": 9.517,
+        "poster_path": "/njSWFPeTaZYoKKeuyf1Ga6OYAuh.jpg",
+        "release_date": "1967-05-25",
+        "title": "The Vengeance of Fu Manchu",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kJOoW7COZp9JW0LKNOuZ2RkKsyG.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 362772,
+        "original_language": "es",
+        "original_title": "Trotacalles",
+        "overview": "In Mexico City, two sisters, Maria and Elena, fight over the love of pimp Rodolfo. Elena escapes her sad marriage to an old banker into Rodolfo's arms. Meanwhile, life is hard for sex worker Maria, who-along with her supportive group of fellow sex workers-must deal with exploitative clients.",
+        "popularity": 9.516,
+        "poster_path": "/hj6gNuQ8iaWOM3lczdEoY4HKNQL.jpg",
+        "release_date": "1951-06-22",
+        "title": "Streetwalker",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 7
+    }
+]

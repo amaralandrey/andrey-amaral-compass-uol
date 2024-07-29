@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/surpQs4jrCEeUF3Zle7vaozYEWS.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 25884,
+        "original_language": "en",
+        "original_title": "Feds",
+        "overview": "Ellie DeWitt and Janis Zuckermann are admitted to the very strict FBI Training Academy. They get a hard course, in which they learn to deal with guns and to recognise crimes. They also get a physical training. It appears that Ellie is a real fighting- machine, in contrast with Janis, the great student. They have to help each other, all the way to graduation.",
+        "popularity": 19.203,
+        "poster_path": "/a8g0q2R4cwLc5a9SSBuqq6GhSlq.jpg",
+        "release_date": "1988-10-28",
+        "title": "Feds",
+        "video": false,
+        "vote_average": 5.833,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ywScdkxr19Gggsr3u9o0Ped0srS.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 57521,
+        "original_language": "ca",
+        "original_title": "Pa Negre",
+        "overview": "In the harsh post-war years' Catalan countryside, Andreu, a child that belongs to the losing side, finds the corpses of a man and his son in the forest. The authorities want his father to be made responsible of the deaths, but Andreu tries to help his father by finding out who truly killed them. In this search, Andreu develops a moral consciousness against a world of adults fed by lies. In order to survive, he betrays his own roots and ends up finding out the monster that lives within him.",
+        "popularity": 14.794,
+        "poster_path": "/c8YTscygBsjiwwkX2jlROpCTeuf.jpg",
+        "release_date": "2010-10-10",
+        "title": "Black Bread",
+        "video": false,
+        "vote_average": 6.706,
+        "vote_count": 109
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ekIdTKHLWzZ4ojDLEkzLzNb8ggK.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 468284,
+        "original_language": "fr",
+        "original_title": "L'Insulte",
+        "overview": "After an emotional exchange between a Lebanese Christian and a Palestinian refugee escalates, the men end up in a court case that gets national attention.",
+        "popularity": 13.797,
+        "poster_path": "/w9mlrckg3ZU2rsAlKUbLD1CgBTk.jpg",
+        "release_date": "2017-09-14",
+        "title": "The Insult",
+        "video": false,
+        "vote_average": 7.51,
+        "vote_count": 444
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p2kEtaDoKo3i3o0U1Nx3Xr8S3lZ.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 4680,
+        "original_language": "fr",
+        "original_title": "Deux hommes dans la ville",
+        "overview": "A former bank robber is released after 10 years in prison. He gets help from a social-worker, but gets harassed by an old cop from his past.",
+        "popularity": 19.79,
+        "poster_path": "/mSt9oKp7HVhnB8NS52OszOXg5dQ.jpg",
+        "release_date": "1973-10-24",
+        "title": "Two Men in Town",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 140
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/egYcqlhCT5cPB0YjCfBUhZM5EWG.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 983793,
+        "original_language": "en",
+        "original_title": "Mojave Diamonds",
+        "overview": "A former MMA fighter and his brothers must rescue their kidnapped family from a dangerous crime syndicate after $50M of illegal diamonds gets stolen.",
+        "popularity": 26.005,
+        "poster_path": "/8JagLPH3wc2BDvsUkJfie3mEodN.jpg",
+        "release_date": "2023-08-24",
+        "title": "Mojave Diamonds",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j7FwgVFjpsToIJ5Lt5y2K4N5pKm.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28,
+            10770
+        ],
+        "id": 1142740,
+        "original_language": "en",
+        "original_title": "Murder City",
+        "overview": "A disgraced former cop finds himself working for a ruthless female kingpin to pay off his estranged father’s debt and protect his family.",
+        "popularity": 24.044,
+        "poster_path": "/gZ1YbdkwyTCmVxZxh1otFnMEnOs.jpg",
+        "release_date": "2023-06-29",
+        "title": "Murder City",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w0q9xW1nekWkKVIkwEjB9mxjH23.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 529981,
+        "original_language": "en",
+        "original_title": "Bayou Caviar",
+        "overview": "Rodney is a former boxing champ who, after a deathbed visit to his trainer and mentor, is propelled into reclaiming victory for his now simple life as a nightclub bouncer. He partners with a no-nonsense, lesbian photographer and an aspiring starlet to make a compromising tape with Isaac—a married, devout, Orthodox Jewish real estate mogul—that sets off a chain of events that brings down an empire.",
+        "popularity": 20.342,
+        "poster_path": "/up28fmhXm5eZjasXEZ352NdxDLq.jpg",
+        "release_date": "2018-10-05",
+        "title": "Bayou Caviar",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z3OgVzd06puEx9KD68T5zzFTrdt.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 509467,
+        "original_language": "ko",
+        "original_title": "사라진 밤",
+        "overview": "A detective investigates the disappearance of a woman's corpse from a morgue and tries to uncover the cause of her death.",
+        "popularity": 23.201,
+        "poster_path": "/rAojqD3Upj82IuhZHwHD1spUc5e.jpg",
+        "release_date": "2018-03-07",
+        "title": "The Vanished",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y1y19cvjp8cqnASszAGwRMImiZF.jpg",
+        "genre_ids": [
+            28,
+            37,
+            80
+        ],
+        "id": 127475,
+        "original_language": "en",
+        "original_title": "The Revengers",
+        "overview": "The life of peaceful rancher John Benedict is torn apart when his family is massacred by a gang of marauding outlaws and his farm is destroyed. He assembles a team of mean, lawless convicts to act as his posse as he pursues the gang responsible for the deaths of his loved ones.",
+        "popularity": 13.054,
+        "poster_path": "/pkTz0NgUxn4bbNLBXPpjHlVbCgP.jpg",
+        "release_date": "1972-06-21",
+        "title": "The Revengers",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9iemEC0cGDNyRepa3leXJNkUwkX.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 251577,
+        "original_language": "nl",
+        "original_title": "De Behandeling",
+        "overview": "Inspector Nick Cafmeyer seems to have it all - looks, brains and a successful career.  But a dark cloud hangs over his life: since the age of nine, he has been haunted by the unsolved disappearance of his younger brother, Bjorn. Plettinckx, a known sex offender, was questioned but quickly released. Plettinckx lives close by and takes fiendish pleasure in harassing Nick. Then, when a disturbing case comes to light involving a missing nine-year-old, Nick heads a massive search which turns into a relentless manhunt.",
+        "popularity": 25.787,
+        "poster_path": "/nzVhjAjEaugzs0CSmEO50W5mTcc.jpg",
+        "release_date": "2014-01-29",
+        "title": "The Treatment",
+        "video": false,
+        "vote_average": 6.965,
+        "vote_count": 189
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qmy3lk8YY9tBFfwMoPavUEM59u5.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 26578,
+        "original_language": "en",
+        "original_title": "The Falcon and the Snowman",
+        "overview": "The true story of a disillusioned military contractor employee and his drug pusher childhood friend who became walk-in spies for the Soviet Union.",
+        "popularity": 24.033,
+        "poster_path": "/oDeaorrKpjzYgH1c9ePoJ3x9qvw.jpg",
+        "release_date": "1985-01-25",
+        "title": "The Falcon and the Snowman",
+        "video": false,
+        "vote_average": 6.469,
+        "vote_count": 146
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bbO7XyOuxvcime7AH3jZjbc5w1H.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 12577,
+        "original_language": "en",
+        "original_title": "Riders",
+        "overview": "An entrepreneurial criminal, Slim (Dorff) is as smart as they come. Cocky and confident, he assembles a team of risk-taking rush-seekers to pull off a series of five bank heists, each time using a different extreme sport to make the getaway. Following an unexpected windfall on only their second job, the gang nets $20 million in untraceable bonds. Having scored enough money to retire on, Slim and his crew decide to call the robbery game quits. But both the mob and the police have other plans in mind for Slim: they want him to keep working, for them.",
+        "popularity": 25.97,
+        "poster_path": "/gJYLcMIlYfxADjc2VEk0cHxd5N6.jpg",
+        "release_date": "2002-05-08",
+        "title": "Steal",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 120
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gFZcd7HXjJPvMUBy5oUdS4acGj.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80,
+            53
+        ],
+        "id": 38425,
+        "original_language": "zh",
+        "original_title": "迷你特攻隊",
+        "overview": "A force of loners and fighters is put together to try and rescue the generals and save the war effort with the promise of gold and pardons of past crimes.",
+        "popularity": 18.662,
+        "poster_path": "/zHdR9pDcwMOUUBgx7V4VQSeKGIt.jpg",
+        "release_date": "1983-02-13",
+        "title": "Fantasy Mission Force",
+        "video": false,
+        "vote_average": 4.75,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e8nl7cWfR2HAN21fU5mhgBtnwSv.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 115134,
+        "original_language": "ko",
+        "original_title": "간기남",
+        "overview": "A detective Seon-woo, who moonlights as a private investigator, has a beautiful new client Soo-Jin. The woman asks the detective to take photos of her husband in the midst of having an affair with another woman. When the detective goes to take pictures he discovers that the woman's husband is already dead. Now the detective becomes a suspect. The detective is chased by another detective Gil-ro. He must now set out for the real killer.",
+        "popularity": 16.165,
+        "poster_path": "/mq5XTPbangf2dBqS2paqRa1OXSs.jpg",
+        "release_date": "2012-04-11",
+        "title": "The Scent",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5iUTkShTXQYJKFDugCreXaQqOtI.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 20646,
+        "original_language": "ja",
+        "original_title": "新・仁義の墓場",
+        "overview": "A barkeeper saves a Yakuza boss' life and thus makes his way up in the organization. However, his fear of nothing soon causes problems.",
+        "popularity": 21.313,
+        "poster_path": "/eF25E1OUyISJ4fCwkpUdAG3shgM.jpg",
+        "release_date": "2002-06-22",
+        "title": "Graveyard of Honor",
+        "video": false,
+        "vote_average": 6.216,
+        "vote_count": 51
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pU7l0HGEdYXLGS0Zzpn8EpJIhAD.jpg",
+        "genre_ids": [
+            80,
+            28,
+            12
+        ],
+        "id": 11398,
+        "original_language": "en",
+        "original_title": "The Art of War",
+        "overview": "When ruthless terrorists threaten to bring down the United Nations, they frame the one man they believe can stop them: an international security expert named Shaw. Now he must run from his own allies and become a solitary force for good, as he tries to stop what could become World War III.",
+        "popularity": 19.533,
+        "poster_path": "/m3DsrJC3qzm1GPzjDeb5dRXN6AF.jpg",
+        "release_date": "2000-08-25",
+        "title": "The Art of War",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 471
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rf1a61N3QGiXVUwC19WV3TRfwOO.jpg",
+        "genre_ids": [
+            99,
+            18,
+            80
+        ],
+        "id": 4832,
+        "original_language": "en",
+        "original_title": "The 11th Hour",
+        "overview": "A look at the state of the global environment including visionary and practical solutions for restoring the planet's ecosystems. Featuring ongoing dialogues of experts from all over the world, including former Soviet Prime Minister Mikhail Gorbachev, renowned scientist Stephen Hawking, former head of the CIA R. James Woolse",
+        "popularity": 17.203,
+        "poster_path": "/9ZQyqJhoqSXYhu27oRDqz3Tzl10.jpg",
+        "release_date": "2007-08-17",
+        "title": "The 11th Hour",
+        "video": false,
+        "vote_average": 6.753,
+        "vote_count": 89
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rzex8cHg1uDmlHy2AkDUs7IUbhA.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 26202,
+        "original_language": "en",
+        "original_title": "The Stone Killer",
+        "overview": "A Los Angeles detective is sent to New York where he must solve a case involving an old Sicilian Mafia family feud.",
+        "popularity": 19.501,
+        "poster_path": "/4q5gLjMEfV0JV10KK59Lfp2kuX.jpg",
+        "release_date": "1973-08-08",
+        "title": "The Stone Killer",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 74
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z1YBx1vYv6Ax482pw8CG0iDVfTz.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 13436,
+        "original_language": "th",
+        "original_title": "13 เกมสยอง",
+        "overview": "After losing his job, his car and his money, Phuchit, races against time to complete 13 tasks ordered by an anonymous caller who promised 100 million Baht upon completion.",
+        "popularity": 14.283,
+        "poster_path": "/wCAKAY9u5pj5X6rVpgzmTdXbFUc.jpg",
+        "release_date": "2006-10-04",
+        "title": "13: Game of Death",
+        "video": false,
+        "vote_average": 6.364,
+        "vote_count": 147
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8TSV0GY4pDvbFUpjkk9H8G6jt5y.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            10749,
+            53
+        ],
+        "id": 109161,
+        "original_language": "en",
+        "original_title": "The Squeeze",
+        "overview": "Harry Berg is both a con artist and an actual artist -- he constructs large sculptures out of television sets -- but he is not particularly successful in either role. He owes some money, which gets him involved with Rachel Dobs, a police detective who works with a collection agency. When Harry comes into possession of a strange parcel, both the con man and the detective find themselves wrapped up in a sinister corporate plot to fix the lottery.",
+        "popularity": 13.22,
+        "poster_path": "/ssUiSeTSdR70OL1uCiNCL3yAwZQ.jpg",
+        "release_date": "1987-07-10",
+        "title": "The Squeeze",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 23
+    }
+]

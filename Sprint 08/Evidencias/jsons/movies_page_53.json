@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/fTLMsF3IVLMcpNqIqJRweGvVwtX.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1035806,
+        "original_language": "en",
+        "original_title": "Detective Knight: Independence",
+        "overview": "Detective James Knight 's last-minute assignment to the Independence Day shift turns into a race to stop an unbalanced ambulance EMT from imperiling the city's festivities. The misguided vigilante, playing cop with a stolen gun and uniform, has a bank vault full of reasons to put on his own fireworks show... one that will strike dangerously close to Knight's home.",
+        "popularity": 32.585,
+        "poster_path": "/jrPKVQGjc3YZXm07OYMriIB47HM.jpg",
+        "release_date": "2023-01-20",
+        "title": "Detective Knight: Independence",
+        "video": false,
+        "vote_average": 5.364,
+        "vote_count": 166
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ujaUJzloLboGsFSQfo8QZrnHMCQ.jpg",
+        "genre_ids": [
+            18,
+            27,
+            53,
+            80
+        ],
+        "id": 234,
+        "original_language": "de",
+        "original_title": "Das Cabinet des Dr. Caligari",
+        "overview": "Francis, a young man, recalls in his memory the horrible experiences he and his fiancée Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
+        "popularity": 32.562,
+        "poster_path": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+        "release_date": "1920-02-27",
+        "title": "The Cabinet of Dr. Caligari",
+        "video": false,
+        "vote_average": 7.943,
+        "vote_count": 1517
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cUNjTGyyc9xsBkS6kVUWsTDrYBF.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 10029,
+        "original_language": "en",
+        "original_title": "Very Bad Things",
+        "overview": "Kyle Fisher has one last night to celebrate life as a single man before marrying Laura, so he sets out to Vegas with four of his best buddies. But a drug and alcohol filled night on the town with a stripper who goes all the way, turns into a cold night in the desert with shovels when the stripper goes all the way into a body bag after dying in their bathroom. And that's just the first of the bodies to pile up before Kyle can walk down the aisle...",
+        "popularity": 32.56,
+        "poster_path": "/rYmyRxF5e9fBdgcQScKu0CUtMy5.jpg",
+        "release_date": "1998-09-11",
+        "title": "Very Bad Things",
+        "video": false,
+        "vote_average": 6.275,
+        "vote_count": 592
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ld3bBHoKINhXHjABn5yEJVSBOpF.jpg",
+        "genre_ids": [
+            18,
+            80,
+            35
+        ],
+        "id": 517909,
+        "original_language": "en",
+        "original_title": "The Laundromat",
+        "overview": "When her idyllic vacation takes an unthinkable turn, Ellen Martin begins investigating a fake insurance policy, only to find herself down a rabbit hole of questionable dealings that can be linked to a Panama City law firm and its vested interest in helping the world's wealthiest citizens amass larger fortunes.",
+        "popularity": 32.547,
+        "poster_path": "/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+        "release_date": "2019-09-27",
+        "title": "The Laundromat",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1181
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5ayJQrUan0RmvBsC2j0861Aggre.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 9400,
+        "original_language": "en",
+        "original_title": "Set It Off",
+        "overview": "Four inner-city Black women, determined to end their constant struggle, decide to live by one rule — get what you want or die trying. So the four women take back their lives and take out some banks in the process.",
+        "popularity": 32.53,
+        "poster_path": "/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
+        "release_date": "1996-11-06",
+        "title": "Set It Off",
+        "video": false,
+        "vote_average": 7.194,
+        "vote_count": 335
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gpRI6UjNMVd63QzGIERYuqFtMLC.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 7972,
+        "original_language": "en",
+        "original_title": "Before the Devil Knows You're Dead",
+        "overview": "When two brothers organize the robbery of their parents' jewelry store, the job goes horribly wrong, triggering a series of events that send them and their family hurtling towards a shattering climax.",
+        "popularity": 32.529,
+        "poster_path": "/egIP0s1ws6fGHqTsVqVNcaEa5i2.jpg",
+        "release_date": "2007-09-26",
+        "title": "Before the Devil Knows You're Dead",
+        "video": false,
+        "vote_average": 7.107,
+        "vote_count": 1438
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ai4ax5yBpbOcKLuKuxvHQtY9pYy.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 892515,
+        "original_language": "fr",
+        "original_title": "Mascarade",
+        "overview": "Adrien, an attractive dancer whose career was shattered by a motorcycle accident, squanders his youth in idleness. His life changes when he meets Margot, who lives off scams and amorous manipulations.",
+        "popularity": 32.525,
+        "poster_path": "/31KgCTaOuLJsUm2cGN2OffripeD.jpg",
+        "release_date": "2022-11-01",
+        "title": "Masquerade",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 371
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4WGuyWf1f94CsEeVIIqDKGw5rmO.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 269,
+        "original_language": "fr",
+        "original_title": "À bout de souffle",
+        "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
+        "popularity": 32.525,
+        "poster_path": "/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
+        "release_date": "1960-03-16",
+        "title": "Breathless",
+        "video": false,
+        "vote_average": 7.546,
+        "vote_count": 1749
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3t7wDqg861IlmnAsipOp5ZGWuVj.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 20083,
+        "original_language": "cn",
+        "original_title": "新宿事件",
+        "overview": "A simple Chinese immigrant wages a perilous war against one of the most powerful criminal organizations on the planet.",
+        "popularity": 32.521,
+        "poster_path": "/8zWliijoTsk3kUdUJpbjqWgV617.jpg",
+        "release_date": "2009-03-22",
+        "title": "Shinjuku Incident",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 266
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8hSx5b4YfD2dzvGtrE6mdXF0xrZ.jpg",
+        "genre_ids": [
+            10402,
+            35,
+            80
+        ],
+        "id": 928344,
+        "original_language": "en",
+        "original_title": "Weird: The Al Yankovic Story",
+        "overview": "Exploring every facet of ‘Weird Al’ Yankovic’s life, from his meteoric rise to fame with early hits like ‘Eat It’ and ‘Like a Surgeon’ to his torrid celebrity love affairs and famously depraved lifestyle, this biopic takes audiences on a truly unbelievable journey through Yankovic’s life and career, from gifted child prodigy to the greatest musical legend of all time.",
+        "popularity": 32.506,
+        "poster_path": "/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+        "release_date": "2022-09-08",
+        "title": "Weird: The Al Yankovic Story",
+        "video": false,
+        "vote_average": 6.722,
+        "vote_count": 397
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dJv841wkNHm61hNCn5pJEOSVxNv.jpg",
+        "genre_ids": [
+            80,
+            27,
+            878,
+            53
+        ],
+        "id": 382272,
+        "original_language": "ja",
+        "original_title": "デスノート, Light up the NEW world",
+        "overview": "10 years has passed since the confrontation between Kira and L. Again, Shinigami sends death notes to the ground and due to this, the world soon falls into chaos. Tsukuru is a member of the Death Note special task force team with 6 other investigators including Matsuda who experienced the Kira case of 10 years ago.  Mass murders caused by the death note takes place on Wall Street in the U.S., Shibuya in Japan and other places. World famous private investigator Ryuzaki, who is the rightful successor of L, also investigates the mass murders. They discover that 6 death notes exists in the world.  A computer virus called Kira spreads in the world. A message in the Kira virus says to turn in 6 death notes.  A person who has 6 death notes overwhelm the world. The confrontation begins between the person who wants Kira’s revival and the people who want to stop it.",
+        "popularity": 32.502,
+        "poster_path": "/cDBV5mIMc8h0dsRHF43rUUk3I0O.jpg",
+        "release_date": "2016-10-29",
+        "title": "Death Note: Light Up the NEW World",
+        "video": false,
+        "vote_average": 6.423,
+        "vote_count": 155
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bt8HPBh9fVXJNTQLm9FteyiN5wx.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 20778,
+        "original_language": "fr",
+        "original_title": "Le Doulos",
+        "overview": "Enigmatic gangster Silien may or may not be responsible for informing on Faugel,  who was just released from prison and is already involved in what should be a simple heist. By the end of this brutal, twisting, and multilayered policier, who will be left to trust?",
+        "popularity": 32.5,
+        "poster_path": "/refnCW9pyGNl0UcHIUZcHUdA0L.jpg",
+        "release_date": "1962-12-13",
+        "title": "Le Doulos",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 249
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dNxg3o9PLnOcasD2QwvhuBxgRCO.jpg",
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "id": 11843,
+        "original_language": "en",
+        "original_title": "The Return of the Pink Panther",
+        "overview": "The famous Pink Panther jewel has once again been stolen and Inspector Clouseau is called in to catch the thief. The Inspector is convinced that 'The Phantom' has returned and utilises all of his resources – himself and his Asian manservant – to reveal the identity of 'The Phantom'.",
+        "popularity": 32.496,
+        "poster_path": "/cDi6lHXmY12SxtjcP6IdK7mB3W1.jpg",
+        "release_date": "1975-05-21",
+        "title": "The Return of the Pink Panther",
+        "video": false,
+        "vote_average": 6.794,
+        "vote_count": 579
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jBxQjghhOR3yyhf95cZtwqJ3Van.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 97434,
+        "original_language": "en",
+        "original_title": "Gambit",
+        "overview": "An art curator decides to seek revenge on his abusive boss by conning him into buying a fake Monet, but his plan requires the help of an eccentric and unpredictable Texas rodeo queen.",
+        "popularity": 32.484,
+        "poster_path": "/6KOHKBa6toWdGOKHkzmLGjlOLdS.jpg",
+        "release_date": "2012-04-25",
+        "title": "Gambit",
+        "video": false,
+        "vote_average": 5.474,
+        "vote_count": 658
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wyMfhalkfbEjrAnvlqs9zOnDsCZ.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            53
+        ],
+        "id": 16161,
+        "original_language": "en",
+        "original_title": "Baby Boy",
+        "overview": "The story of Jody, a misguided, 20-year-old African-American who is really just a baby boy finally forced-kicking and screaming to face the commitments of real life. Streetwise and jobless, he has not only fathered two children by two different women-Yvette and Peanut but still lives with his own mother. He can't seem to strike a balance or find direction in his chaotic life.",
+        "popularity": 32.447,
+        "poster_path": "/d9b5sDAY2q2u2fWFYZPmt0Cl2p7.jpg",
+        "release_date": "2001-06-27",
+        "title": "Baby Boy",
+        "video": false,
+        "vote_average": 7.155,
+        "vote_count": 291
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jxW9CxXTgrGW2GX19gWsrWL4oSz.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35
+        ],
+        "id": 16969,
+        "original_language": "en",
+        "original_title": "City Heat",
+        "overview": "Set in Kansas City in 1933, Eastwood plays a police lieutenant known simply by his last name, Speer. Reynolds plays a former cop turned private eye named Mike Murphy. Both Speer and Murphy served on the force together and were once good friends, but are now bitter enemies. When Murphy's partner is slain they team up again to fight the mob.",
+        "popularity": 32.432,
+        "poster_path": "/gESRbXstISpeELPpYQYiTM3nRF1.jpg",
+        "release_date": "1984-12-07",
+        "title": "City Heat",
+        "video": false,
+        "vote_average": 5.489,
+        "vote_count": 174
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sNhYDvDbEwf9AUGip2fGRwP7x8r.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 7183,
+        "original_language": "en",
+        "original_title": "Perfect Stranger",
+        "overview": "A journalist goes undercover to ferret out businessman Harrison Hill as her best friend's killer. Posing as one of his temps, she enters into a game of online cat-and-mouse.",
+        "popularity": 32.429,
+        "poster_path": "/i7D5QqQ0q5EXU1UuZVY9KwIxoYR.jpg",
+        "release_date": "2007-04-11",
+        "title": "Perfect Stranger",
+        "video": false,
+        "vote_average": 5.791,
+        "vote_count": 900
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x3wFxF9rEpoxmsp8a80oWv5te6X.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            53
+        ],
+        "id": 14864,
+        "original_language": "en",
+        "original_title": "The Hot Spot",
+        "overview": "Upon arriving to a small town, a drifter quickly gets into trouble with the local authorities — and the local women — after he robs a bank.",
+        "popularity": 32.414,
+        "poster_path": "/kLAN9PEdfzYtiVuxLlRrfbSGubi.jpg",
+        "release_date": "1990-10-12",
+        "title": "The Hot Spot",
+        "video": false,
+        "vote_average": 6.278,
+        "vote_count": 255
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xvSLcVif0SqXVefw49vhEggGcoY.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 15003,
+        "original_language": "th",
+        "original_title": "ช็อคโกแลต",
+        "overview": "Zen, an autistic teenage girl with powerful martial arts skills, gets money to pay for her sick mother Zin's treatment by seeking out all the people who owe Zin money and making them pay.",
+        "popularity": 32.387,
+        "poster_path": "/g8CBVNFdJOGINQW2KuOvl5NAPS5.jpg",
+        "release_date": "2008-02-06",
+        "title": "Chocolate",
+        "video": false,
+        "vote_average": 7.34,
+        "vote_count": 488
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/olnpEIOTMlJc9xy8PXhTmwiiWU2.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 70670,
+        "original_language": "no",
+        "original_title": "Hodejegerne",
+        "overview": "An accomplished headhunter risks everything to obtain a valuable painting owned by a former mercenary.",
+        "popularity": 32.38,
+        "poster_path": "/ll32Hyillq6VSC1F7v4m2uZjGKI.jpg",
+        "release_date": "2011-08-26",
+        "title": "Headhunters",
+        "video": false,
+        "vote_average": 7.242,
+        "vote_count": 1208
+    }
+]

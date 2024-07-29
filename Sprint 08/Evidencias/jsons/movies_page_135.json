@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/aAOAMXTGgVn1HBTYjlLR7CGZ5EN.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 264273,
+        "original_language": "ko",
+        "original_title": "방황하는 칼날",
+        "overview": "Following the brutal rape and murder of his 16-year-old daughter, Sang-hyeon stumbles into an ever-widening conspiracy of rage, revenge, and murder.",
+        "popularity": 19.482,
+        "poster_path": "/fuVlb2bEeTJhwwWBWe2JmX0gCX4.jpg",
+        "release_date": "2014-04-10",
+        "title": "Broken",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xItIuW9uf7BjcqLDYcz3xqvRFAu.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 37698,
+        "original_language": "en",
+        "original_title": "The Roaring Twenties",
+        "overview": "After World War I, Armistice Lloyd Hart goes back to practice law, former saloon keeper George Hally turns to bootlegging, and out-of-work Eddie Bartlett becomes a cab driver. Eddie builds a fleet of cabs through delivery of bootleg liquor and hires Lloyd as his lawyer. George becomes Eddie's partner and the rackets flourish until love and rivalry interfere.",
+        "popularity": 19.457,
+        "poster_path": "/nkymdElqwJBm2bl3F6hJp4xJggD.jpg",
+        "release_date": "1939-10-28",
+        "title": "The Roaring Twenties",
+        "video": false,
+        "vote_average": 7.487,
+        "vote_count": 225
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gad4GTmKva9W5EV1G5twdpinV21.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 70709,
+        "original_language": "en",
+        "original_title": "Ruby",
+        "overview": "Fact and fiction are combined in this story about Jack Ruby and a stripper, Candy Cane, and how they become involved in a conspiracy to kill J.F.K.",
+        "popularity": 19.456,
+        "poster_path": "/wEPTCmzKLnP9GArjWvYfI6TJTv6.jpg",
+        "release_date": "1992-03-27",
+        "title": "Ruby",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ulXiKO7u6HtOxz1YxQMgEtZ023b.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 77765,
+        "original_language": "en",
+        "original_title": "The Klansman",
+        "overview": "A small southern town has just been rocked by a tragedy: a young white woman has been raped by a black man. When young black man Garth witnesses the Ku Klux Klan's violent retaliation against his innocent friend, Garth declares a one-man war on the Klan and hunts them down one-by-one.",
+        "popularity": 19.454,
+        "poster_path": "/5udeguaTDBFiqoG0j5kxwjl7arP.jpg",
+        "release_date": "1974-10-25",
+        "title": "The Klansman",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9O34wbCIC84J23jo6jbNGPr4Ix9.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            27
+        ],
+        "id": 339994,
+        "original_language": "en",
+        "original_title": "The Good Neighbor",
+        "overview": "Two high school filmmakers decide to create the illusion of a haunting on an unsuspecting neighbor.",
+        "popularity": 19.444,
+        "poster_path": "/ub0hBxjkfOUoymQR3NOWIVH400A.jpg",
+        "release_date": "2016-09-16",
+        "title": "The Good Neighbor",
+        "video": false,
+        "vote_average": 6.202,
+        "vote_count": 427
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2gE6TveWJ8D6qiX1D5h4pS8YkZu.jpg",
+        "genre_ids": [
+            16,
+            28,
+            35,
+            18,
+            80
+        ],
+        "id": 33176,
+        "original_language": "ja",
+        "original_title": "ルパン三世 生きていた魔術師",
+        "overview": "Lupin steals an extraordinary gem from a Mediterranean party, only to be interrupted by Pycal, the trickster \"magician\" who had apparently died fighting Lupin early in his career. Pycal, now armed with real magical abilities, is determined to take revenge.",
+        "popularity": 19.44,
+        "poster_path": "/zUyLw8LTjH0U8WqeVzGjzfnkptf.jpg",
+        "release_date": "2002-04-03",
+        "title": "Lupin the Third: Return of Pycal",
+        "video": false,
+        "vote_average": 6.202,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/w079cPMCXq0Xd4mOSL7VRdpFve5.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 31465,
+        "original_language": "en",
+        "original_title": "Traveller",
+        "overview": "A young man, Pat, visits the clan of gypsy-like grifters (Irish Travellers) in rural North Carolina from whom he is descended. He is at first rejected, but cousin Bokky takes him on as an apprentice. Pat learns the game while Bokky falls in love and desires a different life. Written by Jeff Hole",
+        "popularity": 19.438,
+        "poster_path": "/sgRravjx1m3guWa9otsizIbEJXx.jpg",
+        "release_date": "1997-04-18",
+        "title": "Traveller",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4JpOuUyoryxRmiMGHh4tmsYiCzV.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 571391,
+        "original_language": "es",
+        "original_title": "Chicuarotes",
+        "overview": "Cagalera and Moloteco are two teenagers from San Gregorio Atlapulco who are desperate to get out and move up and away from oppressive circumstances. When they hear of an opportunity to buy a spot in the electrician’s union, which could transform their lives, they quickly devolve into the criminal, adult underworld of Mexico City in a bid to buy their freedom.",
+        "popularity": 19.436,
+        "poster_path": "/8qCDtYCeBF7PwV42NDw2VrtNgA0.jpg",
+        "release_date": "2019-06-28",
+        "title": "Chicuarotes",
+        "video": false,
+        "vote_average": 7.601,
+        "vote_count": 169
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zDmGRSL8k8aVtbWTDN7LFUEiojg.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 277519,
+        "original_language": "cn",
+        "original_title": "Z 風暴",
+        "overview": "ICAC principal investigator William Luk takes his job seriously, and he needs every last scintilla of support from his team to take on the powerful and cunning Supt Wong, who is corrupt to the core. Wong is an enthusiastic tool of the monstrous Malcolm Wu, a cowboy big-time share trader who will stop at nothing to secure a large slice of the upcoming float of the HK government pension fund, worth billions.",
+        "popularity": 19.433,
+        "poster_path": "/fAHPfitc4deaquh9mg2oIsMcMVV.jpg",
+        "release_date": "2014-06-19",
+        "title": "Z Storm",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eaIxmSxWE00HkLbQgf0sqWMbLeS.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            80
+        ],
+        "id": 21323,
+        "original_language": "en",
+        "original_title": "More",
+        "overview": "A German student, Stefan, now finished with his studies, hitchhikes to Paris. There he meets a free-spirited American girl, Estelle, who he follows to Ibiza. The two begin a sad and dark path into heroin addiction.",
+        "popularity": 19.424,
+        "poster_path": "/AtPgt7aRNrmBPWbDKF3hJJ9pekL.jpg",
+        "release_date": "1969-08-04",
+        "title": "More",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 69
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a6E2pOuEa21KgZaYIJ4qmigeh1M.jpg",
+        "genre_ids": [
+            10402,
+            18,
+            80
+        ],
+        "id": 1553,
+        "original_language": "fr",
+        "original_title": "De battre mon cœur s'est arrêté",
+        "overview": "Like his father, Tom is a real estate agent who makes his money from dirty, and sometimes brutal, deals. But a chance encounter prompts him to take up the piano and become a concert pianist. He auditions with the help of a beautiful, young virtuoso pianist who cannot speak French - music is their only exchange. But pressures from the ugly world of his day job soon become more than he can handle.",
+        "popularity": 19.424,
+        "poster_path": "/iWCOUIDkrVHI3wjg9yCKRNLtLUi.jpg",
+        "release_date": "2005-03-16",
+        "title": "The Beat That My Heart Skipped",
+        "video": false,
+        "vote_average": 6.936,
+        "vote_count": 422
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vGgMkqnRtVV42KX7xJv63WJ7B4Z.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 970347,
+        "original_language": "en",
+        "original_title": "The Killer",
+        "overview": "Zee is a feared contract killer known as \"the Queen of the Dead,\" but when she refuses to murder a young blind woman, she finds herself hunted both by criminal colleagues and a determined police detective.",
+        "popularity": 19.422,
+        "poster_path": "/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+        "release_date": "2024-10-23",
+        "title": "The Killer",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uE258Fmv2LYvPPOFR4kOybjrjUj.jpg",
+        "genre_ids": [
+            878,
+            80,
+            53
+        ],
+        "id": 1071815,
+        "original_language": "cs",
+        "original_title": "Bod obnovy",
+        "overview": "It’s 2041 and the gaps in social and economic inequality have left the world on the brink. A breakthrough in science has given humanity the ability to bring victims of a violent crime back to life by backing up their brain every 2 days. This allows an ambitious, young detective the opportunity to solve a case of a murdered couple when the restoration team is able to bring one of them back.",
+        "popularity": 19.421,
+        "poster_path": "/o5B720hAvPusVMhOAUjIWFHSFO4.jpg",
+        "release_date": "2023-09-21",
+        "title": "Restore Point",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8q6AJYqJzZPrNSbttcwslXx7QgO.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 376004,
+        "original_language": "en",
+        "original_title": "Adulterers",
+        "overview": "A man who returns home to find his wife cheating on him on their anniversary. He holds her and her naked and humiliated lover captive at gunpoint while he decides whether or not he's going to kill them. The story, inspired by true events, takes place over one day and is set in New Orleans during a stifling heat wave.",
+        "popularity": 19.421,
+        "poster_path": "/pJLmZBruOmn2c9mYWe3h1xcXaA0.jpg",
+        "release_date": "2016-01-05",
+        "title": "Adulterers",
+        "video": false,
+        "vote_average": 6.066,
+        "vote_count": 91
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tXGJrtjXfht138G5kk7QxUEPIyZ.jpg",
+        "genre_ids": [
+            18,
+            10749,
+            80
+        ],
+        "id": 18197,
+        "original_language": "en",
+        "original_title": "Running on Empty",
+        "overview": "The Popes are a family who haven't been able to use their real identity for years. In the late sixties, the parents set a weapons lab afire in an effort to hinder the government's Vietnam war campaign. Ever since then, the Popes have been on the run with the authorities never far behind. Their survival is threatened when their eldest son falls in love with a girl, and announces his wish to live his life on his own terms.",
+        "popularity": 19.408,
+        "poster_path": "/opYyhgdD760Tpi0EUr6GBXM50ur.jpg",
+        "release_date": "1988-09-09",
+        "title": "Running on Empty",
+        "video": false,
+        "vote_average": 7.472,
+        "vote_count": 300
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aWCVLOsrSOzdbT4zIg4AIpnNopR.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 46059,
+        "original_language": "en",
+        "original_title": "The Hot Rock",
+        "overview": "Dortmunder and his pals plan to steal a huge diamond from a museum. But this turns out to be only the first time they have to steal it...",
+        "popularity": 19.394,
+        "poster_path": "/jSJIJ1Z5nb6GqgyzSQc8RpxXKFz.jpg",
+        "release_date": "1972-01-26",
+        "title": "The Hot Rock",
+        "video": false,
+        "vote_average": 6.567,
+        "vote_count": 105
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1013601,
+        "original_language": "en",
+        "original_title": "Alto Knights",
+        "overview": "Italian-American crime bosses Vito Genovese and Frank Costello run their respective families during the 20th century. In 1957, Genovese moves to assassinate Costello.",
+        "popularity": 19.387,
+        "poster_path": "/pbwf3U8WZsJMOcojtIrOGcIV6CG.jpg",
+        "release_date": "2025-03-19",
+        "title": "Alto Knights",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8H69AJend3bT6pDfLkxxqBqSe5b.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            18
+        ],
+        "id": 11048,
+        "original_language": "it",
+        "original_title": "Piedone lo sbirro",
+        "overview": "Inspector “Flatfoot” Rizzo investigates crime and corruption in Naples.",
+        "popularity": 19.387,
+        "poster_path": "/rNMzCn0BFdXY8dWz48sbHDEhWK8.jpg",
+        "release_date": "1973-10-25",
+        "title": "The Knock Out Cop",
+        "video": false,
+        "vote_average": 6.442,
+        "vote_count": 165
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/69f9n3MlirrkbkW6rx4G1HZlwof.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 54523,
+        "original_language": "it",
+        "original_title": "Autostop rosso sangue",
+        "overview": "A bickering couple driving cross-country pick up a murderous hitchhiker who threatens to kill them unless they take him to a sanctuary. In return he agrees to split some bank loot he has on him.",
+        "popularity": 19.385,
+        "poster_path": "/qo8Z0japEz6xKR9OBPslzKKqmND.jpg",
+        "release_date": "1977-04-30",
+        "title": "Hitch Hike",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 87
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6LGlXuwUNX7YNwgUyzxfvU7nECC.jpg",
+        "genre_ids": [
+            12,
+            80,
+            18
+        ],
+        "id": 17381,
+        "original_language": "en",
+        "original_title": "BMX Bandits",
+        "overview": "Teens P.J. and Goose get their thrills on BMX bikes, performing hair-raising tricks all across Sydney, Australia. Along with their new friend Judy, they discover a box of walkie-talkies -- and find out that a gang of criminals intends to use them to monitor police signals during a bank robbery. When the young trio snatches the devices, it propels them on a hair-raising adventure in which their pedaling skills might just save their necks.",
+        "popularity": 19.384,
+        "poster_path": "/8JHpqkXuNUQNL3kBxPggw4GUvu1.jpg",
+        "release_date": "1983-12-29",
+        "title": "BMX Bandits",
+        "video": false,
+        "vote_average": 5.456,
+        "vote_count": 137
+    }
+]

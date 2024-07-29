@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/gSTzDY77M2J8lfffS37Wj3GDcVg.jpg",
+        "genre_ids": [
+            16,
+            10770,
+            35,
+            12,
+            80
+        ],
+        "id": 51943,
+        "original_language": "ja",
+        "original_title": "ルパン三世 燃えよ斬鉄剣",
+        "overview": "The Lupin gang is once again dragged onto a wild treasure hunt! This time, the objective is a mysterious, small dragon statue that even  Goemon's steel-rendering blade Zantetsuken cannot cut. The artifact,  which once eluded even Lupin the Third's esteemed grandfather, rests deep undersea inside the infamous Titanic, and is the key to unlocking the mystery of Zantetsuken's almighty strength. A wealthy gangster,  Lupin, and Goemon all want the statue for themselves!",
+        "popularity": 23.813,
+        "poster_path": "/ywBnexTGaiSmezhd48LcxMTYXZJ.jpg",
+        "release_date": "1994-07-29",
+        "title": "Lupin the Third: Dragon of Doom",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9RWlpI5lXN5SqoWs2Mi5H1qqJPW.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 20164,
+        "original_language": "fi",
+        "original_title": "Pahat pojat",
+        "overview": "The story bases on four Finnish brothers, nicknamed 'the Eura Daltons' who received nation-wide notoriety for tearing gas pumps apart when they needed cash.",
+        "popularity": 13.443,
+        "poster_path": "/6LofhRTJEOuLoSzEobxDFLuCbEb.jpg",
+        "release_date": "2003-01-17",
+        "title": "Bad Boys: A True Story",
+        "video": false,
+        "vote_average": 5.675,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hQQYobrobIgnT6trUV0E3ofdBEY.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 14016,
+        "original_language": "zh",
+        "original_title": "神探",
+        "overview": "Bun, a schizophrenic, former police inspector comes out of retirement to help a rookie detective solve a complex murder case involving a missing colleague and a suspected policeman suffering from a multiple personality disorder.",
+        "popularity": 23.744,
+        "poster_path": "/7hS1Q06GRHTPyHIIWgeT8VF1xF0.jpg",
+        "release_date": "2007-11-29",
+        "title": "Mad Detective",
+        "video": false,
+        "vote_average": 7.058,
+        "vote_count": 189
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uBsLjwr52IP177jw5QtF8m3I1xP.jpg",
+        "genre_ids": [
+            27,
+            18,
+            80
+        ],
+        "id": 77321,
+        "original_language": "tl",
+        "original_title": "Silip",
+        "overview": "In the remote countryside of Ilongo, various women are sexually abused by local men. Two sisters meet Simon, the most attractive man in the village, and fight over him - one constantly haunted by Catholic dogma because of the abuse she suffered previously.",
+        "popularity": 16.781,
+        "poster_path": "/jmB3Pk8xK3R439xHa7ko7vdx0FH.jpg",
+        "release_date": "1985-02-07",
+        "title": "Daughters of Eve",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zmKvbUUnTQMMUdKfd8FA4J6DSgK.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 18734,
+        "original_language": "en",
+        "original_title": "L.I.E.",
+        "overview": "With his mother dead and his father busy at work, Howie feels adrift in his New York suburb. He and his friend Gary spend their time burglarizing their neighbors' homes — until they make the mistake of robbing the house of Big John, a macho former Marine who is also an unrepentant pedophile. He propositions Howie, who declines, but the two eventually develop an unlikely and dangerous friendship.",
+        "popularity": 20.242,
+        "poster_path": "/ck5Tkq17M6khEN7JQlQznoYl37L.jpg",
+        "release_date": "2001-09-07",
+        "title": "L.I.E.",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 113
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mw46CDGILGvITEtx7ZImLuXADEK.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 618200,
+        "original_language": "ko",
+        "original_title": "파이프라인",
+        "overview": "A wealthy oil tycoon decides to steal oil from a pipeline running between Honam and Seoul-Busan motorway. To carry out this heist, he enlists the help of an experienced drilling engineer and his team.",
+        "popularity": 21.907,
+        "poster_path": "/eAKPcjvNhLgBEfpEuWi3UAhgFng.jpg",
+        "release_date": "2021-05-26",
+        "title": "Pipeline",
+        "video": false,
+        "vote_average": 7.017,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/azrtZLeZCVmG0NPESATV7YOvGCF.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 34184,
+        "original_language": "fr",
+        "original_title": "Le Casse",
+        "overview": "In Athens a collection of emeralds is successfully stolen by a team of robbers, led by safe-cracker Azad. Things go smoothly until they miss the ship by which they planned their escape; a police chief pursues Azad while he waits for the next ship to set off.",
+        "popularity": 18.741,
+        "poster_path": "/qt3JVm7hhwESFFxuO5BlN3A6TfI.jpg",
+        "release_date": "1971-10-27",
+        "title": "The Burglars",
+        "video": false,
+        "vote_average": 7.014,
+        "vote_count": 109
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oXKzUfG4HPl1e3b87eFWV8Lr07a.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 42814,
+        "original_language": "en",
+        "original_title": "The Front Page",
+        "overview": "Hildy Johnson is an investigative reporter looking for a bigger paycheck. When an accused murderer escapes from custody, Hildy sees an opportunity for the story of a lifetime. But when he finds the criminal, he learns that the man may not be guilty. With the help of his editor, Hildy attempts to hide the convict, uncover the conspiracy and write the scoop of his career.",
+        "popularity": 19.099,
+        "poster_path": "/ifV0m0RRPAkchL5gS4MOLoWPBjN.jpg",
+        "release_date": "1931-04-04",
+        "title": "The Front Page",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6a3ujnxG9ssrxPHO9NzBs3Cg8v5.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            9648
+        ],
+        "id": 26200,
+        "original_language": "en",
+        "original_title": "The Nude Bomb",
+        "overview": "When KAOS develops a bomb that can dissolve all clothing, Maxwell Smart is brought in to foil the evil plot.",
+        "popularity": 19.296,
+        "poster_path": "/mVfE0NFopRh528lJyG30ZeD0eSE.jpg",
+        "release_date": "1980-05-09",
+        "title": "The Nude Bomb",
+        "video": false,
+        "vote_average": 5.487,
+        "vote_count": 77
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/64Vc3NnoUrcSWvdEZ3H41JIQT1y.jpg",
+        "genre_ids": [
+            878,
+            53,
+            28,
+            80,
+            18
+        ],
+        "id": 26689,
+        "original_language": "en",
+        "original_title": "Retroactive",
+        "overview": "A psychiatrist makes multiple trips through time to save a woman that was murdered by her brutal husband.",
+        "popularity": 19.485,
+        "poster_path": "/4UYuzYPpybAydWNyRgXBhYLO9jM.jpg",
+        "release_date": "1997-01-01",
+        "title": "Retroactive",
+        "video": false,
+        "vote_average": 6.11,
+        "vote_count": 178
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iM9dGeZ3rKbYlDKFhZcvz5O8Lfx.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 248376,
+        "original_language": "zh",
+        "original_title": "惡戰",
+        "overview": "A laborer moves to Shanghai in the hope of becoming rich. But ends up using his kung fu skills to survive. Remake of The Boxer From Shantung.",
+        "popularity": 25.523,
+        "poster_path": "/wcVpL3h2ElqHdi8gxpEY8A8HSnv.jpg",
+        "release_date": "2014-01-06",
+        "title": "Once Upon a Time in Shanghai",
+        "video": false,
+        "vote_average": 7.188,
+        "vote_count": 146
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mkI2oI6OdL8asZY3tJhI95UbvBD.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 17218,
+        "original_language": "en",
+        "original_title": "The Set-Up",
+        "overview": "Expecting the usual loss, a boxing manager takes bribes from a betting gangster without telling his fighter.",
+        "popularity": 22.485,
+        "poster_path": "/uxE5LZP0RClXKsAqtrHQPiNLHzf.jpg",
+        "release_date": "1949-03-29",
+        "title": "The Set-Up",
+        "video": false,
+        "vote_average": 7.283,
+        "vote_count": 145
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n5OFaiFO0ENrPOT2nonqcyMtlq3.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 277432,
+        "original_language": "hi",
+        "original_title": "Happy New Year",
+        "overview": "Six would-be thieves enter a prestigious dance competition as a cover for their larger goal of pulling off a major heist.",
+        "popularity": 21.987,
+        "poster_path": "/irK5WgHuNKfuyKhUDOGD6HG7LCY.jpg",
+        "release_date": "2014-10-24",
+        "title": "Happy New Year",
+        "video": false,
+        "vote_average": 6.077,
+        "vote_count": 248
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8Tz26ZvhOEHl9HY9PH8lTldrrA6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 47324,
+        "original_language": "ar",
+        "original_title": "باب الحديد",
+        "overview": "Qinawi, a physically challenged peddler who makes his living selling newspapers in the central Cairo train station, is obsessed with Hanuma, an attractive young woman who sells drinks. While she jokes with him about a possible relationship, she is actually in love with Abu Siri, a strong and respected porter at the station who is struggling to unionize his fellow workers to combat their boss' exploitative and abusive treatment.",
+        "popularity": 17.234,
+        "poster_path": "/gBY3DMEtzamf4CrGicChOrAcvva.jpg",
+        "release_date": "1958-07-31",
+        "title": "Cairo Station",
+        "video": false,
+        "vote_average": 7.371,
+        "vote_count": 116
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uGhqlElLECQgYbJPDdqpJF6agks.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 37516,
+        "original_language": "en",
+        "original_title": "Judas Kiss",
+        "overview": "The shooting of a U.S. senator's wife raises the stakes for kidnappers seeking a hefty ransom for a computer magnate.",
+        "popularity": 24.604,
+        "poster_path": "/aBwSiD2kjlarWe7zXYFvfGdlUon.jpg",
+        "release_date": "1998-09-16",
+        "title": "Judas Kiss",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 54
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iLGPSH7FOnPCANAW5ZUwy05UFUp.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            18,
+            53
+        ],
+        "id": 21376,
+        "original_language": "en",
+        "original_title": "A Force of One",
+        "overview": "Karate champion Matt Logan is enlisted by the police to train officers in self-defense after narcotics agents are killed by an assailant using the martial arts.",
+        "popularity": 19.483,
+        "poster_path": "/7VrGDSXa7TD0fTljibymINxQ5Hg.jpg",
+        "release_date": "1979-06-01",
+        "title": "A Force of One",
+        "video": false,
+        "vote_average": 4.78,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f3rZsVNWVZnUrvmR57Pn7pENfsP.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 20417,
+        "original_language": "en",
+        "original_title": "Dressed to Kill",
+        "overview": "A convicted thief in Dartmoor prison hides the location of the stolen Bank of England printing plates inside three music boxes. When the innocent purchasers of the boxes start to be murdered, Holmes and Watson investigate.",
+        "popularity": 16.483,
+        "poster_path": "/oD4z3ON2ciLMv6obEH2K8tGThWG.jpg",
+        "release_date": "1946-05-24",
+        "title": "Dressed to Kill",
+        "video": false,
+        "vote_average": 6.491,
+        "vote_count": 106
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wNQ3FAV7uIQ3RxZLr70g6XjvNZE.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 1050922,
+        "original_language": "en",
+        "original_title": "Gini Mal Pokuru",
+        "overview": "Ginimal Pokuru (Sinhala: ගිනිමල් පොකුරු, lit. 'Flowers of Fire') is a 2021 Sri Lankan Sinhala adult romantic film directed by Udayakantha Warnasuriya. The film is co-produced by Prasad Rodrigo, Bandula Gunawardena, Krishantha Hettiarachchi, Nishantha Jayawardena, Udayanga Suresh, Suranga de Alwis, and Newton Vidanapathirana for U Creations. It stars Isuru Lokuhettiarachchi, Chulakshi Ranathunga, and Charith Abeysinghe in lead roles whereas Ananda Kumaraunnahe, Dilrufa Shanas, and Kumara Wanduressa made supportive roles.",
+        "popularity": 14.5,
+        "poster_path": "/gsrKa9MdL9hobaGk9sx7ZHiRxBm.jpg",
+        "release_date": "2021-12-03",
+        "title": "Gini Mal Pokuru",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dB9pJFYLvaf9w2sYtVH9TYOu6Vr.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11485,
+        "original_language": "en",
+        "original_title": "Take the Money and Run",
+        "overview": "Virgil Starkwell is intent on becoming a notorious bank robber. Unfortunately for Virgil and his not-so-budding career, he is completely incompetent.",
+        "popularity": 20.982,
+        "poster_path": "/dT7cKFxsuHzSnDBxKeP5acoIpWZ.jpg",
+        "release_date": "1969-08-18",
+        "title": "Take the Money and Run",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 724
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yUH9Awm5vYDufckJP42zxHWxTQw.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 528491,
+        "original_language": "en",
+        "original_title": "WHAT DID JACK DO?",
+        "overview": "In a locked down train station, a homicide detective conducts an interview with a tormented monkey  who is suspected of murder.",
+        "popularity": 16.988,
+        "poster_path": "/68FofMgclH1qCNXoL6foBqPfNFD.jpg",
+        "release_date": "2017-11-08",
+        "title": "WHAT DID JACK DO?",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 468
+    }
+]

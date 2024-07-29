@@ -1,0 +1,407 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/z69TdXY8Lnm3KE3XUjGXLBEyjjl.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 19128,
+        "original_language": "de",
+        "original_title": "Die 1000 Augen des Dr. Mabuse",
+        "overview": "A reporter is murdered while driving to his job. The Police are contacted by a clairvoyant who saw the death in a vision, but some dark force is preventing him from seeing the man behind the crime...",
+        "popularity": 14.597,
+        "poster_path": "/fcHPdXIyfMiy5k1YUJxxrFKttUu.jpg",
+        "release_date": "1960-09-13",
+        "title": "The 1,000 Eyes of Dr. Mabuse",
+        "video": false,
+        "vote_average": 6.849,
+        "vote_count": 96
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gTkaSOTT3Rp5sDH6kvLNtGccNSg.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 19402,
+        "original_language": "en",
+        "original_title": "Wisegal",
+        "overview": "A drama centered around Patty Montanari, the widowed mother of two who went to work for her lover Frank Russo, a captain in a Brooklyn crime family.",
+        "popularity": 14.594,
+        "poster_path": "/lk7AAJlTkieLXXnSbsJ0NWbZBgb.jpg",
+        "release_date": "2008-03-15",
+        "title": "Wisegal",
+        "video": false,
+        "vote_average": 5.458,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/71BzkJ1YIsjdULxkZajfbBlThUg.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            27
+        ],
+        "id": 28363,
+        "original_language": "en",
+        "original_title": "The Mad Magician",
+        "overview": "Don Gallico is an inventor of stage magic effects who aspires to become a star in his own right. Just before his first performance his act is shut down by capricious manager Ross Ormond who wants Gallico's brilliant buzz saw effect for the act of The Great Rinaldi, an established star. With this defeat, and the humiliation of having already lost his wife Claire to Ormond, Gallico decides it is time to take matters into his own hands.",
+        "popularity": 14.585,
+        "poster_path": "/wSjuX2CcoRwHPnePxYiS0tskJ34.jpg",
+        "release_date": "1954-05-19",
+        "title": "The Mad Magician",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fNaW6q6hAepN5FXfie2iNWLpMWu.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            10770
+        ],
+        "id": 108134,
+        "original_language": "en",
+        "original_title": "Sketch Artist",
+        "overview": "A sketch artist for the police helps a witness recall who she saw leaving the scene of a murder, and discovers that the person is his wife. Not willing to believe she was responsible, he resketches the pictures so they don't look like her, and he begins his own investigation of the murder.",
+        "popularity": 14.582,
+        "poster_path": "/cioo465M7jKMB56pcIzTTD2Aj9a.jpg",
+        "release_date": "1992-04-26",
+        "title": "Sketch Artist",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xccEfuf5oGA5zk1zftUe7yOucv.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 46041,
+        "original_language": "en",
+        "original_title": "The Quiller Memorandum",
+        "overview": "After two British Secret Intelligence Service agents are murdered at the hands of a cryptic neo-Nazi group known as Phoenix, the suave agent Quiller is sent to Berlin to investigate.",
+        "popularity": 14.582,
+        "poster_path": "/hWC6UXgbQZ7HNWbsD95F8gIoll5.jpg",
+        "release_date": "1966-11-10",
+        "title": "The Quiller Memorandum",
+        "video": false,
+        "vote_average": 5.773,
+        "vote_count": 77
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aAKUY85PzNJXG4F1WWHfw6TopzG.jpg",
+        "genre_ids": [
+            36,
+            80,
+            18
+        ],
+        "id": 38080,
+        "original_language": "fr",
+        "original_title": "Le Juge et l'Assassin",
+        "overview": "France, 1893. Joseph Bouvier attempts to shoot his love who refused to marry him and to commit suicide. Upon release from the filthy asylum where he was placed, with bullets still remaining in his head, he wanders the country roads and rapes and murders many teenagers over years. The judge Rousseau captures him, but to serve his ambition seeks to avoid that Bouvier is simply declared insane.",
+        "popularity": 14.581,
+        "poster_path": "/2FwFJvyktddFy8eJc9jMmn6efYv.jpg",
+        "release_date": "1976-03-10",
+        "title": "The Judge and the Assassin",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 123
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AgoM7dPsDNSlzTUZw7yP6brQR8n.jpg",
+        "genre_ids": [
+            53,
+            9648,
+            80
+        ],
+        "id": 655977,
+        "original_language": "en",
+        "original_title": "The Host",
+        "overview": "A chance opportunity arises for Robert Atkinson, a London banker who risks his bank's money to leave the mundane behind and start a new life. To take advantage, he unwittingly signs up with a Chinese cartel to transport a briefcase to Amsterdam. But all is not as it seems in a city veiled by dark secrets. Fuelled by power players, drugs, seduction and violence, Robert awaits his turn in a deadly game of choice and consequence.",
+        "popularity": 14.574,
+        "poster_path": "/c8NBk0FsyhePuFvHmA1XP1XrHrI.jpg",
+        "release_date": "2020-01-17",
+        "title": "The Host",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lWBLFK7BrEqCL46cJkj9GjXrj1t.jpg",
+        "genre_ids": [
+            53,
+            28,
+            80,
+            18,
+            27
+        ],
+        "id": 62852,
+        "original_language": "ja",
+        "original_title": "０課の女　赤い手錠",
+        "overview": "Agent Zero is a cop that uses her own methods for dealing with criminals. After she unlawfully kills a rapist in a violent fashion, she is sent to prison and stripped of her badge. But very soon after, a rich politician's daughter is kidnapped by a ruthless gang. Agent Zero is let out of prison with the mission of going undercover to find the politician's daughter and return her safely. Using her deadly red handcuffs, she disposes of the criminals one by one.",
+        "popularity": 14.572,
+        "poster_path": "/z7h6KqTZLgMefn7zRM0cA7fcAo6.jpg",
+        "release_date": "1974-05-21",
+        "title": "Zero Woman: Red Handcuffs",
+        "video": false,
+        "vote_average": 6.386,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1wVN3eAPEYmTyRUHL4QmEwWKoK3.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            18,
+            53
+        ],
+        "id": 26199,
+        "original_language": "en",
+        "original_title": "The Liquidator",
+        "overview": "Spy spoof about Boysie Oakes, a British secret agent who specialises in Liquidating. In actual fact he contracts out the work and pretends it was himself. This leads to complications.",
+        "popularity": 14.57,
+        "poster_path": "/imi3N0uyOsfRLmLMTgIidh9rHJO.jpg",
+        "release_date": "1965-11-01",
+        "title": "The Liquidator",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/54upLqnMOkkmsh8KC1WirJrar0B.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 57310,
+        "original_language": "it",
+        "original_title": "La donna della domenica",
+        "overview": "Police commissioner Santamaria is investigating the murder of the ambiguous architect Mr. Garrone. The investigations soon drive him into the Torino's high society. Santamaria suspect Anna Carla and at the same time falls in love for her. Lello is the lover of Massimo, Anna Carla’s gay friend. He is following another direction in order to find out the truth, and his results are confusing the Policeman. But another murder happens...",
+        "popularity": 14.568,
+        "poster_path": "/kSoRxJc5vBYj1x1atWhE61e8z5k.jpg",
+        "release_date": "1975-12-23",
+        "title": "The Sunday Woman",
+        "video": false,
+        "vote_average": 6.445,
+        "vote_count": 64
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2xfXwsI5Wp1q7GKw9udcp4oPRcV.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 305276,
+        "original_language": "en",
+        "original_title": "Tell",
+        "overview": "Ethan Tell is a small time crook who makes a big-time score when he steals 1 million dollars. Ironically, his life radically changes for the worst when he discovers that stealing the money was the easy part and he now must keep his partner, his wife, his parole officer, and two corrupt detectives from stealing it from him.",
+        "popularity": 14.567,
+        "poster_path": "/wc5dkgKu6nshKvWA8HAwwcaB5IY.jpg",
+        "release_date": "2014-12-04",
+        "title": "Tell",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rlomFGbmx33azNkfHAA712YmMeG.jpg",
+        "genre_ids": [
+            53,
+            80,
+            27
+        ],
+        "id": 397552,
+        "original_language": "ru",
+        "original_title": "Маршрут построен",
+        "overview": "Contemporary Russia. A young couple finds a great deal on a used BMW. Unfortunately, it's haunted.",
+        "popularity": 14.56,
+        "poster_path": "/rtU53AhZFPCamUM3p0JtLhAFpAX.jpg",
+        "release_date": "2016-03-31",
+        "title": "Paranormal Drive",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/o0XeWF70eYugSq36uqd9ull7wfj.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80,
+            9648
+        ],
+        "id": 330298,
+        "original_language": "fr",
+        "original_title": "La Dame dans l'auto avec des lunettes et un fusil",
+        "overview": "She’s the most beautiful, most short-sighted, most sentimental, most perplexing, most obstinate, most untrustworthy and most troubling of heroines. The lady in the car has never seen the sea. On the run from the police, she keeps telling herself that she’s not crazy… Only...",
+        "popularity": 14.56,
+        "poster_path": "/jXSL3rD2BKcUMACoh8tA6LKyEW3.jpg",
+        "release_date": "2015-08-05",
+        "title": "The Lady in the Car with Glasses and a Gun",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 127
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mRRFX4LHJTEEnIfYI7dMCRvAdD3.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 25680,
+        "original_language": "en",
+        "original_title": "The Friends of Eddie Coyle",
+        "overview": "An aging hood is about to go back to prison. Hoping to escape his fate, he supplies information on stolen guns to the feds, while simultaneously supplying arms to his bank robbing chums.",
+        "popularity": 14.557,
+        "poster_path": "/tyV8Bgf2huCIbGUxTdGgnzdIRKZ.jpg",
+        "release_date": "1973-06-26",
+        "title": "The Friends of Eddie Coyle",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 175
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uuPB4j1O4lz44SPpM9un8QygZym.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 66034,
+        "original_language": "en",
+        "original_title": "Mad Dog Time",
+        "overview": "With his boss in the madhouse, a mobster is temporary boss of the criminal empire just as vicious rivals threaten the control of the empire.",
+        "popularity": 14.554,
+        "poster_path": "/rpKyVUVmFtg6BvYDrGnBfPv4jVH.jpg",
+        "release_date": "1996-11-08",
+        "title": "Mad Dog Time",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a3z7JasR1hGYAodGdJEhZ2ybFeS.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 41214,
+        "original_language": "en",
+        "original_title": "Knock on Any Door",
+        "overview": "An attorney defends a hoodlum of murder, using the oppressiveness of the slums to appeal to the court.",
+        "popularity": 14.551,
+        "poster_path": "/aig0a88U0gHQw1dfnqqbwo5bjZv.jpg",
+        "release_date": "1949-02-22",
+        "title": "Knock on Any Door",
+        "video": false,
+        "vote_average": 6.075,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tktw4gp70ytTStOwK3nsMEGWPAL.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 114556,
+        "original_language": "en",
+        "original_title": "Frauds",
+        "overview": "The film is a story of the ways in which insurance investigator Roland Copping interferes in and manipulates the lives of others with outrageous games and gimmicks. Eventually he becomes involved in an escalating vendetta with a couple who make an unusual insurance claim.",
+        "popularity": 14.547,
+        "poster_path": "/oSBsYeNWt1h5WbTnx2JCPZy6nHg.jpg",
+        "release_date": "1993-06-04",
+        "title": "Frauds",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7jUHj6YY22Sd1iQvJs7CNgEM2CL.jpg",
+        "genre_ids": [
+            10770,
+            9648,
+            80
+        ],
+        "id": 1085205,
+        "original_language": "fr",
+        "original_title": "Les Mystères de la marée",
+        "overview": "",
+        "popularity": 14.546,
+        "poster_path": "/gw4PHd13xgieitBJn2qV7j7Z5eE.jpg",
+        "release_date": "2023-09-03",
+        "title": "Les Mystères de la marée",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1NYCVTVWmwy0r5KYD1CXk8RcRyj.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 42565,
+        "original_language": "en",
+        "original_title": "Underworld",
+        "overview": "Boisterous gangster kingpin Bull Weed rehabilitates his former lawyer from his alcoholic haze, but complications arise when he falls for Weed's girlfriend.",
+        "popularity": 14.546,
+        "poster_path": "/6ZjgbeCwS7sipil1J221lbjaqGG.jpg",
+        "release_date": "1927-08-20",
+        "title": "Underworld",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 71
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zaydFrMVU5mn3ajBc3VwbNasYAG.jpg",
+        "genre_ids": [
+            80,
+            35,
+            53,
+            28
+        ],
+        "id": 36867,
+        "original_language": "ja",
+        "original_title": "鮫肌男と桃尻女",
+        "overview": "In dreamlike mountain scenery, Toshiko makes a daring escape from her sexually warped Uncle Sonezaki. Fortunately, she met Samehada as she runs for her life, which is also escaping from some slayers. What follows is a wild chase that leads the audience into a comically violent world.",
+        "popularity": 14.542,
+        "poster_path": "/31rPJUTmffhsKmCT996kKIBflkL.jpg",
+        "release_date": "1998-09-15",
+        "title": "Shark Skin Man and Peach Hip Girl",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 43
+    }
+]

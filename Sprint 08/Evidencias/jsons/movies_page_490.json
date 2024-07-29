@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/oSp3zguxIhjP2K4652EOMyCR7ig.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 38461,
+        "original_language": "en",
+        "original_title": "Charlie Chan in Rio",
+        "overview": "In Rio de Janiero to arrest a nightclub singer on suspicion of a murder in Hawaii, Charlie Chan becomes involved with the Rio police in solving the singer's own murder.",
+        "popularity": 7.022,
+        "poster_path": "/yjgB0pzbh4iW8dFkD8GJRtF2j3L.jpg",
+        "release_date": "1941-09-05",
+        "title": "Charlie Chan in Rio",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iBTDqJxoJ2SH6IeALRCFwwisjd4.jpg",
+        "genre_ids": [
+            18,
+            80,
+            35,
+            10749
+        ],
+        "id": 4735,
+        "original_language": "fr",
+        "original_title": "Le Bon et les Méchants",
+        "overview": "The film follows the exploits of Jacques, a car-mechanic turned pro-thief, and his Jewish co-conspirator Simon as their robberies, beginning well before the Second World War, take on a political coloration under the occupation.",
+        "popularity": 7.022,
+        "poster_path": "/3bUCM70za8ARtCkeQVkEOybXovJ.jpg",
+        "release_date": "1976-01-19",
+        "title": "The Good and the Bad",
+        "video": false,
+        "vote_average": 5.548,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/12W6rFPay1CY7xwgvyEJKAcAoWT.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 802714,
+        "original_language": "fr",
+        "original_title": "Animals",
+        "overview": "Brahim is a young man, and secretly gay. At his mother’s birthday party, tensions around his unaccepted sexuality become unbearable. Brahim flees the oppressive family home into the night, where a terrible encounter awaits...",
+        "popularity": 7.021,
+        "poster_path": "/taNO8ww04C8M4IMVbZDOjutNoD8.jpg",
+        "release_date": "2022-06-23",
+        "title": "Animals",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tgfgLdqv7EvrGn3ZJGSAzw5tyvs.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 79254,
+        "original_language": "fr",
+        "original_title": "L'Homme à la Buick",
+        "overview": "Mr Jo, nicknamed \"the man with the Buick\", is the darling of the small town of Honfleur. But he is in fact a trafficker with a bad reputation who would like to forget about his past, now limiting himself to smuggling rubies under the cover of a charitable organization which offers underprivileged children holidays in Switzerland. However, Mr. Jo is in love with a pretty widow and, in order to marry her, he is willing to get involved in a hold-up again. And \"the man with the Buick\", who seemed so honorable, will surprise the inhabitants of Honfleur when Inspector Menard reveals his secret activities.",
+        "popularity": 7.02,
+        "poster_path": "/9uhVp3Y6RdE82ZeikNTOny4jQor.jpg",
+        "release_date": "1968-01-12",
+        "title": "The Man in the Buick",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bJQnJj1SrnXAVZeZQ2vdyl5iWYa.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 74765,
+        "original_language": "fr",
+        "original_title": "Le Grand Chef",
+        "overview": "In Paris, scoundrel mates Paolo and Antoine Venturen hope to get rich quick by asking ransom fro rich Mr. Jumelin's preteen son Eric. Masquerading as Indians, the scamp's favorite game, does the trick. They soon learn such bratty rascal is more trouble then he's worth. The boy's a P.I. instead of paying, and it gets worse.",
+        "popularity": 7.02,
+        "poster_path": "/ebDG7tOnQ2rW0aKEyY4Q1QQ4aOj.jpg",
+        "release_date": "1959-03-20",
+        "title": "Gangster Boss",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/znHqXJvk94CCY8wQx8r1EhDxaQ6.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1300818,
+        "original_language": "zh",
+        "original_title": "丛林追击",
+        "overview": "",
+        "popularity": 7.018,
+        "poster_path": "/s5Qg9RT26uchXtqnVEzSswtUllb.jpg",
+        "release_date": "2024-06-06",
+        "title": "Jungle Chase",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1WY0wK7DnPP1Mk7kDFYz23ycJy4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 666680,
+        "original_language": "en",
+        "original_title": "La Flamme Rouge",
+        "overview": "A violent night sends cycling champ Rick Van Pelt into a neon-drenched fever dream. Fuelled by scotch and paranoia, he confronts Isaac about an affair with his fiancé. A shocking turn of events unveils their scheme to rip off a reclusive art dealer. Eccentric friends, old and new, fail to save Rick from the nocturnal underworld and his demons personified - a renegade detective his only hope.",
+        "popularity": 7.018,
+        "poster_path": "/ghsOta6XiXhPLVmZ75CjjIEj32m.jpg",
+        "release_date": "2021-03-13",
+        "title": "La Flamme Rouge",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/DHGFU25VbfrXvYyG66VGA0QFSa.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 246488,
+        "original_language": "en",
+        "original_title": "Dangerous to Know",
+        "overview": "Racketeer Steve Recka, art patron and political power-maker, rules his town and Madame Lan Ying, his beautiful friend and hostess (read:mistress), with an iron hand. He meets Margaret Van Kase, a socialite not impressed by his power nor his wealth, having no money herself, and Steve makes frantic efforts to win her and turns away from the loyal Lin Yang.",
+        "popularity": 7.018,
+        "poster_path": "/lZ3AITdAG18I2maeY4wFQUzL7l7.jpg",
+        "release_date": "1938-03-11",
+        "title": "Dangerous to Know",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 220585,
+        "original_language": "cn",
+        "original_title": "愛殺2000",
+        "overview": "A man how get involved in an international business deceit crime flees back to China.  He Meets his puppy lover who has a miserable marriage.However,he is being investigated by  Chinese and Japanese detectives.",
+        "popularity": 7.018,
+        "poster_path": "/dG4ERbG6Vd6va1O7WTYzr162HOU.jpg",
+        "release_date": "2000-11-30",
+        "title": "Bloody Secret",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3ekmNKd1HNIdYpJBNPpKWzjfE0O.jpg",
+        "genre_ids": [
+            10752,
+            18,
+            80
+        ],
+        "id": 60923,
+        "original_language": "it",
+        "original_title": "My Lai Four: Soldati senza onore",
+        "overview": "My Lai Four, a movie about the My Lai massacre in Vietnam. Here s the blurb: Freely adapted from the Pulitzer Prize-winning book by Seymour Hersh, this film recounts the story of a platoon of American soldiers led by Second Lieutenant Wm. Calley. Falling into an ambush, they come under enemy fire and in the disastrous fight that ensues, two young soldiers lose their lives; a third is so badly injured that Sgt. Cowen is forced to put him out of his hopeless agony.",
+        "popularity": 7.018,
+        "poster_path": "/uitiHxf4c130leNCwuNdRl04oGr.jpg",
+        "release_date": "2010-12-10",
+        "title": "My Lai Four: Soldati senza onore",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1304553,
+        "original_language": "ja",
+        "original_title": "日本統一30",
+        "overview": "Himuro and Tamura put an end to the suffering of Munakata, the leader of the Fujishiro-gumi of the Marukami-kai, and expanded the Kyowa-kai to the Kanto region, but soon after, they receive news of Munakata's suicide. When Himuro saw the suicide note, he became suspicious and concluded that it was the work of Tsurumi of the Marukami-kai, who was the first to discover it. The conflict between Himuro and Tsurumi becomes even more intense.",
+        "popularity": 7.017,
+        "poster_path": "/qBHqplwzDh9uMA670HANvglTxde.jpg",
+        "release_date": "2018-10-25",
+        "title": "Unification of Japan 30",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l5AsoQVDHdtt2Ll3tY2VTamlM0I.jpg",
+        "genre_ids": [
+            27,
+            80,
+            53
+        ],
+        "id": 354560,
+        "original_language": "cn",
+        "original_title": "終極強姦：獸性誘惑",
+        "overview": "Assigned to track and apprehend a serial rapist, Inspector Wong (Chan Kwok-bong) tries to question the latest victim, psychiatrist / screenwriter (!) Mazy Hui (UN BAISER VOLE's Natalie Ng Man-yan, badly miscast), but she is too distraught to offer any leads. Flashbacks reveal her assailant to be Sin Ho-fun (Samuel Leung Cheuk-moon), a homely, put-upon crew member, whom Mazy tried to help via a free discussion session in her office. The paranoid and delusional Sin soon misinterprets one of her comments and, later that day, drugs and rapes the woman, the first in a series of assaults he perpetrates. Once she has recovered, Mazy and Wong join forces in order to apprehend Sin, who has now graduated to murder.",
+        "popularity": 7.017,
+        "poster_path": "/lRCTyq8GAEsujGXwGnG3A79SuBB.jpg",
+        "release_date": "2001-11-22",
+        "title": "Crime of a Beast",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/twlIBxBdRWIIGIsSNF3dMkfjBtk.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 291584,
+        "original_language": "en",
+        "original_title": "Wasabi Tuna",
+        "overview": "A group of friends who take Halloween way too seriously kidnap Anna Nicole Smith's beloved pet Sugar-Pie. It's up to a bunch of drag queens dressed as Anna to bring Sugar-Pie back.",
+        "popularity": 7.017,
+        "poster_path": "/w5A6LD9CTnOJdAXsQM3Iq0tuXv9.jpg",
+        "release_date": "2003-08-20",
+        "title": "Wasabi Tuna",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lNMRbmdgoIa8ti1jpedzIGfVZzg.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 467797,
+        "original_language": "en",
+        "original_title": "In the Glitter Palace",
+        "overview": "The ex-girlfriend of a lawyer, who left him for a lesbian lover, asks him to defend her lover in a murder case.",
+        "popularity": 7.016,
+        "poster_path": "/xoTn2grNKuT4yV1YY5FFqdgcBWc.jpg",
+        "release_date": "1977-02-23",
+        "title": "In the Glitter Palace",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9I9BqgbFZ7uqW1pcMuxuvcxERkV.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 105906,
+        "original_language": "it",
+        "original_title": "Napoli si ribella",
+        "overview": "A drug deal goes bad and the heroin is stolen. One mob boss doesn't have his drugs and the other doesn't get his money. People are going to die until they discover who double-crossed them. Into this backdrop, Inspector Dario Mauri arrives from Milan to help clean-up Naples. His mission – find the drugs and stop the killing.",
+        "popularity": 7.016,
+        "poster_path": "/wbtU2OVPlaTLVWw5YZZnNYo9NBk.jpg",
+        "release_date": "1977-08-07",
+        "title": "A Man Called Magnum",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ilnVSwyxDOxvNBopcssOThaE9az.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 38238,
+        "original_language": "es",
+        "original_title": "Las viudas de los jueves",
+        "overview": "The closed community of a private neighborhood of high-priced houses, is moved by the discovery of three corpses that appear floating in a pool and rushes to frame it as an accident.",
+        "popularity": 7.015,
+        "poster_path": "/cmxCVgA1Qlgx2sOVTJVdyDbo6l0.jpg",
+        "release_date": "2009-09-10",
+        "title": "The Widows of Thursdays",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z3k4vBDc9Iygr9glEgtK0ERyuaK.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 530588,
+        "original_language": "ml",
+        "original_title": "അബ്രഹാമിന്‍റെ സന്തതികള്‍",
+        "overview": "Derick Abraham, a fiery and dutiful police officer, continues to be the best officer until his brother Philip Abraham gets arrested for false murder charges. Will he be able to investigate the case and serve justice to his brother?",
+        "popularity": 7.014,
+        "poster_path": "/aZWh3rM2XGufvUyHo7EUpBTfPQy.jpg",
+        "release_date": "2018-06-15",
+        "title": "Abrahaminte Santhathikal",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/li50ToT9I0ZtABUFE2FEO5YQMqt.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 828378,
+        "original_language": "ml",
+        "original_title": "പട",
+        "overview": "Based on a true incident, the film is about four men, who call themselves Ayyankali Pada, holding the Palakkad collector hostage demanding tribal land rights.",
+        "popularity": 7.013,
+        "poster_path": "/5ppn9FFpgD3xlpIB9KVEeDTyxDd.jpg",
+        "release_date": "2022-03-11",
+        "title": "Pada",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            18,
+            10770
+        ],
+        "id": 69450,
+        "original_language": "en",
+        "original_title": "Lies and Crimes",
+        "overview": "A woman moves to a new home after her police officer husband is killed. She soon discovers a place where growing prescription drug abuse is creating a nightmare of lies, crime, and murder.",
+        "popularity": 7.013,
+        "poster_path": "/cQ6FLa4zy1CMeeqkMy0heAuQAKl.jpg",
+        "release_date": "2007-03-05",
+        "title": "Lies and Crimes",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f60cnjmKWOSURCGC8HCCb5D5w6l.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 55916,
+        "original_language": "en",
+        "original_title": "One Way Out",
+        "overview": "Harry Woltz is a homicide cop with a gambling problem; a problem that leaves him owing a great deal of money to the Russell brothers. To clear the debt they ask him to train John Farrow to murder his wife, Evans, without leaving the usual clues or making the usual mistakes. However when Harry's ex-partner is put on the case, she begins to get closer than Harry had thought before the case takes some unexpected twists.",
+        "popularity": 7.013,
+        "poster_path": "/ob2nJKe3RCy2GXsEdOjDFKIRbuA.jpg",
+        "release_date": "2002-02-01",
+        "title": "One Way Out",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 14
+    }
+]

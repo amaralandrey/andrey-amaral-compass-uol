@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/3aBQSTy2Y033FMjDMetYXtwB4QY.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 26169,
+        "original_language": "en",
+        "original_title": "When Strangers Marry",
+        "overview": "A naive small-town girl comes to New York City to meet her husband, and discovers that he may be a murderer.",
+        "popularity": 10.94,
+        "poster_path": "/cHhmAtkD3R2Z2wJb2rcJumcIy43.jpg",
+        "release_date": "1944-08-21",
+        "title": "When Strangers Marry",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/er9cqkTHHCG6VS2zOmLCfsS4CZF.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 58302,
+        "original_language": "hi",
+        "original_title": "Dus",
+        "overview": "Jamwaal, a terrorist, plans to wreak havoc in Canada when the Indian Prime Minister visits the nation. However, a team of special agents from India are sent to catch the terrorist.",
+        "popularity": 10.939,
+        "poster_path": "/xHT7fJEkeeNnV45pNy2jYI12qbj.jpg",
+        "release_date": "2005-07-08",
+        "title": "Dus",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cIMAvcCWhh0dDGT5pyqSwwWiAhu.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 255088,
+        "original_language": "ja",
+        "original_title": "沖縄やくざ戦争",
+        "overview": "Chiba, looking gnarly, and acting as animalistic as ever, stars alongside Matsukata as violent gangsters battling their way through fight after bloody fight with rival yakuza on the streets of Okinawa.",
+        "popularity": 10.937,
+        "poster_path": "/6vuDxmDDnzvbSXv1t6NJdMOiqjM.jpg",
+        "release_date": "1976-09-04",
+        "title": "The Great Okinawa Yakuza War",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            35,
+            10770
+        ],
+        "id": 252890,
+        "original_language": "en",
+        "original_title": "What's a Nice Girl Like You...?",
+        "overview": "A Bronx working girl is drawn into an elaborate extortion plot after being kidnapped by a gang of sophisticated con men who force her, because of her remarkable resemblance, to impersonate a wealthy socialite. Based on E.V. Cunningham's (Howard Fast's) novel, \"Shirley.\"",
+        "popularity": 10.937,
+        "poster_path": "/zto41Wc2UrXUQmU8mlSglTgOgiA.jpg",
+        "release_date": "1971-12-18",
+        "title": "What's a Nice Girl Like You...?",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r6zcj1M3kIHVoPNYZV050IJo2OL.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 49874,
+        "original_language": "sv",
+        "original_title": "Kommissarie Späck",
+        "overview": "A dead body is found, and police detective Mårten Späck draws the conclusion that a serial suicide killer is at large. Späck with his colleagues Grünvald Karlsson and Irene Snusk suspect a gang who distributes pirated DVDs of 'bottom-of-the-barrel' Swedish movies.",
+        "popularity": 10.932,
+        "poster_path": "/aKkedi2YEDp1XTk53B2HLcvVh3v.jpg",
+        "release_date": "2010-06-04",
+        "title": "Inspector Späck",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mU6yYDAfZx1ynXQPeBzBTm4iBGD.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 19555,
+        "original_language": "en",
+        "original_title": "9 Dead Gay Guys",
+        "overview": "The story of two lads from Belfast as they stumble their way through the London gay underworld in search of 'gainful employment'. This being the offering of sexual favours to older gay men in order to subsidise their respective giros. 9 Dead Gay Guys is a high-camp send-up of gay stereotypes.",
+        "popularity": 10.932,
+        "poster_path": "/tnpzlpZdarzNAYfe718NXPNBQMH.jpg",
+        "release_date": "2003-09-19",
+        "title": "9 Dead Gay Guys",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tvLSz04uSgNyRVdLb8hJDU5uFMB.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 1145810,
+        "original_language": "es",
+        "original_title": "No voy a pedirle a nadie que me crea",
+        "overview": "A writer's career — and entire life — suddenly goes off script when he falls prey to a dangerous web of criminals right before moving to Barcelona.",
+        "popularity": 10.931,
+        "poster_path": "/5JyivjFm8WzZU2jhzjMWdbWdOwj.jpg",
+        "release_date": "2023-11-22",
+        "title": "I Don't Expect Anyone to Believe Me",
+        "video": false,
+        "vote_average": 7.136,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lbY6GeaqUeyGe2UXWXMdRj4o7ia.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 473256,
+        "original_language": "zh",
+        "original_title": "破·局",
+        "overview": "A morally bent detective  has one of the worst days of his life after he tries to cover up an accidental crime.",
+        "popularity": 10.929,
+        "poster_path": "/7pL5uxsdD3kBxKl0oJW2VdCWtcS.jpg",
+        "release_date": "2017-08-18",
+        "title": "Peace Breaker",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q2ktLAtevURyHum9hhFReqS0dk4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 72778,
+        "original_language": "en",
+        "original_title": "Hell on Frisco Bay",
+        "overview": "A cop framed for a murder he did not commit hunts the San Francisco waterfront for the Mob racketeers who are responsible.",
+        "popularity": 10.928,
+        "poster_path": "/21o3KxIckSKUq3csuW3dHyEaLbM.jpg",
+        "release_date": "1955-12-31",
+        "title": "Hell on Frisco Bay",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aTlQ4943AcDmI0PMmP4aYfCbEFK.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 228935,
+        "original_language": "cn",
+        "original_title": "中國O記之血腥情人",
+        "overview": "A man married to a beautiful young woman is pressured by her into staging a kidnapping to make some money, which puts him in conflict with his former kung-fu partner, who is now a policeman.",
+        "popularity": 10.927,
+        "poster_path": "/lpj85SenZKny54NnrobGSA55yHH.jpg",
+        "release_date": "1996-03-27",
+        "title": "Another Chinese Cop",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a8fN0lCqOdeovidfeXsUz5wRJHt.jpg",
+        "genre_ids": [
+            10751,
+            10770,
+            80
+        ],
+        "id": 354832,
+        "original_language": "en",
+        "original_title": "The Cookie Mobster",
+        "overview": "A young mob member goes into the Witness Protection Program and settles into a quiet suburban village, where he falls for a local woman and gets involved with cookie-making fund-raising for her daughter's scout troop while dodging his former associates who have tracked him down.",
+        "popularity": 10.925,
+        "poster_path": "/rzqZjFra8qqWOmbStIebt9vAhng.jpg",
+        "release_date": "2014-12-27",
+        "title": "The Cookie Mobster",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i2JxbXPMfga2rXjpMU3AGE4mhNC.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            80
+        ],
+        "id": 12711,
+        "original_language": "da",
+        "original_title": "Olsen-banden deruda'",
+        "overview": "Egon is starting to be a little forgetful; he forgot the zone number, so he fails to open the strongbox. When he gets out of Vridslose State Prison, Kjeld and Benny have become associates of Yvonne's cousin Georg from America. He is not just some old-fashioned strongbox thief that can't remember like Egon, but a young hip IT criminal, that thinks that everyone else is inferior. However, Egon doesn't take lightly to the Georg's patronizing so he sabotages Georg's computer and ruins his cup. This time Egon's ambitions reaches a new high, when he and his gang break in to the World Bank, and they get away with it. Of course, thanks to Yvonne, they aren't rich very long.",
+        "popularity": 10.921,
+        "poster_path": "/hU9olfYOg1pDqnH07Ydye3qCoKU.jpg",
+        "release_date": "1977-09-30",
+        "title": "The Olsen Gang Outta Sight",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tWUZf0y6lCMqI9j3MLvScmF4NtY.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648
+        ],
+        "id": 78552,
+        "original_language": "en",
+        "original_title": "Sweet Sixteen",
+        "overview": "A beautiful lonely girl named Melissa tries to make new friends from a town she's currently living in. The only problem is, each of the boys that she spends time with end up brutally murdered. Her sixteenth birthday is on the way, but Melissa turns out to be a suspect when it seems she's the last person who has seen her boyfriends alive.",
+        "popularity": 10.918,
+        "poster_path": "/gPnuYWok19qgYZi6NiOi6KQegM8.jpg",
+        "release_date": "1983-03-18",
+        "title": "Sweet Sixteen",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vvqprQnRk954ztiidiz3EPBflpu.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 46995,
+        "original_language": "en",
+        "original_title": "Madeleine",
+        "overview": "The middle-class family of a young woman cannot understand why she delays in marrying a respectable young man. They know nothing about her long-standing affair with a Frenchman.",
+        "popularity": 10.917,
+        "poster_path": "/nQsThlhGuWUn8h3vpdbK3Kr4qGM.jpg",
+        "release_date": "1950-02-16",
+        "title": "Madeleine",
+        "video": false,
+        "vote_average": 6.734,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jozdMgNz1oVNxYNZCGGLZF9b0Rl.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 349513,
+        "original_language": "ko",
+        "original_title": "기막힌 사내들",
+        "overview": "Upon getting out of prison, Deok-Bae meets his old buddy Dal-soo, who owns a restaurant. These two have never succeeded in life, and are constantly in and out of prison. Two others who happen to be in the same boat as Deok-Bae and Dal-Soo are ex-convicts. They have threatened to commit suicide unless traffic and unemployment issues are resolved. They are also unlucky enough to have been spotted at the scene of a crime. While these four are making big plans for their first success, the city becomes wrapped up in a serial murder case. In the meantime, an investigating team of veteran cops is formed in order to solve this case.",
+        "popularity": 10.916,
+        "poster_path": "/syYedN3fOXQbHrV6TfHhcO8KL11.jpg",
+        "release_date": "1998-08-22",
+        "title": "The Happenings",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g5j6UjHfQF85ZzcXgJxpKye2tgq.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            10770,
+            80
+        ],
+        "id": 225264,
+        "original_language": "en",
+        "original_title": "The Murder in Angel Lane",
+        "overview": "When Mr. Whicher, a retired policeman, helps a country lady to find her niece, he is drawn into a disturbing case of murder which brings him up against wealthy and powerful figures and throws him into conflict with his former police colleagues.",
+        "popularity": 10.915,
+        "poster_path": "/j6UGTe44lZjDsBv94H7aTCNwZGq.jpg",
+        "release_date": "2013-05-12",
+        "title": "The Murder in Angel Lane",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tnuFbIomL30P2BkY40odVKf3gOs.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            18,
+            10752
+        ],
+        "id": 223610,
+        "original_language": "ko",
+        "original_title": "최후의 증인",
+        "overview": "Detective Oh goes searching for the murderer of Yang, a small-time brewer bludgeoned to death by a quiet riverside with no witnesses, no apparent motive. As he wanders about the winter landscape of South Jeolla Province and Seoul, he finds himself caught in a story of treachery, rape and murder.",
+        "popularity": 10.914,
+        "poster_path": "/gSwJkfAbyYxUWbTcyyiCQeoIEto.jpg",
+        "release_date": "1980-11-15",
+        "title": "The Last Witness",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dGCsHciA1gmiSRl9HAmaMJ6tMYq.jpg",
+        "genre_ids": [
+            28,
+            878,
+            12,
+            80,
+            14,
+            53
+        ],
+        "id": 552497,
+        "original_language": "en",
+        "original_title": "RoboCop: The Future of Law Enforcement",
+        "overview": "While tracking a ruthless killer, RoboCop and Madigan uncover a conspiracy between insane genius Dr. Cray Mallardo and ruthless OCP executive Chip Chayken, to develop a computer system linked to a human brain. Neuro-brain is created, a system capable of running the public services of the entire city. There s just one glitch: a ghost named Diana inhabits the machine. As RoboCop gets too close to this kindred spirit, Chayken enlists the aid of a homicidal psychopath Pudface Morgan to kill him off.",
+        "popularity": 10.913,
+        "poster_path": "/8wQzAAMhO0kEhJMdkfsh7HKBO7P.jpg",
+        "release_date": "1994-03-14",
+        "title": "RoboCop: The Future of Law Enforcement",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r4Pke1kr7NvXWHdRXXT0bFnNrUm.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 134834,
+        "original_language": "en",
+        "original_title": "13 West Street",
+        "overview": "Walt Sherill is attacked and beat down by a group of juvenile delinquents on his way home from work one night. The boys who attacked him are not previously known by the police and are therefore hard to track down. As Sherill starts getting impatient he begins his own investigation. Meanwhile, Detective Sergeant Koleski does his best to track down the culprits.",
+        "popularity": 10.912,
+        "poster_path": "/gTHB2dpYVStwbxjxyMz0OSRuXmT.jpg",
+        "release_date": "1962-02-23",
+        "title": "13 West Street",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cUNj0949YwpCCBs8iWc320uejHS.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 1187050,
+        "original_language": "en",
+        "original_title": "Partygate",
+        "overview": "Karaoke, suitcases of wine, ambushing cake... this factual drama tells the story of Covid from inside 10 Downing Street as staff kicked back at lockdown-breaching parties",
+        "popularity": 10.908,
+        "poster_path": "/aZvKKAp3CTQcreC6ubBO4fNCCeX.jpg",
+        "release_date": "2023-10-03",
+        "title": "Partygate",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 4
+    }
+]

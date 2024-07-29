@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/iLc6QXt9EFf093SyAR1QlV9qUdH.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 2084,
+        "original_language": "en",
+        "original_title": "Birthday Girl",
+        "overview": "John is a mild-mannered banker who has never been lucky in love. Fed up with waiting for the right girl to come along, John takes a chance on a Russian mail-order bride arranged via the Internet, where he is introduced to Nadia. John's fondness for Nadia grows... until the sudden arrival of Nadia's gregarious cousins makes John realize that he's in over his head.",
+        "popularity": 39.553,
+        "poster_path": "/jrwCiqQjEm3WqxHXxvAoW4gOsUd.jpg",
+        "release_date": "2001-09-06",
+        "title": "Birthday Girl",
+        "video": false,
+        "vote_average": 5.886,
+        "vote_count": 386
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y8HaV1Ntr6nHmKxZ29B7DwxwvNU.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 623,
+        "original_language": "en",
+        "original_title": "A Fish Called Wanda",
+        "overview": "While a diamond advocate attempts to steal a collection of diamonds, troubles arise when he realises he’s not the only one after the collection.",
+        "popularity": 39.516,
+        "poster_path": "/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg",
+        "release_date": "1988-07-15",
+        "title": "A Fish Called Wanda",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 2109
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wFY88k4fQQCwgALmANwNVtMRusm.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 7229,
+        "original_language": "fr",
+        "original_title": "Tais-toi !",
+        "overview": "After hiding his loot and getting thrown in jail, brooding outlaw Ruby befriends Quentin, a dim-witted and garrulous giant. After Quentin botches a solo escape attempt, they make a break together. Unable to shake the clumsy Quentin, Ruby is forced to take him along as he pursues his former partners in crime to avenge the death of the woman he loved and get to the money.",
+        "popularity": 39.506,
+        "poster_path": "/8ruWIYmYvLIzDLYCi9SpC0FLfHE.jpg",
+        "release_date": "2003-10-22",
+        "title": "Ruby & Quentin",
+        "video": false,
+        "vote_average": 6.718,
+        "vote_count": 788
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tUxE815pXIRuU7ZJLuCO03MrqsI.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 842544,
+        "original_language": "en",
+        "original_title": "Transfusion",
+        "overview": "Ryan Logan, a former Special Forces operative, is battling to cope with life after the loss of his wife.  He is thrusted into the criminal underworld to keep his only son from being taken from him.",
+        "popularity": 39.492,
+        "poster_path": "/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg",
+        "release_date": "2023-01-05",
+        "title": "Transfusion",
+        "video": false,
+        "vote_average": 6.083,
+        "vote_count": 234
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2NPhBHfzhEmXl8csQ2dKmoxfj5e.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 972614,
+        "original_language": "en",
+        "original_title": "Knox Goes Away",
+        "overview": "A contract killer, after being diagnosed with a fast-moving form of dementia, is presented with the opportunity to redeem himself by saving the life of his estranged adult son. But to do so, he must race against the police closing in on him as well as the ticking clock of his own rapidly deteriorating mind.",
+        "popularity": 39.469,
+        "poster_path": "/w39qKYjltCix18BwtoZ1e45usdb.jpg",
+        "release_date": "2024-03-15",
+        "title": "Knox Goes Away",
+        "video": false,
+        "vote_average": 6.463,
+        "vote_count": 123
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pmQ4DsQ4x6iSA0iOIArRpGt8lT3.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11825,
+        "original_language": "en",
+        "original_title": "Police Academy 5: Assignment Miami Beach",
+        "overview": "The Police Academy misfits travel to Miami Beach for Commandant Lassard to be honored with a prestigious lifetime award pending his retirement. Things take a turn when Lassard unknowingly ends up in possession of stolen diamonds from a jewel heist.",
+        "popularity": 39.448,
+        "poster_path": "/4m1qfTiVxdEDv0fgUf0FI7CA9Fe.jpg",
+        "release_date": "1988-03-17",
+        "title": "Police Academy 5: Assignment Miami Beach",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 876
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tW8H0Bn1vptVAS2SZASmkkl2K5P.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 290865,
+        "original_language": "ko",
+        "original_title": "타짜: 신의 손",
+        "overview": "Dae-gil has been skilled with his hands and has shown a strong desire for winning ever since he was a child. He will succeed his uncle and jump into the world of Tazza, risking his life in competition.",
+        "popularity": 39.428,
+        "poster_path": "/lx5HsMSE8A6bPy3Vuaj5O0rGk2S.jpg",
+        "release_date": "2014-09-03",
+        "title": "Tazza: The Hidden Card",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 81
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aE7GmGs9SQGcl1mZ18jBmgil2Ql.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 10623,
+        "original_language": "en",
+        "original_title": "Cradle 2 the Grave",
+        "overview": "Gang leader Tony pulls off a major diamond heist with his crew, but cop-turned-criminal Ling knows who has the loot and responds by kidnapping Tony's daughter and holding her for ransom. Unfortunately, Tony's lost the diamonds as well. As he frantically searches for his daughter and the jewels, Tony pairs with a high-kicking government agent who once worked with Ling and seeks revenge on him.",
+        "popularity": 39.417,
+        "poster_path": "/8iXpVITXenqPG8gQ0lCFpUMtZIx.jpg",
+        "release_date": "2003-02-28",
+        "title": "Cradle 2 the Grave",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 884
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 673407,
+        "original_language": "ko",
+        "original_title": "불량탐정: 먹이사슬",
+        "overview": "Jeong-mi, a pickpocket ex-convict, ends up pickpocketing again to repay Dae-sik off of her father's debt. One day, Hae-joo, who is secretly meeting a detective, has been kidnapped and turned into Dae-sik's prey.  The detective then went on a search to find Hae-joo's whereabouts.",
+        "popularity": 39.401,
+        "poster_path": "/wyGNUFVpXSVGTRHSylyPqn3qZcT.jpg",
+        "release_date": "2020-01-22",
+        "title": "Bad Detective: Food Chain",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1051,
+        "original_language": "en",
+        "original_title": "The French Connection",
+        "overview": "Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
+        "popularity": 39.369,
+        "poster_path": "/5A1kg62MmQS5Dm3oo6t1OLu2lCy.jpg",
+        "release_date": "1971-10-09",
+        "title": "The French Connection",
+        "video": false,
+        "vote_average": 7.532,
+        "vote_count": 1779
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8vroa5RYUxD7Nv7vUGUoxZTyz7P.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 2148,
+        "original_language": "en",
+        "original_title": "The Cotton Club",
+        "overview": "Harlem's legendary Cotton Club becomes a hotbed of passion and violence as the lives and loves of entertainers and gangsters collide.",
+        "popularity": 39.358,
+        "poster_path": "/4FOLs73IGbx4Qth33ZG94DFRWxf.jpg",
+        "release_date": "1984-12-14",
+        "title": "The Cotton Club",
+        "video": false,
+        "vote_average": 6.522,
+        "vote_count": 391
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6UnVwCA6F29erZK29PKqRyHqFA.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 165213,
+        "original_language": "ko",
+        "original_title": "신세계",
+        "overview": "An undercover cop has his loyalties tested when the boss of the corporate gang he's spent years infiltrating dies.",
+        "popularity": 39.347,
+        "poster_path": "/5Ai3BMJlDGOlZXbcDv3vnOM1CSp.jpg",
+        "release_date": "2013-02-21",
+        "title": "New World",
+        "video": false,
+        "vote_average": 7.457,
+        "vote_count": 438
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rQ5IqaZ1MAJiVnrGttqEoaZTMth.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80,
+            9648
+        ],
+        "id": 24253,
+        "original_language": "sv",
+        "original_title": "Flickan som lekte med elden",
+        "overview": "Mikael Blomkvist, publisher of Millennium magazine, has made his living exposing the crooked and corrupt practices of establishment Swedish figures. So when a young journalist approaches him with a meticulously researched thesis about sex trafficking in Sweden and those in high office who abuse underage girls, Blomkvist immediately throws himself into the investigation.",
+        "popularity": 39.27,
+        "poster_path": "/A8UjhPjINIBgmoH37aqt40u53PQ.jpg",
+        "release_date": "2009-09-18",
+        "title": "The Girl Who Played with Fire",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1592
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xitcsTYd7smR3d5zV5LlsgiTWok.jpg",
+        "genre_ids": [
+            37,
+            28,
+            80
+        ],
+        "id": 866038,
+        "original_language": "en",
+        "original_title": "Apache Junction",
+        "overview": "Apache Junction is an outpost of lawlessness, a haven for thieves and cold-blooded killers. After big-city reporter Annabelle Angel arrives to write an article on the town, she becomes a target when notorious gunslinger Jericho Ford comes to her aid. Now Annabelle must entrust her future to a man with a deadly past, as Jericho heads toward a tense showdown.",
+        "popularity": 39.261,
+        "poster_path": "/sYkElIUzn9NkVFufpc2oSQlfVsS.jpg",
+        "release_date": "2021-09-24",
+        "title": "Apache Junction",
+        "video": false,
+        "vote_average": 6.353,
+        "vote_count": 170
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lonLErm7OcVR8gnc1t2kRwuuxDm.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 606403,
+        "original_language": "ko",
+        "original_title": "특송",
+        "overview": "A black-market cabbie drives criminals at breakneck speeds until she is left in charge of a fugitive's son.",
+        "popularity": 39.203,
+        "poster_path": "/iFUBAfMDlFOck29BEwS1awH5TB3.jpg",
+        "release_date": "2022-01-12",
+        "title": "Special Delivery",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 166
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fgoaQOMqT3LdSXVA7sgsOoBZPJb.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 9879,
+        "original_language": "en",
+        "original_title": "Striptease",
+        "overview": "Bounced from her job, Erin Grant needs money if she's to have any chance of winning back custody of her child. But, eventually, she must confront the naked truth: to take on the system, she'll have to take it all off. Erin strips to conquer, but she faces unintended circumstances when a hound dog of a Congressman zeroes in on her and sharpens the shady tools at his fingertips, including blackmail and murder.",
+        "popularity": 39.201,
+        "poster_path": "/edkpT3vgjEjVrF461AbIwZgkvC7.jpg",
+        "release_date": "1996-06-28",
+        "title": "Striptease",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 1043
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rrhIdOofKpRZ0LD6zgsb4bYvznz.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 7442,
+        "original_language": "en",
+        "original_title": "Sleeping with the Enemy",
+        "overview": "A young woman fakes her own death in an attempt to escape her nightmarish marriage, but discovers it is impossible to elude her controlling husband.",
+        "popularity": 39.186,
+        "poster_path": "/lhkfSDKWvu6fX9LSyVaEklaLNZP.jpg",
+        "release_date": "1991-01-13",
+        "title": "Sleeping with the Enemy",
+        "video": false,
+        "vote_average": 6.493,
+        "vote_count": 1032
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eLVYG73Ig4SD192z4IY7nxKgCW8.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28,
+            18
+        ],
+        "id": 995206,
+        "original_language": "ja",
+        "original_title": "最後まで行く",
+        "overview": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness.",
+        "popularity": 39.179,
+        "poster_path": "/zZFqGmhJMUiTuEJSneIbI7N5sCw.jpg",
+        "release_date": "2023-05-19",
+        "title": "Hard Days",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 475,
+        "original_language": "en",
+        "original_title": "Bonnie and Clyde",
+        "overview": "In the 1930s, bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+        "popularity": 39.144,
+        "poster_path": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+        "release_date": "1967-08-14",
+        "title": "Bonnie and Clyde",
+        "video": false,
+        "vote_average": 7.502,
+        "vote_count": 1561
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/114yPZmKgsQVTSt0BDx5WagBOvW.jpg",
+        "genre_ids": [
+            80,
+            53,
+            27,
+            18
+        ],
+        "id": 18405,
+        "original_language": "en",
+        "original_title": "The Last House on the Left",
+        "overview": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
+        "popularity": 39.111,
+        "poster_path": "/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
+        "release_date": "2009-03-13",
+        "title": "The Last House on the Left",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 1694
+    }
+]

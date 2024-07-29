@@ -1,0 +1,406 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/okVLmXL5y18dfN2R4ufMZEGaeCd.jpg",
+        "genre_ids": [
+            28,
+            53,
+            18,
+            80
+        ],
+        "id": 1160018,
+        "original_language": "hi",
+        "original_title": "किल",
+        "overview": "When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on himself in a death-defying kill-spree to save those around him — turning what should have been a typical commute into an adrenaline-fueled thrill ride.",
+        "popularity": 133.489,
+        "poster_path": "/52tSovUH1w9cp4gzGNThaT4pQW.jpg",
+        "release_date": "2024-07-04",
+        "title": "Kill",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/smjGg5K8e6zofjSSc5o5xOnflLI.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 40108,
+        "original_language": "el",
+        "original_title": "Η Μαύρη Εμμανουέλα",
+        "overview": "A woman struggles to keep her stepdaughter from harms way after she hires an assassin to kill her husband, but the hitman turns and blackmails her for the crime.",
+        "popularity": 132.708,
+        "poster_path": "/90bI5FQllcfB7ZjH0kPfhsewqmE.jpg",
+        "release_date": "1980-02-01",
+        "title": "Emmanuelle: Queen of Sados",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 82
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mraxhuBdLzK4Ai46fwr7erji4je.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 889737,
+        "original_language": "en",
+        "original_title": "Joker: Folie à Deux",
+        "overview": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+        "popularity": 132.335,
+        "poster_path": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
+        "release_date": "2024-10-02",
+        "title": "Joker: Folie à Deux",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
+        "genre_ids": [
+            878,
+            28,
+            80
+        ],
+        "id": 932420,
+        "original_language": "en",
+        "original_title": "Code 8 Part II",
+        "overview": "In a world where superpowered people are heavily policed by robots, an ex-con teams up with a drug lord he despises to protect a teen from a corrupt cop.",
+        "popularity": 131.628,
+        "poster_path": "/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",
+        "release_date": "2024-02-27",
+        "title": "Code 8 Part II",
+        "video": false,
+        "vote_average": 6.415,
+        "vote_count": 506
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+        "genre_ids": [
+            80,
+            28,
+            12,
+            53
+        ],
+        "id": 637649,
+        "original_language": "en",
+        "original_title": "Wrath of Man",
+        "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+        "popularity": 131.521,
+        "poster_path": "/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
+        "release_date": "2021-04-22",
+        "title": "Wrath of Man",
+        "video": false,
+        "vote_average": 7.639,
+        "vote_count": 5117
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fI6X3Hd8KvtAuOKVdmxckdNzrx.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 581528,
+        "original_language": "ko",
+        "original_title": "악인전",
+        "overview": "After barely surviving a violent attack by an elusive serial killer, crime boss Jang Dong-su finds himself forming an unlikely partnership with local detective Jung Tae-seok to catch the sadistic killer simply known as K.",
+        "popularity": 130.303,
+        "poster_path": "/oHlM4abRm6BzrRcz9Nup1uidw9H.jpg",
+        "release_date": "2019-05-15",
+        "title": "The Gangster, the Cop, the Devil",
+        "video": false,
+        "vote_average": 7.808,
+        "vote_count": 1073
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 275,
+        "original_language": "en",
+        "original_title": "Fargo",
+        "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+        "popularity": 130.146,
+        "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+        "release_date": "1996-03-08",
+        "title": "Fargo",
+        "video": false,
+        "vote_average": 7.861,
+        "vote_count": 7864
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 106646,
+        "original_language": "en",
+        "original_title": "The Wolf of Wall Street",
+        "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+        "popularity": 127.865,
+        "poster_path": "/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+        "release_date": "2013-12-25",
+        "title": "The Wolf of Wall Street",
+        "video": false,
+        "vote_average": 8.037,
+        "vote_count": 23493
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg",
+        "genre_ids": [
+            27,
+            80,
+            9648
+        ],
+        "id": 1023922,
+        "original_language": "en",
+        "original_title": "MaXXXine",
+        "overview": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
+        "popularity": 126.697,
+        "poster_path": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+        "release_date": "2024-07-04",
+        "title": "MaXXXine",
+        "video": false,
+        "vote_average": 6.981,
+        "vote_count": 108
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xkXsV1WOiKfAJ6dzXiavdwsZ3E2.jpg",
+        "genre_ids": [
+            28,
+            53,
+            27,
+            80
+        ],
+        "id": 799379,
+        "original_language": "ko",
+        "original_title": "늑대사냥",
+        "overview": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
+        "popularity": 121.542,
+        "poster_path": "/dniWicB6fa7NvpGbguxWlNPMc5f.jpg",
+        "release_date": "2022-09-21",
+        "title": "Project Wolf Hunting",
+        "video": false,
+        "vote_average": 6.374,
+        "vote_count": 323
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/d6UxFCGQxpszcf8mwgGjQ3ynqGl.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 769,
+        "original_language": "en",
+        "original_title": "GoodFellas",
+        "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+        "popularity": 115.318,
+        "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+        "release_date": "1990-09-12",
+        "title": "GoodFellas",
+        "video": false,
+        "vote_average": 8.464,
+        "vote_count": 12576
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 103,
+        "original_language": "en",
+        "original_title": "Taxi Driver",
+        "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+        "popularity": 114.665,
+        "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        "release_date": "1976-02-09",
+        "title": "Taxi Driver",
+        "video": false,
+        "vote_average": 8.149,
+        "vote_count": 11951
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2J283YNxKhxAqHeVegUJ5mzLfGb.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 392044,
+        "original_language": "en",
+        "original_title": "Murder on the Orient Express",
+        "overview": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
+        "popularity": 113.793,
+        "poster_path": "/kc2gJjebceoFgOQbukzPzP8SXVZ.jpg",
+        "release_date": "2017-11-03",
+        "title": "Murder on the Orient Express",
+        "video": false,
+        "vote_average": 6.713,
+        "vote_count": 9740
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648
+        ],
+        "id": 4232,
+        "original_language": "en",
+        "original_title": "Scream",
+        "overview": "After a series of mysterious deaths befalls their small town, an offbeat group of friends led by Sidney Prescott become the target of a masked killer.",
+        "popularity": 112.845,
+        "poster_path": "/3O3klyyYpAZBBE4n7IngzTomRDp.jpg",
+        "release_date": "1996-12-20",
+        "title": "Scream",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 6743
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9FrpAtF87VKblKkDEiIZzYgO40K.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 2109,
+        "original_language": "en",
+        "original_title": "Rush Hour",
+        "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
+        "popularity": 111.977,
+        "poster_path": "/3WsLE6FtxEPRa6U9sbY1ckrn39s.jpg",
+        "release_date": "1998-09-18",
+        "title": "Rush Hour",
+        "video": false,
+        "vote_average": 7.05,
+        "vote_count": 4782
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jwtsNew0oMC11Nns3QrFzKKAONc.jpg",
+        "genre_ids": [
+            28,
+            80,
+            35,
+            53
+        ],
+        "id": 619803,
+        "original_language": "ko",
+        "original_title": "범죄도시 2",
+        "overview": "The 'Beast Cop' Ma Seok-do heads to a foreign country to extradite a suspect, but soon after his arrival, he discovers additional murder cases and hears about a vicious killer who has been committing crimes against tourists for several years.",
+        "popularity": 110.523,
+        "poster_path": "/tqHXCshqysM6DPnXeFIR74fNdKw.jpg",
+        "release_date": "2022-05-18",
+        "title": "The Roundup",
+        "video": false,
+        "vote_average": 7.228,
+        "vote_count": 265
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1ZIeGwD2lMlLMr4u6IIR302jqhD.jpg",
+        "genre_ids": [
+            80,
+            35,
+            28,
+            12
+        ],
+        "id": 207703,
+        "original_language": "en",
+        "original_title": "Kingsman: The Secret Service",
+        "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+        "popularity": 110.151,
+        "poster_path": "/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+        "release_date": "2014-12-13",
+        "title": "Kingsman: The Secret Service",
+        "video": false,
+        "vote_average": 7.636,
+        "vote_count": 16357
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 111,
+        "original_language": "en",
+        "original_title": "Scarface",
+        "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+        "popularity": 109.283,
+        "poster_path": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+        "release_date": "1983-12-09",
+        "title": "Scarface",
+        "video": false,
+        "vote_average": 8.166,
+        "vote_count": 11529
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uKTkiw3w3LfdzgiPOvu0C19Voi3.jpg",
+        "genre_ids": [
+            16,
+            28,
+            80,
+            9648
+        ],
+        "id": 1047041,
+        "original_language": "ja",
+        "original_title": "名探偵コナン 黒鉄の魚影（サブマリン）",
+        "overview": "Many engineers from around the world gather at the Interpol marine facility \"Pacific Buoy\" on Hachijo-jima, in the sea south of central Tokyo Prefecture coast, to witness the launch of a new system that connects all law enforcement camera systems around the world and enables facial recognition worldwide. Conan, along with his friends Kogoro, Ran, Agasa, Haibara, and the Detective Boys, also heads to the island with an invitation from Sonoko to see the whales. He receives a message from Subaru, who says that a Europol agent has been murdered in Germany by Gin. Perturbed, Conan sneaks onto the police ship led by Kuroda, which is bringing them to the island to protect the completion work, and tours the new facility, just in time for the Black Organization to kidnap a female engineer, seeking a piece of important data in her USB drive. A terrifying howl of screws is heard from the ocean as an unknown person approaches Haibara.",
+        "popularity": 109.255,
+        "poster_path": "/gLaJOggH5fP0DyeI7Jkpr78B0lc.jpg",
+        "release_date": "2023-04-14",
+        "title": "Detective Conan: Black Iron Submarine",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 83
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t6TL7V9IsT4Ktx6YO8b1UYj3agd.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 339846,
+        "original_language": "en",
+        "original_title": "Baywatch",
+        "overview": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.",
+        "popularity": 106.644,
+        "poster_path": "/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
+        "release_date": "2017-05-25",
+        "title": "Baywatch",
+        "video": false,
+        "vote_average": 6.094,
+        "vote_count": 7887
+    }
+]

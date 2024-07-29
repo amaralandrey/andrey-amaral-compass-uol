@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/cUrVoWzVAnoxQxNwSxFoTEO7ESn.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1228545,
+        "original_language": "cn",
+        "original_title": "反貪風暴之加密危機",
+        "overview": "Lok is the Chief Investigation Director of the Independent Commission Against Corruption (ICAC). Ordered by his superior to set up a special team to investigate a corruption case involving a bank's senior executive using cryptocurrency to tamper with the trading market, Lok approaches the cryptocurrency's trading platform software designer Xin for help, hoping to gather evidence internally. During the investigation process, ICAC discovers the bank's finances in ruins, and identifies the suspect as bank executive, Toh. When the chairman of the bank is kidnapped and the ransom demanded is in the form of the crypto coin related to the market tampering, Lok becomes more convinced there is more than meets the eye. When the commercial crime evolves into a criminal case, ICAC vows to bring in the mastermind.",
+        "popularity": 11.918,
+        "poster_path": "/7b7LRWmf6G6Tb8a9sj3WVmNCfsO.jpg",
+        "release_date": "2024-01-25",
+        "title": "Crypto Storm",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rHq6zLJOpb2MbSd7Sc2s61WLoCi.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 1035057,
+        "original_language": "en",
+        "original_title": "Three Day Millionaire",
+        "overview": "A raucous black comedy about a gang of Grimsby Trawler-men who carry out the heist of a lifetime.",
+        "popularity": 11.917,
+        "poster_path": "/oYTsJP7Nhqt20VTFrsC7tVxOL2v.jpg",
+        "release_date": "2022-11-25",
+        "title": "Three Day Millionaire",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6OmzzuGWAa7YgvkbxP6XnvF5VAx.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 1089765,
+        "original_language": "en",
+        "original_title": "Barber",
+        "overview": "Val Barber, a private investigator, is hired by a wealthy widow to find her missing granddaughter. Set in Dublin against the background of a global pandemic, Barber’s initial investigation into Sara’s disappearance quickly darkens. Secrets start surfacing in unexpected ways. Before too long, Barber finds himself entangled with powerful men of shady morals determined to thwart his investigation.  Has he bitten off more than he can chew?",
+        "popularity": 11.916,
+        "poster_path": "/lO3hGCsGF9SMkgxja1OX1BZh4Qq.jpg",
+        "release_date": "2023-09-22",
+        "title": "Barber",
+        "video": false,
+        "vote_average": 4.423,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 326235,
+        "original_language": "en",
+        "original_title": "Steel Cowboy",
+        "overview": "An independent trucker, trying to keep his marriage alive and his rig out of the hands of bill collectors, agrees to haul a cargo of stolen cattle with his good ol' buddy.",
+        "popularity": 11.915,
+        "poster_path": "/cN8jdwcdbYRNJemry5KeBpzevTo.jpg",
+        "release_date": "1978-12-06",
+        "title": "Steel Cowboy",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rdnZrHFHBkCCfPeXHQgXXItncU3.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 95096,
+        "original_language": "it",
+        "original_title": "Poliziotto sprint",
+        "overview": "Maurizio Merli stars as a hot-shot police driver who has more guts than brains, often landing him in hot water with his middle-aged mentor, who was once a legendary police interceptor responsible for numerous large scale arrests.",
+        "popularity": 11.908,
+        "poster_path": "/2B34tT6bNS4QsPyXrAtLdwFXRiL.jpg",
+        "release_date": "1977-10-19",
+        "title": "Highway Racer",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2JgnbTVpE6kqu1Q9FK6gc1GEQOh.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 20511,
+        "original_language": "es",
+        "original_title": "Crónicas",
+        "overview": "A suspense thriller about a reporter from Miami who travels to Ecuador in pursuit of a serial killer known as the \"Monster of Babahoyo.\"",
+        "popularity": 11.906,
+        "poster_path": "/pPQOC8eyaJmlouI9Il4dCF2iS6E.jpg",
+        "release_date": "2004-05-16",
+        "title": "Crónicas",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rliw4tb3MgL4BU9NrTTCOdwO3PV.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 51488,
+        "original_language": "en",
+        "original_title": "Full Love",
+        "overview": "Military veteran and former mercenary, FRENCHY works as a taxi driver, and hiding in Bangkok, picks up a beautiful female passenger who will change his life forever. When he embarks on a journey to save her he has the fight of his life.",
+        "popularity": 11.904,
+        "poster_path": "/j9H8Pm5C8GzoYn3eNjprfexl3XW.jpg",
+        "release_date": "2010-05-13",
+        "title": "Full Love",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wJjloWiEQ3HJcUFU8gpwK0kdRkM.jpg",
+        "genre_ids": [
+            10770,
+            9648,
+            80,
+            18,
+            10749
+        ],
+        "id": 936897,
+        "original_language": "en",
+        "original_title": "Curious Caterer: Dying for Chocolate",
+        "overview": "Goldy is a spirited single mom who’s thrust into the role of town sleuth to help solve a friend’s mysterious death. With the clock ticking to find the culprit, Goldy strikes up an unlikely partnership with Detective Tom Schultz, who leans into Goldy’s local knowledge. As their relationship shows signs of becoming something more, the suspect list rises. Will Goldy narrow in on the killer before the killer narrows in on her?",
+        "popularity": 11.902,
+        "poster_path": "/7quPRcCVUmMBxKO58QwPuIADtYG.jpg",
+        "release_date": "2022-04-10",
+        "title": "Curious Caterer: Dying for Chocolate",
+        "video": false,
+        "vote_average": 6.767,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/coML7p8C5YUsEDLL4tACUGLXRTQ.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 46428,
+        "original_language": "hi",
+        "original_title": "Gangaajal",
+        "overview": "An honest Superintendent of Police, IPS Amit Kumar, is assigned to a crime infested town to reduce its crime rates. There, he soon learns that cleaning up the town also means confronting the corruption among police and politicians.",
+        "popularity": 11.892,
+        "poster_path": "/ihEE4nyTglmbHp4NSZQHtZtnnmK.jpg",
+        "release_date": "2003-08-29",
+        "title": "Gangaajal",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 60
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5uz6Bz3N3g1xGTafLohTtvXHFgH.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 99846,
+        "original_language": "en",
+        "original_title": "Moonshine County Express",
+        "overview": "The three surviving daughters of a murdered moonshiner band together with a racecar driver to run high-test shine behind the corpulent backs of the local crime syndicate.",
+        "popularity": 11.891,
+        "poster_path": "/jQk3edOod67ggkxlpp26IiyeGUc.jpg",
+        "release_date": "1977-06-01",
+        "title": "Moonshine County Express",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bF8UrpoxdhYwKaCsLyFva0BKMPy.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 537368,
+        "original_language": "ja",
+        "original_title": "実録外伝 大阪電撃作戦",
+        "overview": "Amidst Japan's postwar economic boom, yakuza factions in Osaka fight for survival when Japan's largest crime syndicate plans a hostile takeover.",
+        "popularity": 11.89,
+        "poster_path": "/aESzxaPngVAeyBi5D1FKKNWkRwX.jpg",
+        "release_date": "1976-01-31",
+        "title": "Operation Plazma in Osaka",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wLHQ13c9pSa1Ds9Oo4uBulVa6E2.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            10749,
+            53
+        ],
+        "id": 37408,
+        "original_language": "en",
+        "original_title": "Vicki",
+        "overview": "A supermodel gets murdered. While investigating the case the story of a waitress turned glamor girl is revealed.",
+        "popularity": 11.89,
+        "poster_path": "/bwd5pWQhWtqgPkrllE0nsWsFEeG.jpg",
+        "release_date": "1953-10-05",
+        "title": "Vicki",
+        "video": false,
+        "vote_average": 5.412,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6VGBULr5lfEHEez5REk6MDTszSI.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 10844,
+        "original_language": "en",
+        "original_title": "Out of the Blue",
+        "overview": "Ordinary people find extraordinary courage in the face of madness. On 13–14 November 1990 that madness came to Aramoana, a small New Zealand seaside town, in the form of a lone gunman with a high-powered semi-automatic rifle. As he stalked his victims the terrified and confused residents were trapped for 24 hours while a handful of under-resourced and under-armed local policemen risked their lives trying to find him and save the survivors. Based on true events.",
+        "popularity": 11.89,
+        "poster_path": "/pbn9SiymMpRGRQtZrm9AxTOT7Eg.jpg",
+        "release_date": "2006-10-12",
+        "title": "Out of the Blue",
+        "video": false,
+        "vote_average": 6.423,
+        "vote_count": 65
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aXDiN09MD3XXCRI0rhJcxtL4s69.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 115724,
+        "original_language": "en",
+        "original_title": "Do You Know Me",
+        "overview": "Ellie Carter is recently graduated and has it all. While celebrating with friend and boyfriend, she comes across a milk carton with a picture of a missing child that looks a lot like her. As a prank, they call the toll free number and she realizes that this person could be her. The more she finds out, the closer she gets to getting herself and beloved ones killed.",
+        "popularity": 11.886,
+        "poster_path": "/uY2yDcBvTl86RJ6Qg3sBsrYBMBi.jpg",
+        "release_date": "2009-05-17",
+        "title": "Do You Know Me",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fE0Xmb0GaAm1R5NkrMuPezjoGwS.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 70829,
+        "original_language": "ko",
+        "original_title": "The Last Godfather",
+        "overview": "Young-goo the son of mafia boss Don Carini, is too foolish to be part of the mafia elite. One day, Young-goo comes to his father and is trained by Tony V to be his father's successor. A few days later, Young-goo accidentally rescues Nancy, the only daughter of Don Bonfante, the boss of a rival mafia family. But Vinnie, an under-boss of the Bonfante family kidnapped her and fabricates that Young-goo has taken her. Vinnie's behavior provokes an armed conflict between the two families.",
+        "popularity": 11.879,
+        "poster_path": "/zLcKGxKn8qgrGaUZAWZY3Nvi5fr.jpg",
+        "release_date": "2010-12-29",
+        "title": "The Last Godfather",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cYM6uKCw4YPm82kYpUu7xDrWXF7.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            27
+        ],
+        "id": 18096,
+        "original_language": "en",
+        "original_title": "The Gray Man",
+        "overview": "In the late 1920s, Albert Fish, a seemingly benevolent father and grandfather who reared his family by himself after his wife deserted them, turns out to be a serial child molester and murderer. Based on a true story.",
+        "popularity": 11.874,
+        "poster_path": "/mAUCnj5F9YXfsuvdXI6VB5JCJ3t.jpg",
+        "release_date": "2007-08-30",
+        "title": "The Gray Man",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pDVCpfNn6ef7pKH9HRC2uHpBd55.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 16851,
+        "original_language": "ja",
+        "original_title": "スケバン刑事 コードネーム=麻宮サキ",
+        "overview": "Recruited by a clandestine police organization, \"K\" must stop a plot by student radicals to create anarchy in Japan. Armed with a hi-tech steel yo-yo, and a new name (Asamiya Saki), she must infiltrate an elite high school to find the terrorists but finds an even more sinister plan is about to unfold.",
+        "popularity": 11.874,
+        "poster_path": "/atuLBXMZmLljTVIoZAhsa1XzXkd.jpg",
+        "release_date": "2006-09-30",
+        "title": "Yo-Yo Girl Cop",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xrpQgSR7FNkswiWnIW3EI5DA5uy.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 39979,
+        "original_language": "it",
+        "original_title": "Il grande racket",
+        "overview": "Nico Palmieri is a police inspector who battles a criminal gang terrorizing a sleepy Italian town, extorting cash from the local merchants. With the threat of violence, no one dares to act, except for a restaurant owner who is forced by Palmieri to tell the truth.",
+        "popularity": 11.873,
+        "poster_path": "/jHu6pYgsZet46bCGYfIreLx1FCj.jpg",
+        "release_date": "1976-08-12",
+        "title": "The Big Racket",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ddN1VJM2Vz7PupsiLxLx458FEkM.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 115572,
+        "original_language": "ja",
+        "original_title": "ゼロの焦点",
+        "overview": "One week into newlywed Teiko Uhara's marriage, her husband, Kenichi, leaves on a short business trip and never returns. Teiko travels across Japan to search for him, and along the way discovers some surprising facts about her husband's past. With only a pair of old photographs among his belongings to go off of, Teiko tries to figure out what has happened to him.",
+        "popularity": 11.87,
+        "poster_path": "/seEfKtKiZoKFhreYB4ccI1gEZbu.jpg",
+        "release_date": "1961-03-19",
+        "title": "Zero Focus",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kZLZXBafZs0Jx0jvR98MYVtrPOT.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 15640,
+        "original_language": "de",
+        "original_title": "Mord ist mein Geschäft, Liebling",
+        "overview": "A hit man whose mission is to prevent the printing of a tell-all book written by a former Mafioso, falls in love with the employee who may lose her job if the book doesn't get published.",
+        "popularity": 11.869,
+        "poster_path": "/cmB9lxrLPgeHeeJEz3Rf7YVzon3.jpg",
+        "release_date": "2009-02-26",
+        "title": "Killing Is My Business, Honey",
+        "video": false,
+        "vote_average": 6.648,
+        "vote_count": 44
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/23QNbNnQKFZ4FSm8qSeOzFZIUYz.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 51933,
+        "original_language": "en",
+        "original_title": "Handsome Harry",
+        "overview": "An ex-Navy man carrying out the last wish of a dying shipmate renews contact with old friends to break the code of silence around a mysterious, long-buried crime.",
+        "popularity": 8.588,
+        "poster_path": "/bkM7PavmHTUrX5DWKFICZUYVJ32.jpg",
+        "release_date": "2009-04-25",
+        "title": "Handsome Harry",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/usDjiPYDlKbFTd8Eh3gczNuQrbU.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 599796,
+        "original_language": "hi",
+        "original_title": "Setters",
+        "overview": "A thriller set in Benares, Jaipur, Mumbai and Delhi, Setters is about a racket profiteering from academic scams. The film follows a cat-and-mouse game between two good friends: one a cop, and the other a \"setter\" who arranges brilliant students in place of weak students to appear in examinations.",
+        "popularity": 8.586,
+        "poster_path": "/GtvvTDi3KCGf30k4LLzWZLn5J7.jpg",
+        "release_date": "2019-05-03",
+        "title": "Setters",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 58014,
+        "original_language": "it",
+        "original_title": "Certi bambini",
+        "overview": "Rosario is 11 years old, he lives in the suburbs with his grandmother, a sick woman who spends time watching TV. He is the leader of a small group who spends his days between games rooms, small crimes and dangerous challenges.",
+        "popularity": 8.586,
+        "poster_path": "/AvBzax7SkRqyc6kVGKiFpsu3BPS.jpg",
+        "release_date": "2004-05-14",
+        "title": "A Children's Story",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 259986,
+        "original_language": "en",
+        "original_title": "Alone in the Neon Jungle",
+        "overview": "A by-the-book female police officer is assigned to the most corrupt precinct in Pittsburgh and told to get it cleaned up.",
+        "popularity": 8.585,
+        "poster_path": "/ygv149UNbXpABrwjiFf8Hfz7xBM.jpg",
+        "release_date": "1988-01-17",
+        "title": "Alone in the Neon Jungle",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nlzZezRgkn4p9jUcfhnmbMyNr2a.jpg",
+        "genre_ids": [
+            10770,
+            18,
+            80
+        ],
+        "id": 741862,
+        "original_language": "ja",
+        "original_title": "疑惑",
+        "overview": "Sahara Takako is a lawyer who specialises in civil cases. She hates to lose and will use whatever means necessary to pursue the truth. Despite her competence, she is mocked as a rotten lawyer for defending companies that exploit their employees and winning many of these lawsuits. One day, Takako gets an unexpected request from a veteran lawyer, Harayama Masao. He would like her to take over the defence of a woman because he is in poor health and needs to be hospitalised. This woman is Shirakawa Kumako, who has been in the public eye. Called “Onikuma” by the public, which is a play on her maiden name, Onizuka, she faces charges of killing her husband Fukutaro, the owner of an established Atami restaurant, for insurance money.",
+        "popularity": 8.584,
+        "poster_path": "/vBNx3HoaiBOHXQgQkJTMEREhEX4.jpg",
+        "release_date": "2019-02-03",
+        "title": "Giwaku",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7K8s7hfMdHcs0nT78NHtyd6dwiM.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 37043,
+        "original_language": "en",
+        "original_title": "Double Agent 73",
+        "overview": "Underworld drug king Toplar is flooding the market with low-grade heroin. Agent 99 gets a bit too close to the truth, but manages to gasp out a clue as to the identity of Toplar: he has a scar. Jane (Agent 73) is called in to find Toplar, and gets a camera implanted in her breast in order to photograph the bad guys she dispatches so headquarters will be able to identify Toplar when she finds him. Meanwhile she begins falling in love with fellow agent Jim.",
+        "popularity": 8.584,
+        "poster_path": "/bNPvzesRWZ3iMCSveUr76zadB0q.jpg",
+        "release_date": "1974-01-01",
+        "title": "Double Agent 73",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            18,
+            10770,
+            80
+        ],
+        "id": 175957,
+        "original_language": "en",
+        "original_title": "Brotherhood of Murder",
+        "overview": "Set against the backdrop of the true story of the largest cash robbery in the history of the USA.",
+        "popularity": 8.583,
+        "poster_path": "/4lmxj4tIZb1NjhI4IPRcBejoiI3.jpg",
+        "release_date": "1999-12-12",
+        "title": "Brotherhood of Murder",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ucqLrFT8AJHVJmVePeE9oCLPfmh.jpg",
+        "genre_ids": [
+            18,
+            53,
+            9648,
+            80,
+            10770
+        ],
+        "id": 89463,
+        "original_language": "en",
+        "original_title": "Perry Mason: The Case of the Sinister Spirit",
+        "overview": "Jordan White, a publisher friend of Perry, is called to a hotel where a guest, famous horror writer David Hall, has cleared out the hotel for a weekend and has called his \"friends\" - an actress, a fortune-teller, David's private assistant and the two remaining staff at the hotel to discuss business. They have come to the hotel as all of them are going to sue David over his new book - \"The Resort\" which characters are obviously based on Jordan and the guests. A practical joker, David plays tricks on them until he is thrown from the high tower of the hotel where Susan Warrenfield, the manager and owner of the hotel sees the fall and then Jordan at the tower causing the police to arrest Jordan. While Perry and Della try to solve the main mystery, Paul tries to find out who is trying to scare Susan away from the hotel. Could it really be a ghost or a more earthy visitor?",
+        "popularity": 8.583,
+        "poster_path": "/1jhx6PXigL8IcLlDdFJEr3CbFl6.jpg",
+        "release_date": "1987-05-24",
+        "title": "Perry Mason: The Case of the Sinister Spirit",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1288566,
+        "original_language": "ja",
+        "original_title": "血染めの代紋 喧嘩組",
+        "overview": "",
+        "popularity": 8.582,
+        "poster_path": "/dohPJWmjukCWXW20FAmqIdtnRDC.jpg",
+        "release_date": "1998-09-25",
+        "title": "Bloody Crest: Kenka-Gumi",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 372682,
+        "original_language": "cs",
+        "original_title": "13. revír",
+        "overview": "Inspector Cadek from the 13th police station should keep an eye on the released safe-cracker nicknamed The Cat. He rightly suspects that Cat will go and pick up his last loot which the police didn't manage to find and that he will want revenge on Karta who helped get him behind bars. At the hospital, Cat's ex-lover Fróny hopelessly falls for doctor Chrudimský and decides to start a new life. She still refuses to help the inspector in his search for The Cat and Karta.",
+        "popularity": 8.581,
+        "poster_path": "/aXC1ac5DPO7h0oPNKEmpGbGZf4q.jpg",
+        "release_date": "1946-03-08",
+        "title": "13th district",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qjDXXdJgKDowHc7UZbxjKhc8GW.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 364392,
+        "original_language": "cn",
+        "original_title": "金榜題名",
+        "overview": "Fai Chuen is a young man who wants to rise in the triad of Hong Kong. He's tough; he's respected by his friends; he loves Apple, daughter of his boss in the small-time Hung Lok gang in Wanchai; and, he encourages the studies of Chun, the son of his mother's closest relative. When Chuen comes to the attention of Piu, a top triad boss, the Hung Lok gang is assigned a hit; Chuen commits the murder and then is frustrated when Apple's father takes the fall. Chuen's cockiness gets him in trouble again when he disobeys Piu to revenge a friend's death. Chuen, who's reached the police bulletin board's most wanted, is now expendable. Can he and Apple escape to the Mainland?",
+        "popularity": 8.581,
+        "poster_path": "/6ApeDgFlx2XCH6oCT2kY6TPcZri.jpg",
+        "release_date": "1996-08-17",
+        "title": "To Be No. 1",
+        "video": false,
+        "vote_average": 6.75,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8nvqKkqXb0YpTyabjKtXI8J03Kz.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 44005,
+        "original_language": "en",
+        "original_title": "The Great Texas Dynamite Chase",
+        "overview": "Candy and Ellie Jo are a pair of sexy bank robbers who blast their way into small-town banks with a carload of dynamite! When they take Slim hostage, it begins a thrill-packed crime spree across the state of Texas.",
+        "popularity": 8.581,
+        "poster_path": "/hS4ToJrIwMrS39iw7rbddXo9NTF.jpg",
+        "release_date": "1976-07-01",
+        "title": "The Great Texas Dynamite Chase",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b1jZN94IqftSi7miCikwhcETjNV.jpg",
+        "genre_ids": [
+            80,
+            53,
+            10749
+        ],
+        "id": 947271,
+        "original_language": "en",
+        "original_title": "Replica",
+        "overview": "Tonya, an African American trans woman has journeyed cross-country from her small Mississippi hometown to California in pursuit of her dream to be an actress. While en route to Los Angeles, she accidentally gets stranded in the suburbs of Los Angeles and becomes engulfed in a gritty world after being introduced to Mickey, a Neo-Nazi low-level meth dealer. But to both of their surprise, they begin falling in love just as they find themselves the prey of some ruthless drug dealers.",
+        "popularity": 8.58,
+        "poster_path": "/7Z78SQeemXwTzcdoHorRYdjkJPk.jpg",
+        "release_date": "2023-09-22",
+        "title": "Replica",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u8je2ja7jxTqJU3hiSXTlkUE4lf.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            14
+        ],
+        "id": 496208,
+        "original_language": "es",
+        "original_title": "27: El club de los Malditos",
+        "overview": "Following the death of a musician under suspicious circumstances, a researcher and a music fan examine why rock stars often die at 27.",
+        "popularity": 8.579,
+        "poster_path": "/AoiISMdxbHIG6jqp3pFNLd4O50M.jpg",
+        "release_date": "2018-01-04",
+        "title": "27: The Cursed Club",
+        "video": false,
+        "vote_average": 3.909,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yZhauYuoolJHsscx9FwBidr4trr.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 27113,
+        "original_language": "en",
+        "original_title": "Public Hero Number 1",
+        "overview": "G-Man Jeff Crane poses as a crook to infiltrate the notorious Purple Gang, a band of hoodlums which preys upon other hoodlums. Orchestrating the jailbreak of the gang's leader, Crane joins him in a Dillinger-like flight across the country.",
+        "popularity": 8.579,
+        "poster_path": "/vCtuzMTh2XMhdWtO8NeyJ5UJxXU.jpg",
+        "release_date": "1935-05-31",
+        "title": "Public Hero Number 1",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jvMtXLPIvtPeWOxRuZWF4kt79cj.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 56212,
+        "original_language": "ru",
+        "original_title": "Кочегар",
+        "overview": "A shell-shocked Afghanistan war hero named Ivan Skryabin (Mikhail Skryabin) spends his days stoking the fire in a giant coal furnace. When he isn’t tending the flames, he keeps busy with other activities. He works on a historical novel. His adult daughter Sasha (Aida Tumutova) comes to visit. Local kids come to gaze at the flames. Gangsters, including a former Army sergeant (Aleksandr Mosin) and a sniper known as Bison (Yuri Matveyev), drop by to add special kindling to the fire.",
+        "popularity": 8.576,
+        "poster_path": "/abKIegM6cNpG34I1C4Yzsrj9zcE.jpg",
+        "release_date": "2010-10-13",
+        "title": "The Stoker",
+        "video": false,
+        "vote_average": 6.316,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7vhPz2ThhZjSp4xTI5HPjFtwI8z.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 13959,
+        "original_language": "pt",
+        "original_title": "Call Girl",
+        "overview": "A powerful entrepreneur wants to build an exclusive resort hotel in Villanova, but he discovers the location he has in mind is protected by local land-use regulations. He hires Maria, a beautiful and elegant prostitute, to seduce the mayor, leaving him open to blackmail if he won't give the entrepreneur what he wants. Maria has no trouble twisting Meireles around her finger, but police detectives Madeira and Neves get wind of the plan and set out to expose the plot...",
+        "popularity": 8.573,
+        "poster_path": "/p4zKW6OFl2CLqHZ7xkw8aTw390w.jpg",
+        "release_date": "2007-12-27",
+        "title": "Call Girl",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1302642,
+        "original_language": "en",
+        "original_title": "Dragnet: Sticks and Stones",
+        "overview": "A high school student is murdered in a satanic ritual.",
+        "popularity": 8.572,
+        "poster_path": null,
+        "release_date": "2003-03-30",
+        "title": "Dragnet: Sticks and Stones",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wHkMyKaQOqxYRvB0Fu333tGQVG3.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 158935,
+        "original_language": "en",
+        "original_title": "Double Danger",
+        "overview": "A crime novelist devises a scheme to catch the thief who has stolen the valuable \"Konjer Diamonds\". Director Lew Landers' 1938 B-film stars Preston Foster, Whitney Bourne, Cecil Kellaway, Donald Meek, Samuel S. Hinds, Arthur Lake, Paul Guilfoyle and June Johnson.",
+        "popularity": 8.57,
+        "poster_path": "/950c5L9UsTTusMVvbveppokhN0N.jpg",
+        "release_date": "1938-01-28",
+        "title": "Double Danger",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sVRxf1YMGEUkIHmiyTnCyHEMNxw.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 205680,
+        "original_language": "en",
+        "original_title": "Tiger Claws III",
+        "overview": "When a psychotic martial artist called Stryker resurrects the long-dead spirits of three ancient Chinese master assassins in an effort to take over the New York underworld, it's up to supercops Tarek Richards and Linda Masterson to stop him. However, it's not so easy to battle the undead, and though Richards apparently holds within him the key to defeating these \"Masters\", he will need the guidance of Stryker's former master to aid him... let the battle begin.",
+        "popularity": 8.569,
+        "poster_path": "/be2r6APp3ot1EQ2YRAksmBQ7Pgk.jpg",
+        "release_date": "1999-05-12",
+        "title": "Tiger Claws III",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 17
+    }
+]

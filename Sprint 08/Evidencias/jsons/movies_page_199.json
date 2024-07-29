@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/5ExM0uuZimIiGc7n8xm9onPKiIC.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 28772,
+        "original_language": "cn",
+        "original_title": "旺角黑夜",
+        "overview": "A gangster's son is accidentally killed during a drunken dispute with a rival gang, and Officer Milo's task force is assigned to the case. He soon learns that a hitman has been hired to take out the rival gang leader. While Milo and his crew desperately try to find and stop the hired gun, fearing all-out war in the streets, Lai Fu, a smart but inexperienced killer from a small town in the mainland, arrives in Hong Kong to do his job.",
+        "popularity": 14.542,
+        "poster_path": "/1LFv4ZmWZeM56f5swPgcWABTZ8w.jpg",
+        "release_date": "2004-05-10",
+        "title": "One Nite in Mongkok",
+        "video": false,
+        "vote_average": 6.83,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sZxFoGDNhSGILUPtZuP2R4sJbaW.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 42690,
+        "original_language": "fr",
+        "original_title": "Diaboliquement vôtre",
+        "overview": "A wealthy amnesiac begins to suspect that his devoted wife is not really his wife and that he is not the man people keep telling him he is.",
+        "popularity": 14.54,
+        "poster_path": "/tdPqj0iGJn7tBTZ3AJS1RRkRo8b.jpg",
+        "release_date": "1967-12-22",
+        "title": "Diabolically Yours",
+        "video": false,
+        "vote_average": 6.037,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5ZXe7cXcD60zFhRZ17NZtbf4j4z.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 7281,
+        "original_language": "de",
+        "original_title": "Der Wixxer",
+        "overview": "A mysterious serial killer is shocking the underworld. Scotland Yard is investigating the case. Clues lead the detectives to Blackwhite Castle.",
+        "popularity": 14.535,
+        "poster_path": "/kQv2mDC2tMCrEVKrZkZvKh7wKxh.jpg",
+        "release_date": "2004-05-20",
+        "title": "The Trixxer",
+        "video": false,
+        "vote_average": 6.401,
+        "vote_count": 203
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c8777j87rV22k8IOwfXUxcsOc7d.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 35225,
+        "original_language": "en",
+        "original_title": "Lone Star State of Mind",
+        "overview": "Earl and Baby, two young lovers with a plan to escape their small Texas town. But when Baby's dim-witted cousin Junior gets tangled up in a whole heap of trouble, Earl has just 48 hours to save the day, rescue Junior and keep his promise to get his Baby to Los Angeles in time for sweeps.",
+        "popularity": 14.534,
+        "poster_path": "/kWCFRsPrld9wcyf6251G06mLDJ2.jpg",
+        "release_date": "2002-04-23",
+        "title": "Lone Star State of Mind",
+        "video": false,
+        "vote_average": 5.523,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zlnim8fvgMbYmAVpLgnogwgyy8X.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 41670,
+        "original_language": "en",
+        "original_title": "A Stranger Among Us",
+        "overview": "Detective Emily Eden is a tough New York City cop forced to go undercover to solve a puzzling murder. Her search for the truth takes her into a secret world of unwritten law and unspoken power, a world where the only way out is deeper in.",
+        "popularity": 14.529,
+        "poster_path": "/t9V1cE3PzlK0syDD2HzrUiUpIRV.jpg",
+        "release_date": "1992-07-17",
+        "title": "A Stranger Among Us",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 92
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rNwXyaHjSBxfKWzb3e1VSLzUdaj.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 14262,
+        "original_language": "en",
+        "original_title": "Desperate Living",
+        "overview": "After killing her husband, Peggy Gravel and her murderous maid Grizelda, wind up in the crazy town of Mortville, where Queen Carlotta presides over a sleazy collection of misfits.",
+        "popularity": 14.529,
+        "poster_path": "/mEEa4FKZ3S0VlfVDvU0SZOoOYkB.jpg",
+        "release_date": "1977-05-27",
+        "title": "Desperate Living",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kToac37LEGYzfmL87uc4YQWOadG.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 465929,
+        "original_language": "en",
+        "original_title": "Back Roads",
+        "overview": "A young man cares for his younger sisters after their mother is imprisoned for murdering their abusive father. When he strikes up an affair with a married woman, long-dormant family secrets bubble to the surface.",
+        "popularity": 14.526,
+        "poster_path": "/va3CVH59k7b79JLl4t2TLJAh0fZ.jpg",
+        "release_date": "2019-11-15",
+        "title": "Back Roads",
+        "video": false,
+        "vote_average": 6.025,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/j5xf8IXutYHSfTS3hlnhXrn7kUX.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            53
+        ],
+        "id": 25915,
+        "original_language": "en",
+        "original_title": "Shockproof",
+        "overview": "Jenny Marsh, recently released from prison for killing a man, finds herself under the watchful eye of her parole officer, Griff Marat, who helps her secure a job caring for his ailing mother.",
+        "popularity": 14.526,
+        "poster_path": "/dN60rm7b2g2RuCB8D6yVU98LLE3.jpg",
+        "release_date": "1949-01-25",
+        "title": "Shockproof",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rsvJrcEn0DHKLLb37eKPVF0394Z.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 21594,
+        "original_language": "en",
+        "original_title": "The Blue Gardenia",
+        "overview": "Upon waking up to the news that the man she’d gone on a date with the previous night has been murdered, a young woman with only a faint memory of the night’s events begins to suspect that she murdered him while attempting to resist his advances.",
+        "popularity": 14.523,
+        "poster_path": "/1RwM1jUx5XV4Q9DxcOVubmk5laH.jpg",
+        "release_date": "1953-03-20",
+        "title": "The Blue Gardenia",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8skpuiVnIZNpXkHyjoCUUaYkxjL.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            80
+        ],
+        "id": 80441,
+        "original_language": "it",
+        "original_title": "A ciascuno il suo",
+        "overview": "A leftist professor wants the truth about two men killed during a hunting party; but the mafia, the Church and corrupt politicians don't want him to learn it.",
+        "popularity": 14.521,
+        "poster_path": "/tBRjeDnVLWIrtMmNq25hKBzGEQ4.jpg",
+        "release_date": "1967-02-24",
+        "title": "We Still Kill the Old Way",
+        "video": false,
+        "vote_average": 6.647,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3Xa2dtCHkCuzGQm8z2q0QjXQoUO.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 51179,
+        "original_language": "en",
+        "original_title": "Circus",
+        "overview": "Bruno, a sadistic criminal, wants clever con man Leo out of the way. Leo and his equally clever wife, Lily, are up to something. So too is Julius: he hires Leo to kill Gloria, Julius's wife. Leo does it, but then Julius shows up with the murder on tape, saying Gloria isn't his wife - it's blackmail. Leo's bookie, Troy, is also closing in, wanting to be paid. Bruno and Lily as well as Bruno and Julius have their own scams running, and Leo is their target. Maybe Leo can get Troy off his back, avoid Moose (Bruno's huge enforcer), send Gloria's corpse out of England, turn the tables on Bruno's murderous brother Caspar, and outfox Lily. Or is Lily his fox? It's a three-ring circus.",
+        "popularity": 14.521,
+        "poster_path": "/ueuu6NbMuypthtEFXOM4hOIRpu7.jpg",
+        "release_date": "2000-05-05",
+        "title": "Circus",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iD5WzA6cJso1IGtqkigjHfPJrRd.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 110754,
+        "original_language": "en",
+        "original_title": "Ransom!",
+        "overview": "A rich man stuns his wife and town with a televised threat to his son's kidnapper.",
+        "popularity": 14.518,
+        "poster_path": "/tGUnq66x7XUPuIub0CffD6IsrI5.jpg",
+        "release_date": "1956-01-24",
+        "title": "Ransom!",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xRyu3WKWBATP8T4afJ5vArNlElB.jpg",
+        "genre_ids": [
+            35,
+            9648,
+            80
+        ],
+        "id": 14588,
+        "original_language": "en",
+        "original_title": "After the Thin Man",
+        "overview": "Nick and Nora Charles investigate when Nora's cousin reports her disreputable husband is missing, and find themselves in a mystery involving the shady owners of a popular nightclub, a singer and her dark brother, the cousin's forsaken true love, and Nora's bombastic and controlling aunt.",
+        "popularity": 14.516,
+        "poster_path": "/1fkCHOffEkPOY0UwSrvzG6YKDVp.jpg",
+        "release_date": "1936-12-25",
+        "title": "After the Thin Man",
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 156
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g436mkEJMcN4pzFt8i7o2hGXMfx.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 32163,
+        "original_language": "ko",
+        "original_title": "미스터 소크라테스",
+        "overview": "A low-life scumbag gets kidnapped by a mysterious gang and put through inhumane training to become a mole inside the police force.",
+        "popularity": 14.514,
+        "poster_path": "/4TefGdpJjSBgtQs2GVGdT3dV0lz.jpg",
+        "release_date": "2005-11-11",
+        "title": "Mr. Socrates",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/A2Y2UO3wzAf7fKBMtByFXKyRYjB.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 1184728,
+        "original_language": "ja",
+        "original_title": "ゴールド・ボーイ",
+        "overview": "It was supposed to be a perfect crime... until it was witnessed. Based on a Chinese drama series with two billion total views, the film depicts a psychological battle between a murderer and three kids.",
+        "popularity": 14.509,
+        "poster_path": "/3ZRNZA9UpUgXKhWxFTPCCmPeB2O.jpg",
+        "release_date": "2024-03-08",
+        "title": "Gold Boy‎",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bRJw7IYsJIiPyWePSiiHNstmeJz.jpg",
+        "genre_ids": [
+            80,
+            27,
+            53
+        ],
+        "id": 24499,
+        "original_language": "en",
+        "original_title": "Scar",
+        "overview": "Joan Burrows returns to her hometown for her niece's graduation, only to be confronted by the serial killer she thought she offed years ago -- after he kidnapped and tormented her and her best friend.",
+        "popularity": 14.507,
+        "poster_path": "/rGriXcu1LouvATDIE5AqUvEcs1W.jpg",
+        "release_date": "2007-05-19",
+        "title": "Scar",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 65
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ysrAs9oomt7omDhICmM2XUNKYrw.jpg",
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 328216,
+        "original_language": "en",
+        "original_title": "Be My Cat: A Film for Anne",
+        "overview": "An aspiring filmmaker goes to shocking extremes to convince Hollywood actress Anne Hathaway to star in his film. First entry in Adrian Țofei's trilogy which includes We Put the World to Sleep and Pure.",
+        "popularity": 14.505,
+        "poster_path": "/n03Okhxq86AqTbqrVvt8mu2OWYO.jpg",
+        "release_date": "2015-03-01",
+        "title": "Be My Cat: A Film for Anne",
+        "video": false,
+        "vote_average": 6.394,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oGEZcAYqevJvRVqZvu3ulZ1w5n9.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 15075,
+        "original_language": "en",
+        "original_title": "One Last Thing...",
+        "overview": "Sixteen-year-old Dylan is dying of cancer. When a charitable organization offers to grant Dylan his final wish, the teen has a surprising request: to meet supermodel Nikki Sinclair. Much to his mother's dismay, Dylan, with the help of his best friends, goes to New York to fulfill his dream.",
+        "popularity": 14.504,
+        "poster_path": "/wjyod5CrKYCZnEGvf8ZkxhLOTk6.jpg",
+        "release_date": "2005-09-12",
+        "title": "One Last Thing...",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bMiFh8hDxZt75hbkBfXcoOg34NO.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            18
+        ],
+        "id": 93550,
+        "original_language": "en",
+        "original_title": "Drew Peterson: Untouchable",
+        "overview": "The story of Drew Peterson, who is charged with the death of his third wife after the mysterious disappearance of his fourth wife.",
+        "popularity": 14.503,
+        "poster_path": "/gZWjUpv5AHQmcAhd8hI3MnFVafW.jpg",
+        "release_date": "2014-01-29",
+        "title": "Drew Peterson: Untouchable",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5XRQPA2Z4dmVi7tjaMDae8jIzun.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 285024,
+        "original_language": "en",
+        "original_title": "Heaven Knows What",
+        "overview": "A young heroin addict roams the streets of New York to panhandle and get her next fix, while her unstable boyfriend drifts in and out of her life at random.",
+        "popularity": 14.502,
+        "poster_path": "/E1MMMNAd01p3nMkUIB6eFtB57J.jpg",
+        "release_date": "2015-05-29",
+        "title": "Heaven Knows What",
+        "video": false,
+        "vote_average": 6.506,
+        "vote_count": 156
+    }
+]

@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/x0eVAQeg2XplCx8MQlvhtejtVag.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 21052,
+        "original_language": "en",
+        "original_title": "Levity",
+        "overview": "Manuel Jordan is a man who is free after serving 23 years for killing a teenager during an attempted robbery. After nearly two decades of staring at his victim's face on a newspaper clipping in his cell, the newly paroled man seeks redemption. Instead, redemption—in the form of a mysterious minister and two needy women— finds him.",
+        "popularity": 21.398,
+        "poster_path": "/pLmF3LChsgxkF6dCBN0aHJR91Gu.jpg",
+        "release_date": "2003-03-16",
+        "title": "Levity",
+        "video": false,
+        "vote_average": 6.179,
+        "vote_count": 98
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fGO5t8nL2WemqtnzOLh7dlxlVvV.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "id": 10551,
+        "original_language": "en",
+        "original_title": "Family Business",
+        "overview": "Jessie is an aging career criminal who has been in more jails, fights, schemes, and lineups than just about anyone else. His son Vito, while currently on the straight and narrow, has had a fairly shady past and is indeed no stranger to illegal activity. They both have great hope for Adam, Vito's son and Jessie's grandson, who is bright, good-looking, and without a criminal past.",
+        "popularity": 21.372,
+        "poster_path": "/9HhRk8eUjxUf0CDHTS9YcUk8TTB.jpg",
+        "release_date": "1989-12-06",
+        "title": "Family Business",
+        "video": false,
+        "vote_average": 5.696,
+        "vote_count": 235
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eu3QfEY8SU1fJj8Iz6yOC7g5E1I.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            10770
+        ],
+        "id": 577091,
+        "original_language": "en",
+        "original_title": "Mystery 101",
+        "overview": "When a college student is found dead, English professor Amy uses her crime fiction expertise to unravel the case faster than detective Travis, who ends up working with Amy to catch the killer.",
+        "popularity": 21.37,
+        "poster_path": "/uC8yqYQsylFEqB2OGDIGmspBw2i.jpg",
+        "release_date": "2019-01-27",
+        "title": "Mystery 101",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3Vo3UT8cTa6lVgrFAT8B86FXblu.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 835112,
+        "original_language": "en",
+        "original_title": "Ted Bundy: American Boogeyman",
+        "overview": "Set in a gritty and decadent 1970s America, American Boogeyman follows the elusive and charming killer and the manhunt that brought him to justice involving the detective and the FBI rookie who coined the phrase ‘serial killer’.",
+        "popularity": 21.359,
+        "poster_path": "/1MGcMWgxYPFrBMjIAHcQqmsOIGS.jpg",
+        "release_date": "2021-08-16",
+        "title": "Ted Bundy: American Boogeyman",
+        "video": false,
+        "vote_average": 6.728,
+        "vote_count": 114
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iiq2cWUYblgfvaVn0h3xZMZK65j.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 923632,
+        "original_language": "en",
+        "original_title": "The Tinder Swindler",
+        "overview": "Posing as a wealthy, jet-setting diamond mogul, an Israeli conman wooed women online then conned them out of millions of dollars. Now some victims plan for payback.",
+        "popularity": 21.356,
+        "poster_path": "/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
+        "release_date": "2022-02-02",
+        "title": "The Tinder Swindler",
+        "video": false,
+        "vote_average": 7.004,
+        "vote_count": 945
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v9yXidPSqTjTDutxcBTnRqfDSpO.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 868,
+        "original_language": "tn",
+        "original_title": "Tsotsi",
+        "overview": "The South African multi-award winning film about a young South African boy from the ghetto named Tsotsi, meaning Gangster. Tsotsi, who left home as a child to get away from helpless parents, finds a baby in the back seat of a car that he has just stolen. He decides that it his responsibility to take care of the baby and in the process learns that maybe the gangster life isn’t the best way.",
+        "popularity": 21.349,
+        "poster_path": "/fvPGF7NYuZJACYVRAAF3FXicVf0.jpg",
+        "release_date": "2005-12-23",
+        "title": "Tsotsi",
+        "video": false,
+        "vote_average": 6.929,
+        "vote_count": 312
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3UddZry7Pl5bTNatD008pxOJhrW.jpg",
+        "genre_ids": [
+            28,
+            53,
+            14,
+            80
+        ],
+        "id": 57585,
+        "original_language": "en",
+        "original_title": "Elephant White",
+        "overview": "An assassin is hired by a businessman to avenge the murder of his daughter by white slave traders in Thailand.",
+        "popularity": 21.348,
+        "poster_path": "/hqriJWWisRhm5XapyuB40D1jqqA.jpg",
+        "release_date": "2011-05-17",
+        "title": "Elephant White",
+        "video": false,
+        "vote_average": 5.005,
+        "vote_count": 181
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mTAqh6n2Ul1fAlMpi25lciDSkV4.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 856433,
+        "original_language": "es",
+        "original_title": "La Soga: Salvation",
+        "overview": "Years after his final job as a highly sought-after hitman, Luisito has settled down with his girlfriend Lia in a quiet seaside town. Unfortunately, they do not enjoy peace for long as Lia is kidnapped by someone who wants Luisito to use his skills one last time. With Lia's life hanging in the balance, Luisito takes on a crew of dangerous killers, including a particularly mysterious assassin who has long awaited the chance to even the score with her rival, La Soga.",
+        "popularity": 21.341,
+        "poster_path": "/wRk6hwsEIIO0BqGH8FIc1Zbf7Wv.jpg",
+        "release_date": "2022-01-28",
+        "title": "La Soga: Salvation",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/e7ALownnual6u8tRmyQN0As7qXO.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 20605,
+        "original_language": "ko",
+        "original_title": "짝패",
+        "overview": "Tae-su, a detective fighting organized crime, returns to his hometown for his high school friend Wang-jae's funeral. There, he meets his old friends Pil-ho, Dong-hwan and Seok-hwan and they reminisce. Suspecting something fishy about Wang-jae's death, Tae-su and Seok-hwan start investigating it, each in his own way. Their investigations lead to a land development project that Pil-ho is directing.",
+        "popularity": 21.339,
+        "poster_path": "/l2W7qEQejWlclNixeG8pbnnekkr.jpg",
+        "release_date": "2006-05-25",
+        "title": "The City of Violence",
+        "video": false,
+        "vote_average": 6.553,
+        "vote_count": 131
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wLHfFCz36xnIooBKVRFt3HDob8V.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770,
+            27
+        ],
+        "id": 17200,
+        "original_language": "en",
+        "original_title": "Helter Skelter",
+        "overview": "The investigation of two horrific mass murders leads to the capture and trial of the psychotic pseudo-hippie Charles Manson and his \"family\".",
+        "popularity": 21.332,
+        "poster_path": "/t2GMGZFT6AKEocASzRRe2yoOkuK.jpg",
+        "release_date": "1976-04-01",
+        "title": "Helter Skelter",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 64
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tWLwgHd3LwSJlavUOFtpt8LLWHD.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 20637,
+        "original_language": "en",
+        "original_title": "Panic",
+        "overview": "Alex is going through a midlife crisis and it has become a very difficult time for him. His marriage is struggling, he's worried about his son, and his job of killing people for his family has become the most stressful part of his life. He seeks the help of a therapist and meets a woman in the waiting room that he connects with.",
+        "popularity": 21.328,
+        "poster_path": "/gCaWBW6qQ0otWliRi0Gs4bAzgDX.jpg",
+        "release_date": "2000-12-01",
+        "title": "Panic",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 104
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ahwvpGrljmcmBTlGH9AogOCs7eW.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80,
+            9648,
+            35
+        ],
+        "id": 758,
+        "original_language": "en",
+        "original_title": "Murder Ahoy",
+        "overview": "During an annual board of trustees meeting, one of the trustees dies. Miss Marple thinks he’s been poisoned after finding a chemical on him. She sets off to investigate at the ship where he had just come from. The fourth and final film from the Miss Marple series starring Margaret Rutherford as the quirky amateur detective.",
+        "popularity": 21.328,
+        "poster_path": "/rfWqXgr0yVz8Ml4JdUEBOmN6KrW.jpg",
+        "release_date": "1964-09-22",
+        "title": "Murder Ahoy",
+        "video": false,
+        "vote_average": 7.02,
+        "vote_count": 126
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4GeA8aWilTOJ1L2GgiQt6v2A7eq.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 1057873,
+        "original_language": "ja",
+        "original_title": "東京リベンジャーズ2 血のハロウィン編 -決戦-",
+        "overview": "The long-awaited sequel to \"Tokyo Revengers\" will be released in two parts, before and after the film. Once again, Hinata is killed in front of Takemichi's very eyes by the now-militarized Tokyo Manjikai.",
+        "popularity": 21.319,
+        "poster_path": "/17ahuDmjPGEtt1TDtZlcdh46ZbB.jpg",
+        "release_date": "2023-06-30",
+        "title": "Tokyo Revengers 2 Part 2: Bloody Halloween - Final Battle",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2yQL8h4Rl2FeQf0KF4433FJezlv.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            10770
+        ],
+        "id": 122734,
+        "original_language": "ja",
+        "original_title": "麒麟の翼 ～劇場版・新参者～",
+        "overview": "A man's body is found under the statue of a winged kirin in the Nihombashi area of Tokyo. A suspect named Yashima has a car accident and falls unconscious while he is attempting to run away. Yashima's lover Kaori comes from Fukushima and tells detectives that he is absolutely not a criminal. Meanwhile, Detective Kyoichiro Kaga's (Hiroshi Abe) investigates and uncovers a point of contact between the dead body and Yashima. A hidden fact of the victim is revealed which even his children did not know about...",
+        "popularity": 21.319,
+        "poster_path": "/5U7p8I2XDVXJKHoWpBrcNv8Hgh8.jpg",
+        "release_date": "2012-01-28",
+        "title": "The Wings of the Kirin",
+        "video": false,
+        "vote_average": 6.032,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gHG1OogmvDJldyi1tjqncjoblKV.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 37557,
+        "original_language": "zh",
+        "original_title": "摇啊摇，摇到外婆桥",
+        "overview": "Shanghai, China, 1930. When young Shuisheng arrives from the countryside, his uncle Liushu puts him at the service of Bijou, the mistress of Laoda, supreme boss of the Tang Triad, constantly threatened by his enemies, both those he knows and those lurking in the shadows.",
+        "popularity": 21.319,
+        "poster_path": "/tzG1UxUSfPACREjgBrsPDRUvneH.jpg",
+        "release_date": "1995-09-14",
+        "title": "Shanghai Triad",
+        "video": false,
+        "vote_average": 6.739,
+        "vote_count": 90
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AvvmBWw7X9Fh6tg1LsHm9KoyXbL.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 3013,
+        "original_language": "en",
+        "original_title": "Bloodline",
+        "overview": "When her father is murdered, a cosmetics heiress becomes the next target of an unknown killer amid the international jet set.",
+        "popularity": 21.314,
+        "poster_path": "/bMiBusE5lhrZN0z4DXHlg3LXkSf.jpg",
+        "release_date": "1979-06-29",
+        "title": "Bloodline",
+        "video": false,
+        "vote_average": 4.681,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5iUTkShTXQYJKFDugCreXaQqOtI.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 20646,
+        "original_language": "ja",
+        "original_title": "新・仁義の墓場",
+        "overview": "A barkeeper saves a Yakuza boss' life and thus makes his way up in the organization. However, his fear of nothing soon causes problems.",
+        "popularity": 21.313,
+        "poster_path": "/eF25E1OUyISJ4fCwkpUdAG3shgM.jpg",
+        "release_date": "2002-06-22",
+        "title": "Graveyard of Honor",
+        "video": false,
+        "vote_average": 6.216,
+        "vote_count": 51
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/71lG0DEg0JrlXsAiBMZfAU6SScM.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 13552,
+        "original_language": "en",
+        "original_title": "The Doom Generation",
+        "overview": "Jordan White and Amy Blue, two troubled teens, pick up an adolescent drifter, Xavier Red. Together, the threesome embarks on a sex- and violence-filled journey through a United States of psychos and quickie marts.",
+        "popularity": 21.312,
+        "poster_path": "/cRzRj2UBvIH8ryWhu5PNL2PzV7j.jpg",
+        "release_date": "1995-10-27",
+        "title": "The Doom Generation",
+        "video": false,
+        "vote_average": 6.372,
+        "vote_count": 242
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2kmAwtw3RqFX0vJq7hKrIkGth1L.jpg",
+        "genre_ids": [
+            53,
+            27,
+            80,
+            18
+        ],
+        "id": 792657,
+        "original_language": "en",
+        "original_title": "Safer at Home",
+        "overview": "Two years into the pandemic, a group of friends throw an online party with a night of games, drinking and drugs. After taking an ecstasy pill, things go terribly wrong and the safety of their home becomes more terrifying than the raging chaos outside.",
+        "popularity": 21.308,
+        "poster_path": "/2mfnSVdDartB6TJ3k7Qyn0zMzKu.jpg",
+        "release_date": "2021-02-26",
+        "title": "Safer at Home",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 143
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9U15pABdYbqDRQrlJNtnjeleCR7.jpg",
+        "genre_ids": [
+            80,
+            35,
+            53
+        ],
+        "id": 253272,
+        "original_language": "en",
+        "original_title": "The Mule",
+        "overview": "In 1983, a naive man is detained by Australian Federal Police with lethal narcotics hidden in his stomach. After being apprehended, ‘The Mule’ makes a desperate choice... to defy his bodily functions and withhold the evidence – literally.",
+        "popularity": 21.308,
+        "poster_path": "/qwMZYSkLofFC27oBeZ1hZWgliXw.jpg",
+        "release_date": "2014-03-10",
+        "title": "The Mule",
+        "video": false,
+        "vote_average": 6.256,
+        "vote_count": 129
+    }
+]

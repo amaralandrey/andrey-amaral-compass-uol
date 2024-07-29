@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/9VEOQvCnd8T8wILgyqjKgyhALw4.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 324542,
+        "original_language": "en",
+        "original_title": "Sleepless",
+        "overview": "Undercover Las Vegas police officer Vincent Downs, who's got a lot of enemies, is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters get T, Downs’ teenage son. In one sleepless night, he will have to rescue his son T (whom they got), evade an internal affairs investigation and bring the kidnappers to justice.",
+        "popularity": 36.871,
+        "poster_path": "/9WkUSY33MDPGmz0vtzbsfaxTHVa.jpg",
+        "release_date": "2017-01-12",
+        "title": "Sleepless",
+        "video": false,
+        "vote_average": 5.924,
+        "vote_count": 1223
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6yoLAbC4wnriSswgz6RCShOYKNg.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 505579,
+        "original_language": "en",
+        "original_title": "Bent",
+        "overview": "On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.",
+        "popularity": 36.86,
+        "poster_path": "/xUqimeu4KzFeqTvblNLvG8Y1DAo.jpg",
+        "release_date": "2018-03-09",
+        "title": "Bent",
+        "video": false,
+        "vote_average": 5.259,
+        "vote_count": 176
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rwfuTHx9pHi40QnWLSiIPtYyQAs.jpg",
+        "genre_ids": [
+            28,
+            878,
+            53,
+            80
+        ],
+        "id": 865,
+        "original_language": "en",
+        "original_title": "The Running Man",
+        "overview": "By 2017, the global economy has collapsed and U.S. society has become a totalitarian police state, censoring all cultural activity. The government pacifies the populace by broadcasting a number of game shows in which convicted criminals fight for their lives, including the gladiator-style The Running Man, hosted by the ruthless Damon Killian, where “runners” attempt to evade “stalkers” and certain death for a chance to be pardoned and set free.",
+        "popularity": 36.819,
+        "poster_path": "/GTAUOhO4BN0peJVvxGEQydJvUO.jpg",
+        "release_date": "1987-11-13",
+        "title": "The Running Man",
+        "video": false,
+        "vote_average": 6.525,
+        "vote_count": 2294
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kxTWssqcwsHqH6Sj2ivu0FHP5QK.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 11782,
+        "original_language": "cn",
+        "original_title": "辣手神探",
+        "overview": "A cop who loses his partner in a shoot-out with gun smugglers goes on a mission to catch them. In order to get closer to the leaders of the ring he joins forces with an undercover cop who's working as a gangster hitman. They use all means of excessive force to find them.",
+        "popularity": 36.78,
+        "poster_path": "/wuljacjo7DCzUzDianeZZwPb6to.jpg",
+        "release_date": "1992-04-16",
+        "title": "Hard Boiled",
+        "video": false,
+        "vote_average": 7.515,
+        "vote_count": 762
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qMxYr1ouVk1AUpXoIZlcEL0K4BD.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            80,
+            53
+        ],
+        "id": 38410,
+        "original_language": "en",
+        "original_title": "The Poughkeepsie Tapes",
+        "overview": "When hundreds of videotapes showing torture, murder and dismemberment are found in an abandoned house, they reveal a serial killer's decade-long reign of terror and become the most disturbing collection of evidence homicide detectives have ever seen.",
+        "popularity": 36.765,
+        "poster_path": "/8ppkhu3pO3fnXr05YeE7ryKloVd.jpg",
+        "release_date": "2007-04-27",
+        "title": "The Poughkeepsie Tapes",
+        "video": false,
+        "vote_average": 6.599,
+        "vote_count": 597
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zYOUXV4XhYm6mhrB5mR6sKUwkIn.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            53
+        ],
+        "id": 541671,
+        "original_language": "en",
+        "original_title": "John Wick Presents: Ballerina",
+        "overview": "A young assassin seeks revenge against the people who killed her family.",
+        "popularity": 36.754,
+        "poster_path": "/9ItMoIgUevdT7L9njGKCZj5uJHn.jpg",
+        "release_date": "2025-06-04",
+        "title": "John Wick Presents: Ballerina",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l7JoZghpEh7rfzc5eRKKUzlv3BY.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 13199,
+        "original_language": "en",
+        "original_title": "American Me",
+        "overview": "During his 18 years in Folsom Prison, street-gang leader Santana rules over all the drug-and-murder activities behind bars. Upon his release, Santana goes back to his old neighborhood, intending to lead a peaceful, crime-free life. But his old gang buddies force him back into his old habits.",
+        "popularity": 36.754,
+        "poster_path": "/eeoK2gRfAxZyYn9SiBgAlzfTiBI.jpg",
+        "release_date": "1992-03-13",
+        "title": "American Me",
+        "video": false,
+        "vote_average": 7.359,
+        "vote_count": 341
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c2S0Zfkg056kkvTFrMeJWDOmKCs.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 3172,
+        "original_language": "en",
+        "original_title": "Bandits",
+        "overview": "After escaping from prison, Joe and Terry go on a crime spree, robbing banks through Oregon and California in order to finance their scheme for a new life south of the border. Unfortunately, things get more complicated when they meet Kate, who runs into them with her car. She joins the bandits on their cross-country spree, and eventually she steals something, too: their hearts.",
+        "popularity": 36.731,
+        "poster_path": "/67AUAkiT4rbgqN7SNlIJn0zWZqU.jpg",
+        "release_date": "2001-10-12",
+        "title": "Bandits",
+        "video": false,
+        "vote_average": 6.267,
+        "vote_count": 945
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7qKauh1rLoLRZn6RjejsTGtGgs7.jpg",
+        "genre_ids": [
+            18,
+            37,
+            80
+        ],
+        "id": 31283,
+        "original_language": "en",
+        "original_title": "Hannie Caulder",
+        "overview": "Hannie enlists the aid of bounty hunter Tom Price to teach her how to be a gunfighter so she can hunt down the 3 men who killed her husband and raped her.",
+        "popularity": 36.696,
+        "poster_path": "/wGZHnE27LL2akgLY9cN50ru6lx5.jpg",
+        "release_date": "1971-11-08",
+        "title": "Hannie Caulder",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 109
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u546kDNwrZ1ii6q8NqqQgHwRvoW.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 996,
+        "original_language": "en",
+        "original_title": "Double Indemnity",
+        "overview": "A rich woman and a calculating insurance agent plot to kill her unsuspecting husband after he signs a double indemnity policy. Against a backdrop of distinctly Californian settings, the partners in crime plan the perfect murder to collect the insurance, which pays double if the death is accidental.",
+        "popularity": 36.695,
+        "poster_path": "/n8Mfx7JNbj6lo24laFL1sZYEKHs.jpg",
+        "release_date": "1944-07-06",
+        "title": "Double Indemnity",
+        "video": false,
+        "vote_average": 8.125,
+        "vote_count": 1743
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h1vNqJzPCTPg9Hhfxtv2XdE6Pna.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 124157,
+        "original_language": "ko",
+        "original_title": "도둑들",
+        "overview": "A gang of South Korean thieves team up with a Hong Kong crew to steal a diamond necklace from a heavily-guarded casino safe in Macau. As the cops close in, old betrayals — and misunderstandings — resurface.",
+        "popularity": 36.687,
+        "poster_path": "/sk7Sf78hOy7cjuNaiUih7Ms5lJO.jpg",
+        "release_date": "2012-07-25",
+        "title": "The Thieves",
+        "video": false,
+        "vote_average": 6.727,
+        "vote_count": 277
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/niGowOt2WKLTi1QaYcF4HDPprjj.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            9648
+        ],
+        "id": 331962,
+        "original_language": "en",
+        "original_title": "Exposed",
+        "overview": "After witnessing a miracle, a young Latina woman experiences strange things as a police detective searches for the truth behind his partner's death.",
+        "popularity": 36.672,
+        "poster_path": "/nM26QosEfgjEegONCiNNrYMBTxD.jpg",
+        "release_date": "2016-01-22",
+        "title": "Exposed",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 501
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bOYso1vEWhcus8P97lTj2Vw1wkB.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 574060,
+        "original_language": "en",
+        "original_title": "Gunpowder Milkshake",
+        "overview": "To protect an 8-year-old girl, a dangerous assassin reunites with her mother and her lethal associates to take down a ruthless crime syndicate and its army of henchmen.",
+        "popularity": 36.608,
+        "poster_path": "/56ofGPMOZCwlTjTao5fB7vnGOoj.jpg",
+        "release_date": "2021-07-14",
+        "title": "Gunpowder Milkshake",
+        "video": false,
+        "vote_average": 6.339,
+        "vote_count": 959
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mGG8qqSBK7EKN2cOVBlVef1Y3N4.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 12085,
+        "original_language": "en",
+        "original_title": "Mad Money",
+        "overview": "Three female employees of the Federal Reserve plot to steal money that is about to be destroyed.",
+        "popularity": 36.554,
+        "poster_path": "/le0r7Hf7YOy3QFdOoYXRI29T1mW.jpg",
+        "release_date": "2008-01-17",
+        "title": "Mad Money",
+        "video": false,
+        "vote_average": 6.467,
+        "vote_count": 647
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1SkIz6eBdPWM6k3FOmodo7sbTJw.jpg",
+        "genre_ids": [
+            80,
+            14,
+            27
+        ],
+        "id": 351460,
+        "original_language": "en",
+        "original_title": "Death Note",
+        "overview": "A young man comes to possess a supernatural notebook, the Death Note, that grants him the power to kill any person simply by writing down their name on the pages. He then decides to use the notebook to kill criminals and change the world, but an enigmatic detective attempts to track him down and end his reign of terror.",
+        "popularity": 36.533,
+        "poster_path": "/1X19j2albvewAdnTNHx2fFXjOcC.jpg",
+        "release_date": "2017-08-25",
+        "title": "Death Note",
+        "video": false,
+        "vote_average": 4.254,
+        "vote_count": 3879
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fX1DFPMZYsRG17BmMPJAKUaBZEz.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 877,
+        "original_language": "en",
+        "original_title": "Scarface",
+        "overview": "In 1920s Chicago, Italian immigrant and notorious thug, Antonio 'Tony' Camonte, aka Scarface, shoots his way to the top of the mobs while trying to protect his sister from the criminal life.",
+        "popularity": 36.524,
+        "poster_path": "/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg",
+        "release_date": "1932-04-09",
+        "title": "Scarface",
+        "video": false,
+        "vote_average": 7.46,
+        "vote_count": 581
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/feyYAbERTGHLQctqEPj900sTIFN.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 449992,
+        "original_language": "id",
+        "original_title": "The Night Comes for Us",
+        "overview": "After sparing a girl's life during a massacre, an elite Triad assassin is targeted by an onslaught of murderous gangsters.",
+        "popularity": 36.511,
+        "poster_path": "/8lI1p5cPqgXN2qrKZrmI3mhKBfs.jpg",
+        "release_date": "2018-10-05",
+        "title": "The Night Comes for Us",
+        "video": false,
+        "vote_average": 6.884,
+        "vote_count": 666
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dEh93Ni98JWh7fmhD56ZlOFQmoT.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 606523,
+        "original_language": "ko",
+        "original_title": "낙원의 밤",
+        "overview": "An assassin named Tae-goo is offered a chance to switch sides with his rival Bukseong gang, headed by Chairman Doh. Tae-goo rejects the offer that results in the murder of his sister and niece. In revenge, Tae-goo brutally kills Chairman Doh and his men and flees to Jeju Island where he meets Jae-yeon, a terminally ill woman. Though, the henchman of the Bukseong gang, Executive Ma is mercilessly hunting Tae-goo to take revenge.",
+        "popularity": 36.51,
+        "poster_path": "/dYCWUAidqgakGETwZkfGxU7CWhL.jpg",
+        "release_date": "2020-09-03",
+        "title": "Night in Paradise",
+        "video": false,
+        "vote_average": 6.94,
+        "vote_count": 241
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yFNZidMRI7dTr7dklBfo3I2yMsc.jpg",
+        "genre_ids": [
+            80,
+            53,
+            27,
+            9648
+        ],
+        "id": 36095,
+        "original_language": "ja",
+        "original_title": "キュア",
+        "overview": "A wave of gruesome murders is sweeping Tokyo. In each case, the murderer is found near the victim and claims to have had no control over their actions. Following the only link, a detective tries to end the wave of inexplicable terror.",
+        "popularity": 36.498,
+        "poster_path": "/nLZ2AJFLtMoAAAD54mbT4exj1Wp.jpg",
+        "release_date": "1997-12-27",
+        "title": "Cure",
+        "video": false,
+        "vote_average": 7.423,
+        "vote_count": 469
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mLAgmcqB0VLNHPUlOgYqujQvzdS.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 54445,
+        "original_language": "en",
+        "original_title": "S.W.A.T.: Firefight",
+        "overview": "Los Angeles S.W.A.T. officer, Lt. Paul Cutler, is sent to train the Detroit S.W.A.T. team on new anti-terrorism and homeland security techniques. Cutler has a hard time settling into his assignment as he locks horns with his new captain and encounters resistance from the team he must lead. Cutler begins to adjust to his new assignment, starting a budding romance with police psychologist Kim Byers along the way. Unexpectedly, a routine hostage call turns deadly, and a relentless ex-government agent named Walter Hatch vows revenge on Cutler and the entire S.W.A.T. team for killing the woman he loves. Cutler must use his considerable S.W.A.T. training and knowledge to save his teammates and defeat a trained killer.",
+        "popularity": 36.46,
+        "poster_path": "/hDeBVLKDeyavwHRPy8z5yBynNj4.jpg",
+        "release_date": "2011-03-01",
+        "title": "S.W.A.T.: Firefight",
+        "video": false,
+        "vote_average": 5.669,
+        "vote_count": 352
+    }
+]

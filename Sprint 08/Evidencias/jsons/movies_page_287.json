@@ -1,0 +1,401 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/r4zkprGCkP5fKlpUIoffCzgLPaC.jpg",
+        "genre_ids": [
+            27,
+            80,
+            53
+        ],
+        "id": 23014,
+        "original_language": "en",
+        "original_title": "Invisible Ghost",
+        "overview": "The town's leading citizen becomes a homicidal maniac after his wife deserts him.",
+        "popularity": 10.843,
+        "poster_path": "/fV5XAHUYRlgWqSnfBzV8OCNa3cP.jpg",
+        "release_date": "1941-04-25",
+        "title": "Invisible Ghost",
+        "video": false,
+        "vote_average": 5.185,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/it3qePrINd9hP51ooZstWs5I9ZL.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            10751
+        ],
+        "id": 61898,
+        "original_language": "en",
+        "original_title": "Bonanno: A Godfather's Story",
+        "overview": "The true life story of mafia boss Joesph Bonanno. The story spans from Bonanno's early beginings in Italy, to his conquests in America.",
+        "popularity": 10.841,
+        "poster_path": "/4GgXG3wQxVjy0OCILi0wkxjCguw.jpg",
+        "release_date": "1999-07-25",
+        "title": "Bonanno: A Godfather's Story",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8SIPa9qHEjPuJi8gQddjCxL6sFg.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 42145,
+        "original_language": "fr",
+        "original_title": "Le choix des armes",
+        "overview": "Two men break out of prison; a rival gang ambushes them. One is mortally wounded and tells the other, Mickey, to take him to the estate of a retired robber, Noel, who lives in comfort with his lovely and beloved wife, Nicole. The man dies, and Mickey, a menacing hothead, demands money of Noel. A few days later, Mickey returns to the estate, shoots up a dinner party and threatens them again. Noel sends Nicole to an hotel and goes to his old gang to help him hunt down the dangerous Mickey. Mickey has other problems, too, including heartache for a daughter he hardly knows. Young, eager cops tail Nicole, and all are on a complicated collision course.",
+        "popularity": 10.84,
+        "poster_path": "/5Uc6peRx1TamJLBsQkW8LFoaf3E.jpg",
+        "release_date": "1981-08-19",
+        "title": "Choice of Arms",
+        "video": false,
+        "vote_average": 6.569,
+        "vote_count": 94
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sfWWu2Nf6FuGinullL4FD1QldnW.jpg",
+        "genre_ids": [
+            28,
+            80,
+            878
+        ],
+        "id": 126712,
+        "original_language": "en",
+        "original_title": "Superman",
+        "overview": "Superman comes to Earth as a child and grows up to be his home's first superhero with his first major challenge being to oppose The Spider Lady.",
+        "popularity": 10.837,
+        "poster_path": "/tdOGjjtpXejieTppVQQKJBW3lbN.jpg",
+        "release_date": "1948-07-15",
+        "title": "Superman",
+        "video": false,
+        "vote_average": 5.58,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 81972,
+        "original_language": "en",
+        "original_title": "The Hunters",
+        "overview": "Alice and her friends are approaching the end of the school year where their dead-end lives will end and the chance of a new life will begin. Before heading off to college they spend one last day together in the woods, the one part of town that has always been off limits to them growing up. As they stumble upon what they thought was an abandoned fort only to find the walls dripping in blood and decompressing body parts lying around, they are startled to learn they are now a part of an undercover investigation. After being told to get out of the woods they realize they're trapped, for the Hunters, who call the fort home, never let anyone out alive.",
+        "popularity": 10.836,
+        "poster_path": "/ue8zWUO7mtwv2x0J9vZW9ryBIba.jpg",
+        "release_date": "2011-12-27",
+        "title": "The Hunters",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 34
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ab68Ss1zgyfTqLpG0alV1GUulIm.jpg",
+        "genre_ids": [
+            80,
+            12
+        ],
+        "id": 3485,
+        "original_language": "en",
+        "original_title": "The Castle of Fu Manchu",
+        "overview": "The evil mastermind Fu Manchu plots his latest scheme to basically freeze over the Earth's oceans with his diabolical new device. Opposing him is his arch-nemesis, Interpol's very British Nayland Smith.",
+        "popularity": 10.836,
+        "poster_path": "/cRRVPZ5TyBa5T9pZrepNthAumet.jpg",
+        "release_date": "1969-05-29",
+        "title": "The Castle of Fu Manchu",
+        "video": false,
+        "vote_average": 3.744,
+        "vote_count": 43
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ldL3X90YNEIALtATenLTzohWhW8.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 18132,
+        "original_language": "no",
+        "original_title": "Izzat",
+        "overview": "Three young immigrant boys, Wasim, Riaz and Munawar, come of age in the east end of Oslo, Norway. They find school boring and become attracted to the hard boiled gang East Side Crew, run by brothers Sadiq and Khalid. Petty theft soon develops into drug dealing, violence and murder.",
+        "popularity": 10.832,
+        "poster_path": "/vhEWvJFZybepGxNNWy1lwpJXvvN.jpg",
+        "release_date": "2005-10-07",
+        "title": "Izzat",
+        "video": false,
+        "vote_average": 6.095,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xPE9rbftXEWoDhj68FcbqoEXSRa.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 189312,
+        "original_language": "es",
+        "original_title": "Yo, 'El Vaquilla'",
+        "overview": "Juan Jose Moreno Cuenca, alias the Heifer, is 23 years old and tells his story as a criminal offender from 1 Ocaña Toledo. Fatherless, the offender has his childhood and how everything changed when her mother went to prison.",
+        "popularity": 10.831,
+        "poster_path": "/myDF0z8XxLe1n9pRBQJgCpg7pvJ.jpg",
+        "release_date": "1985-11-08",
+        "title": "I, 'The Heifer'",
+        "video": false,
+        "vote_average": 5.609,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/24Zl2vXpos8BHra1ISLbM3GVINq.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            9648
+        ],
+        "id": 21173,
+        "original_language": "en",
+        "original_title": "Death of a President",
+        "overview": "A fictional investigative documentary looks back on the \"assassination\" of George W. Bush and attempts to answer the question of who committed the murder. Perhaps less morbid and disturbing to watch now than during Bush's presidency, the film doesn't address Bush's policies at all, instead focusing on the way a nation assigns blame in a time of crisis.",
+        "popularity": 10.829,
+        "poster_path": "/wX7DyNdbQ5B0IxykO0Phtxdun9p.jpg",
+        "release_date": "2006-10-27",
+        "title": "Death of a President",
+        "video": false,
+        "vote_average": 5.606,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fGLo5N31u3xSDjlfeyhsDgb7vWF.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            27
+        ],
+        "id": 561146,
+        "original_language": "ja",
+        "original_title": "ホームジャック",
+        "overview": "A serial killer nicknamed \"Jack the Ripper\" is murdering women in their own homes. While the media is reporting on his latest victims, Natsuko's husband leaves on a business trip. As soon as her husband is gone, her lover arrives for some quick sex. Then there's a knock on the door...",
+        "popularity": 10.828,
+        "poster_path": "/zNMiW62R9wA6ZxvLF4Wb8wlQjMj.jpg",
+        "release_date": "2016-09-02",
+        "title": "Homejack",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eh5sbREj3kn38S5MzgdFPc6qQUt.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 684107,
+        "original_language": "en",
+        "original_title": "Hammer",
+        "overview": "A father faces a personal crisis when he discovers his estranged son fleeing a botched drug deal. The two men embark on a violent odyssey that grapples with themes of fatherhood, family and fate.",
+        "popularity": 10.825,
+        "poster_path": "/dE0a1tC4pTRZOBdBwXBCS3tHsMP.jpg",
+        "release_date": "2019-12-05",
+        "title": "Hammer",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1zZL0NDA3PhRENwu3YbDw4zgMDZ.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 37728,
+        "original_language": "sv",
+        "original_title": "Jönssonligan på Mallorca",
+        "overview": "Vanheden and Dynamit-Harry, together with Harry's fiancée Doris, are in Mallorca while Sickan is still in Stockholm. However, Wall-Enberg talks him into doing a break-in at Las Palmas cathedral in Mallorca. Once persuaded, he can't resist the temptation and travels to Mallorca as well. However, Wall-Enberg obviously can't be trusted. Sickan is framed, caught and put in jail. While being escorted home to Sweden again, Vanheden and Harry sets up a plan to break him free. Sickan, once free, wants payback. The gang discover that an antiques dealer called Germann has something to do with the whole thing and that she's also collaborating with Wall-Enberg. The gang then decide to take a closer look at her and her antiques and they discover that there's a heist being planned against the cathedral in Palma.",
+        "popularity": 10.823,
+        "poster_path": "/s1MvxKY4wcTarA0qNoDsjeChcou.jpg",
+        "release_date": "1989-11-03",
+        "title": "The Jönsson Gang in Mallorca",
+        "video": false,
+        "vote_average": 5.477,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/t5jtgoN5WI1VybztctPF2qykB2y.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 350779,
+        "original_language": "es",
+        "original_title": "Los jefes",
+        "overview": "Set in 2013 Monterrey, Poncho is a student at a prestigious college, he goes to get weed with his friend El Greñas,  they go to La Bomba to get some. Although when La Bomba runs out of weed, they decide to take him on a quest to get more weed from El Perro.  When Poncho needs to go back home, La Bomba kidnaps both Poncho and Greñas and taking Poncho's phone and car. La Bomba contacts Poncho's father to get him one million dollars to free his son, though Bomba didn't know the deadly consequences.",
+        "popularity": 10.821,
+        "poster_path": "/cK3lxOoJQcQ45JgfJpIKWTEnUHi.jpg",
+        "release_date": "2015-07-31",
+        "title": "The Bosses",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 75
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s8l2QX9ri2oMUH1hha1XsIeTLND.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 508624,
+        "original_language": "ko",
+        "original_title": "게이트",
+        "overview": "So-Eun is a safe breaker planner. She plans a heist with expert safe breaker Jang-Choon and thief-actor Cheol-Soo. They dream of changing their lives with this job. Meanwhile, Gyu-Cheol is former elite prosecutor, but he lost his memory in a mysterious accident. Nowadays he does foolish acts.",
+        "popularity": 10.819,
+        "poster_path": "/lezWeeVMJcoIwt3hG02jPDWJega.jpg",
+        "release_date": "2018-02-28",
+        "title": "Gate",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i3DAx6Dd8L8m2R8QAU3BYRGGQrF.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53,
+            28,
+            10402
+        ],
+        "id": 64576,
+        "original_language": "ja",
+        "original_title": "女番長　野良猫ロック",
+        "overview": "A wandering tough biker girl aids a female delinquent gang in their battles against an all-male Seiyu group over a fixed boxing match.",
+        "popularity": 10.816,
+        "poster_path": "/AgPfjFNXSlT04uczY45rnc9lNOr.jpg",
+        "release_date": "1970-05-02",
+        "title": "Stray Cat Rock: Delinquent Girl Boss",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1047373,
+        "original_language": "en",
+        "original_title": "The Silent Hour",
+        "overview": "While working a case as an interpreter, a hearing-impaired police detective must confront a group of criminals trying to eliminate a deaf murder witness in her apartment building.",
+        "popularity": 10.815,
+        "poster_path": "/5g58e3kQT9kmCSrazTkkMWpiXhc.jpg",
+        "release_date": "2024-10-03",
+        "title": "The Silent Hour",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xVlQ3apBJ86JZCWq1ILjXGcumvc.jpg",
+        "genre_ids": [
+            36,
+            80
+        ],
+        "id": 116982,
+        "original_language": "es",
+        "original_title": "Canoa: memoria de un hecho vergonzoso",
+        "overview": "A group of students arrives in a small town during a hiking expedition. Once there, the local priest accuses them of being communist agitators on the run from an army crack-down against student demonstrations in nearby Mexico City and rallies the townsfolk to lynch them. Based on a true story.",
+        "popularity": 10.815,
+        "poster_path": "/ag35bvtquwiDPsY4itNH895NguW.jpg",
+        "release_date": "1976-03-04",
+        "title": "Canoa: A Shameful Memory",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 72
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5apdF3UVO7x65VYkQ1iSDlWwrkG.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 661738,
+        "original_language": "en",
+        "original_title": "Break",
+        "overview": "Break is a 'rags to riches', feel good story. The film follows the exploits of Spencer Pryde, a gifted, inner-city kid, wasting his talents on petty crime. After witnessing the brutal murder of his pal Denis and finding himself in debt to a drug dealing thug named Ginger, it seems Spencer's life is spiraling out of control, until one day, a chance encounter with a Chinese stranger and former eight-ball pool champion named Vincent Quiang presents him with an opportunity to turn his life around. But in order to make a new life for himself, Spencer will first need to break away from peer pressure of his friends, his environment and all the negative influences of his current life.",
+        "popularity": 10.812,
+        "poster_path": "/m3wc1fnDyJjw0hiuMN9jxw9s7tI.jpg",
+        "release_date": "2020-04-20",
+        "title": "Break",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pgmWZsDuqSRTnC0JXlZCc1iLcQW.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 25735,
+        "original_language": "en",
+        "original_title": "The Gangster",
+        "overview": "Based on the novel Low Company. One of the most peculiar film noirs of the 1940s stars Barry Sullivan as a small-time hood who suffers a mental breakdown as his big plans begin to crumble. Beautiful Belita is the slumming society girlfriend who only fuels his paranoia.",
+        "popularity": 10.812,
+        "poster_path": "/iD780H3mMhXFWkPMhBIgoreyKjf.jpg",
+        "release_date": "1947-11-25",
+        "title": "The Gangster",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xsUWusB7y6GPuofWbtK3YjeHBru.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53,
+            35
+        ],
+        "id": 1239131,
+        "original_language": "en",
+        "original_title": "Bermondsey Tales: Fall of the Roman Empire",
+        "overview": "London crime boss Mick Roman is deathly ill, and time is running out to find a successor. With deceit, ambition and infighting on the rise, this Roman empire may be about to fall.",
+        "popularity": 10.808,
+        "poster_path": "/lEEYFRVcEB2AuzzK4jEoPgz77MV.jpg",
+        "release_date": "2024-05-17",
+        "title": "Bermondsey Tales: Fall of the Roman Empire",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+    }
+]

@@ -1,0 +1,407 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/4XDgodLF1PGz2FhB7w0YNSRtY76.jpg",
+        "genre_ids": [
+            12,
+            80,
+            18
+        ],
+        "id": 81529,
+        "original_language": "es",
+        "original_title": "Linda",
+        "overview": "Betsy Norman is a happy assistant at a luxurious Spanish hotel. Shiela, the hotel owner, caters for all wishes of her clientele with another lucrative business, the brothel \"Rio Amore\" where clients from all over the world come to relax with the girls and watch the sado-masochistic shows. Linda, Betsy's sister, is drugged and forced to work as a prostitute there.",
+        "popularity": 13.579,
+        "poster_path": "/tryYj9EnTyaXzROI3f23hUDAAQR.jpg",
+        "release_date": "1981-05-29",
+        "title": "The Story of Linda",
+        "video": false,
+        "vote_average": 5.024,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mhKQ5ntqlXyck0TWh1pCpn42aAx.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1217379,
+        "original_language": "en",
+        "original_title": "Hellhound",
+        "overview": "Ready to leave his profession behind, Loreno, an assassin, lends help to an old friend, Cetan, and taking one last job in Thailand seeking out a local kingpin. A lapse in judgment means Loreno crosses paths with old colleague Paul.",
+        "popularity": 13.575,
+        "poster_path": "/f9hkaCIha8hIhRo0XXShhcosrPH.jpg",
+        "release_date": "2024-06-20",
+        "title": "Hellhound",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gGew3xw1CuE7oPDfR6lqlOwg2Qe.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 575238,
+        "original_language": "cn",
+        "original_title": "廉政風雲：煙幕",
+        "overview": "The chief investigator of Hong Kong’s Independent Commission Against Corruption (ICAC) is banking on a key witness, the corporate accountant Jack (Nick Cheung Ka-fai), to testify in court against a high-level customs officer and a tobacco trading company CEO accused of bribery and smuggling. When neither Jack nor the CEO show up on the day of the hearing, King is given seven days to save the prosecution’s case.",
+        "popularity": 13.575,
+        "poster_path": "/ivaRoH2WR8VpwgWqxAuBegSlMbG.jpg",
+        "release_date": "2019-02-05",
+        "title": "Integrity",
+        "video": false,
+        "vote_average": 5.294,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fUbaNqwMMWZNnGXyFv8J4PXLALs.jpg",
+        "genre_ids": [
+            35,
+            53,
+            80,
+            9648,
+            14
+        ],
+        "id": 26179,
+        "original_language": "en",
+        "original_title": "Oh! Heavenly Dog",
+        "overview": "Browning is a PI with a bad cold, who's sent to investigate a case by a mysterious client.  He stumbles across the body of a young woman and is stabbed to death, and when he wakes up in heaven, they tell him he's \"marginal material,\" and they can only decide on his final destination through one last assignment: to go back and solve his own murder. As a dog. A cute fluffy little dog (Benji). Undaunted, Browning begins to investigate the case as best he can around his canine disabilities (dialing the phone presents a special challenge) to solve the murders, save the girl, and see justice done.",
+        "popularity": 13.573,
+        "poster_path": "/snlRys3j7LI5i4u3uw3mvFWBqXQ.jpg",
+        "release_date": "1980-07-11",
+        "title": "Oh! Heavenly Dog",
+        "video": false,
+        "vote_average": 5.563,
+        "vote_count": 64
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2PhMeNkCmIVR6GxxLFltekXDM8y.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 59238,
+        "original_language": "en",
+        "original_title": "Jesse Stone: Innocents Lost",
+        "overview": "Jesse investigates the suspicious death of a young friend while the police force deals with the arrogant new police chief who is the son-in-law of a town councilman.",
+        "popularity": 13.571,
+        "poster_path": "/775luVm3YmZ5CZe7ScK9NEHoe9n.jpg",
+        "release_date": "2011-05-21",
+        "title": "Jesse Stone: Innocents Lost",
+        "video": false,
+        "vote_average": 6.463,
+        "vote_count": 68
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/czMOGm4TjDgyt7AiCB9oWXhGvrL.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 29688,
+        "original_language": "en",
+        "original_title": "6 Bridges to Cross",
+        "overview": "Follow the evolution of a small time juvenile delinquent hood to a big time racketeer. Based on the famous 1950 Brinks Robbery in Boston that netted the crooks $2.5 million. The story delves into the psychology of the perpetrators, as well as the intricate mechanics of the hold-up.",
+        "popularity": 13.57,
+        "poster_path": "/9ct1JCNCOyaDwu8zObbtTUKAkJF.jpg",
+        "release_date": "1955-01-21",
+        "title": "6 Bridges to Cross",
+        "video": false,
+        "vote_average": 6.112,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9ndhlUu1VQ44pX5dVFo5Y19KqAl.jpg",
+        "genre_ids": [
+            80,
+            99
+        ],
+        "id": 14285,
+        "original_language": "en",
+        "original_title": "The Thin Blue Line",
+        "overview": "Errol Morris's unique documentary dramatically re-enacts the crime scene and investigation of a police officer's murder in Dallas.",
+        "popularity": 13.57,
+        "poster_path": "/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg",
+        "release_date": "1988-08-28",
+        "title": "The Thin Blue Line",
+        "video": false,
+        "vote_average": 7.683,
+        "vote_count": 357
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 171363,
+        "original_language": "en",
+        "original_title": "Pimp Bullies",
+        "overview": "Five suspects holding a piece of the truth behind an unsolved crime.",
+        "popularity": 13.564,
+        "poster_path": "/4vKNagonFjGpnXkTxFTJeBduztN.jpg",
+        "release_date": "2011-06-30",
+        "title": "Pimp Bullies",
+        "video": false,
+        "vote_average": 2.7,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/70VFaeDW0NersHP1Wxaq8zQxA51.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 452010,
+        "original_language": "ar",
+        "original_title": "على كف عفريت",
+        "overview": "When Mariam, a young Tunisian woman, is raped by police officers after leaving a party, she is propelled into a harrowing night in which she must fight for her rights even though justice lies on the side of her tormentors.",
+        "popularity": 13.56,
+        "poster_path": "/bv8EAeWoIlwVwUVFwIkBQUt0jk4.jpg",
+        "release_date": "2017-10-18",
+        "title": "Beauty and the Dogs",
+        "video": false,
+        "vote_average": 7.104,
+        "vote_count": 77
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dsKreIyBKxM0dVkI6j1boV1qF3D.jpg",
+        "genre_ids": [
+            878,
+            80,
+            27
+        ],
+        "id": 62560,
+        "original_language": "ja",
+        "original_title": "宇宙大怪獣ドゴラ",
+        "overview": "A floating amorphous life-form descends from the atmosphere to consume carbon in the form of diamonds.",
+        "popularity": 13.558,
+        "poster_path": "/oLCbrX4tE9evZSRtkmZNYUlJDcS.jpg",
+        "release_date": "1964-08-11",
+        "title": "Dogora",
+        "video": false,
+        "vote_average": 6.886,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/GJEsypKc4bZZiyIyW1c9lcKzoO.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 380754,
+        "original_language": "en",
+        "original_title": "Isolation",
+        "overview": "Inspired by the true events of a couple vacationing on a remote island in the Bahamas who are hunted by a group of modern-day pirates, after their identities and their lives.",
+        "popularity": 13.557,
+        "poster_path": "/vBH7jFnDdQ5EQ1XLtCFlsnMhs3w.jpg",
+        "release_date": "2015-10-31",
+        "title": "Isolation",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q3GCypnc6nAECWyNpBOhCznazn2.jpg",
+        "genre_ids": [
+            35,
+            28,
+            80
+        ],
+        "id": 40194,
+        "original_language": "fr",
+        "original_title": "Coursier",
+        "overview": "From multicultural Paris to designer Paris, Montmartre to the Champs-Elysées, sleazy sidewalks to high-end galleries... Watch out! Sam the courier is a man on a mission! On his scooter, Sam breaks every rule of the road to make good on the \"express delivery\" promise of the courier service he works for. But however hard he tries, Sam never gets a bonus from his boss, never beats his slicker colleagues and never gets past his Dad, a cop who books him every time. All Sam has up is Nadia, and she will turn on him if he doesn't show up for her sister's wedding. Trouble is, Sam has one more delivery to make and his day has just gone from bad to worse...",
+        "popularity": 13.555,
+        "poster_path": "/qUrOeJl4OkUAtBqEJXeTGGDpfUz.jpg",
+        "release_date": "2010-02-24",
+        "title": "Paris Express",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 149
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rbAzG3clLhgiryMQtsM58a2SsFx.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            27
+        ],
+        "id": 397490,
+        "original_language": "kn",
+        "original_title": "ಮಗಳು ಜಾನಕಿ",
+        "overview": "A journalist who intents to write an article on traffic rule breakers gets dragged into a whirlpool of murder cases and deception.",
+        "popularity": 13.552,
+        "poster_path": "/fjl9czd3zj0QpeaXAysAGwM9UrD.jpg",
+        "release_date": "2016-05-20",
+        "title": "U Turn",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6ZQAOmREgsYNgkKmhkKrUgIy1uK.jpg",
+        "genre_ids": [
+            80,
+            18,
+            35,
+            10749
+        ],
+        "id": 231872,
+        "original_language": "en",
+        "original_title": "Midas Run",
+        "overview": "A veteran secret service officer from Britain hijacks a government shipment of $15 million of gold out of an irritation for never being knighted.",
+        "popularity": 13.551,
+        "poster_path": "/aGqqYLLWW2omI5SbpdkrCa5KGzy.jpg",
+        "release_date": "1969-05-07",
+        "title": "Midas Run",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4t04XDhT81YgoPw7ciP8Frl6Wdz.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 85365,
+        "original_language": "it",
+        "original_title": "Tony Arzenta",
+        "overview": "A mob hitman wants to retire, but his bosses don't think that's a good idea. Complications - and many bloody shootouts - ensue.",
+        "popularity": 13.55,
+        "poster_path": "/p0IIvxBNY5N3CUEVooSTvjeUcUb.jpg",
+        "release_date": "1973-08-23",
+        "title": "Tony Arzenta",
+        "video": false,
+        "vote_average": 6.123,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8U1Tefw3mjNZZJGlkS5WGYEXl3X.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 70324,
+        "original_language": "en",
+        "original_title": "The Trap",
+        "overview": "Lawyer Ralph Anderson arrives in Tula, an amazingly remote town in the desert, as reluctant emissary of mob chief Victor Massonetti, who wants the airstrip clear for his unofficial exit from the country. Ralph's arrival has a profound effect on his estranged father, the sheriff; his brother Tip, an alcoholic deputy; and his ex-sweetheart Linda, now married to Tip. Tension builds as a small army of gangsters takes over the town. Then the situation abruptly changes...",
+        "popularity": 13.55,
+        "poster_path": "/h9D9dBldYB4EMwiG81zEqVzO1oF.jpg",
+        "release_date": "1959-01-28",
+        "title": "The Trap",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3O51qzXXnlA4wskz9zVTA0mWA94.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 69846,
+        "original_language": "ja",
+        "original_title": "君よ憤怒の河を渉れ",
+        "overview": "A tough prosecutor is falsely accused of theft and goes on the run to clear his name. He is assisted by the beautiful daughter of a rich man.",
+        "popularity": 13.55,
+        "poster_path": "/pYWmNHIJ1fT6EDmcOnE0IxNlpBR.jpg",
+        "release_date": "1976-02-11",
+        "title": "Manhunt",
+        "video": false,
+        "vote_average": 6.447,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/noCMAp3e4HwxStyYXYpwd7BzDwD.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            9648
+        ],
+        "id": 38011,
+        "original_language": "ko",
+        "original_title": "6월의 일기",
+        "overview": "Two teenagers joining the same class in a high school die on the same day. The one to be top of the class is killed by a big knife on the street, the other - the second best of the class indeed - seems to be jumped from the top of the school building. Everybody believes that he first killed his classmate and than himself. But when the police finds small pill boxes into the stomachs of both kids confessing their murder two South Korean cops are torn into a new case of murder series. While they try to hunt down the serial killer, more pupils are getting killed...",
+        "popularity": 13.549,
+        "poster_path": "/tMqmbVASgigw18hbuEiDk9QZogS.jpg",
+        "release_date": "2005-12-01",
+        "title": "Diary of June",
+        "video": false,
+        "vote_average": 6.292,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kBsPfrw8sClyrb754pEnp1V3tvd.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 36380,
+        "original_language": "pl",
+        "original_title": "Chlopaki nie placza",
+        "overview": "A young aspiring violinist unwittingly becomes involved with a criminal gang.",
+        "popularity": 13.543,
+        "poster_path": "/c9NRI19yEc9CW71uR3VLa8fsYA4.jpg",
+        "release_date": "2000-02-25",
+        "title": "Boys Don't Cry",
+        "video": false,
+        "vote_average": 7.335,
+        "vote_count": 130
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4CU1w0Aga2m4ukO43uvhlxq9SDz.jpg",
+        "genre_ids": [
+            80,
+            28,
+            12,
+            53
+        ],
+        "id": 330431,
+        "original_language": "hi",
+        "original_title": "NH10",
+        "overview": "Meera and Arjun are professionals living in Gurgaon. On their way to a luxurious desert holiday they stop on a Highway dhaba for dinner, where they witness a young girl being picked up by a bunch of hoodlums. Arjun chooses to step in, unmindful of the danger ahead.",
+        "popularity": 13.539,
+        "poster_path": "/1PPUgbQE9UVrgPyMif8urLSIKWb.jpg",
+        "release_date": "2015-03-12",
+        "title": "NH10",
+        "video": false,
+        "vote_average": 6.767,
+        "vote_count": 76
+    }
+]

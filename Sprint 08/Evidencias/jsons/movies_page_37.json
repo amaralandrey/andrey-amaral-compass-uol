@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/fvCq1wEwLtiHKCJYm6BfkIO068x.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 26389,
+        "original_language": "en",
+        "original_title": "From Paris with Love",
+        "overview": "James Reese has a good job as an ambassador's aid in France, but his real passion is a side gig—working in a minor role in the CIA. He would love to be a full-fledged agent and can't believe his luck when he lands an assignment with Charlie Wax. Trigger-happy Charlie soon has James crying for his desk job, but when he learns that the same guys they're trying to catch are after him, James realises that Charlie may be his only hope of survival.",
+        "popularity": 44.024,
+        "poster_path": "/poVoLKLxUqsTLSntA40Po2F78dZ.jpg",
+        "release_date": "2010-02-04",
+        "title": "From Paris with Love",
+        "video": false,
+        "vote_average": 6.28,
+        "vote_count": 1933
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7GWDrjxeBsh5onaYf5XHjIM9BA1.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 578189,
+        "original_language": "en",
+        "original_title": "Black and Blue",
+        "overview": "A rookie cop inadvertently captures the murder of a young drug dealer on her body cam. After realizing that the murder was committed by corrupt cops, she teams up with the one person from her community who is willing to help her as she tries to escape both the criminals out for revenge and the police who are desperate to destroy the incriminating footage.",
+        "popularity": 40.027,
+        "poster_path": "/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg",
+        "release_date": "2019-10-25",
+        "title": "Black and Blue",
+        "video": false,
+        "vote_average": 6.788,
+        "vote_count": 832
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vDVIAT0GJiBTg4L8SknBe89dPR6.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 250809,
+        "original_language": "cn",
+        "original_title": "風雨同路",
+        "overview": "Chow is an undercover cop who must befriend former triad kingpin Chan Wai-Man to investigate a brutal diamond heist. It turns out that Chan is innocent of the theft, but not of the fencing of the stolen goods",
+        "popularity": 46.405,
+        "poster_path": "/hMQI24C9pOssRrPve60YkGoQmxi.jpg",
+        "release_date": "1990-05-11",
+        "title": "The Unmatchable Match",
+        "video": false,
+        "vote_average": 6.769,
+        "vote_count": 13
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9O39kchDCZV7zg6WbvTcS2tomK9.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 11699,
+        "original_language": "en",
+        "original_title": "Bad Lieutenant: Port of Call - New Orleans",
+        "overview": "Terrence McDonagh is a New Orleans Police sergeant, who recieves a medal and a promotion to lieutenant for heroism during Hurricane Katrina. Due to his heroic act, McDonagh injures his back and becomes addicted to prescription pain medication. He then finds himself involved with a drug dealer who is suspected of murdering a family of African immigrants.",
+        "popularity": 36.016,
+        "poster_path": "/hMgMdFyPzGZzbiTEKScY8HuNqCS.jpg",
+        "release_date": "2009-09-11",
+        "title": "Bad Lieutenant: Port of Call - New Orleans",
+        "video": false,
+        "vote_average": 6.175,
+        "vote_count": 1090
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cFGE7Bx9ur6nAuc5v4x9If99Ugy.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 226,
+        "original_language": "en",
+        "original_title": "Boys Don't Cry",
+        "overview": "A young transgender man explores his gender identity and searches for love in rural Nebraska.",
+        "popularity": 36.014,
+        "poster_path": "/nKXTgbruSrezC1tAeKB6Ri7cGkK.jpg",
+        "release_date": "1999-09-02",
+        "title": "Boys Don't Cry",
+        "video": false,
+        "vote_average": 7.41,
+        "vote_count": 1292
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dwFZb1ddwY3TYUVKrkuCNs7Iy2c.jpg",
+        "genre_ids": [
+            12,
+            80,
+            18,
+            53
+        ],
+        "id": 206563,
+        "original_language": "pt",
+        "original_title": "Trash",
+        "overview": "Set in Brazil, three kids who make a discovery in a garbage dump soon find themselves running from the cops and trying to right a terrible wrong.",
+        "popularity": 51.453,
+        "poster_path": "/kd4v23x0lalIRdwgLRkHgBhYBUQ.jpg",
+        "release_date": "2014-10-09",
+        "title": "Trash",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 594
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/25uFrOg2psCxLtzY4nDCMz9CIvC.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            53,
+            80
+        ],
+        "id": 11560,
+        "original_language": "en",
+        "original_title": "High Crimes",
+        "overview": "A female attorney learns that her husband is really a marine officer awol for fifteen years and accused of murdering fifteen civilians in El Salvador. Believing her husband when he tells her that he's being framed as part of a U.S. Military cover-up, the attorney defends him in a military court.",
+        "popularity": 43.514,
+        "poster_path": "/9sj9rUr7Vu5IfOQHnYKnJuVEw0B.jpg",
+        "release_date": "2002-04-05",
+        "title": "High Crimes",
+        "video": false,
+        "vote_average": 6.342,
+        "vote_count": 762
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pGvv5tQAxwUh3tBOGKLpeo7YihS.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27
+        ],
+        "id": 28691,
+        "original_language": "fr",
+        "original_title": "Frauengefängnis",
+        "overview": "Maria, an unfortunate young woman, kills her rapist father in self-defense, and is later tried, sentenced, and shipped off to a woman's penitentiary where she and her fellow inmates are subjected to psychological and sexual abuse at the hands of a psychotic lesbian warden.",
+        "popularity": 30.21,
+        "poster_path": "/3FBtK6Cn80qLESrWqIhbSh0uXLE.jpg",
+        "release_date": "1976-04-22",
+        "title": "Barbed Wire Dolls",
+        "video": false,
+        "vote_average": 4.723,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Y8b33EkncHL9mLRVvSPSB2SQol.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 11546,
+        "original_language": "en",
+        "original_title": "Police Academy: Mission to Moscow",
+        "overview": "The Russians seek help in dealing with the Mafia from the veterans of the Police Academy. They head off to Moscow, in order to find evidence against Konstantin Konali, who marketed a computer game that everyone in the world is playing.",
+        "popularity": 42.009,
+        "poster_path": "/3517XQ9LpoEykyYq2TuDNS45MPP.jpg",
+        "release_date": "1994-06-09",
+        "title": "Police Academy: Mission to Moscow",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 840
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c1f7HpEEEZaOQ5PxAGLwbauURMu.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 1007427,
+        "original_language": "en",
+        "original_title": "Night Train",
+        "overview": "Mother Holly McCord is driven to extremes to save the life of her young son. Even if it means hauling black market drugs in her souped-up truck, with the Feds in hot pursuit. With two bounties on her head and her son’s life on the line, Holly climbs behind the wheel of “Night Train,” ready to outrun, out gun, and outlast them all.",
+        "popularity": 35.863,
+        "poster_path": "/gRWWO0dqCRG6K8ZtRNVf8xrb1Ng.jpg",
+        "release_date": "2023-01-13",
+        "title": "Night Train",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zvNMZl0l2qYq0x0ntq8sILiIpLw.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 9040,
+        "original_language": "en",
+        "original_title": "Serpico",
+        "overview": "Frank Serpico is an idealistic New York City cop who refuses to take bribes, unlike the rest of the force. His actions get Frank shunned by the other officers, and often placed in dangerous situations by his partners. When his superiors ignore Frank's accusations of corruption, he decides to go public with the allegations. Although this causes the Knapp Commission to investigate his claims, Frank has also placed a target on himself.",
+        "popularity": 48.746,
+        "poster_path": "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+        "release_date": "1973-12-18",
+        "title": "Serpico",
+        "video": false,
+        "vote_average": 7.538,
+        "vote_count": 1859
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vFaqHaTwgC9lGngBLiUZdgNWOoe.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 845,
+        "original_language": "en",
+        "original_title": "Strangers on a Train",
+        "overview": "Two strangers meet on a train. They’ve never met before. Both of whom have someone they’d like to murder. So, they swap murders. A psychopath shares this concept with tennis star Guy Haines, whose wife refuses to get a divorce. He agrees, thinking it is a joke. But now his wife is dead, Haines finds himself a prime suspect and the man wants Guy to kill his father.",
+        "popularity": 33.746,
+        "poster_path": "/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+        "release_date": "1951-06-27",
+        "title": "Strangers on a Train",
+        "video": false,
+        "vote_average": 7.678,
+        "vote_count": 1616
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cjA8bxjXcw3I63DlO3qa6uFwrH4.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 22094,
+        "original_language": "en",
+        "original_title": "Hard Times",
+        "overview": "In the depression, Chaney, a strong silent streetfighter, joins with Speed, a promoter of no-holds-barred street boxing bouts. They go to New Orleans where Speed borrows money to set up fights for Chaney, but Speed gambles away any winnings.",
+        "popularity": 30.994,
+        "poster_path": "/yWIh8cMGd9XubkdhJB2TJ7buGy3.jpg",
+        "release_date": "1975-08-13",
+        "title": "Hard Times",
+        "video": false,
+        "vote_average": 6.742,
+        "vote_count": 192
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5EEdDTV0IBxJ2J4jDUDvl076v7f.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 59,
+        "original_language": "en",
+        "original_title": "A History of Violence",
+        "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+        "popularity": 42.735,
+        "poster_path": "/A26rcvipOqptVs7i5uRmKicXRxE.jpg",
+        "release_date": "2005-09-23",
+        "title": "A History of Violence",
+        "video": false,
+        "vote_average": 7.169,
+        "vote_count": 3118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a8e4wgXPPjfOviRYE6L3kAXpvwr.jpg",
+        "genre_ids": [
+            53,
+            80,
+            27,
+            9648
+        ],
+        "id": 800815,
+        "original_language": "en",
+        "original_title": "The Pale Blue Eye",
+        "overview": "West Point, New York, 1830. When a cadet at the burgeoning military academy is found hanged with his heart cut out, the top brass summons former New York City constable Augustus Landor to investigate. While attempting to solve this grisly mystery, the reluctant detective engages the help of one of the cadets: a strange but brilliant young fellow by the name of Edgar Allan Poe.",
+        "popularity": 51.066,
+        "poster_path": "/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
+        "release_date": "2022-12-22",
+        "title": "The Pale Blue Eye",
+        "video": false,
+        "vote_average": 6.849,
+        "vote_count": 1750
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2Ei2CsAerKG1mWdWeog5k2DbcRh.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 325789,
+        "original_language": "en",
+        "original_title": "The Infiltrator",
+        "overview": "A U.S Customs official uncovers a massive money laundering scheme involving Pablo Escobar.",
+        "popularity": 32.725,
+        "poster_path": "/758F57DxVRLe38S1Je4O1Bjx2u6.jpg",
+        "release_date": "2016-07-13",
+        "title": "The Infiltrator",
+        "video": false,
+        "vote_average": 6.672,
+        "vote_count": 1626
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c9RwZm40IizTKwWPO933SyDufHS.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 11975,
+        "original_language": "en",
+        "original_title": "The Rainmaker",
+        "overview": "When Rudy Baylor, a young attorney with no clients, goes to work for a seedy ambulance chaser, he wants to help the parents of a terminally ill boy in their suit against an insurance company. But to take on corporate America, Rudy and a scrappy paralegal must open their own law firm.",
+        "popularity": 38.464,
+        "poster_path": "/twLGHXPjQtS8UyVGp5GXmhJiTM7.jpg",
+        "release_date": "1997-11-18",
+        "title": "The Rainmaker",
+        "video": false,
+        "vote_average": 7.017,
+        "vote_count": 1241
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ihNANvV5i3wW700gWWQXjYUB7Hv.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 290864,
+        "original_language": "zh",
+        "original_title": "一個人的武林",
+        "overview": "A martial arts instructor working at a police academy gets imprisoned after killing a man by accident. But when a vicious killer starts targeting martial arts masters, the instructor offers to help the police in return for his freedom.",
+        "popularity": 30.216,
+        "poster_path": "/myZQ4WocOQQCXNGVJkHeeJ1jTEj.jpg",
+        "release_date": "2014-10-31",
+        "title": "Kung Fu Jungle",
+        "video": false,
+        "vote_average": 6.738,
+        "vote_count": 424
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tUxE815pXIRuU7ZJLuCO03MrqsI.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 842544,
+        "original_language": "en",
+        "original_title": "Transfusion",
+        "overview": "Ryan Logan, a former Special Forces operative, is battling to cope with life after the loss of his wife.  He is thrusted into the criminal underworld to keep his only son from being taken from him.",
+        "popularity": 39.492,
+        "poster_path": "/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg",
+        "release_date": "2023-01-05",
+        "title": "Transfusion",
+        "video": false,
+        "vote_average": 6.083,
+        "vote_count": 234
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l53K8Fp1WcOMRL33CMsnnMUPiWg.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 77016,
+        "original_language": "en",
+        "original_title": "End of Watch",
+        "overview": "Two young officers are marked for death after confiscating a small cache of money and firearms from the members of a notorious cartel during a routine traffic stop.",
+        "popularity": 38.708,
+        "poster_path": "/pDeVKQICkcdwwjHxGj0MeS14YJ6.jpg",
+        "release_date": "2012-09-20",
+        "title": "End of Watch",
+        "video": false,
+        "vote_average": 7.344,
+        "vote_count": 3129
+    }
+]

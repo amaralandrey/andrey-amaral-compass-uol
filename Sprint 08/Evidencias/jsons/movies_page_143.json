@@ -1,0 +1,408 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/nw0xlXxry89BlsErsuOMSIuxloq.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 42807,
+        "original_language": "en",
+        "original_title": "The Newton Boys",
+        "overview": "The four Newton brothers are a poor farmer family in the 1920s. One day, the oldest of them, Willis, realizes that there's no future in the fields and offers his brothers to become bank robbers. Soon the family agrees. They become very famous robbers and execute the greatest train robbery in American history five years later.",
+        "popularity": 18.668,
+        "poster_path": "/dyDO45OuOOKtOttUcAb6D3MgU5.jpg",
+        "release_date": "1998-03-26",
+        "title": "The Newton Boys",
+        "video": false,
+        "vote_average": 6.081,
+        "vote_count": 172
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gFZcd7HXjJPvMUBy5oUdS4acGj.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80,
+            53
+        ],
+        "id": 38425,
+        "original_language": "zh",
+        "original_title": "迷你特攻隊",
+        "overview": "A force of loners and fighters is put together to try and rescue the generals and save the war effort with the promise of gold and pardons of past crimes.",
+        "popularity": 18.662,
+        "poster_path": "/zHdR9pDcwMOUUBgx7V4VQSeKGIt.jpg",
+        "release_date": "1983-02-13",
+        "title": "Fantasy Mission Force",
+        "video": false,
+        "vote_average": 4.75,
+        "vote_count": 46
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8nhDUdPRO0qVaQKpIhh3Vxw0SoV.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 36136,
+        "original_language": "en",
+        "original_title": "Another Day in Paradise",
+        "overview": "In the hope of a big score, two junkie couples team up to commit various drug robberies which go disastrously wrong, leading to dissent, violence, and murder.",
+        "popularity": 18.66,
+        "poster_path": "/zlXPEQKFWga2obpgHG2IZVgOZPg.jpg",
+        "release_date": "1998-12-30",
+        "title": "Another Day in Paradise",
+        "video": false,
+        "vote_average": 6.252,
+        "vote_count": 129
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6qpPqn33a3XrsnOds4wKNinsIu5.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648,
+            53
+        ],
+        "id": 255756,
+        "original_language": "zh",
+        "original_title": "白日焰火",
+        "overview": "Two former cops start investigating the series of murders that tanked their careers when the killings begin again.",
+        "popularity": 18.658,
+        "poster_path": "/i1iCNpaGsTlMaizo8vi8D2qbWks.jpg",
+        "release_date": "2014-06-11",
+        "title": "Black Coal, Thin Ice",
+        "video": false,
+        "vote_average": 6.457,
+        "vote_count": 255
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tYt6qg8fShgf8Pa2f1ac8wfuypF.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 39834,
+        "original_language": "en",
+        "original_title": "Violent Saturday",
+        "overview": "Three men case a small town very carefully, with plans to rob the bank on the upcoming Saturday, which turns violent and deadly.",
+        "popularity": 18.655,
+        "poster_path": "/zZQmZgamK4lSA4rBz8dbkfoNhsw.jpg",
+        "release_date": "1955-04-01",
+        "title": "Violent Saturday",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yVgv80XIDcl1RGqT4Q1qVmnKlnr.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 32233,
+        "original_language": "cn",
+        "original_title": "大隻佬",
+        "overview": "A monk turned body-builder, with the gift to see into people's lives, befriends a female cop, and uses his gift to change the force of Karma and her destiny.",
+        "popularity": 18.654,
+        "poster_path": "/wHGb1cISWWh3K4Q9kJmzWNN432.jpg",
+        "release_date": "2003-09-27",
+        "title": "Running on Karma",
+        "video": false,
+        "vote_average": 6.335,
+        "vote_count": 85
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oW7xP4yoatCrAbBv5mCDGhrjhCt.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 16759,
+        "original_language": "en",
+        "original_title": "Five Minutes of Heaven",
+        "overview": "The story of former UVF member Alistair Little. Twenty-five years after Little killed Joe Griffen's brother, the media arrange an auspicious meeting between the two.",
+        "popularity": 18.642,
+        "poster_path": "/6Gvo1QUjyAwNfBVrMgGiHkVRQdx.jpg",
+        "release_date": "2009-01-19",
+        "title": "Five Minutes of Heaven",
+        "video": false,
+        "vote_average": 6.142,
+        "vote_count": 197
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qK4O4XINKAofDafO9tLfXPgKWHA.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 4883,
+        "original_language": "en",
+        "original_title": "And Then There Were None",
+        "overview": "Ten people are invited to a hotel in the Iranian desert, only to find that an unseen person is killing them one by one. Could one of them be the killer?",
+        "popularity": 18.639,
+        "poster_path": "/JoBZj30v380XBiRrYwIhOoGJ1z.jpg",
+        "release_date": "1974-09-24",
+        "title": "And Then There Were None",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 96
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xs0MUkV4wY1OqkxZiXBFmeliHKZ.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 61888,
+        "original_language": "ja",
+        "original_title": "悪人",
+        "overview": "Shimizu Yuichi is a shy and lonely day laborer looking for love. He aimlessly spends time corresponding with girls via telephone dating services and going on random encounters with girls looking for spending cash. His world is shattered one day when he is involved in the murder of one of his former encounters, the sweet-faced Ishibashi Yoshino who, after being jilted by playboy Masuo Keijo, berates and mocks the troubled loner.",
+        "popularity": 18.636,
+        "poster_path": "/4tCpSellyteA45C7ijwZI1AZan0.jpg",
+        "release_date": "2010-09-11",
+        "title": "Villain",
+        "video": false,
+        "vote_average": 6.486,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jbheYBYMPMV4kWGCh8H5kLD3WYr.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 1115379,
+        "original_language": "zh",
+        "original_title": "河边的错误",
+        "overview": "1990s, Banpo Town, rural China. A woman's body is found by the river. Ma Zhe, Chief of the Criminal Police, heads up the murder investigation that leads to an obvious arrest. His superiors hurry to congratulate him, but several clues push Ma Zhe to delve deeper into the hidden behaviour of his fellow citizens.",
+        "popularity": 18.631,
+        "poster_path": "/qdlcJnXY63t17xKFfROfafTbXsD.jpg",
+        "release_date": "2023-10-21",
+        "title": "Only the River Flows",
+        "video": false,
+        "vote_average": 6.615,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r5ec8FpxaWv31v6tQ3q6ZnxzTYT.jpg",
+        "genre_ids": [
+            9648,
+            27,
+            53,
+            80
+        ],
+        "id": 57749,
+        "original_language": "en",
+        "original_title": "The Clinic",
+        "overview": "While traveling across country with her fiancé, Beth wakes alone in an isolated clinic to a mother's worst nightmare. Just how far will she go to save her child?",
+        "popularity": 18.621,
+        "poster_path": "/wWWjKwaWJ8pidrCxWeUsvXl00pl.jpg",
+        "release_date": "2010-10-10",
+        "title": "The Clinic",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 108
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tkhPGA4KTy5njQwglP6t7ytp00p.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 20942,
+        "original_language": "en",
+        "original_title": "House of Bamboo",
+        "overview": "Eddie Kenner is given a special assignment by the Army to get the inside story on Sandy Dawson, a former GI who has formed a gang of fellow servicemen and Japanese locals.",
+        "popularity": 18.62,
+        "poster_path": "/7LxWQZA0PCSJ0jGcZ7KYq1uFupL.jpg",
+        "release_date": "1955-07-01",
+        "title": "House of Bamboo",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rJTL5zeWPmBvoxcKbIcHOsd359U.jpg",
+        "genre_ids": [
+            12,
+            80,
+            53,
+            27
+        ],
+        "id": 19201,
+        "original_language": "en",
+        "original_title": "Captain Clegg",
+        "overview": "A captain and his sailors investigate the rampaging \"Marsh Phantoms\" terrorizing a coastal town, but their search is hindered by a local reverend and a horrifying curse.",
+        "popularity": 18.607,
+        "poster_path": "/5wQbnaBidXchb2WSSCdEFgX0ZyT.jpg",
+        "release_date": "1962-06-13",
+        "title": "Captain Clegg",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 63
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7TOJVCvqHq0xaazcCDFIF6GBSI6.jpg",
+        "genre_ids": [
+            80,
+            18,
+            36
+        ],
+        "id": 92493,
+        "original_language": "en",
+        "original_title": "Edwin Boyd: Citizen Gangster",
+        "overview": "Based on a real WWII vet and family man turned bank robber. Disillusioned by his post war circumstances, Eddie Boyd is torn between the need to provide for his young family and an unfulfilled dream to head to Hollywood to become a star. He discovers a way to do both, robbing banks Hollywood style, but his dream leads him down a path of danger and tragedy.",
+        "popularity": 18.606,
+        "poster_path": "/hTY0Wst8Gwm8tfVjw4J24i0L28q.jpg",
+        "release_date": "2011-09-10",
+        "title": "Edwin Boyd: Citizen Gangster",
+        "video": false,
+        "vote_average": 5.518,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l7MH1RtEiKeM3p7vL1HsZnkYYNE.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 38850,
+        "original_language": "en",
+        "original_title": "Stolen Lives",
+        "overview": "A detective becomes obsessed with solving a child's 50-year-old murder, uncovering striking similarities between the case and his son's disappearance.",
+        "popularity": 18.602,
+        "poster_path": "/sJzSflTDiGc4E641ex5ADyfdCQ8.jpg",
+        "release_date": "2009-10-10",
+        "title": "Stolen",
+        "video": false,
+        "vote_average": 5.911,
+        "vote_count": 101
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ad5sxnxSFu8rRyDoAsOB6tkUkXy.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            80
+        ],
+        "id": 11389,
+        "original_language": "da",
+        "original_title": "Olsen-banden",
+        "overview": "The first of 14 Olsen Gang films presents us with Egon Olsen, head of the gang, and his friends Benny and Kjeld, who want to become the best known gang in Denmark and eventually Europe by stealing a famous Bavarian work of art currently displayed in a Copenhagen museum. Although Egon's plan works out fine, there is only trouble ahead for the little gang.",
+        "popularity": 18.599,
+        "poster_path": "/AacndEk3B1wBVhhu9jJD8aEohZ5.jpg",
+        "release_date": "1968-10-11",
+        "title": "The Olsen Gang",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 51
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xmMFO5SsXYcxsPXJPPyu8lQ7Rqx.jpg",
+        "genre_ids": [
+            80,
+            28,
+            12,
+            53
+        ],
+        "id": 4857,
+        "original_language": "fr",
+        "original_title": "Adieu l'ami",
+        "overview": "After serving together in the French Foreign Legion, a mercenary and a doctor leave the service and go their separate ways. Later, they are reunited and become involved with a caper involving millions in a high-security safe. The two men become locked in during a holiday weekend as they attempt to crack the safe's combination.",
+        "popularity": 18.598,
+        "poster_path": "/jk8tuEAaxpi6kgIX02FK1aXvKuT.jpg",
+        "release_date": "1968-08-14",
+        "title": "Farewell, Friend",
+        "video": false,
+        "vote_average": 6.357,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uAxfRNDmaLN9M1hjbGuBtJEVKfG.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 785585,
+        "original_language": "ml",
+        "original_title": "കുറുപ്പ്",
+        "overview": "The Film is based on the infamous 'Charlie Murder Case' in the Indian State of Kerala where the main culprit Sukumara Kurup has been on the run for decades and is still not been caught. The story revolves around the perspective of Sukumara Kurup and the Police officers who were investigating the case.",
+        "popularity": 18.596,
+        "poster_path": "/3621WvCUWHYiXbO6ZXMxBSUxApe.jpg",
+        "release_date": "2021-11-12",
+        "title": "Kurup",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 35
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/v5k7ek69SKPH2r7BNzZhn5GyB9i.jpg",
+        "genre_ids": [
+            80,
+            28,
+            35
+        ],
+        "id": 11612,
+        "original_language": "it",
+        "original_title": "Anche gli angeli mangiano fagioli",
+        "overview": "Two mismatched buddies are mistaken for mob enforcers in Depression-era America.",
+        "popularity": 18.594,
+        "poster_path": "/hEeC0pFHZ4gK13czO0BJHwDpdzI.jpg",
+        "release_date": "1973-03-22",
+        "title": "Even Angels Eat Beans",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 207
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eLBK45mIbaT1qn40841MoS0doLI.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            18,
+            9648
+        ],
+        "id": 944865,
+        "original_language": "en",
+        "original_title": "Boon",
+        "overview": "Mercenary Nick Boon is trying to atone for his life as an enforcer for a ruthless syndicate. Running from his past, Boon moves to a remote area in the pacific northwest where he meets a struggling widow and her son. When he finds the pair living in fear of a criminal kingpin, Boon realizes the only way to protect them is to do what he does best: kill.",
+        "popularity": 18.592,
+        "poster_path": "/i4zcFYC4ILkvlBl37eHdNYSYvJW.jpg",
+        "release_date": "2022-04-01",
+        "title": "Boon",
+        "video": false,
+        "vote_average": 5.231,
+        "vote_count": 39
+    }
+]

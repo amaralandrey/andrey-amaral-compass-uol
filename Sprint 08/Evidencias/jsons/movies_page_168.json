@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/7ToXi1lFK6E69dBTBxkOx5Oh9JV.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 191104,
+        "original_language": "nl",
+        "original_title": "Wolf",
+        "overview": "A promising kickboxer struggles to resist the temptations of a life of crime.",
+        "popularity": 16.663,
+        "poster_path": "/pHlg3tFswaPg2sM1zAXryWtZAsQ.jpg",
+        "release_date": "2013-09-11",
+        "title": "Wolf",
+        "video": false,
+        "vote_average": 6.92,
+        "vote_count": 44
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/duTR9M0lggpLMLCd6guYBNBBOXu.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 714651,
+        "original_language": "ko",
+        "original_title": "소년들",
+        "overview": "In 1999, a robbery-murder case occurs in a small supermarket in Samnye, Jeonbuk province. The police investigation quickly narrows down to three boys from the neighborhood, and these boys are falsely accused of being murderers overnight and are imprisoned without understanding what is happening. The following year, veteran detective Hwang Joon-cheol is newly appointed as the head of Crime Investigation Division. He receives a tip about the real culprits and embarks on a reinvestigation to clear the boys' names. However, the interference of the detective responsible for the case at the time, Choi Woo-sung, leads to everything falling apart, and Hwang is demoted. Sixteen years later, the sole witness of the case and daughter of the victim, Yoon Mi-sook, and the boys return to Hwang, seeking justice...",
+        "popularity": 16.661,
+        "poster_path": "/c8Hslxtlkj40ZH0869uQj6KgfeW.jpg",
+        "release_date": "2023-11-01",
+        "title": "The Boys",
+        "video": false,
+        "vote_average": 6.667,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ayocXiKOeg6GDWvCcftSwd2Umwt.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 382154,
+        "original_language": "ja",
+        "original_title": "ディストラクション・ベイビーズ",
+        "overview": "Taira is a disaffected youth from a seaside town reveling in violence. Enamored by his strength, Yuya joins his crusade in attacking strangers.  Meanwhile, Taira's brother looks for him.",
+        "popularity": 16.659,
+        "poster_path": "/oQUEMDF2wvKtFJ0XMWXZlEd61wZ.jpg",
+        "release_date": "2016-05-31",
+        "title": "Destruction Babies",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bpXWUlcoqeAKdNJeDdN7ZJNJgAn.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            9648,
+            10749
+        ],
+        "id": 866267,
+        "original_language": "en",
+        "original_title": "The Hanging Sun",
+        "overview": "On the run from his former employer, a reluctant hitman seeks refuge in an isolated village where he is faced with events that test the true nature of his conscience.",
+        "popularity": 16.657,
+        "poster_path": "/iVLavGCSjuHfWAfWZ3eAb0ztVP4.jpg",
+        "release_date": "2022-09-12",
+        "title": "The Hanging Sun",
+        "video": false,
+        "vote_average": 5.568,
+        "vote_count": 73
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5IPvrwnVN2cnM59UzIk41Tu7gqy.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 43213,
+        "original_language": "en",
+        "original_title": "Chicago Overcoat",
+        "overview": "The fates of an aging hitman and a washed up detective become entwined when one last job leads to one last chance to settle an old score.",
+        "popularity": 16.657,
+        "poster_path": "/koNlNtOg58DBEs5oJgLoADixcYf.jpg",
+        "release_date": "2009-10-10",
+        "title": "Chicago Overcoat",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ctoJaX5yrTr5NfTrHjsC3FQ4EeO.jpg",
+        "genre_ids": [
+            28,
+            10749,
+            80
+        ],
+        "id": 217631,
+        "original_language": "cn",
+        "original_title": "天若有情II：天長地久",
+        "overview": "A street racer encounters a mainland courtesan under an extraordinary circumstances. A moment of Romance between them follows after.",
+        "popularity": 16.653,
+        "poster_path": "/aXgK6QA4rBxQDROhHk9MOR2wRtv.jpg",
+        "release_date": "1993-06-11",
+        "title": "A Moment of Romance II",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aSHCKIaM443octZUVaC31NMYW9G.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 18176,
+        "original_language": "en",
+        "original_title": "Assassination of a High School President",
+        "overview": "After the theft of copies of SAT exams from a principal's office, teenage reporter Bobby Funke sets out to unmask the thief. Bobby prints an article fingering Class President Paul Moore as the thief, shredding the youth's reputation. But as Bobby gets to know Paul's girlfriend, Francesca, he comes to realize he was wrong about Paul, so he sets out to unmask the true culprit.",
+        "popularity": 16.653,
+        "poster_path": "/pFhPBogzWlpEbqUXTpUv6sJOeFu.jpg",
+        "release_date": "2008-01-17",
+        "title": "Assassination of a High School President",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 285
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l7gUnlG6ooTW1iZ1JgVcdfQjoab.jpg",
+        "genre_ids": [
+            10770,
+            80,
+            9648,
+            53
+        ],
+        "id": 192465,
+        "original_language": "en",
+        "original_title": "Fugitive at 17",
+        "overview": "Suspected of murdering her best friend, a teenage computer-hacker goes on the run to find the real killer.",
+        "popularity": 16.65,
+        "poster_path": "/b44kGCtUi0vl0oCD6BGulwMA5lE.jpg",
+        "release_date": "2012-06-30",
+        "title": "Fugitive at 17",
+        "video": false,
+        "vote_average": 6.567,
+        "vote_count": 97
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y1MJJPzf3FUOQgdNv037BLMjioM.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 21990,
+        "original_language": "en",
+        "original_title": "The Man from Hong Kong",
+        "overview": "Australian authorities arrest a man believed to be connected to the Sydney criminal underworld and send for Inspector Fang Sing Leng from Hong Kong to question him. After the alleged criminal is assassinated, Inspector Leng and the Sydney police try to hunt down those responsible and hope to solve their case along the way.",
+        "popularity": 16.64,
+        "poster_path": "/8iq3jIltYvTkedLSEGJ0eBR5fSa.jpg",
+        "release_date": "1975-07-31",
+        "title": "The Man from Hong Kong",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qsvrpP1DhLLy0jau0IEj5R6If1W.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 13251,
+        "original_language": "en",
+        "original_title": "The Walker",
+        "overview": "An escort who caters to Washington D.C.'s society ladies becomes involved in a murder case.",
+        "popularity": 16.639,
+        "poster_path": "/hqZ6Dw2HyDSY7pkcJCPCXDJ0S1K.jpg",
+        "release_date": "2007-02-13",
+        "title": "The Walker",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1mb6AnIiW46hxdpEzKNc4KKNFBS.jpg",
+        "genre_ids": [
+            18,
+            80,
+            27
+        ],
+        "id": 48691,
+        "original_language": "it",
+        "original_title": "Addio zio Tom",
+        "overview": "Two documentary filmmakers go back in time to the pre-Civil War American South, to film the slave trade.",
+        "popularity": 16.637,
+        "poster_path": "/nLw410E9rnJw13kufNgOtjiGvGk.jpg",
+        "release_date": "1971-09-23",
+        "title": "Goodbye Uncle Tom",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iXjZI9lxVwZ3D0Wpi49WniyI9GC.jpg",
+        "genre_ids": [
+            37,
+            80,
+            18,
+            10749
+        ],
+        "id": 94533,
+        "original_language": "en",
+        "original_title": "The Badlanders",
+        "overview": "Two men are released from the Arizona Territorial Prison at Yuma in 1898. One, The Dutchman, is out to get both gold and revenge from certain people in a small mining town who had him imprisoned unjustly. The other, McBain, is just trying to go straight, but that is easier said than done once The Dutchman involves him in his gold theft scheme.  Based on the 1949 novel The Asphalt Jungle by W. R. Burnett, the story is given an 1898 setting. It is the second film adaptation of the novel following 1950's noir classic The Asphalt Jungle.",
+        "popularity": 16.633,
+        "poster_path": "/tHn8MOXIPq0WzI1zURb8nOQiGUA.jpg",
+        "release_date": "1958-09-03",
+        "title": "The Badlanders",
+        "video": false,
+        "vote_average": 6.232,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53,
+            27
+        ],
+        "id": 11345,
+        "original_language": "en",
+        "original_title": "The Zodiac",
+        "overview": "An elusive serial killer known as the Zodiac terrorizes the San Francisco Bay in the late 1960s, while detectives aim to stop him before he claims more victims. Based on a true story.",
+        "popularity": 16.632,
+        "poster_path": "/kwhF9vVc9tyiSOxRJSKCey67lXb.jpg",
+        "release_date": "2005-07-31",
+        "title": "The Zodiac",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 120
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ubn9Em9G2aFNtogNGCR6IoDBqM.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 583794,
+        "original_language": "fa",
+        "original_title": "متری شش و نیم",
+        "overview": "Samad is nobody’s fool. The narcotics officer has seen his share of a drug dealer’s lies and games, and his patience has come to run thin. While searching for the infamous drug baron Nasser Khakzad, he and his colleague Hamid scour the streets of Tehran, turning an overcrowded prison on its head. With his rough and dubious approach, Samad finally manages to find the criminal’s whereabouts – but things do not quite go according to plan...",
+        "popularity": 16.631,
+        "poster_path": "/ujNhy2Vu7S1FHuwePMIYMkIbGTj.jpg",
+        "release_date": "2019-03-17",
+        "title": "Law of Tehran",
+        "video": false,
+        "vote_average": 7.145,
+        "vote_count": 234
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4R0FdnUHeDdWYVbzAM2ikkm3kj1.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 19588,
+        "original_language": "ko",
+        "original_title": "두사부일체",
+        "overview": "When a young gang leader seems to be just a bit too stupid to effectively carry out his daily tasks, his superiors order him to go back to school for his high school diploma. Posing as a 19-year-old, he soon learns that the school is even more corrupt and vicious. Wrath is unleashed.",
+        "popularity": 16.631,
+        "poster_path": "/iOyWhkeDJ7GY2VcA93KF0oLzLV6.jpg",
+        "release_date": "2001-12-14",
+        "title": "My Boss, My Hero",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/50VOlHdWIASjlznky6v498a8DGR.jpg",
+        "genre_ids": [
+            36,
+            18,
+            80,
+            10402
+        ],
+        "id": 912726,
+        "original_language": "de",
+        "original_title": "Rheingold",
+        "overview": "Xatar’s way from the ghetto to the top of the charts is as dramatic as it is daring: Fatih Akin’s new film is based on the autobiographical novel »Alles oder Nix« (»All or Nothing«) of the probably most authentic exponent of German gangsta rap. From the hell of an Iraqi jail, Giwar Hajabi (Emilio Sakraya) emigrated to Germany as a young boy with his family in the mid-1980s and has to start right at the bottom. There are opportunities, but far more obstacles. Giwar’s rise from petty criminal to major dealer is swift. Until one shipment goes missing. In order to clear his debts with the cartel, he plans a legendary gold heist. But just as everything goes wrong, another door opens for Giwar thanks to his passion for music …",
+        "popularity": 16.623,
+        "poster_path": "/aUtbh1sFpCWEZlABXNjOugCbt88.jpg",
+        "release_date": "2022-10-27",
+        "title": "Rhinegold",
+        "video": false,
+        "vote_average": 6.623,
+        "vote_count": 69
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3S7ACYS4Z0HzT7rHNfb4qwMtJT8.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10402,
+            10749
+        ],
+        "id": 7506,
+        "original_language": "en",
+        "original_title": "Harum Scarum",
+        "overview": "Johnny Tyronne, action movie star and ladies man, is traveling through the Middle East on a goodwill tour to promote his latest movie, \"Sands of the Desert\". Once he arrives, however, he is kidnapped by a gang of assassins who were so impressed with his on-screen adventures that they want to hire him to carry out an assassination for them.",
+        "popularity": 16.619,
+        "poster_path": "/9534MhbWoH3h4JttddrCqKhvIdL.jpg",
+        "release_date": "1965-12-15",
+        "title": "Harum Scarum",
+        "video": false,
+        "vote_average": 4.81,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 214378,
+        "original_language": "cn",
+        "original_title": "四人幫之錢唔夠洗",
+        "overview": "Inspector Lee (Danny Lee) and his team (including Monica Chan and Cheung Kwok-Keung) look into the mysterious disappearance of a seedy loan shark (Ken Lo), but find no real leads. Amazingly, the culprits fall into their laps. Four young men, led by Wong Wing-Man (Sam Lee) confess to the killing. Apparently, they were deep in debt, and found the murder of their friend to be the only way out. There is one problem, though: no physical evidence.",
+        "popularity": 16.613,
+        "poster_path": "/vBy8q0YruxTbqrPEiLhhry9pKuB.jpg",
+        "release_date": "1999-11-18",
+        "title": "The Untold Story III",
+        "video": false,
+        "vote_average": 5.286,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            10770
+        ],
+        "id": 354781,
+        "original_language": "ja",
+        "original_title": "Wの悲劇",
+        "overview": "The lakeside at Lake Yamanaka is covered with snow. In the vacation house in such a quiet area owned by the chairman of Watsuji Seiyaku, one of the leading pharmaceutical companies in Japan, the tragedy suddenly breaks out. ”I have killed my granduncle!!” says Mako, who is loved by everybody in the Watsuji family. She has stabbed her granduncle, Yohei, to death. Soon after the domestic homicide, the entire family joining together in an attempt to make it look like a crime committed by somebody outside the family, begins to engage in imitative deception...",
+        "popularity": 16.609,
+        "poster_path": "/mCVeYKrmQTNMe0AzOwsTMToraD6.jpg",
+        "release_date": "2010-01-11",
+        "title": "The Tragedy of W",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/TvZJiHMYyGTf5LZgREgEBGqMHb.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 62981,
+        "original_language": "fr",
+        "original_title": "Mortelle randonnée",
+        "overview": "A P.I. is obsessed with a cute woman, who seduces and kills rich men around W. Europe.",
+        "popularity": 16.609,
+        "poster_path": "/2rTqWmZi3KV9cdzDgIw2y9llbhi.jpg",
+        "release_date": "1983-03-09",
+        "title": "Deadly Circuit",
+        "video": false,
+        "vote_average": 6.188,
+        "vote_count": 96
+    }
+]

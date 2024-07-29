@@ -1,0 +1,391 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/pBjZbbKh86OjznjObtsZ1jg7meu.jpg",
+        "genre_ids": [
+            80,
+            12
+        ],
+        "id": 410594,
+        "original_language": "vi",
+        "original_title": "Cop Busters",
+        "overview": "Big Bear and Big Mouth were raised in the same orphanage. They worked in the traffic division of the police department for years. They were assigned to tow cars by their division commander; but on the first day of their assignment they mistakenly picked up a little girl named Bun. They were delighted to discover that Bun had an attractive aunt named Mary. In typical fashion, Big Mouth mistook Mary's show of affection as a show of love, and was devastated when she rejected him.",
+        "popularity": 8.106,
+        "poster_path": "/uGSTvx11U5nvQZXk3WFbzaps55c.jpg",
+        "release_date": "1985-01-24",
+        "title": "Cop Busters",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mFyiHYy5Ii9ESzzMUBB60HwkxVT.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 215576,
+        "original_language": "en",
+        "original_title": "The Vigilante: Fighting Hero of the West",
+        "overview": "Columbia's 33rd serial (made between \"Jack Armstrong\" and \"The Sea Hound\") was based on the character that first appeared in \"Action Comics\" No. 42.",
+        "popularity": 8.106,
+        "poster_path": "/p0RGAkiclTP5Vc1QLfdhtZsTbf2.jpg",
+        "release_date": "1947-05-22",
+        "title": "The Vigilante: Fighting Hero of the West",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 191277,
+        "original_language": "en",
+        "original_title": "Bonnie & Clyde: The True Story",
+        "overview": "",
+        "popularity": 8.106,
+        "poster_path": "/7yX0EGzryPKLTpL83p4uzk97qOn.jpg",
+        "release_date": "1992-08-16",
+        "title": "Bonnie & Clyde: The True Story",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p5FXEFFR8Zzo2WuLEw9jPuKXGKg.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 37988,
+        "original_language": "fi",
+        "original_title": "Vares – Yksityisetsivä",
+        "overview": "On the trail of a woman, Vares finds himself caught up with underworld characters who are on the trail of hidden millions.",
+        "popularity": 8.106,
+        "poster_path": "/lRsGGco3dL7f1OJAVOaR32gQokM.jpg",
+        "release_date": "2004-07-23",
+        "title": "Vares: Private Eye",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 41
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 334673,
+        "original_language": "ja",
+        "original_title": "XX 美しき標的",
+        "overview": "When beautiful forensic scientist Kyoko and her colleagues fail to uncover clues to the identity of a man who brutally attacks and kills women, she agrees to become the bait to lure the killer into a police snare. But as the murderer remains frustratingly aloof, Kyoko discovers that she will have to risk everything in order to apprehend him. Naosuke Kurosawa directs this steamy thriller.",
+        "popularity": 8.105,
+        "poster_path": "/pM4hZ135lNM9KElOusXPgcKg0PG.jpg",
+        "release_date": "1995-03-10",
+        "title": "XX: Beautiful Target",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80,
+            18,
+            10749
+        ],
+        "id": 71900,
+        "original_language": "hi",
+        "original_title": "ऑलवेज कभी कभी",
+        "overview": "Four students come of age during a year at their school, St Marks with various encounters.",
+        "popularity": 8.105,
+        "poster_path": "/JXS3QQMIZVWZGyjy6fXzcC520Z.jpg",
+        "release_date": "2011-06-17",
+        "title": "Always Kabhi Kabhi",
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            10770
+        ],
+        "id": 145212,
+        "original_language": "en",
+        "original_title": "I Know What I Saw",
+        "overview": "Mourning the loss of her father, who committed suicide, Mackenzie starts having hallucinations of killing people. They seem so real that she's convinced she's been committing these crimes; however, she can find no evidence to support this. Is she losing her marbles, or is there something sinister at work around her?",
+        "popularity": 8.103,
+        "poster_path": "/mCAboDBlx3jKADh12FYaJK6iDU2.jpg",
+        "release_date": "2007-07-23",
+        "title": "I Know What I Saw",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/js51BvEYpS9ahyrDf0LeWIcHiOg.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 396365,
+        "original_language": "en",
+        "original_title": "In the Line of Duty: Manhunt in the Dakotas",
+        "overview": "From the \"In the Line of Duty\" made-for-television movie series, Manhunt in the Dakotas is based on the true story of cop-killer/white supremacist Gordon Kahl.",
+        "popularity": 8.101,
+        "poster_path": "/ih07IheBIjYKnlBUuDXxPLGC5sm.jpg",
+        "release_date": "1991-05-12",
+        "title": "In the Line of Duty: Manhunt in the Dakotas",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 577005,
+        "original_language": "en",
+        "original_title": "Reward",
+        "overview": "A dispirited cop chucks his job on the force and, with the help of a college co-ed, sets out to solve the murder of a police colleague who had been his best friend.",
+        "popularity": 8.1,
+        "poster_path": "/9LJnKgwr68ooGaoByZ4rO70HPsV.jpg",
+        "release_date": "1980-05-23",
+        "title": "Reward",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dV0WNSMLp0kjhOjN8BBnLro2WVv.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 157308,
+        "original_language": "de",
+        "original_title": "Lulu",
+        "overview": "A 14-year-old girl is caught while trying to pick a doctor's pocket. The doctor ends up taking her in and turning her into a sophisticated lady, whom he marries off to a wealthy man.",
+        "popularity": 8.1,
+        "poster_path": "/q83QUeLkHiAkqAHMAuq5dB3sTyb.jpg",
+        "release_date": "1962-06-07",
+        "title": "Lulu",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2PibJP3rCpuo1QiWGZhD5UCdzvH.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 111426,
+        "original_language": "no",
+        "original_title": "Varg Veum - Kalde hjerter",
+        "overview": "Varg Veum is going to be a father. In a way he could never imagine, life takes on a new direction while he is searching for a missing pair of siblings in the prostitution circles in Bergen. Varg realizes that life will never be the same when he has to make a decision: Let the criminals go free or expose Karin to mortal danger.",
+        "popularity": 8.1,
+        "poster_path": "/1bqzUEZ9dZqbUT7GM4wpBx3F629.jpg",
+        "release_date": "2012-03-30",
+        "title": "Varg Veum - Cold Hearts",
+        "video": false,
+        "vote_average": 5.769,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i8u6ZdHt18RZsZP6sIvbeJs4dLa.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 991565,
+        "original_language": "pl",
+        "original_title": "Samiec Alfa",
+        "overview": "Five men meet on a self-development course run by a charismatic coach who promises to mend their relationship with their partners. The controversial methods of a self-proclaimed specialist turn their lives upside down, leading to a series of hilarious, sometimes blood-curdling consequences.",
+        "popularity": 8.099,
+        "poster_path": "/cJRjyj9OqhM1ArX96Uos9NCJqzU.jpg",
+        "release_date": "2022-06-24",
+        "title": "Alpha Male",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hMllLoiAtS7BFfRjpQ4R17MybWA.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 251380,
+        "original_language": "en",
+        "original_title": "Runaway Daughters",
+        "overview": "Three teenagers with troubled families are unable to adjust at home and in high-school. Tempted with an easy, carefree life they soon pass from misdemeanors into serious crime - and will suffer for it. Sometimes, repentance comes too late.",
+        "popularity": 8.099,
+        "poster_path": "/nY6b7v86KaqCHf6OKDQbgitHVgt.jpg",
+        "release_date": "1956-01-20",
+        "title": "Runaway Daughters",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9doOSHC9SgYwqkI4wF2FvLhaHO8.jpg",
+        "genre_ids": [
+            27,
+            80,
+            18
+        ],
+        "id": 193476,
+        "original_language": "en",
+        "original_title": "Sketches of a Strangler",
+        "overview": "An art student living with his sister is actually a maniac strangling dancers and prostitutes. One victim's sister starts looking for him...",
+        "popularity": 8.098,
+        "poster_path": "/y278xYIDOm3HJjc9GMY74E3CtR6.jpg",
+        "release_date": "1978-01-01",
+        "title": "Sketches of a Strangler",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/woy18xnGWIleO5KCtK9AJdwnjIA.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 415634,
+        "original_language": "zh",
+        "original_title": "追凶者也",
+        "overview": "When a murder occurs in a small town in Southeast China, a local mechanic, known for his honesty, comes under suspicion.  When the police target him to take the fall, he’s forced to try and exonerate himself, uncovering a number of disturbing facts, most much bigger than the initial crime.",
+        "popularity": 8.096,
+        "poster_path": "/aFbe0uCtNRa4UdV80DzWVLcLadS.jpg",
+        "release_date": "2016-09-16",
+        "title": "Cock and Bull",
+        "video": false,
+        "vote_average": 6.703,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 413120,
+        "original_language": "ja",
+        "original_title": "点と線",
+        "overview": "Based on Matsumoto Seicho's classic mystery novel of the same name, the story centers around a group of detectives who are determined to find the truth behind an apparent double suicide.",
+        "popularity": 8.096,
+        "poster_path": "/o8GpYq9fhrPPNDR0gOIMJvvEkXb.jpg",
+        "release_date": "1958-11-11",
+        "title": "Points and Lines",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iMUL57viWtpTsdqSOOGCEl0Kuh3.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 245385,
+        "original_language": "en",
+        "original_title": "Angela",
+        "overview": "Dennis O'Keefe plays a GI who falls in love with Mara Lane in postwar Rome. Lane kills her boss, forcing her to flee the law. O'Keefe goes along for the ride so that he won't be knocked off by Lane's husband. Just when it looks as though O'Keefe is willing to go to any lengths to protect the woman he loves, he discovers that she frankly isn't worth it.",
+        "popularity": 8.096,
+        "poster_path": "/7YAvlC2V1c5Fz19y5LyF0FFHcWX.jpg",
+        "release_date": "1954-11-16",
+        "title": "Angela",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xvJsehoOB5Qdl9snbsl5N0mOYl0.jpg",
+        "genre_ids": [
+            12,
+            35,
+            80
+        ],
+        "id": 79964,
+        "original_language": "en",
+        "original_title": "The Good Humor Man",
+        "overview": "Biff Jones is a driver/salesman for the Good Humor ice-cream company. He hopes to marry his girl Margie, who works as a secretary for Stuart Nagel, an insurance investigator. Margie won't marry Biff, though, because she is the sole support of her kid brother, Johnny. Biff gets involved with Bonnie, a young woman he tries to rescue from gangsters. But Biff's attempts to help her only get him accused of murder. When the police refuse to believe his story, it's up to Biff and Johnny to prove Biff's innocence and solve the crime.",
+        "popularity": 8.096,
+        "poster_path": "/4A25eYcdiXWtbMTsW4FV3FPwsKt.jpg",
+        "release_date": "1950-03-24",
+        "title": "The Good Humor Man",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4eDHGP9riJfwOctPdEvPKA884ZJ.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648
+        ],
+        "id": 70312,
+        "original_language": "en",
+        "original_title": "The Inner Circle",
+        "overview": "A fresh-faced young detective gets set up, framed for murder, and alibied by a smart blonde.",
+        "popularity": 8.096,
+        "poster_path": "/xwvrbKzU9l9RTTCOawyQO4kUBAi.jpg",
+        "release_date": "1946-08-07",
+        "title": "The Inner Circle",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1RED8nwk70JDmvRqPXCCPqMkuMr.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            10749
+        ],
+        "id": 387052,
+        "original_language": "zh",
+        "original_title": "谋杀似水年华",
+        "overview": "After the death of her policeman father, Xiaomai begins to look over his old journals filled with notes about the cases he investigated over the years. The mention of a purple scarf in the notes particularly catches her attention, prompting her to purchase a similar scarf from a mysterious website that claims to sell everything, as long as one can pay the price. Soon after, Xiaomai's close friend is found dead, strangled by a purple scarf. All of this awakens Xiaomai's memories of her childhood sweetheart Qiushou, whose mother was also strangled to death with a purple scarf by an unknown killer. Xiaomai and Qiushou grew up together and fell in love, but he suddenly disappeared from her life 15 years ago without a word. She begins to believe that Qiushou has returned and may be seeking revenge.",
+        "popularity": 8.095,
+        "poster_path": "/hf5o4n95VxLImSvYrXTVTSnHZ5k.jpg",
+        "release_date": "2016-02-14",
+        "title": "Kill Time",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 3
+    }
+]

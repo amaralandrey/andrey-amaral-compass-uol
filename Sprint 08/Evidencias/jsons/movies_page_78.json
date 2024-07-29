@@ -1,0 +1,403 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/wWIwN6ze61z0eZ8lyswY4Ab8Iw.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 30163,
+        "original_language": "fr",
+        "original_title": "Les Fugitifs",
+        "overview": "Coming out from jail, Lucas has decided to change his life and behave like a good citizen. But when he is taken hostage in a bank by a hare-brained robber, no cops can believe he is not part of the action.",
+        "popularity": 26.779,
+        "poster_path": "/kJD3aDqXJs8RZI6LnpscqkSBH5R.jpg",
+        "release_date": "1986-12-17",
+        "title": "The Fugitives",
+        "video": false,
+        "vote_average": 6.773,
+        "vote_count": 364
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/19ACTJfAgnIHoXJjEU8mOoFgaQH.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 31046,
+        "original_language": "en",
+        "original_title": "Stone Cold",
+        "overview": "Jesse Stone is a former L.A. homicide detective who left behind the big city and an ex-wife to become the police chief of the quiet New England fishing town of Paradise. Stone's old habits die hard as he continues to indulge his two favorite things: Scotch whiskey and women. After a series of murders—the first ever in Paradise—and a high school girl is raped, he's forced to face his own demons in order to solve the crimes.",
+        "popularity": 26.778,
+        "poster_path": "/fpNB84nfYPWDJqaNlGK1qjuITOS.jpg",
+        "release_date": "2005-02-20",
+        "title": "Stone Cold",
+        "video": false,
+        "vote_average": 6.857,
+        "vote_count": 126
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wTyyWTdwW9hdOlaqM2RVqrPj3tD.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 169298,
+        "original_language": "en",
+        "original_title": "Bullet",
+        "overview": "Danny Trejo plays 'Bullet' a tough cop who takes the law into his own hands when his grandson is kidnapped.",
+        "popularity": 22.02,
+        "poster_path": "/oSYnKLSl11aoZqJQIK9zoV63l3D.jpg",
+        "release_date": "2014-02-25",
+        "title": "Bullet",
+        "video": false,
+        "vote_average": 4.305,
+        "vote_count": 100
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gYZte484tWs24BfYwssXWwU3RBS.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648,
+            53
+        ],
+        "id": 11851,
+        "original_language": "en",
+        "original_title": "The Presidio",
+        "overview": "Jay Austin is now a civilian police detective. Colonel Caldwell was his commanding officer years before when he left the military police over a disagreement over the handling of a drunk driver. Now a series of murders that cross jurisdictions force them to work together again. That Austin is now dating Caldwell's daughter is not helping their relationship.",
+        "popularity": 26.763,
+        "poster_path": "/pHYtq4wFaUy5Rfa8lRi24QMUwRY.jpg",
+        "release_date": "1988-06-10",
+        "title": "The Presidio",
+        "video": false,
+        "vote_average": 5.841,
+        "vote_count": 321
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9QRJN7GaGIHwdkzDAilIrt1Nf4r.jpg",
+        "genre_ids": [
+            27,
+            80
+        ],
+        "id": 18573,
+        "original_language": "en",
+        "original_title": "House of Wax",
+        "overview": "A New York sculptor who opens a wax museum to showcase the likenesses of famous historical figures runs into trouble with his business partner, who demands that the exhibits become more extreme in order to increase profits.",
+        "popularity": 26.748,
+        "poster_path": "/5Di30K5NzAtYMjBSAABwgZHV0Ro.jpg",
+        "release_date": "1953-04-16",
+        "title": "House of Wax",
+        "video": false,
+        "vote_average": 6.92,
+        "vote_count": 314
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kwgEMjxqvSqpDZZ426ktsW0Reqz.jpg",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "id": 10363,
+        "original_language": "fr",
+        "original_title": "Plein soleil",
+        "overview": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
+        "popularity": 26.74,
+        "poster_path": "/asTqniOVviEV8agTTeMA1Sy72Og.jpg",
+        "release_date": "1960-03-10",
+        "title": "Purple Noon",
+        "video": false,
+        "vote_average": 7.588,
+        "vote_count": 450
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+        "genre_ids": [
+            53,
+            18,
+            9648,
+            80
+        ],
+        "id": 13528,
+        "original_language": "en",
+        "original_title": "Gaslight",
+        "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+        "popularity": 26.729,
+        "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+        "release_date": "1944-05-04",
+        "title": "Gaslight",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 470
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/s5inFkaGhp5ceo0uTxTjAvFehlE.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 146955,
+        "original_language": "en",
+        "original_title": "Border Run",
+        "overview": "A female American reporter searches for her missing brother against the backdrop of violence and human smuggling across the US/Mexican border.",
+        "popularity": 18.36,
+        "poster_path": "/anA1Musyha2EmgiW9m4FXOFMX3d.jpg",
+        "release_date": "2012-10-12",
+        "title": "Border Run",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 70
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hYVAvYJXE4taTIh2y6F5mGJWfPm.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 245916,
+        "original_language": "en",
+        "original_title": "Kill the Messenger",
+        "overview": "A reporter becomes the target of a vicious smear campaign that drives him to the point of suicide after he exposes the CIA's role in arming Contra rebels in Nicaragua and importing cocaine into California. Based on the true story of journalist Gary Webb.",
+        "popularity": 26.699,
+        "poster_path": "/8gaNZiKZHvKCqMDByY00dUIV0YC.jpg",
+        "release_date": "2014-10-09",
+        "title": "Kill the Messenger",
+        "video": false,
+        "vote_average": 6.625,
+        "vote_count": 825
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/keHN5s88wrPD3C07n6Lzev0vd69.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+        ],
+        "id": 11468,
+        "original_language": "en",
+        "original_title": "The Salton Sea",
+        "overview": "After the murder of his beloved wife, a man in search of redemption is set adrift in a world where nothing is as it seems. On his journey, he befriends slacker Jimmy \"The Finn\", becomes involved in rescuing his neighbor Colette from her own demons, and gets entangled in a web of deceit full of unexpected twists and turns.",
+        "popularity": 26.688,
+        "poster_path": "/i3InMSlLUNBEdQTKazMdyVP1ryX.jpg",
+        "release_date": "2002-02-02",
+        "title": "The Salton Sea",
+        "video": false,
+        "vote_average": 6.567,
+        "vote_count": 308
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sil4GzTAvmxFWqsp5FWZcG7adtS.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1074262,
+        "original_language": "tr",
+        "original_title": "Kötü Adamın 10 Günü",
+        "overview": "Battered, broken and bereaved, a private investigator must muscle his way through a tangle of lies to uncover the truth behind a mansion murder.",
+        "popularity": 26.683,
+        "poster_path": "/fZhPy0pIxAiV3ZHGBsuAvR30Mgb.jpg",
+        "release_date": "2023-08-18",
+        "title": "10 Days of a Bad Man",
+        "video": false,
+        "vote_average": 6.661,
+        "vote_count": 93
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yGieCRY6yhfoZpZTo7Hi9aVFRVk.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 18816,
+        "original_language": "cn",
+        "original_title": "猛龍",
+        "overview": "A team of Interpol agents arrive in the city to testify against a local crime lord. However on the way to court the vehicle carrying the Triad boss is attacked and the crime lord snatched, not by his own people but by another foe.",
+        "popularity": 26.676,
+        "poster_path": "/bG5psOQnLBiNR6HpGjSTEglWn6l.jpg",
+        "release_date": "2005-11-10",
+        "title": "Dragon Squad",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 50
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y6mCy0k7dnNKcHjLLPdo7guVjCR.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 342521,
+        "original_language": "en",
+        "original_title": "Keanu",
+        "overview": "Friends hatch a plot to retrieve a stolen cat by posing as drug dealers for a street gang.",
+        "popularity": 26.675,
+        "poster_path": "/dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg",
+        "release_date": "2016-04-21",
+        "title": "Keanu",
+        "video": false,
+        "vote_average": 6.072,
+        "vote_count": 1021
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mYU1NFj8U99yX4sXEGcvEGQ7RQG.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            53
+        ],
+        "id": 538207,
+        "original_language": "en",
+        "original_title": "We Die Young",
+        "overview": "Lucas, a 14-year-old boy inducted into the gang life in Washington D.C., is determined that his 10-year-old brother won't follow the same path. When an Afghanistan war veteran comes into the neighborhood, an opportunity arises.",
+        "popularity": 29.26,
+        "poster_path": "/dB0Dl2nDRmvplaJLeHSfkppJXHs.jpg",
+        "release_date": "2019-05-09",
+        "title": "We Die Young",
+        "video": false,
+        "vote_average": 6.835,
+        "vote_count": 319
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7pZtTbxn8d6Blgcf4EUysdEu3bO.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18,
+            28
+        ],
+        "id": 25941,
+        "original_language": "en",
+        "original_title": "Harry Brown",
+        "overview": "An elderly ex-serviceman and widower looks to avenge his best friend's murder by doling out his own form of justice.",
+        "popularity": 26.651,
+        "poster_path": "/lk9qVzvPHuL2vX9ixNut9n0KfYD.jpg",
+        "release_date": "2009-11-11",
+        "title": "Harry Brown",
+        "video": false,
+        "vote_average": 6.803,
+        "vote_count": 1019
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bGMqHn0H2UY6SPZ5Vch4YJM2jDO.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 6,
+        "original_language": "en",
+        "original_title": "Judgment Night",
+        "overview": "Four young friends, while taking a shortcut en route to a local boxing match, witness a brutal murder which leaves them running for their lives.",
+        "popularity": 26.648,
+        "poster_path": "/3rvvpS9YPM5HB2f4HYiNiJVtdam.jpg",
+        "release_date": "1993-10-15",
+        "title": "Judgment Night",
+        "video": false,
+        "vote_average": 6.486,
+        "vote_count": 327
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/14wIOjYCtfbO9EHTqCbiU9wncMz.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 852448,
+        "original_language": "en",
+        "original_title": "I Came By",
+        "overview": "A rebellious young graffiti artist, who targets the homes of the wealthy elite, discovers a shocking secret that leads him on a journey endangering himself and those closest to him.",
+        "popularity": 35.523,
+        "poster_path": "/pFB9jZDl52jBNbMPVSlISXD1ggS.jpg",
+        "release_date": "2022-08-19",
+        "title": "I Came By",
+        "video": false,
+        "vote_average": 6.274,
+        "vote_count": 647
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hLYH6wbi3Mgscdv2KuYcTdWGlUV.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 824003,
+        "original_language": "it",
+        "original_title": "Diabolik chi sei?",
+        "overview": "Captured by a ruthless gang of bank robbers, foes Diabolik and Ginko find themselves facing certain death. While Eva Kant and Altea forge an unlikely alliance to rescue their lovers, Diabolik reveals his mysterious past to the Inspector.",
+        "popularity": 26.628,
+        "poster_path": "/1DAXwi4y941ryPoGbzUlFEEiPAo.jpg",
+        "release_date": "2023-11-30",
+        "title": "Diabolik - Who Are You?",
+        "video": false,
+        "vote_average": 6.142,
+        "vote_count": 75
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eUY3rwsD2bahMyFuUHSqt1gvz0r.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "id": 17314,
+        "original_language": "en",
+        "original_title": "Pistol Whipped",
+        "overview": "Steven Seagal stars in this gritty, no-holds barred action film as an elite ex-cop with a gambling problem and a mountain of debt. When a mysterious man offers to clear his debts in exchange for the assassination of the city's most notorious gangsters, he make s decision that will change his life - forever.",
+        "popularity": 26.621,
+        "poster_path": "/kLnFzCelnRz1jne83MKPVvwhmeb.jpg",
+        "release_date": "2008-03-04",
+        "title": "Pistol Whipped",
+        "video": false,
+        "vote_average": 5.447,
+        "vote_count": 142
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ux4HpKKilst54SDiw4DPQAdGT3R.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 12648,
+        "original_language": "fr",
+        "original_title": "Agents secrets",
+        "overview": "From his offices in Switzerland, Russian Igor Lipovsky is engaged in a vast and profitable gunrunning operation with Africa. The French government wants to hinder the activities of the arms dealer and sends a team to sink one of his ships heading for Angola with a load of illegal weaponry. Lisa, Brisseau, Loïc, Tony and Raymond are professionals: they carefully set up their cover, plan all their moves meticulously, and carry out orders without asking questions. Perhaps they should. The code-name of the mission is \"Janus\"; and just like with the ancient deity, there are two opposite faces for every aspect of the operation: the objective of the French government, the role of each team member, the presumed friend and the assumed foe...",
+        "popularity": 26.621,
+        "poster_path": "/5tzRPF8TUQ1XTz3UnABCLOhMug4.jpg",
+        "release_date": "2004-03-03",
+        "title": "Secret Agents",
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 140
+    }
+]

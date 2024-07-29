@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/dSdmKa6bJbf8aLopzxCfRdVyQ7b.jpg",
+        "genre_ids": [
+            35,
+            10751,
+            80
+        ],
+        "id": 1178686,
+        "original_language": "de",
+        "original_title": "Max und die wilde 7 - Die Geister-Oma",
+        "overview": "Max can hardly believe his luck: In a retirement home, he has finally found a gang that will let him join! Admittedly, it's the oldest and most wrinkly gang in the world - but that doesn't matter. He's found the best friends a 10-year-old could wish for in the elderly Vera, Horst and Kilian. Especially when, like Max, you're bullied in your new class and need help. But the gang's attempt to improve his school situation backfires. Horst, a former Bundesliga soccer coach, challenges Max's over-ambitious gym teacher Stöhle to a soccer duel: the school team including Laura and Ole against a selection of old geezers plus Max! And then the castle is haunted and a new case begins...",
+        "popularity": 8.316,
+        "poster_path": "/jKjahEIkXFlnCZzHiyfVUBlPf8f.jpg",
+        "release_date": "2024-05-01",
+        "title": "Max und die wilde 7 - Die Geister-Oma",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l3N9G89R1J88cINfKU6jiX6xuz2.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            12
+        ],
+        "id": 1020091,
+        "original_language": "bn",
+        "original_title": "জঙ্গলে মিতিন মাসি",
+        "overview": "Jongole Mitin Mashi is based on a story of anti-poaching of elephants and depicts the fight of Mitin against the enemies of the forest. Sequel to the 2019 detective thriller Mitin Mashi.",
+        "popularity": 8.316,
+        "poster_path": "/wwFM3vAwPw7fZ3HRGTRNoozghHz.jpg",
+        "release_date": "2023-10-18",
+        "title": "Jongole Mitin Mashi",
+        "video": false,
+        "vote_average": 1.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 893091,
+        "original_language": "ja",
+        "original_title": "嵐の勇者たち",
+        "overview": "A real all-star cast turns out for this modern yakuza yarn.",
+        "popularity": 8.312,
+        "poster_path": "/eguN9L47BVYDSEM8EQ1sdZC3shO.jpg",
+        "release_date": "1969-12-31",
+        "title": "The Cleanup",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nH3LlCtAWyDJvwhdhDQ2uVIb5QN.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 293601,
+        "original_language": "de",
+        "original_title": "Die Tote ohne Alibi",
+        "overview": "A noble prostitute is found dead in the toilet of a trendy club. Actually a normal case for Chief Inspector Lukas Laim - he would not know this woman intimately. In addition, the case gets an unexpected twist: Laim and his assistant Tim Berners encounter in the customer file of the victim on the top managers of a pharmaceutical company. Suddenly the sexual offense becomes a serious case of white-collar crime.",
+        "popularity": 8.311,
+        "poster_path": "/4fUEhQGd6CmmgNHaeqMoZXQma7U.jpg",
+        "release_date": "2012-04-30",
+        "title": "Die Tote ohne Alibi",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zoNY5Fou0UxcjbyRgv9glkCGkEf.jpg",
+        "genre_ids": [
+            16,
+            35,
+            80
+        ],
+        "id": 147915,
+        "original_language": "en",
+        "original_title": "Bugs and Thugs",
+        "overview": "When Bugs calls a cab he doesn't know it's the getaway car for a couple of bankrobbers (he does know the capital of Nevada).",
+        "popularity": 8.306,
+        "poster_path": "/1Hrjb6FvgEywcLKAODBWMFaIOaH.jpg",
+        "release_date": "1954-03-13",
+        "title": "Bugs and Thugs",
+        "video": false,
+        "vote_average": 6.938,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lt8z1CI8mzLnMM0SekPjKLmRYJb.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 122252,
+        "original_language": "en",
+        "original_title": "The Naked Street",
+        "overview": "To make an honest woman of his pregnant sister, Rosalie, callous New York mobster Phil Regal intimidates witnesses and bribes a store clerk to get Rosalie’s condemned boyfriend, Nicky Bradna, out of prison. But Regal’s meddling deeds soon backfire.",
+        "popularity": 8.305,
+        "poster_path": "/bL0AZU3NmxPN8XYjH95CD4ywnXN.jpg",
+        "release_date": "1955-08-01",
+        "title": "The Naked Street",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8asUJMTcr1KEfbGtpZhESI0I7X6.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 20174,
+        "original_language": "en",
+        "original_title": "The Fast and the Furious",
+        "overview": "A framed man escapes prison and takes a wealthy woman's Jaguar with her in it. After she tries to escape numerous times, they begin to develop feelings for each other, and enter a road race that ends in Mexico.",
+        "popularity": 8.305,
+        "poster_path": "/731NMB4a85McIYcftPtbH4D3l5x.jpg",
+        "release_date": "1954-11-01",
+        "title": "The Fast and the Furious",
+        "video": false,
+        "vote_average": 4.845,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/59aJA6KHqCcgQniZ1FsAoAtaFBM.jpg",
+        "genre_ids": [
+            80,
+            53,
+            27
+        ],
+        "id": 71582,
+        "original_language": "en",
+        "original_title": "Abducted",
+        "overview": "A mixed-up mountain boy kidnaps a pretty college student.",
+        "popularity": 8.304,
+        "poster_path": "/awUam4hn7DhLs6V94JfUW9Byl8K.jpg",
+        "release_date": "1986-05-12",
+        "title": "Abducted",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6GTzjkJ4M2W7dfjPcfQQqiPAwuv.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            35
+        ],
+        "id": 65546,
+        "original_language": "en",
+        "original_title": "Grand Central Murder",
+        "overview": "Conniving Broadway starlet Mida King has plenty of enemies, so when she's found murdered at Grand Central Station, Inspector Gunther calls together a slew of suspects for questioning. Mida's shady ex-flame, Turk, seems the most likely culprit, but when smart-mouthed private eye Rocky Custer -- also a suspect himself -- begins to piece together the crime, a few clues that Gunther has overlooked come to light.",
+        "popularity": 8.304,
+        "poster_path": "/nGQLo19scnQAkb0XAV0aCoGUwuz.jpg",
+        "release_date": "1942-05-01",
+        "title": "Grand Central Murder",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 533980,
+        "original_language": "en",
+        "original_title": "Guilty Hearts",
+        "overview": "Quiet and unassuming church organist Jenny Moran is depressed with her marriage to working-class Matt and leaves him. Jenny begins an affair with the manipulative and charming Dr. Stephen Carrow, who is also deacon of her church and a married man. Someone kills Carrow's wife after she learns of the affair between Jenny and her husband. The murderer is caught and confesses, but that confession leads to new lies which tear apart Jenny Moran's life.",
+        "popularity": 8.303,
+        "poster_path": "/gg4ASawCBfxpKJJSOqxCZcnquIN.jpg",
+        "release_date": "2002-02-10",
+        "title": "Guilty Hearts",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            12,
+            80,
+            878,
+            53
+        ],
+        "id": 270585,
+        "original_language": "it",
+        "original_title": "Agente Logan - missione Ypotron",
+        "overview": "Agent Lemmy Logan is investigating the case of a missing NASA scientist and discovers that an ex nazi is developing  a new super weapon.",
+        "popularity": 8.303,
+        "poster_path": "/oXCPllMQqcnyoNq67mjnIqpRaRU.jpg",
+        "release_date": "1966-08-28",
+        "title": "Ypotron: Final Countdown",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sfu2zoFeeZd2ejOqWMyp1rAPUva.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 634129,
+        "original_language": "de",
+        "original_title": "Der letzte Bulle",
+        "overview": "25 years of coma lie behind the hard-hitting policeman Mick Brisgau, as he awakens in a world unknown to him.",
+        "popularity": 8.302,
+        "poster_path": "/9gJ4o37ZhS0lmrjZCHHDVZlK0FK.jpg",
+        "release_date": "2019-11-07",
+        "title": "Der letzte Bulle",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4Jnio8YlLlsus4rfpVo9CKYSKh2.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 361758,
+        "original_language": "ja",
+        "original_title": "「無頼」より 大幹部",
+        "overview": "Goro had grown up in the yakuza world. As an active member of the Mizuhara family crime syndicate, he expressed his loyalty by always putting himself in the forefront of every battle. Violence never bothered him. However, after being sentenced to three years in prison for stabbing a rival gang’s hit man, he becomes disenchanted with the Yakuza life style. Goro is determined to start anew, but karma catches up. His two closest friends are murdered by his ex-boss. He is left with two options: to kill or be killed.",
+        "popularity": 8.302,
+        "poster_path": "/5wsc31Pq2Jgfrk2NUIzqHhmJ2Fo.jpg",
+        "release_date": "1968-01-13",
+        "title": "Outlaw: Gangster VIP",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gesmTJLyJKM9zMzMsEYJ28rhGOh.jpg",
+        "genre_ids": [
+            80,
+            27
+        ],
+        "id": 90965,
+        "original_language": "cn",
+        "original_title": "血玫瑰",
+        "overview": "Kit-Ying is an unassuming nightclub employee in Macao  who inadvertently angers a gang of drunken patrons. They follow her home after her shift and mount a viscous gang assault. After her traumatic ordeal, she vows to hunt them down one by one.",
+        "popularity": 8.302,
+        "poster_path": "/iQNXZFR2fZdxeBiSEMOtYjINK9W.jpg",
+        "release_date": "1988-10-07",
+        "title": "Her Vengeance",
+        "video": false,
+        "vote_average": 5.909,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/c2x50ietP0U6SO3oOL6WuDDNVuQ.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 62298,
+        "original_language": "ja",
+        "original_title": "天国から来た男たち",
+        "overview": "Set in the Philippines, Takashi Miike’s “The Guys from Paradise” weaves together the stories of several real-life criminal cases. Young up-and-coming salary man Kohei Hayakawa is sent to Paradise prison on false drug charges, and assumes his lawyers will clear up this misunderstanding fairly quickly. However, he soon comes to the realization that his innocence means less than how much bribe money he’s able to come up with for his release. It becomes apparent that Kohei is going to have to get to know his fellow inmates a little better, as he’s obviously in this situation for the long haul; but meeting a female inmate from a nearby jail certainly makes his transition to the criminal life a little easier to take.",
+        "popularity": 8.302,
+        "poster_path": "/6dH84M5uTaVa6KYvk3QBpr39Gv8.jpg",
+        "release_date": "2001-06-16",
+        "title": "The Guys from Paradise",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/46HsnMvyawsf5mbXXKSYcpOvfrs.jpg",
+        "genre_ids": [
+            80,
+            10402
+        ],
+        "id": 20700,
+        "original_language": "en",
+        "original_title": "A Day in the Life",
+        "overview": "Onyx rapper Sticky Fingaz directs and stars in this hip-hop musical about a gangster who gets caught up in a bloody war between two feuding crime families while struggling to leave the streets behind. When Black's family raids one of Stick's drug houses and kills two of his men, Stick is forced to choose between leaving it all behind or seeking revenge and feeding the cycle of violence.",
+        "popularity": 8.301,
+        "poster_path": "/mG8lVmSPUAVrJhWsNtLtUGCwWb.jpg",
+        "release_date": "2009-07-07",
+        "title": "A Day in the Life",
+        "video": false,
+        "vote_average": 6.318,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 245522,
+        "original_language": "en",
+        "original_title": "Essex Boys Retribution",
+        "overview": "Twenty years after Britain's most notorious gangland murders, the next generation of Essex Boys vie for control as revenge is sought by all sides.",
+        "popularity": 8.3,
+        "poster_path": "/vGClhECelYmVPARNV35nhem3Og0.jpg",
+        "release_date": "2013-12-23",
+        "title": "Essex Boys Retribution",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aKJpBLK7ixWQfcB3i2agBO0SlJR.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            80,
+            10751,
+            10770
+        ],
+        "id": 42303,
+        "original_language": "en",
+        "original_title": "The Karate Dog",
+        "overview": "When LAPD computer expert Peter Fowler investigates the killing of an old man in Chinatown, he finds the only witness is his dog, Cho Cho. But Fowler soon discovers Cho Cho is the only dog in the world who can speak to humans... not only that, Cho Cho is an expert in martial arts. When they join forces to track down the mastermind behind the death of Cho Cho's master, it leads these unusual partners into uncovering a dangerous conspiracy which puts both of their lives in danger.",
+        "popularity": 8.3,
+        "poster_path": "/rLlNug11CXPc5oFaK1gnCZtGxt0.jpg",
+        "release_date": "2004-05-05",
+        "title": "The Karate Dog",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qAHJJ96Dsq4PZ0Wxj6e0QcaSRRm.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1237277,
+        "original_language": "ja",
+        "original_title": "涙をありがとう",
+        "overview": "A film starring Teruhiko Saigo and Hideki Takahashi about two men who join the fight against a gang selling weapons.",
+        "popularity": 8.299,
+        "poster_path": "/rmZC4HSpNvkxjBtnPCtSreMCOXV.jpg",
+        "release_date": "1965-04-29",
+        "title": "Thanks for the tears",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kWQBgJu9rgdTOiE4bpFNko1aZoZ.jpg",
+        "genre_ids": [
+            18,
+            80,
+            9648
+        ],
+        "id": 60607,
+        "original_language": "fr",
+        "original_title": "L'ennemi naturel",
+        "overview": "Set in Brittany, a detective called Nicolas Luhel is asked to unravel the circumstances of a teenage boy's death. The main suspect is the boy's father. Shattered by the suicide of the main witness, Nicolas lets himself get snared by the strange and fascinating influence that the father exerts on everyone around him. Eventually, Luhel discovers the truth about the murder and feels that the law is inadequate to deal with it. As a consequence, he decides to destroy the evidence and keep it a secret.",
+        "popularity": 8.299,
+        "poster_path": "/3LjVJfqmhIiGWlLfEAqBlsf4N0c.jpg",
+        "release_date": "2004-12-08",
+        "title": "Natural Enemy",
+        "video": false,
+        "vote_average": 4.6,
+        "vote_count": 7
+    }
+]

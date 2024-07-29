@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/4rZTr7HTBKf4mukg9QrfQJXSrGh.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 260848,
+        "original_language": "it",
+        "original_title": "Corruzione al palazzo di giustizia",
+        "overview": "During an inquest, an ambitious judge finds out that a lot of high-rank politicians are corrupt to the core.",
+        "popularity": 7.361,
+        "poster_path": "/hThtSBPoqfLPiKDkPF7HEEzDPpa.jpg",
+        "release_date": "1975-01-16",
+        "title": "Smiling Maniacs",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q5UEflDVC7C6yqvkngycF56KYe6.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 890665,
+        "original_language": "th",
+        "original_title": "โกงพลิกเกม",
+        "overview": "A city is populated by several clans of gangsters running various businesses in black markets. Each clan wants to be the absolute ruler, but under the reign of Big Boss who collects criminal tariffs from theme, the equilibrium among them is maintained not unlike the equity between the lawless and the lawful.  Tee, Kid, Tuek and Sim, a gang of computer-game addicteds, became menions of Big Boss. When Big Boss abruptly died, Tee is about to inform his team, but he hesitates and decides to hide this fact from the rest. So that he may play another game with his peers and satisfy Big Boss’ last wish.",
+        "popularity": 7.36,
+        "poster_path": "/gogUweBD1Q6dexoLrIjiPP4pUrP.jpg",
+        "release_date": "2021-10-28",
+        "title": "Game Changer",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wDyxtkxwUJUPoYCZOBfbngIHHxq.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 155398,
+        "original_language": "zh",
+        "original_title": "冷面虎",
+        "overview": "A young man suspects his father's suicide was actually a murder committed by gangsters. Using his expertise in martial arts, he gets himself hired by the gangsters who he suspects are responsible for his father's death.",
+        "popularity": 7.36,
+        "poster_path": "/rUmFyrqqnal5DyObEbxRMScPIXi.jpg",
+        "release_date": "1973-02-01",
+        "title": "A Man Called Tiger",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fZXukVAqNuVVPsxF886Ht91WBA9.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53,
+            10749
+        ],
+        "id": 269804,
+        "original_language": "ml",
+        "original_title": "ഹരികൃഷ്ണ‍ന്‍സ്‌",
+        "overview": "When Guptan, a college lecturer, gets killed, the police suspect Gabriel to be the murderer. A girl takes help from her brothers, who are famous lawyers, in proving his innocence.",
+        "popularity": 7.359,
+        "poster_path": "/aRwQ0lY9lESyKLwvvd5MkKt0B6G.jpg",
+        "release_date": "1998-06-22",
+        "title": "Harikrishnans",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zlB8OLDvtDmX9twkwZgQMYyLU30.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 227339,
+        "original_language": "sv",
+        "original_title": "Rosor, kyssar och döden",
+        "overview": "The country estate of Rödbergshyttan is surrounded by heavily fragrant roses in every color. There lives the beautiful Gabriella, who Christer loves, and an invitation to their engagement party is the reason for Puck and Einar to travel there. But the rose-scented idyll soon turn into a stifling background when Puck finds Gabriella's grandfather poisoned in his bed. Little by little we learn that the relations between the people living at the estate is everything but uncomplicated, and that there is a sexual frustration behind every well polished marriage. The question is to what extent beautiful Gabriella is involved in the intrigues and how much of a coincidence it is that her grandfather is killed just when Christer is in the house.",
+        "popularity": 7.358,
+        "poster_path": "/6dmJnRKkLmzL34viiPexgVWp2pQ.jpg",
+        "release_date": "2013-10-09",
+        "title": "Roses, Kisses and Death",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53,
+            10770
+        ],
+        "id": 95745,
+        "original_language": "en",
+        "original_title": "The Survivors Club",
+        "overview": "After being raped by a serial killer, Jillian Hayes, Carol Rosen and Meg Pesaturo found \"The Survivors Club\", and they use the press to force the police and justice to arrest the rapist. Eddie Como is arrested, based on DNA evidences, and while going to court for trial, he is murdered by a sniper and the three women switch position from victims to suspects. Detective Roan Griffin, who is traumatized by the brutal murder of his beloved wife by the manipulative killer David Price, joins the investigation with detective Fitz Fitzpatrick trying to solve the case.",
+        "popularity": 7.356,
+        "poster_path": "/bFv1Ysq7pikxrV0wfR1mkqQzdUj.jpg",
+        "release_date": "2004-03-07",
+        "title": "The Survivors Club",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            18,
+            10770,
+            80
+        ],
+        "id": 424710,
+        "original_language": "en",
+        "original_title": "Kojak: Flowers For Matty",
+        "overview": "Kojak charms his way into high society to investigate art thefts that are tied to munitions smuggling and murder.",
+        "popularity": 7.354,
+        "poster_path": "/99TkR28gMzOxPrcc46oq0htBFnH.jpg",
+        "release_date": "1990-01-04",
+        "title": "Kojak: Flowers For Matty",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lWcR3JQgOlSTdbdtqW9cftYX4Zp.jpg",
+        "genre_ids": [
+            53,
+            80,
+            9648,
+            27
+        ],
+        "id": 105103,
+        "original_language": "it",
+        "original_title": "A.A.A. Massaggiatrice bella presenza offresi...",
+        "overview": "Cristina turns eighteen and leaves her bourgeois family to become a call-girl. But soon, her clients start turning up dead, their throats slashed. Who is responsible?",
+        "popularity": 7.354,
+        "poster_path": "/aE3ZgOyT8fAfgQ5a5XN6gHZ1E9B.jpg",
+        "release_date": "1972-07-28",
+        "title": "A.A.A. Masseuse, Good-Looking, Offers Her Services",
+        "video": false,
+        "vote_average": 5.647,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80
+        ],
+        "id": 1122087,
+        "original_language": "ja",
+        "original_title": "Kyôkatsu",
+        "overview": "",
+        "popularity": 7.353,
+        "poster_path": "/A4wIVzHaKAURfc3Bru5x0jKfS8o.jpg",
+        "release_date": "1963-09-14",
+        "title": "Kyôkatsu",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i0LkkcLLa5H1R4KkABcVm3MsjHq.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80,
+            18,
+            53
+        ],
+        "id": 584612,
+        "original_language": "en",
+        "original_title": "Brenda Starr, Reporter",
+        "overview": "Reporter Brenda Starr and her photographer Chuck Allen get involved in a search for the loot from a payroll robbery. Cliffhanging action and adventure and a fair amount of comic relief follow them at every turn.",
+        "popularity": 7.353,
+        "poster_path": "/bF3QHYHgiPfp4KRYQ4UrFEDDEtG.jpg",
+        "release_date": "1945-01-26",
+        "title": "Brenda Starr, Reporter",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AiR95OFlkY00Z18uLl2eL2pZNeL.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 851238,
+        "original_language": "de",
+        "original_title": "Guglhupfgeschwader",
+        "overview": "Bavaria's most relaxed village policeman has to face an organized crime syndicate coming after his grandmother's cakes.",
+        "popularity": 7.351,
+        "poster_path": "/6DzSRI9eSzLhK8fvT6BJ22cphnX.jpg",
+        "release_date": "2022-08-04",
+        "title": "Guglhupfgeschwader",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yrfVliv4hGeKT6a1WuRy3br24NA.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 83097,
+        "original_language": "fr",
+        "original_title": "R.I.F. (Recherches dans l'Intérêt des Familles)",
+        "overview": "A policeman takes his family on a holiday, and after almost hitting a wild hog, the car won't start. They get hike with a guy scrutinizing his pretty wife. Shortly after, she disappears.",
+        "popularity": 7.351,
+        "poster_path": "/6vC6Sx4gT5xSwN3TAXeaHSPf1fc.jpg",
+        "release_date": "2011-08-30",
+        "title": "Research in the Interest of Families",
+        "video": false,
+        "vote_average": 5.83,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            18,
+            12,
+            80
+        ],
+        "id": 331908,
+        "original_language": "ar",
+        "original_title": "ليلة ساخنة",
+        "overview": "On New Year's Eve, a taxi driver tries to raise money necessary for his mother-in-law surgery who takes care of his only mentally handicapped son. On the same night, a repentant prostitute tries to make money to fix her house . When they meet, they witness a night full of unforgettable events.",
+        "popularity": 7.35,
+        "poster_path": "/fSTyBTi3456SrGalzmRfj6pXdFA.jpg",
+        "release_date": "1995-09-24",
+        "title": "A Hot Night",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ftjVy22Gix01ZLH8kmqtMknU24e.jpg",
+        "genre_ids": [
+            28,
+            80,
+            9648
+        ],
+        "id": 241736,
+        "original_language": "en",
+        "original_title": "Bersaglio mobile",
+        "overview": "On the run from the police in Athens, a man named Jason has in his possession a microfilm eagerly sought by both criminal gangs and government agencies.",
+        "popularity": 7.35,
+        "poster_path": "/ohxMyH3z4DfAsjEtYFc0KbNWIPF.jpg",
+        "release_date": "1967-10-09",
+        "title": "Death on the Run",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 181941,
+        "original_language": "en",
+        "original_title": "Judgment Day: The John List Story",
+        "overview": "The pious John List regularly goes to church and is respected by his neighbours. But one day the police finds his wife Helen and their three children slayed in their house - obviously by John, who left two letters for the police and his priest and disappeared. Chief Richland is disgusted by the murder and starts an intensive investigation. In flashbacks we learn about the history of the disaster.",
+        "popularity": 7.35,
+        "poster_path": "/j6rEfy8lqqlWDGXqRbmuY24510K.jpg",
+        "release_date": "1993-02-23",
+        "title": "Judgment Day: The John List Story",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 1155271,
+        "original_language": "zh",
+        "original_title": "失鎗48小時",
+        "overview": "",
+        "popularity": 7.349,
+        "poster_path": null,
+        "release_date": "1996-08-29",
+        "title": "Where's My Gun",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 666457,
+        "original_language": "en",
+        "original_title": "The Return of Hunter: Everyone Walks in L.A.",
+        "overview": "Lieutenant Rick Hunter's girlfriend is murdered.",
+        "popularity": 7.349,
+        "poster_path": "/qbKIi855Gn6FqmelHjBOupd23oG.jpg",
+        "release_date": "1995-03-06",
+        "title": "The Return of Hunter: Everyone Walks in L.A.",
+        "video": false,
+        "vote_average": 9.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1nXpJcGORp9mVLeaLO2r5ZrYIHb.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 630520,
+        "original_language": "es",
+        "original_title": "La noche mágica",
+        "overview": "A peaceful Christmas Eve is interrupted when a thief breaks into a villa. When the family’s little daughter mistakes him for Santa Claus and asks him to fulfill her Christmas wish, he will be forced to perform a miracle that will redeem secrets from the past.",
+        "popularity": 7.349,
+        "poster_path": "/bZrIS3l76RUTDKC8bugYfwJ1PlS.jpg",
+        "release_date": "2021-03-11",
+        "title": "Bad Christmas",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 48
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/djdPApJUbTinDc8wf7pSQtVPUzY.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10749
+        ],
+        "id": 91259,
+        "original_language": "en",
+        "original_title": "Lady Cocoa",
+        "overview": "After being given a 24-hour leave from prison, in exchange for which she’ll agree to testify against her mobster boyfriend, Cocoa hits the streets, but quickly discovers that violence lurks around every corner.",
+        "popularity": 7.349,
+        "poster_path": "/xfL6XX3FdYybJSYDU9KlEkQWMTC.jpg",
+        "release_date": "1975-12-01",
+        "title": "Lady Cocoa",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3I5EYzd1LWdjTsJ3bkuZ7I7cT7j.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 94376,
+        "original_language": "fr",
+        "original_title": "Un condé",
+        "overview": "A crackdown on drugs leads a burned out cop to take the law into his own hands and seek revenge against villainous drug dealers. Word comes down from above that the United States feels French authorities have been lax on their arrests of the dealers. A violent action feature finds the harried inspector battling his colleagues as much as the criminal element targeted for extermination.",
+        "popularity": 7.348,
+        "poster_path": "/wdI5jTzLYvYme4lyjmpJoCuq72F.jpg",
+        "release_date": "1970-10-05",
+        "title": "The Cop",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 39
+    }
+]

@@ -1,0 +1,397 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/dpfrfPm0mIROp3Nv5HcEnvkvqeA.jpg",
+        "genre_ids": [
+            37,
+            10770,
+            80
+        ],
+        "id": 76837,
+        "original_language": "en",
+        "original_title": "Yuma",
+        "overview": "A down-and-dirty town is forced to shape up when a new marshal (Clint Walker) comes to town. However, when a scheme is launched to destroy the lawman's authority, he must discover the perpetrators and preserve his reputation.",
+        "popularity": 9.132,
+        "poster_path": "/piocFW0MMik9ELkhexRLkAoM5tY.jpg",
+        "release_date": "1971-03-02",
+        "title": "Yuma",
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aQjb6IRivdjqLw1Sg0U8tpM2pUG.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 10444,
+        "original_language": "de",
+        "original_title": "Das Testament des Dr. Mabuse",
+        "overview": "Dr. Mabuse has been locked away for years in an insane asylum. Suddenly crimes start occurring and no one knows the culprit. A detective goes to visit the Doctor to find some sort of clues to the robberies.",
+        "popularity": 9.131,
+        "poster_path": "/paiRuV6cMYLgshsPdDCSaChp5ta.jpg",
+        "release_date": "1962-09-06",
+        "title": "The Terror of Doctor Mabuse",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fpBk1xW3g6V4KXQ94FbakRbIHbL.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            18
+        ],
+        "id": 514961,
+        "original_language": "sv",
+        "original_title": "Beck 38 - Djävulens advokat",
+        "overview": "The murder of a restaurant owner who is gunned down in front of a diner full of customers has unexpected repercussions for Alex, whose brother, Paul, represented two men expected of involvement in the killing. Meanwhile, Steinar, amidst tension with Alex and the breakdown of his marriage, accepts the offer of a transfer from Klas.",
+        "popularity": 9.129,
+        "poster_path": "/cPGzSSbBT6ckvHmLkcNsn4J9MkJ.jpg",
+        "release_date": "2018-04-07",
+        "title": "Beck 38 - The Devil's Advocate",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mUnjWKOLRAZEkwINZP7X63zGR0X.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 413124,
+        "original_language": "ja",
+        "original_title": "木枯し紋次郎",
+        "overview": "Kogarashi Monjiro is a lone samurai who agrees to take responsibility for a murder that his friend committed so that he can stay with his dying mother, with the expectation that his friend will confess and get him pardoned once she dies. Monjiro is sentenced to an island for prisoners. When he discovers that his friend's mother has died over a year ago, Monjiro seeks to escape with a group of prisoners in order to get his revenge.",
+        "popularity": 9.129,
+        "poster_path": "/zp7eJy21HpNFNjMYaie2xpHpB3N.jpg",
+        "release_date": "1972-06-21",
+        "title": "Withered Tree, the Adventures of Monjiro",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2xWgBsqB2nD9QCkJYnq7uzxFNrX.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 261133,
+        "original_language": "cn",
+        "original_title": "同根生",
+        "overview": "Wah is the only one in his family lucky enough to survive the deadly boat passage from China to Hong Kong. Once in Hong Kong, he searches for opportunities he heard so much about. After struggling for months, he discovers that this is all but a myth.",
+        "popularity": 9.129,
+        "poster_path": "/cNXnQNAfV4KdRzA3Wjv2we5wif2.jpg",
+        "release_date": "1989-01-07",
+        "title": "Bloody Brotherhood",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y8tGuSOktAmbFzUJC6jzI5hOLoj.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 47050,
+        "original_language": "es",
+        "original_title": "Perros callejeros",
+        "overview": "Perros Callejeros is based on the juvenile delinquency of the 1970s and 80s in Spain. The story is set in Barrio de la Mina in Barcelona one of the most conflict neighbourhoods in Spain. The characters chosen were real juvenile delinquents all with criminal records, which the director used to give the film a realistic touch. This film is very powerful and dramatic, it shows how these kids were brought up to survive on the streets.",
+        "popularity": 9.126,
+        "poster_path": "/gNPXy6Y5H5ElKZ0fPLxkbav0S99.jpg",
+        "release_date": "1977-12-23",
+        "title": "Street Warriors",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1m5jJSZZJgqNh2DzefAJ9SMls2o.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 458012,
+        "original_language": "ml",
+        "original_title": "മൂത്തോന്‍",
+        "overview": "A child from Lakshadweep sets off to Mumbai in pursuit of Akbar, an elder brother who left the island due to his sexual orientation.",
+        "popularity": 9.125,
+        "poster_path": "/5VNUwsoSTvQqARVRLLkPbnwxEAW.jpg",
+        "release_date": "2019-10-18",
+        "title": "Moothon",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 22
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g6j2WYKeD1Yl7wGazDyfc2hlnLo.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 118179,
+        "original_language": "ko",
+        "original_title": "인플루엔자",
+        "overview": "The film starts with a man named Cho Hyuk-rae who has perched dangerously on top of the Han River Bridge. It is a sad picture of a man who has been caught unwittingly on a security camera. The camera continues to reveal the downward spiral of Cho and those of us who surround him. The 'real' images shown through the camera keep on becoming more 'corrupted' as the time goes by.",
+        "popularity": 9.125,
+        "poster_path": "/eJIUhG3FrsQGkOo4KWnwb0xLKQf.jpg",
+        "release_date": "2004-05-06",
+        "title": "Influenza",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eZ3lWVyKZnGOcpVcyhSfb6Yl93h.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 111475,
+        "original_language": "fr",
+        "original_title": "Atout cœur à Tokyo pour OSS 117",
+        "overview": "After an American Navy base is annihilated by a secret weapon, Agent OSS 117 is sent to Japan to investigate the organization that's claiming responsibility, and threatening the US with another attack, if they don't pay.",
+        "popularity": 9.125,
+        "poster_path": "/tGYq9z1i20zIdFdcmd9NwtkM0vI.jpg",
+        "release_date": "1966-10-28",
+        "title": "O.S.S. 117: Mission to Tokyo",
+        "video": false,
+        "vote_average": 6.914,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7mmvqZxqUlIQINnZcfANgqDr2uD.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 94536,
+        "original_language": "en",
+        "original_title": "The Black Alley Cats",
+        "overview": "Wanting revenge on a street gang for a rape attack, four young girls get together, take kung-fu lessons, learn how to shoot, form a gang called the Black Alley Cats and search out the gang that attacked them.",
+        "popularity": 9.125,
+        "poster_path": "/klVQ1ryl0BTvOWvKUDJcnWcXYAC.jpg",
+        "release_date": "1973-09-01",
+        "title": "The Black Alley Cats",
+        "video": false,
+        "vote_average": 3.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3rp06AbOgEIcy0RWWbpM6JrbFg2.jpg",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            53
+        ],
+        "id": 85284,
+        "original_language": "ja",
+        "original_title": "我が人生最悪の時",
+        "overview": "Maiku Hama is a private detective working in Yokohama. Hama comes to the aid of a Taiwanese waiter named Yang and agrees to track down his missing brother. Through a series of double-crosses Hama gets embroiled in a gang war and a revenge plot between the two brothers",
+        "popularity": 9.125,
+        "poster_path": "/ffRn0MonRBfQk9xcW1iM0usizpR.jpg",
+        "release_date": "1994-03-05",
+        "title": "The Most Terrible Time in My Life",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5ZIWriJjYWeQEjTg6juVFGBONEm.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80,
+            27
+        ],
+        "id": 253303,
+        "original_language": "en",
+        "original_title": "Buzzard",
+        "overview": "Paranoia forces small-time scam artist Marty to flee his hometown and hide out in a dangerous Detroit. With nothing but a pocket full of bogus checks, his Power Glove, and a bad temper, the horror metal slacker lashes out.",
+        "popularity": 9.124,
+        "poster_path": "/F3hbtNjvpQnFr7qWSHOJIoSb1x.jpg",
+        "release_date": "2015-03-06",
+        "title": "Buzzard",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nrWn0blVlcdsbSrYPgCyQpTE5hn.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 1273948,
+        "original_language": "zh",
+        "original_title": "以父亲之名",
+        "overview": "A grieving Chinese father travels to America to collect his daughter and stays to catch the killer.",
+        "popularity": 9.122,
+        "poster_path": "/cPs9UvZAFs6mk2LEH3KtQdoO6SL.jpg",
+        "release_date": "2024-04-02",
+        "title": "Unspoken",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zwQxffCq74Fhgs2ch98M3sRYUBb.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 986252,
+        "original_language": "cn",
+        "original_title": "被消失的凶案",
+        "overview": "International narcotics officer CHOI , has been demoted by his superior officer MA to local duties after partaking in bribery in the line of work. He’s assigned to a death scene investigation by YAN where the deceased, YUNG’s body had laid undiscovered for eight years, and only recently discovered by maintenance workers during the renovation of an old block of flat. CHOI looks into CHAO as the prime suspect, and linking it to adultery with YUNG’s widow PING as an accomplice. The case soon comes under scrutiny by a high-ranking court prosecutor SANTOS. Under his inquiries, the investigator becomes the investigated, and CHOI’s actions fall under suspicion as all manner of inconsistencies come to light from his statement. YUNG was a man of many vices, with few crimes left untouched by his hand – rape, drug smuggling, blackmail and working alongside notorious gangster FAI WAI.",
+        "popularity": 9.122,
+        "poster_path": "/dZWdBV1Zsqlw21mQAtlAvaMm1Mx.jpg",
+        "release_date": "2022-06-16",
+        "title": "A Murder Erased",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hXdYxY1MGvVZ6esfus062GisouT.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 94028,
+        "original_language": "en",
+        "original_title": "Ice",
+        "overview": "A married couple of cat burglars scheme to rob a set of stolen diamonds from the local mafia only to be hampered by persistent police detectives, another scam artist, and a rival mob group.",
+        "popularity": 9.122,
+        "poster_path": "/5lr0uiXKtpqjGzPtXzT9ItA8ReU.jpg",
+        "release_date": "1994-06-15",
+        "title": "Ice",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nrDRH0elaVs6q7BZH1HfiKJFw2c.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 1278263,
+        "original_language": "fa",
+        "original_title": "دانه انجیر معابد",
+        "overview": "Iman, an investigating judge in the Revolutionary Court in Tehran, grapples with mistrust and paranoia as nationwide political protests intensify and his gun mysteriously disappears. Suspecting the involvement of his wife Najmeh and his daughters Rezvan and Sana, he imposes drastic measures at home, causing tensions to rise. Step by step, social norms and the rules of family life are being suspended.",
+        "popularity": 9.121,
+        "poster_path": "/6EV890tQMfirDppZ4fHd0ZgDCvJ.jpg",
+        "release_date": "2024-09-18",
+        "title": "The Seed of the Sacred Fig",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/i6xCMCkMXw1SCXxrKJ5dAXBz7OP.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 431435,
+        "original_language": "ru",
+        "original_title": "Блокбастер",
+        "overview": "A wannabe model from a small Russian town robs a local bank to fund her modeling career.",
+        "popularity": 9.121,
+        "poster_path": "/4aVwWSlH5WnZyoBEBZ2sdvfnVte.jpg",
+        "release_date": "2017-07-13",
+        "title": "Blockbuster",
+        "video": false,
+        "vote_average": 5.071,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 566359,
+        "original_language": "en",
+        "original_title": "Passion Before Midnight",
+        "overview": "Crystal believed she had the ideal existence: a passionate spouse and a classy life. But all that comes failing down when her husband tries to kill her. Baffled and frightened, she finds herself submerged in a world of crave and intimate interest, where danger is just around the corner and sex is the enthusiasm for passion.",
+        "popularity": 9.12,
+        "poster_path": "/o6PL1st6K5jzhE8rSEwDgmcVv68.jpg",
+        "release_date": "2003-04-19",
+        "title": "Passion Before Midnight",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hhcy2onYrrbAuNAd8HnwOVtgjNp.jpg",
+        "genre_ids": [
+            10749,
+            80,
+            18
+        ],
+        "id": 178819,
+        "original_language": "en",
+        "original_title": "Midnight Court",
+        "overview": "After losing his bid for district attorney, an aspiring young lawyer agrees to defend a ring of car thieves.",
+        "popularity": 9.119,
+        "poster_path": "/hJVZgE5Jy5GkrXN73izMgaCXLRf.jpg",
+        "release_date": "1937-03-06",
+        "title": "Midnight Court",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uevDTSDVLnhtSsELx0bX2WImp9l.jpg",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 69520,
+        "original_language": "ta",
+        "original_title": "புதுப்பேட்டை",
+        "overview": "After seeing his mother dead, a young boy runs away and is later recruited by a gangster. After becoming the right hand man of his employer, he makes serious enemies and everyone starts targeting him.",
+        "popularity": 9.118,
+        "poster_path": "/tDHgRk7Q0YjpXennMPUXpZrB1gQ.jpg",
+        "release_date": "2006-05-26",
+        "title": "Pudhupettai",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 28
+    }
+]

@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 337404,
+        "original_language": "en",
+        "original_title": "Cruella",
+        "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+        "popularity": 106.625,
+        "poster_path": "/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+        "release_date": "2021-05-26",
+        "title": "Cruella",
+        "video": false,
+        "vote_average": 8.015,
+        "vote_count": 9119
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lh5lbisD4oDbEKgUxoRaZU8HVrk.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 272,
+        "original_language": "en",
+        "original_title": "Batman Begins",
+        "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+        "popularity": 106.495,
+        "poster_path": "/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+        "release_date": "2005-06-10",
+        "title": "Batman Begins",
+        "video": false,
+        "vote_average": 7.708,
+        "vote_count": 20577
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z7noaCJ4KtmhwHw7QcNtnMMo4Qy.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 345887,
+        "original_language": "en",
+        "original_title": "The Equalizer 2",
+        "overview": "Robert McCall, who serves an unflinching justice for the exploited and oppressed, embarks on a relentless, globe-trotting quest for vengeance when his former partner is murdered.",
+        "popularity": 105.977,
+        "poster_path": "/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg",
+        "release_date": "2018-07-19",
+        "title": "The Equalizer 2",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 5181
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kd9jFTTabg4xJpHDgxY0h8F9BzG.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 6977,
+        "original_language": "en",
+        "original_title": "No Country for Old Men",
+        "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+        "popularity": 105.915,
+        "poster_path": "/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg",
+        "release_date": "2007-06-13",
+        "title": "No Country for Old Men",
+        "video": false,
+        "vote_average": 7.942,
+        "vote_count": 11696
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/syapU4X3vYBCdARyAOtz3g90hMt.jpg",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "id": 1900,
+        "original_language": "en",
+        "original_title": "Traffic",
+        "overview": "An exploration of the United States of America's war on drugs from multiple perspectives. For the new head of the Office of National Drug Control Policy, the war becomes personal when he discovers his well-educated daughter is abusing cocaine within their comfortable suburban home. In Mexico, a flawed, but noble policeman agrees to testify against a powerful general in league with a cartel, and in San Diego, a drug kingpin's sheltered trophy wife must learn her husband's ruthless business after he is arrested, endangering her luxurious lifestyle.",
+        "popularity": 104.154,
+        "poster_path": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+        "release_date": "2000-12-27",
+        "title": "Traffic",
+        "video": false,
+        "vote_average": 7.064,
+        "vote_count": 2091
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mO9oOVXM8tTlC11VFM4FBBNnL3f.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 1017163,
+        "original_language": "ko",
+        "original_title": "범죄도시 4",
+        "overview": "'Monster Cop' Ma Seok-do investigates an illegal online gambling business led by a former STS Baek and an IT genius CEO Chang. Ma proposes an unexpected alliance to Jang and begins hunting down the criminals.",
+        "popularity": 103.7,
+        "poster_path": "/r7LHM9MsPEipFCBPbsV6nHzSw3D.jpg",
+        "release_date": "2024-04-24",
+        "title": "The Roundup: Punishment",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 49
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1fldJZ43ftMj3gKbhf8idjI7fWO.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 1701,
+        "original_language": "en",
+        "original_title": "Con Air",
+        "overview": "Newly-paroled former US Army ranger Cameron Poe is headed back to his wife, but must fly home aboard a prison transport flight dubbed \"Jailbird\" taking the “worst of the worst” prisoners, a group described as “pure predators”, to a new super-prison. Poe faces impossible odds when the transport plane is skyjacked mid-flight by the most vicious criminals in the country led by the mastermind — genius serial killer Cyrus \"The Virus\" Grissom, and backed by black militant Diamond Dog and psychopath Billy Bedlam.",
+        "popularity": 103.466,
+        "poster_path": "/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg",
+        "release_date": "1997-06-05",
+        "title": "Con Air",
+        "video": false,
+        "vote_average": 6.752,
+        "vote_count": 4062
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jynfI114q3kOAbIiVjVfFFmttU2.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 101,
+        "original_language": "en",
+        "original_title": "Léon: The Professional",
+        "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+        "popularity": 103.217,
+        "poster_path": "/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+        "release_date": "1994-09-14",
+        "title": "Léon: The Professional",
+        "video": false,
+        "vote_average": 8.308,
+        "vote_count": 14482
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 337339,
+        "original_language": "en",
+        "original_title": "The Fate of the Furious",
+        "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+        "popularity": 102.768,
+        "poster_path": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+        "release_date": "2017-04-12",
+        "title": "The Fate of the Furious",
+        "video": false,
+        "vote_average": 6.878,
+        "vote_count": 10113
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg",
+        "genre_ids": [
+            18,
+            53,
+            80
+        ],
+        "id": 146233,
+        "original_language": "en",
+        "original_title": "Prisoners",
+        "overview": "Keller Dover is facing every parent’s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.",
+        "popularity": 102.578,
+        "poster_path": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+        "release_date": "2013-09-19",
+        "title": "Prisoners",
+        "video": false,
+        "vote_average": 8.098,
+        "vote_count": 11479
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wkTEdiZFa8wmZsRUxunHKsrA9r9.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            80
+        ],
+        "id": 176,
+        "original_language": "en",
+        "original_title": "Saw",
+        "overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
+        "popularity": 102.426,
+        "poster_path": "/harQifr8kpIVqlLP41kTR058LZB.jpg",
+        "release_date": "2004-10-01",
+        "title": "Saw",
+        "video": false,
+        "vote_average": 7.418,
+        "vote_count": 8994
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9Xna1fmRkTyAfMSonokrwblYXUS.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 265208,
+        "original_language": "en",
+        "original_title": "Wild Card",
+        "overview": "When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last play… and it's all or nothing.",
+        "popularity": 101.762,
+        "poster_path": "/zN80Tlly8oMpKbVJv2TfRIj8dHG.jpg",
+        "release_date": "2015-01-14",
+        "title": "Wild Card",
+        "video": false,
+        "vote_average": 5.667,
+        "vote_count": 1732
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cHkhb5A4gQRK6zs6Pv7zorHs8Nk.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 168259,
+        "original_language": "en",
+        "original_title": "Furious 7",
+        "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+        "popularity": 98.567,
+        "poster_path": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+        "release_date": "2015-04-01",
+        "title": "Furious 7",
+        "video": false,
+        "vote_average": 7.234,
+        "vote_count": 10430
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/atPlFdUrQl2U9MtUwujrrjnQHBA.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 654739,
+        "original_language": "ko",
+        "original_title": "발신제한",
+        "overview": "On his way to work, a bank manager receives an anonymous call claiming there's a bomb under his car seat, and if anyone exits the car, it will explode unless he can pay a ransom.",
+        "popularity": 98.316,
+        "poster_path": "/y2Aimt8isimtigec3e4kB2G9FMR.jpg",
+        "release_date": "2021-06-23",
+        "title": "Hard Hit",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 191
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 75656,
+        "original_language": "en",
+        "original_title": "Now You See Me",
+        "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
+        "popularity": 98.276,
+        "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+        "release_date": "2013-05-29",
+        "title": "Now You See Me",
+        "video": false,
+        "vote_average": 7.343,
+        "vote_count": 15271
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tIpd7vvjoNyG6CAVqSL9gJqJSTy.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 857553,
+        "original_language": "en",
+        "original_title": "Johnny & Clyde",
+        "overview": "Johnny and Clyde are two serial killers who are madly in love and on an endless crime spree. Alana (Megan Fox) is the confident and cunning owner of a prosperous casino that generates tens of millions of dollars each year. Johnny and Clyde decide to assemble a ragtag group of criminals and misfits to steal from Alana's casino and pull off the heist of the century. Unfortunately for Johnny and Clyde's crew, Alana has a deadly weapon at her disposal – the monstrous slasher spirit known as Bakwas.",
+        "popularity": 96.824,
+        "poster_path": "/cdfdR90WYCTQmYoQ0aDRZP8I2IL.jpg",
+        "release_date": "2023-03-23",
+        "title": "Johnny & Clyde",
+        "video": false,
+        "vote_average": 4.26,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 24,
+        "original_language": "en",
+        "original_title": "Kill Bill: Vol. 1",
+        "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+        "popularity": 96.427,
+        "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+        "release_date": "2003-10-10",
+        "title": "Kill Bill: Vol. 1",
+        "video": false,
+        "vote_average": 7.97,
+        "vote_count": 17057
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+        "genre_ids": [
+            14,
+            18,
+            80
+        ],
+        "id": 497,
+        "original_language": "en",
+        "original_title": "The Green Mile",
+        "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+        "popularity": 96.391,
+        "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "release_date": "1999-12-10",
+        "title": "The Green Mile",
+        "video": false,
+        "vote_average": 8.506,
+        "vote_count": 17032
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3gjYzFP2w2bx6srcZkfS667jnl0.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 249070,
+        "original_language": "en",
+        "original_title": "Hitman: Agent 47",
+        "overview": "An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry.",
+        "popularity": 95.186,
+        "poster_path": "/52NXkgvzRYjRnqRPpqjpiwsIgRG.jpg",
+        "release_date": "2015-08-20",
+        "title": "Hitman: Agent 47",
+        "video": false,
+        "vote_average": 5.845,
+        "vote_count": 2957
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fvUmnxS9xaUUl0eWygvcA1hPdTV.jpg",
+        "genre_ids": [
+            53,
+            80,
+            10770
+        ],
+        "id": 801335,
+        "original_language": "en",
+        "original_title": "Girl in the Basement",
+        "overview": "Sara is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
+        "popularity": 94.615,
+        "poster_path": "/qmddUxRwbsxHa7oEXm4PWh1KZe8.jpg",
+        "release_date": "2021-02-27",
+        "title": "Girl in the Basement",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 667
+    }
+]

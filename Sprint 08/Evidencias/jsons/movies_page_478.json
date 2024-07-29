@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 534581,
+        "original_language": "ja",
+        "original_title": "やくざ坊主",
+        "overview": "The first film in the 2 part series about Ryuzen, a renegade martial-arts priest who, in addition to breaking all the commandments against sex and gambling, opens his own gambling den in direct defiance of the local yakuza boss. Exciting action and a twisty plot this movie breaks new barriers in Japanese cinema. Katsu Shintaro is superb in one of his better non-Zato Ichi roles as he fights off the advances of a love-lorn woman and risks his life to defeat the powerful gambling boss who has a stranglehold on the town.",
+        "popularity": 7.161,
+        "poster_path": "/jvMXkowI6qD8L3lomPUWgT3p3OD.jpg",
+        "release_date": "1967-11-15",
+        "title": "The Hoodlum Priest",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/adDjpjwjztghkD6SjQhdOVXf8uz.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 92412,
+        "original_language": "fr",
+        "original_title": "L'Affaire Maurizius",
+        "overview": "Prosecutor Etzel discovers that his father has sentenced a man, Leonardo Maurizius, on mere presumptions. He then makes it a point of honor to trace the sources of the case to uncover the truth.",
+        "popularity": 7.161,
+        "poster_path": "/q1anOuqr3Gv8VXAKuYDmlubG5PN.jpg",
+        "release_date": "1954-06-04",
+        "title": "On Trial",
+        "video": false,
+        "vote_average": 6.778,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aVCml2Y1wIaF1jYFKEoBoEoBLAw.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 26220,
+        "original_language": "en",
+        "original_title": "Inside Job",
+        "overview": "A pair of married ex-convicts trying to go straight get jobs at a department store. A gangster who knows about their past threatens to expose it unless they agree to help him rob the department store.",
+        "popularity": 7.161,
+        "poster_path": "/trU4jxRQfZEvmXxC4krlclFDTT.jpg",
+        "release_date": "1946-06-14",
+        "title": "Inside Job",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 737637,
+        "original_language": "en",
+        "original_title": "Task Force: Caviar",
+        "overview": "Based on a true story, a veteran narcotics officer takes on a case that could cost him his life.",
+        "popularity": 7.16,
+        "poster_path": "/3l9jbglObieHKMGkv7tf93hOe3P.jpg",
+        "release_date": "2000-08-21",
+        "title": "Task Force: Caviar",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "id": 714728,
+        "original_language": "tr",
+        "original_title": "Bırakın Yaşasınlar",
+        "overview": "The story of a cop who getting revenge from a mafia gang that killed his family.",
+        "popularity": 7.16,
+        "poster_path": "/hjricC42LDlN5sWqOwGAPx5PSTa.jpg",
+        "release_date": "1984-05-11",
+        "title": "Bırakın Yaşasınlar",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tzq9W7h6MG799FR2bTizwIa7sN5.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 695973,
+        "original_language": "hi",
+        "original_title": "सत्यमेव जयते 2",
+        "overview": "Satya Azad, an upright Home Minister wants to cleanse the country of corruption with his Anti-Corruption Bill. However, it fails to get enough ‘Ayes’, not only from his allies, but also from his wife Vidya a member of the Opposition, who votes ‘Nay’ in the Vidhan Sabha. When a couple of gruesome killings take place in the city, ACP Jay Azad is brought in to nab the murderer, never mind his motive.",
+        "popularity": 7.158,
+        "poster_path": "/y1ebOObyi97slwBTljIifE67PR5.jpg",
+        "release_date": "2021-11-25",
+        "title": "Satyameva Jayate 2",
+        "video": false,
+        "vote_average": 5.475,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8RmY305eKxB0KWRRpvnRlnbcATg.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 119314,
+        "original_language": "en",
+        "original_title": "Half Past Midnight",
+        "overview": "A detective encounters a woman in a nightclub. He finds that she is being blackmailed by a dancer who is murdered that very night. Of course, the woman becomes the main suspect. She and the gumshoe team up and begin searching for the real killer.",
+        "popularity": 7.158,
+        "poster_path": "/6UdApAGj2WQIPvfplzOeUuEdnpq.jpg",
+        "release_date": "1948-03-01",
+        "title": "Half Past Midnight",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mkG5afzjnMImlMsCmV031McqW2X.jpg",
+        "genre_ids": [
+            80,
+            35
+        ],
+        "id": 82358,
+        "original_language": "it",
+        "original_title": "I mitici - Colpo gobbo a Milano",
+        "overview": "Roman TV technicians Fabio and Enzo have been unable to find decent jobs. They decide to crack a safe at a jewelry in Milan. To get the layout of the store, they enlist a beautiful but unsophisticated young woman, Deborah. To find underground access to the store, they get help from a sewage worker. An obese trapeze artist is called for disarm the store alarms. The clever Mrs. Motta, old hotelier, is also involved. Will they succeed?",
+        "popularity": 7.158,
+        "poster_path": "/et2YAFGIpWRPhKx4oRSPwNmvXcj.jpg",
+        "release_date": "1994-02-18",
+        "title": "The Heroes",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 69
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 64213,
+        "original_language": "fr",
+        "original_title": "Les Percutés",
+        "overview": "When his credit card has just been swallowed by distributor Bruno Lussac, State Inspector Débé crosses the limits of home ethics when he learns that he has just been banned from banking. Disguised as a Southerner for a costume party where he was supposed to arrest drug dealers, he lures his colleagues into robbing a bank; he causes a bloodbath but comes out victorious of this heist. For his accomplices, the informant, and pretty peacekeeper Cécile Barko, known as Cyborg, this is the start of a crazy run.",
+        "popularity": 7.158,
+        "poster_path": "/o28RtAhnqwnZRJhzWIOTlv8Sl16.jpg",
+        "release_date": "2002-07-31",
+        "title": "The Wackos",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 652496,
+        "original_language": "en",
+        "original_title": "The P.I. Experiment",
+        "overview": "Adam and Charlie Flint are two young, hip, film-maker brothers who decide to make a docudrama web-series about a real-life private investigations company, but the only company that will agree to be the victims of their constant amateur following and bad \"in your face\" shooting style is \"The Investigation Mill\", a struggling business of misfit, degenerate, somewhat professional private investigators. 'The P.I. Experiment' is a hilarious dark comedy with witty endearing characters that captivate your attention like a bad car crash.",
+        "popularity": 7.157,
+        "poster_path": "/ik4f7Lveqh4W9aLKxi2xkzGQo4W.jpg",
+        "release_date": "2015-02-18",
+        "title": "The P.I. Experiment",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/47vqHR0jGpLpe5VxYXdPjrJnJlb.jpg",
+        "genre_ids": [
+            18,
+            10751,
+            80
+        ],
+        "id": 66353,
+        "original_language": "ta",
+        "original_title": "மகாநதி",
+        "overview": "Krishnaswamy, an honest man, is conned into a chit fund business and imprisoned. While he faces unspeakable hardships in prison, his family disintegrates.",
+        "popularity": 7.157,
+        "poster_path": "/7ViQHCPXktA2RSNJHQrJa49Vu1P.jpg",
+        "release_date": "1994-01-14",
+        "title": "Mahanadhi",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kKatoqqftC8TtQMx78bhMqXQhBL.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 29023,
+        "original_language": "en",
+        "original_title": "Experiment Alcatraz",
+        "overview": "A doctor testing drugs on convicts gets mixed up in a murder investigation.",
+        "popularity": 7.157,
+        "poster_path": "/8Q0SXpSLjAAdHWHBnHhJDs1wIcC.jpg",
+        "release_date": "1950-11-21",
+        "title": "Experiment Alcatraz",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 1302926,
+        "original_language": "ml",
+        "original_title": "പങ്കാളികൾ",
+        "overview": "Bank employees discover they are working for a fake bank and try to steal a large quantity of gold from a criminal.",
+        "popularity": 7.155,
+        "poster_path": "/ct4XCdFihKtgewfM5IBkmeUgibR.jpg",
+        "release_date": "2024-07-05",
+        "title": "Partners",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wHicWUrgHafFb0ygMFrS0L27NHU.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80
+        ],
+        "id": 1165692,
+        "original_language": "ja",
+        "original_title": "ガリレオΦ",
+        "overview": "",
+        "popularity": 7.155,
+        "poster_path": "/9Z0j6BtN7NQqH3KWDGLhw1FQIMz.jpg",
+        "release_date": "2008-10-08",
+        "title": "Galileo Zero",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y45zKB5kULBPh5lFZgwtPoX7HE6.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 288131,
+        "original_language": "en",
+        "original_title": "The Criminal Mind",
+        "overview": "A Los Angeles district attorney must choose between family loyalty and his job when his long-lost brother turns out to be a powerful mob figure.",
+        "popularity": 7.155,
+        "poster_path": "/w1Klps7wo0RqE154iQAjyQyQwj8.jpg",
+        "release_date": "1993-10-25",
+        "title": "The Criminal Mind",
+        "video": false,
+        "vote_average": 2.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 174487,
+        "original_language": "en",
+        "original_title": "True Love and Chaos",
+        "overview": "A man accompanies his lover on a journey, neglecting to mention that an angry drug dealer is in hot pursuit.",
+        "popularity": 7.154,
+        "poster_path": "/vLAaCqq7CLnTXU3mOpuxGHHv9H3.jpg",
+        "release_date": "1997-05-22",
+        "title": "True Love and Chaos",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rTK1htnywC1eTZzspUKEClj7mWL.jpg",
+        "genre_ids": [
+            27,
+            16,
+            80
+        ],
+        "id": 127401,
+        "original_language": "en",
+        "original_title": "The Tell-Tale Heart",
+        "overview": "One of the most discussed and imaginative cartoons of any era. It tells the famous Edgar Allan Poe story of the deranged boarder who had to kill his landlord, not for greed, but because he possessed an \"evil eye.\" The killer is never seen but his presence is felt by the use light-and-shadow to give the impression of impending disaster.",
+        "popularity": 7.154,
+        "poster_path": "/AsUpsdGwNbFRpPG6BxvshwFRaut.jpg",
+        "release_date": "1953-12-17",
+        "title": "The Tell-Tale Heart",
+        "video": false,
+        "vote_average": 7.192,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wi6dsgTN5SuOaxhJ0Hn6XWVPeUV.jpg",
+        "genre_ids": [
+            53,
+            80,
+            27
+        ],
+        "id": 99859,
+        "original_language": "en",
+        "original_title": "Crimetime",
+        "overview": "The star of a TV crime reenactment show becomes caught up in the mind of the killer he is playing.",
+        "popularity": 7.153,
+        "poster_path": "/2SLvvmMPt1I97ea1SOoD0k26Kak.jpg",
+        "release_date": "1996-08-01",
+        "title": "Crimetime",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vQ3Jf0mLPtdZdhqq1yMRqSfPbGp.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53,
+            80
+        ],
+        "id": 14075,
+        "original_language": "en",
+        "original_title": "The Fifth Commandment",
+        "overview": "In Bangkok, an assassin who turns down a job that hits too close to home finds himself targeted by the elite members of his profession",
+        "popularity": 7.153,
+        "poster_path": "/fTGr7lGtLIpnXM2JZkx3EUyzFIN.jpg",
+        "release_date": "2008-08-21",
+        "title": "The Fifth Commandment",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xd0AWEGMuLws6ynAvilFKjaqCdr.jpg",
+        "genre_ids": [
+            9648,
+            80
+        ],
+        "id": 158113,
+        "original_language": "en",
+        "original_title": "The Case of the Stuttering Bishop",
+        "overview": "A Bishop from Australia comes to Perry to ask him to take a case of a woman wrongly accused of manslaughter 22 years before. The case would involve the wealthy Mr. Brownley and the fact that his alleged granddaughter may be an imposter. With that, the Bishop leaves and is clubbed in his hotel room. Soon after, he leaves on a boat and Perry meets the woman - Ida Gilbert. Perry goes to see Mr. Brownley, but gets nowhere. Later that night, Brownley is to meet Ida, but he is shot by a woman who drops Ida's gun. Ida is arrested for the murder of Mr. Brownley and Perry gets involved.",
+        "popularity": 7.152,
+        "poster_path": "/c5sqD6IJvjUixxFmYOPmCcsVvdD.jpg",
+        "release_date": "1937-06-08",
+        "title": "The Case of the Stuttering Bishop",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 6
+    }
+]

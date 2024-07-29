@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/vzO729sITNJ1jB6Y9AJpIhlbvb2.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 1213997,
+        "original_language": "en",
+        "original_title": "Bitconned",
+        "overview": "In this true-crime documentary, three guys exploit the freewheeling cryptocurrency market to scam millions from investors and bankroll lavish lifestyles.",
+        "popularity": 24.787,
+        "poster_path": "/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg",
+        "release_date": "2024-01-01",
+        "title": "Bitconned",
+        "video": false,
+        "vote_average": 6.202,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dsWxCsAdsocMNQFbhe39ynAOhBa.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1049233,
+        "original_language": "pl",
+        "original_title": "Plan lekcji",
+        "overview": "After a teacher dies, his best friend — a former cop — takes a job at the school where he worked to confront the gang he thinks was responsible.",
+        "popularity": 24.782,
+        "poster_path": "/wawP3mOUeRBrAtnbPwWK5eFaMdV.jpg",
+        "release_date": "2022-11-23",
+        "title": "Lesson Plan",
+        "video": false,
+        "vote_average": 6.171,
+        "vote_count": 158
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7BUkUyHAijyZ8UpMxnn3TM5vHwg.jpg",
+        "genre_ids": [
+            35,
+            80,
+            10749
+        ],
+        "id": 10154,
+        "original_language": "en",
+        "original_title": "Mickey Blue Eyes",
+        "overview": "An English auctioneer proposes to the daughter of a mafia kingpin, only to realize that certain \"favors\" would be asked of him.",
+        "popularity": 24.778,
+        "poster_path": "/gEnKsStQ27P0KCCIGtkYwvFQ0RX.jpg",
+        "release_date": "1999-08-16",
+        "title": "Mickey Blue Eyes",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 535
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h45wM5ClEmKly26cK8QirQa8wpd.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 165739,
+        "original_language": "en",
+        "original_title": "Pawn",
+        "overview": "A petty robbery spirals into a tense hostage situation after three gunmen hold up a diner that's a front for the mob.",
+        "popularity": 30.219,
+        "poster_path": "/x1xjvT12cF6CABsa8ji5Lj7GNyh.jpg",
+        "release_date": "2013-04-23",
+        "title": "Pawn",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 166
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aydE5GnUgwAwIQMdce6z0l89QBM.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 631997,
+        "original_language": "ja",
+        "original_title": "愛なき森で叫べ",
+        "overview": "A con man and a would-be filmmaking crew force themselves into the lives of two grief-scarred young women. But nothing is as it seems.",
+        "popularity": 24.769,
+        "poster_path": "/A7ve6RmC8C4VmfMEMhwRCwKWeim.jpg",
+        "release_date": "2019-10-11",
+        "title": "The Forest of Love",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 152
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/lFTIB7obHpTYTMOruePsxigthQN.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 43028,
+        "original_language": "en",
+        "original_title": "Victim",
+        "overview": "Barrister Melville Farr is on the path to success. With his practice winning cases and a loving marriage to his wife, Farr's career and personal life are nearly idyllic. However, when blackmailers link the secretly closeted Farr to a young gay man, everything Farr has worked for is threatened. But instead of giving in, Farr decides to fight.",
+        "popularity": 24.763,
+        "poster_path": "/6N1V0qW86D5jxcPyLlIJpjgNX6p.jpg",
+        "release_date": "1961-08-01",
+        "title": "Victim",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 126
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mXJOL3IDnlpUtvFPcmPqGDXOcj7.jpg",
+        "genre_ids": [
+            16,
+            80,
+            28,
+            14
+        ],
+        "id": 23150,
+        "original_language": "ja",
+        "original_title": "劇場版「空の境界」第一章 俯瞰風景",
+        "overview": "The story starts following an incident: a young girl jumps from the top of a building. The image provokes a certain dread, as the girl appears to have been a corpse even before she jumped. The case is dismissed, yet more and more of these suicides occur, and all from the same building. Thus began the rumour, that a ghost inhabited the rooftop of the building.",
+        "popularity": 24.754,
+        "poster_path": "/yCd8RiGzEcVBZydYjUDsIpVKy7R.jpg",
+        "release_date": "2007-12-01",
+        "title": "The Garden of Sinners: Overlooking View",
+        "video": false,
+        "vote_average": 6.712,
+        "vote_count": 132
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            10402
+        ],
+        "id": 261514,
+        "original_language": "ja",
+        "original_title": "SR サイタマノラッパー ロードサイドの逃亡者",
+        "overview": "'Roadside Fugitive' follows Mighty's non-successful story after '8,000 Miles 1,' at the end of which he parts company with Ikku and Tom, members of his hip hop group, 'Sho-Gung,' and leaves for Tokyo. Will Mighty be able to keep faith in the tiny little soul burning somewhere inside him?",
+        "popularity": 24.752,
+        "poster_path": "/8XGkOlDw3BE1plEluAaZQcWBTY3.jpg",
+        "release_date": "2012-04-14",
+        "title": "Roadside Fugitive",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p2iMe6UKDvbV5litJqzrlpbHYrO.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 8426,
+        "original_language": "ja",
+        "original_title": "スワロウテイル",
+        "overview": "The struggles of a group of outcasts living in \"Yentown\", in an alternate-future Japan.",
+        "popularity": 24.749,
+        "poster_path": "/wbHrboUJnLFvAG5eiB9LJaErjPn.jpg",
+        "release_date": "1996-09-14",
+        "title": "Swallowtail Butterfly",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 78
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jk5SlQdHT2s89p86tXo1HnrjbEI.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "id": 6028,
+        "original_language": "en",
+        "original_title": "The Mirror Crack'd",
+        "overview": "Jane Marple solves the mystery when a local woman is poisoned and a visiting movie star seems to have been the intended victim.",
+        "popularity": 24.743,
+        "poster_path": "/5rirt2BbnEDzgWfUzsAew0qHm1N.jpg",
+        "release_date": "1980-09-19",
+        "title": "The Mirror Crack'd",
+        "video": false,
+        "vote_average": 6.149,
+        "vote_count": 194
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nvk5PWrN74icx8pprK177OToj2b.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 703134,
+        "original_language": "en",
+        "original_title": "Infamous",
+        "overview": "Two young lovers rob their way across the southland, posting their exploits to social media, and gaining fame and followers as a result.",
+        "popularity": 24.738,
+        "poster_path": "/q2lkJf1TAjImTHCEO7XvbqPtnPb.jpg",
+        "release_date": "2020-06-12",
+        "title": "Infamous",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 174
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b2HzUmIJXNBgGGKJIsXoYsyPsP4.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 69619,
+        "original_language": "cn",
+        "original_title": "B+偵探",
+        "overview": "Bumbling private detective Chan Tam is enlisted by police pal Fung Chak to help in the investigation of a serial murder case. The victims a middle-aged man killed at home, a dead woman found in the trash dump, and a teenage girl slain in the park were all killed in grisly manners, but they didn't seem related to one another. With no clue to follow up on, Tam is decidedly at his wits' end.",
+        "popularity": 24.738,
+        "poster_path": "/qLlU7jrp2Y5GxdzVZWlnwu8yQDE.jpg",
+        "release_date": "2011-05-12",
+        "title": "The Detective 2",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vj9b9An8BxVK5xkFFdk7V08cK3V.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 9905,
+        "original_language": "en",
+        "original_title": "Shallow Grave",
+        "overview": "When David, Juliet, and Alex are searching for a fourth roommate for their flat, they settle on the aloof Hugo. However, they soon find Hugo dead, with a large sum of cash being among his belongings. The three friends decide to keep the money, dismembering and burying Hugo's body. However, their newfound fortune begins to corrode their friendships, with each roommate resorting to manipulation tactics to scam the others out of the money.",
+        "popularity": 24.711,
+        "poster_path": "/gqvSKLbfIg1mja1ulVkVcLhdwWF.jpg",
+        "release_date": "1994-12-22",
+        "title": "Shallow Grave",
+        "video": false,
+        "vote_average": 7.002,
+        "vote_count": 972
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ifOEPOHMnoT9YRu8dcvf26HsW47.jpg",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "id": 10723,
+        "original_language": "en",
+        "original_title": "Bulletproof",
+        "overview": "An undercover police officer named Rock Keats befriends a drug dealer and car thief named Archie Moses in a bid to catch the villainous drug lord Frank Coltan. But the only problem is that Keats is a cop, his real name is Jack Carter, and he is working undercover with the LAPD to bust Moses and Colton at a sting operation the LAPD has set up.",
+        "popularity": 24.709,
+        "poster_path": "/gPzTPl5PumZurZMZwIyPIkBEmay.jpg",
+        "release_date": "1996-09-06",
+        "title": "Bulletproof",
+        "video": false,
+        "vote_average": 5.672,
+        "vote_count": 564
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8YMq728a1ElZq6tmM0ZI3RrwoOi.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18,
+            27
+        ],
+        "id": 15018,
+        "original_language": "sv",
+        "original_title": "Thriller - en grym film",
+        "overview": "Madeleine, rendered mute after being sexually assaulted as a youth, accepts a lift from a wealthy and sadistic pimp who soon enslaves her into his prostitution racket. Despite her limited means, Madeleine embarks on a bloody road to revenge against her captors.",
+        "popularity": 24.695,
+        "poster_path": "/pMYgdygJZ6oBpnC3dWrluevlZOt.jpg",
+        "release_date": "1973-05-01",
+        "title": "Thriller: A Cruel Picture",
+        "video": false,
+        "vote_average": 6.436,
+        "vote_count": 180
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uWkqGbjUx6twiYx1OD7PyMH8gIN.jpg",
+        "genre_ids": [
+            80,
+            28
+        ],
+        "id": 568320,
+        "original_language": "ko",
+        "original_title": "뺑반",
+        "overview": "Min-jae, a rookie police officer with a natural born talent for driving, is assigned to the perfect team: the Hit-and-Run Squad. But at the same time, for police detective Si-yeon, it is a place she is unjustly demoted to for doing her job. The two team up to arrest the rich and powerful speed maniac Jae-chul who is suspected of committing crimes for his obsession for speed.",
+        "popularity": 24.661,
+        "poster_path": "/jGMkLo7FDgQikYwFJSlbc49ewVU.jpg",
+        "release_date": "2019-01-30",
+        "title": "Hit-and-Run Squad",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 64
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mbvP37gpODCkaCcYkdwK0FFnFKv.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 493065,
+        "original_language": "en",
+        "original_title": "Cut Throat City",
+        "overview": "Four boyhood friends return to New Orleans’ Lower Ninth Ward after Hurricane Katrina, to find their home decimated and prospects for work swept away. Turning to a local gangster for employment, the crew is hired to pull off a daring casino heist, right in the heart of the city.",
+        "popularity": 24.658,
+        "poster_path": "/9702nIZf5EVxS3FrzycamQUlSjw.jpg",
+        "release_date": "2020-07-31",
+        "title": "Cut Throat City",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 136
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hU74yMO9p7UzVvpfCl7rEqA4XPw.jpg",
+        "genre_ids": [
+            35,
+            10402,
+            9648,
+            80
+        ],
+        "id": 30141,
+        "original_language": "en",
+        "original_title": "The Singing Detective",
+        "overview": "From his hospital bed, a writer suffering from a skin disease hallucinates musical numbers and paranoid plots.",
+        "popularity": 24.65,
+        "poster_path": "/bjkLSHpV294HIllRpHKWkNICs3N.jpg",
+        "release_date": "2003-10-24",
+        "title": "The Singing Detective",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 122
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ac6sX5DUJjFn1yCzCabuYTkNZje.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 9074,
+        "original_language": "en",
+        "original_title": "The Man",
+        "overview": "A case of mistaken identity forces a Federal agent and a dental supply salesman to team up as they speed through the streets of Detroit to pull off a sting operation and solve the murder of the agent's former partner.",
+        "popularity": 24.649,
+        "poster_path": "/bnofwLKvg2g7Ky9sSpyTHaan37n.jpg",
+        "release_date": "2005-09-08",
+        "title": "The Man",
+        "video": false,
+        "vote_average": 5.724,
+        "vote_count": 524
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ofPBZQmEPOfhHSklZ8jLu2LQUJ3.jpg",
+        "genre_ids": [
+            18,
+            80,
+            27
+        ],
+        "id": 261478,
+        "original_language": "cn",
+        "original_title": "香港奇案之五《姦魔》",
+        "overview": "Shaw Brothers Exploitation Flick, 5th installment in \"The Criminals\" series.",
+        "popularity": 24.64,
+        "poster_path": "/5KeGORdzurlGhrQLoLDLratFYf7.jpg",
+        "release_date": "1977-11-11",
+        "title": "The Criminals, Part 5: The Teenager's Nightmare",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    }
+]

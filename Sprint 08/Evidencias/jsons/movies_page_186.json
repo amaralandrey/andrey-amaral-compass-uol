@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/tQ1cTW2ezz73st9BDX1uXL0kqgz.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 54953,
+        "original_language": "it",
+        "original_title": "Il camorrista",
+        "overview": "An imprisoned murderer carries out a violent bid for control of Naples' underworld crime syndicate.",
+        "popularity": 15.372,
+        "poster_path": "/nhGRBChReXq4n2AQbE9nu3VRyrB.jpg",
+        "release_date": "1986-09-12",
+        "title": "The Professor",
+        "video": false,
+        "vote_average": 7.119,
+        "vote_count": 109
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/wqaSZRxgeVLPbr4Kiq19GfsVhL8.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            10770,
+            18
+        ],
+        "id": 509109,
+        "original_language": "en",
+        "original_title": "Prescription: Murder",
+        "overview": "In Columbo's first outing, a psychiatrist uses a patient he is having an affair with to help him kill his wife, but his perfect alibi may come apart at the hands of a seemingly befuddled LAPD lieutenant.",
+        "popularity": 15.368,
+        "poster_path": "/p5QPp18iGRb012XLDtp0TTOcxAE.jpg",
+        "release_date": "1968-02-20",
+        "title": "Prescription: Murder",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kcFoFxHwHrtk2JtDb2trEinvOkF.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 129084,
+        "original_language": "en",
+        "original_title": "Lost",
+        "overview": "U.S. Embassy employee Lee Cochrane and his wife, Sue, receive a shock when they discover that their 18-month-old son, Simon, has disappeared in London. He was last seen with their nanny, and the couple seemingly have no leads that might help police Detective Craig in his investigation. The media sensationalizes the incident, causing an unnecessary distraction as the couple prepares to confront the culprit face-to-face.",
+        "popularity": 15.357,
+        "poster_path": "/dAK51a2j62aE4JYCIhzjT8OZWnw.jpg",
+        "release_date": "1956-01-31",
+        "title": "Lost",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sLtDm93tjmCOKGdw5BBshAxlV7F.jpg",
+        "genre_ids": [
+            35,
+            10749,
+            80,
+            18
+        ],
+        "id": 838876,
+        "original_language": "it",
+        "original_title": "La cena perfetta",
+        "overview": "Carmine is a Neapolitan mafioso who isn’t cut out for the criminal life. Under the protection of his boss Pasquale, Carmine is sent north to run a money laundering operation through a restaurant. He simply needs to defrost frozen meals, issue receipts and dinner is served.  But everything changes when he meets Consuelo, a chef who always pursues perfection and dreams of winning a Michelin star. Carmine hires her and decides to transform the establishment into a high-end restaurant. Could the love for food and dream of winning a Michelin star give them both a second chance?",
+        "popularity": 15.354,
+        "poster_path": "/neTgFAKHUWnbWu5cEjnrNNzFBZN.jpg",
+        "release_date": "2022-04-26",
+        "title": "The Perfect Dinner",
+        "video": false,
+        "vote_average": 6.858,
+        "vote_count": 173
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5JF8pUDFYuAPptsi0WPWH510sOK.jpg",
+        "genre_ids": [
+            99,
+            80
+        ],
+        "id": 551653,
+        "original_language": "en",
+        "original_title": "The Panama Papers",
+        "overview": "A documentary feature film about the biggest global corruption scandal in history, and the hundreds of journalists who risked their lives to break the story.",
+        "popularity": 15.353,
+        "poster_path": "/8Yw1ZB8oFB4fZTII9GL17yLyEqx.jpg",
+        "release_date": "2018-10-06",
+        "title": "The Panama Papers",
+        "video": false,
+        "vote_average": 6.632,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/l5EJbCalhOnGeSo3iJ4SGCU57xS.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 15576,
+        "original_language": "fr",
+        "original_title": "Bellamy",
+        "overview": "A well known Parisian inspector becomes involved in an investigation while on holiday.",
+        "popularity": 15.348,
+        "poster_path": "/l1BSVVS4byoPRqm9MeYvlTZin3G.jpg",
+        "release_date": "2009-02-25",
+        "title": "Bellamy",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qrUaucJ1wJcI7AAnuHtoi2OVbml.jpg",
+        "genre_ids": [
+            28,
+            16,
+            35,
+            10770,
+            18,
+            80
+        ],
+        "id": 31594,
+        "original_language": "ja",
+        "original_title": "ルパン三世 愛のダ・カーポ 〜FUJIKO'S Unlucky Days〜",
+        "overview": "When Fujiko secures a file that documents the location of the fabled Columbus Egg – a mystical relic that controls the weather – she quickly recruits Lupin and the gang to track down the long-lost treasure. Unfortunately, her memory of Lupin and his friends are wiped out almost entirely. Can the gang restore Fujiko’s memory before the Egg falls into the hands of a madman?",
+        "popularity": 15.346,
+        "poster_path": "/yTGHnUIFEnAN8W0s9O3URCVjtRM.jpg",
+        "release_date": "1999-07-30",
+        "title": "Lupin the Third: The Columbus Files",
+        "video": false,
+        "vote_average": 6.212,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dqHuHKJ7adDxT0mrp8O1ktxLuzY.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 70159,
+        "original_language": "de",
+        "original_title": "Das Verrätertor",
+        "overview": "A businessman organises a caper to steal the Crown Jewels from the Tower of London.",
+        "popularity": 15.342,
+        "poster_path": "/qYcr7iDp9pw7LDl8vmNMt1h3L0L.jpg",
+        "release_date": "1964-12-18",
+        "title": "Traitor's Gate",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fUXhNTq24a2YwlzDdryPrpsPiSF.jpg",
+        "genre_ids": [
+            10770,
+            18,
+            80
+        ],
+        "id": 102931,
+        "original_language": "en",
+        "original_title": "Silent Witness",
+        "overview": "Prominent defense attorney Tony Lord returns to his hometown to defend an old friend, a teacher accused of murdering one of his students. The case re-opens the heartache from Tony's own high school days, when he was a student falsely accused of murdering his first love.",
+        "popularity": 15.334,
+        "poster_path": "/4zmjV7vPtqENkgNaFe1BHehf0jU.jpg",
+        "release_date": "2013-06-23",
+        "title": "Silent Witness",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/sLdz4K32OUP8cKk5G58e0JLofY9.jpg",
+        "genre_ids": [
+            80,
+            27,
+            9648,
+            10749
+        ],
+        "id": 28435,
+        "original_language": "en",
+        "original_title": "Murders in the Rue Morgue",
+        "overview": "In 19th Century Paris, a maniac abducts young women and injects them with ape blood in an attempt to prove ape-human kinship but constantly meets failure as the abducted women die.",
+        "popularity": 15.334,
+        "poster_path": "/juw7PExPZ3JuwiT09fAePulrPoa.jpg",
+        "release_date": "1932-01-27",
+        "title": "Murders in the Rue Morgue",
+        "video": false,
+        "vote_average": 6.045,
+        "vote_count": 123
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/manaTHK39Y17hXM8eMlXdrDQxTu.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 531379,
+        "original_language": "cn",
+        "original_title": "風再起時",
+        "overview": "The decades spanning story of two very different policemen who rise to power in Hong Kong during British rule, and end up at odds with both organised crime groups and the anti-corruption unit vowing to bring them down.",
+        "popularity": 15.331,
+        "poster_path": "/g0sawoBRatj2N2YzWROloIxjBep.jpg",
+        "release_date": "2023-02-05",
+        "title": "Where the Wind Blows",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bzDJ6dSojMJoCHXYIFycGxjWSYR.jpg",
+        "genre_ids": [
+            35,
+            27,
+            80
+        ],
+        "id": 3486,
+        "original_language": "en",
+        "original_title": "The Fiendish Plot of Dr. Fu Manchu",
+        "overview": "Fu Manchu's 168th birthday celebration is dampened when a hapless flunky spills Fu's age-regressing elixir vitae. Fu sends his lackeys to round up ingredients for a new batch of elixir, starting with the Star of Leningrad diamond, nabbed from a Soviet exhibition in Washington. The FBI sends agents Capone and Williams to England to confer with Nayland Smith, an expert on Fu.",
+        "popularity": 15.326,
+        "poster_path": "/cl1YGv5RQCWs8Tsc5SwBfPIfvMP.jpg",
+        "release_date": "1980-08-08",
+        "title": "The Fiendish Plot of Dr. Fu Manchu",
+        "video": false,
+        "vote_average": 4.909,
+        "vote_count": 33
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9MUSNEnroyREBGsNkTpd19rpbU3.jpg",
+        "genre_ids": [
+            10749,
+            35,
+            18,
+            80
+        ],
+        "id": 360635,
+        "original_language": "ja",
+        "original_title": "HERO",
+        "overview": "Prosecutor Kohei Kuryu takes charge of a case with a foreign embassy possessing the key to solve the case. Due to the extraterritoriality involving the case, the investigation has not gone anywhere. A crisis then ensues. Kohei Kuryu and his office attempt to extract the truth behind the wall of the Neustrian Embassy.",
+        "popularity": 15.319,
+        "poster_path": "/pcnjUHvKTrdpaA3F3yiaK7XaP5N.jpg",
+        "release_date": "2015-07-18",
+        "title": "Hero",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 29
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/unK7hXabRmLNnXzS5Z2dcVag8pj.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 301901,
+        "original_language": "es",
+        "original_title": "Perro callejero",
+        "overview": "An abandoned child steals to survive and has problems when he decides to steal from the priest who helps him.",
+        "popularity": 15.319,
+        "poster_path": "/4ajlvTxa3HsXQG0auGh7LJFbm3D.jpg",
+        "release_date": "1980-02-28",
+        "title": "Perro callejero",
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 45
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bsN0OyA6ZSQ3vkvNMaoNgp4woB6.jpg",
+        "genre_ids": [
+            53,
+            80,
+            28
+        ],
+        "id": 606303,
+        "original_language": "en",
+        "original_title": "No Way Out",
+        "overview": "Nick, a talented photographer who is new to Los Angeles falls quickly in love with Tessa, a free-spirited young woman who is no longer charmed by the city. Their worlds are turned upside down when she asks him to do the unimaginable, which leads to him uncovering a dark truth, forcing them down a path of revenge and destruction.",
+        "popularity": 15.318,
+        "poster_path": "/df9pAqtYzM40llo9Joxy2ftqSrP.jpg",
+        "release_date": "2022-08-12",
+        "title": "No Way Out",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 21
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fCaiIsvktPI2eXME7miv9jFsW2g.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 48361,
+        "original_language": "ja",
+        "original_title": "ゴルゴ13：九竜の首",
+        "overview": "Duke Togo (codename: Golgo 13) is a ruthless assassin who's accepted a tricky assignment from an American drug syndicate. His mission is to \"rub out\" Hong Kong's underworld kingpin. His main obstacle is the relentless Detective 'Smitty' Smith, determined to stop Togo no matter the cost. The result is an explosive adventure through the seamy, violent streets of Hong Kong.",
+        "popularity": 15.313,
+        "poster_path": "/tBFR0T4uTfZTNV5kzCYggPxkubf.jpg",
+        "release_date": "1977-09-15",
+        "title": "Golgo 13: Assignment Kowloon",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pE7XVUxxQ9qdCQKhBWalYNA57I8.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 35797,
+        "original_language": "fr",
+        "original_title": "Coup de torchon",
+        "overview": "A pathetic police chief, humiliated by everyone around him, suddenly wants a clean slate in life, and resorts to drastic means to achieve it.",
+        "popularity": 15.309,
+        "poster_path": "/sYlANrZi5vxaHhmPaktuPlsO2Wz.jpg",
+        "release_date": "1981-11-04",
+        "title": "Coup de Torchon",
+        "video": false,
+        "vote_average": 7.055,
+        "vote_count": 183
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jcaja6PTsXtHIhf94I7CW5rDIs.jpg",
+        "genre_ids": [
+            80,
+            18,
+            27,
+            53
+        ],
+        "id": 54075,
+        "original_language": "en",
+        "original_title": "Choose",
+        "overview": "Fiona Wagner, a journalism student, tracks a cold-blooded killer with the help of her detective father and a therapist.",
+        "popularity": 15.306,
+        "poster_path": "/4W4plHfj4GN40HOdZPplPLSEiUi.jpg",
+        "release_date": "2011-01-17",
+        "title": "Choose",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 95
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fci0Y2XIYLGzNXdoBDHUeOyPtvw.jpg",
+        "genre_ids": [
+            10749,
+            28,
+            80,
+            18
+        ],
+        "id": 42267,
+        "original_language": "en",
+        "original_title": "White Line Fever",
+        "overview": "An independent trucker with a pregnant wife fights cargo crooks and the big shot they work for.",
+        "popularity": 15.305,
+        "poster_path": "/cPXwaBrDGOUIkzGj6MeAElzUi3Z.jpg",
+        "release_date": "1975-07-16",
+        "title": "White Line Fever",
+        "video": false,
+        "vote_average": 6.095,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g5knEDTOzgCPi9Jiii4LhMHzOIB.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 209232,
+        "original_language": "de",
+        "original_title": "Dampfnudelblues",
+        "overview": "After the forcible transfer to his Bavarian home village, an ex-criminal cop investigates the death of a school principal who he thinks had lots to hide.",
+        "popularity": 15.303,
+        "poster_path": "/mlE9wNxyzGQPJm26Fn8eBr1H1gx.jpg",
+        "release_date": "2013-07-31",
+        "title": "Dampfnudelblues",
+        "video": false,
+        "vote_average": 6.984,
+        "vote_count": 125
+    }
+]

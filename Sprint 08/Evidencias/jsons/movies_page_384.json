@@ -1,0 +1,398 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/b7i9lX7kc3QekGwP4aCILorsjc5.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 35027,
+        "original_language": "ja",
+        "original_title": "龍が如く 〜序章〜",
+        "overview": "In 1970s-era Japan, three children, Kazuma Kiryu, Akira Nishikiyama, and his younger sister, Yuko Nishikiyama, are raised together in Shintaro Kazama's Sunflower Orphanage. In the summer of 1980, Yumi Sawamura, a young girl whose parents were accidentally shot and killed during a gang's shootout, joins them in the orphanage. Following a yakuza tradition, the honorable Kazama secretly raises orphans whose parents he has directly or indirectly killed. In return, the children love him as a father and he eventually inducts the teenage Kiryu and Nishikiyama into the Dojima Family, a Tojo Clan affiliate of which he is a senior officer.",
+        "popularity": 8.569,
+        "poster_path": "/ufUAm05Uk1ZAU3TELDE4RRJ4AFW.jpg",
+        "release_date": "2006-03-24",
+        "title": "Like a Dragon: Prologue",
+        "video": false,
+        "vote_average": 5.889,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9tm539lgfSUAET9fTEzln0LBCmo.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 33984,
+        "original_language": "ja",
+        "original_title": "初恋",
+        "overview": "In the chaotic days of the 1960s, Misuzu, a lonely high school girl from a troubled family, finds sanctuary with her nihilistic brother, Ryo, and his friends. They pass their days hanging around a shadowy jazz cafe bar, indulging themselves in a life of sex, drugs and alcohol.",
+        "popularity": 8.569,
+        "poster_path": "/b7Iwdev18JvZzYmfVFEOWx5cxCo.jpg",
+        "release_date": "2006-06-10",
+        "title": "First Love",
+        "video": false,
+        "vote_average": 6.533,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4XUG6peOITIW8aMVDQvIGzav2oD.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 66175,
+        "original_language": "en",
+        "original_title": "I Was a Shoplifter",
+        "overview": "A police detective uses any means possible to trap a gang of shoplifters.",
+        "popularity": 8.567,
+        "poster_path": "/i8BCcdVGsOaY4EP9qSPbQUdS0KH.jpg",
+        "release_date": "1950-05-13",
+        "title": "I Was a Shoplifter",
+        "video": false,
+        "vote_average": 5.3,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uTmK7cdpMZpXotg6zTrzeo5w47h.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 85022,
+        "original_language": "en",
+        "original_title": "Shoot",
+        "overview": "When boredom, pride and a mad second of misjudgement leaves a hunter shot dead by one of five combat veterans also hunting in the Canadian hills, it is expected a police investigation will follow, but when the veterans discover the incident has not been reported, the leader of the team, Major Rex suspects the other party maybe plotting revenge. Convinced that he, his party, and their families will be targets themselves he decides to beat his suspected assailants at their own game, grouping together more army comrades and stocking up an arsenal of weapons for the forthcoming battle.",
+        "popularity": 8.565,
+        "poster_path": "/wPE2yDErpT1BayCUAII7f7D6hQ9.jpg",
+        "release_date": "1976-05-28",
+        "title": "Shoot",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 146299,
+        "original_language": "en",
+        "original_title": "堂口故事",
+        "overview": "A Chinese immigrant to America is sucked up into the Chinese underworld when he finds greater acceptance in the arms of a small gang.",
+        "popularity": 8.564,
+        "poster_path": "/m6LBpCx8F3iNy1flJHsWxUXDZjI.jpg",
+        "release_date": "1986-05-22",
+        "title": "Tongs: A Chinatown Story",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fuNsl10UaTeK6Lamt1dRpE6dF0G.jpg",
+        "genre_ids": [
+            35,
+            18,
+            80
+        ],
+        "id": 45441,
+        "original_language": "ja",
+        "original_title": "ドライブ",
+        "overview": "Kenichi Asakura is an uptight, hyper-square salesman. One day, three bank robbers commandeer his van. They are in hot pursuit of their fellow robber who has snatched the money. Unfortunately for the bank robbers, Asakura never drives over 40 km/h speed limit even under the extreme situation.",
+        "popularity": 8.564,
+        "poster_path": "/n2UQevwyNsz5GK41Fs3NNPVA1YK.jpg",
+        "release_date": "2002-08-24",
+        "title": "Drive",
+        "video": false,
+        "vote_average": 6.469,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 1181490,
+        "original_language": "de",
+        "original_title": "Entführt - Der Usedom-Krimi",
+        "overview": "",
+        "popularity": 8.562,
+        "poster_path": null,
+        "release_date": "2021-11-04",
+        "title": "Entführt - Der Usedom-Krimi",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            9648,
+            80,
+            35,
+            10770
+        ],
+        "id": 371212,
+        "original_language": "en",
+        "original_title": "The Judge and Jake Wyler",
+        "overview": "A retired lady judge runs a private detective agency with a charming ex-con as her leg man and various parolees helping in the day-to-day operation.",
+        "popularity": 8.562,
+        "poster_path": "/hmhoF4bIprFRwpyyGV2OOsy8pDP.jpg",
+        "release_date": "1972-12-02",
+        "title": "The Judge and Jake Wyler",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cmaF9fERdRM4KOpKew3GMSHIrJH.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 296435,
+        "original_language": "fr",
+        "original_title": "Cours privé",
+        "overview": "Jeanne Kern is a pretty, somewhat repressed schoolteacher who suffers a smear campaign at work. Someone has been sending her director letters accusing her of lewd and immoral conduct. Matters take a turn for the worse when a photograph of an orgy is sent to all the faculty with one face cut out; presumably, the face is hers.",
+        "popularity": 8.562,
+        "poster_path": "/4nkDVYQ7uKgkfCXri9hiyLO8MRC.jpg",
+        "release_date": "1986-11-12",
+        "title": "Private Tuition",
+        "video": false,
+        "vote_average": 5.342,
+        "vote_count": 19
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            878,
+            80,
+            28,
+            12,
+            10770
+        ],
+        "id": 734822,
+        "original_language": "en",
+        "original_title": "M.A.N.T.I.S.",
+        "overview": "A brilliant, wheelchair-bound scientist invents a form of exo-skeleton called the Mechanically Augmented Neuro Transmitter Interception System (M.A.N.T.I.S.) that turns him into a superhero and gives him the ability to fight the crime wave that is engulfing his city.",
+        "popularity": 8.561,
+        "poster_path": "/vQAmYmrbjKnaS7fS3i6mFvekSsL.jpg",
+        "release_date": "1994-01-24",
+        "title": "M.A.N.T.I.S.",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 166899,
+        "original_language": "en",
+        "original_title": "Who Killed Atlanta's Children?",
+        "overview": "From 1979 to 1981, 29 African-American males, mostly children, were either missing or found murdered in metro Atlanta. The cases plagued the city until 1982, when Wayne Wiiliams was convicted of the murders of two adult men. Authorities then considered the other cases closed. Some of the parents of the slain children were critical of the way the cases were handled and believed there was some sort of cover up. Nearly four years after the conviction of Williams, \"Spin\" magazine editor Ron Larson and reporter Pat Laughlin come to Atlanta in search of the truth.",
+        "popularity": 8.561,
+        "poster_path": "/hyG0vFNl4z9qctDe3R2ZoYYO0v5.jpg",
+        "release_date": "2000-07-16",
+        "title": "Who Killed Atlanta's Children?",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b8vkYE1Cnop7QAimTIYGobPURZ1.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 858672,
+        "original_language": "en",
+        "original_title": "I Love Us",
+        "overview": "Veteran thief Sammy Silver  struggles to trade his criminal ways for married life after he falls in love with a single mother.",
+        "popularity": 8.559,
+        "poster_path": "/3SrtYADeY6naLk0YSjkHzrwvtfa.jpg",
+        "release_date": "2021-09-17",
+        "title": "I Love Us",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            27,
+            9648,
+            878,
+            53
+        ],
+        "id": 41547,
+        "original_language": "en",
+        "original_title": "Nobody",
+        "overview": "A cold-blooded killer gets caught up in a surreal game of death in this neo-noir thriller starring Costas Mandylor. The winter winds are whipping outside when the unremorseful assassin dispatches with his latest target. But this time something goes wrong. Time begins to fold in on itself when a shadowy assailant strikes out from the darkness, turning hunter into prey in the span of seconds. The mysterious pursuer seems to anticipate the killer's every move, and as events begin to repeat themselves nobody is who they seem. A sudden stranger to his friends and associates, the killer begins to question his sanity after fresh wounds vanish from his flesh without a trace. When an unexpected telephone call reveals that his intended target is still alive, he is forced to relive his actions time and again while speeding ever closer toward a confrontation with the one adversary who could bring about his downfall.",
+        "popularity": 8.559,
+        "poster_path": "/rbsSpGLtphV5ESeLx1GTqZm7Xnn.jpg",
+        "release_date": "2007-07-28",
+        "title": "Nobody",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gLR81r2Qmn3zSwqgYuSkbAHbSOZ.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 9635,
+        "original_language": "de",
+        "original_title": "Neues vom Hexer",
+        "overview": "Arthur Milton aka Der Hexer (The Magician/Ringer) must return to London after his calling card was left at the scene of a murder he did not commit.",
+        "popularity": 8.558,
+        "poster_path": "/cwEMyrdzL2uHGR7TAQOFcXcmO3h.jpg",
+        "release_date": "1965-06-04",
+        "title": "Again the Ringer",
+        "video": false,
+        "vote_average": 5.81,
+        "vote_count": 20
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fffKh7xYMswVAZaNrCIfWFzQmwb.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 252956,
+        "original_language": "en",
+        "original_title": "Bullet Scars",
+        "overview": "Dr. Steven Bishop is taken to the hideout of Frank Dillon and his gang to treat the wounded Joe Madison.  Joe's nurse sister Nora Madison is also taken. Dillon tells Bishop that if Joe dies, he will be killed, but Bishop knows he will be either way. Joe dies, but Nora and Steve conceal it from Dillon and send a plea for help in a prescription that Bishop writes in Latin.",
+        "popularity": 8.557,
+        "poster_path": "/zCzu2GLaIkyKZOnSRceHPsXYivJ.jpg",
+        "release_date": "1942-03-07",
+        "title": "Bullet Scars",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 1145257,
+        "original_language": "ja",
+        "original_title": "鮮血の記録",
+        "overview": "Post World War II, Minoru lives by selling supplies that had been stolen from the U.S. military. One day, he is arrested due to the plotting of Kurahata, a member of the Yakuza who doesn't like him.",
+        "popularity": 8.556,
+        "poster_path": "/2Tw6Q4FQzaLDudPgjVMVlXrij93.jpg",
+        "release_date": "1970-06-10",
+        "title": "Records of Bloodshed",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xosG4ldBmRcG6VV1sK37Tyzj9H3.jpg",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "id": 381374,
+        "original_language": "ml",
+        "original_title": "ആക്ഷൻ ഹീറോ ബിജു",
+        "overview": "Biju is an honest policeman who fights the injustice head-on. In his pursuit to keep things under control and clean, he encounters a series of events and cases which test his authority, honesty and integrity. With a week to his wedding, what ensues is a heartfelt story of a cop sans the cinematic hype.",
+        "popularity": 8.556,
+        "poster_path": "/nQFi62nYw8CISzV0US6sb7v324v.jpg",
+        "release_date": "2016-02-04",
+        "title": "Action Hero Biju",
+        "video": false,
+        "vote_average": 7.369,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dbxwbJse1Y7EdjwuRHzfObUn84B.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 140543,
+        "original_language": "en",
+        "original_title": "13 Dead Men",
+        "overview": "Set in a prison, a death row inmate has a secret and the warden will go to any lengths to get it. Things dont go as planned as you would expect. A good action film with alot of good fight scenes and an interesting twist at the end.What we have learned to expect from Art Camacho.",
+        "popularity": 8.555,
+        "poster_path": "/zKtQGVKKBr3plcqxOp3RaE2uwbO.jpg",
+        "release_date": "2003-10-20",
+        "title": "13 Dead Men",
+        "video": false,
+        "vote_average": 3.4,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7NaxCPvv43Th6WltOlmkFlU9iz5.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 574095,
+        "original_language": "sv",
+        "original_title": "Se upp för Jönssonligan",
+        "overview": "Following a failed heist, Charles-Ingvar ‘Sickan’ Jonsson ends up in prison. Once released, his gang have become law-abiding citizens and Sickan has to continue on his own. Crime broker Anita tasks him with a simple burglary, but it turns out to be something a lot bigger than Sickan thought it was. Now he needs the help of his past accomplices to carry out the most difficult heist in the history of the gang.",
+        "popularity": 8.554,
+        "poster_path": "/yt5ufod5cHe4GK4Uaxu5Evvxo9S.jpg",
+        "release_date": "2021-10-07",
+        "title": "The Jonsson Gang",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m2iMcsJFl0ViRNscPFimqEfYUq5.jpg",
+        "genre_ids": [
+            35,
+            80,
+            18
+        ],
+        "id": 336791,
+        "original_language": "ar",
+        "original_title": "حتى لا يطير الدخان",
+        "overview": "Fahmi Abdul Hadi .. A distinguished student of law school .. His dreams are simple and his actions are ideal and pure .. Fahmi collides with the bitter reality of life when losing his mother because he cannot afford the price of her treatment. At a time, He watches his colleagues around him spend money like water and making fun of his poverty and even refuse to help him to treat his mother. Fahmi decides to abandon the idealism and take revenge of all who failed him.",
+        "popularity": 8.554,
+        "poster_path": "/cQw5GCWH4QzP7I4XsoEwgrHVlSH.jpg",
+        "release_date": "1984-11-19",
+        "title": "As Not to Fly the Smoke",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 11
+    }
+]

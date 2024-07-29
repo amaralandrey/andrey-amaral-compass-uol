@@ -1,0 +1,400 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/uDNytDhPxak4bGEu5866pVdCA5R.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 612513,
+        "original_language": "ja",
+        "original_title": "スマホを落としただけなのに 囚われの殺人鬼",
+        "overview": "A couple of months have passed since the serial murder case. A new dead body is found in the same area. Detective Manabu Kagaya tries to find the truth. He goes to see serial killer Yoshiharu Urano in prison.",
+        "popularity": 10.524,
+        "poster_path": "/63zrItFrrhaH9L087I6V8Otprqv.jpg",
+        "release_date": "2020-02-21",
+        "title": "Stolen Identity 2",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2DFh4bJCdb1XaAhg4RvnIgU1q47.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            80,
+            53
+        ],
+        "id": 84996,
+        "original_language": "en",
+        "original_title": "Scream for Help",
+        "overview": "A teenaged girl discovers that her stepfather is trying to murder her and her mother, but when she tells people, no one will believe her.",
+        "popularity": 10.524,
+        "poster_path": "/lIbWP5dxPJ7rRolg4pNZ617QlHz.jpg",
+        "release_date": "1984-07-03",
+        "title": "Scream for Help",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8ubcfIW4O3w8BinAualdsVFl6my.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53,
+            28
+        ],
+        "id": 505971,
+        "original_language": "ta",
+        "original_title": "தடம்",
+        "overview": "The murder of a youngster creates confusion among a few cops when they find out that the one accused in the crime has a look-alike!",
+        "popularity": 10.522,
+        "poster_path": "/zRpFDalex2eiBU6YvyX2zODPvny.jpg",
+        "release_date": "2019-03-01",
+        "title": "Thadam",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jFMJH4m8r3Ow68E9J8sOWHjTHbd.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 165023,
+        "original_language": "ja",
+        "original_title": "縄張はもらった",
+        "overview": "Emerging from a stint in prison, yakuza lieutenant Sumukawa discovers that his gang has disintegrated. An ambitious type, he quickly hooks up with another gang who promise him a prominent position if he helps them deal with a rival family. But bonds are made to be broken, and pledges of loyalty soon give way to competition, betrayal and — naturally — retaliation.",
+        "popularity": 10.522,
+        "poster_path": "/eDRxycpG6tbxAyiF5Ayno8YsBCX.jpg",
+        "release_date": "1968-10-05",
+        "title": "Retaliation",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/licFygndznzRj9S4GLIZQru3FgM.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 169982,
+        "original_language": "ja",
+        "original_title": "キッドナップ・ブルース",
+        "overview": "A man and a little girl meet in a bicycle parking in Tokyo. The little girl says she wants to watch the sea, and their travel begins. The man does not intend to be a kidnapper – he asks the girl to phone her mother and tell her she's with him. During their trip they meet various people, but they always must continue on, lest the man be arrested.",
+        "popularity": 10.52,
+        "poster_path": "/8V6TX21V6pU2ebu0U1bEAIQRDNM.jpg",
+        "release_date": "1982-10-09",
+        "title": "Kidnapping Blues",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zjdNWMrRviyq0ih4ukXgAOzLRV0.jpg",
+        "genre_ids": [
+            80,
+            12,
+            35
+        ],
+        "id": 130296,
+        "original_language": "es",
+        "original_title": "Sinful Davey",
+        "overview": "Davey Haggart is quite certain of his paternity (even if nobody else is) and determined to emulate his father, a notorious rogue and highwayman. This includes breaking a man out of Stirling jail, holding up the stagecoach, and robbing the Duke of Argyll, among other feats. Unfortunately, he is handicapped by the fact that his childhood playmate Annie is equally determined to track him down and save his soul...",
+        "popularity": 10.52,
+        "poster_path": "/aupacjFll3rt7TGIM15nL0flWNO.jpg",
+        "release_date": "1969-02-10",
+        "title": "Sinful Davey",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            28,
+            80
+        ],
+        "id": 157280,
+        "original_language": "pl",
+        "original_title": "Hasło Korn",
+        "overview": "An intelligence agent's murder bring upon a national investigation into a spy organisation called Korn.",
+        "popularity": 10.518,
+        "poster_path": "/1dnGMQZuXYSubbiTGYT4So34Hva.jpg",
+        "release_date": "1968-10-21",
+        "title": "Korn's Password",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53,
+            10770
+        ],
+        "id": 84834,
+        "original_language": "en",
+        "original_title": "Double Indemnity",
+        "overview": "A scheming wife lures an insurance investigator into helping murder her husband and then declare it an accident. The investigator's boss, not knowing his man is involved in it, suspects murder and sets out to prove it.",
+        "popularity": 10.518,
+        "poster_path": "/8UMWYb0WBhF9ptORYh23lYlpCdp.jpg",
+        "release_date": "1973-10-13",
+        "title": "Double Indemnity",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q09Gsi9gPBFZOO3q2YKExlggXVv.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1014390,
+        "original_language": "hi",
+        "original_title": "Bloody Daddy",
+        "overview": "Sumair Azad, a dirty cop and his friend, Jaggi, steal Sikandar Chowdhary's cocaine bag. As a result, Sikandar kidnaps Sumair's son, but things take a turn when he loses the cocaine bag as he faces off Gurugram’s drug lords, a crime boss, murderous narcs and straight cops on one fateful night.",
+        "popularity": 10.517,
+        "poster_path": "/gX8k6oKpIsWHpfWNz3Bu4wUuliA.jpg",
+        "release_date": "2023-06-09",
+        "title": "Bloody Daddy",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4kcUGPbSZZvvTjve3DrJo3erzFT.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 42815,
+        "original_language": "en",
+        "original_title": "The Criminal Code",
+        "overview": "After young Robert Graham commits a murder while drunk and defending his girlfriend, he is prosecuted by ambitious Mark Brady and sentenced to 10 years. Six years later, Brady becomes the prison warden and offers the beleaguered Robert a job as his chauffeur. Robert cleans up his act, but, on the eve of his pardon, his cellmate drags him back into the world of violence, and he faces a difficult choice that could return him to prison.",
+        "popularity": 10.517,
+        "poster_path": "/8avwFTJH1YCEkX4XhAKQkphtw4q.jpg",
+        "release_date": "1931-01-03",
+        "title": "The Criminal Code",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 23
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/y3V9gVSGnrl3M0fAwJsJKbO6knA.jpg",
+        "genre_ids": [
+            80,
+            9648,
+            53
+        ],
+        "id": 72449,
+        "original_language": "en",
+        "original_title": "The Carey Treatment",
+        "overview": "A doctor uncovers a hotbed of corruption when he tries to clear a colleague of a murder charge.",
+        "popularity": 10.514,
+        "poster_path": "/4SWxSm9jW14J4GMdOOsuEj617P.jpg",
+        "release_date": "1972-03-29",
+        "title": "The Carey Treatment",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 26
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fxBH4F46dk8p7iUrFdPctS1JNmK.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 71308,
+        "original_language": "hi",
+        "original_title": "घायल",
+        "overview": "Ajay Mehra leaves for Bombay in order to train to become an international boxer. On his return to New Delhi he however found that his brother Ashok Mehra is missing, he decides to make complaints at the police station but this only leads to frustration. He decides to go and search for his brother himself but still does not find him. Later on Ashok's body is found and Ajay is accused of killing him as well as having an illicit relationship with his sister - in - law Indu Mehra. While in jail Ajay makes friends with some other hardcore convicts, who are good at heart. Then one day they escape the jail by overpowering the guards. But Ajay falls in love with Varsha a journalist who helped in showing Ajay the path to justice in killing the main villain Balwant Rai.",
+        "popularity": 10.514,
+        "poster_path": "/4LpT0OsORcPdrtHnolxRqtU3eo9.jpg",
+        "release_date": "1990-06-22",
+        "title": "Ghayal",
+        "video": false,
+        "vote_average": 6.944,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/cTdu24MEejSTkHcRfUn5lLGtsXN.jpg",
+        "genre_ids": [
+            9648,
+            80,
+            10770,
+            53
+        ],
+        "id": 197328,
+        "original_language": "en",
+        "original_title": "Mystery Woman: Sing Me a Murder",
+        "overview": "Murder is something to sing about when Mystery Woman Samantha Kinsey-an expert in pulp fiction, and increasingly proficient when it comes to real-life crime-untangles a record-breaking murder. Mystery Woman bookshop owner, Samantha Kinsey, has offered to host a charity concert for a once-famous folk-rock trio out to recapture their old fame flame. But sweet success hits the ultimate sour note when the band's promoter is found murdered in his hotel room. Sam and her partner in crime, Philby, investigate, digging up deadly secrets of private indiscretions, professional greed, and personal vengeance that put a twisted spin on fame and fortune-and bring a whole new meaning to a Top Ten hit.",
+        "popularity": 10.513,
+        "poster_path": "/8XnOPZNrdQiaAlBwUmrcU7j40Xo.jpg",
+        "release_date": "2005-02-25",
+        "title": "Mystery Woman: Sing Me a Murder",
+        "video": false,
+        "vote_average": 5.4,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/pG1RoeEwKvPiR0RcvKY8X786FZf.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 546126,
+        "original_language": "ja",
+        "original_title": "日本侠客伝　関東篇",
+        "overview": "Third part of Nihon Kyokakuden series is set in Kanto in 1924. Ken Takakura playing a ship's mate befriending fish shop owners harassed by yakuza.",
+        "popularity": 10.511,
+        "poster_path": "/uV0RSCyjx4BPSw3q6PhLwhJvQwE.jpg",
+        "release_date": "1965-08-12",
+        "title": "The Domain: Kanto Legends of Chivalry",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/otUHHoGWyQUohebcOz1HLQhLgNe.jpg",
+        "genre_ids": [
+            80,
+            28,
+            18
+        ],
+        "id": 890499,
+        "original_language": "ja",
+        "original_title": "狼やくざ　葬いは俺が出す",
+        "overview": "Attacking Asao Uchida's lonely, clifftop mansion in no-holds barred massacre.",
+        "popularity": 10.507,
+        "poster_path": "/pkSBJZ3xiRXzpqAPn4B7FQHO0DK.jpg",
+        "release_date": "1972-11-07",
+        "title": "Yakuza Wolf: Extend My Condolences",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/oGcTh0ghARAc3mj2KnvBeUwPxRQ.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 254490,
+        "original_language": "en",
+        "original_title": "Breakaway",
+        "overview": "When Johnny Matlock whisks away a cold war secret from under the noses of Berlin's top secret agents, his every move is followed when he returns to England. His girlfriend Paula is kidnapped but her handbag is discovered at the scene of the crime by the aristocratic private eye, Duke Martin. Inside it he discovers the secret formula that the agents are searching for and tracks down her sister Paula. As Johnny grows frantic for the safe return of his girlfriend, Duke Martin plays a deadly game of double bluff with the enemy agents.",
+        "popularity": 10.507,
+        "poster_path": "/r52VLEpCECu8OPiXh69gUTB4xUG.jpg",
+        "release_date": "1956-07-16",
+        "title": "Breakaway",
+        "video": false,
+        "vote_average": 5.25,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            28,
+            80
+        ],
+        "id": 26225,
+        "original_language": "en",
+        "original_title": "Ash Wednesday",
+        "overview": "In early 1980s Manhattan, a pair of Irish-American brothers become embroiled in a conflict with the Irish Mob.",
+        "popularity": 10.507,
+        "poster_path": "/sKyxf1nGw0iCIjXzlq6lIsVqq0g.jpg",
+        "release_date": "2002-10-11",
+        "title": "Ash Wednesday",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5TGFRIZkxj64Ee0lpANQsUb9YeO.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749
+        ],
+        "id": 75677,
+        "original_language": "zh",
+        "original_title": "李米的猜想",
+        "overview": "When a mysterious death occurs, the lives of five unexpected strangers are suddenly intertwined together. A drug trafficking crime is unveiled, and through the twist and turns of the investigation, their stories unravel, and a bizarre connection is gradually discovered between them.",
+        "popularity": 10.504,
+        "poster_path": "/3RXELk1wpIx6GX0MQo4exRJiEr4.jpg",
+        "release_date": "2008-09-18",
+        "title": "The Equation of Love and Death",
+        "video": false,
+        "vote_average": 7.25,
+        "vote_count": 40
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ArBlYTgamd8JLMYRPh78hablEfX.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 981020,
+        "original_language": "ja",
+        "original_title": "七人の秘書 THE MOVIE",
+        "overview": "The seven secretaries who consist of the \"Shadow Army\" enjoy peaceful days. They receive a new request from Koichi Ogata, who runs a ramen restaurant in Nagano prefecture. He is furious at land development that is carried out by Alps Raicho Group. The Alps Raicho Group and their Alps Raicho Resort are run by the Tsukumo family. That family exerts tremendous influence around the region. The Tsukumo family seem like a well mannered family, but, in reality, they are a vicious family who will do anything for their own interests.",
+        "popularity": 10.503,
+        "poster_path": "/88obblrjnr1nxM5OdJMjy48vQMj.jpg",
+        "release_date": "2022-10-07",
+        "title": "7 Secretaries: The Movie",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/u6wtiUvaAHBxr8x7RItprFlN593.jpg",
+        "genre_ids": [
+            18,
+            35,
+            10749,
+            80
+        ],
+        "id": 81396,
+        "original_language": "en",
+        "original_title": "Jimmy the Gent",
+        "overview": "An unpolished racketeer, whose racket is finding heirs for unclaimed fortunes, affects ethics and tea-drinking manners to win back the sweetheart who now works for his seemingly upright competitor.",
+        "popularity": 10.501,
+        "poster_path": "/fZuLSS7X5j5SddIwQzp9cJbpK5Y.jpg",
+        "release_date": "1934-03-09",
+        "title": "Jimmy the Gent",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 23
+    }
+]

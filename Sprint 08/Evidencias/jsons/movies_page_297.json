@@ -1,0 +1,395 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/4hnW0HqOfarJbNuFTthBoLA5iVm.jpg",
+        "genre_ids": [
+            53,
+            80,
+            18
+        ],
+        "id": 76808,
+        "original_language": "nl",
+        "original_title": "De Heineken Ontvoering",
+        "overview": "On a cold November day in 1983, beer magnate Alfred Heineken and his chauffeur Ab Doderer are abducted. What follows is the most infamous kidnapping case the Netherlands have ever known.",
+        "popularity": 10.559,
+        "poster_path": "/26VPDxb9HkO6mEvd3G2QBAhTA4y.jpg",
+        "release_date": "2011-10-27",
+        "title": "The Heineken Kidnapping",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ggS7TQgu34Lct30MFwNlxVRJOia.jpg",
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 937046,
+        "original_language": "fr",
+        "original_title": "L'oubliée d'Amboise",
+        "overview": "A violinist is found dead not far from the tomb of DaVinci, in a suspicious position. Captain of the Orléans research section, Alban Dutertre teams up with Officer Bérénice Amarillo. Alban and Bérénice will have to solve the puzzle.",
+        "popularity": 10.558,
+        "poster_path": "/n7Per7QRNDcjTyDg8qHvotOBion.jpg",
+        "release_date": "2022-04-03",
+        "title": "L'oubliée d'Amboise",
+        "video": false,
+        "vote_average": 6.641,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 165548,
+        "original_language": "cn",
+        "original_title": "龍虎砵蘭街",
+        "overview": "Brothers Lung and Fu were raised in Nam Tin housing project. Fu always thought joining the underworld is his only way out. Fu's girlfriend Yi is raped by local bully \"Four Eyes\" Keung. In a rage Lung and Fu attacked Four Eyes and injured him. They know they can't stay in Nam Tin and decide to move to Portland Street for a new life. Later in a gang fight, Fu insults Keung's boss, Crazy Fai and is chased by him and his gang...",
+        "popularity": 10.556,
+        "poster_path": "/766o0V08BSFrjzfGLYseAnKFKNF.jpg",
+        "release_date": "1996-08-24",
+        "title": "Street of Fury",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jxQaxzwNanwhQVgSFA3Y4FPDpLO.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 29907,
+        "original_language": "en",
+        "original_title": "Restless Natives",
+        "overview": "Two lads in Edinburgh embark on a non-violent spree of robberies. They dress up in clown masks and act as modern highwaymen, robbing coach loads of tourists in the highlands. In the process they become folk heroes to the locals. Their adventures make for a whimsical and gentle comedy, in the Bill Forsyth vein.",
+        "popularity": 10.553,
+        "poster_path": "/93wlkxjiKlg3ApJozJkKVgbuQaE.jpg",
+        "release_date": "1985-06-01",
+        "title": "Restless Natives",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 31
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3xSdbpUi7Wv3x5SDA9E8YdkKq7Y.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 1026380,
+        "original_language": "cn",
+        "original_title": "壹獄壹世界II：劫數難逃",
+        "overview": "Wrongfully imprisoned in a brutal multinational prison, a Hong Kong businessman must escape the sadistic warden's torture to survive.",
+        "popularity": 10.552,
+        "poster_path": "/oHd0af5RW2mWtD2YniENkSYAPR8.jpg",
+        "release_date": "2023-12-14",
+        "title": "Imprisoned: There Is No Escape From Fate",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qA33lIPhgCmai8mDMiRNWG3ejhc.jpg",
+        "genre_ids": [
+            80,
+            28,
+            53
+        ],
+        "id": 343689,
+        "original_language": "sv",
+        "original_title": "Johan Falk: Slutet",
+        "overview": "The unknown, large mafia organization is now showing its true face. The pressure that GSI and John Falk and his family have put on the organization, makes them fight back on all fronts. The rule book is thrown out. But to go after Johan Falk's family and trying to kill his wife could be the biggest mistake the organization has ever made. GSI closes up around Johan's family and the final battle begins ...",
+        "popularity": 10.551,
+        "poster_path": "/k5B441WwNm37dhOIYbAMIoivHcj.jpg",
+        "release_date": "2015-08-24",
+        "title": "Johan Falk: The End",
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 27
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zbuqfxZyOGk2VCjulPEFjKSGxX1.jpg",
+        "genre_ids": [
+            18,
+            28,
+            53,
+            80
+        ],
+        "id": 14575,
+        "original_language": "en",
+        "original_title": "The Crew",
+        "overview": "Hoping to raise enough capital to finance a legitimate business and leave behind his life of crime, Liverpool underworld boss Ged Brennan sends his brother Ratter and a crew to pull a daring final heist. But when Ratter kills a drug kingpin during the job, Brennan must turn to rival crook Franner to avert an all-out gangland war.",
+        "popularity": 10.55,
+        "poster_path": "/eDSuRzCRM9a2N8L6nDC5KQFoHRA.jpg",
+        "release_date": "2008-10-01",
+        "title": "The Crew",
+        "video": false,
+        "vote_average": 5.957,
+        "vote_count": 58
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 100279,
+        "original_language": "en",
+        "original_title": "Manhunter",
+        "overview": "Pilot movie for the short-lived TV series set in the 1930's about a World War I ex-marine-turned-bounty-hunter, named Dave Barrett, who goes after two Bonnie-and-Clyde style bank robbers who murdered his former girlfriend.",
+        "popularity": 10.545,
+        "poster_path": "/jkVpV6Crjc6i7sf5EjezAqam5oY.jpg",
+        "release_date": "1974-02-26",
+        "title": "Manhunter",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/zEHMzsJRWMLcXXboNb9JsyRUKLv.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 476673,
+        "original_language": "en",
+        "original_title": "Snow Steam Iron",
+        "overview": "“Snow gently falls on the blood-stained streets of a seedy out-of-time New York City. Steam envelopes the nightmare unfolding within its narrow alleys. Iron is the will of the one who would dare to resist… fight… survive.”",
+        "popularity": 10.542,
+        "poster_path": "/tUZC6c3iTsES5D5QSEZs6Db8ISm.jpg",
+        "release_date": "2017-09-19",
+        "title": "Snow Steam Iron",
+        "video": false,
+        "vote_average": 7.659,
+        "vote_count": 66
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ghJPRcW7cnWnPGkomW8vEgAOXYP.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 118003,
+        "original_language": "es",
+        "original_title": "El Rey del Barrio",
+        "overview": "A poor man becomes a modern Robin Hood, robbing the rich to give to the poor.",
+        "popularity": 10.542,
+        "poster_path": "/rILVrf8bAjacrxJRzoxFgkLTa9Y.jpg",
+        "release_date": "1950-02-04",
+        "title": "The King of the Neighborhood",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 55
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/baWaggqRR1OiMImqIQwdNz4ggcW.jpg",
+        "genre_ids": [
+            10751,
+            35,
+            80
+        ],
+        "id": 12592,
+        "original_language": "da",
+        "original_title": "Olsen-banden går i krig",
+        "overview": "Some criminal EU ministers plan to turn Denmark into a gigantic fair ground and holiday paradise. Egon gets his hand at some important documents which could both make him rich and take care of Denmark's future.",
+        "popularity": 10.541,
+        "poster_path": "/3i8vNc8tJPsRFsEKRDnwrQ6KDfb.jpg",
+        "release_date": "1978-10-06",
+        "title": "The Olsen Gang Goes to War",
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 47
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 974713,
+        "original_language": "mr",
+        "original_title": "Nay Varan Bhat Loncha Kon Nai Koncha",
+        "overview": "This movie is a brutal look at coming of age in a city whose citizens have been famished by brutality and sin for centuries. It is said that the night sky of Mumbai has been forever haunted - hiding the beautiful twinkling stars by the curse of countless lives lost in a ruthlessly expanding city. The film, soaked in the fog of these ancestors, explores what it takes to grow up in a deprived community, looking to satiate the hunger of one's soul. Enacted by two young souls, The film is a director's masterpiece.",
+        "popularity": 10.54,
+        "poster_path": "/w44lbLfseKtOZWRDdGmPqEqMBsA.jpg",
+        "release_date": "2022-01-14",
+        "title": "Nay Varan Bhat Loncha Kon Nai Koncha",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rwkhcg2ms5oN2TgN7xZyyBnUcTj.jpg",
+        "genre_ids": [
+            80,
+            18,
+            37
+        ],
+        "id": 197297,
+        "original_language": "tr",
+        "original_title": "Hudutların Kanunu",
+        "overview": "In Deliviran, a village near Urfa close to the Syrian border, Hidir’s chief is involved in smuggling and gets shot. Hidir tries to stay out of illegal activities but circumstances contrive to push him in the opposite direction until he accepts to take a herd of sheep across the border.",
+        "popularity": 10.539,
+        "poster_path": "/bGpWiiHLH1ji1lRWC4kIXAZ2b3O.jpg",
+        "release_date": "1966-10-04",
+        "title": "Law of the Border",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 369727,
+        "original_language": "ja",
+        "original_title": "犬笛",
+        "overview": "Shiro Akitsu goes on a relentless search for his abducted 7-year-old daughter, with the aid of an Ainu dog summoned by a whistle she gave him.",
+        "popularity": 10.538,
+        "poster_path": "/pzu4QaUscFRLaKgEBb9arq9z10B.jpg",
+        "release_date": "1978-03-31",
+        "title": "Shag",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aIZDssvWpzniJNSWOZfgkikM7Pj.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18,
+            53
+        ],
+        "id": 864221,
+        "original_language": "te",
+        "original_title": "భోళా శంకర్",
+        "overview": "A reformed gangster now taxi driver unwittingly draws the vengeance of a crime syndicate after aiding the police in busting a smuggling operation. Fueled by a burning desire for justice and to protect his adopted sister, he embarks on a relentless quest to hunt down the mobsters responsible.",
+        "popularity": 10.536,
+        "poster_path": "/hgip2gbwu19ITJw1KvzLjKHIInt.jpg",
+        "release_date": "2023-08-10",
+        "title": "Bhola Shankar",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/eK9MQizfCw2k2qbz1zWrSdTqxCA.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 537316,
+        "original_language": "ja",
+        "original_title": "暴力金脈",
+        "overview": "Hiroshi, a small-time racketeer, makes a name for himself extorting vulnerable companies and their directors for financial gain.",
+        "popularity": 10.529,
+        "poster_path": "/88af56Xq8d2cs8WgCb2ryknEKiW.jpg",
+        "release_date": "1975-08-09",
+        "title": "Company Buggers",
+        "video": false,
+        "vote_average": 7.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5WWWGudWhdkB7orI7yAZJfGSApI.jpg",
+        "genre_ids": [
+            18,
+            80,
+            10770
+        ],
+        "id": 151882,
+        "original_language": "en",
+        "original_title": "Murder in Texas",
+        "overview": "Dramatization of the sensational Texas court case of the late '60s involving a noted Houston plastic surgeon accused of doing away with his socially prominent first wife in order to marry someone else.",
+        "popularity": 10.527,
+        "poster_path": "/woy56fAD1NUE9L8l7a9wTUkz4Gy.jpg",
+        "release_date": "1981-05-03",
+        "title": "Murder in Texas",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a6ApNaEOl6ZwDGyd22pvoRKLt3T.jpg",
+        "genre_ids": [
+            9648,
+            53,
+            80,
+            27
+        ],
+        "id": 91255,
+        "original_language": "it",
+        "original_title": "La morte accarezza a mezzanotte",
+        "overview": "Valentina, a beautiful fashion model, takes an experimental drug as part of a scientific experiment. While influenced by the drug, Valentina has a vision of a young woman being brutally murdered with a viciously spiked glove. It turns out that a woman was killed in exactly the same way not long ago and soon Valentina finds herself stalked by the same killer.",
+        "popularity": 10.526,
+        "poster_path": "/bX1jBD122XfAdJKiRN1AxKlz0oI.jpg",
+        "release_date": "1972-11-17",
+        "title": "Death Walks at Midnight",
+        "video": false,
+        "vote_average": 6.241,
+        "vote_count": 56
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6CtTpvOHyXo4QQd4wvFVhHbBwSs.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 76597,
+        "original_language": "fr",
+        "original_title": "K",
+        "overview": "In this French crime film, set during the time of the Gulf War, an elderly German tourist is murdered in Paris by junk dealer Joseph Katz (Pinkas Braun), a friend of Paris detective Sam Bellamy (singer Patrick Bruel). Romantically involved with the victim's daughter Emma Guter (Isabella Ferrari), Bellamy covers up the crime he witnessed. Joseph then mysteriously vanishes, and Bellamy heads for Berlin where the victim's possessions are auctioned. After Bellamy finds the source of the well-hidden traffic in art stolen by Nazis from French Jews, he discovers a Nazi war criminal is blackmailing past associates. Incorporating background from journalist Hector Feliciano's Lost Museum, the film is adapted from Guy Konopnicki's novel, Pas de Kaddish pour Sylberstein (No Kaddish for Sylberstein).",
+        "popularity": 10.526,
+        "poster_path": "/34JN5ZW3J9dlaIs4UmBL3YjPQqv.jpg",
+        "release_date": "1997-08-27",
+        "title": "K",
+        "video": false,
+        "vote_average": 5.823,
+        "vote_count": 62
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/uDNytDhPxak4bGEu5866pVdCA5R.jpg",
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 612513,
+        "original_language": "ja",
+        "original_title": "スマホを落としただけなのに 囚われの殺人鬼",
+        "overview": "A couple of months have passed since the serial murder case. A new dead body is found in the same area. Detective Manabu Kagaya tries to find the truth. He goes to see serial killer Yoshiharu Urano in prison.",
+        "popularity": 10.524,
+        "poster_path": "/63zrItFrrhaH9L087I6V8Otprqv.jpg",
+        "release_date": "2020-02-21",
+        "title": "Stolen Identity 2",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 6
+    }
+]

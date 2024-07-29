@@ -1,0 +1,396 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            27,
+            53,
+            80
+        ],
+        "id": 40371,
+        "original_language": "cn",
+        "original_title": "烹屍之喪盡天良",
+        "overview": "The dismembered body of a hooker is found, and police arrest her pimp and his crew for the crime. During interrogation, they explain how the girl stole from her pimp, and so they group kidnapped, raped, tortured, and finally murdered and dismembered her.",
+        "popularity": 8.517,
+        "poster_path": "/axuvV9hrzWZrgySgNqwCcNDCLL.jpg",
+        "release_date": "2001-01-05",
+        "title": "Human Pork Chop",
+        "video": false,
+        "vote_average": 4.571,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/biPRygMgSHlacOCCwfx08msU7wT.jpg",
+        "genre_ids": [
+            80,
+            53,
+            9648
+        ],
+        "id": 33389,
+        "original_language": "en",
+        "original_title": "City in Darkness",
+        "overview": "Chan, in Paris for a reunion with friends from World War I, becomes involved in investigating the murder of a munitions manufacturer who was supplying arms to the enemy, even as the rising clouds of World War II force the city into nightly blackout status..",
+        "popularity": 8.514,
+        "poster_path": "/rOv6CRm8WcUI7wsvUcfwk01lqWS.jpg",
+        "release_date": "1939-11-15",
+        "title": "City in Darkness",
+        "video": false,
+        "vote_average": 6.367,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/AkHDdS3WJ8WbuWD1PqeyZzPGeJx.jpg",
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 1193541,
+        "original_language": "fr",
+        "original_title": "Tout le monde ment 2",
+        "overview": "",
+        "popularity": 8.513,
+        "poster_path": "/sV0q6UVqbQ8c8uyiQX9r6Nwsq5k.jpg",
+        "release_date": "2024-03-05",
+        "title": "Tout le monde ment 2",
+        "video": false,
+        "vote_average": 6.917,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p21GQCpDBAjOq5BfEJ1k9L3bqTE.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 880156,
+        "original_language": "zh",
+        "original_title": "該死的阿修羅",
+        "overview": "On his 18th birthday, Jan Wen shoots randomly at the crowds in a night market for unknown reasons. The tragic incident causes a strong impact on the lives of his family and friends, the victims and the witnesses. However, if there was a chance for them to make different choices, would the tragedy still happen? Will it be a different outcome if they all changed their behaviour at the crucial moment?",
+        "popularity": 8.508,
+        "poster_path": "/hDMZ6VRbYu30yx64ZRs9WrbdgiX.jpg",
+        "release_date": "2022-03-11",
+        "title": "Goddamned Asura",
+        "video": false,
+        "vote_average": 6.75,
+        "vote_count": 12
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/kh1QrAVSpvGcRWOl8eqxvxtRy5n.jpg",
+        "genre_ids": [
+            80,
+            35,
+            9648,
+            53
+        ],
+        "id": 411434,
+        "original_language": "zh",
+        "original_title": "蜜月酒店杀人事件",
+        "overview": "Wu Dazhi is a doorman at a luxury hotel. He uses his vacation in exchange of a presidential suite at the hotel to satisfy his wife's wish. However, the manager gives the presidential suite to a celebrity and breaks the deal with him. He tries to ask bargain with the movie star, but strange things happen during his dealing, and a conspiracy begins.",
+        "popularity": 8.508,
+        "poster_path": "/9lbLYTpceUiKU7s7cesmQ6XmhxT.jpg",
+        "release_date": "2016-05-27",
+        "title": "Murder at Honeymoon Hotel",
+        "video": false,
+        "vote_average": 3.3,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/q2YpWb0Wl4ecZJIMzhzirtn3rYO.jpg",
+        "genre_ids": [
+            18,
+            35,
+            80
+        ],
+        "id": 150043,
+        "original_language": "en",
+        "original_title": "Something For Everyone",
+        "overview": "An opportunistic young man working as a servant to a European countess uses his sexual talents to better his station in life.",
+        "popularity": 8.508,
+        "poster_path": "/qJwBSnDLtcIETEAwx1rrop3SIm1.jpg",
+        "release_date": "1970-07-22",
+        "title": "Something For Everyone",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 17
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/n2lALnzvdEIzDz7ZtRU0SfD9wwl.jpg",
+        "genre_ids": [
+            10752,
+            12,
+            28,
+            80
+        ],
+        "id": 84315,
+        "original_language": "en",
+        "original_title": "Active Stealth",
+        "overview": "After Captain Murphy lost some of his men on his last mission to Mexico to bring back a US Senator, he has been plagued with unhappiness and bad dreams. When Murphy is given orders to go back to Mexico to help Mexican people slaving for Salvatore, a rich drug dealer, he must use a new technology plane to get there. The plane is technically advanced with a new protection luxury called 'Active Stealth'. Murphy and his men get aboard the 'Active Stealth', piloted by Hollywood who dreams of being an actor and embark to Mexico. The action never stops from then on when Salvatore sends his men in to block them from getting through.",
+        "popularity": 8.508,
+        "poster_path": "/yphpxhZ7ycC1eO29nNYVNuFDm8s.jpg",
+        "release_date": "1999-07-11",
+        "title": "Active Stealth",
+        "video": false,
+        "vote_average": 3.2,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/z3y6V1GnrGEyzi2w1nNY8RN5VZY.jpg",
+        "genre_ids": [
+            80,
+            10770
+        ],
+        "id": 215784,
+        "original_language": "fr",
+        "original_title": "Désiré Landru",
+        "overview": "Désiré Landru - husband, lover - and murderer. Based on documented facts, this is the full story of one of the most ambiguous criminals and lovers of the 20th century, the first modern serial killer.",
+        "popularity": 8.506,
+        "poster_path": "/9CRjIYJpN1tuwCCbWkjNHjJIPMT.jpg",
+        "release_date": "2005-09-19",
+        "title": "Désiré Landru",
+        "video": false,
+        "vote_average": 5.85,
+        "vote_count": 10
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bDxJzTQTHFenVXWZMHKaHHkOLWE.jpg",
+        "genre_ids": [
+            35,
+            10749,
+            80,
+            9648
+        ],
+        "id": 47156,
+        "original_language": "en",
+        "original_title": "It's a Wonderful World",
+        "overview": "Detective Guy Johnson's client, Willie Heywood, is framed for murder. While Guy hides him so he can catch the real killer, both of them are nabbed by the police, tried, convicted and sentenced to jail: Guy for a year with Willie to be executed. On the way to jail, Guy comes across a clue and escapes from the police.",
+        "popularity": 8.506,
+        "poster_path": "/9hhZwERR4bOzkqK3kJ6UAnJ3fY7.jpg",
+        "release_date": "1939-05-19",
+        "title": "It's a Wonderful World",
+        "video": false,
+        "vote_average": 6.385,
+        "vote_count": 39
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/Ae9sZjblxsyGF0cwFBGc85OpZMx.jpg",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "id": 914241,
+        "original_language": "es",
+        "original_title": "Operación Feliz Navidad: La estafa de los duendes",
+        "overview": "The plan of three small-time pickpockets to pull the heist of their lives during Christmas, posing as elves in a Christmas show in one of the most exclusive shopping centers in the city where they will collect private information from some wealthy families, then rob their homes while they enjoy their December vacation.",
+        "popularity": 8.505,
+        "poster_path": "/is2wNqEH4CBw5JsrWzpDG1boQBj.jpg",
+        "release_date": "2021-12-11",
+        "title": "Operation Merry Christmas: The Elf Con",
+        "video": false,
+        "vote_average": 7.071,
+        "vote_count": 42
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 779158,
+        "original_language": "fr",
+        "original_title": "Sirius",
+        "overview": "Five days before D-Day, the day of the last voyage of the Order of Sirius, a sect nestled in the Vaudoise Alps, Switzerland. Five days during which a community of 48 people, women, men, children, fed with esotericism and guided by a narcissistic guru, will test their faith and be deprived of their identity. Five days in which every gesture will be the last. Sirius is inspired by the massacre of the Order of the Solar Temple in 1994 in western Switzerland.",
+        "popularity": 8.504,
+        "poster_path": "/iUIZHBAMVjyK39F3E2BzNBsygre.jpg",
+        "release_date": "2018-01-25",
+        "title": "Sirius",
+        "video": false,
+        "vote_average": 2.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/f73ow7iHA57TBaD6BvM8zgmARel.jpg",
+        "genre_ids": [
+            80,
+            53,
+            28
+        ],
+        "id": 435161,
+        "original_language": "ta",
+        "original_title": "துருவ நட்சத்திரம்: அத்தியாயம் ஒன்று - யுத்த காண்டம்",
+        "overview": "John, a New York City-based undercover operative and his team, are entrusted with a secret mission to bring back their team leader, who has been missing mysteriously.",
+        "popularity": 8.504,
+        "poster_path": "/aVSBspTb6H0LZnUtJYvDncmGMlv.jpg",
+        "release_date": "",
+        "title": "Dhruva Natchathiram: Chapter One – Yuddha Kaandam",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 179825,
+        "original_language": "pl",
+        "original_title": "Polski Crash",
+        "overview": "Early 90's. The political and economic landscape of Poland, Russia and Germany is changing. Both good and bad sides of freedom are revealed. The mafia is becoming more and more bold, operating without obstacles across borders. One of the more lucrative \"businesses\" is the trade in luxury cars, stolen in Germany and transferred to Russia by Russia.",
+        "popularity": 8.504,
+        "poster_path": "/iHHQ41f5qwVnBjGdydhI1JY4FNw.jpg",
+        "release_date": "1994-01-25",
+        "title": "Polski Crash",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/87Jyyx02Qbae94Esmyy1reY1WnQ.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 116185,
+        "original_language": "ta",
+        "original_title": "Billa II",
+        "overview": "Small-time diamond smuggler David befriends Goa-based gangster Abbasi. But when David begins to build inroads with an international gangster, Abbasi is not happy, and soon the two turn into bitter rivals.",
+        "popularity": 8.503,
+        "poster_path": "/gADzX6C4pGHneBoU148LXFMDyMr.jpg",
+        "release_date": "2012-07-13",
+        "title": "Billa II",
+        "video": false,
+        "vote_average": 5.917,
+        "vote_count": 30
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mFhq83UGVxlQ0PuR3z0ScOkssio.jpg",
+        "genre_ids": [
+            28,
+            80,
+            18
+        ],
+        "id": 308839,
+        "original_language": "ja",
+        "original_title": "リボルバー",
+        "overview": "When a gun belonging to a police officer is stolen, it ends up in the hands of a student, who decides to use it on a yakuza who beat him recently. Now the police officer is hot on the student’s trail, and he’s determined to prevent the gun from going off.",
+        "popularity": 8.502,
+        "poster_path": "/7oagpfdHQSgjtCNniO4mTkgaGIc.jpg",
+        "release_date": "1988-10-22",
+        "title": "Revolver",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/40EJ7LogJjhpCB3mjx3ICfS8raY.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 103073,
+        "original_language": "hi",
+        "original_title": "अर्ध सत्य",
+        "overview": "A newly appointed police rookie deals with corruption, romance, and brutality.",
+        "popularity": 8.502,
+        "poster_path": "/uBefh0aCQ3OJu48Fzk5CWPvBAhg.jpg",
+        "release_date": "1983-08-19",
+        "title": "Ardh Satya",
+        "video": false,
+        "vote_average": 6.893,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1wUioHSOhkJbcST49MQAZBmJjGX.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "id": 245564,
+        "original_language": "en",
+        "original_title": "Exclusive",
+        "overview": "When Mountain City racketeer Charles Gillette is acquitted, he arrives at the Mountain City World newsroom and vows revenge on the Better Government Committee who put him behind bars. Members of the committee include Colonel Bogardus, owner of the World , Horace Mitchell, a candidate for mayor, and Mr. Franklin, a department store owner. First Gillette buys a rival newspaper, the Sentinel , and offers a pricey editorship to World newsman Ralph Houston, who refuses the offer on principle. That evening, Ralph and his partner, Tod Swain, are greeted at home by a creditor, and Vina Swain, Ralph's fiancée, is furious to find out he turned down Gillette's offer. When she learns Ralph went into debt to put her through college, she warns Gillette of a police raid and pays back Ralph's debt with Gillette's renumeration. When Ralph orders Vina not to work for Gillette, she breaks their engagement.",
+        "popularity": 8.501,
+        "poster_path": "/hJgfFc8UjwKUg0XPF1E4RVPhS5B.jpg",
+        "release_date": "1937-08-06",
+        "title": "Exclusive",
+        "video": false,
+        "vote_average": 6.0,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/r3RDMpTou68u0dBuhKHcBz2wTel.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            80,
+            10770
+        ],
+        "id": 97073,
+        "original_language": "en",
+        "original_title": "Perry Mason: The Case of the Skin-Deep Scandal",
+        "overview": "The owner of a cosmetics company is unveiling a new cream which she claims she's been using. She's been keeping her age a secret and now reveals that she's 60 and owes her appearance to the cream. She's later killed and the formula missing. Her husband is arrested and Perry defends him.",
+        "popularity": 8.501,
+        "poster_path": "/K9spdtXD5oMEK2gqJcfgQyxepF.jpg",
+        "release_date": "1993-02-19",
+        "title": "Perry Mason: The Case of the Skin-Deep Scandal",
+        "video": false,
+        "vote_average": 7.286,
+        "vote_count": 7
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yM3ZIKdyKHajhvIx8QbJuBJ9BNE.jpg",
+        "genre_ids": [
+            80,
+            878
+        ],
+        "id": 570587,
+        "original_language": "zh",
+        "original_title": "黑暗迷宫",
+        "overview": "The story starts because of one journey. Seven people who have never met before climb aboard the same ride that goes into a seemingly endless tunnel. Despite the countless trials, corpses that mysteriously appear, past acquaintances that returned from the dead and an unseen danger threatening to swallow them whole, it's as if they are trapped in an enclosed space where there is no escape.",
+        "popularity": 8.5,
+        "poster_path": "/ilju5NjTb6l1IIpT2u2ST6TNg5r.jpg",
+        "release_date": "2018-10-31",
+        "title": "Endless Loop",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/R8Nu7hFbv8Nx4JGV5N1jqgEJcO.jpg",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "id": 227683,
+        "original_language": "es",
+        "original_title": "Jugando con la muerte",
+        "overview": "A Spanish police chief hires an undercover agent, Eagle, to infiltrate a gang of heroin smugglers. Infiltrating the gang, he uses a female agent as a point of contact. However he discovers that there bigger goings-on than dope. The gang is involved in the transportation of smuggled uranium for the manufacture of nuclear arms for sale to Libya and other aspiring third world countries.",
+        "popularity": 8.5,
+        "poster_path": "/8n0kv0xIeMdD39FrLbgTwkBY3pK.jpg",
+        "release_date": "1982-09-10",
+        "title": "Target Eagle",
+        "video": false,
+        "vote_average": 4.9,
+        "vote_count": 7
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            53
+        ],
+        "id": 89728,
+        "original_language": "en",
+        "original_title": "Tomcats",
+        "overview": "When four degenerate thugs rape and murder a young waitress in part of their rape and murder spree, they are arrested, but get away with though a legal technicality. The brother of one of the rape/murder victims decides to become vigilante and kill the four degenerates by himself.",
+        "popularity": 10.807,
+        "poster_path": "/pFwczTHAhYrMzKFnCFTustWzjuF.jpg",
+        "release_date": "1977-04-01",
+        "title": "Tomcats",
+        "video": false,
+        "vote_average": 4.111,
+        "vote_count": 9
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            18,
+            80,
+            53,
+            10770
+        ],
+        "id": 1317500,
+        "original_language": "it",
+        "original_title": "Buio nella Valle",
+        "overview": "The two-episode television drama tells the story of a family willing to do anything to maintain possession of their assets, even two brutal murders that will have to wait more than ten years to reach a solution.",
+        "popularity": 10.805,
+        "poster_path": "/5KgDtpUqv5BkxxX8ZLmcQrVROqQ.jpg",
+        "release_date": "1984-09-20",
+        "title": "Buio nella Valle",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fVa6swVBCHlY9OE2HMcO5MapW1j.jpg",
+        "genre_ids": [
+            80,
+            53
+        ],
+        "id": 956728,
+        "original_language": "ko",
+        "original_title": "폭로",
+        "overview": "Jung-min, a rookie lawyer, becomes Yoona’s public attorney, as she is accused of murdering her husband. Against a nasty prosecutor, a mysterious judge, and all the suspicions surrounding the defendant, Jung-min seeks to unravel the truth behind the conspiracies of the case.",
+        "popularity": 10.805,
+        "poster_path": "/8TL8Jkh5IVfwx6nGaUoRPMZpjUC.jpg",
+        "release_date": "2023-09-30",
+        "title": "Havana",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/a0d2eJmB5Y6XvJ2SsaISu6yRA8F.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10749,
+            53
+        ],
+        "id": 61149,
+        "original_language": "en",
+        "original_title": "Woman in Hiding",
+        "overview": "As far as the rest of the world is concerned, mill heiress Deborah Chandler Clark is dead, killed in a freak auto accident. But Deborah is alive, if not too well. Having discovered a horrible truth about her new husband, Deborah is now a “woman in hiding,” living in mortal fear that someday her husband will catch up with her again. When a returning GI recognizes Deborah, however, she must decide whether or not she can trust him.",
+        "popularity": 10.804,
+        "poster_path": "/aL8gaVJvBPDZZ9Wi0Oc54CcWXpj.jpg",
+        "release_date": "1950-01-06",
+        "title": "Woman in Hiding",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 36
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5TjuibTuQ7T5QbAtsRhyvxhS7id.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 36634,
+        "original_language": "en",
+        "original_title": "The People Against O'Hara",
+        "overview": "A defense attorney jeopardizes his career to save his client.",
+        "popularity": 10.8,
+        "poster_path": "/ljjHON28dyyV3BTQP7FMdwfumW7.jpg",
+        "release_date": "1951-09-01",
+        "title": "The People Against O'Hara",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 24
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/dHwWBqM8LLIGky3E8jHgx37M594.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 26385,
+        "original_language": "en",
+        "original_title": "Walk a Crooked Mile",
+        "overview": "A security leak is found at a Southern California atomic plant. The authorities stand in fear that the information leaked would go to a hostile nation. To investigate the case more efficiently, Dan O'Hara, an FBI agent, and Philip Grayson, a Scotland Yard sleuth, join forces. Will they manage to stop the spy ring from achieving their aim?",
+        "popularity": 10.798,
+        "poster_path": "/4Y3UwnOuCmfnvOehf1CHpvrUgM2.jpg",
+        "release_date": "1948-09-02",
+        "title": "Walk a Crooked Mile",
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/h5dmBhyyLa22w7uViDU1tL5tIpE.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 121837,
+        "original_language": "en",
+        "original_title": "Whatever It Takes",
+        "overview": "Two Los Angeles cops go undercover to investigate the distribution of steroids to wrestlers and body builders.",
+        "popularity": 10.797,
+        "poster_path": "/nJHOhu0e9CDegEsLMhQ45lzhTlb.jpg",
+        "release_date": "1998-11-13",
+        "title": "Whatever It Takes",
+        "video": false,
+        "vote_average": 5.0,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            10770
+        ],
+        "id": 1015728,
+        "original_language": "en",
+        "original_title": "Stone",
+        "overview": "Dennis Weaver is a Joseph Wambaugh-type novelist cop and Pat Hingle is his hard-nosed superior who wants him to stick to police work or get off the force in this pilot to the short-lived series.",
+        "popularity": 10.792,
+        "poster_path": "/zNLQuZm4MbrWAAqZW13Jk0kh5EV.jpg",
+        "release_date": "1979-08-26",
+        "title": "Stone",
+        "video": false,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            53,
+            80
+        ],
+        "id": 171688,
+        "original_language": "en",
+        "original_title": "Aftermath",
+        "overview": "Tom Fiorini (Anthony Michael Hall, The Dead Zone) owns a successful construction company. After his long time foreman goes missing, events take a drastic turn for the worse. During the search for his foreman, Tom plummets down a slippery slope of violence and hired hit men, only to find the fire with which he plays is much hotter than he could have ever expected. Director Thomas Farone (Nate Dogg) brilliantly creates a haunting, emotional film with richly layered performances by its multi award-winning cast—which includes a tour-de-force by the late Chris Penn, in his final film. Absorbing and complex, Aftermath is a Cinequest 23 highlight and a stylish noir crime thriller that will have audiences talking long after.",
+        "popularity": 10.792,
+        "poster_path": "/s7WInfX0FzBcTH8EUMMJSnX1EZd.jpg",
+        "release_date": "2013-11-01",
+        "title": "Aftermath",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mqkMTdffjrgzYOunozqebfriBsN.jpg",
+        "genre_ids": [
+            18,
+            10770,
+            80
+        ],
+        "id": 664747,
+        "original_language": "en",
+        "original_title": "Stolen by My Mother: The Kamiyah Mobley Story",
+        "overview": "At the age of 18, Alexis discovers she was abducted as a baby and the mother she thought was hers is really her kidnapper.",
+        "popularity": 10.791,
+        "poster_path": "/9o93aS1yJlIgwV3iJV3kstAmSfW.jpg",
+        "release_date": "2020-01-18",
+        "title": "Stolen by My Mother: The Kamiyah Mobley Story",
+        "video": false,
+        "vote_average": 8.125,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/x0TvzDq8wRomB0j0UhKYMTh1U7b.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 36522,
+        "original_language": "en",
+        "original_title": "Private Hell 36",
+        "overview": "In New York, a bank robbery of $300,000 goes unsolved for a year, until some of the marked bills are found in a Los Angeles drugstore theft. Police detectives Cal Bruner and Jack Farnham investigate and are led from the drugstore to a nightclub, where singer Lili is another recipient of a stolen bill. With Lili's help, the partners track down the remaining money, but both Lili and Frank are dismayed when Cal decides he wants to keep part of it.",
+        "popularity": 10.791,
+        "poster_path": "/okM3v5AhAaOYUnrmwUuYdVSq3l3.jpg",
+        "release_date": "1954-09-03",
+        "title": "Private Hell 36",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 37
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xIUwiZiSmhqWL8fXgoGUTSfltRa.jpg",
+        "genre_ids": [
+            80,
+            18,
+            10402
+        ],
+        "id": 98079,
+        "original_language": "en",
+        "original_title": "Untamed Youth",
+        "overview": "Two sisters are arrested for skinny-dipping on their way to Los Angeles and are sentenced to labor work on a farm.",
+        "popularity": 10.79,
+        "poster_path": "/lve0y5GxFY5X73mZglymsNbAlO2.jpg",
+        "release_date": "1957-03-15",
+        "title": "Untamed Youth",
+        "video": false,
+        "vote_average": 4.0,
+        "vote_count": 25
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m9uvuBBpy7ZZot0htHMMyQzIKR9.jpg",
+        "genre_ids": [
+            80,
+            18,
+            28
+        ],
+        "id": 854732,
+        "original_language": "en",
+        "original_title": "Rise of the Footsoldier: Origins",
+        "overview": "A brutal account of how real-life, hard-as-nails Falklands War veteran Tony Tucker came to be involved in one of the most notorious gangland murders in British history.",
+        "popularity": 10.789,
+        "poster_path": "/gHgr6BIYFXhwyjBugQRiNw2h19h.jpg",
+        "release_date": "2021-09-03",
+        "title": "Rise of the Footsoldier: Origins",
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18,
+            9648
+        ],
+        "id": 221457,
+        "original_language": "cn",
+        "original_title": "情陷百樂門",
+        "overview": "A police officer gets tangled up in a crimelord's world.",
+        "popularity": 10.788,
+        "poster_path": "/oFcRwoznDRC9PCA5iOie40bfwW.jpg",
+        "release_date": "2000-08-31",
+        "title": "Paramount Motel",
+        "video": false,
+        "vote_average": 3.0,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/iy7i3iJYgGOFr9SXPXRBplYcEpK.jpg",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "id": 38042,
+        "original_language": "en",
+        "original_title": "The Locket",
+        "overview": "A dark personal secret drives a young woman to use every man she encounters.",
+        "popularity": 10.788,
+        "poster_path": "/maLGJ5CDL2vWWqKPsd12bwTxFO8.jpg",
+        "release_date": "1946-12-20",
+        "title": "The Locket",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 38
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5RF9Pc7G5rR1Q9LsaLBZrfDGEl9.jpg",
+        "genre_ids": [
+            28,
+            80
+        ],
+        "id": 118416,
+        "original_language": "cn",
+        "original_title": "洪興仔之江湖大風暴",
+        "overview": "When the son of a gang leader manages to insult the son of a rival gang leader, total war erupts between the rival gangs, and the young hero is forced to do terrible things in order to maintain order and honor.",
+        "popularity": 10.786,
+        "poster_path": "/6ZVfE76gC24TJ7QsswI66cfpfGt.jpg",
+        "release_date": "1996-08-03",
+        "title": "War of the Underworld",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 5
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2fSTvzIb2k2N3yLwSvCEiFBpP3U.jpg",
+        "genre_ids": [
+            80
+        ],
+        "id": 357021,
+        "original_language": "es",
+        "original_title": "La hora del baño",
+        "overview": "A screaming baby awakens madness and bloodlust.",
+        "popularity": 10.783,
+        "poster_path": "/scoH7TEui6N3BDEm9azKQtyO3xm.jpg",
+        "release_date": "2014-06-26",
+        "title": "Bath Time",
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 16
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4gpT7MxxzgglHHQCVhckHLgEJr3.jpg",
+        "genre_ids": [
+            878,
+            80,
+            53
+        ],
+        "id": 31634,
+        "original_language": "en",
+        "original_title": "The Amazing Transparent Man",
+        "overview": "An ex-major forces a scientist to develop a invisibility formula, with which he plans to create an invisible army and sell it to the highest bidder. However there are side effects to the formula.",
+        "popularity": 10.781,
+        "poster_path": "/aOME46GMTef0rkseEi4phAo4gRf.jpg",
+        "release_date": "1960-02-01",
+        "title": "The Amazing Transparent Man",
+        "video": false,
+        "vote_average": 3.821,
+        "vote_count": 53
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yn9WHNSdf0SOXvwvYLJSxB7nMie.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 31172,
+        "original_language": "fr",
+        "original_title": "Diamant 13",
+        "overview": "A cop goes up against his lifelong friend, who has become one of the city's biggest drug traffickers.",
+        "popularity": 10.781,
+        "poster_path": "/m5puoNVUuzvOf5gdnLBFRcVTsus.jpg",
+        "release_date": "2009-06-21",
+        "title": "Diamond 13",
+        "video": false,
+        "vote_average": 5.337,
+        "vote_count": 52
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            80,
+            18
+        ],
+        "id": 174012,
+        "original_language": "en",
+        "original_title": "Young Cesar",
+        "overview": "When Ali Dean went to prison, left behind two sons. Tariq trains to become a boxer, but his brother, Cesar, ends up on the streets dealing drugs. And while Ali is about to be released, even he may not be able to save his wayward son. The deeper Cesar gets into crime, the more important Ali's need to be a father to him becomes.",
+        "popularity": 10.777,
+        "poster_path": null,
+        "release_date": "2007-06-26",
+        "title": "Young Cesar",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 1
+    }
+]
