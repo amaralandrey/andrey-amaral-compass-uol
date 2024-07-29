@@ -48,27 +48,82 @@ Na etapa 01, era preciso criar um job que fizesse o processamento dos dados oriu
 
 - Definição dos caminhos de entrada e saída:
 
-	input_path = "s3://data-lake-andrey-amaral/Raw/Local/CSV/"
-	output_path = "s3://data-lake-andrey-amaral/Trusted/"
+		input_path = "s3://data-lake-andrey-amaral/Raw/Local/CSV/"
+		output_path = "s3://data-lake-andrey-amaral/Trusted/"
 
 - Extração dos dados:
 
-	datasource0 = glueContext.create_dynamic_frame.from_options(
-	    format_options={"withHeader": True},
-	    connection_type="s3",
-	    format="csv",
-	    connection_options={"paths": [input_path]},
-	    transformation_ctx="datasource0"
-	)
+		datasource0 = glueContext.create_dynamic_frame.from_options(
+		    format_options={"withHeader": True},
+		    connection_type="s3",
+		    format="csv",
+		    connection_options={"paths": [input_path]},
+		    transformation_ctx="datasource0"
+		)
 	
 - Transformação dos dados:
-	applymapping1 = ApplyMapping.apply(
-	    frame=datasource0, 
-	    mappings=[("col1", "string", "col1", "string"), ("col2", "int", "col2", "int")],
-	    transformation_ctx="applymapping1"
-	)
+  
+		applymapping1 = ApplyMapping.apply(
+		    frame=datasource0, 
+		    mappings=[("col1", "string", "col1", "string"), ("col2", "int", "col2", "int")],
+		    transformation_ctx="applymapping1"
+		)
+- Conversão para spark dataframe:
+  
+		df = applymapping1.toDF()
 
-	df = applymapping1.toDF()
+- Carregamento dos dados:
+  
+		df.write.mode("append").parquet(output_path)
 
-	df.write.mode("append").parquet(output_path)
+### Etapa 2
+        
+Na etapa 01, era preciso criar um job que fizesse o processamento dos dados oriundos da ingestão batch.
 
+- Definição dos caminhos de entrada e saída:
+
+		input_path = "s3://data-lake-andrey-amaral/Raw/TMDB/"
+		output_path = "s3://data-lake-andrey-amaral/Trusted/"
+
+
+- Extração dos dados:
+
+		datasource0 = glueContext.create_dynamic_frame.from_options(
+		    connection_type="s3",
+		    format="json",
+		    connection_options={"paths": [input_path], "recurse": True},
+		    transformation_ctx="datasource0"
+		)
+  
+- Transformação dos dados:
+
+		applymapping1 = ApplyMapping.apply(
+		    frame=datasource0, 
+		    mappings=[
+		        ("adult", "boolean", "adult", "boolean"),
+		        ("backdrop_path", "string", "backdrop_path", "string"),
+		        ("genre_ids", "array", "genre_ids", "array"),
+		        ("id", "int", "id", "int"),
+		        ("original_language", "string", "original_language", "string"),
+		        ("original_title", "string", "original_title", "string"),
+		        ("overview", "string", "overview", "string"),
+		        ("popularity", "double", "popularity", "double"),
+		        ("poster_path", "string", "poster_path", "string"),
+		        ("release_date", "string", "release_date", "string"),
+		        ("title", "string", "title", "string"),
+		        ("video", "boolean", "video", "boolean"),
+		        ("vote_average", "double", "vote_average", "double"),
+		        ("vote_count", "int", "vote_count", "int"),
+		        ("revenue", "int", "revenue", "int")
+		    ],
+		    transformation_ctx="applymapping1"
+		)
+
+- Conversão para spark dataframe:
+  
+		df = applymapping1.toDF()
+
+- Carregamento dos dados:
+  
+		df.write.mode("overwrite").partitionBy("year", "month", "day").parquet(output_path)
+  
