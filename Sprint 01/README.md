@@ -19,7 +19,7 @@
 - Para agendar a execução da tarefa, foi utilizado o Crontab. 
 - A instrução de agendamento utilizada foi: "27 15 * * 1-4 /bin/bash /home/andrey/andrey-amaral-compass-uol-1/Sprint01/Desafio/Etapa-3/ecommerce/processamento_de_vendas.sh". 
 
-![Print da instrução registrada no Crontab](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint01/Desafio/Etapa-2/desafio-etapa2.png)
+![Print da instrução registrada no Crontab](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2001/Evidencias/desafio-etapa2.png)
 
 3. Criar novo relatório. 
 - Foram criadas três novas versões do arquivo dados_de_vendas.csv.
@@ -40,16 +40,16 @@ Nos foi requerida a realização de atividades utilizando o Github.
 
 - Etapa 01 - Criar um repositório privado e adicionar colaboradores.
 
-![Repositorio criado](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint01/Evidencias/etapa1.1.png)
+![Repositorio criado](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2001/Evidencias/etapa1.1.png)
 
-![Colaboradores adicionados](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint01/Evidencias/etapa1.2.png)
+![Colaboradores adicionados](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2001/Evidencias/etapa1.2.png)
 
 - Etapa 02 - Escolher um editor de código e integrar ao Github.
 O editor que escolhi foi o VSCode.
 
-![Instalando plugging no editor](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint01/Evidencias/etapa2.1.png)
+![Instalando plugging no editor](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2001/Evidencias/etapa2.1.png)
 
-![Clonando o repositorio para o ambiente de integracao](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint01/Evidencias/etapa2.2.png)
+![Clonando o repositorio para o ambiente de integracao](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2001/Evidencias/etapa2.2.png)
 
 - Etapa 03 - Criar um README e escrever apresentação e resumos.
 O Markdown foi criado e está como o README do repositório que foi criado.
@@ -60,6 +60,6 @@ Foram realizados durante a sprint.
 # Certificados
 ## Nesta seção, apresento as últimas telas dos dois cursos que deveriam ser assistidos na sprint 01. Não foram realizados cursos externos.
 
-![Tela do curso de linux](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint01/Certificados/conclusao-curso-linux.png)
+![Tela do curso de linux](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2001/Certificados/conclusao-curso-linux.png)
 
-![Tela do curso de Git/Github](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint01/Certificados/conclusao-curso-git.png)
+![Tela do curso de Git/Github](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2001/Certificados/conclusao-curso-git.png)
