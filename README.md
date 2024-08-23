@@ -96,5 +96,5 @@ Durante a sprint 10, decidi mais uma vez mudar as minhas questões utilizadas pa
 ### AGRADECIMENTOS
 
 Agradeço à Compass/UOL pela oportunidade de participar do programa de bolsas.  
-Agraço à Denise Santos, scrum master da minha turma, por toda atenção, profissionalismo e gentileza dedicada a mim e meus colegas.  
-Agradeço a cada um dos monitores que passaram pela minha turma, especialmente à Thaisa e ao Avner, por todo atenção, comprometimento técnico, sem medo de assumir o que não sabia mas sempre buscando ajudar, pela vontade de deixar algum impacto positivo em nós bolsistas e nos ajudar a crescer tanto no aspecto técnico quanto no comportamental. Hoje eu tenho em quem me inspirar profissionalmente.
+Agradeço à Denise Santos, scrum master da minha turma, por toda a atenção, profissionalismo e gentileza dedicados a mim e aos meus colegas.
+Agradeço a cada um dos monitores que passaram pela minha turma, especialmente à Thaisa e ao Avner, pela atenção, pelo comprometimento técnico sem medo de assumir o que não sabiam, mas sempre buscando a resposta, pela vontade de deixar um impacto positivo em nós, bolsistas, e por nos ajudar a crescer tanto no aspecto técnico quanto no comportamental. Hoje tenho em quem me inspirar profissionalmente.
