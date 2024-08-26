@@ -4,6 +4,9 @@ Nesta sprint, tivemos o desafio de construir um dashboard com os dados da camada
 
 ## Evidências
 
+- Evidência 01: conclusão do curso da sprint.
+- Evidência 02: modelagem dimensional dos dados utilizados nas visualizações.
+- Evidências 03 a 09: visualizações criadas. 
 
 ## Certificados
 
