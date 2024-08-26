@@ -10,4 +10,4 @@ Nesta sprint, tivemos o desafio de construir um dashboard com os dados da camada
 Durante esta sprint fizemos o curso "Complete Introduction to Amazon QuickSight".  
 
 
-![Texto Alternativo](caminho/para/imagem.extensao)
+![Conclusao-curso](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-1.png)
