@@ -20,7 +20,7 @@ Após receber a dica da monitora de ser melhor usar um tema específico do que u
 
 Em razão disso, precisei criar um novo data lake, construir as camadas e modelar o banco de dados.
 
-![Modelagem dimensional do data lake da franquia Batman](caminho/para/imagem.extensao)
+![Modelagem dimensional do data lake da franquia Batman](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-2.jpg)
 
 ### Etapa 1
 
