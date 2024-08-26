@@ -18,14 +18,46 @@ Após receber a dica da monitora de ser melhor usar um tema específico do que u
 
 	Qual o total de bilheteria dos filmes do Batman entre 1989? Qual o mais rentável? E o menos rentável?    
 
-Em razão disso, precisei criar um novo data lake, construir as camadas e modelar o banco de dados.
+Em razão disso, precisei criar um novo data lake, construir as camadas e modelar o banco de dados. Modelagem dimensional do data lake definitivo:
 
-![Modelagem dimensional do data lake da franquia Batman](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-2.jpg)
+![Modelagem dimensional do data lake da franquia Batman](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-2.png)
 
 ### Etapa 1
 
-Como forma de tentar gerar uma narrativa, eu decidi começar modelando visualizações sobre o desempenho de bilheteria da franquia.
+Decidi começar modelando uma visualização para exibir os títulos de filmes analisados e seus respectivos anos de lançamento, usando para isso um heat map. 
+
+![heat map](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-3.png)
 
 
+Em seguida utilizei KPIs para exibir os totais de orçamento investido, receitas domésticas (EUA e Canadá), receitas internacionais e total de bilheteria mundial com exibição do porcentual de lucro em relação ao total investido. 
+
+![kpis](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-4.png)
 
 
+Após, utilizei um campo calculado para descobrir a proporção de receita total pelo valor do orçamento de cada filme.
+
+![barras-grafico](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-5.png)
+
+A fórmula utilizada para o campo calculado foi:  
+	
+ 	(sum({total_revenue}) - sum(budget)) / sum(budget)
+
+
+Na segunda parte do dashboard analisei a popularidade de todos filmes usando um gráfico de barras horizontais.
+
+![barras-grafico](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-6.png)
+
+
+Em seguida, analisei a popularidade dos filmes lançados no anos 1990.
+
+![barras-grafico](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-7.png)
+
+
+Fechando a análise de popularidade, comparei a nota de popularidade com o número de votos de cada filme para concluir que o número de votos não está necessariamente ligado a maior popularidade.
+
+![barras-grafico](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-8.png)
+
+
+Por fim, utilizei a nuvem de palavras para visualizar os gêneros mais recorrentes e os menos recorrentes na franquia Batman.  
+
+![barras-grafico](https://github.com/amaralandrey/andrey-amaral-compass-uol/blob/main/Sprint%2010/Evidencias/evidencia-9.png)
